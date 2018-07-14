@@ -2,7 +2,9 @@
 Pagina para organizar a tradução do Shin Megami Tensei IV.
 
 Tradutores: A pasta "notedited" possui as pastas com textos ainda não traduzidos. Se escolher algum para traduzir, exclua-o da pasta depois de baixá-lo.
-            A pasta "translated" possui as pastas com textos já traduzidos. Quando acabar a tradução de algum arquivo, coloque-o na subpasta correspondente a de onde ele foi retirado.
+            A pasta "edited" possui as pastas com textos já traduzidos. Quando acabar a tradução de algum arquivo, coloque-o na subpasta correspondente a de onde ele foi retirado.
+
+Os arquivos do texto da história principal ainda não foram colocados pois, como eu estou traduzindo essa parte, ainda devo separar as partes.
 
 Qualquer dúvida entrar em contato com a página Velvet Association no facebook.
 
