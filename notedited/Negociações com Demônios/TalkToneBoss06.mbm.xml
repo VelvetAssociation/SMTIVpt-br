@@ -1,0 +1,702 @@
+<mbm>
+  <entry id="0">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F871,1}I believe I said once already that{F801}I would strike you down.{F801}{F802}Now let us do battle!{F801}{F802}</source>
+    <target>{F871,1}I believe I said once already that{F801}I would strike you down.{F801}{F802}Now let us do battle!{F801}{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="4">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F871,1}I believe I said once already that{F801}I would strike you down.{F801}{F802}Now let us do battle!{F801}{F802}</source>
+    <target>{F871,1}I believe I said once already that{F801}I would strike you down.{F801}{F802}Now let us do battle!{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="7">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="9">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="11">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="13">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="14">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="15">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="16">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="17">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="18">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="19">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="20">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="21">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="22">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="23">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="26">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="28">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="30">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="33">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F871,1}Carryong on in the midst of a battle?{F801}What is he thinking...!?{F801}{F802}Even if I were willing to entertain the{F801}notion, you would need to make it worth{F801}my while.{F801}{F802}</source>
+    <target>{F871,1}Carryong on in the midst of a battle?{F801}What is he thinking...!?{F801}{F802}Even if I were willing to entertain the{F801}notion, you would need to make it worth{F801}my while.{F801}{F802}</target>
+  </entry>
+  <entry id="35">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F871,1}Oh, very well. I can at least keep a{F801}civil tongue long enough to engage in{F801}some pointless banter.{F801}{F802}</source>
+    <target>{F871,1}Oh, very well. I can at least keep a{F801}civil tongue long enough to engage in{F801}some pointless banter.{F801}{F802}</target>
+  </entry>
+  <entry id="37">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F871,1}Pointless banter during combat, eh?{F801}Very stylish. Just what I like to see!{F801}{F802}</source>
+    <target>{F871,1}Pointless banter during combat, eh?{F801}Very stylish. Just what I like to see!{F801}{F802}</target>
+  </entry>
+  <entry id="39">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F871,1}It's been a while since I engaged in{F801}such pointless banter... I can't help{F801}but go on and on.{F801}{F802}</source>
+    <target>{F871,1}It's been a while since I engaged in{F801}such pointless banter... I can't help{F801}but go on and on.{F801}{F802}</target>
+  </entry>
+  <entry id="41">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F871,1}You want mercy? Then you had better{F801}make it very worth my while.{F801}{F802}</source>
+    <target>{F871,1}You want mercy? Then you had better{F801}make it very worth my while.{F801}{F802}</target>
+  </entry>
+  <entry id="43">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F871,1}Despite dealing with the likes of you...{F801}Very well. I'll show you mercy.{F801}{F802}</source>
+    <target>{F871,1}Despite dealing with the likes of you...{F801}Very well. I'll show you mercy.{F801}{F802}</target>
+  </entry>
+  <entry id="45">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F871,1}This is my only rest... within sorrow...{F801}Please... do not disturb it...{F801}{F802}If you want assistance... I'll give it...{F801}{F802}</source>
+    <target>{F871,1}This is my only rest... within sorrow...{F801}Please... do not disturb it...{F801}{F802}If you want assistance... I'll give it...{F801}{F802}</target>
+  </entry>
+  <entry id="47">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>{F871,1}Having mercy's not so bad. Why, I'd{F801}even do it again.{F801}{F802}</source>
+    <target>{F871,1}Having mercy's not so bad. Why, I'd{F801}even do it again.{F801}{F802}</target>
+  </entry>
+  <entry id="50">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>{F871,1}Supply you with funds? A young one like{F801}you should find his own...{F801}{F802}</source>
+    <target>{F871,1}Supply you with funds? A young one like{F801}you should find his own...{F801}{F802}</target>
+  </entry>
+  <entry id="52">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>{F871,1}What is this...? Do the youth of this{F801}country lust for nothing but money!?{F801}{F802}</source>
+    <target>{F871,1}What is this...? Do the youth of this{F801}country lust for nothing but money!?{F801}{F802}</target>
+  </entry>
+  <entry id="54">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>{F871,1}You seem to have entirely sold your{F801}pride and self-worth.{F801}{F802}I shall strike you down!{F801}{F802}</source>
+    <target>{F871,1}You seem to have entirely sold your{F801}pride and self-worth.{F801}{F802}I shall strike you down!{F801}{F802}</target>
+  </entry>
+  <entry id="56">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>{F871,1}D-Damn it...!{F801}{F802}</source>
+    <target>{F871,1}D-Damn it...!{F801}{F802}</target>
+  </entry>
+  <entry id="58">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>{F871,1}Stop it...! What about your pride{F801}and self-worth...!?{F801}{F802}</source>
+    <target>{F871,1}Stop it...! What about your pride{F801}and self-worth...!?{F801}{F802}</target>
+  </entry>
+  <entry id="60">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>{F871,1}Stop this! I'll give you money, if that{F801}is what you want. But I'll be a party{F801}to this no longer!{F801}{F802}I don't want to weep for the youth of{F801}this country any further...!{F801}{F802}</source>
+    <target>{F871,1}Stop this! I'll give you money, if that{F801}is what you want. But I'll be a party{F801}to this no longer!{F801}{F802}I don't want to weep for the youth of{F801}this country any further...!{F801}{F802}</target>
+  </entry>
+  <entry id="62">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>{F871,1}...That's it!{F801}{F802}</source>
+    <target>{F871,1}...That's it!{F801}{F802}</target>
+  </entry>
+  <entry id="64">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>{F871,1}Supply you with funds? A young one like{F801}you should find his own...{F801}{F802}</source>
+    <target>{F871,1}Supply you with funds? A young one like{F801}you should find his own...{F801}{F802}</target>
+  </entry>
+  <entry id="66">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>{F871,1}You want to negotiate, eh? Very well,{F801}as long as it does not involves Reds.{F801}{F802}</source>
+    <target>{F871,1}You want to negotiate, eh? Very well,{F801}as long as it does not involves Reds.{F801}{F802}</target>
+  </entry>
+  <entry id="68">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>{F871,1}Our negotiations are complete.{F801}Now, take this.{F801}{F802}</source>
+    <target>{F871,1}Our negotiations are complete.{F801}Now, take this.{F801}{F802}</target>
+  </entry>
+  <entry id="70">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>{F871,1}Hahaha...! I will give you anything{F801}you ask.{F801}{F802}However... that does not include Reds!{F801}{F802}</source>
+    <target>{F871,1}Hahaha...! I will give you anything{F801}you ask.{F801}{F802}However... that does not include Reds!{F801}{F802}</target>
+  </entry>
+  <entry id="72">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>{F871,1}I may as well give you this, too.{F801}{F802}</source>
+    <target>{F871,1}I may as well give you this, too.{F801}{F802}</target>
+  </entry>
+  <entry id="74">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>{F871,1}...The less time this takes, the better.{F801}Let's finish this in one swift strike.{F801}{F802}{F804,1}{F878,1} Macca.{F804,0}{F801}If you can pay that much, then...{F801}{F802}</source>
+    <target>{F871,1}...The less time this takes, the better.{F801}Let's finish this in one swift strike.{F801}{F802}{F804,1}{F878,1} Macca.{F804,0}{F801}If you can pay that much, then...{F801}{F802}</target>
+  </entry>
+  <entry id="76">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>{F871,1}{F804,1}{F872,1}{F804,0} is what I want.{F801}{F802}</source>
+    <target>{F871,1}{F804,1}{F872,1}{F804,0} is what I want.{F801}{F802}</target>
+  </entry>
+  <entry id="78">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="79">
+    <source>{F871,1}Give me {F804,1}{F878,1} Macca.{F804,0}{F801}{F802}</source>
+    <target>{F871,1}Give me {F804,1}{F878,1} Macca.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="80">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="81">
+    <source>{F871,1}Give me {F804,1}a little{F804,0} of your stamina.{F801}{F802}</source>
+    <target>{F871,1}Give me {F804,1}a little{F804,0} of your stamina.{F801}{F802}</target>
+  </entry>
+  <entry id="82">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="83">
+    <source>{F871,1}Give me {F804,1}some{F804,0} of your stamina.{F801}{F802}</source>
+    <target>{F871,1}Give me {F804,1}some{F804,0} of your stamina.{F801}{F802}</target>
+  </entry>
+  <entry id="84">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="85">
+    <source>{F871,1}Give me {F804,1}a lot{F804,0} of your stamina.{F801}{F802}</source>
+    <target>{F871,1}Give me {F804,1}a lot{F804,0} of your stamina.{F801}{F802}</target>
+  </entry>
+  <entry id="86">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="87">
+    <source>{F871,1}Give me {F804,1}the majority{F804,0} of your stamina.{F801}{F802}</source>
+    <target>{F871,1}Give me {F804,1}the majority{F804,0} of your stamina.{F801}{F802}</target>
+  </entry>
+  <entry id="88">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="89">
+    <source>{F871,1}Give me {F804,1}a little{F804,0} of your spirit.{F801}{F802}</source>
+    <target>{F871,1}Give me {F804,1}a little{F804,0} of your spirit.{F801}{F802}</target>
+  </entry>
+  <entry id="90">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="91">
+    <source>{F871,1}Give me {F804,1}some{F804,0} of your spirit.{F801}{F802}</source>
+    <target>{F871,1}Give me {F804,1}some{F804,0} of your spirit.{F801}{F802}</target>
+  </entry>
+  <entry id="92">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="93">
+    <source>{F871,1}Give me {F804,1}a lot{F804,0} of your spirit.{F801}{F802}</source>
+    <target>{F871,1}Give me {F804,1}a lot{F804,0} of your spirit.{F801}{F802}</target>
+  </entry>
+  <entry id="94">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="95">
+    <source>{F871,1}Give me {F804,1}the majority{F804,0} of your spirit.{F801}{F802}</source>
+    <target>{F871,1}Give me {F804,1}the majority{F804,0} of your spirit.{F801}{F802}</target>
+  </entry>
+  <entry id="96">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="97">
+    <source>{F871,1}Your demon there... I want that{F801}{F804,1}{F873,2}'s life.{F804,0}{F801}{F802}</source>
+    <target>{F871,1}Your demon there... I want that{F801}{F804,1}{F873,2}'s life.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="98">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="99">
+    <source>{F871,1}{F804,1}That...{F804,0} Yes, {F804,1}that{F804,0} is exactly{F801}what I want.{F801}{F802}</source>
+    <target>{F871,1}{F804,1}That...{F804,0} Yes, {F804,1}that{F804,0} is exactly{F801}what I want.{F801}{F802}</target>
+  </entry>
+  <entry id="100">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F871,1}Can you figure out what I want?{F801}{F802}</source>
+    <target>{F871,1}Can you figure out what I want?{F801}{F802}</target>
+  </entry>
+  <entry id="102">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F871,1}That's right. Your intuition serves{F801}you well.{F801}{F802}</source>
+    <target>{F871,1}That's right. Your intuition serves{F801}you well.{F801}{F802}</target>
+  </entry>
+  <entry id="104">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F871,1}You don't understand at all...{F801}{F802}</source>
+    <target>{F871,1}You don't understand at all...{F801}{F802}</target>
+  </entry>
+  <entry id="106">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="108">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="110">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="111">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="113">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="114">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="115">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="117">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="118">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="119">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>{F871,1}There, that should be enough.{F801}{F802}</source>
+    <target>{F871,1}There, that should be enough.{F801}{F802}</target>
+  </entry>
+  <entry id="121">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>{F871,1}Hah, this is nice. I like it...!{F801}{F802}</source>
+    <target>{F871,1}Hah, this is nice. I like it...!{F801}{F802}</target>
+  </entry>
+  <entry id="123">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="124">
+    <source>{F871,1}Is that so...? I see.{F801}{F802}</source>
+    <target>{F871,1}Is that so...? I see.{F801}{F802}</target>
+  </entry>
+  <entry id="125">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>{F871,1}Trying to hold out on me, eh? You'll{F801}pay for that.{F801}{F802}I'll cut you down!{F801}{F802}</source>
+    <target>{F871,1}Trying to hold out on me, eh? You'll{F801}pay for that.{F801}{F802}I'll cut you down!{F801}{F802}</target>
+  </entry>
+  <entry id="127">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>{F871,1}That's enough. No more of this.{F801}{F802}</source>
+    <target>{F871,1}That's enough. No more of this.{F801}{F802}</target>
+  </entry>
+  <entry id="129">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="130">
+    <source>{F871,1}Trying to cheat me, eh? You'll pay{F801}for that.{F801}{F802}I'll cut you down!{F801}{F802}</source>
+    <target>{F871,1}Trying to cheat me, eh? You'll pay{F801}for that.{F801}{F802}I'll cut you down!{F801}{F802}</target>
+  </entry>
+  <entry id="131">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="132">
+    <source>{F871,1}...So you don't have it.{F801}{F802}</source>
+    <target>{F871,1}...So you don't have it.{F801}{F802}</target>
+  </entry>
+  <entry id="133">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="134">
+    <source>{F871,1}If you don't have any Life Stones,{F801}there's no point in any of this.{F801}{F802}</source>
+    <target>{F871,1}If you don't have any Life Stones,{F801}there's no point in any of this.{F801}{F802}</target>
+  </entry>
+  <entry id="135">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="136">
+    <source>{F871,1}...Bah, that went on for far too long.{F801}Shame on me for being so churlish.{F801}{F802}</source>
+    <target>{F871,1}...Bah, that went on for far too long.{F801}Shame on me for being so churlish.{F801}{F802}</target>
+  </entry>
+  <entry id="137">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="138">
+    <source>{F871,1}You tried to hold out on me, eh?{F801}You'll pay for that.{F801}{F802}I'll cut you down!{F801}{F802}</source>
+    <target>{F871,1}You tried to hold out on me, eh?{F801}You'll pay for that.{F801}{F802}I'll cut you down!{F801}{F802}</target>
+  </entry>
+  <entry id="139">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="140">
+    <source>{F871,1}I'm impressed that you won't yield an{F801}inch to my demands.{F801}{F802}</source>
+    <target>{F871,1}I'm impressed that you won't yield an{F801}inch to my demands.{F801}{F802}</target>
+  </entry>
+  <entry id="141">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="142">
+    <source>{F871,1}Throughout these negotiations, you've{F801}given me everything I want...{F801}{F802}But what I really want is for the youth{F801}of Tokyo not to be so spineless.{F801}{F802}</source>
+    <target>{F871,1}Throughout these negotiations, you've{F801}given me everything I want...{F801}{F802}But what I really want is for the youth{F801}of Tokyo not to be so spineless.{F801}{F802}</target>
+  </entry>
+  <entry id="143">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="144">
+    <source>{F871,1}A youth who fights despite having{F801}nothing in the world...{F801}{F802}Your spirit is impressive.{F801}{F802}</source>
+    <target>{F871,1}A youth who fights despite having{F801}nothing in the world...{F801}{F802}Your spirit is impressive.{F801}{F802}</target>
+  </entry>
+  <entry id="145">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="146">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="147">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="148">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="149">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="150">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="151">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="152">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="153">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="154">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="155">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="156">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="157">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="158">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="159">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="160">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="161">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="162">
+    <source>{F871,1}Are we on this subject again...?{F801}I'm growing bored of it, you know.{F801}{F802}</source>
+    <target>{F871,1}Are we on this subject again...?{F801}I'm growing bored of it, you know.{F801}{F802}</target>
+  </entry>
+  <entry id="163">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="164">
+    <source>{F871,1}...I had wept for the fate of this{F801}country alone for a while.{F801}{F802}But now, {F843,0}, you and I must{F801}go to see our pride through.{F801}{F802}</source>
+    <target>{F871,1}...I had wept for the fate of this{F801}country alone for a while.{F801}{F802}But now, {F843,0}, you and I must{F801}go to see our pride through.{F801}{F802}</target>
+  </entry>
+  <entry id="165">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="166">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="167">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="168">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="169">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="170">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="171">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="172">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="173">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="174">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+</mbm>

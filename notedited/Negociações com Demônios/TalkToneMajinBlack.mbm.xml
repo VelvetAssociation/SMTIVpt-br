@@ -1,0 +1,702 @@
+<mbm>
+  <entry id="0">
+    <source>ダミーメッセージ{F801}</source>
+    <target>ダミーメッセージ{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F871,1}My scale is swaying... Could it be{F801}that you are the cause?{F801}{F802}I will test whether you are truly{F801}capable of such...{F801}{F802}</source>
+    <target>{F871,1}My scale is swaying... Could it be{F801}that you are the cause?{F801}{F802}I will test whether you are truly{F801}capable of such...{F801}{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="4">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F871,1}Death is always at a Fiend's side...{F801}A mere gesture from me signals whether{F801}you will be its next prey.{F801}{F802}Answer my question and fight. That will{F801}determine whether you should live in{F801}darkness or feel Death's embrace...{F801}{F802}</source>
+    <target>{F871,1}Death is always at a Fiend's side...{F801}A mere gesture from me signals whether{F801}you will be its next prey.{F801}{F802}Answer my question and fight. That will{F801}determine whether you should live in{F801}darkness or feel Death's embrace...{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="7">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="9">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="11">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="13">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="14">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="15">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="16">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="17">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="18">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="19">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="20">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="21">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="22">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="23">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F871,1}The encroaching battle with Death...{F801}You would attempt to thwart its designs?{F801}{F802}Very well... but you will pay a dear{F801}price for this.{F801}{F802}</source>
+    <target>{F871,1}The encroaching battle with Death...{F801}You would attempt to thwart its designs?{F801}{F802}Very well... but you will pay a dear{F801}price for this.{F801}{F802}</target>
+  </entry>
+  <entry id="26">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F871,1}A promise is a promise... Go and{F801}continue living.{F801}{F802}</source>
+    <target>{F871,1}A promise is a promise... Go and{F801}continue living.{F801}{F802}</target>
+  </entry>
+  <entry id="28">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F871,1}This... heaviness is... hard to resist...{F801}That... will not do...{F801}{F802}Perhaps... this battle should be...{F801}suspended... Allow me to sleep...{F801}for now...{F801}{F802}</source>
+    <target>{F871,1}This... heaviness is... hard to resist...{F801}That... will not do...{F801}{F802}Perhaps... this battle should be...{F801}suspended... Allow me to sleep...{F801}for now...{F801}{F802}</target>
+  </entry>
+  <entry id="30">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F871,1}...Wait. Allow me to heal you.{F801}{F802}If you are going to cling to life, then{F801}you should do so wholeheartedly...{F801}{F802}</source>
+    <target>{F871,1}...Wait. Allow me to heal you.{F801}{F802}If you are going to cling to life, then{F801}you should do so wholeheartedly...{F801}{F802}</target>
+  </entry>
+  <entry id="33">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F871,1}Idle chatter... Is this how you would{F801}greet your death?{F801}{F802}Very well... but you will pay a dear{F801}price for this.{F801}{F802}</source>
+    <target>{F871,1}Idle chatter... Is this how you would{F801}greet your death?{F801}{F802}Very well... but you will pay a dear{F801}price for this.{F801}{F802}</target>
+  </entry>
+  <entry id="35">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F871,1}Listen to the idle chatter of a Fiend...{F801}Whether it be life or death that awaits{F801}beyond...{F801}{F802}</source>
+    <target>{F871,1}Listen to the idle chatter of a Fiend...{F801}Whether it be life or death that awaits{F801}beyond...{F801}{F802}</target>
+  </entry>
+  <entry id="37">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F871,1}Ahhh...! Do you intend to quench this{F801}thirst with idle chatter?{F801}{F802}Then let us hold a conversation clouded{F801}by death...{F801}{F802}</source>
+    <target>{F871,1}Ahhh...! Do you intend to quench this{F801}thirst with idle chatter?{F801}{F802}Then let us hold a conversation clouded{F801}by death...{F801}{F802}</target>
+  </entry>
+  <entry id="39">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F871,1}I shall extend the duration of our{F801}conversation... How will you use the{F801}hours you have been given?{F801}{F802}</source>
+    <target>{F871,1}I shall extend the duration of our{F801}conversation... How will you use the{F801}hours you have been given?{F801}{F802}</target>
+  </entry>
+  <entry id="41">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F871,1}Begging mercy from an incarnation of{F801}Death... How like man that is!{F801}{F802}Very well... Make an offering to{F801}the avatar of Death before you.{F801}{F802}</source>
+    <target>{F871,1}Begging mercy from an incarnation of{F801}Death... How like man that is!{F801}{F802}Very well... Make an offering to{F801}the avatar of Death before you.{F801}{F802}</target>
+  </entry>
+  <entry id="43">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F871,1}The offering pleases me... I shall be{F801}clement for the time being.{F801}{F802}But know that your shining life hangs{F801}preciously in the balance of death...{F801}{F802}</source>
+    <target>{F871,1}The offering pleases me... I shall be{F801}clement for the time being.{F801}{F802}But know that your shining life hangs{F801}preciously in the balance of death...{F801}{F802}</target>
+  </entry>
+  <entry id="45">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F871,1}This heaviness... is hard to resist...{F801}Even Death... sleeps at times...{F801}{F802}Mercy... Yes, mercy... Now is not the{F801}time... of your death...{F801}{F802}</source>
+    <target>{F871,1}This heaviness... is hard to resist...{F801}Even Death... sleeps at times...{F801}{F802}Mercy... Yes, mercy... Now is not the{F801}time... of your death...{F801}{F802}</target>
+  </entry>
+  <entry id="47">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>{F871,1}I shall grant you further mercy...{F801}With that, let the conflict of life{F801}and death be felt all the greater.{F801}{F802}</source>
+    <target>{F871,1}I shall grant you further mercy...{F801}With that, let the conflict of life{F801}and death be felt all the greater.{F801}{F802}</target>
+  </entry>
+  <entry id="50">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>{F871,1}Do you believe that you can squeeze{F801}money from a skull...?{F801}{F802}</source>
+    <target>{F871,1}Do you believe that you can squeeze{F801}money from a skull...?{F801}{F802}</target>
+  </entry>
+  <entry id="52">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>{F871,1}To show such avarice even at the moment{F801}of one's death... How dreadful is man's{F801}attachment to gold...{F801}{F802}</source>
+    <target>{F871,1}To show such avarice even at the moment{F801}of one's death... How dreadful is man's{F801}attachment to gold...{F801}{F802}</target>
+  </entry>
+  <entry id="54">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>{F871,1}Human whose soul is bound to gold...{F801}You have touched Death with trembling{F801}fingertips...{F801}{F802}Then I ask for your soul! Release it{F801}in death!{F801}{F802}</source>
+    <target>{F871,1}Human whose soul is bound to gold...{F801}You have touched Death with trembling{F801}fingertips...{F801}{F802}Then I ask for your soul! Release it{F801}in death!{F801}{F802}</target>
+  </entry>
+  <entry id="56">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>{F871,1}Kakakakakaka...!{F801}{F802}</source>
+    <target>{F871,1}Kakakakakaka...!{F801}{F802}</target>
+  </entry>
+  <entry id="58">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>{F871,1}You still continue this barbarism, even{F801}on the precipice of death...?{F801}{F802}</source>
+    <target>{F871,1}You still continue this barbarism, even{F801}on the precipice of death...?{F801}{F802}</target>
+  </entry>
+  <entry id="60">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>{F871,1}What folly... If it's money you wish,{F801}I can give you all your heart desires.{F801}{F802}Indulge in your false pleasures with{F801}your hollow money and transient life...{F801}{F802}</source>
+    <target>{F871,1}What folly... If it's money you wish,{F801}I can give you all your heart desires.{F801}{F802}Indulge in your false pleasures with{F801}your hollow money and transient life...{F801}{F802}</target>
+  </entry>
+  <entry id="62">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>{F871,1}......!{F801}{F802}Your fingertips have brushed it...{F801}the core of the abyss of Death...!{F801}{F802}</source>
+    <target>{F871,1}......!{F801}{F802}Your fingertips have brushed it...{F801}the core of the abyss of Death...!{F801}{F802}</target>
+  </entry>
+  <entry id="64">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>{F871,1}Do you believe that you can wrest{F801}money from a Fiend? From Death?{F801}{F802}</source>
+    <target>{F871,1}Do you believe that you can wrest{F801}money from a Fiend? From Death?{F801}{F802}</target>
+  </entry>
+  <entry id="66">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>{F871,1}Only one thing interests me in trade...{F801}{F802}Souls.{F801}{F802}</source>
+    <target>{F871,1}Only one thing interests me in trade...{F801}{F802}Souls.{F801}{F802}</target>
+  </entry>
+  <entry id="68">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>{F871,1}Receive this treasure that was wrested{F801}from Death.{F801}{F802}</source>
+    <target>{F871,1}Receive this treasure that was wrested{F801}from Death.{F801}{F802}</target>
+  </entry>
+  <entry id="70">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>{F871,1}Kakakakakaka...! Very well, very well!{F801}{F802}To think that a mortal would ask for{F801}treasure from Death's own hands!{F801}{F802}</source>
+    <target>{F871,1}Kakakakakaka...! Very well, very well!{F801}{F802}To think that a mortal would ask for{F801}treasure from Death's own hands!{F801}{F802}</target>
+  </entry>
+  <entry id="72">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>{F871,1}Here is another treasure that Death{F801}holds hidden within...{F801}{F802}</source>
+    <target>{F871,1}Here is another treasure that Death{F801}holds hidden within...{F801}{F802}</target>
+  </entry>
+  <entry id="74">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>{F871,1}Time's flow is fleeting... Let us{F801}decide this moment, with payment...{F801}{F802}{F804,1}{F878,1} Macca.{F804,0}{F801}Do you agree to this?{F801}{F802}</source>
+    <target>{F871,1}Time's flow is fleeting... Let us{F801}decide this moment, with payment...{F801}{F802}{F804,1}{F878,1} Macca.{F804,0}{F801}Do you agree to this?{F801}{F802}</target>
+  </entry>
+  <entry id="76">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>{F871,1}{F804,1}{F872,1}{F804,0} is my price.{F801}{F802}</source>
+    <target>{F871,1}{F804,1}{F872,1}{F804,0} is my price.{F801}{F802}</target>
+  </entry>
+  <entry id="78">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="79">
+    <source>{F871,1}{F804,1}{F878,1} Macca{F804,0} is my price.{F801}{F802}</source>
+    <target>{F871,1}{F804,1}{F878,1} Macca{F804,0} is my price.{F801}{F802}</target>
+  </entry>
+  <entry id="80">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="81">
+    <source>{F871,1}Your {F804,1}stamina...{F804,0} I request{F801}{F804,1}a little{F804,0} of it.{F801}{F802}</source>
+    <target>{F871,1}Your {F804,1}stamina...{F804,0} I request{F801}{F804,1}a little{F804,0} of it.{F801}{F802}</target>
+  </entry>
+  <entry id="82">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="83">
+    <source>{F871,1}Your {F804,1}stamina...{F804,0} I request{F801}{F804,1}some{F804,0} of it.{F801}{F802}</source>
+    <target>{F871,1}Your {F804,1}stamina...{F804,0} I request{F801}{F804,1}some{F804,0} of it.{F801}{F802}</target>
+  </entry>
+  <entry id="84">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="85">
+    <source>{F871,1}Your {F804,1}stamina...{F804,0} I request{F801}{F804,1}a lot{F804,0} of it.{F801}{F802}</source>
+    <target>{F871,1}Your {F804,1}stamina...{F804,0} I request{F801}{F804,1}a lot{F804,0} of it.{F801}{F802}</target>
+  </entry>
+  <entry id="86">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="87">
+    <source>{F871,1}Your {F804,1}stamina...{F804,0} I request{F801}{F804,1}enough to bring you to death's door.{F804,0}{F801}{F802}</source>
+    <target>{F871,1}Your {F804,1}stamina...{F804,0} I request{F801}{F804,1}enough to bring you to death's door.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="88">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="89">
+    <source>{F871,1}Your {F804,1}spirit...{F804,0} I request{F801}{F804,1}a little{F804,0} of it.{F801}{F802}</source>
+    <target>{F871,1}Your {F804,1}spirit...{F804,0} I request{F801}{F804,1}a little{F804,0} of it.{F801}{F802}</target>
+  </entry>
+  <entry id="90">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="91">
+    <source>{F871,1}Your {F804,1}spirit...{F804,0} I request{F801}{F804,1}some{F804,0} of it.{F801}{F802}</source>
+    <target>{F871,1}Your {F804,1}spirit...{F804,0} I request{F801}{F804,1}some{F804,0} of it.{F801}{F802}</target>
+  </entry>
+  <entry id="92">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="93">
+    <source>{F871,1}Your {F804,1}spirit...{F804,0} I request{F801}{F804,1}a lot{F804,0} of it.{F801}{F802}</source>
+    <target>{F871,1}Your {F804,1}spirit...{F804,0} I request{F801}{F804,1}a lot{F804,0} of it.{F801}{F802}</target>
+  </entry>
+  <entry id="94">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="95">
+    <source>{F871,1}Your {F804,1}spirit...{F804,0} I request{F801}{F804,1}enough to bring you to death's door.{F804,0}{F801}{F802}</source>
+    <target>{F871,1}Your {F804,1}spirit...{F804,0} I request{F801}{F804,1}enough to bring you to death's door.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="96">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="97">
+    <source>{F871,1}Death... Your demon there...! I ask{F801}for the {F804,1}life of {F873,2}.{F804,0}{F801}{F802}</source>
+    <target>{F871,1}Death... Your demon there...! I ask{F801}for the {F804,1}life of {F873,2}.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="98">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="99">
+    <source>{F871,1}I ask for {F804,1}that thing.{F804,0} Yes...{F801}{F804,1}that{F804,0} will suffice for me...{F801}{F802}</source>
+    <target>{F871,1}I ask for {F804,1}that thing.{F804,0} Yes...{F801}{F804,1}that{F804,0} will suffice for me...{F801}{F802}</target>
+  </entry>
+  <entry id="100">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F871,1}This thirst that cannot be expressed{F801}in words... What can quench it?{F801}{F802}</source>
+    <target>{F871,1}This thirst that cannot be expressed{F801}in words... What can quench it?{F801}{F802}</target>
+  </entry>
+  <entry id="102">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F871,1}Yes, that will quench it...{F801}{F802}</source>
+    <target>{F871,1}Yes, that will quench it...{F801}{F802}</target>
+  </entry>
+  <entry id="104">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F871,1}No, there is yet more thirst...{F801}{F802}</source>
+    <target>{F871,1}No, there is yet more thirst...{F801}{F802}</target>
+  </entry>
+  <entry id="106">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F871,1}That brilliant life... Allow me to{F801}touch it briefly.{F801}{F802}</source>
+    <target>{F871,1}That brilliant life... Allow me to{F801}touch it briefly.{F801}{F802}</target>
+  </entry>
+  <entry id="108">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>"Very well."{F801}"I think not."{F801}{F802}</source>
+    <target>"Very well."{F801}"I think not."{F801}{F802}</target>
+  </entry>
+  <entry id="110">
+    <source>{F871,1}Ahhh... How exquisite... What a rare{F801}life force...{F801}{F802}</source>
+    <target>{F871,1}Ahhh... How exquisite... What a rare{F801}life force...{F801}{F802}</target>
+  </entry>
+  <entry id="111">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>〉 The Fiend gently touched{F801}{F843,0}...{F801}{F802}</source>
+    <target>〉 The Fiend gently touched{F801}{F843,0}...{F801}{F802}</target>
+  </entry>
+  <entry id="113">
+    <source>〉 {F843,0} felt his stamina ebb...{F801}{F802}</source>
+    <target>〉 {F843,0} felt his stamina ebb...{F801}{F802}</target>
+  </entry>
+  <entry id="114">
+    <source>{F871,1}Ahhh... How exquisite... What a rare{F801}life force...{F801}{F802}</source>
+    <target>{F871,1}Ahhh... How exquisite... What a rare{F801}life force...{F801}{F802}</target>
+  </entry>
+  <entry id="115">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>〉 The Fiend gently touched{F801}{F843,0}...{F801}{F802}</source>
+    <target>〉 The Fiend gently touched{F801}{F843,0}...{F801}{F802}</target>
+  </entry>
+  <entry id="117">
+    <source>〉 {F843,0} lost his life...{F801}{F802}</source>
+    <target>〉 {F843,0} lost his life...{F801}{F802}</target>
+  </entry>
+  <entry id="118">
+    <source>{F871,1}...Have you grown afraid, Samurai?{F801}{F802}</source>
+    <target>{F871,1}...Have you grown afraid, Samurai?{F801}{F802}</target>
+  </entry>
+  <entry id="119">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>{F871,1}Your offering pleases me. I consider{F801}myself satisfied now...{F801}{F802}</source>
+    <target>{F871,1}Your offering pleases me. I consider{F801}myself satisfied now...{F801}{F802}</target>
+  </entry>
+  <entry id="121">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>{F871,1}Ah...! Such satisfaction as would leave{F801}even Death fulfilled!{F801}{F802}</source>
+    <target>{F871,1}Ah...! Such satisfaction as would leave{F801}even Death fulfilled!{F801}{F802}</target>
+  </entry>
+  <entry id="123">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="124">
+    <source>{F871,1}Death takes another step towards you...{F801}{F802}</source>
+    <target>{F871,1}Death takes another step towards you...{F801}{F802}</target>
+  </entry>
+  <entry id="125">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>{F871,1}Such folly, holding back on a Fiend...{F801}{F802}Death is fitting, since you seem to hold{F801}your life in such meager regard.{F801}{F802}</source>
+    <target>{F871,1}Such folly, holding back on a Fiend...{F801}{F802}Death is fitting, since you seem to hold{F801}your life in such meager regard.{F801}{F802}</target>
+  </entry>
+  <entry id="127">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>{F871,1}It ends here... Your luck in negotiating{F801}has expired.{F801}{F802}</source>
+    <target>{F871,1}It ends here... Your luck in negotiating{F801}has expired.{F801}{F802}</target>
+  </entry>
+  <entry id="129">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="130">
+    <source>{F871,1}Did you think you could cheat a Fiend,{F801}who sees all...?{F801}{F802}Death is fitting, since you seem to hold{F801}your life in such meager regard.{F801}{F802}</source>
+    <target>{F871,1}Did you think you could cheat a Fiend,{F801}who sees all...?{F801}{F802}Death is fitting, since you seem to hold{F801}your life in such meager regard.{F801}{F802}</target>
+  </entry>
+  <entry id="131">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="132">
+    <source>{F871,1}You do not have it? What a pitiful life...{F801}{F802}</source>
+    <target>{F871,1}You do not have it? What a pitiful life...{F801}{F802}</target>
+  </entry>
+  <entry id="133">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="134">
+    <source>{F871,1}Nothing can begin without any{F801}Life Stones...{F801}{F802}</source>
+    <target>{F871,1}Nothing can begin without any{F801}Life Stones...{F801}{F802}</target>
+  </entry>
+  <entry id="135">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="136">
+    <source>{F871,1}Even if one's thirst is quenched, going{F801}too far will cause rot and decay...{F801}{F802}Very well, now is a suitable time.{F801}{F802}</source>
+    <target>{F871,1}Even if one's thirst is quenched, going{F801}too far will cause rot and decay...{F801}{F802}Very well, now is a suitable time.{F801}{F802}</target>
+  </entry>
+  <entry id="137">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="138">
+    <source>{F871,1}Did you think you could cut short the{F801}endless thirst of a Fiend...?{F801}{F802}Death is fitting, since you seem to hold{F801}your life in such meager regard.{F801}{F802}</source>
+    <target>{F871,1}Did you think you could cut short the{F801}endless thirst of a Fiend...?{F801}{F802}Death is fitting, since you seem to hold{F801}your life in such meager regard.{F801}{F802}</target>
+  </entry>
+  <entry id="139">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="140">
+    <source>{F871,1}To think that a mortal would deny{F801}a Fiend so vigorously...{F801}{F802}The strength of your life is magnificent.{F801}{F802}</source>
+    <target>{F871,1}To think that a mortal would deny{F801}a Fiend so vigorously...{F801}{F802}The strength of your life is magnificent.{F801}{F802}</target>
+  </entry>
+  <entry id="141">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="142">
+    <source>{F871,1}You continue to acquiesce and show{F801}obedience to me, a Fiend.{F801}{F802}You are nothing but one who walks{F801}constantly toward death... There is no{F801}worth in speaking to you any longer.{F801}{F802}</source>
+    <target>{F871,1}You continue to acquiesce and show{F801}obedience to me, a Fiend.{F801}{F802}You are nothing but one who walks{F801}constantly toward death... There is no{F801}worth in speaking to you any longer.{F801}{F802}</target>
+  </entry>
+  <entry id="143">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="144">
+    <source>{F871,1}To think that you would face a demon with{F801}nothing but your life...{F801}{F802}It is indeed a wonderful show of spirit.{F801}{F802}</source>
+    <target>{F871,1}To think that you would face a demon with{F801}nothing but your life...{F801}{F802}It is indeed a wonderful show of spirit.{F801}{F802}</target>
+  </entry>
+  <entry id="145">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="146">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="147">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="148">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="149">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="150">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="151">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="152">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="153">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="154">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="155">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="156">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="157">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="158">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="159">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="160">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="161">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="162">
+    <source>{F871,1}You speak the same words as before...{F801}Your mind is a dying one that can no{F801}longer change.{F801}{F802}</source>
+    <target>{F871,1}You speak the same words as before...{F801}Your mind is a dying one that can no{F801}longer change.{F801}{F802}</target>
+  </entry>
+  <entry id="163">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="164">
+    <source>{F871,1}I followed the guidance of the scales,{F801}and lo and behold...{F801}{F802}{F843,0}... It was you after all.{F801}{F802}Your fate is truly a checkered one...{F801}{F802}</source>
+    <target>{F871,1}I followed the guidance of the scales,{F801}and lo and behold...{F801}{F802}{F843,0}... It was you after all.{F801}{F802}Your fate is truly a checkered one...{F801}{F802}</target>
+  </entry>
+  <entry id="165">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="166">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="167">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="168">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="169">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="170">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="171">
+    <source>{F871,1}Reserved{F801}{F802}</source>
+    <target>{F871,1}Reserved{F801}{F802}</target>
+  </entry>
+  <entry id="172">
+    <source>{F871,1}Reserved{F801}{F802}</source>
+    <target>{F871,1}Reserved{F801}{F802}</target>
+  </entry>
+  <entry id="173">
+    <source>{F871,1}Reserved{F801}{F802}</source>
+    <target>{F871,1}Reserved{F801}{F802}</target>
+  </entry>
+  <entry id="174">
+    <source>{F871,1}Reserved{F801}{F802}</source>
+    <target>{F871,1}Reserved{F801}{F802}</target>
+  </entry>
+</mbm>

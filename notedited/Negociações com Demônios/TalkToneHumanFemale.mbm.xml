@@ -1,0 +1,702 @@
+<mbm>
+  <entry id="0">
+    <source>Dummy Message{F801}</source>
+    <target>Dummy Message{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F871,1}No way! Why would I join you!?{F801}{F802}Huh...? You're looking for demons?{F801}{F802}Wha--!? Are you saying I look like{F801}a demon!? How rude!{F801}{F802}</source>
+    <target>{F871,1}No way! Why would I join you!?{F801}{F802}Huh...? You're looking for demons?{F801}{F802}Wha--!? Are you saying I look like{F801}a demon!? How rude!{F801}{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F871,1}Are you joking? You attack me, and{F801}now you want to talk!?{F801}{F802}This is why I hate fighting people.{F801}They're worse than demons...{F801}{F802}</source>
+    <target>{F871,1}Are you joking? You attack me, and{F801}now you want to talk!?{F801}{F802}This is why I hate fighting people.{F801}They're worse than demons...{F801}{F802}</target>
+  </entry>
+  <entry id="4">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F871,1}Reserve{F801}{F802}</source>
+    <target>{F871,1}Reserve{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>{F871,1}You want me to help you? Then show{F801}me some money! It's what makes the{F801}world go 'round!{F801}{F802}</source>
+    <target>{F871,1}You want me to help you? Then show{F801}me some money! It's what makes the{F801}world go 'round!{F801}{F802}</target>
+  </entry>
+  <entry id="7">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F871,1}Hey, you paid me this much...{F801}All right, I'll join you!{F801}{F802}</source>
+    <target>{F871,1}Hey, you paid me this much...{F801}All right, I'll join you!{F801}{F802}</target>
+  </entry>
+  <entry id="9">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="11">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F871,1}Hey! You don't have any room on{F801}your team for me!{F801}{F802}Fine, then! I'm going home!{F801}{F802}</source>
+    <target>{F871,1}Hey! You don't have any room on{F801}your team for me!{F801}{F802}Fine, then! I'm going home!{F801}{F802}</target>
+  </entry>
+  <entry id="13">
+    <source>{F871,1}I'm {F804,5}{F875,1} {F873,1}!{F804,0}{F801}I'll stick around as long as you{F801}can keep paying me!{F801}{F802}</source>
+    <target>{F871,1}I'm {F804,5}{F875,1} {F873,1}!{F804,0}{F801}I'll stick around as long as you{F801}can keep paying me!{F801}{F802}</target>
+  </entry>
+  <entry id="14">
+    <source>{F871,1}Are you kidding me!? Your level's{F801}even lower than mine!{F801}{F802}No way! I'm not going to be seen{F801}with someone like you!{F801}{F802}</source>
+    <target>{F871,1}Are you kidding me!? Your level's{F801}even lower than mine!{F801}{F802}No way! I'm not going to be seen{F801}with someone like you!{F801}{F802}</target>
+  </entry>
+  <entry id="15">
+    <source>{F871,1}Wait! That girl with you...{F801}I've seen her before...{F801}{F802}...Oh, that's my friend!{F801}Looks like I'm done here.{F801}{F802}</source>
+    <target>{F871,1}Wait! That girl with you...{F801}I've seen her before...{F801}{F802}...Oh, that's my friend!{F801}Looks like I'm done here.{F801}{F802}</target>
+  </entry>
+  <entry id="16">
+    <source>{F871,1}Hey, while we're at it, why don't{F801}we ask the others?{F801}{F802}We might just get a volunteer!{F801}{F802}</source>
+    <target>{F871,1}Hey, while we're at it, why don't{F801}we ask the others?{F801}{F802}We might just get a volunteer!{F801}{F802}</target>
+  </entry>
+  <entry id="17">
+    <source>{F871,1}...But you don't have enough room{F801}for anyone else to come along.{F801}{F802}Guess it's just me, then. Ugh, and{F801}that was such a great idea!{F801}{F802}</source>
+    <target>{F871,1}...But you don't have enough room{F801}for anyone else to come along.{F801}{F802}Guess it's just me, then. Ugh, and{F801}that was such a great idea!{F801}{F802}</target>
+  </entry>
+  <entry id="18">
+    <source>{F871,1}It looks like being with you would{F801}be better! I'm coming, too!{F801}{F802}</source>
+    <target>{F871,1}It looks like being with you would{F801}be better! I'm coming, too!{F801}{F802}</target>
+  </entry>
+  <entry id="19">
+    <source>{F871,1}What's up with them?{F801}Psh, whatever. Let's go!{F801}{F802}</source>
+    <target>{F871,1}What's up with them?{F801}Psh, whatever. Let's go!{F801}{F802}</target>
+  </entry>
+  <entry id="20">
+    <source>{F871,1}Okay, it's my turn now!{F801}{F802}</source>
+    <target>{F871,1}Okay, it's my turn now!{F801}{F802}</target>
+  </entry>
+  <entry id="21">
+    <source>{F871,1}Can I introduce you to one of my{F801}friends?{F801}{F802}</source>
+    <target>{F871,1}Can I introduce you to one of my{F801}friends?{F801}{F802}</target>
+  </entry>
+  <entry id="22">
+    <source>{F871,1}{F873,2} called me here!{F801}{F802}Don't worry. Leave everything to me!{F801}{F802}</source>
+    <target>{F871,1}{F873,2} called me here!{F801}{F802}Don't worry. Leave everything to me!{F801}{F802}</target>
+  </entry>
+  <entry id="23">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F871,1}You want a truce? Then show me the{F801}money! The world runs on money!{F801}{F802}</source>
+    <target>{F871,1}You want a truce? Then show me the{F801}money! The world runs on money!{F801}{F802}</target>
+  </entry>
+  <entry id="26">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F871,1}Hey, you paid me this much...{F801}All right, I'll stop fighting!{F801}{F802}</source>
+    <target>{F871,1}Hey, you paid me this much...{F801}All right, I'll stop fighting!{F801}{F802}</target>
+  </entry>
+  <entry id="28">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F871,1}Be quiet! Don't talk to me when{F801}I'm trying to sleep!{F801}{F802}Just go away! Let me get my beauty{F801}rest!{F801}{F802}</source>
+    <target>{F871,1}Be quiet! Don't talk to me when{F801}I'm trying to sleep!{F801}{F802}Just go away! Let me get my beauty{F801}rest!{F801}{F802}</target>
+  </entry>
+  <entry id="30">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F871,1}Wait! You gave me money, so I should{F801}at least heal you!{F801}{F802}</source>
+    <target>{F871,1}Wait! You gave me money, so I should{F801}at least heal you!{F801}{F802}</target>
+  </entry>
+  <entry id="33">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F871,1}Gifts for me? Then show me the{F801}money! The world runs on money!{F801}{F802}</source>
+    <target>{F871,1}Gifts for me? Then show me the{F801}money! The world runs on money!{F801}{F802}</target>
+  </entry>
+  <entry id="35">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F871,1}Getting money for free! Hahaha!{F801}It's too good!{F801}{F802}</source>
+    <target>{F871,1}Getting money for free! Hahaha!{F801}It's too good!{F801}{F802}</target>
+  </entry>
+  <entry id="37">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F871,1}G-Giving me gifts! Wow! Yes!{F801}{F802}After all these years since I moved{F801}into the city... Someone finally{F801}appreciates me!{F801}{F802}</source>
+    <target>{F871,1}G-Giving me gifts! Wow! Yes!{F801}{F802}After all these years since I moved{F801}into the city... Someone finally{F801}appreciates me!{F801}{F802}</target>
+  </entry>
+  <entry id="39">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F871,1}Look! Money! Money is power!{F801}And this money is mine!{F801}{F802}</source>
+    <target>{F871,1}Look! Money! Money is power!{F801}And this money is mine!{F801}{F802}</target>
+  </entry>
+  <entry id="41">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F871,1}You want my mercy? Then show me the{F801}money! The world runs on money!{F801}{F802}</source>
+    <target>{F871,1}You want my mercy? Then show me the{F801}money! The world runs on money!{F801}{F802}</target>
+  </entry>
+  <entry id="43">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F871,1}Okay. You paid me, so I'll pay you{F801}back with mercy.{F801}{F802}</source>
+    <target>{F871,1}Okay. You paid me, so I'll pay you{F801}back with mercy.{F801}{F802}</target>
+  </entry>
+  <entry id="45">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F871,1}Don't you know never to wake a girl{F801}when she's sleeping!?{F801}{F802}Fine, fine, get the hell outta here!{F801}Just leave me alone, asshole!{F801}{F802}</source>
+    <target>{F871,1}Don't you know never to wake a girl{F801}when she's sleeping!?{F801}{F802}Fine, fine, get the hell outta here!{F801}Just leave me alone, asshole!{F801}{F802}</target>
+  </entry>
+  <entry id="47">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>{F871,1}Oh... Hey, that was fun!{F801}Let me try that again!{F801}{F802}</source>
+    <target>{F871,1}Oh... Hey, that was fun!{F801}Let me try that again!{F801}{F802}</target>
+  </entry>
+  <entry id="50">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>{F871,1}Hey...! Those eyes of yours...{F801}{F802}Has the Hunter become the Hunted...?{F801}{F802}</source>
+    <target>{F871,1}Hey...! Those eyes of yours...{F801}{F802}Has the Hunter become the Hunted...?{F801}{F802}</target>
+  </entry>
+  <entry id="52">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>{F871,1}Fine, take the money! Don't let it{F801}get to your head!{F801}{F802}I'm going to hunt you down next time!{F801}{F802}</source>
+    <target>{F871,1}Fine, take the money! Don't let it{F801}get to your head!{F801}{F802}I'm going to hunt you down next time!{F801}{F802}</target>
+  </entry>
+  <entry id="54">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>{F871,1}I'll kill you first!{F801}{F802}Once you're dead, I'll take what I{F801}want from your corpse!{F801}{F802}</source>
+    <target>{F871,1}I'll kill you first!{F801}{F802}Once you're dead, I'll take what I{F801}want from your corpse!{F801}{F802}</target>
+  </entry>
+  <entry id="56">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>{F871,1}N-Nooooooooo!{F801}{F802}</source>
+    <target>{F871,1}N-Nooooooooo!{F801}{F802}</target>
+  </entry>
+  <entry id="58">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>{F871,1}H-Hey! Why don't you stop right{F801}there, mister...{F801}{F802}</source>
+    <target>{F871,1}H-Hey! Why don't you stop right{F801}there, mister...{F801}{F802}</target>
+  </entry>
+  <entry id="60">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>{F871,1}Ugh! Enough, already! I've got some{F801}pride, you know!{F801}{F802}Take it! Take it all, you pig!{F801}{F802}Does mugging women make you feel{F801}good about yourself, you prick!?{F801}{F802}</source>
+    <target>{F871,1}Ugh! Enough, already! I've got some{F801}pride, you know!{F801}{F802}Take it! Take it all, you pig!{F801}{F802}Does mugging women make you feel{F801}good about yourself, you prick!?{F801}{F802}</target>
+  </entry>
+  <entry id="62">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>{F871,1}Hey, didn't I say to stop it...?{F801}{F802}Now you're going to have to pay...!{F801}{F802}</source>
+    <target>{F871,1}Hey, didn't I say to stop it...?{F801}{F802}Now you're going to have to pay...!{F801}{F802}</target>
+  </entry>
+  <entry id="64">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>{F871,1}Oh, crap... I can't move!{F801}{F802}Things aren't looking good...{F801}{F802}</source>
+    <target>{F871,1}Oh, crap... I can't move!{F801}{F802}Things aren't looking good...{F801}{F802}</target>
+  </entry>
+  <entry id="66">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>{F871,1}You want to trade for an item, huh?{F801}Then show me your cash!{F801}{F802}</source>
+    <target>{F871,1}You want to trade for an item, huh?{F801}Then show me your cash!{F801}{F802}</target>
+  </entry>
+  <entry id="68">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>{F871,1}Heh heh... Sold! You can have this!{F801}{F802}</source>
+    <target>{F871,1}Heh heh... Sold! You can have this!{F801}{F802}</target>
+  </entry>
+  <entry id="70">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>{F871,1}Hahaha... Why do people steal from{F801}each other? It's the human ability{F801}to share that makes us special!{F801}{F802}And now! I'm sharing something with{F801}you! Take this!{F801}{F802}</source>
+    <target>{F871,1}Hahaha... Why do people steal from{F801}each other? It's the human ability{F801}to share that makes us special!{F801}{F802}And now! I'm sharing something with{F801}you! Take this!{F801}{F802}</target>
+  </entry>
+  <entry id="72">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>{F871,1}Here's something extra.{F801}I hope we meet again soon...{F801}{F802}</source>
+    <target>{F871,1}Here's something extra.{F801}I hope we meet again soon...{F801}{F802}</target>
+  </entry>
+  <entry id="74">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>{F871,1}I'm busy here! Let's get this over{F801}with right now!{F801}{F802}{F804,1}{F878,1} Macca!{F804,0}{F801}Deal, or no deal?{F801}{F802}</source>
+    <target>{F871,1}I'm busy here! Let's get this over{F801}with right now!{F801}{F802}{F804,1}{F878,1} Macca!{F804,0}{F801}Deal, or no deal?{F801}{F802}</target>
+  </entry>
+  <entry id="76">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="78">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="79">
+    <source>{F871,1}I'll take {F804,1}{F878,1} Macca!{F804,0}{F801}{F802}</source>
+    <target>{F871,1}I'll take {F804,1}{F878,1} Macca!{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="80">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="81">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="82">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="83">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="84">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="85">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="86">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="87">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="88">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="89">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="90">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="91">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="92">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="93">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="94">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="95">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="96">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="97">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="98">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="99">
+    <source>{F871,1}{F804,1}That!{F804,0} Give me {F804,1}that!{F804,0}{F801}You know, {F804,1}that!{F804,0}{F801}{F802}</source>
+    <target>{F871,1}{F804,1}That!{F804,0} Give me {F804,1}that!{F804,0}{F801}You know, {F804,1}that!{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="100">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F871,1}Oh...! I don't even know what I want.{F801}{F802}You, tell me. What do I want?{F801}{F802}</source>
+    <target>{F871,1}Oh...! I don't even know what I want.{F801}{F802}You, tell me. What do I want?{F801}{F802}</target>
+  </entry>
+  <entry id="102">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F871,1}That's it! I wanted this!{F801}{F802}</source>
+    <target>{F871,1}That's it! I wanted this!{F801}{F802}</target>
+  </entry>
+  <entry id="104">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F871,1}You idiot! I don't want that!{F801}{F802}</source>
+    <target>{F871,1}You idiot! I don't want that!{F801}{F802}</target>
+  </entry>
+  <entry id="106">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F871,1}Give me all your money!{F801}{F802}</source>
+    <target>{F871,1}Give me all your money!{F801}{F802}</target>
+  </entry>
+  <entry id="108">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>"Sure."{F801}"I don't think so."{F801}{F802}</source>
+    <target>"Sure."{F801}"I don't think so."{F801}{F802}</target>
+  </entry>
+  <entry id="110">
+    <source>{F871,1}Ha! I'm just kidding. I'm not gonna{F801}take all your cash! Don't take{F801}everything so seriously.{F801}{F802}I'll only take... this much!{F801}{F802}</source>
+    <target>{F871,1}Ha! I'm just kidding. I'm not gonna{F801}take all your cash! Don't take{F801}everything so seriously.{F801}{F802}I'll only take... this much!{F801}{F802}</target>
+  </entry>
+  <entry id="111">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="113">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="114">
+    <source>{F871,1}Did you think I was joking?{F801}{F802}Hand it over!{F801}{F802}</source>
+    <target>{F871,1}Did you think I was joking?{F801}{F802}Hand it over!{F801}{F802}</target>
+  </entry>
+  <entry id="115">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="117">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="118">
+    <source>{F871,1}Hmph! I was only kidding!{F801}What a coward!{F801}{F802}</source>
+    <target>{F871,1}Hmph! I was only kidding!{F801}What a coward!{F801}{F802}</target>
+  </entry>
+  <entry id="119">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>{F871,1}Hmhmhm... This should be enough...{F801}{F802}</source>
+    <target>{F871,1}Hmhmhm... This should be enough...{F801}{F802}</target>
+  </entry>
+  <entry id="121">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>{F871,1}Hahaha! Wow! Money, money, and money!{F801}{F802}</source>
+    <target>{F871,1}Hahaha! Wow! Money, money, and money!{F801}{F802}</target>
+  </entry>
+  <entry id="123">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="124">
+    <source>{F871,1}Tch...! Not giving it to me...?{F801}{F802}</source>
+    <target>{F871,1}Tch...! Not giving it to me...?{F801}{F802}</target>
+  </entry>
+  <entry id="125">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>{F871,1}You're gonna hold back, huh?{F801}Well, the joke's on you! Die!{F801}{F802}</source>
+    <target>{F871,1}You're gonna hold back, huh?{F801}Well, the joke's on you! Die!{F801}{F802}</target>
+  </entry>
+  <entry id="127">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>{F871,1}Forget it! I'm done trying to deal{F801}with you!{F801}{F802}</source>
+    <target>{F871,1}Forget it! I'm done trying to deal{F801}with you!{F801}{F802}</target>
+  </entry>
+  <entry id="129">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="130">
+    <source>{F871,1}Are you lying to me? Well, the joke's{F801}on you! Die!{F801}{F802}</source>
+    <target>{F871,1}Are you lying to me? Well, the joke's{F801}on you! Die!{F801}{F802}</target>
+  </entry>
+  <entry id="131">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="132">
+    <source>{F871,1}You don't have it!? You bum...{F801}{F802}</source>
+    <target>{F871,1}You don't have it!? You bum...{F801}{F802}</target>
+  </entry>
+  <entry id="133">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="134">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="135">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="136">
+    <source>{F871,1}Huh... Oh, well!{F801}I know when enough's enough!{F801}{F802}</source>
+    <target>{F871,1}Huh... Oh, well!{F801}I know when enough's enough!{F801}{F802}</target>
+  </entry>
+  <entry id="137">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="138">
+    <source>{F871,1}Why are you telling me what to do!?{F801}Well, the joke's on you! Die!{F801}{F802}</source>
+    <target>{F871,1}Why are you telling me what to do!?{F801}Well, the joke's on you! Die!{F801}{F802}</target>
+  </entry>
+  <entry id="139">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="140">
+    <source>{F871,1}You're so stubborn! Do you like money{F801}that much!?{F801}{F802}Well, I can respect that greed.{F801}I'm gonna let you off the hook.{F801}Just this once, though!{F801}{F802}</source>
+    <target>{F871,1}You're so stubborn! Do you like money{F801}that much!?{F801}{F802}Well, I can respect that greed.{F801}I'm gonna let you off the hook.{F801}Just this once, though!{F801}{F802}</target>
+  </entry>
+  <entry id="141">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="142">
+    <source>{F871,1}You just nod to everything I say!{F801}{F802}I can't trust you to do anything!{F801}Leave me alone!{F801}{F802}</source>
+    <target>{F871,1}You just nod to everything I say!{F801}{F802}I can't trust you to do anything!{F801}Leave me alone!{F801}{F802}</target>
+  </entry>
+  <entry id="143">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="144">
+    <source>{F871,1}Wow, you are seriously poor!{F801}I actually feel sorry for you.{F801}{F802}All right, I'll let you go this once.{F801}{F802}</source>
+    <target>{F871,1}Wow, you are seriously poor!{F801}I actually feel sorry for you.{F801}{F802}All right, I'll let you go this once.{F801}{F802}</target>
+  </entry>
+  <entry id="145">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="146">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="147">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="148">
+    <source>{F871,1}{F843,0}? You're still alive!{F801}{F802}I think we've gotten pretty close{F801}after all this time, huh?{F801}{F802}</source>
+    <target>{F871,1}{F843,0}? You're still alive!{F801}{F802}I think we've gotten pretty close{F801}after all this time, huh?{F801}{F802}</target>
+  </entry>
+  <entry id="149">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="150">
+    <source>{F871,1}You want to join up, huh?{F801}How can I refuse?{F801}{F802}I normally charge for this, but since{F801}it's you, I'll do it for free.{F801}{F802}</source>
+    <target>{F871,1}You want to join up, huh?{F801}How can I refuse?{F801}{F802}I normally charge for this, but since{F801}it's you, I'll do it for free.{F801}{F802}</target>
+  </entry>
+  <entry id="151">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="152">
+    <source>{F871,1}You want a truce, huh?{F801}How can I refuse?{F801}{F802}I normally charge for this, but since{F801}it's you, I'll do it for free.{F801}{F802}</source>
+    <target>{F871,1}You want a truce, huh?{F801}How can I refuse?{F801}{F802}I normally charge for this, but since{F801}it's you, I'll do it for free.{F801}{F802}</target>
+  </entry>
+  <entry id="153">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="154">
+    <source>{F871,1}You want a gift, huh?{F801}How can I refuse?{F801}{F802}I normally charge for this, but since{F801}it's you, I'll do it for free.{F801}{F802}</source>
+    <target>{F871,1}You want a gift, huh?{F801}How can I refuse?{F801}{F802}I normally charge for this, but since{F801}it's you, I'll do it for free.{F801}{F802}</target>
+  </entry>
+  <entry id="155">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="156">
+    <source>{F871,1}You want me to worship you?{F801}I can't say no to you!{F801}{F802}I normally charge for this, but since{F801}it's you, I'll do it for free.{F801}{F802}</source>
+    <target>{F871,1}You want me to worship you?{F801}I can't say no to you!{F801}{F802}I normally charge for this, but since{F801}it's you, I'll do it for free.{F801}{F802}</target>
+  </entry>
+  <entry id="157">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="158">
+    <source>{F871,1}You want to rob me?{F801}How can I say no?{F801}{F802}...Ha! I can say no by just giving{F801}you money! You could've just asked!{F801}{F802}Here you go, buddy.{F801}{F802}</source>
+    <target>{F871,1}You want to rob me?{F801}How can I say no?{F801}{F802}...Ha! I can say no by just giving{F801}you money! You could've just asked!{F801}{F802}Here you go, buddy.{F801}{F802}</target>
+  </entry>
+  <entry id="159">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="160">
+    <source>{F871,1}You want to buy something off me?{F801}How can I say no?{F801}{F802}I normally charge for this, but since{F801}it's you, I'll do it for free.{F801}{F802}</source>
+    <target>{F871,1}You want to buy something off me?{F801}How can I say no?{F801}{F802}I normally charge for this, but since{F801}it's you, I'll do it for free.{F801}{F802}</target>
+  </entry>
+  <entry id="161">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="162">
+    <source>{F871,1}Look, you're boring me to death here.{F801}{F802}Instead of saying the same thing{F801}over and over again, can you try for{F801}a little variety? Come on!{F801}{F802}</source>
+    <target>{F871,1}Look, you're boring me to death here.{F801}{F802}Instead of saying the same thing{F801}over and over again, can you try for{F801}a little variety? Come on!{F801}{F802}</target>
+  </entry>
+  <entry id="163">
+    <source>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</source>
+    <target>Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}Reserve{F801}</target>
+  </entry>
+  <entry id="164">
+    <source>{F871,1} {F843,0}! You're still alive!?{F801}{F802}I figured I'd become the main{F801}character of this game once you were{F801}dead...{F801}{F802}I guess that'll have to wait.{F801}{F802}</source>
+    <target>{F871,1} {F843,0}! You're still alive!?{F801}{F802}I figured I'd become the main{F801}character of this game once you were{F801}dead...{F801}{F802}I guess that'll have to wait.{F801}{F802}</target>
+  </entry>
+  <entry id="165">
+    <source>{F871,1}Wait, you barbarian! You aren't{F801}really going to kill me, are you!?{F801}{F802}I'll do anything you want!{F801}Please, let me go!{F801}{F802}</source>
+    <target>{F871,1}Wait, you barbarian! You aren't{F801}really going to kill me, are you!?{F801}{F802}I'll do anything you want!{F801}Please, let me go!{F801}{F802}</target>
+  </entry>
+  <entry id="166">
+    <source>Reserve{F801}</source>
+    <target>Reserve{F801}</target>
+  </entry>
+  <entry id="167">
+    <source>{F871,1}Ugh! Fine!{F801}Not like I have a choice...{F801}{F802}</source>
+    <target>{F871,1}Ugh! Fine!{F801}Not like I have a choice...{F801}{F802}</target>
+  </entry>
+  <entry id="168">
+    <source>Reserve{F801}</source>
+    <target>Reserve{F801}</target>
+  </entry>
+  <entry id="169">
+    <source>{F871,1}You son of a bitch!{F801}You'll get yours one day!{F801}{F802}</source>
+    <target>{F871,1}You son of a bitch!{F801}You'll get yours one day!{F801}{F802}</target>
+  </entry>
+  <entry id="170">
+    <source>Reserve{F801}</source>
+    <target>Reserve{F801}</target>
+  </entry>
+  <entry id="171">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="172">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="173">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="174">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+</mbm>

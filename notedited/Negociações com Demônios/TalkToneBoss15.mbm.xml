@@ -1,0 +1,702 @@
+<mbm>
+  <entry id="0">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon Lord Lucifer\0What folly is this, to coax the Demon{F801}Lord himself to join your cause...?{F801}{F802}Power is won only through the display{F801}of power.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0What folly is this, to coax the Demon{F801}Lord himself to join your cause...?{F801}{F802}Power is won only through the display{F801}of power.{F801}{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="4">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Demon Lord Lucifer\0Is this what you sought? Did you crawl{F801}here to make craven peace with the{F801}Demon Lord himself?{F801}{F802}You will get no such thing...{F801}Now prove that your power is worthy.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Is this what you sought? Did you crawl{F801}here to make craven peace with the{F801}Demon Lord himself?{F801}{F802}You will get no such thing...{F801}Now prove that your power is worthy.{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="7">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="9">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="11">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="13">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="14">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="15">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="16">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="17">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="18">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="19">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="20">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="21">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="22">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="23">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="26">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="28">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="30">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="33">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Demon Lord Lucifer\0You wish to speak with me, the Demon{F801}Lord? You're quite the licentious{F801}one...{F801}{F802}Very well. If you can meet my price,{F801}that is...{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0You wish to speak with me, the Demon{F801}Lord? You're quite the licentious{F801}one...{F801}{F802}Very well. If you can meet my price,{F801}that is...{F801}{F802}</target>
+  </entry>
+  <entry id="35">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Demon Lord Lucifer\0It's been quite a while since I've{F801}engaged in such idle conversation.{F801}Where shall we begin...?{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0It's been quite a while since I've{F801}engaged in such idle conversation.{F801}Where shall we begin...?{F801}{F802}</target>
+  </entry>
+  <entry id="37">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Demon Lord Lucifer\0Hahaha! Idle conversation with the Demon{F801}Lord, you say? You are the first with{F801}the temerity to suggest such a thing!{F801}{F802}I have been waiting ever so long for{F801}one such as you to appear...!{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Hahaha! Idle conversation with the Demon{F801}Lord, you say? You are the first with{F801}the temerity to suggest such a thing!{F801}{F802}I have been waiting ever so long for{F801}one such as you to appear...!{F801}{F802}</target>
+  </entry>
+  <entry id="39">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Demon Lord Lucifer\0Let us converse to our heart's content...{F801}If at any time you wish to attack me{F801}instead, feel free to do so.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Let us converse to our heart's content...{F801}If at any time you wish to attack me{F801}instead, feel free to do so.{F801}{F802}</target>
+  </entry>
+  <entry id="41">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Demon Lord Lucifer\0Begging for mercy from the Demon Lord...?{F801}What an outrageous proposal...{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Begging for mercy from the Demon Lord...?{F801}What an outrageous proposal...{F801}{F802}</target>
+  </entry>
+  <entry id="43">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Demon Lord Lucifer\0Behold the mercy of the Demon Lord,{F801}the spark of life that can be seen in{F801}the midst of death...{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Behold the mercy of the Demon Lord,{F801}the spark of life that can be seen in{F801}the midst of death...{F801}{F802}</target>
+  </entry>
+  <entry id="45">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Demon Lord Lucifer\0Even now... I am deep in slumber...{F801}Mercy... Very well... That will do...{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Even now... I am deep in slumber...{F801}Mercy... Very well... That will do...{F801}{F802}</target>
+  </entry>
+  <entry id="47">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>{F812}Demon Lord Lucifer\0I will show you further mercy. Do try{F801}not to squander your good fortune.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0I will show you further mercy. Do try{F801}not to squander your good fortune.{F801}{F802}</target>
+  </entry>
+  <entry id="50">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>{F812}Demon Lord Lucifer\0So it is money that drives you? Very{F801}well, then let us hear your case.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0So it is money that drives you? Very{F801}well, then let us hear your case.{F801}{F802}</target>
+  </entry>
+  <entry id="52">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>{F812}Demon Lord Lucifer\0Keep that money clutched tight to your{F801}breast... so that you don't lose it{F801}even in death.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Keep that money clutched tight to your{F801}breast... so that you don't lose it{F801}even in death.{F801}{F802}</target>
+  </entry>
+  <entry id="54">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>{F812}Demon Lord Lucifer\0Either you have stepped past the border{F801}of life and death... or you have fallen{F801}from the precipice of life...{F801}{F802}Either as it may be, all that remains{F801}for you now is a gruesome death.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Either you have stepped past the border{F801}of life and death... or you have fallen{F801}from the precipice of life...{F801}{F802}Either as it may be, all that remains{F801}for you now is a gruesome death.{F801}{F802}</target>
+  </entry>
+  <entry id="56">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>{F812}Demon Lord Lucifer\0Hahahahaha...!{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Hahahahaha...!{F801}{F802}</target>
+  </entry>
+  <entry id="58">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>{F812}Demon Lord Lucifer\0...Is that all you have to ask? This is{F801}the extent of your desire?{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0...Is that all you have to ask? This is{F801}the extent of your desire?{F801}{F802}</target>
+  </entry>
+  <entry id="60">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>{F812}Demon Lord Lucifer\0...Enough, I tire of your prattling.{F801}I have just the thing for you.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0...Enough, I tire of your prattling.{F801}I have just the thing for you.{F801}{F802}</target>
+  </entry>
+  <entry id="62">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>{F812}Demon Lord Lucifer\0Hahahahaha...! Unfortunately for you,{F801}it ends here.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Hahahahaha...! Unfortunately for you,{F801}it ends here.{F801}{F802}</target>
+  </entry>
+  <entry id="64">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>{F812}Demon Lord Lucifer\0So it is money that drives you? Very{F801}well, then let us hear your case.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0So it is money that drives you? Very{F801}well, then let us hear your case.{F801}{F802}</target>
+  </entry>
+  <entry id="66">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>{F812}Demon Lord Lucifer\0This place is the Pandemonium and you{F801}are facing the Lord of all evil. It{F801}makes for an interesting negotiation...{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0This place is the Pandemonium and you{F801}are facing the Lord of all evil. It{F801}makes for an interesting negotiation...{F801}{F802}</target>
+  </entry>
+  <entry id="68">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>{F812}Demon Lord Lucifer\0Well done, I shall present you with your{F801}reward.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Well done, I shall present you with your{F801}reward.{F801}{F802}</target>
+  </entry>
+  <entry id="70">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>{F812}Demon Lord Lucifer\0Hahahaha... Negotiation? There is no{F801}need for such frippery...!{F801}{F802}I am the Demon Lord! It is nothing to{F801}me to give you what you ask...!{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Hahahaha... Negotiation? There is no{F801}need for such frippery...!{F801}{F802}I am the Demon Lord! It is nothing to{F801}me to give you what you ask...!{F801}{F802}</target>
+  </entry>
+  <entry id="72">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>{F812}Demon Lord Lucifer\0I will present you with another reward.{F801}Look grateful.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0I will present you with another reward.{F801}Look grateful.{F801}{F802}</target>
+  </entry>
+  <entry id="74">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>{F812}Demon Lord Lucifer\0...I see no need to prolong this.{F801}A simple proposition, then:{F801}{F802}{F804,1}{F878,1} Macca.{F804,0}{F801}Will you take or leave it?{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0...I see no need to prolong this.{F801}A simple proposition, then:{F801}{F802}{F804,1}{F878,1} Macca.{F804,0}{F801}Will you take or leave it?{F801}{F802}</target>
+  </entry>
+  <entry id="76">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>{F812}Demon Lord Lucifer\0My demand is your {F804,1}{F872,1}.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0My demand is your {F804,1}{F872,1}.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="78">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="79">
+    <source>{F812}Demon Lord Lucifer\0My demand is {F804,1}{F878,1} Macca.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0My demand is {F804,1}{F878,1} Macca.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="80">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="81">
+    <source>{F812}Demon Lord Lucifer\0My demand is {F804,1}a little{F804,0} of your {F804,1}stamina.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0My demand is {F804,1}a little{F804,0} of your {F804,1}stamina.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="82">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="83">
+    <source>{F812}Demon Lord Lucifer\0My demand is {F804,1}some{F804,0} of your {F804,1}stamina.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0My demand is {F804,1}some{F804,0} of your {F804,1}stamina.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="84">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="85">
+    <source>{F812}Demon Lord Lucifer\0My demand is {F804,1}a lot{F804,0} of your {F804,1}stamina.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0My demand is {F804,1}a lot{F804,0} of your {F804,1}stamina.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="86">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="87">
+    <source>{F812}Demon Lord Lucifer\0My demand is {F804,1}the majority{F804,0} of your {F804,1}stamina.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0My demand is {F804,1}the majority{F804,0} of your {F804,1}stamina.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="88">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="89">
+    <source>{F812}Demon Lord Lucifer\0My demand is {F804,1}a little{F804,0} of your {F804,1}spirit.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0My demand is {F804,1}a little{F804,0} of your {F804,1}spirit.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="90">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="91">
+    <source>{F812}Demon Lord Lucifer\0My demand is {F804,1}some{F804,0} of your {F804,1}spirit.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0My demand is {F804,1}some{F804,0} of your {F804,1}spirit.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="92">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="93">
+    <source>{F812}Demon Lord Lucifer\0My demand is {F804,1}a lot{F804,0} of your {F804,1}spirit.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0My demand is {F804,1}a lot{F804,0} of your {F804,1}spirit.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="94">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="95">
+    <source>{F812}Demon Lord Lucifer\0My demand is {F804,1}the majority{F804,0} of your {F804,1}spirit.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0My demand is {F804,1}the majority{F804,0} of your {F804,1}spirit.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="96">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="97">
+    <source>{F812}Demon Lord Lucifer\0Your demon there... I lay claim to{F801}{F804,1}the life of {F873,2}.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Your demon there... I lay claim to{F801}{F804,1}the life of {F873,2}.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="98">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="99">
+    <source>{F812}Demon Lord Lucifer\0...My demand is {F804,1}that.{F804,0}{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0...My demand is {F804,1}that.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="100">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Demon Lord Lucifer\0...Now, what will you offer to me?{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0...Now, what will you offer to me?{F801}{F802}</target>
+  </entry>
+  <entry id="102">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Demon Lord Lucifer\0Indeed, that is correct.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Indeed, that is correct.{F801}{F802}</target>
+  </entry>
+  <entry id="104">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Demon Lord Lucifer\0...I have no need of that.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0...I have no need of that.{F801}{F802}</target>
+  </entry>
+  <entry id="106">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="108">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="110">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="111">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="113">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="114">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="115">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="117">
+    <source>NOT USED{F801}{F802}</source>
+    <target>NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="118">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="119">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>{F812}Demon Lord Lucifer\0...Hm. Yes, that should be enough.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0...Hm. Yes, that should be enough.{F801}{F802}</target>
+  </entry>
+  <entry id="121">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>{F812}Demon Lord Lucifer\0That is most excellent... I require{F801}nothing more than this.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0That is most excellent... I require{F801}nothing more than this.{F801}{F802}</target>
+  </entry>
+  <entry id="123">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="124">
+    <source>{F812}Demon Lord Lucifer\0Oh...? So you mean to keep it for{F801}yourself.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Oh...? So you mean to keep it for{F801}yourself.{F801}{F802}</target>
+  </entry>
+  <entry id="125">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>{F812}Demon Lord Lucifer\0Most reckless of you, being so miserly{F801}with the Demon Lord...{F801}{F802}It is time you met your end.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Most reckless of you, being so miserly{F801}with the Demon Lord...{F801}{F802}It is time you met your end.{F801}{F802}</target>
+  </entry>
+  <entry id="127">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>{F812}Demon Lord Lucifer\0...Enough, we are quits.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0...Enough, we are quits.{F801}{F802}</target>
+  </entry>
+  <entry id="129">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="130">
+    <source>{F812}Demon Lord Lucifer\0Most reckless of you, attempting to{F801}swindle the Demon Lord...{F801}{F802}It is time you met your end.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Most reckless of you, attempting to{F801}swindle the Demon Lord...{F801}{F802}It is time you met your end.{F801}{F802}</target>
+  </entry>
+  <entry id="131">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="132">
+    <source>{F812}Demon Lord Lucifer\0I see... So you do not have it.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0I see... So you do not have it.{F801}{F802}</target>
+  </entry>
+  <entry id="133">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="134">
+    <source>{F812}Demon Lord Lucifer\0What profit is it for either of us if{F801}you have not a single Life Stone?{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0What profit is it for either of us if{F801}you have not a single Life Stone?{F801}{F802}</target>
+  </entry>
+  <entry id="135">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="136">
+    <source>{F812}Demon Lord Lucifer\0...Then let us do so. I think very{F801}little of prolonged discussion.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0...Then let us do so. I think very{F801}little of prolonged discussion.{F801}{F802}</target>
+  </entry>
+  <entry id="137">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="138">
+    <source>{F812}Demon Lord Lucifer\0Most reckless of you, attempting to{F801}stymie the Demon Lord...{F801}{F802}It is time you met your end.{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0Most reckless of you, attempting to{F801}stymie the Demon Lord...{F801}{F802}It is time you met your end.{F801}{F802}</target>
+  </entry>
+  <entry id="139">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="140">
+    <source>{F812}Demon Lord Lucifer\0How amusing, for one to stand so resolute{F801}in the face of the Demon Lord...!{F801}{F802}Hahahahaha...!{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0How amusing, for one to stand so resolute{F801}in the face of the Demon Lord...!{F801}{F802}Hahahahaha...!{F801}{F802}</target>
+  </entry>
+  <entry id="141">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="142">
+    <source>{F812}Demon Lord Lucifer\0All you have done is accept my every{F801}demand without question... Your{F801}submissive posture sickens me.{F801}{F802}How dare you approach the Demon Lord{F801}in such a selfless spirit?{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0All you have done is accept my every{F801}demand without question... Your{F801}submissive posture sickens me.{F801}{F802}How dare you approach the Demon Lord{F801}in such a selfless spirit?{F801}{F802}</target>
+  </entry>
+  <entry id="143">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="144">
+    <source>{F812}Demon Lord Lucifer\0So, you faced the Demon Lord with your{F801}spirit and nothing else?{F801}{F802}Hahahahaha...!{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0So, you faced the Demon Lord with your{F801}spirit and nothing else?{F801}{F802}Hahahahaha...!{F801}{F802}</target>
+  </entry>
+  <entry id="145">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="146">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="147">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="148">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="149">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="150">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="151">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="152">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="153">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="154">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="155">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="156">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="157">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="158">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="159">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="160">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="161">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="162">
+    <source>{F812}Demon Lord Lucifer\0You circle around to the same subject{F801}repeatedly... Have you no free will to{F801}adapt to the flow of conversation?{F801}{F802}</source>
+    <target>{F812}Demon Lord Lucifer\0You circle around to the same subject{F801}repeatedly... Have you no free will to{F801}adapt to the flow of conversation?{F801}{F802}</target>
+  </entry>
+  <entry id="163">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="164">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="165">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="166">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="167">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="168">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="169">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="170">
+    <source>NOT USED{F801}</source>
+    <target>NOT USED{F801}</target>
+  </entry>
+  <entry id="171">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="172">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="173">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+  <entry id="174">
+    <source>{F871,1}NOT USED{F801}{F802}</source>
+    <target>{F871,1}NOT USED{F801}{F802}</target>
+  </entry>
+</mbm>
