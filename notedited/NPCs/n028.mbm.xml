@@ -1,0 +1,150 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Chubby man\0{F87A,121}{F813,1,403601}Geez... I'm so hungry... Maybe I could{F801}eat that red pill I found on the street{F801}the other day...{F801}{F802}Wait, those things are for demons,{F801}huh? Maybe that's not a good idea...{F801}</source>
+    <target>{F812}Chubby man\0{F87A,121}{F813,1,403601}Geez... I'm so hungry... Maybe I could{F801}eat that red pill I found on the street{F801}the other day...{F801}{F802}Wait, those things are for demons,{F801}huh? Maybe that's not a good idea...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Chubby man\0{F87A,121}{F813,1,403601}Everyone's overreacting. So there's{F801}a few more demons around, so what.{F801}{F802}C'mon, think about it! We got the{F801}Ashura-kai on our side! Tayama won't{F801}let this shit slide, right?{F801}</source>
+    <target>{F812}Chubby man\0{F87A,121}{F813,1,403601}Everyone's overreacting. So there's{F801}a few more demons around, so what.{F801}{F802}C'mon, think about it! We got the{F801}Ashura-kai on our side! Tayama won't{F801}let this shit slide, right?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Chubby man\0{F87A,121}{F813,1,403642}I... I don't care about any champion.{F801}It's a dirty trick from the Association!{F801}{F802}It's all gonna be over for Tokyo soon...{F801}This is just a sideshow to keep people{F801}distracted from the real problem...{F801}{F802}I mean, c'mon! Everyone's talking about{F801}it! The angels are coming down here to{F801}wipe us all out!{F801}</source>
+    <target>{F812}Chubby man\0{F87A,121}{F813,1,403642}I... I don't care about any champion.{F801}It's a dirty trick from the Association!{F801}{F802}It's all gonna be over for Tokyo soon...{F801}This is just a sideshow to keep people{F801}distracted from the real problem...{F801}{F802}I mean, c'mon! Everyone's talking about{F801}it! The angels are coming down here to{F801}wipe us all out!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Chubby man\0{F87A,121}{F813,1,403642}I... I don't care about any champion.{F801}It's a dirty trick from the Association!{F801}{F802}It's all gonna be over for Tokyo soon...{F801}This is just a sideshow to keep people{F801}distracted from the real problem...{F801}{F802}I mean, c'mon! Everyone's talking about{F801}it! There's a Demon Lord in Ichigaya!{F801}</source>
+    <target>{F812}Chubby man\0{F87A,121}{F813,1,403642}I... I don't care about any champion.{F801}It's a dirty trick from the Association!{F801}{F802}It's all gonna be over for Tokyo soon...{F801}This is just a sideshow to keep people{F801}distracted from the real problem...{F801}{F802}I mean, c'mon! Everyone's talking about{F801}it! There's a Demon Lord in Ichigaya!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Chubby man\0{F87A,121}{F813,1,403642}Mr. Fujiwara sent us Shinjuku folks{F801}a message.{F801}{F802}He said the underground district would{F801}be crowded today, so we should stay{F801}home as much as possible...{F801}{F802}Tokyo must be in some serious shit.{F801}They're putting on a flashy sideshow{F801}to keep attention off the real problem.{F801}{F802}Something's about to happen here...{F801}Something real damn big...{F801}</source>
+    <target>{F812}Chubby man\0{F87A,121}{F813,1,403642}Mr. Fujiwara sent us Shinjuku folks{F801}a message.{F801}{F802}He said the underground district would{F801}be crowded today, so we should stay{F801}home as much as possible...{F801}{F802}Tokyo must be in some serious shit.{F801}They're putting on a flashy sideshow{F801}to keep attention off the real problem.{F801}{F802}Something's about to happen here...{F801}Something real damn big...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Rough man\0{F87A,59}{F813,1,404301}Mr. Tayama is a truly great man.{F801}I mean, I'd name my kids after him,{F801}if I had kids.{F801}{F802}Even if I bump into a demon, I can just{F801}toss him a red pill and he'll go on his{F801}way. It's that easy...{F801}</source>
+    <target>{F812}Rough man\0{F87A,59}{F813,1,404301}Mr. Tayama is a truly great man.{F801}I mean, I'd name my kids after him,{F801}if I had kids.{F801}{F802}Even if I bump into a demon, I can just{F801}toss him a red pill and he'll go on his{F801}way. It's that easy...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Rough man\0{F87A,59}{F813,1,404301}H-Hey, I heard there are demons in the{F801}underground district! Someone call the{F801}Ashura-kai quick!{F801}{F802}The demons promised they wouldn't go{F801}into the underground districts!{F801}Mr. Tayama said so...!{F801}</source>
+    <target>{F812}Rough man\0{F87A,59}{F813,1,404301}H-Hey, I heard there are demons in the{F801}underground district! Someone call the{F801}Ashura-kai quick!{F801}{F802}The demons promised they wouldn't go{F801}into the underground districts!{F801}Mr. Tayama said so...!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Rough man\0{F87A,59}{F813,1,404311}H-Hey, I heard there are demons in the{F801}underground district! Someone call{F801}{F843,0} quick!{F801}{F802}I don't really know the dude, but{F801}something tells me he can do something{F801}about it!{F801}</source>
+    <target>{F812}Rough man\0{F87A,59}{F813,1,404311}H-Hey, I heard there are demons in the{F801}underground district! Someone call{F801}{F843,0} quick!{F801}{F802}I don't really know the dude, but{F801}something tells me he can do something{F801}about it!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Rough man\0{F87A,59}{F813,1,404311}Oh hey, it's {F843,0}. I hear{F801}you're the champion, huh?{F801}{F802}Listen, there's demons inside the{F801}underground district! I'm telling you{F801}'cause Tayama's gone now.{F801}</source>
+    <target>{F812}Rough man\0{F87A,59}{F813,1,404311}Oh hey, it's {F843,0}. I hear{F801}you're the champion, huh?{F801}{F802}Listen, there's demons inside the{F801}underground district! I'm telling you{F801}'cause Tayama's gone now.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Rough man\0{F87A,59}{F813,1,404301}Oh hey, it's {F843,0}. I hear{F801}you're the champion, huh?{F801}{F802}There used to be a demon in the west{F801}entrance of the underground district.{F801}He took off when the Demon Lord died.{F801}{F802}Maybe he got uneasy... I'm mentioning{F801}this to you 'cause Tayama's gone now.{F801}</source>
+    <target>{F812}Rough man\0{F87A,59}{F813,1,404301}Oh hey, it's {F843,0}. I hear{F801}you're the champion, huh?{F801}{F802}There used to be a demon in the west{F801}entrance of the underground district.{F801}He took off when the Demon Lord died.{F801}{F802}Maybe he got uneasy... I'm mentioning{F801}this to you 'cause Tayama's gone now.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403301}The demon in the east entrance area is{F801}such a headache... But that demon in the{F801}government office makes me nervous too.{F801}{F802}We'll be okay, right? Since Mr. Tayama{F801}and the Ashura-kai are backing us up?{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403301}The demon in the east entrance area is{F801}such a headache... But that demon in the{F801}government office makes me nervous too.{F801}{F802}We'll be okay, right? Since Mr. Tayama{F801}and the Ashura-kai are backing us up?{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403301}I heard from the Ashura-kai folks that{F801}the thing in the Metropolitan Government{F801}Office is over with.{F801}{F802}I guess the Ashura-kai's elite troops{F801}took care of the demon for us.{F801}{F802}Man... how would we get along without{F801}the Ashura-kai? They're the best!{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403301}I heard from the Ashura-kai folks that{F801}the thing in the Metropolitan Government{F801}Office is over with.{F801}{F802}I guess the Ashura-kai's elite troops{F801}took care of the demon for us.{F801}{F802}Man... how would we get along without{F801}the Ashura-kai? They're the best!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403303}I heard from the Ashura-kai folks that{F801}the thing in the Metropolitan Government{F801}Office is over with.{F801}{F802}I guess the Ashura-kai's elite troops{F801}convinced the demon to leave...{F801}{F802}Man... how would we get along without{F801}the Ashura-kai? Not only are they{F801}tough, they're smart too.{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403303}I heard from the Ashura-kai folks that{F801}the thing in the Metropolitan Government{F801}Office is over with.{F801}{F802}I guess the Ashura-kai's elite troops{F801}convinced the demon to leave...{F801}{F802}Man... how would we get along without{F801}the Ashura-kai? Not only are they{F801}tough, they're smart too.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403302}It's the Ring of Gaea's fault that{F801}we've got more demons in Tokyo!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult! They're no match for{F801}the good people of the Ashura-kai!{F801}{F802}C'mon, Mr. Tayama... Wipe those freaks{F801}out, quick!{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403302}It's the Ring of Gaea's fault that{F801}we've got more demons in Tokyo!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult! They're no match for{F801}the good people of the Ashura-kai!{F801}{F802}C'mon, Mr. Tayama... Wipe those freaks{F801}out, quick!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403303}It's the Ring of Gaea's fault that{F801}we've got more demons in Tokyo!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult!{F801}{F802}C'mon, Mr. Tayama... Wipe those freaks{F801}out, quick!{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403303}It's the Ring of Gaea's fault that{F801}we've got more demons in Tokyo!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult!{F801}{F802}C'mon, Mr. Tayama... Wipe those freaks{F801}out, quick!{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403303}It's the Ring of Gaea's fault that{F801}we've got more demons in Tokyo!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult!{F801}{F802}Oh... It's the champion! Please go{F801}and wipe those freaks out, quick!{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403303}It's the Ring of Gaea's fault that{F801}we've got more demons in Tokyo!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult!{F801}{F802}Oh... It's the champion! Please go{F801}and wipe those freaks out, quick!{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403303}I hope the people from the Eastern{F801}Kingdom of Mikado get used to life{F801}in Tokyo...{F801}{F802}I'll do what I can to help them{F801}settle in.{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403303}I hope the people from the Eastern{F801}Kingdom of Mikado get used to life{F801}in Tokyo...{F801}{F802}I'll do what I can to help them{F801}settle in.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Gentle old lady\0{F87A,39}{F813,1,403902}I've left my dear ancestral home for{F801}a place surrounded by these strange{F801}mystic relics...{F801}{F802}Life is not easy, and it can be full{F801}of surprises. But I think I can get{F801}used to this, too, in time.{F801}</source>
+    <target>{F812}Gentle old lady\0{F87A,39}{F813,1,403902}I've left my dear ancestral home for{F801}a place surrounded by these strange{F801}mystic relics...{F801}{F802}Life is not easy, and it can be full{F801}of surprises. But I think I can get{F801}used to this, too, in time.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403103}Do you know those Terminals? They're{F801}the strange devices you can find here{F801}and there around Tokyo...{F801}{F802}Just don't get too close, or the{F801}guardian will come out. They're these{F801}ex-mercenaries hired by the Ashura-kai.{F801}{F802}Though they have some weird nicknames,{F801}like "Cosplay Pro" or "Man of Many{F801}Voices." Still, they're trained killers!{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403103}Do you know those Terminals? They're{F801}the strange devices you can find here{F801}and there around Tokyo...{F801}{F802}Just don't get too close, or the{F801}guardian will come out. They're these{F801}ex-mercenaries hired by the Ashura-kai.{F801}{F802}Though they have some weird nicknames,{F801}like "Cosplay Pro" or "Man of Many{F801}Voices." Still, they're trained killers!{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Chubby man\0{F87A,121}{F813,1,403601}I hear there's a little ranch in{F801}Shinjuku National Park. I haven't seen{F801}it myself, though...{F801}{F802}The Ashura-kai sends folks there to{F801}take care of livestock and crops.{F801}{F802}I wanna join them to claim just a tiny{F801}share, but I'm too scared to leave the{F801}underground district...{F801}</source>
+    <target>{F812}Chubby man\0{F87A,121}{F813,1,403601}I hear there's a little ranch in{F801}Shinjuku National Park. I haven't seen{F801}it myself, though...{F801}{F802}The Ashura-kai sends folks there to{F801}take care of livestock and crops.{F801}{F802}I wanna join them to claim just a tiny{F801}share, but I'm too scared to leave the{F801}underground district...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Chubby man\0{F87A,121}{F813,1,403601}Huh... the Association's up to something{F801}strange. Some kind of tournament...{F801}{F802}M-Maybe Tokyo is finished... 'Cause{F801}you know, this is the kind of trick{F801}the top dogs always pull, right?{F801}{F802}A flashy sideshow to keep people's eyes{F801}off the real problem...{F801}</source>
+    <target>{F812}Chubby man\0{F87A,121}{F813,1,403601}Huh... the Association's up to something{F801}strange. Some kind of tournament...{F801}{F802}M-Maybe Tokyo is finished... 'Cause{F801}you know, this is the kind of trick{F801}the top dogs always pull, right?{F801}{F802}A flashy sideshow to keep people's eyes{F801}off the real problem...{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Rough man\0{F87A,59}{F813,1,404301}I didn't care much about that thing{F801}with the Corpses, but this is what I{F801}heard from a friend of a friend...{F801}{F802}The guy who did it was a terrorist who{F801}used to be a Hunter. He was after{F801}the Reds.{F801}{F802}But in the end, the Ashura-kai captured{F801}him and put a stop to it. Or so I heard.{F801}</source>
+    <target>{F812}Rough man\0{F87A,59}{F813,1,404301}I didn't care much about that thing{F801}with the Corpses, but this is what I{F801}heard from a friend of a friend...{F801}{F802}The guy who did it was a terrorist who{F801}used to be a Hunter. He was after{F801}the Reds.{F801}{F802}But in the end, the Ashura-kai captured{F801}him and put a stop to it. Or so I heard.{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403341}I heard a rumor that the guys in{F801}Ikebukuro kicked the Ashura-kai out.{F801}{F802}See, that makes no sense to me.{F801}They're just asking to bring the{F801}demons back for good that way.{F801}{F802}Us regular folks can only live in Tokyo{F801}because of what Mr. Tayama did for us.{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403341}I heard a rumor that the guys in{F801}Ikebukuro kicked the Ashura-kai out.{F801}{F802}See, that makes no sense to me.{F801}They're just asking to bring the{F801}demons back for good that way.{F801}{F802}Us regular folks can only live in Tokyo{F801}because of what Mr. Tayama did for us.{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403303}It's the Ring of Gaea's fault that{F801}we've got more demons in Tokyo!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult!{F801}{F802}Hey, you're a high-ranking Hunter,{F801}right? Go and wipe those freaks out,{F801}quick!{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403303}It's the Ring of Gaea's fault that{F801}we've got more demons in Tokyo!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult!{F801}{F802}Hey, you're a high-ranking Hunter,{F801}right? Go and wipe those freaks out,{F801}quick!{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403103}I hear those Ring of Gaea guys were{F801}in Ikebukuro.{F801}{F802}This one time, some Hunter and a Ring{F801}of Gaea guy were staring each other{F801}down in Shinjuku...{F801}{F802}The Ring of Gaea guy silently pulled{F801}out his falchion and sliced off the{F801}Hunter's arm!{F801}{F802}I thought the Ashura-kai were a bunch{F801}of tough guys, but the Ring of Gaea is{F801}just as dangerous...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403103}I hear those Ring of Gaea guys were{F801}in Ikebukuro.{F801}{F802}This one time, some Hunter and a Ring{F801}of Gaea guy were staring each other{F801}down in Shinjuku...{F801}{F802}The Ring of Gaea guy silently pulled{F801}out his falchion and sliced off the{F801}Hunter's arm!{F801}{F802}I thought the Ashura-kai were a bunch{F801}of tough guys, but the Ring of Gaea is{F801}just as dangerous...{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Chubby man\0{F87A,121}{F813,1,403601}Did you hear someone snuck into Shinjuku{F801}National Park? Must've been some{F801}daredevil...{F801}{F802}Or maybe he was just a thief after the{F801}meat and veggies there.{F801}{F802}But what kind of nutcase would rob the{F801}Ashura-kai? Must have some nerve...{F801}My hat's off to him, really.{F801}</source>
+    <target>{F812}Chubby man\0{F87A,121}{F813,1,403601}Did you hear someone snuck into Shinjuku{F801}National Park? Must've been some{F801}daredevil...{F801}{F802}Or maybe he was just a thief after the{F801}meat and veggies there.{F801}{F802}But what kind of nutcase would rob the{F801}Ashura-kai? Must have some nerve...{F801}My hat's off to him, really.{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>{F812}Rough man\0{F87A,59}{F813,1,404301}I didn't care much about that thing{F801}with the Corpses, but this is what I{F801}heard from a friend of a friend...{F801}{F802}The guy who did it was a terrorist who{F801}used to be a Hunter. He was after{F801}the Reds.{F801}{F802}But in the end, the Ashura-kai captured{F801}him and put a stop to it. Or so I heard.{F801}</source>
+    <target>{F812}Rough man\0{F87A,59}{F813,1,404301}I didn't care much about that thing{F801}with the Corpses, but this is what I{F801}heard from a friend of a friend...{F801}{F802}The guy who did it was a terrorist who{F801}used to be a Hunter. He was after{F801}the Reds.{F801}{F802}But in the end, the Ashura-kai captured{F801}him and put a stop to it. Or so I heard.{F801}</target>
+  </entry>
+  <entry id="214">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403341}Can you believe this? Those Ring of{F801}Gaea people are talking smack about{F801}Mr. Tayama!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult! They're no match for{F801}the good people of the Ashura-kai!{F801}{F802}How can they say those things about{F801}Mr. Tayama!? They should shut their{F801}filthy mouths!{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403341}Can you believe this? Those Ring of{F801}Gaea people are talking smack about{F801}Mr. Tayama!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult! They're no match for{F801}the good people of the Ashura-kai!{F801}{F802}How can they say those things about{F801}Mr. Tayama!? They should shut their{F801}filthy mouths!{F801}</target>
+  </entry>
+  <entry id="220">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403103}Since Shinjuku is at peace now,{F801}I thought I might go to Ikebukuro...{F801}{F802}But I heard those dangerous nutcases{F801}are in Ikebukuro now. They're as bad{F801}as the Ashura-kai...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403103}Since Shinjuku is at peace now,{F801}I thought I might go to Ikebukuro...{F801}{F802}But I heard those dangerous nutcases{F801}are in Ikebukuro now. They're as bad{F801}as the Ashura-kai...{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Chubby man\0{F87A,121}{F813,1,403601}You know, the top dogs aren't really{F801}great men, right? They're way shadier{F801}than us normal folks.{F801}{F802}But it's different with those guys in{F801}the Ashura-kai. They set up a situation{F801}where a guy like me can get his fill.{F801}{F802}That's why I respect them, you see?{F801}</source>
+    <target>{F812}Chubby man\0{F87A,121}{F813,1,403601}You know, the top dogs aren't really{F801}great men, right? They're way shadier{F801}than us normal folks.{F801}{F802}But it's different with those guys in{F801}the Ashura-kai. They set up a situation{F801}where a guy like me can get his fill.{F801}{F802}That's why I respect them, you see?{F801}</target>
+  </entry>
+  <entry id="306">
+    <source>{F812}Rough man\0{F87A,59}{F813,1,404311}Looks like the Ashura-kai have their{F801}eye on the whackjob who snuck into{F801}Shinjuku National Park.{F801}{F802}Soon, Mr. Tayama will have 'em bring{F801}the poor bastard in...{F801}{F802}Plus his family and everyone the{F801}bastard knows.{F801}</source>
+    <target>{F812}Rough man\0{F87A,59}{F813,1,404311}Looks like the Ashura-kai have their{F801}eye on the whackjob who snuck into{F801}Shinjuku National Park.{F801}{F802}Soon, Mr. Tayama will have 'em bring{F801}the poor bastard in...{F801}{F802}Plus his family and everyone the{F801}bastard knows.{F801}</target>
+  </entry>
+  <entry id="314">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403341}I wonder what kind of man Mr. Tayama{F801}is... He doesn't leave Roppongi often,{F801}so I've never seen his face...{F801}{F802}The word is he graduated from some{F801}state university and even studied{F801}abroad...{F801}{F802}He's a real elite. He lives in a totally{F801}different world than us...{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403341}I wonder what kind of man Mr. Tayama{F801}is... He doesn't leave Roppongi often,{F801}so I've never seen his face...{F801}{F802}The word is he graduated from some{F801}state university and even studied{F801}abroad...{F801}{F802}He's a real elite. He lives in a totally{F801}different world than us...{F801}</target>
+  </entry>
+  <entry id="320">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403122}Slowly but surely, the Ring of Gaea is{F801}expanding their turf.{F801}{F802}Not only that, there's some new players{F801}in town from on up above the ceiling...{F801}{F802}Things are getting messy, I guess.{F801}Something big is about to happen,{F801}I can feel it.{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403122}Slowly but surely, the Ring of Gaea is{F801}expanding their turf.{F801}{F802}Not only that, there's some new players{F801}in town from on up above the ceiling...{F801}{F802}Things are getting messy, I guess.{F801}Something big is about to happen,{F801}I can feel it.{F801}</target>
+  </entry>
+  <entry id="400">
+    <source>{F812}Chubby man\0{F87A,121}{F813,1,403601}The Ring of Gaea is way too preachy.{F801}Who gives a shit about all that stuff{F801}about who's the strongest?{F801}{F802}Tayama's no saint, but he set things{F801}up so a guy like me can get his fill.{F801}{F802}That's why I respect the Ashura-kai,{F801}you see?{F801}</source>
+    <target>{F812}Chubby man\0{F87A,121}{F813,1,403601}The Ring of Gaea is way too preachy.{F801}Who gives a shit about all that stuff{F801}about who's the strongest?{F801}{F802}Tayama's no saint, but he set things{F801}up so a guy like me can get his fill.{F801}{F802}That's why I respect the Ashura-kai,{F801}you see?{F801}</target>
+  </entry>
+  <entry id="406">
+    <source>{F812}Rough man\0{F87A,59}{F813,1,404311}Looks like the Ashura-kai have their{F801}eye on the whackjob who snuck into{F801}Shinjuku National Park.{F801}{F802}It wasn't just the park, either. That{F801}crazy bastard snuck into Kasumigaseki{F801}too...{F801}{F802}Mr. Tayama must be pretty pissed. I feel{F801}sorry for that bastard... and anyone{F801}related to him.{F801}</source>
+    <target>{F812}Rough man\0{F87A,59}{F813,1,404311}Looks like the Ashura-kai have their{F801}eye on the whackjob who snuck into{F801}Shinjuku National Park.{F801}{F802}It wasn't just the park, either. That{F801}crazy bastard snuck into Kasumigaseki{F801}too...{F801}{F802}Mr. Tayama must be pretty pissed. I feel{F801}sorry for that bastard... and anyone{F801}related to him.{F801}</target>
+  </entry>
+  <entry id="414">
+    <source>{F812}Ordinary woman\0{F87A,122}{F813,1,403341}Can you believe this!? That Yuriko{F801}from the Ring of Gaea has launched{F801}an attack on Ichigaya!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult! They're no match for{F801}the good people of the Ashura-kai!{F801}{F802}How dare those losers take on{F801}Mr. Tayama!?{F801}</source>
+    <target>{F812}Ordinary woman\0{F87A,122}{F813,1,403341}Can you believe this!? That Yuriko{F801}from the Ring of Gaea has launched{F801}an attack on Ichigaya!{F801}{F802}The Ring of Gaea is nothing but a{F801}freaky cult! They're no match for{F801}the good people of the Ashura-kai!{F801}{F802}How dare those losers take on{F801}Mr. Tayama!?{F801}</target>
+  </entry>
+  <entry id="506">
+    <source>{F812}Rough man\0{F87A,59}{F813,1,404311}Even I heard the rumor about the{F801}underground district in Roppongi.{F801}{F802}But only thieves and rapists get{F801}taken there.{F801}{F802}Mr. Tayama's generous enough to keep{F801}our streets clean. He takes out the{F801}bad element for us regular folks...{F801}</source>
+    <target>{F812}Rough man\0{F87A,59}{F813,1,404311}Even I heard the rumor about the{F801}underground district in Roppongi.{F801}{F802}But only thieves and rapists get{F801}taken there.{F801}{F802}Mr. Tayama's generous enough to keep{F801}our streets clean. He takes out the{F801}bad element for us regular folks...{F801}</target>
+  </entry>
+</mbm>

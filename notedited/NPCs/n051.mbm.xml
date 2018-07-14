@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Heavyset man\0{F87A,121}{F813,1,403002}Are you taking on quests for the{F801}Ashura-kai...?{F801}{F802}I don't care what your reasons are.{F801}You're helping those dirty kidnappers.{F801}{F802}......{F801}Maybe I've said too much. You'll{F801}see what I mean soon enough.{F801}</source>
+    <target>{F812}Heavyset man\0{F87A,121}{F813,1,403002}Are you taking on quests for the{F801}Ashura-kai...?{F801}{F802}I don't care what your reasons are.{F801}You're helping those dirty kidnappers.{F801}{F802}......{F801}Maybe I've said too much. You'll{F801}see what I mean soon enough.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Heavyset man\0{F87A,121}{F813,1,403002}In that moment when the light shined{F801}from Ichigaya, I saw a human-shaped{F801}figure.{F801}{F802}A white figure... It reminded me of{F801}my daughter...{F801}{F802}When I blinked, it was gone...{F801}</source>
+    <target>{F812}Heavyset man\0{F87A,121}{F813,1,403002}In that moment when the light shined{F801}from Ichigaya, I saw a human-shaped{F801}figure.{F801}{F802}A white figure... It reminded me of{F801}my daughter...{F801}{F802}When I blinked, it was gone...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Heavyset man\0{F87A,121}{F813,1,403021}I just saw two shadows...{F801}...Two white shadows...{F801}{F802}Somehow, they... They reminded me{F801}of my wife and daughter.{F801}{F802}They asked me to join them.{F801}They said that things will be very{F801}hard for me here soon...{F801}{F802}Without thinking, I said that I'd{F801}keep trying to do my best. Then they{F801}said, "Farewell..."{F801}</source>
+    <target>{F812}Heavyset man\0{F87A,121}{F813,1,403021}I just saw two shadows...{F801}...Two white shadows...{F801}{F802}Somehow, they... They reminded me{F801}of my wife and daughter.{F801}{F802}They asked me to join them.{F801}They said that things will be very{F801}hard for me here soon...{F801}{F802}Without thinking, I said that I'd{F801}keep trying to do my best. Then they{F801}said, "Farewell..."{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403311}You know, I once worked in a club in{F801}Ginza. Tayama used to go there often.{F801}{F802}He's kinda handsome, and a smooth{F801}talker. When he put his moves on{F801}the ladies, he rarely left alone...{F801}{F802}But I hear that he bosses everyone{F801}around now. Well, technically, he{F801}is the boss of Tokyo, so...{F801}</source>
+    <target>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403311}You know, I once worked in a club in{F801}Ginza. Tayama used to go there often.{F801}{F802}He's kinda handsome, and a smooth{F801}talker. When he put his moves on{F801}the ladies, he rarely left alone...{F801}{F802}But I hear that he bosses everyone{F801}around now. Well, technically, he{F801}is the boss of Tokyo, so...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403311}Come to think of it, nothing big has{F801}really happened in Tokyo for years...{F801}{F802}The children who came from above{F801}the ceiling drove Tayama and Lady{F801}Yuriko into a massive war...{F801}{F802}They have changed Tokyo...{F801}</source>
+    <target>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403311}Come to think of it, nothing big has{F801}really happened in Tokyo for years...{F801}{F802}The children who came from above{F801}the ceiling drove Tayama and Lady{F801}Yuriko into a massive war...{F801}{F802}They have changed Tokyo...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}冷めた目の女\0{F87A,123}{F813,1,403311}ああ…とうとう[発電炉/はつでんろ]を[巡/めぐ]って{F801}[戦争/せんそう]が[始/はじ]まったのね…[誰/だれ]かのせいで{F801}</source>
+    <target>{F812}冷めた目の女\0{F87A,123}{F813,1,403311}ああ…とうとう[発電炉/はつでんろ]を[巡/めぐ]って{F801}[戦争/せんそう]が[始/はじ]まったのね…[誰/だれ]かのせいで{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403302}Ever since I saw you, Tokyo's been{F801}going through big changes.{F801}{F802}I'm worried about what the demons are{F801}going to do... but I'm more worried{F801}about you.{F801}{F802}Do you intend to save Tokyo?{F801}Or are you planning to destroy it?{F801}</source>
+    <target>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403302}Ever since I saw you, Tokyo's been{F801}going through big changes.{F801}{F802}I'm worried about what the demons are{F801}going to do... but I'm more worried{F801}about you.{F801}{F802}Do you intend to save Tokyo?{F801}Or are you planning to destroy it?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403302}After you came through the ceiling{F801}to Tokyo, the city has changed.{F801}You have changed it.{F801}{F802}Do you intend to save Tokyo?{F801}Or are you planning to destroy it?{F801}{F802}By the way, aren't you rated in the{F801}top three in Tokyo? Why don't you{F801}use this power to save us?{F801}</source>
+    <target>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403302}After you came through the ceiling{F801}to Tokyo, the city has changed.{F801}You have changed it.{F801}{F802}Do you intend to save Tokyo?{F801}Or are you planning to destroy it?{F801}{F802}By the way, aren't you rated in the{F801}top three in Tokyo? Why don't you{F801}use this power to save us?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403312}Hey, it's you... You're the one who{F801}came in from above...{F801}{F802}Tokyo hadn't changed much in the{F801}past couple of years... And then{F801}you came along.{F801}{F802}What exactly are you going to do to{F801}Tokyo? You don't seem to want to{F801}destroy it...{F801}</source>
+    <target>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403312}Hey, it's you... You're the one who{F801}came in from above...{F801}{F802}Tokyo hadn't changed much in the{F801}past couple of years... And then{F801}you came along.{F801}{F802}What exactly are you going to do to{F801}Tokyo? You don't seem to want to{F801}destroy it...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403302}Hey, it's you... You're the one who{F801}came in from above...{F801}{F802}Tokyo hadn't changed much in the{F801}past couple of years... And then{F801}you came along.{F801}{F802}No. It didn't really change. You've{F801}just restored the city into what it{F801}once was...{F801}</source>
+    <target>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403302}Hey, it's you... You're the one who{F801}came in from above...{F801}{F802}Tokyo hadn't changed much in the{F801}past couple of years... And then{F801}you came along.{F801}{F802}No. It didn't really change. You've{F801}just restored the city into what it{F801}once was...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Fierce man\0{F87A,60}{F813,1,403202}I might not look it, but I used to be{F801}a master chef at a famous sushi bar{F801}in Ginza before Tokyo was covered up.{F801}{F802}That Tayama was such a small fry that{F801}he wouldn't even have gotten in the{F801}door to my joint.{F801}{F802}I mean, I've got pride. I would{F801}never live under his protection.{F801}</source>
+    <target>{F812}Fierce man\0{F87A,60}{F813,1,403202}I might not look it, but I used to be{F801}a master chef at a famous sushi bar{F801}in Ginza before Tokyo was covered up.{F801}{F802}That Tayama was such a small fry that{F801}he wouldn't even have gotten in the{F801}door to my joint.{F801}{F802}I mean, I've got pride. I would{F801}never live under his protection.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Fierce man\0{F87A,60}{F813,1,403212}Tayama wants us to live together{F801}with the demons by using the Reds...{F801}{F802}Yuriko says that we need to get{F801}stronger so that we can live on{F801}equal footing with the demons...{F801}{F802}What the hell? Aren't they both{F801}saying the same thing, pretty much?{F801}</source>
+    <target>{F812}Fierce man\0{F87A,60}{F813,1,403212}Tayama wants us to live together{F801}with the demons by using the Reds...{F801}{F802}Yuriko says that we need to get{F801}stronger so that we can live on{F801}equal footing with the demons...{F801}{F802}What the hell? Aren't they both{F801}saying the same thing, pretty much?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}凄みのある男\0{F87A,60}[阿修羅会/あしゅらかい]が[幅/はば]を[利/き]かせてるせいで{F801}[自由/じゆう]なビジネスが[阻害/そがい]されてるんだよ{F801}{F802}[連中/れんちゅう]を[潰/つぶ]してくれるんだったら{F801}[俺/おれ]は[大歓迎/だいかんげい]だぜッ{F801}</source>
+    <target>{F812}凄みのある男\0{F87A,60}[阿修羅会/あしゅらかい]が[幅/はば]を[利/き]かせてるせいで{F801}[自由/じゆう]なビジネスが[阻害/そがい]されてるんだよ{F801}{F802}[連中/れんちゅう]を[潰/つぶ]してくれるんだったら{F801}[俺/おれ]は[大歓迎/だいかんげい]だぜッ{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Fierce man\0{F87A,60}{F813,1,403202}Tayama and Yuriko, sworn enemies...{F801}They're no longer in Tokyo.{F801}{F802}Tayama wanted us to live together{F801}with the demons by using the Reds...{F801}{F802}Yuriko said that we need to get{F801}stronger so that we can live on{F801}equal footing with the demons...{F801}{F802}...Aren't those essentially the same{F801}goal? I'm not missing something, am I?{F801}</source>
+    <target>{F812}Fierce man\0{F87A,60}{F813,1,403202}Tayama and Yuriko, sworn enemies...{F801}They're no longer in Tokyo.{F801}{F802}Tayama wanted us to live together{F801}with the demons by using the Reds...{F801}{F802}Yuriko said that we need to get{F801}stronger so that we can live on{F801}equal footing with the demons...{F801}{F802}...Aren't those essentially the same{F801}goal? I'm not missing something, am I?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}凄みのある男\0{F87A,60}[総合/そうごう]áñキñグとは ハñター[商会/しょうかい]も{F801}また[変/へん]な[企画/きかく][始/はじ]めたモñだな{F801}{F802}だが これもまたチャñス…{F801}[便乗/びんじょう]すれば ひと[儲/もう]けできそうだぜッ{F801}</source>
+    <target>{F812}凄みのある男\0{F87A,60}[総合/そうごう]áñキñグとは ハñター[商会/しょうかい]も{F801}また[変/へん]な[企画/きかく][始/はじ]めたモñだな{F801}{F802}だが これもまたチャñス…{F801}[便乗/びんじょう]すれば ひと[儲/もう]けできそうだぜッ{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Fierce man\0{F87A,60}{F813,1,403202}Tayama wanted us to live together{F801}with the demons by using the Reds...{F801}{F802}Yuriko said that we need to get{F801}stronger so that we can live on{F801}equal footing with the demons...{F801}{F802}But the people decided to follow the{F801}champion, instead... People will{F801}choose who they want to be led by.{F801}</source>
+    <target>{F812}Fierce man\0{F87A,60}{F813,1,403202}Tayama wanted us to live together{F801}with the demons by using the Reds...{F801}{F802}Yuriko said that we need to get{F801}stronger so that we can live on{F801}equal footing with the demons...{F801}{F802}But the people decided to follow the{F801}champion, instead... People will{F801}choose who they want to be led by.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}凄みのある男\0{F87A,60}{F813,1,403641}[誰/だれ]かが[天使/てんし][軍/ぐん]を[始末/しまつ]したんだとさ{F801}まさか…[今/いま]の[混乱/こんらん]を[治/おさ]める[気/き]なのか?{F801}{F802}[余計/よけい]なことするなよ…ッ{F801}[混乱/こんらん]こそ[儲/もう]けるチャñスなんだぜ?{F801}</source>
+    <target>{F812}凄みのある男\0{F87A,60}{F813,1,403641}[誰/だれ]かが[天使/てんし][軍/ぐん]を[始末/しまつ]したんだとさ{F801}まさか…[今/いま]の[混乱/こんらん]を[治/おさ]める[気/き]なのか?{F801}{F802}[余計/よけい]なことするなよ…ッ{F801}[混乱/こんらん]こそ[儲/もう]けるチャñスなんだぜ?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Fierce man\0{F87A,60}{F813,1,403202}Tayama wanted us to live together{F801}with the demons by using the Reds...{F801}{F802}Yuriko said that we need to get{F801}stronger so that we can live on{F801}equal footing with the demons...{F801}{F802}But you proposed something else.{F801}{F802}Instead, you've given us hope.{F801}And that hope is stronger than the{F801}demons...{F801}</source>
+    <target>{F812}Fierce man\0{F87A,60}{F813,1,403202}Tayama wanted us to live together{F801}with the demons by using the Reds...{F801}{F802}Yuriko said that we need to get{F801}stronger so that we can live on{F801}equal footing with the demons...{F801}{F802}But you proposed something else.{F801}{F802}Instead, you've given us hope.{F801}And that hope is stronger than the{F801}demons...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Sallow man\0{F87A,79}{F813,1,403642}I hear there's a special members-only{F801}shop in downtown Ginza.{F801}{F802}That place only sells really{F801}expensive stuff. Of course, I've{F801}never set foot in there.{F801}{F802}But I guess that people who will{F801}spend money in places like that are{F801}called "celebrities"...{F801}</source>
+    <target>{F812}Sallow man\0{F87A,79}{F813,1,403642}I hear there's a special members-only{F801}shop in downtown Ginza.{F801}{F802}That place only sells really{F801}expensive stuff. Of course, I've{F801}never set foot in there.{F801}{F802}But I guess that people who will{F801}spend money in places like that are{F801}called "celebrities"...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Heavyset man\0{F87A,121}{F813,1,403002}...You're headed for the area below{F801}Roppongi, huh? Then you're sure to{F801}see that thing...{F801}{F802}I read an article about the{F801}Ashura-kai's kidnapping operations{F801}several years ago.{F801}{F802}...That place is no longer the{F801}Roppongi Hills. It's Roppongi Hell.{F801}</source>
+    <target>{F812}Heavyset man\0{F87A,121}{F813,1,403002}...You're headed for the area below{F801}Roppongi, huh? Then you're sure to{F801}see that thing...{F801}{F802}I read an article about the{F801}Ashura-kai's kidnapping operations{F801}several years ago.{F801}{F802}...That place is no longer the{F801}Roppongi Hills. It's Roppongi Hell.{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Heavyset man\0{F87A,121}{F813,1,403002}In that moment when the light shined{F801}from Ichigaya, I saw a human-shaped{F801}figure.{F801}{F802}A white figure... It reminded me of{F801}my daughter...{F801}{F802}...She was taken by angels...{F801}</source>
+    <target>{F812}Heavyset man\0{F87A,121}{F813,1,403002}In that moment when the light shined{F801}from Ichigaya, I saw a human-shaped{F801}figure.{F801}{F802}A white figure... It reminded me of{F801}my daughter...{F801}{F802}...She was taken by angels...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403311}You know, I once worked in a club in{F801}Ginza. Tayama used to go there often.{F801}{F802}He always got a lot of attention from{F801}women, but because of his attitude,{F801}none of his relationships worked out.{F801}{F802}Perhaps the reason why he's accepting{F801}this challenge from Yuriko is because{F801}he can't stand a woman with attitude.{F801}</source>
+    <target>{F812}Icy-eyed woman\0{F87A,123}{F813,1,403311}You know, I once worked in a club in{F801}Ginza. Tayama used to go there often.{F801}{F802}He always got a lot of attention from{F801}women, but because of his attitude,{F801}none of his relationships worked out.{F801}{F802}Perhaps the reason why he's accepting{F801}this challenge from Yuriko is because{F801}he can't stand a woman with attitude.{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Heavyset man\0{F87A,121}{F813,1,403002}If you are visiting Camp Ichigaya,{F801}I'm sure you will see that thing{F801}there...{F801}{F802}A long time ago, I read an article{F801}saying that that's where the fine{F801}line between humans and demons is...{F801}{F802}It's the very edge.{F801}</source>
+    <target>{F812}Heavyset man\0{F87A,121}{F813,1,403002}If you are visiting Camp Ichigaya,{F801}I'm sure you will see that thing{F801}there...{F801}{F802}A long time ago, I read an article{F801}saying that that's where the fine{F801}line between humans and demons is...{F801}{F802}It's the very edge.{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}Heavyset man\0{F87A,121}{F813,1,403002}In that moment when the light shined{F801}from Ichigaya, I saw a human-shaped{F801}figure.{F801}{F802}A white figure... It reminded me of{F801}my wife...{F801}{F802}My wife was killed by demons when we{F801}were running away from Ichigaya...{F801}</source>
+    <target>{F812}Heavyset man\0{F87A,121}{F813,1,403002}In that moment when the light shined{F801}from Ichigaya, I saw a human-shaped{F801}figure.{F801}{F802}A white figure... It reminded me of{F801}my wife...{F801}{F802}My wife was killed by demons when we{F801}were running away from Ichigaya...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,74 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Male neurisher\0{F87A,107}{F813,1,403403}It was demons who destroyed Tokyo!{F801}H-How could I ever fuse with them!?{F801}{F802}I-I mean... How could anyone choose to{F801}do such a horrible thing...? I'll never{F801}understand it...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,107}{F813,1,403403}It was demons who destroyed Tokyo!{F801}H-How could I ever fuse with them!?{F801}{F802}I-I mean... How could anyone choose to{F801}do such a horrible thing...? I'll never{F801}understand it...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Male neurisher\0{F87A,107}{F813,1,403403}It's all Kenji's fault that Tokyo's{F801}like this... Just because he defied{F801}God...{F801}{F802}Huh? Archangels? Nah, can't be. Kenji{F801}supposedly killed all the angels.{F801}{F802}But if the archangels really do exist...{F801}Do you think they'd drive all the demons{F801}out of Tokyo?{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,107}{F813,1,403403}It's all Kenji's fault that Tokyo's{F801}like this... Just because he defied{F801}God...{F801}{F802}Huh? Archangels? Nah, can't be. Kenji{F801}supposedly killed all the angels.{F801}{F802}But if the archangels really do exist...{F801}Do you think they'd drive all the demons{F801}out of Tokyo?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Female demonoid\0{F87A,148}{F813,1,419301}Hey, doesn't that thing on your arm{F801}have a demon summoning program{F801}installed?{F801}{F802}Where'd you get it? What...? D-Did you{F801}say "from a rite"?{F801}{F802}So you didn't download it? Must be{F801}different from the one I had...{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,148}{F813,1,419301}Hey, doesn't that thing on your arm{F801}have a demon summoning program{F801}installed?{F801}{F802}Where'd you get it? What...? D-Did you{F801}say "from a rite"?{F801}{F802}So you didn't download it? Must be{F801}different from the one I had...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Female demonoid\0{F87A,148}{F813,1,419301}Say, Mr. Intruder... Have we met?{F801}{F802}You know, I used to be in the Counter-{F801}Demon Force. Back when I was a human,{F801}that is.{F801}{F802}So, if you have the demon summoning{F801}program, that means you were in the{F801}force too, right?{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,148}{F813,1,419301}Say, Mr. Intruder... Have we met?{F801}{F802}You know, I used to be in the Counter-{F801}Demon Force. Back when I was a human,{F801}that is.{F801}{F802}So, if you have the demon summoning{F801}program, that means you were in the{F801}force too, right?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Female demonoid\0{F87A,148}{F813,1,419305}Kenji was originally from the Counter-{F801}Demon Force. He was about your age at{F801}the time...{F801}{F802}He joined the force to fight demons{F801}and protect Tokyo...{F801}{F802}But then he learned that the reason{F801}demons showed up in the first place{F801}was part of God's scheme...{F801}{F802}After that, he sided with the demons{F801}to stop God's wrath.{F801}{F802}That was 25 years ago...{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,148}{F813,1,419305}Kenji was originally from the Counter-{F801}Demon Force. He was about your age at{F801}the time...{F801}{F802}He joined the force to fight demons{F801}and protect Tokyo...{F801}{F802}But then he learned that the reason{F801}demons showed up in the first place{F801}was part of God's scheme...{F801}{F802}After that, he sided with the demons{F801}to stop God's wrath.{F801}{F802}That was 25 years ago...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Female demonoid\0{F87A,148}{F813,1,419307}Come to think of it, maybe the real{F801}reason Kenji turned the people of Tokyo{F801}into demonoids and neurishers...{F801}{F802}Was because he was afraid of the{F801}Intruders. I don't know how that{F801}works, really, but...{F801}{F802}It seems the demon summoning program{F801}can only be activated by someone with{F801}a strong will.{F801}{F802}Kenji's thrashed enough demons in his{F801}day to know how strong a man's will{F801}can be...{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,148}{F813,1,419307}Come to think of it, maybe the real{F801}reason Kenji turned the people of Tokyo{F801}into demonoids and neurishers...{F801}{F802}Was because he was afraid of the{F801}Intruders. I don't know how that{F801}works, really, but...{F801}{F802}It seems the demon summoning program{F801}can only be activated by someone with{F801}a strong will.{F801}{F802}Kenji's thrashed enough demons in his{F801}day to know how strong a man's will{F801}can be...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Female demonoid\0{F87A,148}{F813,1,419307}Come to think of it, maybe the real{F801}reason Kenji turned the people of Tokyo{F801}into demonoids and neurishers...{F801}{F802}Was because he was afraid of the{F801}Intruders. I don't know how that{F801}works, really, but...{F801}{F802}It seems the demon summoning program{F801}can only be activated by someone with{F801}a strong will.{F801}{F802}Kenji's thrashed enough demons in his{F801}day to know how strong a man's will{F801}can be...{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,148}{F813,1,419307}Come to think of it, maybe the real{F801}reason Kenji turned the people of Tokyo{F801}into demonoids and neurishers...{F801}{F802}Was because he was afraid of the{F801}Intruders. I don't know how that{F801}works, really, but...{F801}{F802}It seems the demon summoning program{F801}can only be activated by someone with{F801}a strong will.{F801}{F802}Kenji's thrashed enough demons in his{F801}day to know how strong a man's will{F801}can be...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Female neurisher\0{F87A,110}{F813,1,403503}Being a neurisher isn't so bad. We don't{F801}need to fight, for starters...{F801}{F802}And the demonoids can't kill us,{F801}or else they'll starve to death.{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,110}{F813,1,403503}Being a neurisher isn't so bad. We don't{F801}need to fight, for starters...{F801}{F802}And the demonoids can't kill us,{F801}or else they'll starve to death.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Female neurisher\0{F87A,110}{F813,1,403503}Staying in Kasumigaseki makes me feel{F801}like those days in Ichigaya were just{F801}a bad dream...{F801}{F802}These days, Kenji doesn't get many{F801}challengers. But he had to fend off{F801}all kinds of people back then.{F801}{F802}Ichigaya was practically a war zone.{F801}I knew so many people who got killed{F801}in the crossfire...{F801}{F802}You know, the neurishers in all of{F801}Tokyo's regions now are the ones who{F801}fled Ichigaya.{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,110}{F813,1,403503}Staying in Kasumigaseki makes me feel{F801}like those days in Ichigaya were just{F801}a bad dream...{F801}{F802}These days, Kenji doesn't get many{F801}challengers. But he had to fend off{F801}all kinds of people back then.{F801}{F802}Ichigaya was practically a war zone.{F801}I knew so many people who got killed{F801}in the crossfire...{F801}{F802}You know, the neurishers in all of{F801}Tokyo's regions now are the ones who{F801}fled Ichigaya.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Male demonoid\0{F87A,103}{F813,1,415109}Who was the asshole screaming his head{F801}off in the briefing room!?{F801}{F802}Keep quiet or you'll bring Akira down{F801}on you!{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,103}{F813,1,415109}Who was the asshole screaming his head{F801}off in the briefing room!?{F801}{F802}Keep quiet or you'll bring Akira down{F801}on you!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Male demonoid\0{F87A,103}{F813,1,415105}Hey, how'd you get in here, anyway?{F801}Isn't there a guard in front of the{F801}elevator?{F801}{F802}And you just show up from the briefing{F801}room... Just what kind of magic show{F801}are you running?{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,103}{F813,1,415105}Hey, how'd you get in here, anyway?{F801}Isn't there a guard in front of the{F801}elevator?{F801}{F802}And you just show up from the briefing{F801}room... Just what kind of magic show{F801}are you running?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,3}{F813,1,400102}These "Intruders"... I take it he{F801}refers to us.{F801}{F802}It seems we've landed ourselves in a{F801}much more precarious position than we{F801}had thought.{F801}{F802}Perhaps it would be wise to align{F801}ourselves with Akira...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,1,400102}These "Intruders"... I take it he{F801}refers to us.{F801}{F802}It seems we've landed ourselves in a{F801}much more precarious position than we{F801}had thought.{F801}{F802}Perhaps it would be wise to align{F801}ourselves with Akira...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Male demonoid\0{F87A,103}{F813,1,415102}I hear Kenji used to have a partner.{F801}A buddy from his Counter-Demon Force{F801}days...{F801}{F802}That dude saved me when I was a human.{F801}{F802}Your ponytailed dude kinda reminds me{F801}of him, as far as the looks and{F801}attitude goes...{F801}{F802}But I heard that dude died in action{F801}against demons while he was covering{F801}for Kenji.{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,103}{F813,1,415102}I hear Kenji used to have a partner.{F801}A buddy from his Counter-Demon Force{F801}days...{F801}{F802}That dude saved me when I was a human.{F801}{F802}Your ponytailed dude kinda reminds me{F801}of him, as far as the looks and{F801}attitude goes...{F801}{F802}But I heard that dude died in action{F801}against demons while he was covering{F801}for Kenji.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Male demonoid\0{F87A,103}{F813,1,415102}I hear Kenji used to have a partner.{F801}A buddy from his Counter-Demon Force{F801}days...{F801}{F802}But I also heard he got killed in{F801}action while covering for Kenji.{F801}{F802}That taught Kenji that even with a team{F801}of strong demons backing you up, the{F801}human body is too weak...{F801}{F802}It was after that when Kenji decided{F801}to become a demonoid, or so I hear...{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,103}{F813,1,415102}I hear Kenji used to have a partner.{F801}A buddy from his Counter-Demon Force{F801}days...{F801}{F802}But I also heard he got killed in{F801}action while covering for Kenji.{F801}{F802}That taught Kenji that even with a team{F801}of strong demons backing you up, the{F801}human body is too weak...{F801}{F802}It was after that when Kenji decided{F801}to become a demonoid, or so I hear...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Male demonoid\0{F87A,103}{F813,1,415102}I hear Kenji used to have a partner.{F801}A buddy from his Counter-Demon Force{F801}days...{F801}{F802}But I also heard he got killed in{F801}action while covering for Kenji.{F801}{F802}That taught Kenji that even with a team{F801}of strong demons backing you up, the{F801}human body is too weak...{F801}{F802}It was after that when Kenji decided{F801}to become a demonoid, or so I hear...{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,103}{F813,1,415102}I hear Kenji used to have a partner.{F801}A buddy from his Counter-Demon Force{F801}days...{F801}{F802}But I also heard he got killed in{F801}action while covering for Kenji.{F801}{F802}That taught Kenji that even with a team{F801}of strong demons backing you up, the{F801}human body is too weak...{F801}{F802}It was after that when Kenji decided{F801}to become a demonoid, or so I hear...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Male neurisher\0{F87A,107}{F813,1,403403}I told Akira I'd stay in Kasumigaseki.{F801}{F802}I'm tired of the demonoids marching me{F801}around... Besides which, my legs are{F801}too weak to walk anymore.{F801}{F802}Anyway, I never liked Shinjuku, even{F801}when I was just a human. Too crowded,{F801}you know?{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,107}{F813,1,403403}I told Akira I'd stay in Kasumigaseki.{F801}{F802}I'm tired of the demonoids marching me{F801}around... Besides which, my legs are{F801}too weak to walk anymore.{F801}{F802}Anyway, I never liked Shinjuku, even{F801}when I was just a human. Too crowded,{F801}you know?{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}Male neurisher\0{F87A,107}{F813,1,403403}King Akira promised us he'd rebuild{F801}Tokyo into someplace everyone could{F801}live in peace and equality...{F801}{F802}A pretty heroic guy, ain't he? For a{F801}demonoid and all.{F801}{F802}Then I'll become the ultimate neurisher.{F801}A superior neurisher to tantalize the{F801}taste buds of gourmet demonoids...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,107}{F813,1,403403}King Akira promised us he'd rebuild{F801}Tokyo into someplace everyone could{F801}live in peace and equality...{F801}{F802}A pretty heroic guy, ain't he? For a{F801}demonoid and all.{F801}{F802}Then I'll become the ultimate neurisher.{F801}A superior neurisher to tantalize the{F801}taste buds of gourmet demonoids...{F801}</target>
+  </entry>
+  <entry id="301">
+    <source>{F812}Male neurisher\0{F87A,107}{F813,1,403403}King Akira promised us he'd rebuild{F801}Tokyo into someplace everyone could{F801}live in peace and equality...{F801}{F802}I'm just wondering how he plans to deal{F801}with the demonoids eating neurishers.{F801}{F802}His promise raises some serious{F801}questions... But I still believe{F801}he can do it.{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,107}{F813,1,403403}King Akira promised us he'd rebuild{F801}Tokyo into someplace everyone could{F801}live in peace and equality...{F801}{F802}I'm just wondering how he plans to deal{F801}with the demonoids eating neurishers.{F801}{F802}His promise raises some serious{F801}questions... But I still believe{F801}he can do it.{F801}</target>
+  </entry>
+</mbm>

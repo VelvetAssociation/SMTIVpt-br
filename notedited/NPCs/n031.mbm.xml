@@ -1,0 +1,106 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Far-gazing woman\0{F87A,62}{F813,1,403302}Hey, whatever happened to that cocoon{F801}in Shinjuku National Park?{F801}{F802}It flew off right before the ceiling{F801}appeared... Maybe it's still up there.{F801}{F802}I wonder what happened to the ones{F801}"chosen by God" who were inside?{F801}</source>
+    <target>{F812}Far-gazing woman\0{F87A,62}{F813,1,403302}Hey, whatever happened to that cocoon{F801}in Shinjuku National Park?{F801}{F802}It flew off right before the ceiling{F801}appeared... Maybe it's still up there.{F801}{F802}I wonder what happened to the ones{F801}"chosen by God" who were inside?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Far-gazing woman\0{F87A,62}{F813,1,403312}On that day... I wish I'd stayed with{F801}the cocoon in the park... I should have{F801}found a way to stay with them...{F801}{F802}Who cares if I wasn't chosen by God!?{F801}I just don't want demons to eat me!{F801}</source>
+    <target>{F812}Far-gazing woman\0{F87A,62}{F813,1,403312}On that day... I wish I'd stayed with{F801}the cocoon in the park... I should have{F801}found a way to stay with them...{F801}{F802}Who cares if I wasn't chosen by God!?{F801}I just don't want demons to eat me!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Far-gazing woman\0{F87A,62}{F813,1,403303}When the cocoon took off from the park,{F801}I felt like I'd flunked out of school{F801}or something...{F801}{F802}But I don't care anymore. I can feel{F801}the hope building inside Tokyo.{F801}</source>
+    <target>{F812}Far-gazing woman\0{F87A,62}{F813,1,403303}When the cocoon took off from the park,{F801}I felt like I'd flunked out of school{F801}or something...{F801}{F802}But I don't care anymore. I can feel{F801}the hope building inside Tokyo.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Far-gazing woman\0{F87A,62}{F813,1,403312}People are coming down now from up{F801}above the ceiling... The Eastern{F801}Kingdom of Mikado, right?{F801}{F802}Are they the same ones who were in the{F801}cocoon in Shinjuku National Park? Then...{F801}is my boy one of them...?{F801}{F802}I-I should give it up already... By now,{F801}he'll have his own life. I shouldn't{F801}interfere...{F801}</source>
+    <target>{F812}Far-gazing woman\0{F87A,62}{F813,1,403312}People are coming down now from up{F801}above the ceiling... The Eastern{F801}Kingdom of Mikado, right?{F801}{F802}Are they the same ones who were in the{F801}cocoon in Shinjuku National Park? Then...{F801}is my boy one of them...?{F801}{F802}I-I should give it up already... By now,{F801}he'll have his own life. I shouldn't{F801}interfere...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403211}Have you ever heard of angels? Yeah,{F801}the things in the myths and such.{F801}{F802}Now, I'm not bullshitting you here,{F801}but I almost got killed by an angel{F801}one time.{F801}{F802}There was some other dude whose face{F801}was cut to ribbons. Nasty stuff.{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403211}Have you ever heard of angels? Yeah,{F801}the things in the myths and such.{F801}{F802}Now, I'm not bullshitting you here,{F801}but I almost got killed by an angel{F801}one time.{F801}{F802}There was some other dude whose face{F801}was cut to ribbons. Nasty stuff.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403212}Hear me out. I heard some stupid{F801}bullshit, okay? They say angels are{F801}coming down from the ceiling soon...{F801}{F802}But what if it's true? Just what if?{F801}We've already got our hands full with{F801}the demons... and now angels!?{F801}{F802}How screwed are we...!?{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403212}Hear me out. I heard some stupid{F801}bullshit, okay? They say angels are{F801}coming down from the ceiling soon...{F801}{F802}But what if it's true? Just what if?{F801}We've already got our hands full with{F801}the demons... and now angels!?{F801}{F802}How screwed are we...!?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403242}H-Hey, champ... C-Can you listen to{F801}this problem I got?{F801}{F802}I'm so worried about this rumor that{F801}the angels are coming down here for{F801}us... It's all a lie, right!?{F801}{F802}B-But if it's true... Just if...{F801}Can you do something!? Angels are{F801}so goddamned scary, man!{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403242}H-Hey, champ... C-Can you listen to{F801}this problem I got?{F801}{F802}I'm so worried about this rumor that{F801}the angels are coming down here for{F801}us... It's all a lie, right!?{F801}{F802}B-But if it's true... Just if...{F801}Can you do something!? Angels are{F801}so goddamned scary, man!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403242}H-Hey, champ... C-Can you listen to{F801}this problem I got?{F801}{F802}I hear peace is coming back to Tokyo...{F801}Do you really mean it!?{F801}{F802}My whole life is one worry after the{F801}next. Now that the worries are gone,{F801}not worrying is worrying me...{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403242}H-Hey, champ... C-Can you listen to{F801}this problem I got?{F801}{F802}I hear peace is coming back to Tokyo...{F801}Do you really mean it!?{F801}{F802}My whole life is one worry after the{F801}next. Now that the worries are gone,{F801}not worrying is worrying me...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403221}The Ashura-kai sure are violent. But hey,{F801}you won't hear me complaining.{F801}{F802}Everyone knows we're still alive today{F801}thanks to their stockpiles of stuff.{F801}{F802}Plus, the electricity they generate{F801}let us live in safety in these{F801}underground districts...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403221}The Ashura-kai sure are violent. But hey,{F801}you won't hear me complaining.{F801}{F802}Everyone knows we're still alive today{F801}thanks to their stockpiles of stuff.{F801}{F802}Plus, the electricity they generate{F801}let us live in safety in these{F801}underground districts...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403241}I was chatting with a dude who said he{F801}was from someplace called the Eastern{F801}Kingdom of Mikado...{F801}{F802}According to him, this "Mikado" place{F801}doesn't even have electricity!{F801}{F802}I don't know where that is in Tokyo,{F801}but it sure sounds like a rough life{F801}over there...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403241}I was chatting with a dude who said he{F801}was from someplace called the Eastern{F801}Kingdom of Mikado...{F801}{F802}According to him, this "Mikado" place{F801}doesn't even have electricity!{F801}{F802}I don't know where that is in Tokyo,{F801}but it sure sounds like a rough life{F801}over there...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403241}I was chatting with a dude who said he{F801}was from someplace called the Eastern{F801}Kingdom of Mikado...{F801}{F802}I was only half listening to him, but{F801}the place sounds like a fertile land{F801}with lots of greenery.{F801}{F802}If what he told me is true, I'd love{F801}to visit this Eastern Kingdom of{F801}Mikado someday...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403241}I was chatting with a dude who said he{F801}was from someplace called the Eastern{F801}Kingdom of Mikado...{F801}{F802}I was only half listening to him, but{F801}the place sounds like a fertile land{F801}with lots of greenery.{F801}{F802}If what he told me is true, I'd love{F801}to visit this Eastern Kingdom of{F801}Mikado someday...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403241}Hey, I haven't seen that guy from the{F801}Eastern Kingdom of Mikado...{F801}{F802}He told me that religion is a pretty{F801}big thing there. I don't belive in{F801}God, myself...{F801}{F802}But war is about to break out inside{F801}Tokyo. If there is a God, I wish he'd{F801}save us all.{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403241}Hey, I haven't seen that guy from the{F801}Eastern Kingdom of Mikado...{F801}{F802}He told me that religion is a pretty{F801}big thing there. I don't belive in{F801}God, myself...{F801}{F802}But war is about to break out inside{F801}Tokyo. If there is a God, I wish he'd{F801}save us all.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403221}Hey, have you seen that guy from the{F801}Eastern Kingdom of Mikado?{F801}{F802}He said that the people there worship{F801}God. If you see him again, can you{F801}give him a message from me?{F801}{F802}"There are demons in Tokyo. Ask God{F801}to do something about it."{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403221}Hey, have you seen that guy from the{F801}Eastern Kingdom of Mikado?{F801}{F802}He said that the people there worship{F801}God. If you see him again, can you{F801}give him a message from me?{F801}{F802}"There are demons in Tokyo. Ask God{F801}to do something about it."{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403202}Did you guys see a man from the Eastern{F801}Kingdom of Mikado there?{F801}{F802}I hear the people there worship God...{F801}But I'd rather worship a champion over{F801}something I can't actually see.{F801}{F802}"Champion"... Just the sound of it{F801}is inspiring...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403202}Did you guys see a man from the Eastern{F801}Kingdom of Mikado there?{F801}{F802}I hear the people there worship God...{F801}But I'd rather worship a champion over{F801}something I can't actually see.{F801}{F802}"Champion"... Just the sound of it{F801}is inspiring...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403232}I saw a lot of unfamiliar faces in the{F801}underground district today...{F801}{F802}When I talked to them, they said they{F801}were from the Eastern Kingdom of{F801}Mikado...{F801}{F802}They were marching to Kabuki-cho with{F801}this white-haired, dignified man as{F801}their leader...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403232}I saw a lot of unfamiliar faces in the{F801}underground district today...{F801}{F802}When I talked to them, they said they{F801}were from the Eastern Kingdom of{F801}Mikado...{F801}{F802}They were marching to Kabuki-cho with{F801}this white-haired, dignified man as{F801}their leader...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Far-gazing woman\0{F87A,62}{F813,1,403302}There was a huge cocoon in Shinjuku{F801}National Park...{F801}{F802}It took off into the sky right before{F801}the ceiling showed up.{F801}{F802}I feel terrible for the people who had{F801}family inside. They must be suffering{F801}like you can't imagine...{F801}</source>
+    <target>{F812}Far-gazing woman\0{F87A,62}{F813,1,403302}There was a huge cocoon in Shinjuku{F801}National Park...{F801}{F802}It took off into the sky right before{F801}the ceiling showed up.{F801}{F802}I feel terrible for the people who had{F801}family inside. They must be suffering{F801}like you can't imagine...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403211}Have you ever heard of angels? Yeah,{F801}the things in the myths and such.{F801}{F802}But angels do exist. It's true. If you{F801}think I'm bullshitting you, go check{F801}out Shinjuku National Park.{F801}{F802}There's a strange tower there... and if{F801}you go inside... Nah, they must be dead{F801}by now. The demons probably got 'em.{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403211}Have you ever heard of angels? Yeah,{F801}the things in the myths and such.{F801}{F802}But angels do exist. It's true. If you{F801}think I'm bullshitting you, go check{F801}out Shinjuku National Park.{F801}{F802}There's a strange tower there... and if{F801}you go inside... Nah, they must be dead{F801}by now. The demons probably got 'em.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403212}Hear me out. I heard some stupid{F801}bullshit, okay? They say angels are{F801}coming down from the ceiling soon...{F801}{F802}But what if it's true? Just what if?{F801}We've already got our hands full with{F801}the demons... and now angels!?{F801}{F802}How screwed are we...!?{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403212}Hear me out. I heard some stupid{F801}bullshit, okay? They say angels are{F801}coming down from the ceiling soon...{F801}{F802}But what if it's true? Just what if?{F801}We've already got our hands full with{F801}the demons... and now angels!?{F801}{F802}How screwed are we...!?{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403242}H-Hey, champ... C-Can you listen to{F801}this problem I got?{F801}{F802}I'm so worried about this rumor that{F801}the Demon Lord is coming from Ichigaya{F801}for us... It's all a lie, right!?{F801}{F802}B-But if it's true... Just if...{F801}Can you do something!? We can't take{F801}any more of those horrible demons!{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403242}H-Hey, champ... C-Can you listen to{F801}this problem I got?{F801}{F802}I'm so worried about this rumor that{F801}the Demon Lord is coming from Ichigaya{F801}for us... It's all a lie, right!?{F801}{F802}B-But if it's true... Just if...{F801}Can you do something!? We can't take{F801}any more of those horrible demons!{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Far-gazing woman\0{F87A,62}{F813,1,403302}There was a huge cocoon in Shinjuku{F801}National Park...{F801}{F802}It took off into the sky right before{F801}the ceiling showed up.{F801}{F802}That might have been the right move.{F801}</source>
+    <target>{F812}Far-gazing woman\0{F87A,62}{F813,1,403302}There was a huge cocoon in Shinjuku{F801}National Park...{F801}{F802}It took off into the sky right before{F801}the ceiling showed up.{F801}{F802}That might have been the right move.{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403211}Have you ever heard of angels? Yeah,{F801}the things in the myths and such.{F801}{F802}But angels do exist. It's true. And{F801}they're some nasty sons of bitches.{F801}{F802}There's a dude whose face got cut to{F801}ribbons by some angels. You can see{F801}him at Cafe Florida.{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403211}Have you ever heard of angels? Yeah,{F801}the things in the myths and such.{F801}{F802}But angels do exist. It's true. And{F801}they're some nasty sons of bitches.{F801}{F802}There's a dude whose face got cut to{F801}ribbons by some angels. You can see{F801}him at Cafe Florida.{F801}</target>
+  </entry>
+  <entry id="205">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403212}Hear me out. I heard some stupid{F801}bullshit, okay? They say angels are{F801}coming down from the ceiling soon...{F801}{F802}But what if it's true? Just what if?{F801}We've already got our hands full with{F801}the demons... and now angels!?{F801}{F802}I wonder what Fujiwara and Skins are{F801}gonna do about it...!?{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403212}Hear me out. I heard some stupid{F801}bullshit, okay? They say angels are{F801}coming down from the ceiling soon...{F801}{F802}But what if it's true? Just what if?{F801}We've already got our hands full with{F801}the demons... and now angels!?{F801}{F802}I wonder what Fujiwara and Skins are{F801}gonna do about it...!?{F801}</target>
+  </entry>
+  <entry id="305">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403212}Hear me out. I heard some stupid{F801}bullshit, okay? They say angels are{F801}coming down from the ceiling soon...{F801}{F802}But I don't believe that. We've already{F801}got our hands full with the demons...{F801}{F802}Fujiwara and Skins seem pretty calm{F801}about it, though. I wonder why...{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403212}Hear me out. I heard some stupid{F801}bullshit, okay? They say angels are{F801}coming down from the ceiling soon...{F801}{F802}But I don't believe that. We've already{F801}got our hands full with the demons...{F801}{F802}Fujiwara and Skins seem pretty calm{F801}about it, though. I wonder why...{F801}</target>
+  </entry>
+  <entry id="405">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403212}Hey, do you know the guy who's made it{F801}to third place on the scoreboard?{F801}What was his name? {F843,0}?{F801}{F802}That's the cold-blooded killer{F801}everyone's been talking about, right?{F801}{F802}Maybe he can kill all the demons in{F801}Tokyo--and those angels coming down{F801}from the ceiling, too...{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403212}Hey, do you know the guy who's made it{F801}to third place on the scoreboard?{F801}What was his name? {F843,0}?{F801}{F802}That's the cold-blooded killer{F801}everyone's been talking about, right?{F801}{F802}Maybe he can kill all the demons in{F801}Tokyo--and those angels coming down{F801}from the ceiling, too...{F801}</target>
+  </entry>
+  <entry id="1004">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403211}Have you ever heard of angels? Yeah,{F801}the things in the myths and such.{F801}{F802}But angels do exist. It's true. And{F801}they're some nasty sons of bitches.{F801}{F802}I even know this one dude whose face{F801}got cut to ribbons by some angels...{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403211}Have you ever heard of angels? Yeah,{F801}the things in the myths and such.{F801}{F802}But angels do exist. It's true. And{F801}they're some nasty sons of bitches.{F801}{F802}I even know this one dude whose face{F801}got cut to ribbons by some angels...{F801}</target>
+  </entry>
+  <entry id="1204">
+    <source>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403211}Have you ever heard of angels? Yeah,{F801}the things in the myths and such.{F801}{F802}But angels do exist. It's true. And{F801}they're some nasty sons of bitches.{F801}{F802}You've met Skins, right? Yeah, that{F801}face of his? Angels. Not even kidding.{F801}</source>
+    <target>{F812}Fierce-eyed man\0{F87A,60}{F813,1,403211}Have you ever heard of angels? Yeah,{F801}the things in the myths and such.{F801}{F802}But angels do exist. It's true. And{F801}they're some nasty sons of bitches.{F801}{F802}You've met Skins, right? Yeah, that{F801}face of his? Angels. Not even kidding.{F801}</target>
+  </entry>
+</mbm>

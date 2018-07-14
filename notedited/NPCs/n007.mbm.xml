@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Tough woman\0{F87A,98}{F813,1,403341}You guys seem like you know how to{F801}fight. Why not help out our association?{F801}{F802}I know Tokyo's a mess, but it's where{F801}we've got to live. Like we have a{F801}choice, right?{F801}</source>
+    <target>{F812}Tough woman\0{F87A,98}{F813,1,403341}You guys seem like you know how to{F801}fight. Why not help out our association?{F801}{F802}I know Tokyo's a mess, but it's where{F801}we've got to live. Like we have a{F801}choice, right?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Tough woman\0{F87A,98}{F813,1,403302}You guys beat Pluto, right? Then why{F801}not help out our association too?{F801}{F802}I know Tokyo's a mess, but it's where{F801}we've got to live. Like we have a{F801}choice, right?{F801}</source>
+    <target>{F812}Tough woman\0{F87A,98}{F813,1,403302}You guys beat Pluto, right? Then why{F801}not help out our association too?{F801}{F802}I know Tokyo's a mess, but it's where{F801}we've got to live. Like we have a{F801}choice, right?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hunter\0{F87A,99}{F813,1,403042}Kiyoharu? I dunno. I thought he was{F801}with Akira.{F801}{F802}Those two go way back to when they used{F801}to fight demons together.{F801}</source>
+    <target>{F812}Hunter\0{F87A,99}{F813,1,403042}Kiyoharu? I dunno. I thought he was{F801}with Akira.{F801}{F802}Those two go way back to when they used{F801}to fight demons together.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hunter\0{F87A,99}{F813,1,403012}Kiyoharu and Akira got infected by{F801}Pluto's poison.{F801}{F802}It was when the demons first appeared{F801}all over Tokyo. They were fighting in{F801}Shinjuku and got into a battle outside.{F801}{F802}If Kiyoharu and Akira were in better{F801}shape, they might stand a chance at{F801}beating Pluto.{F801}</source>
+    <target>{F812}Hunter\0{F87A,99}{F813,1,403012}Kiyoharu and Akira got infected by{F801}Pluto's poison.{F801}{F802}It was when the demons first appeared{F801}all over Tokyo. They were fighting in{F801}Shinjuku and got into a battle outside.{F801}{F802}If Kiyoharu and Akira were in better{F801}shape, they might stand a chance at{F801}beating Pluto.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hunter man\0{F87A,162}{F813,1,403002}After God brought down his wrath, we{F801}decided to stay in this shelter.{F801}{F802}We spent 25 years here, eating all{F801}the food stockpiled in the joint,{F801}little by little...{F801}{F802}I still remember the pit in my stomach{F801}when I first set foot outside. Our{F801}Tokyo... it was just a huge desert...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,162}{F813,1,403002}After God brought down his wrath, we{F801}decided to stay in this shelter.{F801}{F802}We spent 25 years here, eating all{F801}the food stockpiled in the joint,{F801}little by little...{F801}{F802}I still remember the pit in my stomach{F801}when I first set foot outside. Our{F801}Tokyo... it was just a huge desert...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hunter man\0{F87A,162}{F813,1,403031}If I had to sum up the last 25 years{F801}in one word, it'd be "despair." But the{F801}one thing I've learned...{F801}{F802}It'd be the fact that despair gets you{F801}nowhere. I know that deep inside now...{F801}{F802}And I have you to thank for it. You{F801}got rid of Pluto for us...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,162}{F813,1,403031}If I had to sum up the last 25 years{F801}in one word, it'd be "despair." But the{F801}one thing I've learned...{F801}{F802}It'd be the fact that despair gets you{F801}nowhere. I know that deep inside now...{F801}{F802}And I have you to thank for it. You{F801}got rid of Pluto for us...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hunter woman\0{F87A,100}{F813,1,403142}I heard Akira had a sister who got{F801}separated from him when they were kids.{F801}{F802}She was taken sky high in the Angel's{F801}Cocoon...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,100}{F813,1,403142}I heard Akira had a sister who got{F801}separated from him when they were kids.{F801}{F802}She was taken sky high in the Angel's{F801}Cocoon...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hunter woman\0{F87A,100}{F813,1,403133}Thanks for accepting Akira's request.{F801}But damn... you really beat Pluto...{F801}{F802}Well, hell, don't just stand there.{F801}Go give him the good news!{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,100}{F813,1,403133}Thanks for accepting Akira's request.{F801}But damn... you really beat Pluto...{F801}{F802}Well, hell, don't just stand there.{F801}Go give him the good news!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hunter woman\0{F87A,100}{F813,1,403141}Akira was telling me you're from the{F801}Eastern Kingdom of Mikado?{F801}{F802}He said he's gonna use that demon from{F801}Ichigaya and restore Tokyo.{F801}{F802}That's some idea, huh? Well, it's cool{F801}with me. I'm pretty good at controlling{F801}demons myself.{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,100}{F813,1,403141}Akira was telling me you're from the{F801}Eastern Kingdom of Mikado?{F801}{F802}He said he's gonna use that demon from{F801}Ichigaya and restore Tokyo.{F801}{F802}That's some idea, huh? Well, it's cool{F801}with me. I'm pretty good at controlling{F801}demons myself.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hermit woman\0{F87A,98}{F813,1,403321}Hey, you've got to keep those goggles{F801}on tight! Don't fiddle with them!{F801}</source>
+    <target>{F812}Hermit woman\0{F87A,98}{F813,1,403321}Hey, you've got to keep those goggles{F801}on tight! Don't fiddle with them!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hazard-suited child\0{F87A,95}{F813,1,404012}But I hate them! They hurt my eyes!{F801}The bad monster's gone now, right?{F801}Then how come...{F801}</source>
+    <target>{F812}Hazard-suited child\0{F87A,95}{F813,1,404012}But I hate them! They hurt my eyes!{F801}The bad monster's gone now, right?{F801}Then how come...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hermit woman\0{F87A,98}{F813,1,403302}Yes, the bad monster's dead, but Tokyo{F801}is still dirty. It won't be clean again{F801}for a while.{F801}{F802}So please be patient, okay?{F801}</source>
+    <target>{F812}Hermit woman\0{F87A,98}{F813,1,403302}Yes, the bad monster's dead, but Tokyo{F801}is still dirty. It won't be clean again{F801}for a while.{F801}{F802}So please be patient, okay?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Stiff woman\0{F87A,163}{F813,1,403312}Sorry to break up the good mood...{F801}{F802}But even if Pluto is dead, his poison{F801}is sticking around...{F801}{F802}And if it infects you, nothing can save{F801}you then.{F801}</source>
+    <target>{F812}Stiff woman\0{F87A,163}{F813,1,403312}Sorry to break up the good mood...{F801}{F802}But even if Pluto is dead, his poison{F801}is sticking around...{F801}{F802}And if it infects you, nothing can save{F801}you then.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Stiff woman\0{F87A,163}{F813,1,403312}Even if Pluto is dead, his poison is{F801}sticking around...{F801}{F802}So it's a race against time... Can we{F801}establish the Eastern Kingdom of Mikado{F801}before Akira's time runs out?{F801}{F802}God knows what'll happen now...{F801}</source>
+    <target>{F812}Stiff woman\0{F87A,163}{F813,1,403312}Even if Pluto is dead, his poison is{F801}sticking around...{F801}{F802}So it's a race against time... Can we{F801}establish the Eastern Kingdom of Mikado{F801}before Akira's time runs out?{F801}{F802}God knows what'll happen now...{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Hunter woman\0{F87A,100}{F813,1,403141}That idea about using demons to restore{F801}Tokyo... It's actually not gonna be so{F801}easy, you know...{F801}{F802}Not the work itself. But training a{F801}demon to do it...{F801}{F802}With Tokyo how it is, I can't really{F801}give them decent rewards. But I can't{F801}just give them sticks either, right?{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,100}{F813,1,403141}That idea about using demons to restore{F801}Tokyo... It's actually not gonna be so{F801}easy, you know...{F801}{F802}Not the work itself. But training a{F801}demon to do it...{F801}{F802}With Tokyo how it is, I can't really{F801}give them decent rewards. But I can't{F801}just give them sticks either, right?{F801}</target>
+  </entry>
+</mbm>

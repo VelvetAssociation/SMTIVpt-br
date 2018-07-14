@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Spacey man\0{F87A,121}{F813,1,403203}The Tennozu Shelter was a city{F801}forsaken by everyone in Tokyo...{F801}{F802}But people have begun to come{F801}lately...{F801}{F802}This must be the work of the{F801}Red Knight. He truly is our messiah.{F801}</source>
+    <target>{F812}Spacey man\0{F87A,121}{F813,1,403203}The Tennozu Shelter was a city{F801}forsaken by everyone in Tokyo...{F801}{F802}But people have begun to come{F801}lately...{F801}{F802}This must be the work of the{F801}Red Knight. He truly is our messiah.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Spacey man\0{F87A,121}{F813,1,403203}We needed to offer a bull's head{F801}as a sacrifice to Gozutennou.{F801}{F802}But we didn't have any cow heads...{F801}We had to make a facsimile that{F801}looked like one.{F801}{F802}We placed that over the head of the{F801}person we used as a sacrifice, and{F801}performed the ritual that way.{F801}</source>
+    <target>{F812}Spacey man\0{F87A,121}{F813,1,403203}We needed to offer a bull's head{F801}as a sacrifice to Gozutennou.{F801}{F802}But we didn't have any cow heads...{F801}We had to make a facsimile that{F801}looked like one.{F801}{F802}We placed that over the head of the{F801}person we used as a sacrifice, and{F801}performed the ritual that way.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Spacey man\0{F87A,121}{F813,1,403203}You released us all from Gozutennou's{F801}curse.{F801}{F802}This city is no longer forsaken.{F801}I'm sure we can start over from the{F801}beginning.{F801}</source>
+    <target>{F812}Spacey man\0{F87A,121}{F813,1,403203}You released us all from Gozutennou's{F801}curse.{F801}{F802}This city is no longer forsaken.{F801}I'm sure we can start over from the{F801}beginning.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Elderly man\0{F87A,63}{F813,1,403811}The building {F804,5}south from here{F804,0} is where{F801}the prayer ritual to Gozutennou takes{F801}place.{F801}{F802}I'm sure that an outsider like{F801}yourself has no place in there.{F801}</source>
+    <target>{F812}Elderly man\0{F87A,63}{F813,1,403811}The building {F804,5}south from here{F804,0} is where{F801}the prayer ritual to Gozutennou takes{F801}place.{F801}{F802}I'm sure that an outsider like{F801}yourself has no place in there.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Elderly man\0{F87A,63}{F813,1,403813}Gozutennou has become angered and is{F801}punishing us...{F801}{F802}It's all your fault!{F801}What have you done!?{F801}</source>
+    <target>{F812}Elderly man\0{F87A,63}{F813,1,403813}Gozutennou has become angered and is{F801}punishing us...{F801}{F802}It's all your fault!{F801}What have you done!?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Elderly man\0{F87A,63}{F813,1,403823}We knew all this time that everything{F801}had been a deception...{F801}{F802}Still, we had no other way to go on{F801}living but to keep perpetuating that{F801}lie...{F801}</source>
+    <target>{F812}Elderly man\0{F87A,63}{F813,1,403823}We knew all this time that everything{F801}had been a deception...{F801}{F802}Still, we had no other way to go on{F801}living but to keep perpetuating that{F801}lie...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Bony woman\0{F87A,66}{F813,1,403703}The Red Knight is going to resurrect{F801}Gozutennou.{F801}{F802}Once that happens, we will all be{F801}saved... Our long years of trouble{F801}will pay off.{F801}</source>
+    <target>{F812}Bony woman\0{F87A,66}{F813,1,403703}The Red Knight is going to resurrect{F801}Gozutennou.{F801}{F802}Once that happens, we will all be{F801}saved... Our long years of trouble{F801}will pay off.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Bony woman\0{F87A,66}{F813,1,403703}The Red Knight gave us understanding{F801}during our festivals.{F801}{F802}Oh, please come back...{F801}Please, save us...{F801}</source>
+    <target>{F812}Bony woman\0{F87A,66}{F813,1,403703}The Red Knight gave us understanding{F801}during our festivals.{F801}{F802}Oh, please come back...{F801}Please, save us...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Bony woman\0{F87A,66}{F813,1,403713}Red Knight...! Red Knight...!{F801}Where have you gone...?{F801}{F802}Please come back...{F801}Please, save us...!{F801}</source>
+    <target>{F812}Bony woman\0{F87A,66}{F813,1,403713}Red Knight...! Red Knight...!{F801}Where have you gone...?{F801}{F802}Please come back...{F801}Please, save us...!{F801}</target>
+  </entry>
+</mbm>

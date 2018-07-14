@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Weary man\0{F87A,63}{F813,1,403841}In order to get the demons all over{F801}Tokyo in one place, Tayama decided to{F801}revamp Shibuya...{F801}{F802}He used the Reds to lure all the demons{F801}into one place.{F801}{F802}He claims it was done to contain the{F801}damage to Tokyo. But what about the{F801}damage to us Shibuya locals?{F801}{F802}We got caught up in the redevelopment{F801}scheme to make this region an easier{F801}place to deal Reds...{F801}</source>
+    <target>{F812}Weary man\0{F87A,63}{F813,1,403841}In order to get the demons all over{F801}Tokyo in one place, Tayama decided to{F801}revamp Shibuya...{F801}{F802}He used the Reds to lure all the demons{F801}into one place.{F801}{F802}He claims it was done to contain the{F801}damage to Tokyo. But what about the{F801}damage to us Shibuya locals?{F801}{F802}We got caught up in the redevelopment{F801}scheme to make this region an easier{F801}place to deal Reds...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Weary man\0{F87A,63}{F813,1,403841}Tayama, Yuriko, I don't care who does it,{F801}just do something about those demons!{F801}{F802}If they really want the Reds, let's just{F801}give 'em all we got!{F801}{F802}Please... Please get these demons away{F801}from me...!{F801}</source>
+    <target>{F812}Weary man\0{F87A,63}{F813,1,403841}Tayama, Yuriko, I don't care who does it,{F801}just do something about those demons!{F801}{F802}If they really want the Reds, let's just{F801}give 'em all we got!{F801}{F802}Please... Please get these demons away{F801}from me...!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Weary man\0{F87A,63}{F813,1,403841}I don't care who, but someone has to do{F801}something about these demons!{F801}{F802}If they really want the Reds, let's just{F801}give 'em all we got!{F801}{F802}O-Or we could ask that {F843,0} to{F801}take care of all the demons!{F801}</source>
+    <target>{F812}Weary man\0{F87A,63}{F813,1,403841}I don't care who, but someone has to do{F801}something about these demons!{F801}{F802}If they really want the Reds, let's just{F801}give 'em all we got!{F801}{F802}O-Or we could ask that {F843,0} to{F801}take care of all the demons!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Weary man\0{F87A,63}{F813,1,403841}Come to think of it, those awful kids{F801}were a thorn in our side even before we{F801}had the ceiling to worry about.{F801}{F802}I'm ashamed I made so much commotion{F801}over a few piddly demons...{F801}{F802}Thanks to your heroic effort, champion,{F801}I feel like I can be more positive about{F801}things, like you.{F801}</source>
+    <target>{F812}Weary man\0{F87A,63}{F813,1,403841}Come to think of it, those awful kids{F801}were a thorn in our side even before we{F801}had the ceiling to worry about.{F801}{F802}I'm ashamed I made so much commotion{F801}over a few piddly demons...{F801}{F802}Thanks to your heroic effort, champion,{F801}I feel like I can be more positive about{F801}things, like you.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Weary man\0{F87A,63}{F813,1,403841}We've lived in a city infested with{F801}demons for years.{F801}{F802}Once Shibuya is back to normal, it'll{F801}attract more of those awful kids.{F801}{F802}...But that's okay. I'll keep my chin{F801}up from now on.{F801}</source>
+    <target>{F812}Weary man\0{F87A,63}{F813,1,403841}We've lived in a city infested with{F801}demons for years.{F801}{F802}Once Shibuya is back to normal, it'll{F801}attract more of those awful kids.{F801}{F802}...But that's okay. I'll keep my chin{F801}up from now on.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Dreamy woman\0{F87A,80}{F813,1,403122}The guys from the Ashura-kai have been{F801}talking about some stuff "above the{F801}ceiling" recently...{F801}{F802}It never occurred to me there might be{F801}something on the other side of the{F801}ceiling...{F801}{F802}But if whatever's up there is more{F801}comfortable than these underground{F801}districts, I wanna go there...{F801}</source>
+    <target>{F812}Dreamy woman\0{F87A,80}{F813,1,403122}The guys from the Ashura-kai have been{F801}talking about some stuff "above the{F801}ceiling" recently...{F801}{F802}It never occurred to me there might be{F801}something on the other side of the{F801}ceiling...{F801}{F802}But if whatever's up there is more{F801}comfortable than these underground{F801}districts, I wanna go there...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Dreamy woman\0{F87A,80}{F813,1,403121}H-Hey, I hear Tayama and Yuriko are{F801}having an all-out war. Is that right...?{F801}{F802}It's because of them that there are so{F801}many demons in Tokyo now, isn't it?{F801}{F802}What? It isn't!? Then what's going on{F801}here, really!? No one tells me anything!{F801}</source>
+    <target>{F812}Dreamy woman\0{F87A,80}{F813,1,403121}H-Hey, I hear Tayama and Yuriko are{F801}having an all-out war. Is that right...?{F801}{F802}It's because of them that there are so{F801}many demons in Tokyo now, isn't it?{F801}{F802}What? It isn't!? Then what's going on{F801}here, really!? No one tells me anything!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Dreamy woman\0{F87A,80}{F813,1,403103}H-Hey, I hear Tayama and Yuriko aren't{F801}in Tokyo anymore. Is that right...?{F801}{F802}But there is a guy called the King of{F801}Tokyo, and he's killing all the demons{F801}for us? Is that right?{F801}{F802}What? It isn't!? Then what's going on{F801}here, really!? No one tells me anything!{F801}</source>
+    <target>{F812}Dreamy woman\0{F87A,80}{F813,1,403103}H-Hey, I hear Tayama and Yuriko aren't{F801}in Tokyo anymore. Is that right...?{F801}{F802}But there is a guy called the King of{F801}Tokyo, and he's killing all the demons{F801}for us? Is that right?{F801}{F802}What? It isn't!? Then what's going on{F801}here, really!? No one tells me anything!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Dreamy woman\0{F87A,80}{F813,1,403103}So Tayama and Yuriko aren't in Tokyo{F801}anymore, right?{F801}{F802}And there's a guy called the King of{F801}Tokyo who wants to help the city, right?{F801}{F802}What? No? Well, whatever. But it is true{F801}that we can go back to our regular lives,{F801}right?{F801}</source>
+    <target>{F812}Dreamy woman\0{F87A,80}{F813,1,403103}So Tayama and Yuriko aren't in Tokyo{F801}anymore, right?{F801}{F802}And there's a guy called the King of{F801}Tokyo who wants to help the city, right?{F801}{F802}What? No? Well, whatever. But it is true{F801}that we can go back to our regular lives,{F801}right?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Weary man\0{F87A,63}{F813,1,403841}Tayama, Yuriko, I don't care who does it,{F801}just get the Reds out of Shibuya!{F801}{F802}It's because of those damn pills that{F801}we're swamped with demons! I haven't had{F801}a good night's sleep in years!{F801}{F802}Please, find some way that doesn't screw{F801}over the locals...!{F801}</source>
+    <target>{F812}Weary man\0{F87A,63}{F813,1,403841}Tayama, Yuriko, I don't care who does it,{F801}just get the Reds out of Shibuya!{F801}{F802}It's because of those damn pills that{F801}we're swamped with demons! I haven't had{F801}a good night's sleep in years!{F801}{F802}Please, find some way that doesn't screw{F801}over the locals...!{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Dreamy woman\0{F87A,80}{F813,1,403103}I hear there's someone in Shinjuku who{F801}went up above that ceiling. Is that{F801}right...?{F801}{F802}But I guess since he's back in Tokyo,{F801}that place isn't any better than{F801}here, huh...?{F801}</source>
+    <target>{F812}Dreamy woman\0{F87A,80}{F813,1,403103}I hear there's someone in Shinjuku who{F801}went up above that ceiling. Is that{F801}right...?{F801}{F802}But I guess since he's back in Tokyo,{F801}that place isn't any better than{F801}here, huh...?{F801}</target>
+  </entry>
+  <entry id="205">
+    <source>{F812}Dreamy woman\0{F87A,80}{F813,1,403121}H-Hey, I hear Tayama and Yuriko are{F801}having an all-out war. Is that right...?{F801}{F802}I hear there's someone in Shinjuku who{F801}went up above that ceiling. Is that{F801}right...?{F801}{F802}Couldn't we take shelter on the other{F801}side of the ceiling? How can we get{F801}there!?{F801}</source>
+    <target>{F812}Dreamy woman\0{F87A,80}{F813,1,403121}H-Hey, I hear Tayama and Yuriko are{F801}having an all-out war. Is that right...?{F801}{F802}I hear there's someone in Shinjuku who{F801}went up above that ceiling. Is that{F801}right...?{F801}{F802}Couldn't we take shelter on the other{F801}side of the ceiling? How can we get{F801}there!?{F801}</target>
+  </entry>
+</mbm>

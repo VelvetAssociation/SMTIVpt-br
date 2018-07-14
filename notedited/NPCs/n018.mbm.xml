@@ -1,0 +1,86 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Female demonoid\0{F87A,147}{F813,1,418002}I'm sure Akira wishes he could ditch{F801}this tiny base and move out to the{F801}center of the city...{F801}{F802}But he doesn't have the firepower.{F801}Not enough soldiers, you know? He's{F801}trying to find good allies nearby.{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,147}{F813,1,418002}I'm sure Akira wishes he could ditch{F801}this tiny base and move out to the{F801}center of the city...{F801}{F802}But he doesn't have the firepower.{F801}Not enough soldiers, you know? He's{F801}trying to find good allies nearby.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Female demonoid\0{F87A,147}{F813,1,418002}When Akira starts to get drunk around{F801}his people, he always rambles on about{F801}his dream...{F801}{F802}He says he doesn't want his people{F801}cooped up in this tiny base. He wants{F801}to set them up in central Tokyo...{F801}{F802}But he needs more men to pull that off.{F801}I wonder if there are any good soldiers{F801}for hire out there...{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,147}{F813,1,418002}When Akira starts to get drunk around{F801}his people, he always rambles on about{F801}his dream...{F801}{F802}He says he doesn't want his people{F801}cooped up in this tiny base. He wants{F801}to set them up in central Tokyo...{F801}{F802}But he needs more men to pull that off.{F801}I wonder if there are any good soldiers{F801}for hire out there...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Female demonoid\0{F87A,147}{F813,1,418002}When Akira starts to get drunk around{F801}his people, he always rambles on about{F801}his dream...{F801}{F802}He says he doesn't want his people{F801}cooped up in this tiny base. He wants{F801}to set them up in central Tokyo...{F801}{F802}But that guy's all talk. He's got no{F801}muscle to back it up. Then again, he's{F801}also a guy who keeps his promises...{F801}{F802}With the Intruders on his side, he just{F801}might make that dream come true...{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,147}{F813,1,418002}When Akira starts to get drunk around{F801}his people, he always rambles on about{F801}his dream...{F801}{F802}He says he doesn't want his people{F801}cooped up in this tiny base. He wants{F801}to set them up in central Tokyo...{F801}{F802}But that guy's all talk. He's got no{F801}muscle to back it up. Then again, he's{F801}also a guy who keeps his promises...{F801}{F802}With the Intruders on his side, he just{F801}might make that dream come true...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Female neurisher\0{F87A,147}{F813,1,418002}The only way for weaklings to survive{F801}in this world is to become neurishers.{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,147}{F813,1,418002}The only way for weaklings to survive{F801}in this world is to become neurishers.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Female demonoid\0{F87A,148}{F813,1,417203}They give their thoughtpeaches to the{F801}demonoids as food, in exchange for{F801}the right to live.{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,148}{F813,1,417203}They give their thoughtpeaches to the{F801}demonoids as food, in exchange for{F801}the right to live.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Female demonoid\0{F87A,147}{F813,1,418004}You there! Have you finished with{F801}today's harvest? Slack off and you're{F801}dead, you hear?{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,147}{F813,1,418004}You there! Have you finished with{F801}today's harvest? Slack off and you're{F801}dead, you hear?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Female demonoid\0{F87A,147}{F813,1,418002}It was Kenji who proposed the idea of{F801}making humans into neurishers.{F801}{F802}Thanks to him, all our food problems{F801}are solved. He's not only strong,{F801}but smart too.{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,147}{F813,1,418002}It was Kenji who proposed the idea of{F801}making humans into neurishers.{F801}{F802}Thanks to him, all our food problems{F801}are solved. He's not only strong,{F801}but smart too.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Female demonoid\0{F87A,148}{F813,1,417203}Speaking of smart, you know who else is{F801}clever? Akira.{F801}{F802}He's got a motto... "Don't pick fights{F801}unless you know you can win."{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,148}{F813,1,417203}Speaking of smart, you know who else is{F801}clever? Akira.{F801}{F802}He's got a motto... "Don't pick fights{F801}unless you know you can win."{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Female demonoid\0{F87A,147}{F813,1,418003}Must be how he's still alive in this{F801}hellhole.{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,147}{F813,1,418003}Must be how he's still alive in this{F801}hellhole.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Female demonoid\0{F87A,148}{F813,1,417207}Yeah... just don't count on his muscle,{F801}though. He ain't got any.{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,148}{F813,1,417207}Yeah... just don't count on his muscle,{F801}though. He ain't got any.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Female demonoid\0{F87A,147}{F813,1,418002}The Counter-Demon Force that Kenji used{F801}to belong to was a special organization{F801}made to drive the demons from Tokyo.{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,147}{F813,1,418002}The Counter-Demon Force that Kenji used{F801}to belong to was a special organization{F801}made to drive the demons from Tokyo.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Female demonoid\0{F87A,148}{F813,1,417203}It was formed about 25 years ago when{F801}a war between demons and angels had{F801}broken out in Tokyo.{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,148}{F813,1,417203}It was formed about 25 years ago when{F801}a war between demons and angels had{F801}broken out in Tokyo.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Female demonoid\0{F87A,147}{F813,1,418003}Kenji later threw in with the demons,{F801}who had been his enemies up to then,{F801}to defeat the forces of the angels.{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,147}{F813,1,418003}Kenji later threw in with the demons,{F801}who had been his enemies up to then,{F801}to defeat the forces of the angels.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Female demonoid\0{F87A,148}{F813,1,417203}Ever since then, it's been the rule of{F801}the strongest in Tokyo. And Kenji is{F801}the King.{F801}{F802}You might say Tokyo of the last 25{F801}years has been the Kenji era.{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,148}{F813,1,417203}Ever since then, it's been the rule of{F801}the strongest in Tokyo. And Kenji is{F801}the King.{F801}{F802}You might say Tokyo of the last 25{F801}years has been the Kenji era.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Male demonoid\0{F87A,146}{F813,1,415201}Daaaaamn! I'm so pissed off! I just{F801}wanna smack someone right now...!{F801}{F802}Heh, and with no cops or law in this{F801}city anymore, who's gonna stop me!?{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,146}{F813,1,415201}Daaaaamn! I'm so pissed off! I just{F801}wanna smack someone right now...!{F801}{F802}Heh, and with no cops or law in this{F801}city anymore, who's gonna stop me!?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Female demonoid\0{F87A,146}{F813,1,415200}Daaaaamn! I'm so pissed off! I'm dying{F801}to lay into someone right now...!{F801}{F802}Heh, and with no cops or law in this{F801}city anymore, who's to say I can't!?{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,146}{F813,1,415200}Daaaaamn! I'm so pissed off! I'm dying{F801}to lay into someone right now...!{F801}{F802}Heh, and with no cops or law in this{F801}city anymore, who's to say I can't!?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Male demonoid\0{F87A,146}{F813,1,415201}Daaaaamn! I'm so pissed off! I just{F801}wanna smack someone right now...!{F801}{F802}Heh, and with no cops or law in this{F801}city anymore, who's gonna stop me!?{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,146}{F813,1,415201}Daaaaamn! I'm so pissed off! I just{F801}wanna smack someone right now...!{F801}{F802}Heh, and with no cops or law in this{F801}city anymore, who's gonna stop me!?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Male demonoid\0{F87A,146}{F813,1,415200}Hey, you killed the boss of Shinjuku,{F801}right? That's great... like how it feels{F801}when you give someone a good smack!{F801}{F802}We was told to guard this place. You're{F801}off to whack Kenji, right?{F801}{F802}Hey Intruders, go kick some ass for{F801}me too while you're out!{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,146}{F813,1,415200}Hey, you killed the boss of Shinjuku,{F801}right? That's great... like how it feels{F801}when you give someone a good smack!{F801}{F802}We was told to guard this place. You're{F801}off to whack Kenji, right?{F801}{F802}Hey Intruders, go kick some ass for{F801}me too while you're out!{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Male demonoid\0{F87A,146}{F813,1,415201}Hey, you killed the boss of Shinjuku,{F801}right? That's great... like how it feels{F801}when you give someone a good smack!{F801}{F802}We was told to guard this place.{F801}King Akira's orders.{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,146}{F813,1,415201}Hey, you killed the boss of Shinjuku,{F801}right? That's great... like how it feels{F801}when you give someone a good smack!{F801}{F802}We was told to guard this place.{F801}King Akira's orders.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Male demonoid\0{F87A,146}{F813,1,415201}Hey, we was told to guard this place.{F801}King Akira's orders, man.{F801}{F802}I wonder what's Akira doing now...{F801}He seems pretty busy nowadays. We can't{F801}get in to see him.{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,146}{F813,1,415201}Hey, we was told to guard this place.{F801}King Akira's orders, man.{F801}{F802}I wonder what's Akira doing now...{F801}He seems pretty busy nowadays. We can't{F801}get in to see him.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Akira\0{F87A,85}{F813,1,401701}Huh!? What brings you glorious{F801}Intruders here? Why come to{F801}Kasumigaseki...?{F801}{F802}Kenji is in Camp Ichigaya. He has the{F801}remote, too.{F801}{F802}But... I need to start worrying about{F801}Shinjuku too, not just Kasumigaseki.{F801}{F802}And if I become King of Tokyo, won't I{F801}have to worry about the whole city...?{F801}Man, this is sounding pretty hard...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,1,401701}Huh!? What brings you glorious{F801}Intruders here? Why come to{F801}Kasumigaseki...?{F801}{F802}Kenji is in Camp Ichigaya. He has the{F801}remote, too.{F801}{F802}But... I need to start worrying about{F801}Shinjuku too, not just Kasumigaseki.{F801}{F802}And if I become King of Tokyo, won't I{F801}have to worry about the whole city...?{F801}Man, this is sounding pretty hard...{F801}</target>
+  </entry>
+</mbm>

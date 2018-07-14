@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Male ghost\0{F87A,101}{F813,1,404541}I, too, was infected by Pluto's poison.{F801}I feared that death might arrive at{F801}any time...{F801}{F802}But now I'm free from that fear! Because{F801}I'm already dead...{F801}</source>
+    <target>{F812}Male ghost\0{F87A,101}{F813,1,404541}I, too, was infected by Pluto's poison.{F801}I feared that death might arrive at{F801}any time...{F801}{F802}But now I'm free from that fear! Because{F801}I'm already dead...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Male ghost\0{F87A,101}{F813,1,404542}Perhaps I should have tried a little{F801}harder to survive...{F801}{F802}{F813,1,404532}Oh well, too late now! Hahaha!{F801}</source>
+    <target>{F812}Male ghost\0{F87A,101}{F813,1,404542}Perhaps I should have tried a little{F801}harder to survive...{F801}{F802}{F813,1,404532}Oh well, too late now! Hahaha!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Female ghost\0{F87A,102}{F813,1,404621}That demon killed me and turned me{F801}into... this...{F801}{F802}I know I'm dead, but I'm still tied to{F801}this place...{F801}{F802}Some paradise this is!{F801}</source>
+    <target>{F812}Female ghost\0{F87A,102}{F813,1,404621}That demon killed me and turned me{F801}into... this...{F801}{F802}I know I'm dead, but I'm still tied to{F801}this place...{F801}{F802}Some paradise this is!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Female ghost\0{F87A,102}{F813,1,404623}Despair... All is despair...{F801}</source>
+    <target>{F812}Female ghost\0{F87A,102}{F813,1,404623}Despair... All is despair...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Male ghost\0{F87A,101}{F813,1,404503}If you have come to this paradise to{F801}find tranquility, I welcome you.{F801}{F802}But if you have come as a destroyer,{F801}you will be judged by Lady Ixtab...{F801}</source>
+    <target>{F812}Male ghost\0{F87A,101}{F813,1,404503}If you have come to this paradise to{F801}find tranquility, I welcome you.{F801}{F802}But if you have come as a destroyer,{F801}you will be judged by Lady Ixtab...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Female ghost\0{F87A,101}{F813,1,404521}You have ruined our paradise! Why could{F801}you not leave us in peace?{F801}{F802}{F813,1,404522}You will suffer...! Suffer until the{F801}very moment of your death{F801}</source>
+    <target>{F812}Female ghost\0{F87A,101}{F813,1,404521}You have ruined our paradise! Why could{F801}you not leave us in peace?{F801}{F802}{F813,1,404522}You will suffer...! Suffer until the{F801}very moment of your death{F801}</target>
+  </entry>
+</mbm>

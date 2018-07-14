@@ -1,0 +1,106 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Quiet man\0{F87A,45}{F813,1,403603}Ah, are you lost? This is a residential{F801}area for we Luxurors.{F801}{F802}Of all the lands of the Eastern Kingdom{F801}of Mikado, we Luxurors only live inside{F801}this castle.{F801}{F802}I won't forbid you to come here exactly,{F801}but... I would certainly prefer you to{F801}keep to the town's unwritten rules.{F801}</source>
+    <target>{F812}Quiet man\0{F87A,45}{F813,1,403603}Ah, are you lost? This is a residential{F801}area for we Luxurors.{F801}{F802}Of all the lands of the Eastern Kingdom{F801}of Mikado, we Luxurors only live inside{F801}this castle.{F801}{F802}I won't forbid you to come here exactly,{F801}but... I would certainly prefer you to{F801}keep to the town's unwritten rules.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Quiet man\0{F87A,45}{F813,1,403641}I hear tell that there is a stranger{F801}making appearances in the Casualry{F801}District...{F801}{F802}No matter. So long as this stranger{F801}doesn't disturb the peace and keeps clear{F801}of our district, I don't mind at all.{F801}</source>
+    <target>{F812}Quiet man\0{F87A,45}{F813,1,403641}I hear tell that there is a stranger{F801}making appearances in the Casualry{F801}District...{F801}{F802}No matter. So long as this stranger{F801}doesn't disturb the peace and keeps clear{F801}of our district, I don't mind at all.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Quiet man\0{F87A,45}{F813,1,403642}I hear tell that the Black Samurai was{F801}making regular visits to the Casualry{F801}district...{F801}{F802}No matter. So long as this stranger{F801}doesn't disturb the peace and keeps clear{F801}of our district, I don't mind at all.{F801}</source>
+    <target>{F812}Quiet man\0{F87A,45}{F813,1,403642}I hear tell that the Black Samurai was{F801}making regular visits to the Casualry{F801}district...{F801}{F802}No matter. So long as this stranger{F801}doesn't disturb the peace and keeps clear{F801}of our district, I don't mind at all.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Quiet man\0{F87A,45}{F813,1,403641}The public execution had quite a sense{F801}of occasion to it. It's something I'll{F801}be telling my grandchildren about.{F801}</source>
+    <target>{F812}Quiet man\0{F87A,45}{F813,1,403641}The public execution had quite a sense{F801}of occasion to it. It's something I'll{F801}be telling my grandchildren about.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Quiet man\0{F87A,45}{F813,1,403601}The town is abuzz regarding our new{F801}leader. I can feel our kingdom uniting{F801}as one. I sense it in my pores...{F801}{F802}It's a feeling that's impossible to put{F801}into words. I must repent of my sins{F801}now...{F801}{F802}Our beloved leader has given us such a{F801}sense of fulfillment... Whatever she{F801}wishes, I shall carry out!{F801}</source>
+    <target>{F812}Quiet man\0{F87A,45}{F813,1,403601}The town is abuzz regarding our new{F801}leader. I can feel our kingdom uniting{F801}as one. I sense it in my pores...{F801}{F802}It's a feeling that's impossible to put{F801}into words. I must repent of my sins{F801}now...{F801}{F802}Our beloved leader has given us such a{F801}sense of fulfillment... Whatever she{F801}wishes, I shall carry out!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Quiet man\0{F87A,45}{F813,1,403622}There were some former Luxurors who{F801}took issue with the new leader's orders.{F801}{F802}So I've requested the Blessed Samurai{F801}to execute them.{F801}{F802}'Tis such joy to know that I have done{F801}my part for the new millennium of this{F801}kingdom...!{F801}</source>
+    <target>{F812}Quiet man\0{F87A,45}{F813,1,403622}There were some former Luxurors who{F801}took issue with the new leader's orders.{F801}{F802}So I've requested the Blessed Samurai{F801}to execute them.{F801}{F802}'Tis such joy to know that I have done{F801}my part for the new millennium of this{F801}kingdom...!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Quiet man\0{F87A,45}{F813,1,403621}There were some former Luxurors who{F801}took issue with the new leader's orders.{F801}{F802}So I've requested the Blessed Samurai{F801}to execute them.{F801}{F802}My deeds have robbed them of their{F801}future... They, too, were privileged{F801}to join us in the new land...{F801}</source>
+    <target>{F812}Quiet man\0{F87A,45}{F813,1,403621}There were some former Luxurors who{F801}took issue with the new leader's orders.{F801}{F802}So I've requested the Blessed Samurai{F801}to execute them.{F801}{F802}My deeds have robbed them of their{F801}future... They, too, were privileged{F801}to join us in the new land...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Loud woman\0{F87A,41}{F813,1,403701}There haven't been any new Samurai for{F801}years now.{F801}{F802}I wonder if the Gauntlets will accept{F801}anyone this year...{F801}</source>
+    <target>{F812}Loud woman\0{F87A,41}{F813,1,403701}There haven't been any new Samurai for{F801}years now.{F801}{F802}I wonder if the Gauntlets will accept{F801}anyone this year...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Loud woman\0{F87A,41}{F813,1,403702}My elderly maid heard an interesting{F801}thing from the baker when she was out{F801}buying bread...{F801}{F802}It seems there's a person calling himself{F801}the Black Samurai? Is he related to{F801}your sort?{F801}</source>
+    <target>{F812}Loud woman\0{F87A,41}{F813,1,403702}My elderly maid heard an interesting{F801}thing from the baker when she was out{F801}buying bread...{F801}{F802}It seems there's a person calling himself{F801}the Black Samurai? Is he related to{F801}your sort?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Loud woman\0{F87A,41}{F813,1,403721}My elderly maid said that when she{F801}passes by the Casualry district...{F801}{F802}She overhears people saying the nastiest{F801}things about we Luxurors. I believe she{F801}must have misheard... but...{F801}</source>
+    <target>{F812}Loud woman\0{F87A,41}{F813,1,403721}My elderly maid said that when she{F801}passes by the Casualry district...{F801}{F802}She overhears people saying the nastiest{F801}things about we Luxurors. I believe she{F801}must have misheard... but...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Loud woman\0{F87A,41}{F813,1,403722}The Casualries who attended the public{F801}execution will finally see the truth...{F801}{F802}Yes, all the negativity of late stemmed{F801}from that Black Samurai. All of it!{F801}{F802}No one can blame the Luxurors--after{F801}all, we are God's chosen!{F801}</source>
+    <target>{F812}Loud woman\0{F87A,41}{F813,1,403722}The Casualries who attended the public{F801}execution will finally see the truth...{F801}{F802}Yes, all the negativity of late stemmed{F801}from that Black Samurai. All of it!{F801}{F802}No one can blame the Luxurors--after{F801}all, we are God's chosen!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Loud woman\0{F87A,41}{F813,1,403723}There'll be no Casualries nor Luxurors{F801}any longer.{F801}{F802}I am only an ordinary subject of the{F801}Eastern Kingdom of Mikado now. So said{F801}our new leader to me.{F801}</source>
+    <target>{F812}Loud woman\0{F87A,41}{F813,1,403723}There'll be no Casualries nor Luxurors{F801}any longer.{F801}{F802}I am only an ordinary subject of the{F801}Eastern Kingdom of Mikado now. So said{F801}our new leader to me.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Slant-eyed man\0{F87A,40}{F813,1,403601}Is this your first time in the castle{F801}town? You're here for the Rite, aren't{F801}you...?{F801}{F802}It's Aquila Statue Plaza where you{F801}want to be. You can feel the kingdom's{F801}rich history all around you there.{F801}</source>
+    <target>{F812}Slant-eyed man\0{F87A,40}{F813,1,403601}Is this your first time in the castle{F801}town? You're here for the Rite, aren't{F801}you...?{F801}{F802}It's Aquila Statue Plaza where you{F801}want to be. You can feel the kingdom's{F801}rich history all around you there.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Slant-eyed man\0{F87A,40}{F813,1,403621}I hear that more and more of the{F801}Casualries are becoming interested{F801}in that Literature.{F801}{F802}I've never heard of the Monastery{F801}encouraging the Casualries to read...{F801}But what matter is it to me?{F801}</source>
+    <target>{F812}Slant-eyed man\0{F87A,40}{F813,1,403621}I hear that more and more of the{F801}Casualries are becoming interested{F801}in that Literature.{F801}{F802}I've never heard of the Monastery{F801}encouraging the Casualries to read...{F801}But what matter is it to me?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Slant-eyed man\0{F87A,40}{F813,1,403612}I hear that there's a growing interest{F801}in these "Sabbath" gatherings among{F801}the Casualries.{F801}{F802}I've never heard of the Monastery{F801}encouraging the Casualries to hold{F801}convocations... Not that I care much.{F801}</source>
+    <target>{F812}Slant-eyed man\0{F87A,40}{F813,1,403612}I hear that there's a growing interest{F801}in these "Sabbath" gatherings among{F801}the Casualries.{F801}{F802}I've never heard of the Monastery{F801}encouraging the Casualries to hold{F801}convocations... Not that I care much.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Slant-eyed man\0{F87A,40}{F813,1,403621}Since those Casualries wouldn't cease{F801}their babbling about the Sabbaths...{F801}{F802}I snuck into a Sabbath held in Corto,{F801}disguised as a Casualry.{F801}{F802}What I heard there was a torrent of foul{F801}talk about our kingdom! What cheek!{F801}I must report this to the Monastery...{F801}</source>
+    <target>{F812}Slant-eyed man\0{F87A,40}{F813,1,403621}Since those Casualries wouldn't cease{F801}their babbling about the Sabbaths...{F801}{F802}I snuck into a Sabbath held in Corto,{F801}disguised as a Casualry.{F801}{F802}What I heard there was a torrent of foul{F801}talk about our kingdom! What cheek!{F801}I must report this to the Monastery...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Slant-eyed man\0{F87A,40}{F813,1,403603}I hear that the kingdom will not require{F801}Luxurors for the coming millennium...{F801}{F802}Then in what way can I contribute...?{F801}I-I don't know... what can I do?{F801}{F802}I don't know how to cultivate a field{F801}or raise a sow... I'm coming to realize{F801}that I'm quite useless indeed...{F801}</source>
+    <target>{F812}Slant-eyed man\0{F87A,40}{F813,1,403603}I hear that the kingdom will not require{F801}Luxurors for the coming millennium...{F801}{F802}Then in what way can I contribute...?{F801}I-I don't know... what can I do?{F801}{F802}I don't know how to cultivate a field{F801}or raise a sow... I'm coming to realize{F801}that I'm quite useless indeed...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Quiet man\0{F87A,45}{F813,1,403642}So, that Black Samurai frequented the{F801}Casualry district, eh?{F801}{F802}No matter. So long as this stranger{F801}doesn't disturb the peace and keeps clear{F801}of our district, I don't mind at all.{F801}</source>
+    <target>{F812}Quiet man\0{F87A,45}{F813,1,403642}So, that Black Samurai frequented the{F801}Casualry district, eh?{F801}{F802}No matter. So long as this stranger{F801}doesn't disturb the peace and keeps clear{F801}of our district, I don't mind at all.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Quiet man\0{F87A,45}{F813,1,403622}Wh-What's happening!? I-I've just seen{F801}some sort of animal completely unknown{F801}to me...{F801}{F802}It ate a woman...! And worse, it's{F801}happening everywhere in town!{F801}{F802}But our God has not abandoned us! The{F801}Blessed Samurai are here for us...!{F801}{F802}The Eastern Kingdom of Mikado is in{F801}great peril! Y-You must save us at{F801}once! Hurry!{F801}</source>
+    <target>{F812}Quiet man\0{F87A,45}{F813,1,403622}Wh-What's happening!? I-I've just seen{F801}some sort of animal completely unknown{F801}to me...{F801}{F802}It ate a woman...! And worse, it's{F801}happening everywhere in town!{F801}{F802}But our God has not abandoned us! The{F801}Blessed Samurai are here for us...!{F801}{F802}The Eastern Kingdom of Mikado is in{F801}great peril! Y-You must save us at{F801}once! Hurry!{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Loud woman\0{F87A,41}{F813,1,403721}I hear that the Casualries will be{F801}permitted to view the execution.{F801}{F802}In view of the Casualries' recent{F801}misunderstandings regarding the{F801}Luxurors...{F801}{F802}I think that this was a wise decision{F801}on the Monastery's part. It will clear{F801}the air between us.{F801}</source>
+    <target>{F812}Loud woman\0{F87A,41}{F813,1,403721}I hear that the Casualries will be{F801}permitted to view the execution.{F801}{F802}In view of the Casualries' recent{F801}misunderstandings regarding the{F801}Luxurors...{F801}{F802}I think that this was a wise decision{F801}on the Monastery's part. It will clear{F801}the air between us.{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Loud woman\0{F87A,41}{F813,1,403722}That Black Samurai was executed, yes?{F801}I saw it with my own eyes.{F801}{F802}But Mikado Castle seems to be in a state{F801}of panic... Whatever is going on...?{F801}</source>
+    <target>{F812}Loud woman\0{F87A,41}{F813,1,403722}That Black Samurai was executed, yes?{F801}I saw it with my own eyes.{F801}{F802}But Mikado Castle seems to be in a state{F801}of panic... Whatever is going on...?{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Loud woman\0{F87A,41}{F813,1,403743}There'll be no Casualries nor Luxurors{F801}in this kingdom any longer.{F801}{F802}All of those still living in this land{F801}are chosen by God. So said our new{F801}leader to us.{F801}</source>
+    <target>{F812}Loud woman\0{F87A,41}{F813,1,403743}There'll be no Casualries nor Luxurors{F801}in this kingdom any longer.{F801}{F802}All of those still living in this land{F801}are chosen by God. So said our new{F801}leader to us.{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Slant-eyed man\0{F87A,40}{F813,1,403612}Those Sabbath gatherings the Casualries{F801}favored so are now banned.{F801}{F802}What did they expect? The Casualries{F801}were not put on this earth to discuss{F801}and debate. Their role is to work!{F801}</source>
+    <target>{F812}Slant-eyed man\0{F87A,40}{F813,1,403612}Those Sabbath gatherings the Casualries{F801}favored so are now banned.{F801}{F802}What did they expect? The Casualries{F801}were not put on this earth to discuss{F801}and debate. Their role is to work!{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>{F812}Quiet man\0{F87A,45}{F813,1,403642}I hear tell that the Black Samurai will{F801}be publicly executed in the Obelisk Plaza{F801}this day.{F801}{F802}Most of the Casualries will be in{F801}attendance... 'Tis an unpredecented{F801}event in our kingdom, I must say.{F801}</source>
+    <target>{F812}Quiet man\0{F87A,45}{F813,1,403642}I hear tell that the Black Samurai will{F801}be publicly executed in the Obelisk Plaza{F801}this day.{F801}{F802}Most of the Casualries will be in{F801}attendance... 'Tis an unpredecented{F801}event in our kingdom, I must say.{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>{F812}Loud woman\0{F87A,41}{F813,1,403743}There'll be no Casualries nor Luxurors{F801}in this kingdom any longer.{F801}{F802}Those still living in this land are the{F801}ones who'll make their own decisions.{F801}So said that young Samurai girl to us.{F801}</source>
+    <target>{F812}Loud woman\0{F87A,41}{F813,1,403743}There'll be no Casualries nor Luxurors{F801}in this kingdom any longer.{F801}{F802}Those still living in this land are the{F801}ones who'll make their own decisions.{F801}So said that young Samurai girl to us.{F801}</target>
+  </entry>
+  <entry id="214">
+    <source>{F812}Slant-eyed man\0{F87A,40}{F813,1,403612}I have heard that the Black Samurai gave{F801}the Casualries the idea for the Sabbaths,{F801}just as she did with that Literature.{F801}{F802}Do you know what the worst thing in{F801}this world is? Evil deeds born of good{F801}intentions.{F801}</source>
+    <target>{F812}Slant-eyed man\0{F87A,40}{F813,1,403612}I have heard that the Black Samurai gave{F801}the Casualries the idea for the Sabbaths,{F801}just as she did with that Literature.{F801}{F802}Do you know what the worst thing in{F801}this world is? Evil deeds born of good{F801}intentions.{F801}</target>
+  </entry>
+</mbm>

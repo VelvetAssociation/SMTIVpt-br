@@ -1,0 +1,70 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Arrogant man\0{F87A,24}{F813,1,403643}What was this year in the Gregorian{F801}Calendar...? What year was it...?{F801}{F802}I met my wife for the first time in...{F801}Ah! It must be 1492 by the Gregorian{F801}Calendar now...{F801}</source>
+    <target>{F812}Arrogant man\0{F87A,24}{F813,1,403643}What was this year in the Gregorian{F801}Calendar...? What year was it...?{F801}{F802}I met my wife for the first time in...{F801}Ah! It must be 1492 by the Gregorian{F801}Calendar now...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Arrogant man\0{F87A,24}{F813,1,403611}There seem to be more Casualries now{F801}who can read the mystic script...{F801}{F802}Take that baker in the castle town.{F801}He even labels his wares in the script.{F801}{F802}We Luxurors study the script at a young{F801}age in school, but how and where did{F801}THEY learn it?{F801}</source>
+    <target>{F812}Arrogant man\0{F87A,24}{F813,1,403611}There seem to be more Casualries now{F801}who can read the mystic script...{F801}{F802}Take that baker in the castle town.{F801}He even labels his wares in the script.{F801}{F802}We Luxurors study the script at a young{F801}age in school, but how and where did{F801}THEY learn it?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Arrogant man\0{F87A,24}{F813,1,403641}There seem to be more Casualries now{F801}who can read the mystic script...{F801}{F802}They claim to have mastered it naturally{F801}by reading Literature written in the{F801}language.{F801}{F802}But books written in the mystic script{F801}are extremely hard to come by... Just{F801}where did they happen upon theirs?{F801}</source>
+    <target>{F812}Arrogant man\0{F87A,24}{F813,1,403641}There seem to be more Casualries now{F801}who can read the mystic script...{F801}{F802}They claim to have mastered it naturally{F801}by reading Literature written in the{F801}language.{F801}{F802}But books written in the mystic script{F801}are extremely hard to come by... Just{F801}where did they happen upon theirs?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Arrogant man\0{F87A,24}{F813,1,403621}I've heard that the Black Samurai was{F801}disseminating Literature written in the{F801}mystic script.{F801}{F802}Just what did she aim to accomplish by{F801}handing out such precious volumes to{F801}those ignorant louts?{F801}{F802}Ah well... I've more pressing concerns{F801}than a fool who was just executed.{F801}</source>
+    <target>{F812}Arrogant man\0{F87A,24}{F813,1,403621}I've heard that the Black Samurai was{F801}disseminating Literature written in the{F801}mystic script.{F801}{F802}Just what did she aim to accomplish by{F801}handing out such precious volumes to{F801}those ignorant louts?{F801}{F802}Ah well... I've more pressing concerns{F801}than a fool who was just executed.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Arrogant man\0{F87A,24}{F813,1,403603}Just as our God is one and only...{F801}We do not need two languages in this{F801}kingdom.{F801}{F802}I'm ashamed of myself. To think I was{F801}once so proud to have mastered the{F801}mystic script...{F801}</source>
+    <target>{F812}Arrogant man\0{F87A,24}{F813,1,403603}Just as our God is one and only...{F801}We do not need two languages in this{F801}kingdom.{F801}{F802}I'm ashamed of myself. To think I was{F801}once so proud to have mastered the{F801}mystic script...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Gentle woman\0{F87A,41}{F813,1,403731}I was born a Luxuror. My unborn child{F801}will be a Luxuror. As will all his{F801}descendants...{F801}{F802}In the Eastern Kingdom of Mikado, we{F801}are all born to a purpose that God has{F801}given us, unto our last descendant.{F801}</source>
+    <target>{F812}Gentle woman\0{F87A,41}{F813,1,403731}I was born a Luxuror. My unborn child{F801}will be a Luxuror. As will all his{F801}descendants...{F801}{F802}In the Eastern Kingdom of Mikado, we{F801}are all born to a purpose that God has{F801}given us, unto our last descendant.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Gentle woman\0{F87A,41}{F813,1,403741}I saw a band of Samurai today near the{F801}castle gate, departing on an expedition.{F801}I'd never seen them thus before.{F801}{F802}That white-haired gentleman on the{F801}front line... I wonder if he would{F801}care a fig for the age difference...{F801}{F802}Oh... Oh, my! Did I say that out...{F801}P-Please, forget you heard anything!{F801}</source>
+    <target>{F812}Gentle woman\0{F87A,41}{F813,1,403741}I saw a band of Samurai today near the{F801}castle gate, departing on an expedition.{F801}I'd never seen them thus before.{F801}{F802}That white-haired gentleman on the{F801}front line... I wonder if he would{F801}care a fig for the age difference...{F801}{F802}Oh... Oh, my! Did I say that out...{F801}P-Please, forget you heard anything!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Gentle woman\0{F87A,41}{F813,1,403721}I saw a band of Samurai departing on{F801}a mission...{F801}{F802}I've heard that their task is to conduct{F801}an inspection of many towns across the{F801}Eastern Kingdom of Mikado...{F801}{F802}Alas... I did not see the dignified{F801}gentleman with white hair among their{F801}number...{F801}</source>
+    <target>{F812}Gentle woman\0{F87A,41}{F813,1,403721}I saw a band of Samurai departing on{F801}a mission...{F801}{F802}I've heard that their task is to conduct{F801}an inspection of many towns across the{F801}Eastern Kingdom of Mikado...{F801}{F802}Alas... I did not see the dignified{F801}gentleman with white hair among their{F801}number...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Gentle woman\0{F87A,41}{F813,1,403722}At last, I recently had the fortune to{F801}meet that gentleman before he departed{F801}on another mission!{F801}{F802}The white-haired Samurai's name is...{F801}Commander Hope.{F801}{F802}I should be thankful to have got that{F801}much out of him. He seemed to have very{F801}pressing business that day...{F801}</source>
+    <target>{F812}Gentle woman\0{F87A,41}{F813,1,403722}At last, I recently had the fortune to{F801}meet that gentleman before he departed{F801}on another mission!{F801}{F802}The white-haired Samurai's name is...{F801}Commander Hope.{F801}{F802}I should be thankful to have got that{F801}much out of him. He seemed to have very{F801}pressing business that day...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Gentle woman\0{F87A,41}{F813,1,403702}At last, I recently had the fortune to{F801}meet that gentleman before he departed{F801}on another mission!{F801}{F802}The white-haired Samurai's name is...{F801}Commander Hope.{F801}{F802}Master Hope and I were both chosen by{F801}God as subjects of this kingdom... I am{F801}honored to count him as a countryman.{F801}</source>
+    <target>{F812}Gentle woman\0{F87A,41}{F813,1,403702}At last, I recently had the fortune to{F801}meet that gentleman before he departed{F801}on another mission!{F801}{F802}The white-haired Samurai's name is...{F801}Commander Hope.{F801}{F802}Master Hope and I were both chosen by{F801}God as subjects of this kingdom... I am{F801}honored to count him as a countryman.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Gentle woman\0{F87A,41}{F813,1,403722}Master Hope has many errands all across{F801}the kingdom each day...{F801}{F802}But his absence has done nothing to{F801}quench my feelings for him...{F801}{F802}If I could put one question to God,{F801}'twould be this: Why did you teach me{F801}the sensation of love...?{F801}</source>
+    <target>{F812}Gentle woman\0{F87A,41}{F813,1,403722}Master Hope has many errands all across{F801}the kingdom each day...{F801}{F802}But his absence has done nothing to{F801}quench my feelings for him...{F801}{F802}If I could put one question to God,{F801}'twould be this: Why did you teach me{F801}the sensation of love...?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Gentle woman\0{F87A,41}{F813,1,403721}A Samurai woman called Isabeau was{F801}here not long ago.{F801}{F802}She told me to prepare for a journey and{F801}then went straight for Mikado Castle.{F801}</source>
+    <target>{F812}Gentle woman\0{F87A,41}{F813,1,403721}A Samurai woman called Isabeau was{F801}here not long ago.{F801}{F802}She told me to prepare for a journey and{F801}then went straight for Mikado Castle.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Arrogant man\0{F87A,24}{F813,1,403641}There seem to be more Casualries now{F801}who can read the mystic script...{F801}{F802}I've heard that the Literature provided{F801}by the Black Samurai was written in{F801}that script.{F801}{F802}But books written in the mystic script{F801}are extremely hard to come by... Just{F801}where did she happen upon them?{F801}</source>
+    <target>{F812}Arrogant man\0{F87A,24}{F813,1,403641}There seem to be more Casualries now{F801}who can read the mystic script...{F801}{F802}I've heard that the Literature provided{F801}by the Black Samurai was written in{F801}that script.{F801}{F802}But books written in the mystic script{F801}are extremely hard to come by... Just{F801}where did she happen upon them?{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Gentle woman\0{F87A,41}{F813,1,403721}That dignified gentleman with the white{F801}hair who leads the other Samurai...{F801}{F802}He has been scurrying across the Eastern{F801}Kingdom of Mikado most every day.{F801}{F802}I know this, for I watch him every day.{F801}And that is how I know that he is{F801}fearful of something...{F801}</source>
+    <target>{F812}Gentle woman\0{F87A,41}{F813,1,403721}That dignified gentleman with the white{F801}hair who leads the other Samurai...{F801}{F802}He has been scurrying across the Eastern{F801}Kingdom of Mikado most every day.{F801}{F802}I know this, for I watch him every day.{F801}And that is how I know that he is{F801}fearful of something...{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Gentle woman\0{F87A,41}{F813,1,403713}P-Please...! Help me, Master Hope...!{F801}</source>
+    <target>{F812}Gentle woman\0{F87A,41}{F813,1,403713}P-Please...! Help me, Master Hope...!{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>{F812}Arrogant man\0{F87A,24}{F813,1,403641}I've heard that the Black Samurai was{F801}disseminating Literature written in the{F801}mystic script.{F801}{F802}Just what did she aim to accomplish by{F801}handing out such precious volumes to{F801}those ignorant louts?{F801}{F802}Ah well... I've more pressing concerns{F801}than a fool about to be executed.{F801}</source>
+    <target>{F812}Arrogant man\0{F87A,24}{F813,1,403641}I've heard that the Black Samurai was{F801}disseminating Literature written in the{F801}mystic script.{F801}{F802}Just what did she aim to accomplish by{F801}handing out such precious volumes to{F801}those ignorant louts?{F801}{F802}Ah well... I've more pressing concerns{F801}than a fool about to be executed.{F801}</target>
+  </entry>
+  <entry id="210">
+    <source>{F812}Demon\0{F87A,-209}{F813,1,412100}So what's that "sensation of love" this{F801}woman has inside taste like...?{F801}{F802}Is it sweet?  Or could it be sour...?{F801}Maybe a little bit of both?{F801}{F802}{F813,1,412101}It would be too frustrating to wait for{F801}her to be converted to Reds... Maybe I{F801}should nibble on her brain directly, ha.{F801}</source>
+    <target>{F812}Demon\0{F87A,-209}{F813,1,412100}So what's that "sensation of love" this{F801}woman has inside taste like...?{F801}{F802}Is it sweet?  Or could it be sour...?{F801}Maybe a little bit of both?{F801}{F802}{F813,1,412101}It would be too frustrating to wait for{F801}her to be converted to Reds... Maybe I{F801}should nibble on her brain directly, ha.{F801}</target>
+  </entry>
+</mbm>

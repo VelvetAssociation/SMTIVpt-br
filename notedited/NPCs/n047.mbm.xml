@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Middle-aged woman\0{F87A,61}{F813,1,403902}I'm afraid of the demons... But kids{F801}these days scare me, too.{F801}{F802}Children with power have no self-{F801}control. They just go wild, and do{F801}terrible things...{F801}{F802}I beg you, please don't harm innocent{F801}people!{F801}</source>
+    <target>{F812}Middle-aged woman\0{F87A,61}{F813,1,403902}I'm afraid of the demons... But kids{F801}these days scare me, too.{F801}{F802}Children with power have no self-{F801}control. They just go wild, and do{F801}terrible things...{F801}{F802}I beg you, please don't harm innocent{F801}people!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-239}{F813,1,418002}Ah, how refreshing... I feel so...{F801}young and powerful!{F801}{F802}I don't have to fear demons any{F801}longer, because...{F801}{F802}Because I ate Reds, and became a{F801}demon myself...!{F801}</source>
+    <target>{F812}Demon\0{F87A,-239}{F813,1,418002}Ah, how refreshing... I feel so...{F801}young and powerful!{F801}{F802}I don't have to fear demons any{F801}longer, because...{F801}{F802}Because I ate Reds, and became a{F801}demon myself...!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Middle-aged woman\0{F87A,61}{F813,1,403941}No wonder everyone is excited.{F801}The Hunter championship is taking{F801}place...{F801}{F802}The people still manage to keep their{F801}spirits up, I see...{F801}</source>
+    <target>{F812}Middle-aged woman\0{F87A,61}{F813,1,403941}No wonder everyone is excited.{F801}The Hunter championship is taking{F801}place...{F801}{F802}The people still manage to keep their{F801}spirits up, I see...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-239}{F813,1,418002}Just as the humans did, I, too,{F801}found hope...{F801}{F802}I took Reds and became a demon.{F801}Now I have nothing to fear.{F801}{F802}That is my hope now...{F801}</source>
+    <target>{F812}Demon\0{F87A,-239}{F813,1,418002}Just as the humans did, I, too,{F801}found hope...{F801}{F802}I took Reds and became a demon.{F801}Now I have nothing to fear.{F801}{F802}That is my hope now...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon\0{F87A,-239}{F813,1,418002}I have no regrets about using the{F801}Reds to become a demon.{F801}{F802}I could just commit suicide...{F801}But I will wait for my time to come{F801}here.{F801}{F802}Demons' sorrow always resides under{F801}the shadow of human prosperity...{F801}I will make them remember us...{F801}</source>
+    <target>{F812}Demon\0{F87A,-239}{F813,1,418002}I have no regrets about using the{F801}Reds to become a demon.{F801}{F802}I could just commit suicide...{F801}But I will wait for my time to come{F801}here.{F801}{F802}Demons' sorrow always resides under{F801}the shadow of human prosperity...{F801}I will make them remember us...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Middle-aged woman\0{F87A,61}{F813,1,403902}I'm afraid of the demons... But kids{F801}these days scare me, too.{F801}{F802}Children with power have no self-{F801}control. They just go wild, and do{F801}terrible things...{F801}{F802}I beg you, please don't go mad and{F801}make more victims like my husband...{F801}</source>
+    <target>{F812}Middle-aged woman\0{F87A,61}{F813,1,403902}I'm afraid of the demons... But kids{F801}these days scare me, too.{F801}{F802}Children with power have no self-{F801}control. They just go wild, and do{F801}terrible things...{F801}{F802}I beg you, please don't go mad and{F801}make more victims like my husband...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Scrupulous Samurai\0{F87A,116}{F813,1,403041}Ah, a fellow Samurai! It's so good{F801}to see you here.{F801}{F802}I just received an interesting tip from{F801}a lady. She said that we can find books{F801}at a place called Ikebukuro.{F801}{F802}That may be just the place to begin our{F801}hunt for the Black Samurai...{F801}</source>
+    <target>{F812}Scrupulous Samurai\0{F87A,116}{F813,1,403041}Ah, a fellow Samurai! It's so good{F801}to see you here.{F801}{F802}I just received an interesting tip from{F801}a lady. She said that we can find books{F801}at a place called Ikebukuro.{F801}{F802}That may be just the place to begin our{F801}hunt for the Black Samurai...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403041}Ah, my fellow Samurai. What a strange{F801}coincidence. Are you here to salvage{F801}relics as well?{F801}{F802}Rumor has it that there is some sort{F801}of "sanctuary" within Tokyo.{F801}{F802}Our kingdom, too, has a sanctuary...{F801}Though I've not set foot in it for{F801}a very long time.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403041}Ah, my fellow Samurai. What a strange{F801}coincidence. Are you here to salvage{F801}relics as well?{F801}{F802}Rumor has it that there is some sort{F801}of "sanctuary" within Tokyo.{F801}{F802}Our kingdom, too, has a sanctuary...{F801}Though I've not set foot in it for{F801}a very long time.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403041}Ah, my fellow Samurai. What a strange{F801}coincidence. Are you here to salvage{F801}relics as well?{F801}{F802}By the by, have you seen any of our{F801}other fellows here? One of them came{F801}to Shinjuku with me...{F801}{F802}Well, Tokyo is vast. I'm sure he's{F801}looking for relics on his own{F801}somewhere...{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403041}Ah, my fellow Samurai. What a strange{F801}coincidence. Are you here to salvage{F801}relics as well?{F801}{F802}By the by, have you seen any of our{F801}other fellows here? One of them came{F801}to Shinjuku with me...{F801}{F802}Well, Tokyo is vast. I'm sure he's{F801}looking for relics on his own{F801}somewhere...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403042}Demons were spreading a rumor that the{F801}angels were mounting an attack from{F801}above the Firmament.{F801}{F802}I've heard nothing about this. I hope{F801}that we don't find ourselves caught in{F801}the midst of an assault...{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403042}Demons were spreading a rumor that the{F801}angels were mounting an attack from{F801}above the Firmament.{F801}{F802}I've heard nothing about this. I hope{F801}that we don't find ourselves caught in{F801}the midst of an assault...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403011}I hear that the Eastern Kingdom of{F801}Mikado has been reborn as a land{F801}governed by God and His angels.{F801}{F802}The kingdom as we knew it is no{F801}more, I fear...{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403011}I hear that the Eastern Kingdom of{F801}Mikado has been reborn as a land{F801}governed by God and His angels.{F801}{F802}The kingdom as we knew it is no{F801}more, I fear...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403041}What's this? When did you become the{F801}champion of the Hunters?{F801}{F802}My God, man... I must commend you{F801}for your determined spirit.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403041}What's this? When did you become the{F801}champion of the Hunters?{F801}{F802}My God, man... I must commend you{F801}for your determined spirit.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403042}Hoy! Is it true that all of our{F801}countrymen in the kingdom are{F801}coming here to Tokyo?{F801}{F802}Th-This is unprecedented... Why, the{F801}immense scale of such a thing...!{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403042}Hoy! Is it true that all of our{F801}countrymen in the kingdom are{F801}coming here to Tokyo?{F801}{F802}Th-This is unprecedented... Why, the{F801}immense scale of such a thing...!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403042}Shinjuku and Shene Duque... Not only{F801}those, either. There are similarities{F801}to be found in names all over...{F801}{F802}Perhaps the Eastern Kingdom of Mikado{F801}was built on the nostalgia of King{F801}Aquila himself.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403042}Shinjuku and Shene Duque... Not only{F801}those, either. There are similarities{F801}to be found in names all over...{F801}{F802}Perhaps the Eastern Kingdom of Mikado{F801}was built on the nostalgia of King{F801}Aquila himself.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403022}One of our fellows has been captured{F801}by an Unclean One named Tayama...{F801}{F802}But Abbot Hugo told me to concentrate on{F801}salvaging relics and that you would{F801}negotiate his release.{F801}{F802}This sense of unease I feel toward Abbot{F801}Hugo only grows stronger... Please look{F801}after our fellow Samurai.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403022}One of our fellows has been captured{F801}by an Unclean One named Tayama...{F801}{F802}But Abbot Hugo told me to concentrate on{F801}salvaging relics and that you would{F801}negotiate his release.{F801}{F802}This sense of unease I feel toward Abbot{F801}Hugo only grows stronger... Please look{F801}after our fellow Samurai.{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403043}Hoy, did something happen to your band?{F801}I saw Walter wandering alone...{F801}{F802}It seemed that he was going to K...{F801}Kabu... Kabukucho...{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403043}Hoy, did something happen to your band?{F801}I saw Walter wandering alone...{F801}{F802}It seemed that he was going to K...{F801}Kabu... Kabukucho...{F801}</target>
+  </entry>
+  <entry id="302">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403043}I've just seen Walter traveling on{F801}his own. But weren't the four of you{F801}working as a team?{F801}{F802}Tokyo is a strange land to us. We must{F801}help our fellow Samurai in order to{F801}accomplish our tasks.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403043}I've just seen Walter traveling on{F801}his own. But weren't the four of you{F801}working as a team?{F801}{F802}Tokyo is a strange land to us. We must{F801}help our fellow Samurai in order to{F801}accomplish our tasks.{F801}</target>
+  </entry>
+  <entry id="402">
+    <source>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403043}Hm? You didn't receive the order to{F801}report back to Mikado Castle?{F801}{F802}Abbot Hugo's wishes were for us to{F801}forget our fellow held captive by{F801}Tayama...{F801}{F802}This sense of unease I feel toward Abbot{F801}Hugo only grows stronger... Nevertheless,{F801}orders are to be obeyed.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,29}{F813,1,403043}Hm? You didn't receive the order to{F801}report back to Mikado Castle?{F801}{F802}Abbot Hugo's wishes were for us to{F801}forget our fellow held captive by{F801}Tayama...{F801}{F802}This sense of unease I feel toward Abbot{F801}Hugo only grows stronger... Nevertheless,{F801}orders are to be obeyed.{F801}</target>
+  </entry>
+</mbm>

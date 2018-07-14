@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Ring of Gaea member\0{F87A,53}{F813,1,404331}Tayama's demon was here.{F801}He called himself Michizane.{F801}{F802}I rushed over here to help fight him,{F801}but the child of carnage had slain{F801}the demon by the time I arrived.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,53}{F813,1,404331}Tayama's demon was here.{F801}He called himself Michizane.{F801}{F802}I rushed over here to help fight him,{F801}but the child of carnage had slain{F801}the demon by the time I arrived.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-454}{F813,1,419301}This dark prison...{F801}Soon, we'll be able to leave.{F801}{F802}We'll break through that damned{F801}Firmament and bask in the light of{F801}the sun!{F801}</source>
+    <target>{F812}Demon\0{F87A,-454}{F813,1,419301}This dark prison...{F801}Soon, we'll be able to leave.{F801}{F802}We'll break through that damned{F801}Firmament and bask in the light of{F801}the sun!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}悪魔\0{F87A,-490}{F813,1,419204}[神/かみ]は[力/ちから]ある[我/われ]らを[虐/しいた]げた…{F801}だが その[屈辱/くつじょく]の[歴史/れきし]も[終/お]わる{F801}{F802}[皆/みな]が[平等/びょうどう]に[競/きそ]う{F801}[本当/ほんとう]の[自由/じゆう]が[訪/おとず]れるのだ…ッ{F801}</source>
+    <target>{F812}悪魔\0{F87A,-490}{F813,1,419204}[神/かみ]は[力/ちから]ある[我/われ]らを[虐/しいた]げた…{F801}だが その[屈辱/くつじょく]の[歴史/れきし]も[終/お]わる{F801}{F802}[皆/みな]が[平等/びょうどう]に[競/きそ]う{F801}[本当/ほんとう]の[自由/じゆう]が[訪/おとず]れるのだ…ッ{F801}</target>
+  </entry>
+</mbm>

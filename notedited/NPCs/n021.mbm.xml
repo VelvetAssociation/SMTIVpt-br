@@ -1,0 +1,42 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Calm Samurai\0{F87A,114}{F813,1,403042}This kingdom was founded by God. But so{F801}then why have demons come here?{F801}{F802}The question tormented me... But now{F801}that the demons are driven out, I think{F801}I understand the answer...{F801}{F802}Perhaps God granted us a chance to{F801}prove ourselves by trial, believing{F801}that we would prevail in the end.{F801}{F802}What a stern love and trust... Only our{F801}Father could have brought them to us...{F801}</source>
+    <target>{F812}Calm Samurai\0{F87A,114}{F813,1,403042}This kingdom was founded by God. But so{F801}then why have demons come here?{F801}{F802}The question tormented me... But now{F801}that the demons are driven out, I think{F801}I understand the answer...{F801}{F802}Perhaps God granted us a chance to{F801}prove ourselves by trial, believing{F801}that we would prevail in the end.{F801}{F802}What a stern love and trust... Only our{F801}Father could have brought them to us...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Calm Samurai\0{F87A,114}{F813,1,403042}On the Commander's orders, we've alerted{F801}the nearby villages to the situation and{F801}brought their people to the castle.{F801}{F802}Still... abandoning the Eastern Kingdom{F801}of Mikado and setting out for a new{F801}land...{F801}{F802}Do you think they will take to such{F801}an idea...?{F801}</source>
+    <target>{F812}Calm Samurai\0{F87A,114}{F813,1,403042}On the Commander's orders, we've alerted{F801}the nearby villages to the situation and{F801}brought their people to the castle.{F801}{F802}Still... abandoning the Eastern Kingdom{F801}of Mikado and setting out for a new{F801}land...{F801}{F802}Do you think they will take to such{F801}an idea...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Baritone Samurai\0{F87A,117}{F813,1,403002}I have never met the new leaders{F801}in person...{F801}{F802}But the fact that all the demons have{F801}disappeared from the kingdom is proof{F801}enough of their presence...{F801}</source>
+    <target>{F812}Baritone Samurai\0{F87A,117}{F813,1,403002}I have never met the new leaders{F801}in person...{F801}{F802}But the fact that all the demons have{F801}disappeared from the kingdom is proof{F801}enough of their presence...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Baritone Samurai\0{F87A,117}{F813,1,403002}Isabeau was urging us not to rely on{F801}the new leaders.{F801}{F802}Though they have shown us miracles upon{F801}miracles, they remain silent when a{F801}crisis befalls us...{F801}{F802}In the end, we must choose our own{F801}course... I think I understand what{F801}Isabeau was getting at.{F801}</source>
+    <target>{F812}Baritone Samurai\0{F87A,117}{F813,1,403002}Isabeau was urging us not to rely on{F801}the new leaders.{F801}{F802}Though they have shown us miracles upon{F801}miracles, they remain silent when a{F801}crisis befalls us...{F801}{F802}In the end, we must choose our own{F801}course... I think I understand what{F801}Isabeau was getting at.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Forceful Samurai\0{F87A,29}{F813,1,403041}I had a dream... And in this dream,{F801}I saw our new leaders unite as one...{F801}{F802}"Why did you become one?" I asked.{F801}And in response...{F801}{F802}"It's what our Lord wished," they said.{F801}</source>
+    <target>{F812}Forceful Samurai\0{F87A,29}{F813,1,403041}I had a dream... And in this dream,{F801}I saw our new leaders unite as one...{F801}{F802}"Why did you become one?" I asked.{F801}And in response...{F801}{F802}"It's what our Lord wished," they said.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Forceful Samurai\0{F87A,29}{F813,1,403041}I saw it in my dream... Our new leaders{F801}gradually disappearing...{F801}{F802}"Why are you leaving us?" I asked.{F801}And in response...{F801}{F802}"The people of this kingdom no longer{F801}need us," they said.{F801}</source>
+    <target>{F812}Forceful Samurai\0{F87A,29}{F813,1,403041}I saw it in my dream... Our new leaders{F801}gradually disappearing...{F801}{F802}"Why are you leaving us?" I asked.{F801}And in response...{F801}{F802}"The people of this kingdom no longer{F801}need us," they said.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hope\0{F87A,8}{F813,1,400604}{F843,0}... No, that is too{F801}familiar. 'Tis more proper to call you{F801}the warrior of light now.{F801}{F802}Demon sightings have been greatly{F801}diminished of late. We will soon stop{F801}sending Samurai across the kingdom.{F801}{F802}True peace will at last prevail in our{F801}Eastern Kingdom of Mikado...{F801}{F802}Perhaps I may even live to see the{F801}Samurai disbanded...{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,1,400604}{F843,0}... No, that is too{F801}familiar. 'Tis more proper to call you{F801}the warrior of light now.{F801}{F802}Demon sightings have been greatly{F801}diminished of late. We will soon stop{F801}sending Samurai across the kingdom.{F801}{F802}True peace will at last prevail in our{F801}Eastern Kingdom of Mikado...{F801}{F802}Perhaps I may even live to see the{F801}Samurai disbanded...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hope\0{F87A,8}{F813,1,400603}{F843,0}...{F801}{F802}I saw you emerge from Naraku alongside{F801}a flaxen-haired girl.{F801}{F802}It was not long after that the horde{F801}of demons surged into our kingdom...{F801}{F802}I fear no demon. What I fear, rather,{F801}is the terrible thought growing in my{F801}mind...{F801}{F802}Have I... forged the worst threat to{F801}this kingdom with my own hands...?{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,1,400603}{F843,0}...{F801}{F802}I saw you emerge from Naraku alongside{F801}a flaxen-haired girl.{F801}{F802}It was not long after that the horde{F801}of demons surged into our kingdom...{F801}{F802}I fear no demon. What I fear, rather,{F801}is the terrible thought growing in my{F801}mind...{F801}{F802}Have I... forged the worst threat to{F801}this kingdom with my own hands...?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hope\0{F87A,8}{F813,1,400601}{F843,0}... Yes, I've heard it all{F801}from Isabeau...{F801}{F802}About God's chariot, and what became{F801}of Jonathan...{F801}{F802}{F843,0}... This is merely my own{F801}opinion, but growing up means choosing{F801}one's friends.{F801}{F802}As your life grows busier, your time to{F801}spend with friends lessens. So you cling{F801}to those you feel comfortable with...{F801}{F802}Rather than spend your precious idle{F801}moments with those who do not share{F801}your views.{F801}{F802}I may be doing a poor job of explaining{F801}myself... I just wanted to say that you{F801}needn't feel disappointed in yourself.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,1,400601}{F843,0}... Yes, I've heard it all{F801}from Isabeau...{F801}{F802}About God's chariot, and what became{F801}of Jonathan...{F801}{F802}{F843,0}... This is merely my own{F801}opinion, but growing up means choosing{F801}one's friends.{F801}{F802}As your life grows busier, your time to{F801}spend with friends lessens. So you cling{F801}to those you feel comfortable with...{F801}{F802}Rather than spend your precious idle{F801}moments with those who do not share{F801}your views.{F801}{F802}I may be doing a poor job of explaining{F801}myself... I just wanted to say that you{F801}needn't feel disappointed in yourself.{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Baritone Samurai\0{F87A,117}{F813,1,403002}Abbot Hugo convened an emergency meeting{F801}for the people gathered in Mikado Castle.{F801}{F802}We are to abandon the Eastern Kingdom{F801}of Mikado and emigrate to Tokyo as our{F801}new home...{F801}{F802}The abbot's final words brought tears{F801}to my eyes...{F801}{F802}We abandon this land not out of despair,{F801}but out of hope. The hope for us all to{F801}finally come into our own...{F801}</source>
+    <target>{F812}Baritone Samurai\0{F87A,117}{F813,1,403002}Abbot Hugo convened an emergency meeting{F801}for the people gathered in Mikado Castle.{F801}{F802}We are to abandon the Eastern Kingdom{F801}of Mikado and emigrate to Tokyo as our{F801}new home...{F801}{F802}The abbot's final words brought tears{F801}to my eyes...{F801}{F802}We abandon this land not out of despair,{F801}but out of hope. The hope for us all to{F801}finally come into our own...{F801}</target>
+  </entry>
+</mbm>

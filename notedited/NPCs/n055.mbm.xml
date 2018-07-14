@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isabeau\0{F87A,5}{F813,1,400301}I was startled when the Gauntlet gleamed{F801}during the Rite as well. It's all so{F801}very mysterious...{F801}{F802}But this "Burroughs," was it? I'm very{F801}reassured to have her guidance.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,1,400301}I was startled when the Gauntlet gleamed{F801}during the Rite as well. It's all so{F801}very mysterious...{F801}{F802}But this "Burroughs," was it? I'm very{F801}reassured to have her guidance.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Timid Samurai\0{F87A,117}I see... True, you have only just{F801}finished your training. Be sure that{F801}you rest well, yes?{F801}</source>
+    <target>{F812}Timid Samurai\0{F87A,117}I see... True, you have only just{F801}finished your training. Be sure that{F801}you rest well, yes?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Timid Samurai\0{F87A,117}{F813,1,403042}Thinking on it, I had assumed that it{F801}would be simplicity itself to find relics{F801}in the cavern...{F801}{F802}But now we are destined for the Unclean{F801}Ones' country, which we do not know for{F801}a certainty exists, yes?{F801}{F802}I am beginning to regret the day I was{F801}chosen as a Samurai...{F801}</source>
+    <target>{F812}Timid Samurai\0{F87A,117}{F813,1,403042}Thinking on it, I had assumed that it{F801}would be simplicity itself to find relics{F801}in the cavern...{F801}{F802}But now we are destined for the Unclean{F801}Ones' country, which we do not know for{F801}a certainty exists, yes?{F801}{F802}I am beginning to regret the day I was{F801}chosen as a Samurai...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Angel\0{F87A,-73}{F813,1,412102}Ah, warrior of light. I can sense your{F801}holy shine... the Lord's blessing{F801}emanating from you.{F801}{F802}Our Lord is surely eager for you to{F801}annihilate the Filth below.{F801}{F802}Go and defeat the demons to restore{F801}order and peace to His chosen sons{F801}of man.{F801}</source>
+    <target>{F812}Angel\0{F87A,-73}{F813,1,412102}Ah, warrior of light. I can sense your{F801}holy shine... the Lord's blessing{F801}emanating from you.{F801}{F802}Our Lord is surely eager for you to{F801}annihilate the Filth below.{F801}{F802}Go and defeat the demons to restore{F801}order and peace to His chosen sons{F801}of man.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}天使\0{F87A,-76}{F813,1,412000}[神/かみ]よ [私/わたし]たちにご[加護/かご]を…{F801}</source>
+    <target>{F812}天使\0{F87A,-76}{F813,1,412000}[神/かみ]よ [私/わたし]たちにご[加護/かご]を…{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Honest Samurai\0{F87A,116}{F813,1,403003}You do well to step so fearlessly into{F801}Naraku, my brilliant fellow Samurai.{F801}{F802}Forgive me for being forward, but if you{F801}like, I could share some knowledge on{F801}the finer points of the Samurai trade.{F801}</source>
+    <target>{F812}Honest Samurai\0{F87A,116}{F813,1,403003}You do well to step so fearlessly into{F801}Naraku, my brilliant fellow Samurai.{F801}{F802}Forgive me for being forward, but if you{F801}like, I could share some knowledge on{F801}the finer points of the Samurai trade.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>Ask him for advice{F801}Decline his offer{F801}</source>
+    <target>Ask him for advice{F801}Decline his offer{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Honest Samurai\0{F87A,116}We Samurai are charged with performing{F801}two primary roles...{F801}{F802}First, we must slay the demons that{F801}continue to appear in Naraku.{F801}{F802}"Demons" are monsters which attack humans{F801}on sight. They must be slain before they{F801}escape into the wild.{F801}{F802}Our other task relates to mystic relics.{F801}But you should ask the others further{F801}within about these.{F801}</source>
+    <target>{F812}Honest Samurai\0{F87A,116}We Samurai are charged with performing{F801}two primary roles...{F801}{F802}First, we must slay the demons that{F801}continue to appear in Naraku.{F801}{F802}"Demons" are monsters which attack humans{F801}on sight. They must be slain before they{F801}escape into the wild.{F801}{F802}Our other task relates to mystic relics.{F801}But you should ask the others further{F801}within about these.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Honest Samurai\0{F87A,116}Ah, what a shame. If you think better{F801}of it, I shall be here.{F801}</source>
+    <target>{F812}Honest Samurai\0{F87A,116}Ah, what a shame. If you think better{F801}of it, I shall be here.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Angel\0{F87A,-73}{F813,1,412105}You, son of man who rejected our Lord's{F801}salvation and chose the thorned path...{F801}{F802}There can be no peace without the Lord's{F801}blessing. That is because the creator of{F801}all things is...{F801}{F802}But I need not finish that thought.{F801}So then, until the day you require us{F801}once more...{F801}</source>
+    <target>{F812}Angel\0{F87A,-73}{F813,1,412105}You, son of man who rejected our Lord's{F801}salvation and chose the thorned path...{F801}{F802}There can be no peace without the Lord's{F801}blessing. That is because the creator of{F801}all things is...{F801}{F802}But I need not finish that thought.{F801}So then, until the day you require us{F801}once more...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Angel\0{F87A,-73}{F813,1,412105}You who have rejected the temptation of{F801}the demons and chosen to remain a son{F801}of man...{F801}{F802}Your kind and the demons will be separate{F801}for a time, just as are. But the day of{F801}reunion will be not long in coming.{F801}{F802}Since days of old, the sons of man have{F801}been fertile soil for the demonic.{F801}That is why we exist...{F801}</source>
+    <target>{F812}Angel\0{F87A,-73}{F813,1,412105}You who have rejected the temptation of{F801}the demons and chosen to remain a son{F801}of man...{F801}{F802}Your kind and the demons will be separate{F801}for a time, just as are. But the day of{F801}reunion will be not long in coming.{F801}{F802}Since days of old, the sons of man have{F801}been fertile soil for the demonic.{F801}That is why we exist...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Isabeau\0{F87A,5}{F813,1,400302}"Find an 'article of interest'"!{F801}'Tis like trying to grapple with fog...{F801}{F802}But if this is what makes a Samurai, then{F801}I shall rise to the challenge!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,1,400302}"Find an 'article of interest'"!{F801}'Tis like trying to grapple with fog...{F801}{F802}But if this is what makes a Samurai, then{F801}I shall rise to the challenge!{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Timid Samurai\0{F87A,117}{F813,1,403002}Hoy, prentice. Working hard at your{F801}training, I hope?{F801}{F802}Would you like a bit of guidance? Call{F801}it an extracurricular lesson...{F801}</source>
+    <target>{F812}Timid Samurai\0{F87A,117}{F813,1,403002}Hoy, prentice. Working hard at your{F801}training, I hope?{F801}{F802}Would you like a bit of guidance? Call{F801}it an extracurricular lesson...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Timid Samurai\0{F87A,117}{F813,1,403042}A-Ah, it's you... You've reached the{F801}Unclean Ones' country, they tell me.{F801}{F802}Now I've no excuses left to make...{F801}I, too, must eventually venture into{F801}the land called Tokyo.{F801}{F802}I am beginning to regret the day I was{F801}chosen as a Samurai...{F801}</source>
+    <target>{F812}Timid Samurai\0{F87A,117}{F813,1,403042}A-Ah, it's you... You've reached the{F801}Unclean Ones' country, they tell me.{F801}{F802}Now I've no excuses left to make...{F801}I, too, must eventually venture into{F801}the land called Tokyo.{F801}{F802}I am beginning to regret the day I was{F801}chosen as a Samurai...{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Isabeau\0{F87A,5}{F813,1,400301}These Challenge Quests... They are more{F801}rigorous than I had thought.{F801}{F802}The Samurai must be a doughty crew{F801}indeed if these are what they consider{F801}idle entertainment.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,1,400301}These Challenge Quests... They are more{F801}rigorous than I had thought.{F801}{F802}The Samurai must be a doughty crew{F801}indeed if these are what they consider{F801}idle entertainment.{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>Ask him for advice{F801}Decline his offer{F801}</source>
+    <target>Ask him for advice{F801}Decline his offer{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Isabeau\0{F87A,5}{F813,1,400301}I saw Walter but a moment ago, talking{F801}with one of the Masters.{F801}{F802}After that, I know not where he went.{F801}Though I think it may have been deeper{F801}into Naraku...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,1,400301}I saw Walter but a moment ago, talking{F801}with one of the Masters.{F801}{F802}After that, I know not where he went.{F801}Though I think it may have been deeper{F801}into Naraku...{F801}</target>
+  </entry>
+  <entry id="301">
+    <source>{F812}Timid Samurai\0{F87A,117}There are mystic objects known as {F804,5}relics{F804,0}{F801}buried within Naraku that cannot be{F801}found aboveground.{F801}{F802}I do not know their true nature, but you{F801}lose nothing by collecting them.{F801}{F802}They are found everywhere within Naraku.{F801}Should you find any, I suggest that you{F801}hold on to them.{F801}</source>
+    <target>{F812}Timid Samurai\0{F87A,117}There are mystic objects known as {F804,5}relics{F804,0}{F801}buried within Naraku that cannot be{F801}found aboveground.{F801}{F802}I do not know their true nature, but you{F801}lose nothing by collecting them.{F801}{F802}They are found everywhere within Naraku.{F801}Should you find any, I suggest that you{F801}hold on to them.{F801}</target>
+  </entry>
+  <entry id="401">
+    <source>{F812}Timid Samurai\0{F87A,117}Ah, but you are in the midst of training!{F801}I am sorry to have disturbed you.{F801}</source>
+    <target>{F812}Timid Samurai\0{F87A,117}Ah, but you are in the midst of training!{F801}I am sorry to have disturbed you.{F801}</target>
+  </entry>
+  <entry id="501">
+    <source>{F812}Timid Samurai\0{F87A,117}{F813,1,403002}Hoy, prentice. Working hard at your{F801}training, I hope?{F801}{F802}Would you like a bit of guidance? Call{F801}it an extracurricular lesson...{F801}</source>
+    <target>{F812}Timid Samurai\0{F87A,117}{F813,1,403002}Hoy, prentice. Working hard at your{F801}training, I hope?{F801}{F802}Would you like a bit of guidance? Call{F801}it an extracurricular lesson...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Ring of Gaea Member\0{F87A,51}{F813,1,404311}We have chosen that we would fight{F801}with our lives to uphold our ideals.{F801}{F802}Those are the teachings of our{F801}sublime leader, Lady Yuriko.{F801}</source>
+    <target>{F812}Ring of Gaea Member\0{F87A,51}{F813,1,404311}We have chosen that we would fight{F801}with our lives to uphold our ideals.{F801}{F802}Those are the teachings of our{F801}sublime leader, Lady Yuriko.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Ring of Gaea Member\0{F87A,54}{F813,1,404403}It appears that Kaga volunteered for{F801}the task of bringing Ikebukuro back{F801}under human control.{F801}{F802}I heard that she used to live in{F801}Ikebukuro when she was young.{F801}{F802}The Ashura-kai pressed Kaga's parents{F801}to give her up to be raised by them.{F801}{F802}But, with her parents' help, Kaga{F801}escaped Ikebukuro and reached the{F801}temple of the Ring of Gaea.{F801}{F802}Now that she has an opportunity to{F801}crush the Ashura-kai, she has been{F801}given a chance for revenge...{F801}</source>
+    <target>{F812}Ring of Gaea Member\0{F87A,54}{F813,1,404403}It appears that Kaga volunteered for{F801}the task of bringing Ikebukuro back{F801}under human control.{F801}{F802}I heard that she used to live in{F801}Ikebukuro when she was young.{F801}{F802}The Ashura-kai pressed Kaga's parents{F801}to give her up to be raised by them.{F801}{F802}But, with her parents' help, Kaga{F801}escaped Ikebukuro and reached the{F801}temple of the Ring of Gaea.{F801}{F802}Now that she has an opportunity to{F801}crush the Ashura-kai, she has been{F801}given a chance for revenge...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Ring of Gaea Member\0{F87A,54}{F813,1,404411}...The Ashura-kai? Those swine that{F801}prey on the weak and serve only{F801}to enrich themselves?{F801}{F802}...Though, I must say that those who{F801}do the Ashura-kai's bidding and{F801}keep underground are the same.{F801}</source>
+    <target>{F812}Ring of Gaea Member\0{F87A,54}{F813,1,404411}...The Ashura-kai? Those swine that{F801}prey on the weak and serve only{F801}to enrich themselves?{F801}{F802}...Though, I must say that those who{F801}do the Ashura-kai's bidding and{F801}keep underground are the same.{F801}</target>
+  </entry>
+</mbm>

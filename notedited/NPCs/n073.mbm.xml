@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demonoid woman\0{F87A,147}{F813,1,418004}I saw Akira on his way to Ichigaya.{F801}He looks so trustworthy now.{F801}{F802}I feel that responsibility can change{F801}a man. Right now... Akira's got all{F801}of Tokyo on his shoulders.{F801}</source>
+    <target>{F812}Demonoid woman\0{F87A,147}{F813,1,418004}I saw Akira on his way to Ichigaya.{F801}He looks so trustworthy now.{F801}{F802}I feel that responsibility can change{F801}a man. Right now... Akira's got all{F801}of Tokyo on his shoulders.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demonoid man\0{F87A,146}{F813,1,415205}The guys who came from Kasumigaseki{F801}killed a number of people here.{F801}{F802}I mean, they were saying things like{F801}"We'll never bow to someone like{F801}Akira," and all, but still...{F801}{F802}Those guys might be Akira's old{F801}friends, but isn't this going too{F801}far? They're acting like fanatics.{F801}</source>
+    <target>{F812}Demonoid man\0{F87A,146}{F813,1,415205}The guys who came from Kasumigaseki{F801}killed a number of people here.{F801}{F802}I mean, they were saying things like{F801}"We'll never bow to someone like{F801}Akira," and all, but still...{F801}{F802}Those guys might be Akira's old{F801}friends, but isn't this going too{F801}far? They're acting like fanatics.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demonoid man\0{F87A,145}{F813,1,415101}What was King Akira talking about?{F801}"Equality" or something?{F801}{F802}I remember... That word used to mean{F801}a lot to me when I was human...{F801}{F802}...But I've been a demonoid for so{F801}long that I can't really bring myself{F801}to care.{F801}</source>
+    <target>{F812}Demonoid man\0{F87A,145}{F813,1,415101}What was King Akira talking about?{F801}"Equality" or something?{F801}{F802}I remember... That word used to mean{F801}a lot to me when I was human...{F801}{F802}...But I've been a demonoid for so{F801}long that I can't really bring myself{F801}to care.{F801}</target>
+  </entry>
+</mbm>

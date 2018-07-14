@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Male ghost\0{F87A,101}{F813,1,404502}Welcome... to Shibuya... paradise{F801}on Earth...{F801}{F802}Wonderful place, wouldn't you agree?{F801}It's filled with the goddess'{F801}salvation...{F801}</source>
+    <target>{F812}Male ghost\0{F87A,101}{F813,1,404502}Welcome... to Shibuya... paradise{F801}on Earth...{F801}{F802}Wonderful place, wouldn't you agree?{F801}It's filled with the goddess'{F801}salvation...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Male ghost\0{F87A,101}{F813,1,404521}Welcome... to Shibuya... paradise{F801}on Earth...{F801}{F802}The salvation from the goddess Ixtab{F801}has faded... what will become of us{F801}now...?{F801}</source>
+    <target>{F812}Male ghost\0{F87A,101}{F813,1,404521}Welcome... to Shibuya... paradise{F801}on Earth...{F801}{F802}The salvation from the goddess Ixtab{F801}has faded... what will become of us{F801}now...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Female ghost\0{F87A,102}{F813,1,404603}Some guys in Shinjuku want to save me?{F801}It's none of their business...!{F801}{F802}Leave me out of this. It's that damn,{F801}what do you call it, chivalry? Who wants{F801}that crap in our Tokyo!?{F801}</source>
+    <target>{F812}Female ghost\0{F87A,102}{F813,1,404603}Some guys in Shinjuku want to save me?{F801}It's none of their business...!{F801}{F802}Leave me out of this. It's that damn,{F801}what do you call it, chivalry? Who wants{F801}that crap in our Tokyo!?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Female ghost\0{F87A,102}{F813,1,404611}Those guys in Shinjuku might thank you{F801}for killing Ixtab...{F801}{F802}But for the Shibuya residents, all you{F801}did was wreck our paradise...{F801}</source>
+    <target>{F812}Female ghost\0{F87A,102}{F813,1,404611}Those guys in Shinjuku might thank you{F801}for killing Ixtab...{F801}{F802}But for the Shibuya residents, all you{F801}did was wreck our paradise...{F801}</target>
+  </entry>
+</mbm>

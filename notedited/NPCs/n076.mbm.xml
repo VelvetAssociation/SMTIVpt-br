@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403001}Ikebukuro used to be a city where{F801}foreign criminals and other people{F801}took power.{F801}{F802}They were driven out by the Ashura-kai{F801}after the Firmament was formed...{F801}{F802}But after that, it was taken over{F801}by a foreign demon.{F801}{F802}It just goes to show that Ikebukuro's{F801}always been a city under the thumbs{F801}of outside influences.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403001}Ikebukuro used to be a city where{F801}foreign criminals and other people{F801}took power.{F801}{F802}They were driven out by the Ashura-kai{F801}after the Firmament was formed...{F801}{F802}But after that, it was taken over{F801}by a foreign demon.{F801}{F802}It just goes to show that Ikebukuro's{F801}always been a city under the thumbs{F801}of outside influences.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403001}The Ring of Gaea used to make{F801}themselves out to be some kind of{F801}human rights organization.{F801}{F802}But they would bomb cities, and{F801}hailed the demons when they worked...{F801}{F802}...Well, everybody knows they're{F801}pretty much a cult now. It's best{F801}to not get involved with them.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403001}The Ring of Gaea used to make{F801}themselves out to be some kind of{F801}human rights organization.{F801}{F802}But they would bomb cities, and{F801}hailed the demons when they worked...{F801}{F802}...Well, everybody knows they're{F801}pretty much a cult now. It's best{F801}to not get involved with them.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hunter\0{F87A,70}{F813,1,403112}Demons have Domains everywhere, and{F801}I can't move around freely in the{F801}city.{F801}{F802}Defeating the demons that set up he{F801}Domains would solve that probem, but{F801}Xi Wangmu's behind this...{F801}</source>
+    <target>{F812}Hunter\0{F87A,70}{F813,1,403112}Demons have Domains everywhere, and{F801}I can't move around freely in the{F801}city.{F801}{F802}Defeating the demons that set up he{F801}Domains would solve that probem, but{F801}Xi Wangmu's behind this...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hunter\0{F87A,70}{F813,1,403141}...Now that Xi Wangmu's dead, the{F801}Domains seem to be gone as well.{F801}{F802}Now I can finally head to the eastern{F801}entrance of the station and other{F801}places in that direction.{F801}</source>
+    <target>{F812}Hunter\0{F87A,70}{F813,1,403141}...Now that Xi Wangmu's dead, the{F801}Domains seem to be gone as well.{F801}{F802}Now I can finally head to the eastern{F801}entrance of the station and other{F801}places in that direction.{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403001}It's true that the people in the{F801}Ring of Gaea are kind of...{F801}unconventional...{F801}{F802}But, they're right about one thing:{F801}If you want to survive in Tokyo with{F801}the demons, you need power.{F801}{F802}There's no guarantee that Tayama can{F801}look after us until the very end,{F801}after all.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403001}It's true that the people in the{F801}Ring of Gaea are kind of...{F801}unconventional...{F801}{F802}But, they're right about one thing:{F801}If you want to survive in Tokyo with{F801}the demons, you need power.{F801}{F802}There's no guarantee that Tayama can{F801}look after us until the very end,{F801}after all.{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403001}It's true that the people in the{F801}Ring of Gaea are kind of...{F801}unconventional...{F801}{F802}But, they're right about one thing:{F801}If you want to survive in Tokyo with{F801}the demons, you need power.{F801}{F802}There's no guarantee that Tayama can{F801}look after us until the very end,{F801}after all.{F801}{F802}That's why I'm cheering on the{F801}Ring of Gaea.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403001}It's true that the people in the{F801}Ring of Gaea are kind of...{F801}unconventional...{F801}{F802}But, they're right about one thing:{F801}If you want to survive in Tokyo with{F801}the demons, you need power.{F801}{F802}There's no guarantee that Tayama can{F801}look after us until the very end,{F801}after all.{F801}{F802}That's why I'm cheering on the{F801}Ring of Gaea.{F801}</target>
+  </entry>
+</mbm>

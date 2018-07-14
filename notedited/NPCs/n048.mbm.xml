@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404303}Go through the underground area in{F801}Tokyo Station and you will find{F801}Tsukiji, the Ring of Gaea sanctuary.{F801}{F802}However, if you lack the necessary{F801}strength or skill, you will be denied{F801}entry.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404303}Go through the underground area in{F801}Tokyo Station and you will find{F801}Tsukiji, the Ring of Gaea sanctuary.{F801}{F802}However, if you lack the necessary{F801}strength or skill, you will be denied{F801}entry.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404332}It seems you possess the power and{F801}prowess to enter our sanctuary.{F801}{F802}The Ring of Gaea welcomes you and{F801}your skill...{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404332}It seems you possess the power and{F801}prowess to enter our sanctuary.{F801}{F802}The Ring of Gaea welcomes you and{F801}your skill...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404303}I hear you raised your sword against{F801}Lady Yuriko. Normally, I wouldn't{F801}tolerate such insolence...{F801}{F802}But, Lady Yuriko seems extremely{F801}intrigued by your fortitude and{F801}bravery.{F801}{F802}I will let this transgression pass...{F801}this time. Don't get carried away.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404303}I hear you raised your sword against{F801}Lady Yuriko. Normally, I wouldn't{F801}tolerate such insolence...{F801}{F802}But, Lady Yuriko seems extremely{F801}intrigued by your fortitude and{F801}bravery.{F801}{F802}I will let this transgression pass...{F801}this time. Don't get carried away.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404331}Welcome, comrades!{F801}We welcome you and your skill!{F801}{F802}Quickly! Head for Tsukiji!{F801}Lady Yuriko is expecting you!{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404331}Welcome, comrades!{F801}We welcome you and your skill!{F801}{F802}Quickly! Head for Tsukiji!{F801}Lady Yuriko is expecting you!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404312}How dare you show your faces here...{F801}You are nothing but heretics to us.{F801}Do you understand this?{F801}{F802}If you wish to go to Tsukiji, I{F801}won't stop you. Lady Yuriko has said{F801}that she will deal with you herself.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404312}How dare you show your faces here...{F801}You are nothing but heretics to us.{F801}Do you understand this?{F801}{F802}If you wish to go to Tsukiji, I{F801}won't stop you. Lady Yuriko has said{F801}that she will deal with you herself.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404341}Tayama has headed for Ichigaya.{F801}I received word from one of our men{F801}stationed outside.{F801}{F802}Tayama must have learned about Lady{F801}Yuriko's plans... I can see that{F801}he's restless now.{F801}{F802}After all, he's nothing but a{F801}nouveau-riche punk. The best time{F801}to defeat him is now!{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404341}Tayama has headed for Ichigaya.{F801}I received word from one of our men{F801}stationed outside.{F801}{F802}Tayama must have learned about Lady{F801}Yuriko's plans... I can see that{F801}he's restless now.{F801}{F802}After all, he's nothing but a{F801}nouveau-riche punk. The best time{F801}to defeat him is now!{F801}</target>
+  </entry>
+</mbm>

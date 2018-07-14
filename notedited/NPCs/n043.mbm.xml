@@ -1,0 +1,74 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Samurai\0{F87A,117}{F813,1,403002}There is a rumor that the Ashura-kai's{F801}headquarters are located in Roppongi,{F801}near Shibuya.{F801}{F802}We must act cautiously so as not to{F801}draw undue attention...{F801}</source>
+    <target>{F812}Samurai\0{F87A,117}{F813,1,403002}There is a rumor that the Ashura-kai's{F801}headquarters are located in Roppongi,{F801}near Shibuya.{F801}{F802}We must act cautiously so as not to{F801}draw undue attention...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Samurai\0{F87A,117}{F813,1,403042}I hear SOMEONE had made a big commotion in a place called Club Milton.{F801}{F802}Geez... I don't mind you get yourself in a combat...{F801}But don't you draw Ashura-kai's attention too much, you hear?{F801}</source>
+    <target>{F812}Samurai\0{F87A,117}{F813,1,403042}I hear SOMEONE had made a big commotion in a place called Club Milton.{F801}{F802}Geez... I don't mind you get yourself in a combat...{F801}But don't you draw Ashura-kai's attention too much, you hear?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Samurai\0{F87A,117}{F813,1,403042}I saw Walter just now.{F801}But he was acting strangely. {F801}{F802}He was heading for Shibuya leading the believers of Ring of Gaea.{F801}{F802}Whatever happened to him...?{F801}Do you know anything?{F801}</source>
+    <target>{F812}Samurai\0{F87A,117}{F813,1,403042}I saw Walter just now.{F801}But he was acting strangely. {F801}{F802}He was heading for Shibuya leading the believers of Ring of Gaea.{F801}{F802}Whatever happened to him...?{F801}Do you know anything?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Samurai\0{F87A,117}{F813,1,403011}To continue with our mission in this state is impossible.{F801}I even hear a rumor about angels are coming to attack...{F801}{F802}Why the Eastern Kingdom of Mikado won't retreat all the Samurai in Tokyo...?{F801}{F802}D-Don't tell me they are thinking to abandon us here...{F801}</source>
+    <target>{F812}Samurai\0{F87A,117}{F813,1,403011}To continue with our mission in this state is impossible.{F801}I even hear a rumor about angels are coming to attack...{F801}{F802}Why the Eastern Kingdom of Mikado won't retreat all the Samurai in Tokyo...?{F801}{F802}D-Don't tell me they are thinking to abandon us here...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Samurai\0{F87A,117}{F813,1,403011}The Eastern Kingdom of Mikado has transioned to a new governing structure...{F801}A system where god and angels rule...{F801}{F802}I hear the Luxrors are gone, and statue of King Aquila has been destroyed.{F801}{F802}I feel like my loyalty towards the kingdom is fading away...{F801}</source>
+    <target>{F812}Samurai\0{F87A,117}{F813,1,403011}The Eastern Kingdom of Mikado has transioned to a new governing structure...{F801}A system where god and angels rule...{F801}{F802}I hear the Luxrors are gone, and statue of King Aquila has been destroyed.{F801}{F802}I feel like my loyalty towards the kingdom is fading away...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Samurai\0{F87A,117}{F813,1,403043}Hey, you made the Top 3 of Overall Ranking!{F801}{F802}My... Your tenacious effort sure is amazing...{F801}</source>
+    <target>{F812}Samurai\0{F87A,117}{F813,1,403043}Hey, you made the Top 3 of Overall Ranking!{F801}{F802}My... Your tenacious effort sure is amazing...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F802}</source>
+    <target>{F802}</target>
+  </entry>
+  <entry id="7">
+    <source>{F802}</source>
+    <target>{F802}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Dignified Samurai\0{F87A,116}{F813,1,403002}Ah, it's you! I received the message{F801}from Isabeau.{F801}{F802}The evacuation of our countrymen to{F801}Tokyo is proceeding as planned.{F801}{F802}The people ought to be en route to{F801}Shinjuku now. I am staying here to act{F801}as a guide along the way.{F801}</source>
+    <target>{F812}Dignified Samurai\0{F87A,116}{F813,1,403002}Ah, it's you! I received the message{F801}from Isabeau.{F801}{F802}The evacuation of our countrymen to{F801}Tokyo is proceeding as planned.{F801}{F802}The people ought to be en route to{F801}Shinjuku now. I am staying here to act{F801}as a guide along the way.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hunter man\0{F87A,69}{F813,1,403041}Say, you guys looking for Reds too?{F801}Don't waste your time at Club Milton.{F801}{F802}I just went there. The manager'll just{F801}kick you out.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,69}{F813,1,403041}Say, you guys looking for Reds too?{F801}Don't waste your time at Club Milton.{F801}{F802}I just went there. The manager'll just{F801}kick you out.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}ハñターの男\0{F87A,69}{F813,1,403041}{F802}</source>
+    <target>{F812}ハñターの男\0{F87A,69}{F813,1,403041}{F802}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hunter man\0{F87A,69}{F813,1,403021}Club Milton is still open even though{F801}Tokyo's such a mess...{F801}{F802}Or maybe I should say Club Milton's{F801}still open because Tokyo's such a mess.{F801}{F802}I also heard some guys in Shibuya's{F801}underground ate the Reds to become{F801}demons. Anything goes in Tokyo now...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,69}{F813,1,403021}Club Milton is still open even though{F801}Tokyo's such a mess...{F801}{F802}Or maybe I should say Club Milton's{F801}still open because Tokyo's such a mess.{F801}{F802}I also heard some guys in Shibuya's{F801}underground ate the Reds to become{F801}demons. Anything goes in Tokyo now...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hunter man\0{F87A,69}{F813,1,403021}The Association started a new event.{F801}A tournament or something...{F801}{F802}Then more Hunters started to buy Reds,{F801}and the usual customers are flowing{F801}into Milton now.{F801}{F802}I can see the real story behind it{F801}all... So you'll excuse me if I'm not{F801}so excited about this big event.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,69}{F813,1,403021}The Association started a new event.{F801}A tournament or something...{F801}{F802}Then more Hunters started to buy Reds,{F801}and the usual customers are flowing{F801}into Milton now.{F801}{F802}I can see the real story behind it{F801}all... So you'll excuse me if I'm not{F801}so excited about this big event.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hunter man\0{F87A,69}{F813,1,403033}That last surge was astonishing!{F801}{F843,0} made a huge jump!{F801}{F802}Those Hunters in Milton who ate the{F801}Reds must be kicking themselves now.{F801}{F802}If they'd known a shining hope like{F801}this would rise up... I bet they'd{F801}have made a different choice.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,69}{F813,1,403033}That last surge was astonishing!{F801}{F843,0} made a huge jump!{F801}{F802}Those Hunters in Milton who ate the{F801}Reds must be kicking themselves now.{F801}{F802}If they'd known a shining hope like{F801}this would rise up... I bet they'd{F801}have made a different choice.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Hunter man\0{F87A,69}{F813,1,403033}We Hunters can kill the demons outside{F801}one by one...{F801}{F802}The problem is the ex-Hunters who turned{F801}into demons after eating those Reds.{F801}{F802}Should we just kill them all and get it{F801}over with? Or should we spare them and{F801}set up a reservation for them to live?{F801}</source>
+    <target>{F812}Hunter man\0{F87A,69}{F813,1,403033}We Hunters can kill the demons outside{F801}one by one...{F801}{F802}The problem is the ex-Hunters who turned{F801}into demons after eating those Reds.{F801}{F802}Should we just kill them all and get it{F801}over with? Or should we spare them and{F801}set up a reservation for them to live?{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Samurai\0{F87A,117}{F813,1,403042}Guys from Ashura-kai are running around insanely.{F801}{F802}...Oh well, we're on a mission to hunt down the Black Samurai...{F801}{F802}We should keep the unnecessary worries out of our heads and prepare for it.{F801}</source>
+    <target>{F812}Samurai\0{F87A,117}{F813,1,403042}Guys from Ashura-kai are running around insanely.{F801}{F802}...Oh well, we're on a mission to hunt down the Black Samurai...{F801}{F802}We should keep the unnecessary worries out of our heads and prepare for it.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Hunter man\0{F87A,69}{F813,1,403021}The Association was hyping up some{F801}event that's supposed to start soon.{F801}{F802}Then more Hunters started to buy Reds,{F801}and the usual customers are flowing{F801}into Milton now.{F801}{F802}I can see the real story behind it{F801}all... So you'll excuse me if I'm not{F801}so excited about this big event.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,69}{F813,1,403021}The Association was hyping up some{F801}event that's supposed to start soon.{F801}{F802}Then more Hunters started to buy Reds,{F801}and the usual customers are flowing{F801}into Milton now.{F801}{F802}I can see the real story behind it{F801}all... So you'll excuse me if I'm not{F801}so excited about this big event.{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>{F812}Hunter man\0{F87A,69}{F813,1,403021}That tournament the Association started{F801}is really catching on.{F801}{F802}Tokyo's Hunters are desperate to keep{F801}up with this {F843,0} guy...{F801}{F802}Those Hunters in Milton who ate the{F801}Reds must be kicking themselves now.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,69}{F813,1,403021}That tournament the Association started{F801}is really catching on.{F801}{F802}Tokyo's Hunters are desperate to keep{F801}up with this {F843,0} guy...{F801}{F802}Those Hunters in Milton who ate the{F801}Reds must be kicking themselves now.{F801}</target>
+  </entry>
+</mbm>

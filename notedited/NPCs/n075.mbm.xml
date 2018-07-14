@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Cheerful man\0{F87A,60}{F813,1,403201}...Huh? Wow, it's rare to see a{F801}youngster like you here.{F801}{F802}This is great. Won't you chat with{F801}me for a bit?{F801}</source>
+    <target>{F812}Cheerful man\0{F87A,60}{F813,1,403201}...Huh? Wow, it's rare to see a{F801}youngster like you here.{F801}{F802}This is great. Won't you chat with{F801}me for a bit?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"Very well."{F801}"No."{F801}</source>
+    <target>"Very well."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Cheerful man\0{F87A,60}{F813,1,403233}...Thank you.{F801}</source>
+    <target>{F812}Cheerful man\0{F87A,60}{F813,1,403233}...Thank you.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Cheerful man\0{F87A,60}{F813,1,403243}I see... No, don't worry about it.{F801}I'm going to be here for a while.{F801}</source>
+    <target>{F812}Cheerful man\0{F87A,60}{F813,1,403243}I see... No, don't worry about it.{F801}I'm going to be here for a while.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Cheerful man\0{F87A,60}...You see that wooden scaffold{F801}behind me?{F801}</source>
+    <target>{F812}Cheerful man\0{F87A,60}...You see that wooden scaffold{F801}behind me?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Cheerful man\0{F87A,60}Back in the day, there was a string{F801}of child kidnappings.{F801}{F802}At the time, the police hid the{F801}truth, but the victims' families all{F801}knew what was happening.{F801}</source>
+    <target>{F812}Cheerful man\0{F87A,60}Back in the day, there was a string{F801}of child kidnappings.{F801}{F802}At the time, the police hid the{F801}truth, but the victims' families all{F801}knew what was happening.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Cheerful man\0{F87A,60}There used to be a giant cocoon on{F801}top of that scaffold. ...That's where{F801}the children were taken.{F801}{F802}It was supposedly an "ark" created{F801}by the angels to hold those who were{F801}free from the Filth...{F801}</source>
+    <target>{F812}Cheerful man\0{F87A,60}There used to be a giant cocoon on{F801}top of that scaffold. ...That's where{F801}the children were taken.{F801}{F802}It was supposedly an "ark" created{F801}by the angels to hold those who were{F801}free from the Filth...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Cheerful man\0{F87A,60}And, just before that huge ceiling{F801}over Tokyo was formed, the cocoon{F801}went flying off into the sky.{F801}</source>
+    <target>{F812}Cheerful man\0{F87A,60}And, just before that huge ceiling{F801}over Tokyo was formed, the cocoon{F801}went flying off into the sky.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Cheerful man\0{F87A,60}That poor child... So frail...{F801}{F802}I wonder if he's still alive somehow,{F801}up there above that ceiling...{F801}</source>
+    <target>{F812}Cheerful man\0{F87A,60}That poor child... So frail...{F801}{F802}I wonder if he's still alive somehow,{F801}up there above that ceiling...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Earthy man\0{F87A,64}{F813,1,403841}Oh, how did you get in here?{F801}Well, that's all right. Just don't{F801}go trampling the plants.{F801}{F802}This is the Ashura-kai's farm.{F801}I'm in charge of the produce grown{F801}here.{F801}{F802}The plants are malnourished because{F801}the sun doesn't shine here... but{F801}they're still real, farm-grown food.{F801}</source>
+    <target>{F812}Earthy man\0{F87A,64}{F813,1,403841}Oh, how did you get in here?{F801}Well, that's all right. Just don't{F801}go trampling the plants.{F801}{F802}This is the Ashura-kai's farm.{F801}I'm in charge of the produce grown{F801}here.{F801}{F802}The plants are malnourished because{F801}the sun doesn't shine here... but{F801}they're still real, farm-grown food.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Earthy man\0{F87A,64}{F813,1,403841}Oh, how did you get in here?{F801}Well, that's all right. Just don't{F801}go trampling the plants.{F801}{F802}This is the Ashura-kai's farm.{F801}I'm in charge of the produce grown{F801}here.{F801}{F802}...But if the Ring of Gaea defeats{F801}the Ashura-kai, will this place{F801}belong to the Ring of Gaea's hands?{F801}</source>
+    <target>{F812}Earthy man\0{F87A,64}{F813,1,403841}Oh, how did you get in here?{F801}Well, that's all right. Just don't{F801}go trampling the plants.{F801}{F802}This is the Ashura-kai's farm.{F801}I'm in charge of the produce grown{F801}here.{F801}{F802}...But if the Ring of Gaea defeats{F801}the Ashura-kai, will this place{F801}belong to the Ring of Gaea's hands?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Demon\0{F87A,-428}{F813,1,414100}This is the "holy ground" the angels{F801}set up? Look at all this useless crap{F801}all over the place.{F801}{F802}Well, might as well smash it all.{F801}I'll start by devouring the humans.{F801}</source>
+    <target>{F812}Demon\0{F87A,-428}{F813,1,414100}This is the "holy ground" the angels{F801}set up? Look at all this useless crap{F801}all over the place.{F801}{F802}Well, might as well smash it all.{F801}I'll start by devouring the humans.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Demon\0{F87A,-428}{F813,1,414100}Humans used to rely on "God" all the{F801}time, and now they say they rely on{F801}"hope."{F801}{F802}Even though their god betrayed them,{F801}they can't keep themselves from{F801}trusting things to get better.{F801}{F802}...Very well, then. I'll take this{F801}feeble "hope" from the humans.{F801}</source>
+    <target>{F812}Demon\0{F87A,-428}{F813,1,414100}Humans used to rely on "God" all the{F801}time, and now they say they rely on{F801}"hope."{F801}{F802}Even though their god betrayed them,{F801}they can't keep themselves from{F801}trusting things to get better.{F801}{F802}...Very well, then. I'll take this{F801}feeble "hope" from the humans.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Earthy man\0{F87A,64}{F813,1,403803}I got a message from someone named{F801}Skins. We won't be able to get any{F801}more demon meat from now on...{F801}{F802}Also, this farm is going to be{F801}municipally-owned, and we'll be{F801}producing food for everyone here.{F801}{F802}A person from the "Eastern Kingdom{F801}of Mikado" came by earlier and gave{F801}us rice seed... and two pigs!{F801}</source>
+    <target>{F812}Earthy man\0{F87A,64}{F813,1,403803}I got a message from someone named{F801}Skins. We won't be able to get any{F801}more demon meat from now on...{F801}{F802}Also, this farm is going to be{F801}municipally-owned, and we'll be{F801}producing food for everyone here.{F801}{F802}A person from the "Eastern Kingdom{F801}of Mikado" came by earlier and gave{F801}us rice seed... and two pigs!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Weary man\0{F87A,59}{F813,1,403203}...I ended up joining the Ashura-kai.{F801}I mean, everyone wants to live the{F801}good life, right?{F801}{F802}But even in the Ashura-kai, only the{F801}higher-ups get to eat the meat and{F801}vegetables we raise here.{F801}{F802}I wonder how many years it'll be{F801}for me to reach that rank...{F801}</source>
+    <target>{F812}Weary man\0{F87A,59}{F813,1,403203}...I ended up joining the Ashura-kai.{F801}I mean, everyone wants to live the{F801}good life, right?{F801}{F802}But even in the Ashura-kai, only the{F801}higher-ups get to eat the meat and{F801}vegetables we raise here.{F801}{F802}I wonder how many years it'll be{F801}for me to reach that rank...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Weary man\0{F87A,59}{F813,1,403203}It looks like some guy got into the{F801}tower, so the higher-ups want us to{F801}increase security around here.{F801}{F802}They've got to be joking. This{F801}is the guy who killed Xi Wangmu.{F801}What's a rookie like me gonna do?{F801}{F802}I'll tell you what I'm gonna do.{F801}I'm gonna turn the other way and{F801}keep looking after the chickens...{F801}</source>
+    <target>{F812}Weary man\0{F87A,59}{F813,1,403203}It looks like some guy got into the{F801}tower, so the higher-ups want us to{F801}increase security around here.{F801}{F802}They've got to be joking. This{F801}is the guy who killed Xi Wangmu.{F801}What's a rookie like me gonna do?{F801}{F802}I'll tell you what I'm gonna do.{F801}I'm gonna turn the other way and{F801}keep looking after the chickens...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Weary man\0{F87A,59}{F813,1,403241}You're the guy who went into the{F801}tower before, right...?{F801}{F802}The bosses told us that you're a{F801}guest of Mr. Tayama, so we're not{F801}supposed to do anything to you.{F801}{F802}Lucky you. If it were up to me, I'd{F801}wring your neck like a chicken's.{F801}</source>
+    <target>{F812}Weary man\0{F87A,59}{F813,1,403241}You're the guy who went into the{F801}tower before, right...?{F801}{F802}The bosses told us that you're a{F801}guest of Mr. Tayama, so we're not{F801}supposed to do anything to you.{F801}{F802}Lucky you. If it were up to me, I'd{F801}wring your neck like a chicken's.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Weary man\0{F87A,59}{F813,1,403223}To hell with the Ring of Gaea!{F801}We've got Mr. Tayama on the{F801}Ashura-kai's side.{F801}{F802}I'm going to stay here and get ready{F801}for the celebration. Time to kill{F801}some chickens and ready the fryer...{F801}</source>
+    <target>{F812}Weary man\0{F87A,59}{F813,1,403223}To hell with the Ring of Gaea!{F801}We've got Mr. Tayama on the{F801}Ashura-kai's side.{F801}{F802}I'm going to stay here and get ready{F801}for the celebration. Time to kill{F801}some chickens and ready the fryer...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Demon\0{F87A,-421}{F813,1,411101}Yo, human. We're allowed to come{F801}and go as we please now. There's{F801}nowhere you can run to.{F801}{F802}Now, you can either kill yourself{F801}before we eat you, or we can eat{F801}you alive. It's your choice.{F801}</source>
+    <target>{F812}Demon\0{F87A,-421}{F813,1,411101}Yo, human. We're allowed to come{F801}and go as we please now. There's{F801}nowhere you can run to.{F801}{F802}Now, you can either kill yourself{F801}before we eat you, or we can eat{F801}you alive. It's your choice.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Demon\0{F87A,-421}{F813,1,411101}Humans have such pitiful minds.{F801}All this crap about "hope"...{F801}{F802}Don't they realize that it doesn't{F801}change the fact that they're all{F801}going to be eaten by us?{F801}</source>
+    <target>{F812}Demon\0{F87A,-421}{F813,1,411101}Humans have such pitiful minds.{F801}All this crap about "hope"...{F801}{F802}Don't they realize that it doesn't{F801}change the fact that they're all{F801}going to be eaten by us?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Grimy woman\0{F87A,66}{F813,1,403312}I was sent here because my husband{F801}comes from a farming family.{F801}{F802}I was happy to see him get eaten by{F801}a demon... but now I'm glad that I{F801}married that jerk.{F801}{F802}I won't be attacked by demons out{F801}here, and I can eat a scrap of{F801}vegetables once in a while...{F801}</source>
+    <target>{F812}Grimy woman\0{F87A,66}{F813,1,403312}I was sent here because my husband{F801}comes from a farming family.{F801}{F802}I was happy to see him get eaten by{F801}a demon... but now I'm glad that I{F801}married that jerk.{F801}{F802}I won't be attacked by demons out{F801}here, and I can eat a scrap of{F801}vegetables once in a while...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Grimy woman\0{F87A,66}{F813,1,403312}If the Ashura-kai were to go away,{F801}I might be free to leave this farm...{F801}{F802}But I don't have think I could{F801}survive in Tokyo if they're out of{F801}the city, too...{F801}</source>
+    <target>{F812}Grimy woman\0{F87A,66}{F813,1,403312}If the Ashura-kai were to go away,{F801}I might be free to leave this farm...{F801}{F802}But I don't have think I could{F801}survive in Tokyo if they're out of{F801}the city, too...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Demon\0{F87A,-423}{F813,1,412101}Ah, young one. May I borrow your{F801}hand for a moment?{F801}{F802}Hmm... Your palm has an obvious mark{F801}of death. It seems there is no escape{F801}from your fate.{F801}{F802}Trying to resist it will only prolong{F801}your suffering. ...I recommend that{F801}you calmly surrender to us.{F801}</source>
+    <target>{F812}Demon\0{F87A,-423}{F813,1,412101}Ah, young one. May I borrow your{F801}hand for a moment?{F801}{F802}Hmm... Your palm has an obvious mark{F801}of death. It seems there is no escape{F801}from your fate.{F801}{F802}Trying to resist it will only prolong{F801}your suffering. ...I recommend that{F801}you calmly surrender to us.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Demon\0{F87A,-423}{F813,1,412101}...Having hope means resisting us{F801}and prolonging one's suffering.{F801}{F802}The humans should toss their hope{F801}aside and calmly give in to their{F801}fates by surrendering to us.{F801}</source>
+    <target>{F812}Demon\0{F87A,-423}{F813,1,412101}...Having hope means resisting us{F801}and prolonging one's suffering.{F801}{F802}The humans should toss their hope{F801}aside and calmly give in to their{F801}fates by surrendering to us.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The people of the Eastern Kingdom of{F801}Mikado are no longer here...{F801}</source>
+    <target>〉 The people of the Eastern Kingdom of{F801}Mikado are no longer here...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Reserved Monk\0{F87A,43}{F813,1,403702}Ah, {F843,0}. You are still here{F801}in Mikado?{F801}{F802}Once I am sure that I haven't overlooked{F801}anything here, I'll be on my way at once{F801}for Tokyo.{F801}{F802}I shall see you again in Shinjuku,{F801}I trust.{F801}</source>
+    <target>{F812}Reserved Monk\0{F87A,43}{F813,1,403702}Ah, {F843,0}. You are still here{F801}in Mikado?{F801}{F802}Once I am sure that I haven't overlooked{F801}anything here, I'll be on my way at once{F801}for Tokyo.{F801}{F802}I shall see you again in Shinjuku,{F801}I trust.{F801}</target>
+  </entry>
+</mbm>

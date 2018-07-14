@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-63}{F813,1,417205}What is it? If this is about handing{F801}out Reds, the Ashura-kai haven't{F801}told me anything.{F801}{F802}Mastema hasn't said anything about{F801}it, either.{F801}</source>
+    <target>{F812}Demon\0{F87A,-63}{F813,1,417205}What is it? If this is about handing{F801}out Reds, the Ashura-kai haven't{F801}told me anything.{F801}{F802}Mastema hasn't said anything about{F801}it, either.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-63}{F813,1,417208}What is it? You want Reds, now?{F801}Even when Tokyo's in such a mess?{F801}{F802}You're a pretty greedy human,{F801}you know. Even without Reds, you're{F801}pretty much just like us.{F801}</source>
+    <target>{F812}Demon\0{F87A,-63}{F813,1,417208}What is it? You want Reds, now?{F801}Even when Tokyo's in such a mess?{F801}{F802}You're a pretty greedy human,{F801}you know. Even without Reds, you're{F801}pretty much just like us.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-132}{F813,1,413207}...Ah, I see four lively humans{F801}before me!{F801}{F802}But I have a contract with Tayama.{F801}In exchange for Reds, I won't attack{F801}humans.{F801}</source>
+    <target>{F812}Demon\0{F87A,-132}{F813,1,413207}...Ah, I see four lively humans{F801}before me!{F801}{F802}But I have a contract with Tayama.{F801}In exchange for Reds, I won't attack{F801}humans.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-132}{F813,1,413208}The Sabbaths seems to have been{F801}purged in the lands above, but as{F801}long as people live, demons will too.{F801}{F802}I shall spread the Sabbath in those{F801}lands, as well. Here, in this Tokyo{F801}outside of God's blessing...{F801}</source>
+    <target>{F812}Demon\0{F87A,-132}{F813,1,413208}The Sabbaths seems to have been{F801}purged in the lands above, but as{F801}long as people live, demons will too.{F801}{F802}I shall spread the Sabbath in those{F801}lands, as well. Here, in this Tokyo{F801}outside of God's blessing...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}悪魔\0{F87A,-132}{F813,1,413209}[大天使/だいてんし]たちよ{F801}それが[貴様/きさま]らの[答/こた]えというわけか…{F801}</source>
+    <target>{F812}悪魔\0{F87A,-132}{F813,1,413209}[大天使/だいてんし]たちよ{F801}それが[貴様/きさま]らの[答/こた]えというわけか…{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}悪魔\0{F87A,-132}{F813,1,413206}[人/ひと]の[子/こ]の[希望/きぼう]が [天/てん]を[穿/うが]ったか{F801}ならば[次/つぎ]は [地/ち]を[穿/うが]つ[番/ばん]…{F801}{F802}úシフÄーが[討/う]たれること…{F801}このままでは ありえるか{F801}</source>
+    <target>{F812}悪魔\0{F87A,-132}{F813,1,413206}[人/ひと]の[子/こ]の[希望/きぼう]が [天/てん]を[穿/うが]ったか{F801}ならば[次/つぎ]は [地/ち]を[穿/うが]つ[番/ばん]…{F801}{F802}úシフÄーが[討/う]たれること…{F801}このままでは ありえるか{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Demon\0{F87A,-132}{F813,1,413206}The sons of man have gained their own{F801}world, and they're going to expell{F801}the demons.{F801}{F802}Those who have sensed the change in{F801}time have been leaving in droves.{F801}{F802}I will stay here for now, but{F801}eventually...{F801}</source>
+    <target>{F812}Demon\0{F87A,-132}{F813,1,413206}The sons of man have gained their own{F801}world, and they're going to expell{F801}the demons.{F801}{F802}Those who have sensed the change in{F801}time have been leaving in droves.{F801}{F802}I will stay here for now, but{F801}eventually...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Demon\0{F87A,-145}{F813,1,494105}TAYAMA GIVE REDS.{F801}THAT WHY ME NO EAT TAYAMA.{F801}{F802}BUT TAYAMA LOSE REDS.{F801}ME EAT TAYAMA...!{F801}</source>
+    <target>{F812}Demon\0{F87A,-145}{F813,1,494105}TAYAMA GIVE REDS.{F801}THAT WHY ME NO EAT TAYAMA.{F801}{F802}BUT TAYAMA LOSE REDS.{F801}ME EAT TAYAMA...!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Demon\0{F87A,-145}{F813,1,494105}ME TIRED OF REDS.{F801}WANT TO EAT REAL MEAT.{F801}{F802}TONS OF REAL MEAT OUTSIDE.{F801}I GO EAT MEAT OUTSIDE.{F801}NO...?{F801}</source>
+    <target>{F812}Demon\0{F87A,-145}{F813,1,494105}ME TIRED OF REDS.{F801}WANT TO EAT REAL MEAT.{F801}{F802}TONS OF REAL MEAT OUTSIDE.{F801}I GO EAT MEAT OUTSIDE.{F801}NO...?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Demon\0{F87A,-63}{F813,1,417205}What is it? You want Reds, now?{F801}Isn't there supposed to be something{F801}big happening in Tokyo?{F801}{F802}I heard that Tayama's going to start{F801}his war soon.{F801}</source>
+    <target>{F812}Demon\0{F87A,-63}{F813,1,417205}What is it? You want Reds, now?{F801}Isn't there supposed to be something{F801}big happening in Tokyo?{F801}{F802}I heard that Tayama's going to start{F801}his war soon.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Demon\0{F87A,-132}{F813,1,413207}...Ah, I see two lively humans{F801}before me!{F801}{F802}But I have a contract with Tayama.{F801}In exchange for Reds, I won't attack{F801}humans.{F801}</source>
+    <target>{F812}Demon\0{F87A,-132}{F813,1,413207}...Ah, I see two lively humans{F801}before me!{F801}{F802}But I have a contract with Tayama.{F801}In exchange for Reds, I won't attack{F801}humans.{F801}</target>
+  </entry>
+</mbm>

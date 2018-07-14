@@ -1,0 +1,86 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Kiyoharu\0{F87A,83}{F813,1,401504}Aaaaaameeeeeennnnn!{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F813,1,401504}Aaaaaameeeeeennnnn!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Kiyoharu is praying frantically...{F801}</source>
+    <target>〉 Kiyoharu is praying frantically...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Kiyoharu\0{F87A,83}{F813,1,401504}Aaaaaameeeeeennnnn!{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F813,1,401504}Aaaaaameeeeeennnnn!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Kiyoharu is praying frantically...{F801}</source>
+    <target>〉 Kiyoharu is praying frantically...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hunter man\0{F87A,99}{F813,1,403043}Hey, that thing on your arm... Is that{F801}a Demonica? I've never seen anyone but{F801}the Shinjuku folks with one of those.{F801}{F802}Kiyoharu wanted to make an altar out of{F801}a Demonica so he could talk to God...{F801}{F802}So we combed all of Tokyo, fighting{F801}demons the whole time, to find another{F801}Demonica for him.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,99}{F813,1,403043}Hey, that thing on your arm... Is that{F801}a Demonica? I've never seen anyone but{F801}the Shinjuku folks with one of those.{F801}{F802}Kiyoharu wanted to make an altar out of{F801}a Demonica so he could talk to God...{F801}{F802}So we combed all of Tokyo, fighting{F801}demons the whole time, to find another{F801}Demonica for him.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hunter man\0{F87A,99}{F813,1,403002}Say, where did you get your demon{F801}summoning program?{F801}{F802}{F813,1,403041}A Rite? Well, that sounds fancy. Me, I{F801}had to grab mine off the 'net.{F801}{F802}About the same time as demons started{F801}roaming around Tokyo, someone put it{F801}up online as a free download.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,99}{F813,1,403002}Say, where did you get your demon{F801}summoning program?{F801}{F802}{F813,1,403041}A Rite? Well, that sounds fancy. Me, I{F801}had to grab mine off the 'net.{F801}{F802}About the same time as demons started{F801}roaming around Tokyo, someone put it{F801}up online as a free download.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hunter man\0{F87A,99}{F813,1,403001}Kiyoharu looks strange, but he really{F801}is a good guy...{F801}{F802}He actually summoned us a Messiah to{F801}bring down Pluto, right?{F801}</source>
+    <target>{F812}Hunter man\0{F87A,99}{F813,1,403001}Kiyoharu looks strange, but he really{F801}is a good guy...{F801}{F802}He actually summoned us a Messiah to{F801}bring down Pluto, right?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hunter woman\0{F87A,100}{F813,1,403103}I don't know where you guys are coming{F801}from, but you lucked out, drifting to{F801}Shinjuku.{F801}{F802}There are other shelters out there, but{F801}Shinjuku is the only one with humans...{F801}{F802}Thanks to God's wrath, the terrain's{F801}changed a lot. We can't even set foot{F801}outside Tokyo anymore...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,100}{F813,1,403103}I don't know where you guys are coming{F801}from, but you lucked out, drifting to{F801}Shinjuku.{F801}{F802}There are other shelters out there, but{F801}Shinjuku is the only one with humans...{F801}{F802}Thanks to God's wrath, the terrain's{F801}changed a lot. We can't even set foot{F801}outside Tokyo anymore...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hunter woman\0{F87A,100}{F813,1,403142}The Counter-Demon Force was a secret{F801}commando unit formed to protect Tokyo{F801}from demons.{F801}{F802}They managed to eliminate the demons{F801}by cooperating with the angelic host...{F801}{F802}But you can see what good that did us.{F801}God is gone, and humanity is dying.{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,100}{F813,1,403142}The Counter-Demon Force was a secret{F801}commando unit formed to protect Tokyo{F801}from demons.{F801}{F802}They managed to eliminate the demons{F801}by cooperating with the angelic host...{F801}{F802}But you can see what good that did us.{F801}God is gone, and humanity is dying.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hunter woman\0{F87A,100}{F813,1,403142}Welcome back. Pluto's dead, right?{F801}{F802}Heh. God has left us, but we didn't{F801}need him anyway.{F801}{F802}Since now we have the Messiah...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,100}{F813,1,403142}Welcome back. Pluto's dead, right?{F801}{F802}Heh. God has left us, but we didn't{F801}need him anyway.{F801}{F802}Since now we have the Messiah...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hunter woman\0{F87A,100}{F813,1,403142}You're leaving, aren't you, Messiah?{F801}Akira told us so...{F801}{F802}He said we had to stand tall without{F801}relying on any Messiah. We have to{F801}help ourselves...{F801}{F802}Because the Eastern Kingdom of Mikado{F801}is our kingdom now...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,100}{F813,1,403142}You're leaving, aren't you, Messiah?{F801}Akira told us so...{F801}{F802}He said we had to stand tall without{F801}relying on any Messiah. We have to{F801}help ourselves...{F801}{F802}Because the Eastern Kingdom of Mikado{F801}is our kingdom now...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hunter woman\0{F87A,100}{F813,1,403142}You're back, Messiah. I know you have{F801}a job to do...{F801}{F802}We won't rely on either you or God.{F801}From now on, if there are obstacles to{F801}overcome, it's us who'll do it.{F801}{F802}Because the Eastern Kingdom of Mikado{F801}is our kingdom now...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,100}{F813,1,403142}You're back, Messiah. I know you have{F801}a job to do...{F801}{F802}We won't rely on either you or God.{F801}From now on, if there are obstacles to{F801}overcome, it's us who'll do it.{F801}{F802}Because the Eastern Kingdom of Mikado{F801}is our kingdom now...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>Talk to him{F801}Leave him be{F801}</source>
+    <target>Talk to him{F801}Leave him be{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>Talk to him{F801}Leave him be{F801}</source>
+    <target>Talk to him{F801}Leave him be{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Hunter man\0{F87A,99}{F813,1,403001}Kiyoharu looks strange, but he really{F801}is a good guy...{F801}{F802}Sometimes, the things he says are{F801}pretty sharp.{F801}{F802}No wonder he was chosen to communicate{F801}with the archangels...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,99}{F813,1,403001}Kiyoharu looks strange, but he really{F801}is a good guy...{F801}{F802}Sometimes, the things he says are{F801}pretty sharp.{F801}{F802}No wonder he was chosen to communicate{F801}with the archangels...{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}Kiyoharu\0{F87A,83}{F813,1,401501}Oh... Messiah...!{F801}{F802}Did you say you obtained the demon{F801}summoning program from some sort of{F801}rite? Really...?{F801}{F802}Is that some kind of slang or somethin'?{F801}Because that demon summoning program...{F801}{F802}It's freeware you can download off the{F801}Internet. We don't know who was hosting{F801}it, though...{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F813,1,401501}Oh... Messiah...!{F801}{F802}Did you say you obtained the demon{F801}summoning program from some sort of{F801}rite? Really...?{F801}{F802}Is that some kind of slang or somethin'?{F801}Because that demon summoning program...{F801}{F802}It's freeware you can download off the{F801}Internet. We don't know who was hosting{F801}it, though...{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Kiyoharu\0{F87A,83}{F813,1,401501}Oh... Messiah...!{F801}{F802}Thank you so much! Ah, no, I didn't{F801}mean for Pluto...{F801}{F802}You've inspired a man who can do a lot{F801}single-handedly... I think you know{F801}who I mean... hehehe.{F801}{F802}{F813,1,401505}So "our side" will be fine, I'm sure!{F801}Maybe you can take a break from being{F801}Messiah, hehe...{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F813,1,401501}Oh... Messiah...!{F801}{F802}Thank you so much! Ah, no, I didn't{F801}mean for Pluto...{F801}{F802}You've inspired a man who can do a lot{F801}single-handedly... I think you know{F801}who I mean... hehehe.{F801}{F802}{F813,1,401505}So "our side" will be fine, I'm sure!{F801}Maybe you can take a break from being{F801}Messiah, hehe...{F801}</target>
+  </entry>
+  <entry id="303">
+    <source>{F812}Kiyoharu\0{F87A,83}{F813,1,401504}Aaaaaameeeeeennnnn!{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F813,1,401504}Aaaaaameeeeeennnnn!{F801}</target>
+  </entry>
+  <entry id="403">
+    <source>〉 Kiyoharu is praying frantically...{F801}</source>
+    <target>〉 Kiyoharu is praying frantically...{F801}</target>
+  </entry>
+  <entry id="503">
+    <source>Talk to him{F801}Leave him be{F801}</source>
+    <target>Talk to him{F801}Leave him be{F801}</target>
+  </entry>
+  <entry id="603">
+    <source>{F812}Kiyoharu\0{F87A,83}{F813,1,401501}Oh, hi, Messiah! Thanks for stopping by!{F801}{F802}The Eastern Kingdom of Mikado, right?{F801}Hey, of course I'm helping establish it!{F801}{F802}See how I'm praying for everyone's{F801}safety here? And I'm letting the young{F801}ones do the small, fiddly jobs.{F801}{F802}Because if I take on any major work...{F801}*cough*... Sorry.{F801}{F802}If I butt into the big stuff, I'm sure{F801}HE'LL be back down to let me take{F801}control of things. Hehe.{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F813,1,401501}Oh, hi, Messiah! Thanks for stopping by!{F801}{F802}The Eastern Kingdom of Mikado, right?{F801}Hey, of course I'm helping establish it!{F801}{F802}See how I'm praying for everyone's{F801}safety here? And I'm letting the young{F801}ones do the small, fiddly jobs.{F801}{F802}Because if I take on any major work...{F801}*cough*... Sorry.{F801}{F802}If I butt into the big stuff, I'm sure{F801}HE'LL be back down to let me take{F801}control of things. Hehe.{F801}</target>
+  </entry>
+</mbm>

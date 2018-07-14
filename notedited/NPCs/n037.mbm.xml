@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Sighing woman\0{F87A,62}{F813,1,403312}The guys who kicked out the Ashura-kai{F801}are acting like they're some kind of{F801}heroes...{F801}{F802}But without the Ashura-kai here,{F801}Xi Wangmu took over this town in{F801}no time.{F801}</source>
+    <target>{F812}Sighing woman\0{F87A,62}{F813,1,403312}The guys who kicked out the Ashura-kai{F801}are acting like they're some kind of{F801}heroes...{F801}{F802}But without the Ashura-kai here,{F801}Xi Wangmu took over this town in{F801}no time.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Sighing woman\0{F87A,62}{F813,1,403312}The guys who were opposing the{F801}Ashura-kai didn't know anything{F801}about them.{F801}{F802}They've been looking out for us this{F801}whole time... But it's too late now.{F801}</source>
+    <target>{F812}Sighing woman\0{F87A,62}{F813,1,403312}The guys who were opposing the{F801}Ashura-kai didn't know anything{F801}about them.{F801}{F802}They've been looking out for us this{F801}whole time... But it's too late now.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Sighing woman\0{F87A,62}{F813,1,403342}You have to have hope and stand on your{F801}own. That's what I learned from you.{F801}{F802}I know it'll be tough to do... But I{F801}also know I can do it.{F801}</source>
+    <target>{F812}Sighing woman\0{F87A,62}{F813,1,403342}You have to have hope and stand on your{F801}own. That's what I learned from you.{F801}{F802}I know it'll be tough to do... But I{F801}also know I can do it.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Panting woman\0{F87A,62}{F813,1,403303}Most people are trying to become self-{F801}sufficient in their own way...{F801}{F802}It's thanks to the hope you gave us.{F801}Thank you, champion.{F801}</source>
+    <target>{F812}Panting woman\0{F87A,62}{F813,1,403303}Most people are trying to become self-{F801}sufficient in their own way...{F801}{F802}It's thanks to the hope you gave us.{F801}Thank you, champion.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Flashy woman\0{F87A,123}{F813,1,403503}My ex was in the Ashura-kai. But he got{F801}beaten up and kicked out of town.{F801}{F802}They broke his nose, pulled out his{F801}hair... He looked awful. I'm more afraid{F801}of the people here than the Ashura-kai!{F801}</source>
+    <target>{F812}Flashy woman\0{F87A,123}{F813,1,403503}My ex was in the Ashura-kai. But he got{F801}beaten up and kicked out of town.{F801}{F802}They broke his nose, pulled out his{F801}hair... He looked awful. I'm more afraid{F801}of the people here than the Ashura-kai!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Flashy woman\0{F87A,123}{F813,1,403522}A woman from the underground district{F801}committed suicide by biting off her{F801}own tongue.{F801}{F802}We gave her corpse to the demons out{F801}there to keep them at bay for now...{F801}{F802}But I can't help wondering if they'll{F801}kill me, too, in my sleep.{F801}{F802}I keep wishing over and over that we{F801}could be free from this suffering...{F801}</source>
+    <target>{F812}Flashy woman\0{F87A,123}{F813,1,403522}A woman from the underground district{F801}committed suicide by biting off her{F801}own tongue.{F801}{F802}We gave her corpse to the demons out{F801}there to keep them at bay for now...{F801}{F802}But I can't help wondering if they'll{F801}kill me, too, in my sleep.{F801}{F802}I keep wishing over and over that we{F801}could be free from this suffering...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Flashy woman\0{F87A,123}{F813,1,403522}I'm away from home for a few days to{F801}hang out with the Ashura-kai and{F801}Ikebukuro turns into a huge mess...{F801}{F802}I almost always welcomed death before.{F801}But now...{F801}{F802}I just wanted to tell you one thing,{F801}champion: Thank you.{F801}</source>
+    <target>{F812}Flashy woman\0{F87A,123}{F813,1,403522}I'm away from home for a few days to{F801}hang out with the Ashura-kai and{F801}Ikebukuro turns into a huge mess...{F801}{F802}I almost always welcomed death before.{F801}But now...{F801}{F802}I just wanted to tell you one thing,{F801}champion: Thank you.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Flashy woman\0{F87A,123}{F813,1,403522}Ever since the demons came to Tokyo,{F801}I was looking for a good time and{F801}place to die.{F801}{F802}But it seems I've lost all that, along{F801}with my chance to find Mr. Right.{F801}{F802}I guess it's all your fault, haha.{F801}...Thanks, champion.{F801}</source>
+    <target>{F812}Flashy woman\0{F87A,123}{F813,1,403522}Ever since the demons came to Tokyo,{F801}I was looking for a good time and{F801}place to die.{F801}{F802}But it seems I've lost all that, along{F801}with my chance to find Mr. Right.{F801}{F802}I guess it's all your fault, haha.{F801}...Thanks, champion.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Sighing woman\0{F87A,62}{F813,1,403312}I just want to leave this demon-infested{F801}city as soon as possible...{F801}{F802}But when the Ashura-kai left town,{F801}all the Reds went with them.{F801}{F802}I can't fight demons... I can't even{F801}buy weapons. Talk about a no-win{F801}situation...{F801}</source>
+    <target>{F812}Sighing woman\0{F87A,62}{F813,1,403312}I just want to leave this demon-infested{F801}city as soon as possible...{F801}{F802}But when the Ashura-kai left town,{F801}all the Reds went with them.{F801}{F802}I can't fight demons... I can't even{F801}buy weapons. Talk about a no-win{F801}situation...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Flashy woman\0{F87A,123}{F813,1,403503}I heard a strange rumor that the{F801}Ashura-kai were making a comeback...{F801}{F802}But my ex was Ashura-kai, so I kinda{F801}know what is and isn't likely...{F801}{F802}The Ashura-kai wouldn't waste manpower{F801}and time on a town like this if there{F801}was nothing in it for them.{F801}</source>
+    <target>{F812}Flashy woman\0{F87A,123}{F813,1,403503}I heard a strange rumor that the{F801}Ashura-kai were making a comeback...{F801}{F802}But my ex was Ashura-kai, so I kinda{F801}know what is and isn't likely...{F801}{F802}The Ashura-kai wouldn't waste manpower{F801}and time on a town like this if there{F801}was nothing in it for them.{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Sighing woman\0{F87A,62}{F813,1,403312}Someone brought some Reds from Shibuya!{F801}Thank you, lord!{F801}{F802}I don't mind paying a fortune for some{F801}Reds if I have to. I'd even sell my{F801}organs if need be...{F801}</source>
+    <target>{F812}Sighing woman\0{F87A,62}{F813,1,403312}Someone brought some Reds from Shibuya!{F801}Thank you, lord!{F801}{F802}I don't mind paying a fortune for some{F801}Reds if I have to. I'd even sell my{F801}organs if need be...{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>{F812}Flashy woman\0{F87A,123}{F813,1,403503}I heard from an old flame in the{F801}Ashura-kai that everyone in Ikebukuro{F801}is going to be sent to Roppongi...{F801}{F802}In a couple days, I guess I'll be part{F801}of the "harvest" too.{F801}</source>
+    <target>{F812}Flashy woman\0{F87A,123}{F813,1,403503}I heard from an old flame in the{F801}Ashura-kai that everyone in Ikebukuro{F801}is going to be sent to Roppongi...{F801}{F802}In a couple days, I guess I'll be part{F801}of the "harvest" too.{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Sighing woman \0{F87A,62}{F813,1,403312}I just realized something... It doesn't{F801}matter if I spend everything I have{F801}on Reds, or if I get eaten alive...{F801}{F802}It's just me who'd suffer.{F801}{F802}But if I'm going to scream in despair,{F801}I'm going to scream while fighting.{F801}So I won't need the Reds anymore...{F801}</source>
+    <target>{F812}Sighing woman \0{F87A,62}{F813,1,403312}I just realized something... It doesn't{F801}matter if I spend everything I have{F801}on Reds, or if I get eaten alive...{F801}{F802}It's just me who'd suffer.{F801}{F802}But if I'm going to scream in despair,{F801}I'm going to scream while fighting.{F801}So I won't need the Reds anymore...{F801}</target>
+  </entry>
+  <entry id="304">
+    <source>{F812}Flashy woman\0{F87A,123}{F813,1,403503}I heard from an old flame in the{F801}Ashura-kai that everyone in Ikebukuro{F801}is going to be sent to Roppongi...{F801}{F802}But the people of Ikebukuro decided to{F801}fight back against the Ashura-kai.{F801}{F802}I'm glad we're saved, but honestly...{F801}How many more times do we have to{F801}suffer like this?{F801}</source>
+    <target>{F812}Flashy woman\0{F87A,123}{F813,1,403503}I heard from an old flame in the{F801}Ashura-kai that everyone in Ikebukuro{F801}is going to be sent to Roppongi...{F801}{F802}But the people of Ikebukuro decided to{F801}fight back against the Ashura-kai.{F801}{F802}I'm glad we're saved, but honestly...{F801}How many more times do we have to{F801}suffer like this?{F801}</target>
+  </entry>
+  <entry id="400">
+    <source>{F812}Sighing woman\0{F87A,62}{F813,1,403312}I just realized something... It doesn't{F801}matter if I spend everything I have{F801}on Reds, or if I get eaten alive...{F801}{F802}It's just me who'd suffer.{F801}{F802}But if I'm going to scream in despair,{F801}I'm going to scream while fighting.{F801}I don't need the Reds or the Ashura-kai.{F801}</source>
+    <target>{F812}Sighing woman\0{F87A,62}{F813,1,403312}I just realized something... It doesn't{F801}matter if I spend everything I have{F801}on Reds, or if I get eaten alive...{F801}{F802}It's just me who'd suffer.{F801}{F802}But if I'm going to scream in despair,{F801}I'm going to scream while fighting.{F801}I don't need the Reds or the Ashura-kai.{F801}</target>
+  </entry>
+</mbm>

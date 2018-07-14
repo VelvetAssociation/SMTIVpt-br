@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Male ghost\0{F87A,101}{F813,1,404541}If I'd known I'd end up like this, I'd{F801}have lived life only for myself...{F801}{F802}I should've stayed out of Shibuya. It{F801}wasn't like me to let my conscience{F801}drive me to this town...{F801}</source>
+    <target>{F812}Male ghost\0{F87A,101}{F813,1,404541}If I'd known I'd end up like this, I'd{F801}have lived life only for myself...{F801}{F802}I should've stayed out of Shibuya. It{F801}wasn't like me to let my conscience{F801}drive me to this town...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Male ghost\0{F87A,101}{F813,1,404541}I wonder if my life had any meaning...{F801}I was born, risked my life, and died in{F801}Tokyo for someone I don't even know.{F801}{F802}But if you'll let me brag for a second...{F801}I think I was kinda cool. Hahaha...!{F801}</source>
+    <target>{F812}Male ghost\0{F87A,101}{F813,1,404541}I wonder if my life had any meaning...{F801}I was born, risked my life, and died in{F801}Tokyo for someone I don't even know.{F801}{F802}But if you'll let me brag for a second...{F801}I think I was kinda cool. Hahaha...!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Female ghost\0{F87A,102}{F813,1,404621}Everyone did their part to fight... But{F801}in the end, they were exhausted.{F801}{F802}My only regret is that I couldn't fight{F801}until the very end...{F801}</source>
+    <target>{F812}Female ghost\0{F87A,102}{F813,1,404621}Everyone did their part to fight... But{F801}in the end, they were exhausted.{F801}{F802}My only regret is that I couldn't fight{F801}until the very end...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Female ghost\0{F87A,102}{F813,1,404602}The rest is up to you... It's in your{F801}hands now. Please carry our hopes{F801}forward...{F801}</source>
+    <target>{F812}Female ghost\0{F87A,102}{F813,1,404602}The rest is up to you... It's in your{F801}hands now. Please carry our hopes{F801}forward...{F801}</target>
+  </entry>
+</mbm>

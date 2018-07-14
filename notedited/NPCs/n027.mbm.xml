@@ -1,0 +1,106 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403002}You can summon demons? How'd you get{F801}your hands on that smartphone?{F801}{F802}I thought all the phones were thrown{F801}out except for the ones the Ashura-kai{F801}use...{F801}{F802}I didn't get mine until I'd been{F801}delivering Reds for a year.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403002}You can summon demons? How'd you get{F801}your hands on that smartphone?{F801}{F802}I thought all the phones were thrown{F801}out except for the ones the Ashura-kai{F801}use...{F801}{F802}I didn't get mine until I'd been{F801}delivering Reds for a year.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403002}I'm out of Reds to keep demons away.{F801}They're getting really hard to come by{F801}these days...{F801}{F802}Used to be easy if you went to Shibuya{F801}or someplace like that. They sold 'em{F801}right on the street.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403002}I'm out of Reds to keep demons away.{F801}They're getting really hard to come by{F801}these days...{F801}{F802}Used to be easy if you went to Shibuya{F801}or someplace like that. They sold 'em{F801}right on the street.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403021}The sky over Ichigaya glowed and then{F801}a horde of demons came out...{F801}{F802}This place is still okay. But Shinjuku's{F801}probably not so safe, since it's right{F801}next to Ichigaya...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403021}The sky over Ichigaya glowed and then{F801}a horde of demons came out...{F801}{F802}This place is still okay. But Shinjuku's{F801}probably not so safe, since it's right{F801}next to Ichigaya...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403002}Did you see the scoreboard at the{F801}Association? That overall ranking thing?{F801}{F802}What's the prize for becoming champion?{F801}Nothing, really. It won't feed you,{F801}I can tell you that much.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403002}Did you see the scoreboard at the{F801}Association? That overall ranking thing?{F801}{F802}What's the prize for becoming champion?{F801}Nothing, really. It won't feed you,{F801}I can tell you that much.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403021}Hey, champ! You know, I was actually in{F801}the tournament too...{F801}{F802}But I couldn't even crack the top ten.{F801}It's pretty hard to hack it with the{F801}best the Association has...{F801}{F802}That's how I know you're great, champ.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403021}Hey, champ! You know, I was actually in{F801}the tournament too...{F801}{F802}But I couldn't even crack the top ten.{F801}It's pretty hard to hack it with the{F801}best the Association has...{F801}{F802}That's how I know you're great, champ.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403021}Hey, champ! So you beat this Demon Lord{F801}guy, huh?{F801}{F802}That means if I want to challenge you,{F801}I should go through the Demon Lord{F801}first?{F801}{F802}But I'd have to summon this Demon Lord{F801}to fight him...{F801}{F802}Hmm. Maybe I don't want to be the{F801}champion after all...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403021}Hey, champ! So you beat this Demon Lord{F801}guy, huh?{F801}{F802}That means if I want to challenge you,{F801}I should go through the Demon Lord{F801}first?{F801}{F802}But I'd have to summon this Demon Lord{F801}to fight him...{F801}{F802}Hmm. Maybe I don't want to be the{F801}champion after all...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Garrulous man\0{F87A,120}{F813,1,403403}Strange... I ought to be getting{F801}some reminders for my protection{F801}money around this time of day...{F801}{F802}Ain't the Ashura-kai folks in the{F801}Sky Tower coming today?{F801}</source>
+    <target>{F812}Garrulous man\0{F87A,120}{F813,1,403403}Strange... I ought to be getting{F801}some reminders for my protection{F801}money around this time of day...{F801}{F802}Ain't the Ashura-kai folks in the{F801}Sky Tower coming today?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Garrulous man\0{F87A,120}{F813,1,403403}I saw a guy in some armor coming out{F801}of the Sky Tower.{F801}{F802}He looked like he was right out of this{F801}old fantasy flick about a ring...{F801}</source>
+    <target>{F812}Garrulous man\0{F87A,120}{F813,1,403403}I saw a guy in some armor coming out{F801}of the Sky Tower.{F801}{F802}He looked like he was right out of this{F801}old fantasy flick about a ring...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Garrulous man\0{F87A,120}{F813,1,403403}You know, I don't see those folks in{F801}armor coming out of the Sky Tower{F801}anymore...{F801}{F802}These days, what I see more often is{F801}demons coming from the Ichigaya area.{F801}</source>
+    <target>{F812}Garrulous man\0{F87A,120}{F813,1,403403}You know, I don't see those folks in{F801}armor coming out of the Sky Tower{F801}anymore...{F801}{F802}These days, what I see more often is{F801}demons coming from the Ichigaya area.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Garrulous man\0{F87A,120}{F813,1,403403}You know, I don't see those folks in{F801}armor coming out of the Sky Tower{F801}anymore...{F801}{F802}These days, what I see more often is{F801}demons coming from the Ichigaya area.{F801}</source>
+    <target>{F812}Garrulous man\0{F87A,120}{F813,1,403403}You know, I don't see those folks in{F801}armor coming out of the Sky Tower{F801}anymore...{F801}{F802}These days, what I see more often is{F801}demons coming from the Ichigaya area.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Garrulous man\0{F87A,120}{F813,1,403402}...Oh, {F843,0}!{F801}{F802}Our shining hope from the Sky Tower!{F801}You... You're like an angel...!{F801}{F802}An angel sent to us by God...!{F801}</source>
+    <target>{F812}Garrulous man\0{F87A,120}{F813,1,403402}...Oh, {F843,0}!{F801}{F802}Our shining hope from the Sky Tower!{F801}You... You're like an angel...!{F801}{F802}An angel sent to us by God...!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Garrulous man\0{F87A,120}{F813,1,403403}...Oh, {F843,0}!{F801}{F802}Our shining hope from the Sky Tower!{F801}You're like an angel sent by God...{F801}{F802}Though, uh, you earned the championship{F801}through your own hard work. I know that{F801}much, at least.{F801}</source>
+    <target>{F812}Garrulous man\0{F87A,120}{F813,1,403403}...Oh, {F843,0}!{F801}{F802}Our shining hope from the Sky Tower!{F801}You're like an angel sent by God...{F801}{F802}Though, uh, you earned the championship{F801}through your own hard work. I know that{F801}much, at least.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Garrulous man\0{F87A,120}{F813,1,403403}...Oh, {F843,0}!{F801}{F802}I saw someone in armor coming out of the{F801}Sky Tower again! He gave the people in{F801}town some bread as a little gift.{F801}{F802}It was real bread... I-I'd forgotten{F801}how soft real bread was...{F801}</source>
+    <target>{F812}Garrulous man\0{F87A,120}{F813,1,403403}...Oh, {F843,0}!{F801}{F802}I saw someone in armor coming out of the{F801}Sky Tower again! He gave the people in{F801}town some bread as a little gift.{F801}{F802}It was real bread... I-I'd forgotten{F801}how soft real bread was...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Tough woman\0{F87A,66}{F813,1,403323}...What!? "Unclean one"!? Are you{F801}talking to me, boy!?{F801}{F802}Of course, if you haven't bathed for{F801}days, like everyone else... I said like{F801}everyone else! Not just ME!{F801}</source>
+    <target>{F812}Tough woman\0{F87A,66}{F813,1,403323}...What!? "Unclean one"!? Are you{F801}talking to me, boy!?{F801}{F802}Of course, if you haven't bathed for{F801}days, like everyone else... I said like{F801}everyone else! Not just ME!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Tough woman\0{F87A,66}{F813,1,403323}...What!? "Unclean one"!? What's{F801}with you people!?{F801}{F802}That armored guy I just met called me{F801}the same thing. How dare he!? I just{F801}had a bath in Shinobazu Pond last night!{F801}</source>
+    <target>{F812}Tough woman\0{F87A,66}{F813,1,403323}...What!? "Unclean one"!? What's{F801}with you people!?{F801}{F802}That armored guy I just met called me{F801}the same thing. How dare he!? I just{F801}had a bath in Shinobazu Pond last night!{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Tough woman\0{F87A,66}{F813,1,403312}I'm sure Hunters will protect us from{F801}the demons...{F801}{F802}I know for sure... At least I think so...{F801}I hope...{F801}</source>
+    <target>{F812}Tough woman\0{F87A,66}{F813,1,403312}I'm sure Hunters will protect us from{F801}the demons...{F801}{F802}I know for sure... At least I think so...{F801}I hope...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Tough woman\0{F87A,66}{F813,1,403302}The Hunters are fighting the good fight.{F801}{F802}We can't fight alongside them, but we{F801}should keep our hopes up.{F801}</source>
+    <target>{F812}Tough woman\0{F87A,66}{F813,1,403302}The Hunters are fighting the good fight.{F801}{F802}We can't fight alongside them, but we{F801}should keep our hopes up.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Tough woman\0{F87A,66}{F813,1,403302}We thought we'd lost everything{F801}already...{F801}{F802}But all isn't lost just yet. Thanks to{F801}you, we realize that now...{F801}</source>
+    <target>{F812}Tough woman\0{F87A,66}{F813,1,403302}We thought we'd lost everything{F801}already...{F801}{F802}But all isn't lost just yet. Thanks to{F801}you, we realize that now...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Tough woman\0{F87A,66}{F813,1,403302}We thought we'd lost everything{F801}already...{F801}{F802}But starting now... We're going to take{F801}back what we've lost...!{F801}</source>
+    <target>{F812}Tough woman\0{F87A,66}{F813,1,403302}We thought we'd lost everything{F801}already...{F801}{F802}But starting now... We're going to take{F801}back what we've lost...!{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403002}I hear you can get Reds in Shibuya now.{F801}No one tells me the details, though...{F801}{F802}Still, good to know we can get our hands{F801}on them again if we need them.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403002}I hear you can get Reds in Shibuya now.{F801}No one tells me the details, though...{F801}{F802}Still, good to know we can get our hands{F801}on them again if we need them.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403002}Did you see the scoreboard at the{F801}Association? That overall ranking thing?{F801}{F802}It's way too late to sign up now. But{F801}who was that guy in third place...?{F801}{F843,0}, was it?{F801}{F802}He's made the top three by coming up{F801}all the way through the regular{F801}members. Gotta admire his spirit...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403002}Did you see the scoreboard at the{F801}Association? That overall ranking thing?{F801}{F802}It's way too late to sign up now. But{F801}who was that guy in third place...?{F801}{F843,0}, was it?{F801}{F802}He's made the top three by coming up{F801}all the way through the regular{F801}members. Gotta admire his spirit...{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Garrulous man\0{F87A,120}{F813,1,403403}I still see folks in armor coming out{F801}of Sky Tower sometimes.{F801}{F802}They look like they're right out of this{F801}old fantasy flick about this French{F801}saint girl...{F801}</source>
+    <target>{F812}Garrulous man\0{F87A,120}{F813,1,403403}I still see folks in armor coming out{F801}of Sky Tower sometimes.{F801}{F802}They look like they're right out of this{F801}old fantasy flick about this French{F801}saint girl...{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Garrulous man\0{F87A,120}{F813,1,403403}You know, I don't see those folks in{F801}armor coming out of the Sky Tower{F801}anymore...{F801}{F802}This is just a rumor, but you know{F801}that {F843,0} at the top of the{F801}scoreboard?{F801}{F802}He's from the Sky Tower too. Least{F801}that's what I hear...{F801}</source>
+    <target>{F812}Garrulous man\0{F87A,120}{F813,1,403403}You know, I don't see those folks in{F801}armor coming out of the Sky Tower{F801}anymore...{F801}{F802}This is just a rumor, but you know{F801}that {F843,0} at the top of the{F801}scoreboard?{F801}{F802}He's from the Sky Tower too. Least{F801}that's what I hear...{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Tough woman\0{F87A,66}{F813,1,403323}Did you hear some guy killed Peallaidh?{F801}{F802}Now we can get to Shinobazu Pond for{F801}a bath without having to worry about{F801}demons...{F801}</source>
+    <target>{F812}Tough woman\0{F87A,66}{F813,1,403323}Did you hear some guy killed Peallaidh?{F801}{F802}Now we can get to Shinobazu Pond for{F801}a bath without having to worry about{F801}demons...{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403002}I just overheard something... Seems{F801}like the Ring of Gaea is getting ready{F801}to make their move.{F801}{F802}They say Yuriko prophesied that the{F801}child of carnage shall descend from{F801}the Firmament...{F801}{F802}I guess Tokyo will be in hot water{F801}sometime soon, and they're using it to{F801}their advantage to launch an attack.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403002}I just overheard something... Seems{F801}like the Ring of Gaea is getting ready{F801}to make their move.{F801}{F802}They say Yuriko prophesied that the{F801}child of carnage shall descend from{F801}the Firmament...{F801}{F802}I guess Tokyo will be in hot water{F801}sometime soon, and they're using it to{F801}their advantage to launch an attack.{F801}</target>
+  </entry>
+  <entry id="301">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403002}I just overheard something... Seems{F801}like the Ring of Gaea is getting ready{F801}to make their move.{F801}{F802}They say Yuriko prophesied that the{F801}child of carnage shall descend from{F801}the Firmament...{F801}{F802}I guess Tokyo will be in hot water{F801}sometime soon. Ichigaya's gonna be one{F801}big battlefield...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403002}I just overheard something... Seems{F801}like the Ring of Gaea is getting ready{F801}to make their move.{F801}{F802}They say Yuriko prophesied that the{F801}child of carnage shall descend from{F801}the Firmament...{F801}{F802}I guess Tokyo will be in hot water{F801}sometime soon. Ichigaya's gonna be one{F801}big battlefield...{F801}</target>
+  </entry>
+</mbm>

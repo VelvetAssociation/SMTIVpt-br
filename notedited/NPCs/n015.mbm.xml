@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Female ghost\0{F87A,102}{F813,1,404612}What? You want me to rest... in peace?{F801}Y-You want me to disappear!?{F801}{F802}C'mon, gimme a break! This is my place!{F801}I'm not going anywhere, even if it means{F801}my soul!{F801}</source>
+    <target>{F812}Female ghost\0{F87A,102}{F813,1,404612}What? You want me to rest... in peace?{F801}Y-You want me to disappear!?{F801}{F802}C'mon, gimme a break! This is my place!{F801}I'm not going anywhere, even if it means{F801}my soul!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Female ghost\0{F87A,102}{F813,1,404613}You know, all the other guys around are{F801}disappearing now. Is this what is meant{F801}by "rest in peace"? Are they in heaven?{F801}{F802}This is happening because you killed{F801}Ixtab, isn't it!? H-How dare you!{F801}</source>
+    <target>{F812}Female ghost\0{F87A,102}{F813,1,404613}You know, all the other guys around are{F801}disappearing now. Is this what is meant{F801}by "rest in peace"? Are they in heaven?{F801}{F802}This is happening because you killed{F801}Ixtab, isn't it!? H-How dare you!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Male ghost\0{F87A,101}{F813,1,404502}What brought you here, living souls...?{F801}If this was a prestigious club...{F801}{F802}You would be shown the door for your{F801}attire. Our dress code will have you{F801}out of here for good... heheheh.{F801}</source>
+    <target>{F812}Male ghost\0{F87A,101}{F813,1,404502}What brought you here, living souls...?{F801}If this was a prestigious club...{F801}{F802}You would be shown the door for your{F801}attire. Our dress code will have you{F801}out of here for good... heheheh.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Male ghost\0{F87A,101}{F813,1,404512}How can a soul trapped in flesh deny{F801}us...?{F801}{F802}Fool... You are an irredeemable fool...{F801}</source>
+    <target>{F812}Male ghost\0{F87A,101}{F813,1,404512}How can a soul trapped in flesh deny{F801}us...?{F801}{F802}Fool... You are an irredeemable fool...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,114 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403403}What!? You can't buy Reds from the{F801}Ashura-kai anymore? Then I'm through{F801}supporting those dickbags!{F801}{F802}So, what, should I just go to Ginza?{F801}I bet the Ashura-kai can't boss us{F801}around there.{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403403}What!? You can't buy Reds from the{F801}Ashura-kai anymore? Then I'm through{F801}supporting those dickbags!{F801}{F802}So, what, should I just go to Ginza?{F801}I bet the Ashura-kai can't boss us{F801}around there.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403403}I hear the Ashura-kai crushed the{F801}Ring of Gaea.{F801}{F802}So I guess that means Tokyo's now{F801}officially under Ashura-kai control.{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403403}I hear the Ashura-kai crushed the{F801}Ring of Gaea.{F801}{F802}So I guess that means Tokyo's now{F801}officially under Ashura-kai control.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403421}I saw a girl walking towards Ichigaya.{F801}She was a cutie, carrying a sword...{F801}{F802}Now I know Tokyo's in a mess, but boys{F801}will be boys, right? So I called out{F801}to her.{F801}{F802}She told me she was going somewhere to{F801}meet someone she's been expecting. Guess{F801}I got the cold shoulder...{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403421}I saw a girl walking towards Ichigaya.{F801}She was a cutie, carrying a sword...{F801}{F802}Now I know Tokyo's in a mess, but boys{F801}will be boys, right? So I called out{F801}to her.{F801}{F802}She told me she was going somewhere to{F801}meet someone she's been expecting. Guess{F801}I got the cold shoulder...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403402}That Samurai from the world above...{F801}{F843,0}. The one who's ranked in{F801}the top 3.{F801}{F802}He's you, ain't he? Man, you rock!{F801}I'm your number one fan!{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403402}That Samurai from the world above...{F801}{F843,0}. The one who's ranked in{F801}the top 3.{F801}{F802}He's you, ain't he? Man, you rock!{F801}I'm your number one fan!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403402}Demons are gonna eat us all anyway,{F801}right? Well, in that case...{F801}{F802}I wanna die in Shinjuku where that cute{F801}girl in the school uniform hangs out...{F801}You think she really is a schoolgirl?{F801}{F802}Actually, though, these days I'd wanna{F801}meet the champion more than her...{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403402}Demons are gonna eat us all anyway,{F801}right? Well, in that case...{F801}{F802}I wanna die in Shinjuku where that cute{F801}girl in the school uniform hangs out...{F801}You think she really is a schoolgirl?{F801}{F802}Actually, though, these days I'd wanna{F801}meet the champion more than her...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403441}You rock, champion! Way to stop those{F801}angels in their tracks!{F801}{F802}I'm sure the demons will be no sweat{F801}for you either, right? We're all{F801}counting on you, champion!{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403441}You rock, champion! Way to stop those{F801}angels in their tracks!{F801}{F802}I'm sure the demons will be no sweat{F801}for you either, right? We're all{F801}counting on you, champion!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403441}So I heard this rumor... apparently you{F801}can see the sun rise in Tokyo?{F801}{F802}I thought I'd never see that happen{F801}again... and speaking of things I{F801}thought I'd never see again...{F801}{F802}That cute girl in the school uniform...{F801}Do you think she's the real deal?{F801}I wonder if she's still in Shinjuku...{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403441}So I heard this rumor... apparently you{F801}can see the sun rise in Tokyo?{F801}{F802}I thought I'd never see that happen{F801}again... and speaking of things I{F801}thought I'd never see again...{F801}{F802}That cute girl in the school uniform...{F801}Do you think she's the real deal?{F801}I wonder if she's still in Shinjuku...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Worried woman\0{F87A,62}{F813,1,403312}H-Hey, why did the Ashura-kai stop{F801}selling Reds?{F801}{F802}Without those, I can't even go outside{F801}for a stroll...{F801}</source>
+    <target>{F812}Worried woman\0{F87A,62}{F813,1,403312}H-Hey, why did the Ashura-kai stop{F801}selling Reds?{F801}{F802}Without those, I can't even go outside{F801}for a stroll...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Worried woman\0{F87A,62}{F813,1,403312}Ashura-kai is planning to raise the{F801}price of Reds! What the hell are they{F801}thinking!?{F801}{F802}There still are so many demons in Tokyo!{F801}{F802}W-Without the Reds, I can't take so{F801}much as one step outside...!{F801}</source>
+    <target>{F812}Worried woman\0{F87A,62}{F813,1,403312}Ashura-kai is planning to raise the{F801}price of Reds! What the hell are they{F801}thinking!?{F801}{F802}There still are so many demons in Tokyo!{F801}{F802}W-Without the Reds, I can't take so{F801}much as one step outside...!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Worried woman\0{F87A,62}{F813,1,403302}The Ashura-kai plans to raise the price{F801}of Reds because they've hit a snag{F801}getting the ingredients...{F801}{F802}It's making me think about counting{F801}on that {F843,0} guy as a last{F801}resort.{F801}{F802}If he can kill all the demons, we won't{F801}have to spend a fortune on Reds, right?{F801}</source>
+    <target>{F812}Worried woman\0{F87A,62}{F813,1,403302}The Ashura-kai plans to raise the price{F801}of Reds because they've hit a snag{F801}getting the ingredients...{F801}{F802}It's making me think about counting{F801}on that {F843,0} guy as a last{F801}resort.{F801}{F802}If he can kill all the demons, we won't{F801}have to spend a fortune on Reds, right?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Worried woman\0{F87A,62}{F813,1,403303}The Ashura-kai is going to discontinue{F801}the Reds!? What the hell are they{F801}thinking...?{F801}{F802}W-Without the Reds, I can't take so{F801}much as one step outside...! Or...{F801}{F802}Maybe we don't need Reds in Tokyo{F801}anymore...?{F801}</source>
+    <target>{F812}Worried woman\0{F87A,62}{F813,1,403303}The Ashura-kai is going to discontinue{F801}the Reds!? What the hell are they{F801}thinking...?{F801}{F802}W-Without the Reds, I can't take so{F801}much as one step outside...! Or...{F801}{F802}Maybe we don't need Reds in Tokyo{F801}anymore...?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403042}I'm sure the Ashura-kai WANTS to keep{F801}selling Reds. But that demon's making{F801}it impossible.{F801}{F802}The Ashura-kai hired a bunch of tough{F801}guys to take him out, but they all got{F801}snuffed in seconds.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403042}I'm sure the Ashura-kai WANTS to keep{F801}selling Reds. But that demon's making{F801}it impossible.{F801}{F802}The Ashura-kai hired a bunch of tough{F801}guys to take him out, but they all got{F801}snuffed in seconds.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403021}I know it's too late now... but if I'd{F801}seen this coming, I'd have trained more{F801}instead of relying on the Reds.{F801}{F802}Koga Saburo and Tenkai tried to stop{F801}us from using them...{F801}{F802}Maybe they saw that it was making us{F801}weaker as a species, and trying to{F801}warn us in their own way.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403021}I know it's too late now... but if I'd{F801}seen this coming, I'd have trained more{F801}instead of relying on the Reds.{F801}{F802}Koga Saburo and Tenkai tried to stop{F801}us from using them...{F801}{F802}Maybe they saw that it was making us{F801}weaker as a species, and trying to{F801}warn us in their own way.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}ハñターの男\0{F87A,67}{F813,1,403002}[総合/そうごう]áñキñグが[盛/も]り[上/あ]がれば{F801}この[東京/とうきょう]に[活気/かっき]が[戻/もど]ってくるはず…{F801}{F802}[商会/しょうかい]は そう[考/かんが]えたんだろう?{F801}あいつらも[粋/いき]な[所/ところ]があるじゃないか{F801}</source>
+    <target>{F812}ハñターの男\0{F87A,67}{F813,1,403002}[総合/そうごう]áñキñグが[盛/も]り[上/あ]がれば{F801}この[東京/とうきょう]に[活気/かっき]が[戻/もど]ってくるはず…{F801}{F802}[商会/しょうかい]は そう[考/かんが]えたんだろう?{F801}あいつらも[粋/いき]な[所/ところ]があるじゃないか{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403002}I became a Hunter to protect people...{F801}I shouldn't have done nothing...{F801}{F802}Now that I'm racing everyone to the{F801}top of the scoreboard, I'm remembering{F801}how it used to feel...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403002}I became a Hunter to protect people...{F801}I shouldn't have done nothing...{F801}{F802}Now that I'm racing everyone to the{F801}top of the scoreboard, I'm remembering{F801}how it used to feel...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403042}Demons are definitely a major threat{F801}to us. But they taught us something,{F801}too...{F801}{F802}The ones like Koga Saburo and Tenkai{F801}warned us not to use Reds, not only{F801}because we'd become demons...{F801}{F802}But also because relying on them too{F801}much would make us weak as a species.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403042}Demons are definitely a major threat{F801}to us. But they taught us something,{F801}too...{F801}{F802}The ones like Koga Saburo and Tenkai{F801}warned us not to use Reds, not only{F801}because we'd become demons...{F801}{F802}But also because relying on them too{F801}much would make us weak as a species.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403403}Well, I got my hands on some Reds...{F801}Should I start supporting the Ashura-kai{F801}again?{F801}{F802}I thought about going down to Ginza...{F801}But that can wait for now.{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403403}Well, I got my hands on some Reds...{F801}Should I start supporting the Ashura-kai{F801}again?{F801}{F802}I thought about going down to Ginza...{F801}But that can wait for now.{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403421}Did the Ring of Gaea seriously attack{F801}the Ashura-kai!?{F801}{F802}Boy, this is the big one, ain't it!?{F801}No way I'm missing out!{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403421}Did the Ring of Gaea seriously attack{F801}the Ashura-kai!?{F801}{F802}Boy, this is the big one, ain't it!?{F801}No way I'm missing out!{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403421}Demons are gonna eat us all anyway,{F801}right? Well, in that case...{F801}{F802}I wanna die in Shinjuku where that cute{F801}girl in the school uniform hangs out...{F801}You think she really is a schoolgirl?{F801}{F802}Hang on, though... That's strange.{F801}For some reason, I can't remember{F801}her face...{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403421}Demons are gonna eat us all anyway,{F801}right? Well, in that case...{F801}{F802}I wanna die in Shinjuku where that cute{F801}girl in the school uniform hangs out...{F801}You think she really is a schoolgirl?{F801}{F802}Hang on, though... That's strange.{F801}For some reason, I can't remember{F801}her face...{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Worried woman\0{F87A,62}{F813,1,403312}H-Hey, the Ashura-kai started selling{F801}Reds again.{F801}{F802}They told me their old delivery route{F801}got attacked by Hunters and they needed{F801}to set up a new one.{F801}{F802}But hey, now I don't have to worry about{F801}demon attacks!{F801}</source>
+    <target>{F812}Worried woman\0{F87A,62}{F813,1,403312}H-Hey, the Ashura-kai started selling{F801}Reds again.{F801}{F802}They told me their old delivery route{F801}got attacked by Hunters and they needed{F801}to set up a new one.{F801}{F802}But hey, now I don't have to worry about{F801}demon attacks!{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Worried woman\0{F87A,62}{F813,1,403312}How can the Ashura-kai even think about{F801}raising the price of Reds at a time{F801}like this!?{F801}{F802}I hear some demon moved in and they're{F801}having a lot of trouble getting the{F801}ingredients they need now...{F801}{F802}Should I count on that {F843,0}{F801}guy as a last resort?{F801}{F802}If he can kill all the demons, we won't{F801}have to spend a fortune on Reds, right?{F801}</source>
+    <target>{F812}Worried woman\0{F87A,62}{F813,1,403312}How can the Ashura-kai even think about{F801}raising the price of Reds at a time{F801}like this!?{F801}{F802}I hear some demon moved in and they're{F801}having a lot of trouble getting the{F801}ingredients they need now...{F801}{F802}Should I count on that {F843,0}{F801}guy as a last resort?{F801}{F802}If he can kill all the demons, we won't{F801}have to spend a fortune on Reds, right?{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403042}What was his name...? Koga Saburo,{F801}was it? He's no ordinary demon who{F801}just targets random humans...{F801}{F802}He was singling out anyone who tried{F801}to get Reds. I'm not sure, but...{F801}{F802}Maybe he knew that eating Reds turns{F801}humans into demons, so he was trying{F801}to protect us?{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403042}What was his name...? Koga Saburo,{F801}was it? He's no ordinary demon who{F801}just targets random humans...{F801}{F802}He was singling out anyone who tried{F801}to get Reds. I'm not sure, but...{F801}{F802}Maybe he knew that eating Reds turns{F801}humans into demons, so he was trying{F801}to protect us?{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403403}Hey, have you seen a cute girl in a{F801}school uniform? Do you think she's{F801}the real deal!?{F801}{F802}Schoolgirls were commonplace in the{F801}old Tokyo... but they're practically{F801}extinct now.{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403403}Hey, have you seen a cute girl in a{F801}school uniform? Do you think she's{F801}the real deal!?{F801}{F802}Schoolgirls were commonplace in the{F801}old Tokyo... but they're practically{F801}extinct now.{F801}</target>
+  </entry>
+  <entry id="207">
+    <source>{F812}Worried woman\0{F87A,62}{F813,1,403312}H-Hey, I heard the Ashura-kai would give{F801}us a discount on Reds...{F801}{F802}They said they got a ton of ingredients{F801}for them in Ikebukuro. I heard that{F801}directly from them.{F801}{F802}I wonder what goes into these things,{F801}anyway... Oh well. Point is, I don't{F801}have to worry about demon attacks now!{F801}</source>
+    <target>{F812}Worried woman\0{F87A,62}{F813,1,403312}H-Hey, I heard the Ashura-kai would give{F801}us a discount on Reds...{F801}{F802}They said they got a ton of ingredients{F801}for them in Ikebukuro. I heard that{F801}directly from them.{F801}{F802}I wonder what goes into these things,{F801}anyway... Oh well. Point is, I don't{F801}have to worry about demon attacks now!{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403042}What was his name...? Tenkai, was it?{F801}He's no ordinary demon who just targets{F801}random humans...{F801}{F802}He was singling out anyone who tried{F801}to get Reds. I'm not sure, but...{F801}{F802}Maybe he knew that eating Reds turns{F801}humans into demons, so he was trying{F801}to protect us?{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403042}What was his name...? Tenkai, was it?{F801}He's no ordinary demon who just targets{F801}random humans...{F801}{F802}He was singling out anyone who tried{F801}to get Reds. I'm not sure, but...{F801}{F802}Maybe he knew that eating Reds turns{F801}humans into demons, so he was trying{F801}to protect us?{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Easygoing man\0{F87A,120}{F813,1,403403}I heard Yuriko declared war against{F801}Tayama. Is that right?{F801}{F802}Well, they can have fun with that.{F801}As long as they don't hurt any{F801}innocents, I mean.{F801}</source>
+    <target>{F812}Easygoing man\0{F87A,120}{F813,1,403403}I heard Yuriko declared war against{F801}Tayama. Is that right?{F801}{F802}Well, they can have fun with that.{F801}As long as they don't hurt any{F801}innocents, I mean.{F801}</target>
+  </entry>
+  <entry id="307">
+    <source>{F812}Worried woman\0{F87A,62}{F813,1,403312}Whatever happened to the discount on{F801}Reds those Ashura-kai people promised...?{F801}{F802}They told me they found a big supply{F801}of ingredients for them in Ikebukuro...{F801}{F802}Th-This is a big problem! I can't even{F801}go outside without Reds!{F801}</source>
+    <target>{F812}Worried woman\0{F87A,62}{F813,1,403312}Whatever happened to the discount on{F801}Reds those Ashura-kai people promised...?{F801}{F802}They told me they found a big supply{F801}of ingredients for them in Ikebukuro...{F801}{F802}Th-This is a big problem! I can't even{F801}go outside without Reds!{F801}</target>
+  </entry>
+  <entry id="311">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403042}Both Koga Saburo and Tenkai were trying{F801}to protect us from the Reds...{F801}{F802}I'm sure when the Ashura-kai and Ring{F801}of Gaea clash, their demons will join{F801}in the fight...{F801}{F802}Come to think of it, demons can be{F801}powerful allies of mankind if you use{F801}them right...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403042}Both Koga Saburo and Tenkai were trying{F801}to protect us from the Reds...{F801}{F802}I'm sure when the Ashura-kai and Ring{F801}of Gaea clash, their demons will join{F801}in the fight...{F801}{F802}Come to think of it, demons can be{F801}powerful allies of mankind if you use{F801}them right...{F801}</target>
+  </entry>
+</mbm>

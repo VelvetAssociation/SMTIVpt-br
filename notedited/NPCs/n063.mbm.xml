@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,1,404303}I'm surprised you managed to come{F801}here. What was Tenkai doing...?{F801}{F802}Well, that's fine. Shibuya's back in{F801}business, so we got a huge additional{F801}order from them.{F801}{F802}You must be the new help we were{F801}told about. Hurry up and get to the{F801}farm.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,1,404303}I'm surprised you managed to come{F801}here. What was Tenkai doing...?{F801}{F802}Well, that's fine. Shibuya's back in{F801}business, so we got a huge additional{F801}order from them.{F801}{F802}You must be the new help we were{F801}told about. Hurry up and get to the{F801}farm.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,1,404303}We've been getting so many orders from{F801}Shibuya that we can't even take time{F801}to sleep.{F801}{F802}I don't know what's going on out{F801}there, but it looks like the Red{F801}Bubble's blowing up again!{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,1,404303}We've been getting so many orders from{F801}Shibuya that we can't even take time{F801}to sleep.{F801}{F802}I don't know what's going on out{F801}there, but it looks like the Red{F801}Bubble's blowing up again!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,1,404303}I get the feeling that we're going{F801}to be getting fewer Red orders from{F801}Shibuya.{F801}{F802}I don't know what's going on out{F801}there, but has the new Red Bubble{F801}burst already? ...Nah, can't be.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,1,404303}I get the feeling that we're going{F801}to be getting fewer Red orders from{F801}Shibuya.{F801}{F802}I don't know what's going on out{F801}there, but has the new Red Bubble{F801}burst already? ...Nah, can't be.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,1,404303}Hey there, new guy. Looks like you{F801}got Mastema to take the barrier down.{F801}{F802}We're so busy right now that we need{F801}all the help we can get.{F801}{F802}Now stop standing around and hurry{F801}up to the farm.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,1,404303}Hey there, new guy. Looks like you{F801}got Mastema to take the barrier down.{F801}{F802}We're so busy right now that we need{F801}all the help we can get.{F801}{F802}Now stop standing around and hurry{F801}up to the farm.{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,1,404303}Mr. Tayama's one cautious man.{F801}He's going to increase Red production{F801}just in case anything happens.{F801}{F802}But if that bitch Yuriko were to{F801}take control of Yamato and push{F801}that button...{F801}{F802}Things will get so bad that I don't{F801}think extra Reds will be enough...{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,1,404303}Mr. Tayama's one cautious man.{F801}He's going to increase Red production{F801}just in case anything happens.{F801}{F802}But if that bitch Yuriko were to{F801}take control of Yamato and push{F801}that button...{F801}{F802}Things will get so bad that I don't{F801}think extra Reds will be enough...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F813,1,400203}Demons were no mere fairy-stories{F801}after all...{F801}{F802}The aching wound on my shoulder, the{F801}taste of blood on my tongue... These are{F801}too real for any fairy-story.{F801}{F802}If they come at me with the intent to{F801}kill, then I'll respond in kind.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,400203}Demons were no mere fairy-stories{F801}after all...{F801}{F802}The aching wound on my shoulder, the{F801}taste of blood on my tongue... These are{F801}too real for any fairy-story.{F801}{F802}If they come at me with the intent to{F801}kill, then I'll respond in kind.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Navarre\0{F87A,6}{F813,1,400401}...Gwah!?{F801}{F802}O-Oh, it's you... I thought you to be{F801}a demon. Don't startle me so...{F801}{F802}I've never carried a blade any heavier{F801}than a knife before.{F801}{F802}If Mother were to see me dashing about{F801}with such a weapon in hand, I think{F801}that she would faint...{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F813,1,400401}...Gwah!?{F801}{F802}O-Oh, it's you... I thought you to be{F801}a demon. Don't startle me so...{F801}{F802}I've never carried a blade any heavier{F801}than a knife before.{F801}{F802}If Mother were to see me dashing about{F801}with such a weapon in hand, I think{F801}that she would faint...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}Hoy there. I've heard the rumors...{F801}They say you acquitted yourself well{F801}in the training exercises.{F801}{F802}But we have a saying: one's reach should{F801}not exceed one's grasp. Strive for too{F801}much, and you could lose all.{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}Hoy there. I've heard the rumors...{F801}They say you acquitted yourself well{F801}in the training exercises.{F801}{F802}But we have a saying: one's reach should{F801}not exceed one's grasp. Strive for too{F801}much, and you could lose all.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404303}Hasn't it been one problem after the next{F801}this year? Ever since you new prentices{F801}joined our ranks...{F801}{F802}Could it be that in a past life, as{F801}some would have it, you did something{F801}blasphemous? Ah, but I jest.{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404303}Hasn't it been one problem after the next{F801}this year? Ever since you new prentices{F801}joined our ranks...{F801}{F802}Could it be that in a past life, as{F801}some would have it, you did something{F801}blasphemous? Ah, but I jest.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Grumpy Samurai\0{F87A,114}...Yes, but are we not all members of{F801}the same order? I can see no need to be{F801}unnecessarily modest.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,114}...Yes, but are we not all members of{F801}the same order? I can see no need to be{F801}unnecessarily modest.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Grumpy Samurai\0{F87A,114}{F813,1,403203}The Samurai who are not yet convinced{F801}have gone to petition Abbot Hugo.{F801}{F802}Thanks to our Commander's intervention,{F801}nothing went seriously wrong...{F801}{F802}Remember that this is Abbot Hugo we're{F801}speaking of. The dissenters could have{F801}found themselves on the block.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,114}{F813,1,403203}The Samurai who are not yet convinced{F801}have gone to petition Abbot Hugo.{F801}{F802}Thanks to our Commander's intervention,{F801}nothing went seriously wrong...{F801}{F802}Remember that this is Abbot Hugo we're{F801}speaking of. The dissenters could have{F801}found themselves on the block.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Angel\0{F87A,-74}{F813,1,483002}We have created a false space within the{F801}boundary of the Unclean Ones' influence.{F801}{F802}I am nearly certain that no demon will{F801}be capable of passing through it to{F801}reach us here...{F801}{F802}Not a single one of the Filth shall be{F801}allowed to taint the kingdom that the{F801}Lord has made.{F801}</source>
+    <target>{F812}Angel\0{F87A,-74}{F813,1,483002}We have created a false space within the{F801}boundary of the Unclean Ones' influence.{F801}{F802}I am nearly certain that no demon will{F801}be capable of passing through it to{F801}reach us here...{F801}{F802}Not a single one of the Filth shall be{F801}allowed to taint the kingdom that the{F801}Lord has made.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Walter\0{F87A,4}{F813,1,400202}"Compete against each other"? This is{F801}no village wrestling contest, I hope{F801}he realizes.{F801}{F802}For us to be in such grave peril, while{F801}that Hope... He's taken leave of his{F801}senses.{F801}{F802}Small wonder he commands the Samurai,{F801}eh...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,400202}"Compete against each other"? This is{F801}no village wrestling contest, I hope{F801}he realizes.{F801}{F802}For us to be in such grave peril, while{F801}that Hope... He's taken leave of his{F801}senses.{F801}{F802}Small wonder he commands the Samurai,{F801}eh...?{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Navarre\0{F87A,6}{F813,1,400404}During the first quest, I landed a{F801}critical blow when I accidentally{F801}tripped...{F801}{F802}The next quest was simpler, since as you{F801}might expect, money is no object to me.{F801}'Twas actually easier than the first.{F801}{F802}But the final challenge all depends on{F801}one's strength, and that's a field I'm{F801}particularly lacking in...{F801}{F802}S-Someone else may have first place,{F801}I care not whom. Merely let this debacle{F801}of a training exercise be done with!{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F813,1,400404}During the first quest, I landed a{F801}critical blow when I accidentally{F801}tripped...{F801}{F802}The next quest was simpler, since as you{F801}might expect, money is no object to me.{F801}'Twas actually easier than the first.{F801}{F802}But the final challenge all depends on{F801}one's strength, and that's a field I'm{F801}particularly lacking in...{F801}{F802}S-Someone else may have first place,{F801}I care not whom. Merely let this debacle{F801}of a training exercise be done with!{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}You look unwell... Is there something{F801}troubling you?{F801}{F802}Don't tell me... has a fellow of ours{F801}gone missing? No, 'twas merely baseless{F801}suspicion. Pay me no mind.{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}You look unwell... Is there something{F801}troubling you?{F801}{F802}Don't tell me... has a fellow of ours{F801}gone missing? No, 'twas merely baseless{F801}suspicion. Pay me no mind.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}気難しいサムáÍ\0{F87A,114}{F813,1,403242}納得できないサムáÍ衆の面々が{F801}Úーゴ殿の元へ抗議に向かったそうだ{F801}{F802}お頭の仲介で{F801}大事にならずに済んだけど…{F801}{F802}…下手したらÚーゴ殿のことだ{F801}抗議した連中 処刑されたかもしれんぞ…{F801}</source>
+    <target>{F812}気難しいサムáÍ\0{F87A,114}{F813,1,403242}納得できないサムáÍ衆の面々が{F801}Úーゴ殿の元へ抗議に向かったそうだ{F801}{F802}お頭の仲介で{F801}大事にならずに済んだけど…{F801}{F802}…下手したらÚーゴ殿のことだ{F801}抗議した連中 処刑されたかもしれんぞ…{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Walter\0{F87A,4}{F813,1,400204}Hoy, brother.{F801}{F802}I don't seriously intend to do Navarre{F801}any harm, so be at ease on that score.{F801}{F802}But... ever since I was young, my lowly{F801}birth, my inexperience, my weakness has{F801}been used as a cudgel against me.{F801}{F802}I seethe inside to hear people say such{F801}things while hiding behind their sad{F801}excuses...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,400204}Hoy, brother.{F801}{F802}I don't seriously intend to do Navarre{F801}any harm, so be at ease on that score.{F801}{F802}But... ever since I was young, my lowly{F801}birth, my inexperience, my weakness has{F801}been used as a cudgel against me.{F801}{F802}I seethe inside to hear people say such{F801}things while hiding behind their sad{F801}excuses...{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}ナバーú\0{F87A,6}{F813,1,400402}[先/さき]の[実地/じっち][訓練/くんれん]では[不覚/ふかく]を[取/と]ったが{F801}[今度/こんど]こそ[私/わたし]が[勝/か]つ…ッ{F801}{F802}[君/きみ]もこんな[所/ところ]で[油/あぶら]を[売/う]ってないで{F801}クÉストに[励/はげ]むべきじゃないのかね?{F801}</source>
+    <target>{F812}ナバーú\0{F87A,6}{F813,1,400402}[先/さき]の[実地/じっち][訓練/くんれん]では[不覚/ふかく]を[取/と]ったが{F801}[今度/こんど]こそ[私/わたし]が[勝/か]つ…ッ{F801}{F802}[君/きみ]もこんな[所/ところ]で[油/あぶら]を[売/う]ってないで{F801}クÉストに[励/はげ]むべきじゃないのかね?{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404321}What will I do with that Navarre...?{F801}At the very least, he must be made to{F801}pay the request's reward.{F801}{F802}...Oh, it's nothing. I was merely{F801}muttering to myself. I am glad, though,{F801}to hear that Navarre is safe.{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404321}What will I do with that Navarre...?{F801}At the very least, he must be made to{F801}pay the request's reward.{F801}{F802}...Oh, it's nothing. I was merely{F801}muttering to myself. I am glad, though,{F801}to hear that Navarre is safe.{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>{F812}Grumpy Samurai\0{F87A,114}{F813,1,403241}...What is it, prentice? 'Tis not my{F801}role to give guidance to fledgling{F801}Samurai.{F801}{F802}But since you've come this far, I am{F801}willing to share a few truths, if you{F801}are of a mind to hear them.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,114}{F813,1,403241}...What is it, prentice? 'Tis not my{F801}role to give guidance to fledgling{F801}Samurai.{F801}{F802}But since you've come this far, I am{F801}willing to share a few truths, if you{F801}are of a mind to hear them.{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Walter\0{F87A,4}{F813,1,400201}The essence of battling demons is thus:{F801}{F802}You must strike at your enemy's weakness,{F801}while taking care that they do not strike{F801}your own.{F801}{F802}And as for your fellow... er, I mean,{F801}your demons, you need a number of them{F801}to face the enemy...{F801}{F802}Now that I think on it, it's something{F801}I've done since I was a boy.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,400201}The essence of battling demons is thus:{F801}{F802}You must strike at your enemy's weakness,{F801}while taking care that they do not strike{F801}your own.{F801}{F802}And as for your fellow... er, I mean,{F801}your demons, you need a number of them{F801}to face the enemy...{F801}{F802}Now that I think on it, it's something{F801}I've done since I was a boy.{F801}</target>
+  </entry>
+  <entry id="304">
+    <source>Ask him to tell you{F801}Decline his offer{F801}</source>
+    <target>Ask him to tell you{F801}Decline his offer{F801}</target>
+  </entry>
+  <entry id="400">
+    <source>{F812}Navarre\0{F87A,6}{F813,1,400454}Hello, Casularies. You must be ahead of{F801}the game if you have time to dilly-{F801}dally so.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F813,1,400454}Hello, Casularies. You must be ahead of{F801}the game if you have time to dilly-{F801}dally so.{F801}</target>
+  </entry>
+  <entry id="404">
+    <source>{F812}Grumpy Samurai\0{F87A,114}Mystic relics can be excavated at the{F801}same location many times, endlessly.{F801}{F802}For reasons unknown, the same relic may{F801}appear again after some time has passed.{F801}They are mystic indeed...{F801}{F802}Once you have excavated a relic, you may{F801}wish to return to the site later and try{F801}your hand at it again.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,114}Mystic relics can be excavated at the{F801}same location many times, endlessly.{F801}{F802}For reasons unknown, the same relic may{F801}appear again after some time has passed.{F801}They are mystic indeed...{F801}{F802}Once you have excavated a relic, you may{F801}wish to return to the site later and try{F801}your hand at it again.{F801}</target>
+  </entry>
+  <entry id="500">
+    <source>{F812}Navarre\0{F87A,6}I, meanwhile, have already completed{F801}the first Challenge Quest.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}I, meanwhile, have already completed{F801}the first Challenge Quest.{F801}</target>
+  </entry>
+  <entry id="504">
+    <source>{F812}Grumpy Samurai\0{F87A,114}...Of course. I'm sorry to disturb you{F801}during your training.{F801}</source>
+    <target>{F812}Grumpy Samurai\0{F87A,114}...Of course. I'm sorry to disturb you{F801}during your training.{F801}</target>
+  </entry>
+  <entry id="600">
+    <source>{F812}Navarre\0{F87A,6}I, for my part, have already completed{F801}two of the Challenge Quests.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}I, for my part, have already completed{F801}two of the Challenge Quests.{F801}</target>
+  </entry>
+  <entry id="700">
+    <source>{F812}Navarre\0{F87A,6}I'm presently at work on the third{F801}Challenge Quest... and very close to{F801}completing it, I'll have you know.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}I'm presently at work on the third{F801}Challenge Quest... and very close to{F801}completing it, I'll have you know.{F801}</target>
+  </entry>
+  <entry id="800">
+    <source>{F812}Navarre\0{F87A,6}I may very well be the victor in our{F801}little contest.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}I may very well be the victor in our{F801}little contest.{F801}</target>
+  </entry>
+</mbm>

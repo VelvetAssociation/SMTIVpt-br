@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404303}Even the Eastern Kingdom of Mikado is{F801}becoming infested with demons...{F801}{F802}'Tis better to devote oneself to{F801}finding mystic relics in Tokyo, no?{F801}{F802}Particularly in light of the side{F801}benefits...{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404303}Even the Eastern Kingdom of Mikado is{F801}becoming infested with demons...{F801}{F802}'Tis better to devote oneself to{F801}finding mystic relics in Tokyo, no?{F801}{F802}Particularly in light of the side{F801}benefits...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}There are an astounding number of{F801}demons... The Eastern Kingdom of Mikado{F801}is on the cusp of annihilation.{F801}{F802}I wonder if they are hatching a counter-{F801}plot to forestall it...?{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}There are an astounding number of{F801}demons... The Eastern Kingdom of Mikado{F801}is on the cusp of annihilation.{F801}{F802}I wonder if they are hatching a counter-{F801}plot to forestall it...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}I heard that just like this city of{F801}Tokyo, a swarm of demons invaded the{F801}Eastern Kingdom of Mikado...{F801}{F802}But the angels appear to have the threat{F801}well in hand, and all is well now.{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}I heard that just like this city of{F801}Tokyo, a swarm of demons invaded the{F801}Eastern Kingdom of Mikado...{F801}{F802}But the angels appear to have the threat{F801}well in hand, and all is well now.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}The angels offer little but a tight{F801}yoke, but you... You have given the{F801}people hope.{F801}{F802}Were I to choose one to follow,{F801}'twould unquestionably be you.{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}The angels offer little but a tight{F801}yoke, but you... You have given the{F801}people hope.{F801}{F802}Were I to choose one to follow,{F801}'twould unquestionably be you.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}With the angels gone, everything is{F801}settled for the Eastern Kingdom of{F801}Mikado...{F801}{F802}The problem lies here, on this side.{F801}What shall become of those demons,{F801}I wonder...?{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}With the angels gone, everything is{F801}settled for the Eastern Kingdom of{F801}Mikado...{F801}{F802}The problem lies here, on this side.{F801}What shall become of those demons,{F801}I wonder...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}I have heard that everyone is gathering{F801}in Shinjuku.{F801}{F802}I shall be on my way there soon myself.{F801}'Twill be good to see the old faces.{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404301}I have heard that everyone is gathering{F801}in Shinjuku.{F801}{F802}I shall be on my way there soon myself.{F801}'Twill be good to see the old faces.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403122}Everyone's pissed at the Ashura-kai, and{F801}I kinda get why. It's like it used to be{F801}with normal businesses, y'know?{F801}{F802}Your employer took care of you{F801}financially. Well, the Ashura-kai{F801}takes care of us too.{F801}{F802}...But since the Association is gone{F801}now, I'm getting out of here soon too.{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403122}Everyone's pissed at the Ashura-kai, and{F801}I kinda get why. It's like it used to be{F801}with normal businesses, y'know?{F801}{F802}Your employer took care of you{F801}financially. Well, the Ashura-kai{F801}takes care of us too.{F801}{F802}...But since the Association is gone{F801}now, I'm getting out of here soon too.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403103}You're listed in the overall rankings{F801}too, I see.{F801}{F802}Well, I'm not letting any Samurai beat{F801}me. I'll show you how far a local Hunter{F801}can go!{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403103}You're listed in the overall rankings{F801}too, I see.{F801}{F802}Well, I'm not letting any Samurai beat{F801}me. I'll show you how far a local Hunter{F801}can go!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403103}Congratulations, champion! That was{F801}some amazing fighting.{F801}{F802}Someday, I hope to challenge you for{F801}the top spot.{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403103}Congratulations, champion! That was{F801}some amazing fighting.{F801}{F802}Someday, I hope to challenge you for{F801}the top spot.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403141}I don't believe it... You've stopped{F801}the angelic host...{F801}{F802}You're not just the champion, you might{F801}be the strongest warrior in the world!{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403141}I don't believe it... You've stopped{F801}the angelic host...{F801}{F802}You're not just the champion, you might{F801}be the strongest warrior in the world!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403103}Fujiwara told me that even with the{F801}demons gone, the Association will stay{F801}in business.{F801}{F802}He said they'll need Hunters like us{F801}for the reconstruction of Tokyo.{F801}{F802}Maybe he was anticipating this situation{F801}would come about someday... and that's{F801}why he formed the Association.{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403103}Fujiwara told me that even with the{F801}demons gone, the Association will stay{F801}in business.{F801}{F802}He said they'll need Hunters like us{F801}for the reconstruction of Tokyo.{F801}{F802}Maybe he was anticipating this situation{F801}would come about someday... and that's{F801}why he formed the Association.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Nosy Samurai\0{F87A,117}{F813,1,404342}Abbot Hugo has sent a message to all{F801}Samurai in Tokyo.{F801}{F802}It seems to be a matter of the utmost{F801}importance... Eh? Shene Duque?{F801}{F802}I've received no messages regarding{F801}that village...{F801}</source>
+    <target>{F812}Nosy Samurai\0{F87A,117}{F813,1,404342}Abbot Hugo has sent a message to all{F801}Samurai in Tokyo.{F801}{F802}It seems to be a matter of the utmost{F801}importance... Eh? Shene Duque?{F801}{F802}I've received no messages regarding{F801}that village...{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403103}...Hey, it's you. You're the one who{F801}killed Xi Wangmu, right?{F801}{F802}Everyone's talking about you. Even in{F801}Ueno and Shinjuku. A young, highly{F801}talented Hunter...{F801}{F802}But what brought you to Ikebukuro?{F801}The Association is gone now. I was{F801}just on my way out too.{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403103}...Hey, it's you. You're the one who{F801}killed Xi Wangmu, right?{F801}{F802}Everyone's talking about you. Even in{F801}Ueno and Shinjuku. A young, highly{F801}talented Hunter...{F801}{F802}But what brought you to Ikebukuro?{F801}The Association is gone now. I was{F801}just on my way out too.{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403111}At my skill level, there's no way I can{F801}beat the demon in the forest.{F801}{F802}I'm not much more than a regular citizen{F801}with a weapon. Shame... But I've gotta{F801}be honest with myself about this stuff.{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403111}At my skill level, there's no way I can{F801}beat the demon in the forest.{F801}{F802}I'm not much more than a regular citizen{F801}with a weapon. Shame... But I've gotta{F801}be honest with myself about this stuff.{F801}</target>
+  </entry>
+</mbm>

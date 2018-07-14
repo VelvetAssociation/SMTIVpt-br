@@ -1,0 +1,86 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Shinjuku demonoid\0{F87A,104}{F813,1,417105}Akira? Isn't he that little fish in{F801}Nagata-Cho? What's gotten into him?{F801}{F802}He's got to be pulling some kind of{F801}cheap trick! He has to be...!{F801}</source>
+    <target>{F812}Shinjuku demonoid\0{F87A,104}{F813,1,417105}Akira? Isn't he that little fish in{F801}Nagata-Cho? What's gotten into him?{F801}{F802}He's got to be pulling some kind of{F801}cheap trick! He has to be...!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Shinjuku demonoid\0{F87A,104}{F813,1,417105}Akira's that little fish in Nagata-Cho,{F801}right? How'd he get to be the King of{F801}Tokyo?{F801}{F802}He must have pulled some kind of{F801}cheap trick! He must've...!{F801}</source>
+    <target>{F812}Shinjuku demonoid\0{F87A,104}{F813,1,417105}Akira's that little fish in Nagata-Cho,{F801}right? How'd he get to be the King of{F801}Tokyo?{F801}{F802}He must have pulled some kind of{F801}cheap trick! He must've...!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Male neurisher\0{F87A,107}{F813,1,403441}A guy called Akira just showed up here{F801}and told us neurishers to take a bath{F801}every day...{F801}{F802}Maybe dirty neurishers don't taste as{F801}good to them. But he's the only guy{F801}who's ever treated us like real humans...{F801}{F802}Kind of a weird demonoid, that guy...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,107}{F813,1,403441}A guy called Akira just showed up here{F801}and told us neurishers to take a bath{F801}every day...{F801}{F802}Maybe dirty neurishers don't taste as{F801}good to them. But he's the only guy{F801}who's ever treated us like real humans...{F801}{F802}Kind of a weird demonoid, that guy...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Male neurisher\0{F87A,107}{F813,1,403441}King Akira just showed up here. He said{F801}us neurishers had to get at least eight{F801}hours sleep a day.{F801}{F802}Maybe unhealthy neurishers don't taste{F801}as good to them. But he's the only guy{F801}who's ever treated us like real humans...{F801}{F802}Kind of a weird demonoid, that guy...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,107}{F813,1,403441}King Akira just showed up here. He said{F801}us neurishers had to get at least eight{F801}hours sleep a day.{F801}{F802}Maybe unhealthy neurishers don't taste{F801}as good to them. But he's the only guy{F801}who's ever treated us like real humans...{F801}{F802}Kind of a weird demonoid, that guy...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Female neurisher\0{F87A,106}{F813,1,403501}...Who's there? Are you my new owner...?{F801}Sorry... My eyesight's not so good...{F801}{F802}I won't run... so please be nice...{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,106}{F813,1,403501}...Who's there? Are you my new owner...?{F801}Sorry... My eyesight's not so good...{F801}{F802}I won't run... so please be nice...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Female neurisher\0{F87A,106}{F813,1,403501}You know, I can't see, but my ears work{F801}fine. So I can tell a lot about people{F801}by listening to their voices.{F801}{F802}I just heard King Akira's voice. He's{F801}good at suppressing his real feelings...{F801}{F802}He probably had to force himself to{F801}toughen up and fight after he became{F801}a demonoid...{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,106}{F813,1,403501}You know, I can't see, but my ears work{F801}fine. So I can tell a lot about people{F801}by listening to their voices.{F801}{F802}I just heard King Akira's voice. He's{F801}good at suppressing his real feelings...{F801}{F802}He probably had to force himself to{F801}toughen up and fight after he became{F801}a demonoid...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Male demonoid\0{F87A,146}{F813,1,412007}We cleaned out all the Shinjuku folks{F801}in this town.{F801}{F802}Wouldn't want to get stabbed in the{F801}back, right? Huh...? What do you mean,{F801}my "fellow demons"?{F801}{F802}Listen, friends. Losers get whacked.{F801}That's the only rule here in Tokyo,{F801}you get me?{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,146}{F813,1,412007}We cleaned out all the Shinjuku folks{F801}in this town.{F801}{F802}Wouldn't want to get stabbed in the{F801}back, right? Huh...? What do you mean,{F801}my "fellow demons"?{F801}{F802}Listen, friends. Losers get whacked.{F801}That's the only rule here in Tokyo,{F801}you get me?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Male demonoid\0{F87A,146}{F813,1,412003}Our Kasumigaseki crew has rubbed out{F801}all the old Shinjuku folks.{F801}{F802}Wouldn't want to get stabbed in the{F801}back, right? Huh...? What do you mean,{F801}my "fellow demons"?{F801}{F802}Listen, friends. Losers get whacked.{F801}That's the only rule here in Tokyo,{F801}you get me?{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,146}{F813,1,412003}Our Kasumigaseki crew has rubbed out{F801}all the old Shinjuku folks.{F801}{F802}Wouldn't want to get stabbed in the{F801}back, right? Huh...? What do you mean,{F801}my "fellow demons"?{F801}{F802}Listen, friends. Losers get whacked.{F801}That's the only rule here in Tokyo,{F801}you get me?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Female neurisher\0{F87A,110}{F813,1,403342}Huh? You're from Kasumigaseki? You mean{F801}you're from Akira's sorry crew...?{F801}{F802}I feel sorry for the neurishers stuck{F801}with those losers.{F801}{F802}They probably never get a moment's rest,{F801}since such a tiny, weak crew can't{F801}possibly own many neurishers...{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,110}{F813,1,403342}Huh? You're from Kasumigaseki? You mean{F801}you're from Akira's sorry crew...?{F801}{F802}I feel sorry for the neurishers stuck{F801}with those losers.{F801}{F802}They probably never get a moment's rest,{F801}since such a tiny, weak crew can't{F801}possibly own many neurishers...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Female neurisher\0{F87A,110}{F813,1,403342}These aren't the only neurishers we've{F801}got, you know. There's also a few{F801}from Kasumigaseki.{F801}{F802}Since we have enough to go around,{F801}Akira told us to take turns feeding{F801}the demonoids.{F801}{F802}They gave me the odd-numbered days.{F801}You see? Akira's not so bad...{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,110}{F813,1,403342}These aren't the only neurishers we've{F801}got, you know. There's also a few{F801}from Kasumigaseki.{F801}{F802}Since we have enough to go around,{F801}Akira told us to take turns feeding{F801}the demonoids.{F801}{F802}They gave me the odd-numbered days.{F801}You see? Akira's not so bad...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Female neurisher\0{F87A,110}{F813,1,403342}There are two types of neurishers in{F801}Shinjuku: The ones here from the start,{F801}and those from Kasumigaseki.{F801}{F802}Since we have enough to go around,{F801}King Akira told us to take turns{F801}feeding the demonoids.{F801}{F802}They gave me the odd-numbered days.{F801}King Akira's a pretty cool guy, huh?{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,110}{F813,1,403342}There are two types of neurishers in{F801}Shinjuku: The ones here from the start,{F801}and those from Kasumigaseki.{F801}{F802}Since we have enough to go around,{F801}King Akira told us to take turns{F801}feeding the demonoids.{F801}{F802}They gave me the odd-numbered days.{F801}King Akira's a pretty cool guy, huh?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Female neurisher\0{F87A,110}{F813,1,403342}There are two types of neurishers in{F801}Shinjuku: The ones here from the start,{F801}and those from Kasumigaseki.{F801}{F802}Since we have enough to go around,{F801}King Akira told us to take turns{F801}feeding the demonoids.{F801}{F802}They gave me the odd-numbered days.{F801}Heh... I wouldn't mind dating that{F801}King Akira, you know...{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,110}{F813,1,403342}There are two types of neurishers in{F801}Shinjuku: The ones here from the start,{F801}and those from Kasumigaseki.{F801}{F802}Since we have enough to go around,{F801}King Akira told us to take turns{F801}feeding the demonoids.{F801}{F802}They gave me the odd-numbered days.{F801}Heh... I wouldn't mind dating that{F801}King Akira, you know...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Male neurisher\0{F87A,105}{F813,1,403212}I know it was my own decision, but{F801}becoming a neurisher was such a{F801}terrible idea...{F801}{F802}I feel like a cow or something... Only{F801}alive to feed those above me on the{F801}food chain...{F801}{F802}Sometimes I wonder what life would be{F801}like if I'd chosen differently at{F801}Ichigaya that day...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,105}{F813,1,403212}I know it was my own decision, but{F801}becoming a neurisher was such a{F801}terrible idea...{F801}{F802}I feel like a cow or something... Only{F801}alive to feed those above me on the{F801}food chain...{F801}{F802}Sometimes I wonder what life would be{F801}like if I'd chosen differently at{F801}Ichigaya that day...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Male neurisher\0{F87A,105}{F813,1,403212}Around the time Kenji, who'd just become{F801}a demonoid, defeated the demon in{F801}Ichigaya and became King of Tokyo...{F801}{F802}He declared that all residents of Tokyo{F801}must choose to become either neurishers{F801}or demonoids.{F801}{F802}Kenji's men took all the normal humans{F801}left in Tokyo to Ichigaya...{F801}{F802}There, we were forced to undergo{F801}surgery. Of course, he let us choose{F801}which operation we wanted...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,105}{F813,1,403212}Around the time Kenji, who'd just become{F801}a demonoid, defeated the demon in{F801}Ichigaya and became King of Tokyo...{F801}{F802}He declared that all residents of Tokyo{F801}must choose to become either neurishers{F801}or demonoids.{F801}{F802}Kenji's men took all the normal humans{F801}left in Tokyo to Ichigaya...{F801}{F802}There, we were forced to undergo{F801}surgery. Of course, he let us choose{F801}which operation we wanted...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Male neurisher\0{F87A,105}{F813,1,403212}If you've seen Kenji, maybe you've{F801}seen this too...{F801}{F802}You went to a lab in Camp Ichigaya,{F801}didn't you? In a way, that was the{F801}birthplace for us all...{F801}{F802}Since there are no normal humans left{F801}in Tokyo, that lab will never again{F801}see use, I'm sure...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,105}{F813,1,403212}If you've seen Kenji, maybe you've{F801}seen this too...{F801}{F802}You went to a lab in Camp Ichigaya,{F801}didn't you? In a way, that was the{F801}birthplace for us all...{F801}{F802}Since there are no normal humans left{F801}in Tokyo, that lab will never again{F801}see use, I'm sure...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Male neurisher\0{F87A,105}{F813,1,403243}This is just a rumor... But I heard{F801}there was a baby born in Kasumigaseki?{F801}{F802}So... what do you think it'll grow up{F801}to be? A demonoid? Or a neurisher...?{F801}{F802}I guess we can let him decide for{F801}himself down the line. Maybe he'll even{F801}have a chance to stay normal...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,105}{F813,1,403243}This is just a rumor... But I heard{F801}there was a baby born in Kasumigaseki?{F801}{F802}So... what do you think it'll grow up{F801}to be? A demonoid? Or a neurisher...?{F801}{F802}I guess we can let him decide for{F801}himself down the line. Maybe he'll even{F801}have a chance to stay normal...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Male neurisher\0{F87A,107}{F813,1,403441}Kenji's got Shibuya and Ikebukuro under{F801}his control. The only region that's not{F801}under his thumb now is Shinjuku...{F801}{F802}Oh yeah, I almost forgot. Some dude{F801}named Akira is making a play for{F801}Kasumigaseki...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,107}{F813,1,403441}Kenji's got Shibuya and Ikebukuro under{F801}his control. The only region that's not{F801}under his thumb now is Shinjuku...{F801}{F802}Oh yeah, I almost forgot. Some dude{F801}named Akira is making a play for{F801}Kasumigaseki...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Male neurisher\0{F87A,107}{F813,1,403441}King Akira came here the other day and{F801}told us neurishers we should get three{F801}square meals a day, same as everyone.{F801}{F802}Maybe skinny neurishers don't taste{F801}as good to them. But he's the only guy{F801}who's ever treated us like real humans...{F801}{F802}Kind of a weird demonoid, that guy...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,107}{F813,1,403441}King Akira came here the other day and{F801}told us neurishers we should get three{F801}square meals a day, same as everyone.{F801}{F802}Maybe skinny neurishers don't taste{F801}as good to them. But he's the only guy{F801}who's ever treated us like real humans...{F801}{F802}Kind of a weird demonoid, that guy...{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Male demonoid\0{F87A,146}{F813,1,415006}Whaaa? Our boss? He's over inside that{F801}Domain past the elevator...{F801}{F802}But he's not someone Akira can see{F801}without an appointment. Get your ass{F801}out before you get yourself killed.{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,146}{F813,1,415006}Whaaa? Our boss? He's over inside that{F801}Domain past the elevator...{F801}{F802}But he's not someone Akira can see{F801}without an appointment. Get your ass{F801}out before you get yourself killed.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Male demonoid\0{F87A,146}{F813,1,412003}Our Kasumigaseki crew has already rubbed{F801}out all the old Shinjuku folks.{F801}{F802}Wouldn't want to get stabbed in the{F801}back, right? Huh...? What do you mean,{F801}my "fellow demons"?{F801}{F802}Listen, friends. Losers get whacked.{F801}That's the only rule here in Tokyo,{F801}you get me?{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,146}{F813,1,412003}Our Kasumigaseki crew has already rubbed{F801}out all the old Shinjuku folks.{F801}{F802}Wouldn't want to get stabbed in the{F801}back, right? Huh...? What do you mean,{F801}my "fellow demons"?{F801}{F802}Listen, friends. Losers get whacked.{F801}That's the only rule here in Tokyo,{F801}you get me?{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Female neurisher\0{F87A,106}{F813,1,403501}...Who goes there...? Is anyone there?{F801}Sorry... My eyesight's not so good...{F801}{F802}I won't run... so please be nice...{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,106}{F813,1,403501}...Who goes there...? Is anyone there?{F801}Sorry... My eyesight's not so good...{F801}{F802}I won't run... so please be nice...{F801}</target>
+  </entry>
+</mbm>

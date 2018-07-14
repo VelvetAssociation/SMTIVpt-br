@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403421}Huh? Club Milton? You want to head{F801}for Dogenzaka, then go into the back{F801}of the alley.{F801}{F802}...But I'm sure you're only wasting{F801}your time if you try to go there now.{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403421}Huh? Club Milton? You want to head{F801}for Dogenzaka, then go into the back{F801}of the alley.{F801}{F802}...But I'm sure you're only wasting{F801}your time if you try to go there now.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-131}{F813,1,414203}So this is that Shibuya place{F801}everyone's talking about, huh?{F801}Pretty lively...{F801}{F802}The people here used to think this{F801}place was the birthplace of new{F801}trends, right?{F801}{F802}All right, then. From now on, we{F801}demons will make all kinds of new{F801}trends out of this place!{F801}</source>
+    <target>{F812}Demon\0{F87A,-131}{F813,1,414203}So this is that Shibuya place{F801}everyone's talking about, huh?{F801}Pretty lively...{F801}{F802}The people here used to think this{F801}place was the birthplace of new{F801}trends, right?{F801}{F802}All right, then. From now on, we{F801}demons will make all kinds of new{F801}trends out of this place!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403441}Wha-hey! I didn't expect the Hunters{F801}to do such a good job.{F801}{F802}If they keep this up, they might{F801}beat both the demons and the{F801}angels...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403441}Wha-hey! I didn't expect the Hunters{F801}to do such a good job.{F801}{F802}If they keep this up, they might{F801}beat both the demons and the{F801}angels...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-131}{F813,1,414203}So this is that Shibuya place{F801}everyone's talking about, huh?{F801}Pretty lively...{F801}{F802}If the angels come here, I can{F801}assume things will only get livelier.{F801}{F802}Of course, when that happens, there{F801}will be absolutely no hope for the{F801}humans afterwards...{F801}</source>
+    <target>{F812}Demon\0{F87A,-131}{F813,1,414203}So this is that Shibuya place{F801}everyone's talking about, huh?{F801}Pretty lively...{F801}{F802}If the angels come here, I can{F801}assume things will only get livelier.{F801}{F802}Of course, when that happens, there{F801}will be absolutely no hope for the{F801}humans afterwards...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon\0{F87A,-131}{F813,1,414203}So this is that Shibuya place{F801}everyone's talking about, huh?{F801}Pretty lively...{F801}{F802}If that "Champion" guy gets killed{F801}by the Demon Lord, things will only{F801}get livelier, I'm sure.{F801}{F802}Of course, when that happens, there{F801}will be absolutely no hope for the{F801}humans afterwards...{F801}</source>
+    <target>{F812}Demon\0{F87A,-131}{F813,1,414203}So this is that Shibuya place{F801}everyone's talking about, huh?{F801}Pretty lively...{F801}{F802}If that "Champion" guy gets killed{F801}by the Demon Lord, things will only{F801}get livelier, I'm sure.{F801}{F802}Of course, when that happens, there{F801}will be absolutely no hope for the{F801}humans afterwards...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403402}Yo! The decisive battle between the{F801}angels and demons is over, right!?{F801}{F802}I still can't believe it...{F801}I'm not dreaming, am I...?{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403402}Yo! The decisive battle between the{F801}angels and demons is over, right!?{F801}{F802}I still can't believe it...{F801}I'm not dreaming, am I...?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403421}It looks like Club Milton's been{F801}reopened. ...Does that mean someone's{F801}defeated that demon?{F801}{F802}Some Ashura-kai guy once told me that{F801}the place was taken over by a demon{F801}who wanted to take all the Reds...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403421}It looks like Club Milton's been{F801}reopened. ...Does that mean someone's{F801}defeated that demon?{F801}{F802}Some Ashura-kai guy once told me that{F801}the place was taken over by a demon{F801}who wanted to take all the Reds...{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403421}I was talking with some Ashura-kai{F801}dudes about that Koga Saburo.{F801}He's some evil dude, isn't he?{F801}{F802}He tried to keep all the Reds for{F801}himself, right? We don't need{F801}selfish people like that in Tokyo!{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403421}I was talking with some Ashura-kai{F801}dudes about that Koga Saburo.{F801}He's some evil dude, isn't he?{F801}{F802}He tried to keep all the Reds for{F801}himself, right? We don't need{F801}selfish people like that in Tokyo!{F801}</target>
+  </entry>
+</mbm>

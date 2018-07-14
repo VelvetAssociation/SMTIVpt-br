@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404402}The Ring of Gaea is no mere collection{F801}of hoodlums, like the Ashura-kai.{F801}{F802}We don't ask for money from civilians,{F801}nor do we start random wars against{F801}them.{F801}{F802}But, if anyone shows us hostility,{F801}we will use our favored demons to{F801}crush them.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404402}The Ring of Gaea is no mere collection{F801}of hoodlums, like the Ashura-kai.{F801}{F802}We don't ask for money from civilians,{F801}nor do we start random wars against{F801}them.{F801}{F802}But, if anyone shows us hostility,{F801}we will use our favored demons to{F801}crush them.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404431}For those of us in the Ring of Gaea,{F801}people are the catalysts to our{F801}strength...{F801}{F802}We don't exploit or sacrifice the{F801}people to get ahead.{F801}{F802}The Ring of Gaea is not like the{F801}Ashura-kai. If you will be one of{F801}us, you must stay noble and proud.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404431}For those of us in the Ring of Gaea,{F801}people are the catalysts to our{F801}strength...{F801}{F802}We don't exploit or sacrifice the{F801}people to get ahead.{F801}{F802}The Ring of Gaea is not like the{F801}Ashura-kai. If you will be one of{F801}us, you must stay noble and proud.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404443}Tayama allows the weak to survive{F801}solely so he can exploit them.{F801}{F802}Lady Yuriko tells us that we don't{F801}need to have mercy on the weak.{F801}{F802}We are aware that Tokyo is a mess...{F801}and supplies are scarce...{F801}{F802}If things stay as they are...{F801}You know who is right for this city,{F801}don't you?{F801}{F802}The choice is between Tayama and{F801}Lady Yuriko... and I believe you{F801}have made the correct decision.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404443}Tayama allows the weak to survive{F801}solely so he can exploit them.{F801}{F802}Lady Yuriko tells us that we don't{F801}need to have mercy on the weak.{F801}{F802}We are aware that Tokyo is a mess...{F801}and supplies are scarce...{F801}{F802}If things stay as they are...{F801}You know who is right for this city,{F801}don't you?{F801}{F802}The choice is between Tayama and{F801}Lady Yuriko... and I believe you{F801}have made the correct decision.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404412}Tayama allows the weak to survive{F801}solely so he can exploit them.{F801}{F802}Lady Yuriko tells us that we don't{F801}need to have mercy on the weak.{F801}{F802}We are aware that Tokyo is a mess...{F801}and supplies are scarce...{F801}{F802}If things stay as they are...{F801}Between Tayama and Lady Yuriko, you{F801}know what is right for this city.{F801}{F802}And yet, sadly, you have made the{F801}wrong decision.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404412}Tayama allows the weak to survive{F801}solely so he can exploit them.{F801}{F802}Lady Yuriko tells us that we don't{F801}need to have mercy on the weak.{F801}{F802}We are aware that Tokyo is a mess...{F801}and supplies are scarce...{F801}{F802}If things stay as they are...{F801}Between Tayama and Lady Yuriko, you{F801}know what is right for this city.{F801}{F802}And yet, sadly, you have made the{F801}wrong decision.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404403}Soon, we will begin an all-out{F801}assault on Ichigaya.{F801}{F802}I'm sure the Ashura-kai know what{F801}we're up to. They aren't stupid...{F801}{F802}But if they want to get into a true{F801}contest of power, they have one.{F801}We will crush them like bugs!{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404403}Soon, we will begin an all-out{F801}assault on Ichigaya.{F801}{F802}I'm sure the Ashura-kai know what{F801}we're up to. They aren't stupid...{F801}{F802}But if they want to get into a true{F801}contest of power, they have one.{F801}We will crush them like bugs!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404421}Our assault on Ichigaya had begun.{F801}We were going to kill Tayama and{F801}take control of the Yamato Reactor...{F801}{F802}But, suddenly, there was a blinding{F801}flash, and the place was filled with{F801}demons...{F801}{F802}Most of my comrades died there, but{F801}I made it back, somehow...{F801}{F802}Even Lady Yuriko is gone...{F801}I'm afraid.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404421}Our assault on Ichigaya had begun.{F801}We were going to kill Tayama and{F801}take control of the Yamato Reactor...{F801}{F802}But, suddenly, there was a blinding{F801}flash, and the place was filled with{F801}demons...{F801}{F802}Most of my comrades died there, but{F801}I made it back, somehow...{F801}{F802}Even Lady Yuriko is gone...{F801}I'm afraid.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404441}I don't know about the other members{F801}of the Ring of Gaea, but now that{F801}I've seen you, I realize one thing...{F801}{F802}I... I just wanted a safe place to{F801}stay. This "power and skill" thing{F801}was just a lie I told myself...{F801}{F802}And the hope I used to place in{F801}Lady Yuriko... You have it now.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404441}I don't know about the other members{F801}of the Ring of Gaea, but now that{F801}I've seen you, I realize one thing...{F801}{F802}I... I just wanted a safe place to{F801}stay. This "power and skill" thing{F801}was just a lie I told myself...{F801}{F802}And the hope I used to place in{F801}Lady Yuriko... You have it now.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404441}They say a Demon Lord is dwelling in{F801}Ichigaya... I only heard his name{F801}once, from Lady Yuriko.{F801}{F802}His real name is Lucifer, king of{F801}all demons...{F801}{F802}I'm still a member of Ring of Gaea,{F801}so I can't support you openly...{F801}{F802}...But I don't want you to die.{F801}That is how I truly feel.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404441}They say a Demon Lord is dwelling in{F801}Ichigaya... I only heard his name{F801}once, from Lady Yuriko.{F801}{F802}His real name is Lucifer, king of{F801}all demons...{F801}{F802}I'm still a member of Ring of Gaea,{F801}so I can't support you openly...{F801}{F802}...But I don't want you to die.{F801}That is how I truly feel.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404442}The Demon Lord has been defeated.{F801}Tokyo will return to its former self.{F801}{F802}But there are still many who blindly{F801}worship Lady Yuriko.{F801}{F802}I will shake them awake. That is how{F801}I will atone for my deeds...{F801}{F802}I have a responsibility to the people{F801}of Tokyo.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,1,404442}The Demon Lord has been defeated.{F801}Tokyo will return to its former self.{F801}{F802}But there are still many who blindly{F801}worship Lady Yuriko.{F801}{F802}I will shake them awake. That is how{F801}I will atone for my deeds...{F801}{F802}I have a responsibility to the people{F801}of Tokyo.{F801}</target>
+  </entry>
+</mbm>

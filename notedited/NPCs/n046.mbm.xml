@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Thin-faced man\0{F87A,60}{F813,1,403202}Most of the customers at Club Milton{F801}are demons who made a contract with{F801}Tayama.{F801}{F802}They're given Reds in exchange for{F801}promising to not eat the people who{F801}live underground.{F801}{F802}I hear the guys who turned on the{F801}Ashura-kai got thrown into Milton,{F801}too.{F801}</source>
+    <target>{F812}Thin-faced man\0{F87A,60}{F813,1,403202}Most of the customers at Club Milton{F801}are demons who made a contract with{F801}Tayama.{F801}{F802}They're given Reds in exchange for{F801}promising to not eat the people who{F801}live underground.{F801}{F802}I hear the guys who turned on the{F801}Ashura-kai got thrown into Milton,{F801}too.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Thin-faced man\0{F87A,60}{F813,1,403241}Most of the customers at Club Milton{F801}are demons who made a contract with{F801}Tayama.{F801}{F802}They're given Reds in exchange for{F801}promising to not eat the people who{F801}live underground.{F801}{F802}The streets used to be filled with{F801}demon corpses before Milton opened.{F801}</source>
+    <target>{F812}Thin-faced man\0{F87A,60}{F813,1,403241}Most of the customers at Club Milton{F801}are demons who made a contract with{F801}Tayama.{F801}{F802}They're given Reds in exchange for{F801}promising to not eat the people who{F801}live underground.{F801}{F802}The streets used to be filled with{F801}demon corpses before Milton opened.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-420}{F813,1,412001}Hunting down humans locked in a cage{F801}has no thrill...{F801}{F802}Perhaps I should build myself a tower{F801}of human corpses... Build one tall{F801}enough to touch the Firmament...{F801}</source>
+    <target>{F812}Demon\0{F87A,-420}{F813,1,412001}Hunting down humans locked in a cage{F801}has no thrill...{F801}{F802}Perhaps I should build myself a tower{F801}of human corpses... Build one tall{F801}enough to touch the Firmament...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-420}{F813,1,412001}Humans are weak. Even if they have{F801}hope, they'll never escape death.{F801}That is their fate...{F801}{F802}Soon, all the humans in Tokyo will{F801}be hunted down and destroyed.{F801}{F802}If you put all their bodies in a{F801}pile, I wonder how big it would be?{F801}Would it reach the sky...? Hmhmhm.{F801}</source>
+    <target>{F812}Demon\0{F87A,-420}{F813,1,412001}Humans are weak. Even if they have{F801}hope, they'll never escape death.{F801}That is their fate...{F801}{F802}Soon, all the humans in Tokyo will{F801}be hunted down and destroyed.{F801}{F802}If you put all their bodies in a{F801}pile, I wonder how big it would be?{F801}Would it reach the sky...? Hmhmhm.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Thin-faced man\0{F87A,60}{F813,1,403202}I can still remember how the people{F801}cheered when you arrived in this{F801}town...{F801}{F802}That was it. That was the moment when{F801}something inside us changed forever.{F801}</source>
+    <target>{F812}Thin-faced man\0{F87A,60}{F813,1,403202}I can still remember how the people{F801}cheered when you arrived in this{F801}town...{F801}{F802}That was it. That was the moment when{F801}something inside us changed forever.{F801}</target>
+  </entry>
+</mbm>

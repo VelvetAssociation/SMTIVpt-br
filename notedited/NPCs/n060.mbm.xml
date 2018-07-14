@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hunter man\0{F87A,69}{F813,1,403002}I found this city by accident while{F801}I was searching around places the{F801}Ashura-kai had sealed.{F801}{F802}But, man, this place is bizarre.{F801}No wonder it's been closed off from{F801}the outside world for a while...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,69}{F813,1,403002}I found this city by accident while{F801}I was searching around places the{F801}Ashura-kai had sealed.{F801}{F802}But, man, this place is bizarre.{F801}No wonder it's been closed off from{F801}the outside world for a while...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hunter man\0{F87A,69}{F813,1,403002}From what I've heard, the people here{F801}seem to have survived by eating beef{F801}that they raise here.{F801}{F802}But... have you seen any actual cows?{F801}</source>
+    <target>{F812}Hunter man\0{F87A,69}{F813,1,403002}From what I've heard, the people here{F801}seem to have survived by eating beef{F801}that they raise here.{F801}{F802}But... have you seen any actual cows?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hunter man\0{F87A,69}{F813,1,403002}We've decided to hunt demons for the{F801}people here.{F801}{F802}If we left now, I'd feel like I was{F801}abandoning them.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,69}{F813,1,403002}We've decided to hunt demons for the{F801}people here.{F801}{F802}If we left now, I'd feel like I was{F801}abandoning them.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403042}It seems that the people here haven't{F801}been eating demon meat at all.{F801}{F802}I'm surprised that they've managed{F801}to survive this long with that kind{F801}of diet...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403042}It seems that the people here haven't{F801}been eating demon meat at all.{F801}{F802}I'm surprised that they've managed{F801}to survive this long with that kind{F801}of diet...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403042}Beef is an extremely expensive{F801}delicacy. In fact, it's more like{F801}a fantasy now.{F801}{F802}Seriously it's a luxury that even the{F801}Ashura-kai would go mad for.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403042}Beef is an extremely expensive{F801}delicacy. In fact, it's more like{F801}a fantasy now.{F801}{F802}Seriously it's a luxury that even the{F801}Ashura-kai would go mad for.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403042}I feel bad for these guys, cut off{F801}from the outside world and taken{F801}advantage of by demons.{F801}{F802}I hope they learn to like demon meat,{F801}after all that time they spent with{F801}their... beef.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403042}I feel bad for these guys, cut off{F801}from the outside world and taken{F801}advantage of by demons.{F801}{F802}I hope they learn to like demon meat,{F801}after all that time they spent with{F801}their... beef.{F801}</target>
+  </entry>
+</mbm>

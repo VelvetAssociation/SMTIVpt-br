@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403141}Roppongi is the Ashura-kai's{F801}headquarters. Tayama should be there.{F801}{F802}From street punk to Hills elite, huh?{F801}Talk about moving up in the world...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403141}Roppongi is the Ashura-kai's{F801}headquarters. Tayama should be there.{F801}{F802}From street punk to Hills elite, huh?{F801}Talk about moving up in the world...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hunter woman\0{F87A,68}{F813,1,403123}Camp Ichigaya is dangerous. You won't{F801}catch me going near there!{F801}{F802}There's always Ashura-kai thugs standing{F801}guard... And not just that, I hear the{F801}place is filled with demons.{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,68}{F813,1,403123}Camp Ichigaya is dangerous. You won't{F801}catch me going near there!{F801}{F802}There's always Ashura-kai thugs standing{F801}guard... And not just that, I hear the{F801}place is filled with demons.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hunter woman\0{F87A,68}{F813,1,403103}Hey, you hear what happened to Tayama?{F801}He was found dead in Ichigaya...{F801}{F802}Does that mean his room in Roppongi{F801}is up for grabs?{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,68}{F813,1,403103}Hey, you hear what happened to Tayama?{F801}He was found dead in Ichigaya...{F801}{F802}Does that mean his room in Roppongi{F801}is up for grabs?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403141}Club Milton used to be the way station{F801}for distributing Reds.{F801}{F802}But Koga Saburo seized the place, and{F801}then Peallaidh started acting up in{F801}Ueno...{F801}{F802}Tayama was stuck in Roppongi, too busy{F801}to deal with it, and couldn't take any{F801}effective action.{F801}{F802}But now he's got the distribution{F801}system up and running again. He doesn't{F801}need to hold back on Yuriko anymore.{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403141}Club Milton used to be the way station{F801}for distributing Reds.{F801}{F802}But Koga Saburo seized the place, and{F801}then Peallaidh started acting up in{F801}Ueno...{F801}{F802}Tayama was stuck in Roppongi, too busy{F801}to deal with it, and couldn't take any{F801}effective action.{F801}{F802}But now he's got the distribution{F801}system up and running again. He doesn't{F801}need to hold back on Yuriko anymore.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Cheerless woman\0{F87A,98}{F813,1,403312}Whaaat? Beyond the rooftop? How can you{F801}not know there's nothing up there?{F801}{F802}I mean, maybe the Angel's Cocoon,{F801}I guess... It abandoned us and{F801}vanished into the sky.{F801}</source>
+    <target>{F812}Cheerless woman\0{F87A,98}{F813,1,403312}Whaaat? Beyond the rooftop? How can you{F801}not know there's nothing up there?{F801}{F802}I mean, maybe the Angel's Cocoon,{F801}I guess... It abandoned us and{F801}vanished into the sky.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Cheerless woman\0{F87A,98}{F813,1,403312}Whaaat? Beyond the rooftop? How can you{F801}not know there's been nothing in the{F801}sky for ages?{F801}{F802}But if this rooftop you claim to have{F801}seen existed, Tokyo might have been{F801}protected from God's wrath...{F801}</source>
+    <target>{F812}Cheerless woman\0{F87A,98}{F813,1,403312}Whaaat? Beyond the rooftop? How can you{F801}not know there's been nothing in the{F801}sky for ages?{F801}{F802}But if this rooftop you claim to have{F801}seen existed, Tokyo might have been{F801}protected from God's wrath...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Cheerless woman\0{F87A,98}{F813,1,403341}I heard you're willing to go to Shibuya.{F801}You can't take the overland route,{F801}you know. You have to use a Terminal.{F801}{F802}Pretty sure there was a Terminal Room{F801}in Kasumigaseki... I think...{F801}{F802}If there was, it would be all locked up.{F801}That's probably where you'd find the{F801}Terminal Room...{F801}</source>
+    <target>{F812}Cheerless woman\0{F87A,98}{F813,1,403341}I heard you're willing to go to Shibuya.{F801}You can't take the overland route,{F801}you know. You have to use a Terminal.{F801}{F802}Pretty sure there was a Terminal Room{F801}in Kasumigaseki... I think...{F801}{F802}If there was, it would be all locked up.{F801}That's probably where you'd find the{F801}Terminal Room...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Cheerless woman\0{F87A,98}{F813,1,403312}Oh, so you went to Shibuya, huh?{F801}{F802}Let me guess--you didn't find anything?{F801}Apart from the bodies of people the{F801}demons killed, that is.{F801}</source>
+    <target>{F812}Cheerless woman\0{F87A,98}{F813,1,403312}Oh, so you went to Shibuya, huh?{F801}{F802}Let me guess--you didn't find anything?{F801}Apart from the bodies of people the{F801}demons killed, that is.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Cheerless woman\0{F87A,98}{F813,1,403312}I wish my family in Shibuya could be{F801}with me to share this...{F801}{F802}Huh? You're going to Shibuya? Well, you{F801}can't take the overland route. You have{F801}to use a Terminal.{F801}{F802}Pretty sure there was a Terminal Room{F801}in Kasumigaseki... I think...{F801}{F802}If there was, it would be all locked up.{F801}That's probably where you'd find the{F801}Terminal Room...{F801}</source>
+    <target>{F812}Cheerless woman\0{F87A,98}{F813,1,403312}I wish my family in Shibuya could be{F801}with me to share this...{F801}{F802}Huh? You're going to Shibuya? Well, you{F801}can't take the overland route. You have{F801}to use a Terminal.{F801}{F802}Pretty sure there was a Terminal Room{F801}in Kasumigaseki... I think...{F801}{F802}If there was, it would be all locked up.{F801}That's probably where you'd find the{F801}Terminal Room...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Taciturn man\0{F87A,97}{F813,1,403212}The Counter-Demon Force got wiped out{F801}25 years ago. You guys wouldn't have{F801}even been born then.{F801}{F802}Question is... Why do you have the{F801}Demon Summoning Program? You weren't{F801}in the Force...{F801}{F802}Anyway, we'll let Akira decide what{F801}to do with you.{F801}</source>
+    <target>{F812}Taciturn man\0{F87A,97}{F813,1,403212}The Counter-Demon Force got wiped out{F801}25 years ago. You guys wouldn't have{F801}even been born then.{F801}{F802}Question is... Why do you have the{F801}Demon Summoning Program? You weren't{F801}in the Force...{F801}{F802}Anyway, we'll let Akira decide what{F801}to do with you.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>Testers, if you see this text, plz{F801}notify Yu Namba. This is not supposed{F801}to show.{F801}</source>
+    <target>Testers, if you see this text, plz{F801}notify Yu Namba. This is not supposed{F801}to show.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Taciturn man\0{F87A,97}{F813,1,403212}God used angels to pick out the ones{F801}who would be useful to Him and loaded{F801}them in that cocoon.{F801}{F802}Anyone who didn't qualify, He tried to{F801}burn out through the wrath of God.{F801}{F802}God doesn't want us around anymore.{F801}See, we know what He's really like...{F801}{F802}That's why He sent that horrible monster{F801}Pluto into Tokyo.{F801}</source>
+    <target>{F812}Taciturn man\0{F87A,97}{F813,1,403212}God used angels to pick out the ones{F801}who would be useful to Him and loaded{F801}them in that cocoon.{F801}{F802}Anyone who didn't qualify, He tried to{F801}burn out through the wrath of God.{F801}{F802}God doesn't want us around anymore.{F801}See, we know what He's really like...{F801}{F802}That's why He sent that horrible monster{F801}Pluto into Tokyo.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Taciturn man\0{F87A,97}{F813,1,403203}God really did abandon us. And then He{F801}tried to burn us all up!{F801}{F802}But if you guys really are the Messiahs...{F801}Does that mean God hasn't forgotten us?{F801}</source>
+    <target>{F812}Taciturn man\0{F87A,97}{F813,1,403203}God really did abandon us. And then He{F801}tried to burn us all up!{F801}{F802}But if you guys really are the Messiahs...{F801}Does that mean God hasn't forgotten us?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Throaty woman\0{F87A,98}{F813,1,403322}Ohhhh... how I hate Pluto. But nothing{F801}can dent that monstrosity...{F801}{F802}Pluto took away my love... my future...{F801}My hatred for him is inexpressible...{F801}</source>
+    <target>{F812}Throaty woman\0{F87A,98}{F813,1,403322}Ohhhh... how I hate Pluto. But nothing{F801}can dent that monstrosity...{F801}{F802}Pluto took away my love... my future...{F801}My hatred for him is inexpressible...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>Testers, if you see this text, plz{F801}notify Yu Namba. This is not supposed{F801}to show.{F801}</source>
+    <target>Testers, if you see this text, plz{F801}notify Yu Namba. This is not supposed{F801}to show.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Throaty woman\0{F87A,98}{F813,1,403322}Someone over there started to call the{F801}monster, "Pluto the Tormentor"...{F801}{F802}After a god of the netherworld in some{F801}country's mythology...{F801}{F802}It calls us into the netherworld... Ah...{F801}How I hate Pluto...!{F801}</source>
+    <target>{F812}Throaty woman\0{F87A,98}{F813,1,403322}Someone over there started to call the{F801}monster, "Pluto the Tormentor"...{F801}{F802}After a god of the netherworld in some{F801}country's mythology...{F801}{F802}It calls us into the netherworld... Ah...{F801}How I hate Pluto...!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Throaty woman\0{F87A,98}{F813,1,403341}I've been crying so long, blaming it{F801}all on Pluto... I've neglected to do{F801}my part here.{F801}{F802}But I shouldn't let them spoil me{F801}anymore. Haha... I hope there's still{F801}some work in these muscles!{F801}</source>
+    <target>{F812}Throaty woman\0{F87A,98}{F813,1,403341}I've been crying so long, blaming it{F801}all on Pluto... I've neglected to do{F801}my part here.{F801}{F802}But I shouldn't let them spoil me{F801}anymore. Haha... I hope there's still{F801}some work in these muscles!{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Dazed man\0{F87A,97}{F813,1,403222}......{F801}</source>
+    <target>{F812}Dazed man\0{F87A,97}{F813,1,403222}......{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>You can sense him staring at you in{F801}fear through the goggles...{F801}</source>
+    <target>You can sense him staring at you in{F801}fear through the goggles...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Dazed man\0{F87A,97}{F813,1,403212}Did you guys say you came from the{F801}military camp? Then you saw it on your{F801}way to Shinjuku?{F801}{F802}I mean Camp Ichigaya to the east. But{F801}even if you go, you won't get anywhere.{F801}{F802}There's a Domain thrown over it. Don't{F801}ask me who or what did it.{F801}</source>
+    <target>{F812}Dazed man\0{F87A,97}{F813,1,403212}Did you guys say you came from the{F801}military camp? Then you saw it on your{F801}way to Shinjuku?{F801}{F802}I mean Camp Ichigaya to the east. But{F801}even if you go, you won't get anywhere.{F801}{F802}There's a Domain thrown over it. Don't{F801}ask me who or what did it.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Dazed man\0{F87A,97}{F813,1,403212}Finally, Pluto is gone. This is a new{F801}beginning for us.{F801}{F802}...But do we have to get started now?{F801}</source>
+    <target>{F812}Dazed man\0{F87A,97}{F813,1,403212}Finally, Pluto is gone. This is a new{F801}beginning for us.{F801}{F802}...But do we have to get started now?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Dazed man\0{F87A,97}{F813,1,403202}Did you guys say you came from the{F801}military camp? Then you saw it on your{F801}way to Shinjuku?{F801}{F802}I mean Camp Ichigaya to the east. Since{F801}the Domain's faded, you can get in{F801}there now...{F801}{F802}But all you'd find there is an old{F801}reactor called the Yamato.{F801}</source>
+    <target>{F812}Dazed man\0{F87A,97}{F813,1,403202}Did you guys say you came from the{F801}military camp? Then you saw it on your{F801}way to Shinjuku?{F801}{F802}I mean Camp Ichigaya to the east. Since{F801}the Domain's faded, you can get in{F801}there now...{F801}{F802}But all you'd find there is an old{F801}reactor called the Yamato.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Dazed man\0{F87A,97}{F813,1,403202}Did you guys say you came from the{F801}military camp!? You must have nerves{F801}of steel...{F801}{F802}Didn't Akira tell you to stay away from{F801}the Ichigaya region?{F801}{F802}I hear there's an old reactor there{F801}called the Yamato where all the demons{F801}are coming from...{F801}</source>
+    <target>{F812}Dazed man\0{F87A,97}{F813,1,403202}Did you guys say you came from the{F801}military camp!? You must have nerves{F801}of steel...{F801}{F802}Didn't Akira tell you to stay away from{F801}the Ichigaya region?{F801}{F802}I hear there's an old reactor there{F801}called the Yamato where all the demons{F801}are coming from...{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Taciturn man\0{F87A,97}{F813,1,403203}God really did abandon us. And then He{F801}tried to burn us all up!{F801}{F802}But if you guys really are the Messiahs...{F801}Does that mean God hasn't forgotten us?{F801}{F802}Well, it don't matter. My mind's made{F801}up. I'm going to restore Tokyo along{F801}with Akira.{F801}</source>
+    <target>{F812}Taciturn man\0{F87A,97}{F813,1,403203}God really did abandon us. And then He{F801}tried to burn us all up!{F801}{F802}But if you guys really are the Messiahs...{F801}Does that mean God hasn't forgotten us?{F801}{F802}Well, it don't matter. My mind's made{F801}up. I'm going to restore Tokyo along{F801}with Akira.{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>{F812}Throaty woman\0{F87A,98}{F813,1,403341}I've been avoiding all my chores,{F801}blaming everything on Pluto... I guess{F801}this is the price I pay.{F801}{F802}You know... my nerves aren't really{F801}responding anymore... The poison did{F801}more damage than I thought.{F801}{F802}But don't tell the others, okay?{F801}I don't want them to pity me...{F801}</source>
+    <target>{F812}Throaty woman\0{F87A,98}{F813,1,403341}I've been avoiding all my chores,{F801}blaming everything on Pluto... I guess{F801}this is the price I pay.{F801}{F802}You know... my nerves aren't really{F801}responding anymore... The poison did{F801}more damage than I thought.{F801}{F802}But don't tell the others, okay?{F801}I don't want them to pity me...{F801}</target>
+  </entry>
+  <entry id="208">
+    <source>{F812}Taciturn man\0{F87A,97}{F813,1,403203}I don't get God... First He burns up{F801}Tokyo, then He sends us Messiahs.{F801}{F802}How can you trust a schizo dude{F801}like Him?{F801}{F802}Anyway, my mind's made up. I'm going{F801}to restore Tokyo along with Akira.{F801}</source>
+    <target>{F812}Taciturn man\0{F87A,97}{F813,1,403203}I don't get God... First He burns up{F801}Tokyo, then He sends us Messiahs.{F801}{F802}How can you trust a schizo dude{F801}like Him?{F801}{F802}Anyway, my mind's made up. I'm going{F801}to restore Tokyo along with Akira.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,174 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Depressed woman\0{F87A,61}{F813,1,403312}Hey, you've seen a girl, right? She{F801}looks teenaged, wears a school{F801}uniform...{F801}{F802}I remember... When I was sealed inside{F801}Tokyo, I was her age...{F801}</source>
+    <target>{F812}Depressed woman\0{F87A,61}{F813,1,403312}Hey, you've seen a girl, right? She{F801}looks teenaged, wears a school{F801}uniform...{F801}{F802}I remember... When I was sealed inside{F801}Tokyo, I was her age...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Depressed woman\0{F87A,61}{F813,1,403312}It's just like 25 years ago... demons{F801}came to Tokyo and slaughtered so many{F801}people...{F801}{F802}If history is about to repeat itself,{F801}I wish the ceiling wasn't there so{F801}we could accept God's wrath...{F801}</source>
+    <target>{F812}Depressed woman\0{F87A,61}{F813,1,403312}It's just like 25 years ago... demons{F801}came to Tokyo and slaughtered so many{F801}people...{F801}{F802}If history is about to repeat itself,{F801}I wish the ceiling wasn't there so{F801}we could accept God's wrath...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Depressed woman\0{F87A,61}{F813,1,403312}Someone created that ceiling...{F801}{F802}And then a champion arrived...{F801}{F802}But I'm the same as I was 25 years ago.{F801}I haven't grown up. I still just cling{F801}to the hope that someone will save me...{F801}</source>
+    <target>{F812}Depressed woman\0{F87A,61}{F813,1,403312}Someone created that ceiling...{F801}{F802}And then a champion arrived...{F801}{F802}But I'm the same as I was 25 years ago.{F801}I haven't grown up. I still just cling{F801}to the hope that someone will save me...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Strong-eyed woman\0{F87A,61}{F813,1,403312}Is it true that angel was defeated!?{F801}The one who sealed us in Tokyo...!?{F801}{F802}Then if we get rid of the demons,{F801}can we finally be free...?{F801}</source>
+    <target>{F812}Strong-eyed woman\0{F87A,61}{F813,1,403312}Is it true that angel was defeated!?{F801}The one who sealed us in Tokyo...!?{F801}{F802}Then if we get rid of the demons,{F801}can we finally be free...?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Strong-eyed woman\0{F87A,61}{F813,1,403312}These folks traveled a long way to{F801}find hope in Tokyo, right?{F801}{F802}We've gotta do our best not to{F801}disappoint them.{F801}</source>
+    <target>{F812}Strong-eyed woman\0{F87A,61}{F813,1,403312}These folks traveled a long way to{F801}find hope in Tokyo, right?{F801}{F802}We've gotta do our best not to{F801}disappoint them.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Middle-aged woman\0{F87A,36}{F813,1,403331}The girl next to me seems a little too{F801}excited.{F801}{F802}There's no need to get hysterical.{F801}Whatever happens, happens, right?{F801}</source>
+    <target>{F812}Middle-aged woman\0{F87A,36}{F813,1,403331}The girl next to me seems a little too{F801}excited.{F801}{F802}There's no need to get hysterical.{F801}Whatever happens, happens, right?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403221}The Ashura-kai sure are violent. But hey,{F801}you won't hear me complaining.{F801}{F802}Everyone knows we're still alive today{F801}thanks to their stockpiles of stuff.{F801}{F802}Plus, the electricity they generate{F801}let us live in safety in these{F801}underground districts...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403221}The Ashura-kai sure are violent. But hey,{F801}you won't hear me complaining.{F801}{F802}Everyone knows we're still alive today{F801}thanks to their stockpiles of stuff.{F801}{F802}Plus, the electricity they generate{F801}let us live in safety in these{F801}underground districts...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403221}Hey, have you seen that guy from the{F801}Eastern Kingdom of Mikado?{F801}{F802}He said that the people there worship{F801}God. If you see him again, can you{F801}give him a message from me?{F801}{F802}"There are demons in Tokyo. Ask God{F801}to do something about it."{F801}{F812}Talkative man\0{F87A,79}{F813,1,403241}I hear the tournament to crown the{F801}champion is heating up.{F801}{F802}Everyone's fighting demons... I guess{F801}I should try and pitch in to make the{F801}world a better place, too...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403221}Hey, have you seen that guy from the{F801}Eastern Kingdom of Mikado?{F801}{F802}He said that the people there worship{F801}God. If you see him again, can you{F801}give him a message from me?{F801}{F802}"There are demons in Tokyo. Ask God{F801}to do something about it."{F801}{F812}Talkative man\0{F87A,79}{F813,1,403241}I hear the tournament to crown the{F801}champion is heating up.{F801}{F802}Everyone's fighting demons... I guess{F801}I should try and pitch in to make the{F801}world a better place, too...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403202}Did you guys see a man from the Eastern{F801}Kingdom of Mikado there?{F801}{F802}I hear the people there worship God...{F801}But I'd rather worship a champion over{F801}something I can't actually see.{F801}{F802}"Champion"... Just the sound of it{F801}is inspiring...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403202}Did you guys see a man from the Eastern{F801}Kingdom of Mikado there?{F801}{F802}I hear the people there worship God...{F801}But I'd rather worship a champion over{F801}something I can't actually see.{F801}{F802}"Champion"... Just the sound of it{F801}is inspiring...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403232}I saw a lot of unfamiliar faces in the{F801}underground district today...{F801}{F802}When I talked to them, they said they{F801}were from the Eastern Kingdom of{F801}Mikado...{F801}{F802}They were marching to Kabuki-cho with{F801}this white-haired, dignified man as{F801}their leader...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403232}I saw a lot of unfamiliar faces in the{F801}underground district today...{F801}{F802}When I talked to them, they said they{F801}were from the Eastern Kingdom of{F801}Mikado...{F801}{F802}They were marching to Kabuki-cho with{F801}this white-haired, dignified man as{F801}their leader...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hunter\0{F87A,118}{F813,1,403002}I don't WANT to eat demon meat,{F801}of course...{F801}{F802}But we've eaten all the wild birds in{F801}the area already. We've got nothing{F801}else left...{F801}</source>
+    <target>{F812}Hunter\0{F87A,118}{F813,1,403002}I don't WANT to eat demon meat,{F801}of course...{F801}{F802}But we've eaten all the wild birds in{F801}the area already. We've got nothing{F801}else left...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hunter\0{F87A,118}{F813,1,403012}Those Jirae were living inside the{F801}Metropolitan Government Office before{F801}we were...{F801}{F802}I didn't want to see them kicked out{F801}if it could be avoided... I wish there{F801}was a peaceful way to solve it.{F801}</source>
+    <target>{F812}Hunter\0{F87A,118}{F813,1,403012}Those Jirae were living inside the{F801}Metropolitan Government Office before{F801}we were...{F801}{F802}I didn't want to see them kicked out{F801}if it could be avoided... I wish there{F801}was a peaceful way to solve it.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Hunter\0{F87A,118}{F813,1,403042}Those Jirae were living inside the{F801}Metropolitan Government Office before{F801}we were...{F801}{F802}I'm glad we didn't hurt them, but I{F801}still feel bad about kicking them out.{F801}</source>
+    <target>{F812}Hunter\0{F87A,118}{F813,1,403042}Those Jirae were living inside the{F801}Metropolitan Government Office before{F801}we were...{F801}{F802}I'm glad we didn't hurt them, but I{F801}still feel bad about kicking them out.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403002}We used to joke about hunting demons{F801}to shore up our food supply...{F801}{F802}Now look us. We're the prey...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403002}We used to joke about hunting demons{F801}to shore up our food supply...{F801}{F802}Now look us. We're the prey...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403002}Demon meat is an important source of{F801}food for us. We have to hunt them if{F801}we want to survive...{F801}{F802}I'll go back to my regular job. I doubt{F801}I'll ever be the champion, but I can{F801}still work...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403002}Demon meat is an important source of{F801}food for us. We have to hunt them if{F801}we want to survive...{F801}{F802}I'll go back to my regular job. I doubt{F801}I'll ever be the champion, but I can{F801}still work...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403001}The demons out there are strong, but{F801}we've got you on our side now. I don't{F801}see how we can lose!{F801}{F802}Let's hunt down all the demons!{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403001}The demons out there are strong, but{F801}we've got you on our side now. I don't{F801}see how we can lose!{F801}{F802}Let's hunt down all the demons!{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403001}There are some demons left outside.{F801}But we've got you guys! I don't see{F801}how we can lose.{F801}{F802}Let's hunt down all the demons!{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403001}There are some demons left outside.{F801}But we've got you guys! I don't see{F801}how we can lose.{F801}{F802}Let's hunt down all the demons!{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Craftsman\0{F87A,25}{F813,1,403041}These Tokyo folk are wonderful! They{F801}fight demons without so much as any{F801}Samurai training!{F801}{F802}Perhaps I should forge weapons for{F801}these "Hunters."{F801}</source>
+    <target>{F812}Craftsman\0{F87A,25}{F813,1,403041}These Tokyo folk are wonderful! They{F801}fight demons without so much as any{F801}Samurai training!{F801}{F802}Perhaps I should forge weapons for{F801}these "Hunters."{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404301}Yo, hey! Move out the way! Don't ya{F801}know who I am!? I'm from the Ashura-kai!{F801}{F802}Ya step to me, ya step to Mr. Tayama!{F801}Got that!?{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404301}Yo, hey! Move out the way! Don't ya{F801}know who I am!? I'm from the Ashura-kai!{F801}{F802}Ya step to me, ya step to Mr. Tayama!{F801}Got that!?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404301}Good work on that cleanup job at the{F801}Metropolitan Government Office. Not{F801}bad at all, kid.{F801}{F802}I told Mr. Tayama all about it.{F801}You oughtta thank me.{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404301}Good work on that cleanup job at the{F801}Metropolitan Government Office. Not{F801}bad at all, kid.{F801}{F802}I told Mr. Tayama all about it.{F801}You oughtta thank me.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404301}I heard what ya did at the Metropolitan{F801}Governnment Office. It's no big deal,{F801}since we got 'em outta there...{F801}{F802}I'll be passing word about it on to{F801}Mr. Tayama. Ya oughtta thank me.{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404301}I heard what ya did at the Metropolitan{F801}Governnment Office. It's no big deal,{F801}since we got 'em outta there...{F801}{F802}I'll be passing word about it on to{F801}Mr. Tayama. Ya oughtta thank me.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404321}I saw a huge pillar of light shoot up{F801}through the Ichigaya area...{F801}{F802}Now, I keep myself alive with demons{F801}runnin' around, y'know? So I don't{F801}consider myself a coward or nothin'.{F801}{F802}But when I saw that pillar of light...{F801}For a second, I got so scared that I{F801}thought I was gonna die...{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404321}I saw a huge pillar of light shoot up{F801}through the Ichigaya area...{F801}{F802}Now, I keep myself alive with demons{F801}runnin' around, y'know? So I don't{F801}consider myself a coward or nothin'.{F801}{F802}But when I saw that pillar of light...{F801}For a second, I got so scared that I{F801}thought I was gonna die...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404321}Those selfish bastards at the{F801}Association! Well, Fujiwara was{F801}their padrone, so whaddaya expect...{F801}{F802}They found out about Mr. Tayama.{F801}Fujiwara set it up...{F801}{F802}Looks like that wraps it up for the{F801}Ashura-kai's reign.{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404321}Those selfish bastards at the{F801}Association! Well, Fujiwara was{F801}their padrone, so whaddaya expect...{F801}{F802}They found out about Mr. Tayama.{F801}Fujiwara set it up...{F801}{F802}Looks like that wraps it up for the{F801}Ashura-kai's reign.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404321}Man, these days, everyone's all about{F801}this "Champion." No one gives a rip{F801}anymore that we're with the Ashura-kai.{F801}{F802}Though even if we did use every trick in{F801}the book to hide it, we've basically been{F801}swindling them for 25 years...{F801}{F802}That shriveled-up conscience of mine{F801}has started feelin' guilty after all{F801}these years...{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404321}Man, these days, everyone's all about{F801}this "Champion." No one gives a rip{F801}anymore that we're with the Ashura-kai.{F801}{F802}Though even if we did use every trick in{F801}the book to hide it, we've basically been{F801}swindling them for 25 years...{F801}{F802}That shriveled-up conscience of mine{F801}has started feelin' guilty after all{F801}these years...{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404321}Who were those guys that came down from{F801}above the ceiling? Samurai, huh?{F801}{F802}Bad enough we got Hunters doggin' us.{F801}Plus those stone-headed guys in the{F801}city...{F801}{F802}I tell ya, the Ashura-kai got no place{F801}in Tokyo anymore. Guess I oughtta start{F801}hittin' the bricks for a new job.{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404321}Who were those guys that came down from{F801}above the ceiling? Samurai, huh?{F801}{F802}Bad enough we got Hunters doggin' us.{F801}Plus those stone-headed guys in the{F801}city...{F801}{F802}I tell ya, the Ashura-kai got no place{F801}in Tokyo anymore. Guess I oughtta start{F801}hittin' the bricks for a new job.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Depressed woman\0{F87A,61}{F813,1,403312}I actually live in Atsugi... I was in{F801}Shinjuku for some shopping that day.{F801}{F802}My friend is gone now... I'm alone...{F801}</source>
+    <target>{F812}Depressed woman\0{F87A,61}{F813,1,403312}I actually live in Atsugi... I was in{F801}Shinjuku for some shopping that day.{F801}{F802}My friend is gone now... I'm alone...{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403241}I was chatting with a dude who said he{F801}was from someplace called the Eastern{F801}Kingdom of Mikado...{F801}{F802}According to him, this "Mikado" place{F801}doesn't even have electricity!{F801}{F802}I don't know where that is in Tokyo,{F801}but it sure sounds like a rough life{F801}over there...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403241}I was chatting with a dude who said he{F801}was from someplace called the Eastern{F801}Kingdom of Mikado...{F801}{F802}According to him, this "Mikado" place{F801}doesn't even have electricity!{F801}{F802}I don't know where that is in Tokyo,{F801}but it sure sounds like a rough life{F801}over there...{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403042}Not used{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403042}Not used{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}I heard what ya did in Ikebukuro.{F801}Been busy lately, huh?{F801}{F802}Well, ya'd better keep your nose clean{F801}in Shinjuku. And stay outta Shinjuku{F801}National Park, ya hear?{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}I heard what ya did in Ikebukuro.{F801}Been busy lately, huh?{F801}{F802}Well, ya'd better keep your nose clean{F801}in Shinjuku. And stay outta Shinjuku{F801}National Park, ya hear?{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Depressed woman\0{F87A,61}{F813,1,403312}Huh? There's a Sanctuary in Shinjuku?{F801}{F802}Well... there's a place called Harajuku{F801}there. That's kind of a sanctuary for{F801}teenagers craving radical new fashions.{F801}{F802}Oh? That's not the kind of sanctuary{F801}you meant?{F801}</source>
+    <target>{F812}Depressed woman\0{F87A,61}{F813,1,403312}Huh? There's a Sanctuary in Shinjuku?{F801}{F802}Well... there's a place called Harajuku{F801}there. That's kind of a sanctuary for{F801}teenagers craving radical new fashions.{F801}{F802}Oh? That's not the kind of sanctuary{F801}you meant?{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403241}I was chatting with a dude who said he{F801}was from someplace called the Eastern{F801}Kingdom of Mikado...{F801}{F802}I was only half listening to him, but{F801}the place sounds like a fertile land{F801}with lots of greenery.{F801}{F802}If what he told me is true, I'd love{F801}to visit this Eastern Kingdom of{F801}Mikado someday...{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403241}I was chatting with a dude who said he{F801}was from someplace called the Eastern{F801}Kingdom of Mikado...{F801}{F802}I was only half listening to him, but{F801}the place sounds like a fertile land{F801}with lots of greenery.{F801}{F802}If what he told me is true, I'd love{F801}to visit this Eastern Kingdom of{F801}Mikado someday...{F801}</target>
+  </entry>
+  <entry id="222">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}Don't underestimate the stuff we know,{F801}kid. You've been busy, haven't ya?{F801}{F802}Eh, Samurai boy?{F801}{F802}Well, I'm sure we'll hear more from{F801}you in Shibuya. Just don't piss off{F801}Mr. Tayama, ya get me?{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}Don't underestimate the stuff we know,{F801}kid. You've been busy, haven't ya?{F801}{F802}Eh, Samurai boy?{F801}{F802}Well, I'm sure we'll hear more from{F801}you in Shibuya. Just don't piss off{F801}Mr. Tayama, ya get me?{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Depressed woman\0{F87A,61}{F813,1,403312}Once I had a Hunter I met in Shinjuku{F801}take me to Shibuya.{F801}{F802}It was fun... we had a few laughs,{F801}a few drinks... For a little while,{F801}I forgot all about the ceiling...{F801}{F802}But I guess I can't be that naive{F801}anymore...{F801}</source>
+    <target>{F812}Depressed woman\0{F87A,61}{F813,1,403312}Once I had a Hunter I met in Shinjuku{F801}take me to Shibuya.{F801}{F802}It was fun... we had a few laughs,{F801}a few drinks... For a little while,{F801}I forgot all about the ceiling...{F801}{F802}But I guess I can't be that naive{F801}anymore...{F801}</target>
+  </entry>
+  <entry id="306">
+    <source>{F812}Talkative man\0{F87A,79}{F813,1,403241}Hey, I haven't seen that guy from the{F801}Eastern Kingdom of Mikado...{F801}{F802}He told me that religion is a pretty{F801}big thing there. I don't believe in{F801}God, myself...{F801}{F802}But war is about to break out inside{F801}Tokyo. If there is a God, I wish he'd{F801}save us all.{F801}</source>
+    <target>{F812}Talkative man\0{F87A,79}{F813,1,403241}Hey, I haven't seen that guy from the{F801}Eastern Kingdom of Mikado...{F801}{F802}He told me that religion is a pretty{F801}big thing there. I don't believe in{F801}God, myself...{F801}{F802}But war is about to break out inside{F801}Tokyo. If there is a God, I wish he'd{F801}save us all.{F801}</target>
+  </entry>
+  <entry id="322">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}Don't underestimate the stuff we know,{F801}kid. You've been busy, haven't ya?{F801}{F802}Eh, Samurai boy?{F801}{F802}You better kiss up to Mr. Tayama,{F801}ya hear me? It's the smartest move{F801}ya can make in this city.{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}Don't underestimate the stuff we know,{F801}kid. You've been busy, haven't ya?{F801}{F802}Eh, Samurai boy?{F801}{F802}You better kiss up to Mr. Tayama,{F801}ya hear me? It's the smartest move{F801}ya can make in this city.{F801}</target>
+  </entry>
+  <entry id="400">
+    <source>{F812}Depressed woman\0{F87A,61}{F813,1,403312}I'm originally from Atsugi. I was{F801}shopping in Shinjuku when that ceiling{F801}appeared...{F801}{F802}I had a friend who stayed with me.{F801}We talked a lot about how much we{F801}wanted to go to Roppongi...{F801}{F802}But then... that friend of mine ate{F801}one of the red pills...{F801}</source>
+    <target>{F812}Depressed woman\0{F87A,61}{F813,1,403312}I'm originally from Atsugi. I was{F801}shopping in Shinjuku when that ceiling{F801}appeared...{F801}{F802}I had a friend who stayed with me.{F801}We talked a lot about how much we{F801}wanted to go to Roppongi...{F801}{F802}But then... that friend of mine ate{F801}one of the red pills...{F801}</target>
+  </entry>
+  <entry id="422">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}What's wrong, Samurai kid? Aren't ya{F801}in the middle of a job Mr. Tayama{F801}gave ya?{F801}{F802}Don't ya frickin' tell me you're on{F801}your break right now.{F801}{F802}Speakin' of which... There's a good{F801}coffee shop in Kabuki-cho where I{F801}like to go for a break...{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}What's wrong, Samurai kid? Aren't ya{F801}in the middle of a job Mr. Tayama{F801}gave ya?{F801}{F802}Don't ya frickin' tell me you're on{F801}your break right now.{F801}{F802}Speakin' of which... There's a good{F801}coffee shop in Kabuki-cho where I{F801}like to go for a break...{F801}</target>
+  </entry>
+  <entry id="500">
+    <source>{F812}Depressed woman\0{F87A,61}{F813,1,403312}By the way, a little while before the{F801}ceiling appeared, these strange-looking{F801}people tried to talk to me.{F801}{F802}They were with some kind of religion.{F801}They wanted to take me to Tsukiji{F801}Hongwanji...{F801}</source>
+    <target>{F812}Depressed woman\0{F87A,61}{F813,1,403312}By the way, a little while before the{F801}ceiling appeared, these strange-looking{F801}people tried to talk to me.{F801}{F802}They were with some kind of religion.{F801}They wanted to take me to Tsukiji{F801}Hongwanji...{F801}</target>
+  </entry>
+  <entry id="522">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}Those Ring of Gaea guys who worship{F801}Yuriko are basically power freaks.{F801}{F802}Former pro fighters, company execs,{F801}that kind. People who like to show off{F801}their power.{F801}{F802}But they never think to use their power{F801}to help other folks. It just don't{F801}occur to 'em.{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}Those Ring of Gaea guys who worship{F801}Yuriko are basically power freaks.{F801}{F802}Former pro fighters, company execs,{F801}that kind. People who like to show off{F801}their power.{F801}{F802}But they never think to use their power{F801}to help other folks. It just don't{F801}occur to 'em.{F801}</target>
+  </entry>
+  <entry id="600">
+    <source>{F812}Depressed woman\0{F87A,61}{F813,1,403312}You know, not long after the ceiling{F801}appeared, there were these guys from{F801}the Ashura-kai...{F801}{F802}They asked me if I had any children...{F801}I'm not even married!{F801}</source>
+    <target>{F812}Depressed woman\0{F87A,61}{F813,1,403312}You know, not long after the ceiling{F801}appeared, there were these guys from{F801}the Ashura-kai...{F801}{F802}They asked me if I had any children...{F801}I'm not even married!{F801}</target>
+  </entry>
+  <entry id="622">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}Yuriko's one daredevil of a babe...{F801}Ya know Mr. Tayama's got a Samurai{F801}locked up, yeah?{F801}{F802}She sent a direct message to him through{F801}that... what are those things called?{F801}Gauntlets?{F801}{F802}She said, "I'm coming for your Yamato{F801}Reactor..." They're plannin' to steal{F801}our generator!{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}Yuriko's one daredevil of a babe...{F801}Ya know Mr. Tayama's got a Samurai{F801}locked up, yeah?{F801}{F802}She sent a direct message to him through{F801}that... what are those things called?{F801}Gauntlets?{F801}{F802}She said, "I'm coming for your Yamato{F801}Reactor..." They're plannin' to steal{F801}our generator!{F801}</target>
+  </entry>
+  <entry id="700">
+    <source>{F812}Depressed woman\0{F87A,61}{F813,1,403312}The Yakuza and those cultists are about{F801}to go to war, huh?{F801}{F802}Please... get me out of here! I don't{F801}want to stay in Tokyo anymore! I'm{F801}begging you, get me out of Tokyo...!{F801}</source>
+    <target>{F812}Depressed woman\0{F87A,61}{F813,1,403312}The Yakuza and those cultists are about{F801}to go to war, huh?{F801}{F802}Please... get me out of here! I don't{F801}want to stay in Tokyo anymore! I'm{F801}begging you, get me out of Tokyo...!{F801}</target>
+  </entry>
+  <entry id="1422">
+    <source>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}Rumor has it the guys at Florida have{F801}gone up above the ceiling.{F801}{F802}I hear they used demons to dig through{F801}the Sky Tower's ceiling.{F801}{F802}They even brought in a Terminal they{F801}found somewhere.{F801}{F802}I guess one of them, the guy in charge{F801}used to be a military dude.{F801}</source>
+    <target>{F812}Ashura-kai thug\0{F87A,47}{F813,1,404311}Rumor has it the guys at Florida have{F801}gone up above the ceiling.{F801}{F802}I hear they used demons to dig through{F801}the Sky Tower's ceiling.{F801}{F802}They even brought in a Terminal they{F801}found somewhere.{F801}{F802}I guess one of them, the guy in charge{F801}used to be a military dude.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,162 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Stern Samurai\0{F87A,29}{F813,1,403001}The Gauntlet you gained in that Rite is{F801}a critical tool for we Samurai.{F801}{F802}"How so," you ask? You will see its{F801}value in your training exercises...{F801}</source>
+    <target>{F812}Stern Samurai\0{F87A,29}{F813,1,403001}The Gauntlet you gained in that Rite is{F801}a critical tool for we Samurai.{F801}{F802}"How so," you ask? You will see its{F801}value in your training exercises...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Stern Samurai\0{F87A,29}{F813,1,403042}The Gauntlet you gained in that Rite is{F801}a critical tool for we Samurai.{F801}{F802}Your experiences in training ought to{F801}have proven that much. You must master{F801}the device as soon as possible.{F801}</source>
+    <target>{F812}Stern Samurai\0{F87A,29}{F813,1,403042}The Gauntlet you gained in that Rite is{F801}a critical tool for we Samurai.{F801}{F802}Your experiences in training ought to{F801}have proven that much. You must master{F801}the device as soon as possible.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Stern Samurai\0{F87A,29}{F813,1,403002}Though you may be on leave, do not let{F801}your mind go on holiday as well. Always{F801}be ready for anything.{F801}{F802}Wherever you find yourself, you will{F801}always be a Samurai. Even on holiday,{F801}you have your duties to attend to.{F801}{F802}That said... You should visit the{F801}castle town, since you have your{F801}ticket of leave.{F801}</source>
+    <target>{F812}Stern Samurai\0{F87A,29}{F813,1,403002}Though you may be on leave, do not let{F801}your mind go on holiday as well. Always{F801}be ready for anything.{F801}{F802}Wherever you find yourself, you will{F801}always be a Samurai. Even on holiday,{F801}you have your duties to attend to.{F801}{F802}That said... You should visit the{F801}castle town, since you have your{F801}ticket of leave.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Stern Samurai\0{F87A,29}{F813,1,403042}I've decided to stay in the Eastern{F801}Kingdom of Mikado. You see, I heard that{F801}the Commander will do the same...{F801}{F802}I'm a Samurai. If there is anyone I can{F801}trust with my life, it is he.{F801}</source>
+    <target>{F812}Stern Samurai\0{F87A,29}{F813,1,403042}I've decided to stay in the Eastern{F801}Kingdom of Mikado. You see, I heard that{F801}the Commander will do the same...{F801}{F802}I'm a Samurai. If there is anyone I can{F801}trust with my life, it is he.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Stern Samurai\0{F87A,29}{F813,1,403043}I still bear a grudge against the{F801}disrespect Abbot Hugo showed to our{F801}Commander...{F801}{F802}But oh, how proud I am that my fellow{F801}Samurai have captured the Black Samurai!{F801}</source>
+    <target>{F812}Stern Samurai\0{F87A,29}{F813,1,403043}I still bear a grudge against the{F801}disrespect Abbot Hugo showed to our{F801}Commander...{F801}{F802}But oh, how proud I am that my fellow{F801}Samurai have captured the Black Samurai!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Stern Samurai\0{F87A,29}{F813,1,403002}After the execution, the Black Samurai's{F801}corpse was taken to the Monastery.{F801}{F802}Her remains and effects are being held{F801}as relics. The Monastery shall conduct{F801}an examination of them.{F801}</source>
+    <target>{F812}Stern Samurai\0{F87A,29}{F813,1,403002}After the execution, the Black Samurai's{F801}corpse was taken to the Monastery.{F801}{F802}Her remains and effects are being held{F801}as relics. The Monastery shall conduct{F801}an examination of them.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Stern Samurai\0{F87A,29}{F813,1,403012}I heard this from a fellow who was{F801}guarding the Black Samurai's remains...{F801}{F802}The Black Samurai opened the coffin by{F801}herself and gave him a beautiful, cold{F801}smirk...{F801}{F802}And at that moment, the fellow swore he{F801}saw a monstrous silhouette that couldn't{F801}have been human...{F801}</source>
+    <target>{F812}Stern Samurai\0{F87A,29}{F813,1,403012}I heard this from a fellow who was{F801}guarding the Black Samurai's remains...{F801}{F802}The Black Samurai opened the coffin by{F801}herself and gave him a beautiful, cold{F801}smirk...{F801}{F802}And at that moment, the fellow swore he{F801}saw a monstrous silhouette that couldn't{F801}have been human...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Stern Samurai\0{F87A,29}{F813,1,403043}When someone styles himself a leader,{F801}I immediately feel a slight antipathy{F801}towards him.{F801}{F802}But from their words, I feel an{F801}unmistakable tenderness...{F801}{F802}If these new leaders wish to forge a{F801}future for us, I would follow them to{F801}see it realized.{F801}</source>
+    <target>{F812}Stern Samurai\0{F87A,29}{F813,1,403043}When someone styles himself a leader,{F801}I immediately feel a slight antipathy{F801}towards him.{F801}{F802}But from their words, I feel an{F801}unmistakable tenderness...{F801}{F802}If these new leaders wish to forge a{F801}future for us, I would follow them to{F801}see it realized.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Stern Samurai\0{F87A,29}{F813,1,403002}Thanks to our new leaders, demons are on{F801}the verge of being driven from this land.{F801}{F802}We Samurai had to deceive the people{F801}about the existence of demons while we{F801}secretly worked to exterminate them...{F801}{F802}But now I am free from the guilt that{F801}has tormented me so long. I owe our new{F801}leaders a sincere debt of gratitude...{F801}</source>
+    <target>{F812}Stern Samurai\0{F87A,29}{F813,1,403002}Thanks to our new leaders, demons are on{F801}the verge of being driven from this land.{F801}{F802}We Samurai had to deceive the people{F801}about the existence of demons while we{F801}secretly worked to exterminate them...{F801}{F802}But now I am free from the guilt that{F801}has tormented me so long. I owe our new{F801}leaders a sincere debt of gratitude...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Stern Samurai\0{F87A,29}{F813,1,403042}The Commander has just called an{F801}emergency meeting.{F801}{F802}I saw Isabeau reporting to him...{F801}What is this about...?{F801}</source>
+    <target>{F812}Stern Samurai\0{F87A,29}{F813,1,403042}The Commander has just called an{F801}emergency meeting.{F801}{F802}I saw Isabeau reporting to him...{F801}What is this about...?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403003}I cannot believe Navarre was selected{F801}as one of the new Samurai...{F801}{F802}He hails from a house of royal attendants{F801}and is quite well known for living a life{F801}of decadence.{F801}{F802}I wonder if he is up to the task of{F801}upholding the Samurai code. It'll be{F801}hard going for us all, I suppose...{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403003}I cannot believe Navarre was selected{F801}as one of the new Samurai...{F801}{F802}He hails from a house of royal attendants{F801}and is quite well known for living a life{F801}of decadence.{F801}{F802}I wonder if he is up to the task of{F801}upholding the Samurai code. It'll be{F801}hard going for us all, I suppose...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403002}I've just seen Navarre. The boy was{F801}quite upset.{F801}{F802}Muttering things like "Casualries have{F801}no place dreaming of becoming Samurai"...{F801}{F802}It'll be hard going for us all,{F801}I suppose...{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403002}I've just seen Navarre. The boy was{F801}quite upset.{F801}{F802}Muttering things like "Casualries have{F801}no place dreaming of becoming Samurai"...{F801}{F802}It'll be hard going for us all,{F801}I suppose...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403042}Hoy... is everything all right? I mean{F801}regarding Navarre.{F801}{F802}They say he's shut himself up in his{F801}room and refuses to eat.{F801}{F802}And those who venture near tell me that{F801}through the closed door, they can hear{F801}him cackling like a madman...{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403042}Hoy... is everything all right? I mean{F801}regarding Navarre.{F801}{F802}They say he's shut himself up in his{F801}room and refuses to eat.{F801}{F802}And those who venture near tell me that{F801}through the closed door, they can hear{F801}him cackling like a madman...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403002}I heard that Navarre was discharged{F801}from his duties as a Samurai.{F801}{F802}Officially, his health was at fault,{F801}and the Abbot Hugo granted him an{F801}honorable discharge.{F801}{F802}But in truth, Navarre begged his family{F801}to donate a sizable sum to make it{F801}happen.{F801}{F802}Who else but the Luxurors could pull{F801}such strings? Ugh, merely the thought{F801}of it makes me like to vomit...{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403002}I heard that Navarre was discharged{F801}from his duties as a Samurai.{F801}{F802}Officially, his health was at fault,{F801}and the Abbot Hugo granted him an{F801}honorable discharge.{F801}{F802}But in truth, Navarre begged his family{F801}to donate a sizable sum to make it{F801}happen.{F801}{F802}Who else but the Luxurors could pull{F801}such strings? Ugh, merely the thought{F801}of it makes me like to vomit...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403001}I have heard the news! You've done{F801}fantastic work! Your achievement will{F801}be recorded in the annals of history!{F801}{F802}My, my... The Gauntlet chose some truly{F801}surprising recruits this year...{F801}{F802}Hrm. By that logic, Navarre may have{F801}actually possessed some remarkable{F801}hidden talent as well...{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403001}I have heard the news! You've done{F801}fantastic work! Your achievement will{F801}be recorded in the annals of history!{F801}{F802}My, my... The Gauntlet chose some truly{F801}surprising recruits this year...{F801}{F802}Hrm. By that logic, Navarre may have{F801}actually possessed some remarkable{F801}hidden talent as well...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403011}What was it that Black Samurai said{F801}before she was executed? She claimed{F801}that she'd resurrect, yes?{F801}{F802}Merely brave words from one facing the{F801}end. The battle is won!{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403011}What was it that Black Samurai said{F801}before she was executed? She claimed{F801}that she'd resurrect, yes?{F801}{F802}Merely brave words from one facing the{F801}end. The battle is won!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403021}Speaking as he who served as executioner,{F801}I can say with certainty that she was{F801}pierced in the vitals.{F801}{F802}I felt the usual sensation of a lethal{F801}blow and the enemy's life ebbing. I'm not{F801}so dull as to miss an immobile target.{F801}{F802}So once again, I assure you, I took her{F801}life. 'Twould be unthinkable for her to{F801}rise again after that.{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403021}Speaking as he who served as executioner,{F801}I can say with certainty that she was{F801}pierced in the vitals.{F801}{F802}I felt the usual sensation of a lethal{F801}blow and the enemy's life ebbing. I'm not{F801}so dull as to miss an immobile target.{F801}{F802}So once again, I assure you, I took her{F801}life. 'Twould be unthinkable for her to{F801}rise again after that.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403042}Our new leaders have proclaimed that we{F801}must cast out all the unbelievers for{F801}the sake of our kingdom.{F801}{F802}When I first heard the order, I doubted{F801}the report of my own ears.{F801}{F802}But the new leaders are the sacred{F801}mouthpieces of the Lord...{F801}{F802}And so I shall serve as executioner{F801}with pride and honor. This is the role{F801}I have been given...{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403042}Our new leaders have proclaimed that we{F801}must cast out all the unbelievers for{F801}the sake of our kingdom.{F801}{F802}When I first heard the order, I doubted{F801}the report of my own ears.{F801}{F802}But the new leaders are the sacred{F801}mouthpieces of the Lord...{F801}{F802}And so I shall serve as executioner{F801}with pride and honor. This is the role{F801}I have been given...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403042}Lately, my blade has been employed not{F801}against demons, but to smite the{F801}unbelievers...{F801}{F802}But come the dawn of the new millennium,{F801}I shall be free of this burden.{F801}{F802}That is what drives me to serve as{F801}executioner with pride and honor...{F801}The Lord is with me always.{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403042}Lately, my blade has been employed not{F801}against demons, but to smite the{F801}unbelievers...{F801}{F802}But come the dawn of the new millennium,{F801}I shall be free of this burden.{F801}{F802}That is what drives me to serve as{F801}executioner with pride and honor...{F801}The Lord is with me always.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403001}If Isabeau has told me true, the Eastern{F801}Kingdom of Mikado is... no more...!{F801}{F802}Have our new leaders lied to us!?{F801}But weren't we promised a new{F801}millennium...!?{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403001}If Isabeau has told me true, the Eastern{F801}Kingdom of Mikado is... no more...!{F801}{F802}Have our new leaders lied to us!?{F801}But weren't we promised a new{F801}millennium...!?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403041}What was that fellow's name? Jonathan?{F801}He is a prentice of great promise.{F801}{F802}He comes from a Luxuror family, he is{F801}a capable warrior, and he has a good{F801}head about his shoulders. A true elite.{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403041}What was that fellow's name? Jonathan?{F801}He is a prentice of great promise.{F801}{F802}He comes from a Luxuror family, he is{F801}a capable warrior, and he has a good{F801}head about his shoulders. A true elite.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403041}I have heard about you. You took the top{F801}spot in the training exercises, besting{F801}even Jonathan.{F801}{F802}Everyone's eyes will be on you now,{F801}for both good and ill...{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403041}I have heard about you. You took the top{F801}spot in the training exercises, besting{F801}even Jonathan.{F801}{F802}Everyone's eyes will be on you now,{F801}for both good and ill...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}You're the one who returned from the{F801}demon's Domain, yes? It is good that{F801}you returned alive.{F801}{F802}There are countless records of Samurai{F801}killed in Domains...{F801}{F802}It truly gladdens me to see you hale{F801}and whole.{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}You're the one who returned from the{F801}demon's Domain, yes? It is good that{F801}you returned alive.{F801}{F802}There are countless records of Samurai{F801}killed in Domains...{F801}{F802}It truly gladdens me to see you hale{F801}and whole.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}King Aquila must have had his reasons{F801}to establish the code and pass it down{F801}to us.{F801}{F802}But Abbot Hugo dismissed it as an empty{F801}tradition.{F801}{F802}The head of the Monastery and thus the{F801}kingdom has insulted our first king...!{F801}How dare he!?{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}King Aquila must have had his reasons{F801}to establish the code and pass it down{F801}to us.{F801}{F802}But Abbot Hugo dismissed it as an empty{F801}tradition.{F801}{F802}The head of the Monastery and thus the{F801}kingdom has insulted our first king...!{F801}How dare he!?{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}It was your tireless efforts that brought{F801}the Black Samurai to justice at last.{F801}{F802}Hugo boasts that it was breaking the code{F801}which led to this heroic act, justifying{F801}his decision... But I do not accept this!{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}It was your tireless efforts that brought{F801}the Black Samurai to justice at last.{F801}{F802}Hugo boasts that it was breaking the code{F801}which led to this heroic act, justifying{F801}his decision... But I do not accept this!{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}The Black Samurai seemed to have a face{F801}similar to Sister Gabby's. Or was it{F801}an exact match for hers...?{F801}{F802}I examined the Black Samurai's corpse,{F801}you know. She had the same mole below{F801}the eye as Sister Gabby.{F801}{F802}One serves the Lord... the other defies{F801}Him. And they share a face...?{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}The Black Samurai seemed to have a face{F801}similar to Sister Gabby's. Or was it{F801}an exact match for hers...?{F801}{F802}I examined the Black Samurai's corpse,{F801}you know. She had the same mole below{F801}the eye as Sister Gabby.{F801}{F802}One serves the Lord... the other defies{F801}Him. And they share a face...?{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}The Black Samurai seemed to have a face{F801}similar to Sister Gabby's. Or was it{F801}an exact match for hers...?{F801}{F802}I examined the Black Samurai's corpse,{F801}you know. She had the same mole below{F801}the eye as Sister Gabby.{F801}{F802}I know it amounts to nothing... but I{F801}cannot abandon my suspicions toward{F801}Sister Gabby...{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}The Black Samurai seemed to have a face{F801}similar to Sister Gabby's. Or was it{F801}an exact match for hers...?{F801}{F802}I examined the Black Samurai's corpse,{F801}you know. She had the same mole below{F801}the eye as Sister Gabby.{F801}{F802}I know it amounts to nothing... but I{F801}cannot abandon my suspicions toward{F801}Sister Gabby...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403002}There's no ruler in this kingdom.{F801}No king... No underhanded Luxurors...{F801}{F802}The Eastern Kingdom of Mikado has been{F801}reborn... In God's name, we have all{F801}come together as one.{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403002}There's no ruler in this kingdom.{F801}No king... No underhanded Luxurors...{F801}{F802}The Eastern Kingdom of Mikado has been{F801}reborn... In God's name, we have all{F801}come together as one.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}We've destroyed the Aquila Statue and{F801}scraped off the writings from the{F801}Obelisk...{F801}{F802}The true reason our people were becoming{F801}demons was the surfeit of choice caused{F801}by the knowledge and wisdom they found.{F801}{F802}Our duty is to protect the peace of{F801}this kingdom. I'm sure that King Aquila{F801}will forgive us...{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403042}We've destroyed the Aquila Statue and{F801}scraped off the writings from the{F801}Obelisk...{F801}{F802}The true reason our people were becoming{F801}demons was the surfeit of choice caused{F801}by the knowledge and wisdom they found.{F801}{F802}Our duty is to protect the peace of{F801}this kingdom. I'm sure that King Aquila{F801}will forgive us...{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403002}Ah... {F843,0}...! It has been so{F801}long, my dear fellow...!{F801}{F802}Look at this... We've destroyed the{F801}Aquila Statue on orders from our new{F801}leaders.{F801}{F802}They said that to revere any but God{F801}in this kingdom would be idolatry.{F801}{F802}But if we knew that the kingdom would{F801}perish, we would not have had to{F801}perform such a hateful deed...{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403002}Ah... {F843,0}...! It has been so{F801}long, my dear fellow...!{F801}{F802}Look at this... We've destroyed the{F801}Aquila Statue on orders from our new{F801}leaders.{F801}{F802}They said that to revere any but God{F801}in this kingdom would be idolatry.{F801}{F802}But if we knew that the kingdom would{F801}perish, we would not have had to{F801}perform such a hateful deed...{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Smiling Samurai\0{F87A,117}{F813,1,403002}So we have two Samurai from the{F801}Casualries this year, eh?{F801}{F802}You and... Who was the other? Ah, right,{F801}Walter from that fishing village, yes?{F801}</source>
+    <target>{F812}Smiling Samurai\0{F87A,117}{F813,1,403002}So we have two Samurai from the{F801}Casualries this year, eh?{F801}{F802}You and... Who was the other? Ah, right,{F801}Walter from that fishing village, yes?{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Baritone Samurai\0{F87A,117}{F813,1,403041}Abbot Hugo announced that the Terminal{F801}is back in service.{F801}{F802}Now we can approach Tokyo, the country{F801}of the Unclean Ones, without going{F801}through Naraku.{F801}</source>
+    <target>{F812}Baritone Samurai\0{F87A,117}{F813,1,403041}Abbot Hugo announced that the Terminal{F801}is back in service.{F801}{F802}Now we can approach Tokyo, the country{F801}of the Unclean Ones, without going{F801}through Naraku.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Baritone Samurai\0{F87A,117}{F813,1,403021}I hear executions bandied about quite{F801}often of late. I suppose Abbot Hugo is{F801}fond of the phrase...{F801}{F802}We have "executed" many of those who{F801}became demons by reading Literature...{F801}{F802}Abbot Hugo told us to think of them as{F801}"executions" rather than "cold-blooded{F801}murder." If those are his wishes...{F801}</source>
+    <target>{F812}Baritone Samurai\0{F87A,117}{F813,1,403021}I hear executions bandied about quite{F801}often of late. I suppose Abbot Hugo is{F801}fond of the phrase...{F801}{F802}We have "executed" many of those who{F801}became demons by reading Literature...{F801}{F802}Abbot Hugo told us to think of them as{F801}"executions" rather than "cold-blooded{F801}murder." If those are his wishes...{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Baritone Samurai\0{F87A,117}{F813,1,403002}If the Black Samurai has resurrected...{F801}We must start the executions anew...{F801}{F802}More of those who turn to demons must{F801}be put to the sword...{F801}</source>
+    <target>{F812}Baritone Samurai\0{F87A,117}{F813,1,403002}If the Black Samurai has resurrected...{F801}We must start the executions anew...{F801}{F802}More of those who turn to demons must{F801}be put to the sword...{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Baritone Samurai\0{F87A,117}{F813,1,403021}I have never met the new leaders{F801}in person...{F801}{F802}But the fact that all the demons have{F801}disappeared from the kingdom is proof{F801}enough of their presence...{F801}</source>
+    <target>{F812}Baritone Samurai\0{F87A,117}{F813,1,403021}I have never met the new leaders{F801}in person...{F801}{F802}But the fact that all the demons have{F801}disappeared from the kingdom is proof{F801}enough of their presence...{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403002}I've just seen Navarre. He was smirking{F801}for some reason...{F801}{F802}Muttering something about "a lesson{F801}those Casualries won't soon forget"...{F801}{F802}It'll be hard going for us all,{F801}I suppose...{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403002}I've just seen Navarre. He was smirking{F801}for some reason...{F801}{F802}Muttering something about "a lesson{F801}those Casualries won't soon forget"...{F801}{F802}It'll be hard going for us all,{F801}I suppose...{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403011}Oh! I'm ever so glad you came!{F801}{F802}A stream of demons came from Naraku!{F801}So many of our fellows are dead...{F801}{F802}We've destroyed the Aquila Statue and{F801}scraped off the writings from the{F801}Obelisk...{F801}{F802}Though we did this on orders from our{F801}new leaders... P-Perhaps 'tis King{F801}Aquila's curse...{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403011}Oh! I'm ever so glad you came!{F801}{F802}A stream of demons came from Naraku!{F801}So many of our fellows are dead...{F801}{F802}We've destroyed the Aquila Statue and{F801}scraped off the writings from the{F801}Obelisk...{F801}{F802}Though we did this on orders from our{F801}new leaders... P-Perhaps 'tis King{F801}Aquila's curse...{F801}</target>
+  </entry>
+  <entry id="129">
+    <source>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403002}The people of the kingdom have already{F801}departed.{F801}{F802}The Samurai have taken up the job of{F801}escorting the people as guards, taking{F801}them safely to a place called Shinjuku.{F801}{F802}We who remain are patrolling each{F801}region to ensure none are left behind.{F801}</source>
+    <target>{F812}Intellectual Samurai\0{F87A,114}{F813,1,403002}The people of the kingdom have already{F801}departed.{F801}{F802}The Samurai have taken up the job of{F801}escorting the people as guards, taking{F801}them safely to a place called Shinjuku.{F801}{F802}We who remain are patrolling each{F801}region to ensure none are left behind.{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403002}I've just seen Navarre headed for{F801}Naraku... The odd thing was, he was{F801}skipping.{F801}{F802}Muttering something about "The Casualries{F801}are finished!" He seemed very happy{F801}for some reason.{F801}{F802}Perhaps he's finally found his feet as{F801}a Samurai. In which case, I should be{F801}cheering him on, shouldn't I?{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403002}I've just seen Navarre headed for{F801}Naraku... The odd thing was, he was{F801}skipping.{F801}{F802}Muttering something about "The Casualries{F801}are finished!" He seemed very happy{F801}for some reason.{F801}{F802}Perhaps he's finally found his feet as{F801}a Samurai. In which case, I should be{F801}cheering him on, shouldn't I?{F801}</target>
+  </entry>
+  <entry id="311">
+    <source>{F812}Imposing Samurai\0{F87A,116}{F813,1,403002}Hoy... is everything all right? I mean{F801}regarding Navarre.{F801}{F802}I saw Jonathan carrying him to the{F801}barracks.{F801}{F802}He didn't seem hurt, but he was cackling{F801}like a madman...{F801}</source>
+    <target>{F812}Imposing Samurai\0{F87A,116}{F813,1,403002}Hoy... is everything all right? I mean{F801}regarding Navarre.{F801}{F802}I saw Jonathan carrying him to the{F801}barracks.{F801}{F802}He didn't seem hurt, but he was cackling{F801}like a madman...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}Today is like any other peaceful day{F801}in the Eastern Kingdom of Mikado.{F801}No sign of conflicts or strife.{F801}{F802}There were a few of the usual skirmishes,{F801}of course, but nothing like what a Samurai{F801}might face elsewhere.{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}Today is like any other peaceful day{F801}in the Eastern Kingdom of Mikado.{F801}No sign of conflicts or strife.{F801}{F802}There were a few of the usual skirmishes,{F801}of course, but nothing like what a Samurai{F801}might face elsewhere.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}Hail, fellow prentices. Are you growing{F801}accustomed to being Samurai?{F801}{F802}You have proven yourselves in the{F801}"field exercise" and the teachings of{F801}Sir K. You have done well.{F801}{F802}Seize today to relax and make merry{F801}like the youths you are.{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}Hail, fellow prentices. Are you growing{F801}accustomed to being Samurai?{F801}{F802}You have proven yourselves in the{F801}"field exercise" and the teachings of{F801}Sir K. You have done well.{F801}{F802}Seize today to relax and make merry{F801}like the youths you are.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}Dummy Message{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}Dummy Message{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403011}I have heard that the Monastery is{F801}ready to formally declare the reading{F801}of Literature to be anathema.{F801}{F802}What will I tell the people if they{F801}ask me why? Shall I be direct and say{F801}it turns one into a demon...?{F801}{F802}I am not certain how to answer such{F801}a question...{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403011}I have heard that the Monastery is{F801}ready to formally declare the reading{F801}of Literature to be anathema.{F801}{F802}What will I tell the people if they{F801}ask me why? Shall I be direct and say{F801}it turns one into a demon...?{F801}{F802}I am not certain how to answer such{F801}a question...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}We've searched the people's homes while{F801}they attended the public execution...{F801}{F802}Much Literature has been confiscated.{F801}Though I doubt the people have given{F801}up their passion for it...{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}We've searched the people's homes while{F801}they attended the public execution...{F801}{F802}Much Literature has been confiscated.{F801}Though I doubt the people have given{F801}up their passion for it...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}I'll tell you what I have experienced{F801}of late, but I must preface it by{F801}insisting that I have not gone mad.{F801}{F802}I had the honor of seeing our new{F801}leader in a dream... Her inconceivably{F801}warm voice encouraged me...{F801}{F802}The next day, I found that the people{F801}had regained their peace, as if they{F801}had been exorcised...{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}I'll tell you what I have experienced{F801}of late, but I must preface it by{F801}insisting that I have not gone mad.{F801}{F802}I had the honor of seeing our new{F801}leader in a dream... Her inconceivably{F801}warm voice encouraged me...{F801}{F802}The next day, I found that the people{F801}had regained their peace, as if they{F801}had been exorcised...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}Today is like any other peaceful day{F801}in the Eastern Kingdom of Mikado.{F801}No sign of conflicts or strife.{F801}{F802}Our new leaders have informed us that no{F801}more Black Samurai shall emerge in{F801}this kingdom.{F801}{F802}We will at last be rid of the demons{F801}that tormented our kingdom for so long...{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}Today is like any other peaceful day{F801}in the Eastern Kingdom of Mikado.{F801}No sign of conflicts or strife.{F801}{F802}Our new leaders have informed us that no{F801}more Black Samurai shall emerge in{F801}this kingdom.{F801}{F802}We will at last be rid of the demons{F801}that tormented our kingdom for so long...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}I love my fellow subjects dearly.{F801}But at the same time, they are the{F801}seedbeds of the demons...{F801}{F802}Does the Samurai code compel me to{F801}protect the roots of this evil? I felt{F801}conflicted over my duties...{F801}{F802}But then I saw Isabeau dashing about,{F801}desperate to pacify and listen to the{F801}people.{F801}{F802}I understand now that I needn't{F801}rationalize it at all. I love both{F801}the kingdom and its people...{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}I love my fellow subjects dearly.{F801}But at the same time, they are the{F801}seedbeds of the demons...{F801}{F802}Does the Samurai code compel me to{F801}protect the roots of this evil? I felt{F801}conflicted over my duties...{F801}{F802}But then I saw Isabeau dashing about,{F801}desperate to pacify and listen to the{F801}people.{F801}{F802}I understand now that I needn't{F801}rationalize it at all. I love both{F801}the kingdom and its people...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Guiding Samurai\0{F87A,117}{F813,1,403002}Hello. Are you two here for the{F801}Gauntlet ceremony?{F801}{F802}Then you'll want to go inside Mikado{F801}Castle and make for the Aquila Statue{F801}Plaza.{F801}</source>
+    <target>{F812}Guiding Samurai\0{F87A,117}{F813,1,403002}Hello. Are you two here for the{F801}Gauntlet ceremony?{F801}{F802}Then you'll want to go inside Mikado{F801}Castle and make for the Aquila Statue{F801}Plaza.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Guiding Samurai\0{F87A,115}{F813,1,403001}Do not be fooled by my clothing.{F801}I, too, am a Samurai.{F801}{F802}I am conducting a mission incognito,{F801}you see. You might say I am looking{F801}for a suspicious person...{F801}{F802}In recent days, the man has seemed to{F801}enter and exit the castle town quite{F801}frequently.{F801}{F802}The scuttlebutt is that the man is{F801}providing something to the Casualries.{F801}{F802}I've been watching from this post since{F801}morning, though. I suppose he may not{F801}show his face today...{F801}</source>
+    <target>{F812}Guiding Samurai\0{F87A,115}{F813,1,403001}Do not be fooled by my clothing.{F801}I, too, am a Samurai.{F801}{F802}I am conducting a mission incognito,{F801}you see. You might say I am looking{F801}for a suspicious person...{F801}{F802}In recent days, the man has seemed to{F801}enter and exit the castle town quite{F801}frequently.{F801}{F802}The scuttlebutt is that the man is{F801}providing something to the Casualries.{F801}{F802}I've been watching from this post since{F801}morning, though. I suppose he may not{F801}show his face today...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Guiding Samurai\0{F87A,117}{F813,1,403043}The Black Samurai has been sighted in{F801}many places around Mikado.{F801}{F802}The first sightings were in Cheoda and{F801}Setteguye, but she has been seen all{F801}around the Eastern Kingdom of Mikado.{F801}{F802}I must say, it's hard to believe. How{F801}can she move so quickly in so short{F801}a time?{F801}</source>
+    <target>{F812}Guiding Samurai\0{F87A,117}{F813,1,403043}The Black Samurai has been sighted in{F801}many places around Mikado.{F801}{F802}The first sightings were in Cheoda and{F801}Setteguye, but she has been seen all{F801}around the Eastern Kingdom of Mikado.{F801}{F802}I must say, it's hard to believe. How{F801}can she move so quickly in so short{F801}a time?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Guiding Samurai\0{F87A,117}{F813,1,403002}The Black Samurai said she would{F801}live again...{F801}{F802}The subjects who attended the public{F801}execution spread word of her claim far{F801}and wide across Mikado.{F801}{F802}In some regions, they are only holding{F801}more Sabbaths to pray for her revival!{F801}This turn of events is alarming...{F801}</source>
+    <target>{F812}Guiding Samurai\0{F87A,117}{F813,1,403002}The Black Samurai said she would{F801}live again...{F801}{F802}The subjects who attended the public{F801}execution spread word of her claim far{F801}and wide across Mikado.{F801}{F802}In some regions, they are only holding{F801}more Sabbaths to pray for her revival!{F801}This turn of events is alarming...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Guiding Samurai\0{F87A,117}{F813,1,403022}In many regions of the kingdom, those{F801}who supported the Black Samurai or took{F801}part in Sabbaths have disappeared.{F801}{F802}Perhaps it was God's wrath, as our{F801}new leader would have it.{F801}{F802}People in this kingdom now fear and{F801}respect God... it has brought down the{F801}number of Sabbaths held dramatically.{F801}</source>
+    <target>{F812}Guiding Samurai\0{F87A,117}{F813,1,403022}In many regions of the kingdom, those{F801}who supported the Black Samurai or took{F801}part in Sabbaths have disappeared.{F801}{F802}Perhaps it was God's wrath, as our{F801}new leader would have it.{F801}{F802}People in this kingdom now fear and{F801}respect God... it has brought down the{F801}number of Sabbaths held dramatically.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Guiding Samurai\0{F87A,117}{F813,1,403002}On advice from our new leaders, we are{F801}conducting a loyalty test in many{F801}regions across the kingdom.{F801}{F802}We show an image of the Black Samurai{F801}and see if a subject is willing to{F801}trample it underfoot.{F801}{F802}This splendid idea will allow us to root{F801}out what demon forces remain. Soon, our{F801}kingdom shall be free from their curse.{F801}</source>
+    <target>{F812}Guiding Samurai\0{F87A,117}{F813,1,403002}On advice from our new leaders, we are{F801}conducting a loyalty test in many{F801}regions across the kingdom.{F801}{F802}We show an image of the Black Samurai{F801}and see if a subject is willing to{F801}trample it underfoot.{F801}{F802}This splendid idea will allow us to root{F801}out what demon forces remain. Soon, our{F801}kingdom shall be free from their curse.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Guiding Samurai\0{F87A,117}{F813,1,403001}Some of the people, upset that the new{F801}leaders make no public appearances,{F801}have started to hold Sabbaths again.{F801}{F802}It has forced me to think about one{F801}thing I should have considered sooner.{F801}Why we control the friendly demons...{F801}{F802}After all, humans and demons are but{F801}two sides of a coin. Perhaps we should{F801}not be separated...{F801}{F802}It may be better to attempt to live in{F801}harmony with them. There may be one out{F801}there testing this point...{F801}</source>
+    <target>{F812}Guiding Samurai\0{F87A,117}{F813,1,403001}Some of the people, upset that the new{F801}leaders make no public appearances,{F801}have started to hold Sabbaths again.{F801}{F802}It has forced me to think about one{F801}thing I should have considered sooner.{F801}Why we control the friendly demons...{F801}{F802}After all, humans and demons are but{F801}two sides of a coin. Perhaps we should{F801}not be separated...{F801}{F802}It may be better to attempt to live in{F801}harmony with them. There may be one out{F801}there testing this point...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Demon\0{F87A,-311}{F813,1,411007}I swear, the people in this country...{F801}Are they nuts!? C'mon, look at me!{F801}I'm a frickin' demon, y'know?{F801}{F802}But all they do when they see me is{F801}scream and whimper God's name. They{F801}don't even try to run!{F801}{F802}And that ain't no fun at all! The{F801}thrill of the hunt is in the chase!{F801}</source>
+    <target>{F812}Demon\0{F87A,-311}{F813,1,411007}I swear, the people in this country...{F801}Are they nuts!? C'mon, look at me!{F801}I'm a frickin' demon, y'know?{F801}{F802}But all they do when they see me is{F801}scream and whimper God's name. They{F801}don't even try to run!{F801}{F802}And that ain't no fun at all! The{F801}thrill of the hunt is in the chase!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Guiding Samurai\0{F87A,117}{F813,1,403002}There are some who are opposed to the{F801}idea of moving to a new land...{F801}{F802}But all it took was the mention of{F801}your name to convince them and stop{F801}their grumbling.{F801}{F802}It crossed my mind at such times that{F801}God is a necessary evil to keep the{F801}people in line... {F801}</source>
+    <target>{F812}Guiding Samurai\0{F87A,117}{F813,1,403002}There are some who are opposed to the{F801}idea of moving to a new land...{F801}{F802}But all it took was the mention of{F801}your name to convince them and stop{F801}their grumbling.{F801}{F802}It crossed my mind at such times that{F801}God is a necessary evil to keep the{F801}people in line... {F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403011}Even if the Monastery wants to prohibit{F801}Literature, once people have the taste{F801}for it, they won't easily give it up.{F801}{F802}I hear that the people pretend to{F801}normalcy while concealing the books.{F801}They loan them out to one another...{F801}{F802}We are certain of it, but we haven't{F801}proof. And I loathe myself for turning{F801}a suspicious eye on my fellow subjects.{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403011}Even if the Monastery wants to prohibit{F801}Literature, once people have the taste{F801}for it, they won't easily give it up.{F801}{F802}I hear that the people pretend to{F801}normalcy while concealing the books.{F801}They loan them out to one another...{F801}{F802}We are certain of it, but we haven't{F801}proof. And I loathe myself for turning{F801}a suspicious eye on my fellow subjects.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}Were I to ask any subject if he had{F801}read Literature, he would respond:{F801}{F802}"Of course not, master Samurai, Sir!"{F801}{F802}It saddens me... The glorious people,{F801}chosen by God to be part of our{F801}kingdom...{F801}{F802}They have learned deceit in order to{F801}indulge their desires...{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}Were I to ask any subject if he had{F801}read Literature, he would respond:{F801}{F802}"Of course not, master Samurai, Sir!"{F801}{F802}It saddens me... The glorious people,{F801}chosen by God to be part of our{F801}kingdom...{F801}{F802}They have learned deceit in order to{F801}indulge their desires...{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}We considered bringing the pigs along{F801}with us to Tokyo...{F801}{F802}But in the end, we had to preserve most{F801}of them in salt and let the people{F801}bring them that way.{F801}{F802}They made the ultimate sacrifice for us.{F801}It reminds us how precarious our{F801}situation is.{F801}{F802}We must not forget all that. We must{F801}stay humble in the new world...{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}We considered bringing the pigs along{F801}with us to Tokyo...{F801}{F802}But in the end, we had to preserve most{F801}of them in salt and let the people{F801}bring them that way.{F801}{F802}They made the ultimate sacrifice for us.{F801}It reminds us how precarious our{F801}situation is.{F801}{F802}We must not forget all that. We must{F801}stay humble in the new world...{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Guiding Samurai\0{F87A,117}{F813,1,403043}There were some men who had planned a{F801}protest movement upon hearing that the{F801}Black Samurai was to be executed.{F801}{F802}To a man, they turned out to be covert{F801}supporters of the Black Samurai. We've{F801}rounded them all up, naturally.{F801}{F802}But no matter how tight a grip we try{F801}to keep on some things, word of mouth{F801}always slips through our fingers...{F801}</source>
+    <target>{F812}Guiding Samurai\0{F87A,117}{F813,1,403043}There were some men who had planned a{F801}protest movement upon hearing that the{F801}Black Samurai was to be executed.{F801}{F802}To a man, they turned out to be covert{F801}supporters of the Black Samurai. We've{F801}rounded them all up, naturally.{F801}{F802}But no matter how tight a grip we try{F801}to keep on some things, word of mouth{F801}always slips through our fingers...{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403011}Abbot Hugo has devised a scheme to{F801}invite the people into Mikado Castle.{F801}{F802}While they attend the public execution,{F801}the Samurai are under orders to search{F801}their dwellings.{F801}{F802}Abbot Hugo would have we noble Samurai{F801}doing the work of common thieves!{F801}It is preposterous!{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403011}Abbot Hugo has devised a scheme to{F801}invite the people into Mikado Castle.{F801}{F802}While they attend the public execution,{F801}the Samurai are under orders to search{F801}their dwellings.{F801}{F802}Abbot Hugo would have we noble Samurai{F801}doing the work of common thieves!{F801}It is preposterous!{F801}</target>
+  </entry>
+</mbm>

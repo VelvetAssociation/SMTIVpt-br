@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-64}{F813,1,412002}What is it? If you have questions,{F801}don't bother me and go find the one{F801}in charge here.{F801}{F802}Mastema should be up on the highest{F801}floor of this building.{F801}</source>
+    <target>{F812}Demon\0{F87A,-64}{F813,1,412002}What is it? If you have questions,{F801}don't bother me and go find the one{F801}in charge here.{F801}{F802}Mastema should be up on the highest{F801}floor of this building.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-64}{F813,1,412008}The Ashura-kai have been destroyed...{F801}That's fine with me.{F801}{F802}I never liked Reds anyway, and their{F801}army was terrible.{F801}</source>
+    <target>{F812}Demon\0{F87A,-64}{F813,1,412008}The Ashura-kai have been destroyed...{F801}That's fine with me.{F801}{F802}I never liked Reds anyway, and their{F801}army was terrible.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}悪魔\0{F87A,-64}{F813,1,412006}マñセマット[様/さま]が[倒/たお]された…ッ{F801}[私/わたし]たちはどうすればいいのですか…?{F801}</source>
+    <target>{F812}悪魔\0{F87A,-64}{F813,1,412006}マñセマット[様/さま]が[倒/たお]された…ッ{F801}[私/わたし]たちはどうすればいいのですか…?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}悪魔\0{F87A,-64}{F813,1,412006}メúカバーが[人間/にんげん]によって{F801}[倒/たお]されたというのは[本当/ほんとう]なのですか?{F801}{F802}[信/しん]じらせません…{F801}[人間/にんげん]にそれほどの[力/ちから]があるはずが…{F801}</source>
+    <target>{F812}悪魔\0{F87A,-64}{F813,1,412006}メúカバーが[人間/にんげん]によって{F801}[倒/たお]されたというのは[本当/ほんとう]なのですか?{F801}{F802}[信/しん]じらせません…{F801}[人間/にんげん]にそれほどの[力/ちから]があるはずが…{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}悪魔\0{F87A,-64}{F813,1,412007}[悪魔/あくま]の[巣窟/そうくつ]と[化/か]したこの[場所/ばしょ]を{F801}[人間/にんげん]が[放/ほう]っておくとは[思/おも]えません{F801}{F802}…[早々/そうそう]にここを[去/さ]ることにします{F801}マñセマット[様/さま] お[許/ゆる]しを…{F801}</source>
+    <target>{F812}悪魔\0{F87A,-64}{F813,1,412007}[悪魔/あくま]の[巣窟/そうくつ]と[化/か]したこの[場所/ばしょ]を{F801}[人間/にんげん]が[放/ほう]っておくとは[思/おも]えません{F801}{F802}…[早々/そうそう]にここを[去/さ]ることにします{F801}マñセマット[様/さま] お[許/ゆる]しを…{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Demon\0{F87A,-105}{F813,1,413201}It's annoying that some black-winged{F801}jerk from who-knows-where has taken{F801}over Tokyo...{F801}{F802}Still, it's best to leave the{F801}negotiation stuff to Tayama.{F801}{F802}As long as he can supply Reds to us,{F801}we'll tolerate him.{F801}</source>
+    <target>{F812}Demon\0{F87A,-105}{F813,1,413201}It's annoying that some black-winged{F801}jerk from who-knows-where has taken{F801}over Tokyo...{F801}{F802}Still, it's best to leave the{F801}negotiation stuff to Tayama.{F801}{F802}As long as he can supply Reds to us,{F801}we'll tolerate him.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Demon\0{F87A,-105}{F813,1,413200}It seems that a certain human{F801}connected the human world with the{F801}Expanse.{F801}{F802}Whoever did that must be confident{F801}in his skills. If I ever get the{F801}chance to meet that person...{F801}{F802}...That's one human I would love to{F801}duel with.{F801}</source>
+    <target>{F812}Demon\0{F87A,-105}{F813,1,413200}It seems that a certain human{F801}connected the human world with the{F801}Expanse.{F801}{F802}Whoever did that must be confident{F801}in his skills. If I ever get the{F801}chance to meet that person...{F801}{F802}...That's one human I would love to{F801}duel with.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}悪魔\0{F87A,-105}{F813,1,411206}[大天使/だいてんし]の[差/さ]し[金/がね]で{F801}マñセマット[様/さま]が[殺/や]られたってのか?{F801}{F802}ちくしょう…ッ{F801}[何/なん]てことしてくれやがる{F801}</source>
+    <target>{F812}悪魔\0{F87A,-105}{F813,1,411206}[大天使/だいてんし]の[差/さ]し[金/がね]で{F801}マñセマット[様/さま]が[殺/や]られたってのか?{F801}{F802}ちくしょう…ッ{F801}[何/なん]てことしてくれやがる{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Demon\0{F87A,-104}{F813,1,418000}If you're headed to that place the{F801}humans call a farm, then you need to{F801}get the barrier lifted.{F801}{F802}Why don't you go ask Mastema if{F801}you're that desperate?{F801}</source>
+    <target>{F812}Demon\0{F87A,-104}{F813,1,418000}If you're headed to that place the{F801}humans call a farm, then you need to{F801}get the barrier lifted.{F801}{F802}Why don't you go ask Mastema if{F801}you're that desperate?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Demon\0{F87A,-104}{F813,1,418000}Underneath the Roppongi building,{F801}there's this place the humans keep{F801}calling a farm.{F801}{F802}They don't produce any plants or{F801}animals... but it's a farm, all right.{F801}</source>
+    <target>{F812}Demon\0{F87A,-104}{F813,1,418000}Underneath the Roppongi building,{F801}there's this place the humans keep{F801}calling a farm.{F801}{F802}They don't produce any plants or{F801}animals... but it's a farm, all right.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Demon\0{F87A,-104}{F813,1,418002}The humans living below Roppongi{F801}would die if all the humans in Tokyo{F801}disappeared, right?{F801}{F802}They don't even get a say on whether{F801}they live or die... It's hilarious!{F801}</source>
+    <target>{F812}Demon\0{F87A,-104}{F813,1,418002}The humans living below Roppongi{F801}would die if all the humans in Tokyo{F801}disappeared, right?{F801}{F802}They don't even get a say on whether{F801}they live or die... It's hilarious!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Demon\0{F87A,-104}{F813,1,418002}The humans living below Roppongi{F801}would die if all the humans in Tokyo{F801}disappeared, right?{F801}{F802}Well, the humans of Tokyo will be{F801}eaten by demons, so those humans{F801}underground are going to die, too.{F801}</source>
+    <target>{F812}Demon\0{F87A,-104}{F813,1,418002}The humans living below Roppongi{F801}would die if all the humans in Tokyo{F801}disappeared, right?{F801}{F802}Well, the humans of Tokyo will be{F801}eaten by demons, so those humans{F801}underground are going to die, too.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}悪魔\0{F87A,-104}{F813,1,418008}マñセマット[様/さま]が[独断/どくだん]で[動/うご]いていたことは{F801}知っていたわ…{F801}{F802}でもまさか [同胞/どうほう]を[手/て]にかけるなんて…{F801}[天使/てんし]も[色々/いろいろ]と[汚/けが]れているようね{F801}</source>
+    <target>{F812}悪魔\0{F87A,-104}{F813,1,418008}マñセマット[様/さま]が[独断/どくだん]で[動/うご]いていたことは{F801}知っていたわ…{F801}{F802}でもまさか [同胞/どうほう]を[手/て]にかけるなんて…{F801}[天使/てんし]も[色々/いろいろ]と[汚/けが]れているようね{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}悪魔\0{F87A,-104}{F813,1,418004}[人間/にんげん]たちは [本気/ほんき]で[自分/じぶん]たちの{F801}[時代/じだい]を[勝/か]ち[取/と]ろうとしているようね{F801}{F802}マñセマット[様/さま]は この[動/うご]きについて{F801}どうお[考/かんが]えなのかしら…{F801}</source>
+    <target>{F812}悪魔\0{F87A,-104}{F813,1,418004}[人間/にんげん]たちは [本気/ほんき]で[自分/じぶん]たちの{F801}[時代/じだい]を[勝/か]ち[取/と]ろうとしているようね{F801}{F802}マñセマット[様/さま]は この[動/うご]きについて{F801}どうお[考/かんが]えなのかしら…{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}悪魔\0{F87A,-104}{F813,1,418004}[人間/にんげん]が[主役/しゅやく]となる[時代/じだい]の[訪/おとず]れは{F801}もはや[疑/うたが]う[余地/よち]もないわ{F801}{F802}マñセマット[様/さま]は{F801}これからどうされるのかしら…{F801}</source>
+    <target>{F812}悪魔\0{F87A,-104}{F813,1,418004}[人間/にんげん]が[主役/しゅやく]となる[時代/じだい]の[訪/おとず]れは{F801}もはや[疑/うたが]う[余地/よち]もないわ{F801}{F802}マñセマット[様/さま]は{F801}これからどうされるのかしら…{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Demon\0{F87A,-105}{F813,1,413204}Even if Tayama was killed by that{F801}witch of night, someone else like{F801}him will pop up.{F801}{F802}All we need to do is wait for someone{F801}who is willing to negotiate with{F801}demons to come to power...{F801}{F802}No matter what happens, there's no{F801}downside for us. Hahaha...{F801}</source>
+    <target>{F812}Demon\0{F87A,-105}{F813,1,413204}Even if Tayama was killed by that{F801}witch of night, someone else like{F801}him will pop up.{F801}{F802}All we need to do is wait for someone{F801}who is willing to negotiate with{F801}demons to come to power...{F801}{F802}No matter what happens, there's no{F801}downside for us. Hahaha...{F801}</target>
+  </entry>
+</mbm>

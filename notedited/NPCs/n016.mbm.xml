@@ -1,0 +1,86 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Male demonoid\0{F87A,167}{F813,1,412103}Who the... I haven't seen you around.{F801}You don't look like a demonoid...{F801}{F802}Are you a neurisher on the run from{F801}a nearby town? But there's nothing{F801}on top of your head...{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,167}{F813,1,412103}Who the... I haven't seen you around.{F801}You don't look like a demonoid...{F801}{F802}Are you a neurisher on the run from{F801}a nearby town? But there's nothing{F801}on top of your head...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Male demonoid\0{F87A,167}{F813,1,412101}Ever since I became a demonoid, I've{F801}lost track of the news and the net...{F801}{F802}I'm sure no one knows what's going on{F801}outside Tokyo.{F801}{F802}Since we wrecked the place, there's no{F801}communication technology left. Even the{F801}terrain's different.{F801}{F802}But if the demons did kick the angels'{F801}asses, I bet America and China are in{F801}basically the same situation.{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,167}{F813,1,412101}Ever since I became a demonoid, I've{F801}lost track of the news and the net...{F801}{F802}I'm sure no one knows what's going on{F801}outside Tokyo.{F801}{F802}Since we wrecked the place, there's no{F801}communication technology left. Even the{F801}terrain's different.{F801}{F802}But if the demons did kick the angels'{F801}asses, I bet America and China are in{F801}basically the same situation.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Male neurisher\0{F87A,105}{F813,1,403421}Y-You... Are you here to... eat me...?{F801}W-Well... Just don't do it literally...{F801}please?{F801}{F802}I'll try to remember the girl I had a{F801}crush on 25 years ago...{F801}{F802}After three minutes, you can pop off{F801}my plug cover, stick in a straw, and{F801}suck away from there...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,105}{F813,1,403421}Y-You... Are you here to... eat me...?{F801}W-Well... Just don't do it literally...{F801}please?{F801}{F802}I'll try to remember the girl I had a{F801}crush on 25 years ago...{F801}{F802}After three minutes, you can pop off{F801}my plug cover, stick in a straw, and{F801}suck away from there...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Male neurisher\0{F87A,105}{F813,1,403412}It's hell living like this... I wish{F801}I could let go of my emotions...{F801}{F802}But that won't help. If I stop feeling,{F801}my brain won't produce the juice.{F801}{F802}And there's only one end for a useless{F801}neurisher. Getting eaten alive...{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,105}{F813,1,403412}It's hell living like this... I wish{F801}I could let go of my emotions...{F801}{F802}But that won't help. If I stop feeling,{F801}my brain won't produce the juice.{F801}{F802}And there's only one end for a useless{F801}neurisher. Getting eaten alive...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Male demonoid\0{F87A,145}{F813,1,415202}Neurishers are food for demonoids...{F801}Every neurisher is some demonoid's{F801}property.{F801}{F802}So who's your master? If you ain't got{F801}anyone, let me know, and I'll snap{F801}you up.{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,145}{F813,1,415202}Neurishers are food for demonoids...{F801}Every neurisher is some demonoid's{F801}property.{F801}{F802}So who's your master? If you ain't got{F801}anyone, let me know, and I'll snap{F801}you up.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Male demonoid\0{F87A,145}{F813,1,415205}Neurishers reflect a demonoid's status.{F801}The more you own, the stronger a{F801}demonoid you are.{F801}{F802}So there's fierce competition between{F801}demonoids for ownership of neurishers.{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,145}{F813,1,415205}Neurishers reflect a demonoid's status.{F801}The more you own, the stronger a{F801}demonoid you are.{F801}{F802}So there's fierce competition between{F801}demonoids for ownership of neurishers.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Male demonoid\0{F87A,145}{F813,1,415100}You guys are headed for Shinjuku, right?{F801}I'll tell you how to get there...{F801}{F802}First you leave Kasumigaseki, then head{F801}north. When you get to a crossroads,{F801}go west.{F801}{F802}Go along that road to the west, keep on{F801}going past Ichigaya, and you'll see{F801}a meadow...{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,145}{F813,1,415100}You guys are headed for Shinjuku, right?{F801}I'll tell you how to get there...{F801}{F802}First you leave Kasumigaseki, then head{F801}north. When you get to a crossroads,{F801}go west.{F801}{F802}Go along that road to the west, keep on{F801}going past Ichigaya, and you'll see{F801}a meadow...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Male demonoid\0{F87A,145}{F813,1,415100}I hear you guys are finally headed for{F801}Ichigaya. Is that true? Then you should{F801}go north along the road out of here.{F801}{F802}If you've been to Shinjuku, you've{F801}probably seen it already. Yeah, that's{F801}the place.{F801}{F802}But Kenji's going to be way stronger{F801}than you're expecting. You better make{F801}sure you're ready, understand?{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,145}{F813,1,415100}I hear you guys are finally headed for{F801}Ichigaya. Is that true? Then you should{F801}go north along the road out of here.{F801}{F802}If you've been to Shinjuku, you've{F801}probably seen it already. Yeah, that's{F801}the place.{F801}{F802}But Kenji's going to be way stronger{F801}than you're expecting. You better make{F801}sure you're ready, understand?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Male demonoid\0{F87A,145}{F813,1,415107}Akira's the King of Tokyo, huh? Then{F801}he's got a target on his back...{F801}{F802}That guy can talk, but he ain't no{F801}fighter. We've gotta do more to back{F801}him up from now on.{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,145}{F813,1,415107}Akira's the King of Tokyo, huh? Then{F801}he's got a target on his back...{F801}{F802}That guy can talk, but he ain't no{F801}fighter. We've gotta do more to back{F801}him up from now on.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Female neurisher\0{F87A,106}{F813,1,403501}......{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,106}{F813,1,403501}......{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The woman with a plug implanted in her{F801}head is spacing out...{F801}</source>
+    <target>〉 The woman with a plug implanted in her{F801}head is spacing out...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Male demonoid\0{F87A,103}{F813,1,415200}This girl isn't producing enough brain{F801}waves anymore... Maybe her emotions{F801}are shot.{F801}{F802}Hmm... I could try making her laugh to{F801}get a rise out of her. Or beat her up,{F801}maybe.{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,103}{F813,1,415200}This girl isn't producing enough brain{F801}waves anymore... Maybe her emotions{F801}are shot.{F801}{F802}Hmm... I could try making her laugh to{F801}get a rise out of her. Or beat her up,{F801}maybe.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Female neurisher\0{F87A,106}{F813,1,403501}......{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,106}{F813,1,403501}......{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 The woman with a plug implanted in her{F801}head is spacing out...{F801}</source>
+    <target>〉 The woman with a plug implanted in her{F801}head is spacing out...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Male demonoid\0{F87A,103}{F813,1,415209}...No good. She's wasted... She's got{F801}no emotions left, I guess.{F801}{F802}Well, nothing for it now but to use the{F801}direct approach. Don't worry, sweetheart.{F801}I won't hurt you... bad...{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,103}{F813,1,415209}...No good. She's wasted... She's got{F801}no emotions left, I guess.{F801}{F802}Well, nothing for it now but to use the{F801}direct approach. Don't worry, sweetheart.{F801}I won't hurt you... bad...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Little boy\0{F87A,32}{F813,1,404003}......{F801}</source>
+    <target>{F812}Little boy\0{F87A,32}{F813,1,404003}......{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Male demonoid\0{F87A,103}{F813,1,415209}...Huh? That kid ain't mine. He belonged{F801}to this neurisher girl who used to live{F801}here.{F801}{F802}No wonder she produced lots of brain{F801}juice... But she left behind some{F801}souvenir, huh?{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,103}{F813,1,415209}...Huh? That kid ain't mine. He belonged{F801}to this neurisher girl who used to live{F801}here.{F801}{F802}No wonder she produced lots of brain{F801}juice... But she left behind some{F801}souvenir, huh?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Little boy\0{F87A,32}{F813,1,404003}......{F801}</source>
+    <target>{F812}Little boy\0{F87A,32}{F813,1,404003}......{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Male demonoid\0{F87A,103}{F813,1,415209}He came from some neurisher girl.{F801}No wonder she produced lots of brain{F801}juice...{F801}{F802}When this kid gets old enough to{F801}understand what I'm saying, I should{F801}tell him about his mom...{F801}{F802}Shit... Some homework that lazy bitch{F801}left me...{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,103}{F813,1,415209}He came from some neurisher girl.{F801}No wonder she produced lots of brain{F801}juice...{F801}{F802}When this kid gets old enough to{F801}understand what I'm saying, I should{F801}tell him about his mom...{F801}{F802}Shit... Some homework that lazy bitch{F801}left me...{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Male demonoid\0{F87A,145}{F813,1,415108}Geez... I'm getting bored just telling{F801}you that much. Why don't you go find{F801}the rest of the way yourselves?{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,145}{F813,1,415108}Geez... I'm getting bored just telling{F801}you that much. Why don't you go find{F801}the rest of the way yourselves?{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Male demonoid\0{F87A,145}{F813,1,415107}Not much has changed since Akira became{F801}the King of Tokyo. It's still anarchy{F801}out here...{F801}{F802}One day... Just one day without a{F801}murder, that's all I ask. One peaceful{F801}day...{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,145}{F813,1,415107}Not much has changed since Akira became{F801}the King of Tokyo. It's still anarchy{F801}out here...{F801}{F802}One day... Just one day without a{F801}murder, that's all I ask. One peaceful{F801}day...{F801}</target>
+  </entry>
+</mbm>

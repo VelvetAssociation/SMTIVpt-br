@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Jonathan\0{F87A,3}{F813,1,400101}As a boy, I had my doubts about training{F801}each day when I lived in such a tranquil{F801}land...{F801}{F802}But today is the day I truly sense my{F801}father's deep love for me.{F801}{F802}Had it not been for those days spent{F801}training, I expect I should be lying{F801}now in a pool of my own blood...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,1,400101}As a boy, I had my doubts about training{F801}each day when I lived in such a tranquil{F801}land...{F801}{F802}But today is the day I truly sense my{F801}father's deep love for me.{F801}{F802}Had it not been for those days spent{F801}training, I expect I should be lying{F801}now in a pool of my own blood...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Dignified Samurai\0{F87A,116}Yes... you must be bone tired now.{F801}Please, don't mind me.{F801}</source>
+    <target>{F812}Dignified Samurai\0{F87A,116}Yes... you must be bone tired now.{F801}Please, don't mind me.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Dignified Samurai\0{F87A,116}{F813,1,403042}Yes, the Unclean Ones' country demands{F801}our attention, but I worry about the{F801}Eastern Kingdom of Mikado as well.{F801}{F802}If the Black Samurai's Literature has{F801}spread, we may be facing demons in every{F801}region of the kingdom.{F801}{F802}But no... I must take these troubles{F801}one at a time. The Black Samurai has{F801}precedence.{F801}</source>
+    <target>{F812}Dignified Samurai\0{F87A,116}{F813,1,403042}Yes, the Unclean Ones' country demands{F801}our attention, but I worry about the{F801}Eastern Kingdom of Mikado as well.{F801}{F802}If the Black Samurai's Literature has{F801}spread, we may be facing demons in every{F801}region of the kingdom.{F801}{F802}But no... I must take these troubles{F801}one at a time. The Black Samurai has{F801}precedence.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Cheerful Samurai\0{F87A,29}{F813,1,403001}Hello, prentice. I see you're working{F801}hard at your training.{F801}{F802}Tell me, have you ever wished for more{F801}money than your salary offers? I may{F801}have the answer you seek...{F801}</source>
+    <target>{F812}Cheerful Samurai\0{F87A,29}{F813,1,403001}Hello, prentice. I see you're working{F801}hard at your training.{F801}{F802}Tell me, have you ever wished for more{F801}money than your salary offers? I may{F801}have the answer you seek...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Cheerful Samurai\0{F87A,29}{F813,1,403002}I've read in the Monastery's historical{F801}documents of rare relics that can be{F801}found in the depths of Naraku.{F801}{F802}In truth, I grow bored of fulfilling the{F801}same role each day. I know not what the{F801}Monastery schemes, but I play my part.{F801}</source>
+    <target>{F812}Cheerful Samurai\0{F87A,29}{F813,1,403002}I've read in the Monastery's historical{F801}documents of rare relics that can be{F801}found in the depths of Naraku.{F801}{F802}In truth, I grow bored of fulfilling the{F801}same role each day. I know not what the{F801}Monastery schemes, but I play my part.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Angel\0{F87A,-75}{F813,1,412001}The sons of man do not know that we are{F801}preventing the demons from invading.{F801}{F802}And that is as it should be. If we{F801}angels were to grow less distanced from{F801}the sons of man...{F801}{F802}Then God's desire to raise the sons of{F801}man as the shepherds of the earth{F801}would go unmet.{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}{F813,1,412001}The sons of man do not know that we are{F801}preventing the demons from invading.{F801}{F802}And that is as it should be. If we{F801}angels were to grow less distanced from{F801}the sons of man...{F801}{F802}Then God's desire to raise the sons of{F801}man as the shepherds of the earth{F801}would go unmet.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F813,1,400301}...Ah, {F843,0}.{F801}{F802}I'm performing a sweep of Naraku to{F801}ensure our fellows are not here.{F801}{F802}The situation is too grave to permit any{F801}misunderstandings. I felt that I should{F801}personally attend to this...{F801}{F802}But worry not, I can manage on my own.{F801}The Great Spirit of Spite, now become{F801}the "Demon Lord," is your task.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,1,400301}...Ah, {F843,0}.{F801}{F802}I'm performing a sweep of Naraku to{F801}ensure our fellows are not here.{F801}{F802}The situation is too grave to permit any{F801}misunderstandings. I felt that I should{F801}personally attend to this...{F801}{F802}But worry not, I can manage on my own.{F801}The Great Spirit of Spite, now become{F801}the "Demon Lord," is your task.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Jonathan\0{F87A,3}{F813,1,400102}So these are training exercises for a{F801}Samurai. I'm exhausted as I've never{F801}been before...{F801}{F802}Naturally, I aim to finish first, but{F801}I must take care not to overdo it and{F801}withdraw to recover myself if needed.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,1,400102}So these are training exercises for a{F801}Samurai. I'm exhausted as I've never{F801}been before...{F801}{F802}Naturally, I aim to finish first, but{F801}I must take care not to overdo it and{F801}withdraw to recover myself if needed.{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Dignified Samurai\0{F87A,116}{F813,1,403042}This is a pretty spot of trouble{F801}Navarre's gotten himself into.{F801}Caught in a demon's Domain...{F801}{F802}I saw him on the way out. From the look{F801}of it, he may have difficulties resuming{F801}his duties.{F801}</source>
+    <target>{F812}Dignified Samurai\0{F87A,116}{F813,1,403042}This is a pretty spot of trouble{F801}Navarre's gotten himself into.{F801}Caught in a demon's Domain...{F801}{F802}I saw him on the way out. From the look{F801}of it, he may have difficulties resuming{F801}his duties.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}明朗なサムáÍ\0{F87A,29}{F813,1,403043}修道院で歴史書を読んだことがある{F801}ナáクの奥には珍しい遺物があるらしい{F801}{F802}…正直 毎日同じ役割で退屈してたんだ{F801}修道院が何か企んでようが 俺は乗るよ{F801}</source>
+    <target>{F812}明朗なサムáÍ\0{F87A,29}{F813,1,403043}修道院で歴史書を読んだことがある{F801}ナáクの奥には珍しい遺物があるらしい{F801}{F802}…正直 毎日同じ役割で退屈してたんだ{F801}修道院が何か企んでようが 俺は乗るよ{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Jonathan\0{F87A,3}{F813,1,400101}Casualries and Luxurors were both given{F801}their roles by God...{F801}{F802}I suppose, as this is a solemn contest{F801}amongst Samurai, 'twould be uncouth for{F801}me to object to it.{F801}{F802}But I pray that you and Walter find{F801}luck. Though I would rather you not let{F801}on to Navarre...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,1,400101}Casualries and Luxurors were both given{F801}their roles by God...{F801}{F802}I suppose, as this is a solemn contest{F801}amongst Samurai, 'twould be uncouth for{F801}me to object to it.{F801}{F802}But I pray that you and Walter find{F801}luck. Though I would rather you not let{F801}on to Navarre...{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}Dignified Samurai\0{F87A,116}{F813,1,403003}...You've come, prentice. A Samurai's{F801}training exercises are rigorous.{F801}{F802}Pardon me for being forward, but will{F801}you allow me to pass on some useful{F801}advice?{F801}</source>
+    <target>{F812}Dignified Samurai\0{F87A,116}{F813,1,403003}...You've come, prentice. A Samurai's{F801}training exercises are rigorous.{F801}{F802}Pardon me for being forward, but will{F801}you allow me to pass on some useful{F801}advice?{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Cheerful Samurai\0{F87A,29}{F813,1,403001}Hello, prentice. I see you're working{F801}hard at your training.{F801}{F802}If you happened to squander your salary{F801}from the Commander, I have a solution,{F801}if you'd care to hear it.{F801}</source>
+    <target>{F812}Cheerful Samurai\0{F87A,29}{F813,1,403001}Hello, prentice. I see you're working{F801}hard at your training.{F801}{F802}If you happened to squander your salary{F801}from the Commander, I have a solution,{F801}if you'd care to hear it.{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Jonathan\0{F87A,3}{F813,1,400101}Hm? Navarre? Are you worried for him?{F801}{F802}Well then, why don't we attempt to{F801}raise him?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,1,400101}Hm? Navarre? Are you worried for him?{F801}{F802}Well then, why don't we attempt to{F801}raise him?{F801}</target>
+  </entry>
+  <entry id="301">
+    <source>"By all means."{F801}"That won't be necessary."{F801}</source>
+    <target>"By all means."{F801}"That won't be necessary."{F801}</target>
+  </entry>
+  <entry id="303">
+    <source>Ask him to tell you{F801}Decline his offer{F801}</source>
+    <target>Ask him to tell you{F801}Decline his offer{F801}</target>
+  </entry>
+  <entry id="400">
+    <source>〉 Jonathan operates his Gauntlet...{F801}</source>
+    <target>〉 Jonathan operates his Gauntlet...{F801}</target>
+  </entry>
+  <entry id="401">
+    <source>{F812}Dignified Samurai\0{F87A,116}'Twas not the people of the Eastern{F801}Kingdom of Mikado who dug Naraku.{F801}{F802}As the Monastery has it, this cavern{F801}seems to have been in place since the{F801}founding of our kingdom.{F801}{F802}The demons and mystic relics have been{F801}in existence as long as Naraku has...{F801}{F802}If some predecessor to our kingdom dug{F801}this... then to what purpose...?{F801}</source>
+    <target>{F812}Dignified Samurai\0{F87A,116}'Twas not the people of the Eastern{F801}Kingdom of Mikado who dug Naraku.{F801}{F802}As the Monastery has it, this cavern{F801}seems to have been in place since the{F801}founding of our kingdom.{F801}{F802}The demons and mystic relics have been{F801}in existence as long as Naraku has...{F801}{F802}If some predecessor to our kingdom dug{F801}this... then to what purpose...?{F801}</target>
+  </entry>
+  <entry id="403">
+    <source>{F812}Cheerful Samurai\0{F87A,29}Take the mystic relics you unearth to{F801}each of the shops in Aquila Statue Plaza.{F801}{F802}Q and B will gladly appraise them and{F801}buy them from you. With the Monastery's{F801}blessing, of course.{F801}{F802}Remember well how lucrative the sale of{F801}mystic relics can be. I myself have oft{F801}made use of it when my purse was light.{F801}</source>
+    <target>{F812}Cheerful Samurai\0{F87A,29}Take the mystic relics you unearth to{F801}each of the shops in Aquila Statue Plaza.{F801}{F802}Q and B will gladly appraise them and{F801}buy them from you. With the Monastery's{F801}blessing, of course.{F801}{F802}Remember well how lucrative the sale of{F801}mystic relics can be. I myself have oft{F801}made use of it when my purse was light.{F801}</target>
+  </entry>
+  <entry id="500">
+    <source>{F812}Jonathan\0{F87A,3}Odd... No response. Perhaps he's in the{F801}thick of battle with a demon...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}Odd... No response. Perhaps he's in the{F801}thick of battle with a demon...?{F801}</target>
+  </entry>
+  <entry id="501">
+    <source>{F812}Dignified Samurai\0{F87A,116}Of course... you are in the midst of{F801}your training, after all. Pardon.{F801}</source>
+    <target>{F812}Dignified Samurai\0{F87A,116}Of course... you are in the midst of{F801}your training, after all. Pardon.{F801}</target>
+  </entry>
+  <entry id="503">
+    <source>{F812}Cheerful Samurai\0{F87A,29}You must be quite responsible when it{F801}comes to fiduciary matters. An estimable{F801}trait in someone so young...{F801}</source>
+    <target>{F812}Cheerful Samurai\0{F87A,29}You must be quite responsible when it{F801}comes to fiduciary matters. An estimable{F801}trait in someone so young...{F801}</target>
+  </entry>
+</mbm>

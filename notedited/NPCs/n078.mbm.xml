@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hunter\0{F87A,119}{F813,1,403001}The Ring of Gaea people rarely leave{F801}their main temple.{F801}{F802}But, since they've come to Ikebukuro,{F801}does that mean that woman is going{F801}to make a move as well?{F801}</source>
+    <target>{F812}Hunter\0{F87A,119}{F813,1,403001}The Ring of Gaea people rarely leave{F801}their main temple.{F801}{F802}But, since they've come to Ikebukuro,{F801}does that mean that woman is going{F801}to make a move as well?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hunter\0{F87A,119}{F813,1,403001}The Ring of Gaea people rarely leave{F801}their main temple.{F801}{F802}But, since they've come to Ikebukuro,{F801}does that mean Yuriko is going to{F801}make a move as well?{F801}</source>
+    <target>{F812}Hunter\0{F87A,119}{F813,1,403001}The Ring of Gaea people rarely leave{F801}their main temple.{F801}{F802}But, since they've come to Ikebukuro,{F801}does that mean Yuriko is going to{F801}make a move as well?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hunter\0{F87A,119}{F813,1,403001}Someone who actually saw her in{F801}person told me that Yuriko's a{F801}young woman.{F801}{F802}So, a young girl leads an organization{F801}like the Ring of Gaea? I wonder what{F801}kind of leader she is.{F801}</source>
+    <target>{F812}Hunter\0{F87A,119}{F813,1,403001}Someone who actually saw her in{F801}person told me that Yuriko's a{F801}young woman.{F801}{F802}So, a young girl leads an organization{F801}like the Ring of Gaea? I wonder what{F801}kind of leader she is.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hunter\0{F87A,119}{F813,1,403001}Tayama's sent his men to kill Yuriko{F801}a number of times.{F801}{F802}But I hear that she sends the corpses{F801}back, cut into tiny slices and kept{F801}in formaldehyde...{F801}{F802}That Yuriko woman's so cold it gives{F801}me chills thinking about her. I'd{F801}never want to get on her bad side.{F801}</source>
+    <target>{F812}Hunter\0{F87A,119}{F813,1,403001}Tayama's sent his men to kill Yuriko{F801}a number of times.{F801}{F802}But I hear that she sends the corpses{F801}back, cut into tiny slices and kept{F801}in formaldehyde...{F801}{F802}That Yuriko woman's so cold it gives{F801}me chills thinking about her. I'd{F801}never want to get on her bad side.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hunter\0{F87A,68}{F813,1,403141}You picked a good time to come.{F801}The Ashura-kai's already been driven{F801}out.{F801}{F802}The Ashura-kai uses Reds to tame{F801}demons, and the Ring of Gaea is{F801}openly opposed to them.{F801}{F802}If you'd been here when the Ashura-kai{F801}and the Ring of Gaea were going at{F801}it... You would've been in trouble.{F801}</source>
+    <target>{F812}Hunter\0{F87A,68}{F813,1,403141}You picked a good time to come.{F801}The Ashura-kai's already been driven{F801}out.{F801}{F802}The Ashura-kai uses Reds to tame{F801}demons, and the Ring of Gaea is{F801}openly opposed to them.{F801}{F802}If you'd been here when the Ashura-kai{F801}and the Ring of Gaea were going at{F801}it... You would've been in trouble.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hunter\0{F87A,68}{F813,1,403141}The people who didn't participate in{F801}the battle against Xi Wangu have left{F801}the city.{F801}{F802}They appear quickly, and disappear{F801}without a trace when they go...{F801}{F802}They're like some kind of military{F801}strike force.{F801}</source>
+    <target>{F812}Hunter\0{F87A,68}{F813,1,403141}The people who didn't participate in{F801}the battle against Xi Wangu have left{F801}the city.{F801}{F802}They appear quickly, and disappear{F801}without a trace when they go...{F801}{F802}They're like some kind of military{F801}strike force.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hunter\0{F87A,68}{F813,1,403141}If the Ashura-kai goes on a full-on{F801}assault, the Ring of Gaea will surely{F801}be greatly weakened.{F801}{F802}But if that happened, the Yamato{F801}Reactor will be left poorly guarded,{F801}and the Ring of Gaea will take it...{F801}{F802}The Ring of Gaea is cautious of{F801}Tayama's demons, and won't throw{F801}themselves into an all-out attack.{F801}{F802}Both sides are looking for an opening,{F801}and they're currently at a standstill.{F801}</source>
+    <target>{F812}Hunter\0{F87A,68}{F813,1,403141}If the Ashura-kai goes on a full-on{F801}assault, the Ring of Gaea will surely{F801}be greatly weakened.{F801}{F802}But if that happened, the Yamato{F801}Reactor will be left poorly guarded,{F801}and the Ring of Gaea will take it...{F801}{F802}The Ring of Gaea is cautious of{F801}Tayama's demons, and won't throw{F801}themselves into an all-out attack.{F801}{F802}Both sides are looking for an opening,{F801}and they're currently at a standstill.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hunter\0{F87A,68}{F813,1,403141}It looks like Yuriko's going to go{F801}for a full-on attack on Ichigaya.{F801}{F802}She was being so careful and cautious{F801}about Tayama's demons, too...{F801}{F802}Could this mean that she's gained{F801}a more powerful ally?{F801}</source>
+    <target>{F812}Hunter\0{F87A,68}{F813,1,403141}It looks like Yuriko's going to go{F801}for a full-on attack on Ichigaya.{F801}{F802}She was being so careful and cautious{F801}about Tayama's demons, too...{F801}{F802}Could this mean that she's gained{F801}a more powerful ally?{F801}</target>
+  </entry>
+</mbm>

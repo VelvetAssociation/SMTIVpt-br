@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Calm woman\0{F87A,123}{F813,1,403321}Please don't raise a fuss with the{F801}Ashura-kai, stranger. It's us locals{F801}who'll suffer the consequences.{F801}{F802}For weaklings like us who can't even{F801}set foot outside, the Ashura-kai's{F801}all we have...{F801}</source>
+    <target>{F812}Calm woman\0{F87A,123}{F813,1,403321}Please don't raise a fuss with the{F801}Ashura-kai, stranger. It's us locals{F801}who'll suffer the consequences.{F801}{F802}For weaklings like us who can't even{F801}set foot outside, the Ashura-kai's{F801}all we have...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Calm woman\0{F87A,123}{F813,1,403322}Th-They did say that the battlefield{F801}was just Ichigaya and not anywhere{F801}else, right?{F801}{F802}Then why are all these other demons{F801}roaming around? I-Is Roppongi okay?{F801}{F802}M-My son is in the Hills building...!{F801}Oh God... Please...!{F801}</source>
+    <target>{F812}Calm woman\0{F87A,123}{F813,1,403322}Th-They did say that the battlefield{F801}was just Ichigaya and not anywhere{F801}else, right?{F801}{F802}Then why are all these other demons{F801}roaming around? I-Is Roppongi okay?{F801}{F802}M-My son is in the Hills building...!{F801}Oh God... Please...!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Calm woman\0{F87A,123}{F813,1,403302}Ah... {F843,0}? Can I ask you{F801}a... personal favor...?{F801}{F802}If you ever have find yourself in{F801}Roppongi's underground... and you see{F801}a boy from Ueno...{F801}{F802}Can you tell him I'll be there to pick{F801}him up? Could you tell him that...?{F801}</source>
+    <target>{F812}Calm woman\0{F87A,123}{F813,1,403302}Ah... {F843,0}? Can I ask you{F801}a... personal favor...?{F801}{F802}If you ever have find yourself in{F801}Roppongi's underground... and you see{F801}a boy from Ueno...{F801}{F802}Can you tell him I'll be there to pick{F801}him up? Could you tell him that...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Calm woman\0{F87A,123}{F813,1,403302}Ah... {F843,0}? Can I ask you{F801}a... personal favor...?{F801}{F802}If you ever have find yourself in{F801}Roppongi's underground... and you see{F801}a boy from Ueno...{F801}{F802}Can you tell him I'm on my way to pick{F801}him up? Could you tell him that...?{F801}</source>
+    <target>{F812}Calm woman\0{F87A,123}{F813,1,403302}Ah... {F843,0}? Can I ask you{F801}a... personal favor...?{F801}{F802}If you ever have find yourself in{F801}Roppongi's underground... and you see{F801}a boy from Ueno...{F801}{F802}Can you tell him I'm on my way to pick{F801}him up? Could you tell him that...?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Yearning man\0{F87A,79}{F813,1,403201}Is it just me, or... do I smell sunlight{F801}coming from you guys?{F801}{F802}It's been 25 years since that ceiling{F801}appeared. By the time you guys were{F801}born...{F801}{F802}Tokyo had already been covered in an{F801}endless night. So it's kinda strange{F801}that you'd...{F801}</source>
+    <target>{F812}Yearning man\0{F87A,79}{F813,1,403201}Is it just me, or... do I smell sunlight{F801}coming from you guys?{F801}{F802}It's been 25 years since that ceiling{F801}appeared. By the time you guys were{F801}born...{F801}{F802}Tokyo had already been covered in an{F801}endless night. So it's kinda strange{F801}that you'd...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Yearning man\0{F87A,79}{F813,1,403201}By the way, I met this guy who called{F801}himself a Samurai. He said he came from{F801}above the ceiling...{F801}{F802}If what he said is true, can you see{F801}the real sun from there?{F801}</source>
+    <target>{F812}Yearning man\0{F87A,79}{F813,1,403201}By the way, I met this guy who called{F801}himself a Samurai. He said he came from{F801}above the ceiling...{F801}{F802}If what he said is true, can you see{F801}the real sun from there?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Yearning man\0{F87A,79}{F813,1,403201}Ah... you Samurai from up above are{F801}so cruel...{F801}{F802}I can smell the sunlight coming off{F801}you. That sun we lost 25 years ago...{F801}{F802}Every time you come by, you remind me{F801}of the scenery in Tokyo.{F801}</source>
+    <target>{F812}Yearning man\0{F87A,79}{F813,1,403201}Ah... you Samurai from up above are{F801}so cruel...{F801}{F802}I can smell the sunlight coming off{F801}you. That sun we lost 25 years ago...{F801}{F802}Every time you come by, you remind me{F801}of the scenery in Tokyo.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Yearning man\0{F87A,79}{F813,1,403201}My God... the Samurai from the world{F801}above was the champion...?{F801}{F802}Sorry... The hope you brought us only{F801}made me greedier...{F801}{F802}Do you think you can show me the sun{F801}we lost 25 years ago one more time?{F801}</source>
+    <target>{F812}Yearning man\0{F87A,79}{F813,1,403201}My God... the Samurai from the world{F801}above was the champion...?{F801}{F802}Sorry... The hope you brought us only{F801}made me greedier...{F801}{F802}Do you think you can show me the sun{F801}we lost 25 years ago one more time?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Yearning man\0{F87A,79}{F813,1,403201}The Samurai from the world above is{F801}the champion, huh...?{F801}{F802}I... really wanted to see the sun we lost{F801}25 years ago... I would have given{F801}anything... *cough*{F801}{F802}It's too bad... I don't think I'll{F801}make it... But... that's okay...{F801}{F802}You... are my sun now...{F801}</source>
+    <target>{F812}Yearning man\0{F87A,79}{F813,1,403201}The Samurai from the world above is{F801}the champion, huh...?{F801}{F802}I... really wanted to see the sun we lost{F801}25 years ago... I would have given{F801}anything... *cough*{F801}{F802}It's too bad... I don't think I'll{F801}make it... But... that's okay...{F801}{F802}You... are my sun now...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Calm woman\0{F87A,123}{F813,1,403312}I finally got a letter of invitation{F801}from the Ashura-kai...{F801}{F802}I know my son won't have a very good{F801}life staying with me... I know that{F801}I should...{F801}</source>
+    <target>{F812}Calm woman\0{F87A,123}{F813,1,403312}I finally got a letter of invitation{F801}from the Ashura-kai...{F801}{F802}I know my son won't have a very good{F801}life staying with me... I know that{F801}I should...{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Yearning man\0{F87A,79}{F813,1,403201}Ah... it's the Samurai who smells of{F801}the sunlight.{F801}{F802}It's been 25 years... I almost gave up,{F801}many a time. But now I've met you...{F801}{F802}Please... I'm begging you... Let me see{F801}the sun one last time! Just once more!{F801}</source>
+    <target>{F812}Yearning man\0{F87A,79}{F813,1,403201}Ah... it's the Samurai who smells of{F801}the sunlight.{F801}{F802}It's been 25 years... I almost gave up,{F801}many a time. But now I've met you...{F801}{F802}Please... I'm begging you... Let me see{F801}the sun one last time! Just once more!{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Calm woman\0{F87A,123}{F813,1,403312}It's absurd to think of raising a child{F801}in Tokyo to begin with...{F801}{F802}I know my boy will be happy in Roppongi.{F801}He won't go hungry there...{F801}{F802}Yes... I have to do this if I want a{F801}real future for my son...{F801}</source>
+    <target>{F812}Calm woman\0{F87A,123}{F813,1,403312}It's absurd to think of raising a child{F801}in Tokyo to begin with...{F801}{F802}I know my boy will be happy in Roppongi.{F801}He won't go hungry there...{F801}{F802}Yes... I have to do this if I want a{F801}real future for my son...{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Calm woman\0{F87A,123}{F813,1,403322}Say... The battle has been confined to{F801}Ichigaya, right? All the other regions{F801}are safe, aren't they?{F801}{F802}Y-You see, my son... He's in the{F801}Hills building in Roppongi...{F801}{F802}Oh, my baby! Please forgive me! I-If{F801}I'd only know... I'd never have let{F801}you go...!{F801}</source>
+    <target>{F812}Calm woman\0{F87A,123}{F813,1,403322}Say... The battle has been confined to{F801}Ichigaya, right? All the other regions{F801}are safe, aren't they?{F801}{F802}Y-You see, my son... He's in the{F801}Hills building in Roppongi...{F801}{F802}Oh, my baby! Please forgive me! I-If{F801}I'd only know... I'd never have let{F801}you go...!{F801}</target>
+  </entry>
+</mbm>

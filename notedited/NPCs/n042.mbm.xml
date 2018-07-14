@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Youthful man\0{F87A,81}{F813,1,403402}Before the ceiling appeared, Shibuya{F801}was filled with young guys.{F801}{F802}But then after that, it was crowded{F801}with demons who want Reds...{F801}{F802}Though since that demon moved in,{F801}things have quieted down...{F801}</source>
+    <target>{F812}Youthful man\0{F87A,81}{F813,1,403402}Before the ceiling appeared, Shibuya{F801}was filled with young guys.{F801}{F802}But then after that, it was crowded{F801}with demons who want Reds...{F801}{F802}Though since that demon moved in,{F801}things have quieted down...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Youthful man\0{F87A,81}{F813,1,403402}Just as I suspected, the reason Yuriko's{F801}interested in Ichigaya isn't the{F801}electricity...{F801}{F802}The reactor there emits an electro-{F801}magnetic pulse in a frequency that{F801}attracts demons.{F801}{F802}So that B-grade occult magazine article{F801}was right! The Ring of Gaea really is{F801}an evil cult!{F801}</source>
+    <target>{F812}Youthful man\0{F87A,81}{F813,1,403402}Just as I suspected, the reason Yuriko's{F801}interested in Ichigaya isn't the{F801}electricity...{F801}{F802}The reactor there emits an electro-{F801}magnetic pulse in a frequency that{F801}attracts demons.{F801}{F802}So that B-grade occult magazine article{F801}was right! The Ring of Gaea really is{F801}an evil cult!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Youthful man\0{F87A,81}{F813,1,403431}I hear there's a Samurai who's making{F801}a serious play for the champion title.{F801}{F802}That's an admirable effort in this{F801}demon-wrecked world, don't you think?{F801}</source>
+    <target>{F812}Youthful man\0{F87A,81}{F813,1,403431}I hear there's a Samurai who's making{F801}a serious play for the champion title.{F801}{F802}That's an admirable effort in this{F801}demon-wrecked world, don't you think?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Youthful man\0{F87A,81}{F813,1,403402}Just as I suspected, the reason Yuriko's{F801}interested in Ichigaya isn't the{F801}electricity...{F801}{F802}The reactor there emits an electro-{F801}magnetic pulse in a frequency that{F801}attracts demons...{F801}{F802}Where there are demons, soon there'll{F801}be angels, and next thing you know,{F801}full-scale war will break out in Tokyo.{F801}{F802}So that B-grade occult magazine article{F801}was right! The Ring of Gaea really is{F801}a doomsday cult!{F801}</source>
+    <target>{F812}Youthful man\0{F87A,81}{F813,1,403402}Just as I suspected, the reason Yuriko's{F801}interested in Ichigaya isn't the{F801}electricity...{F801}{F802}The reactor there emits an electro-{F801}magnetic pulse in a frequency that{F801}attracts demons...{F801}{F802}Where there are demons, soon there'll{F801}be angels, and next thing you know,{F801}full-scale war will break out in Tokyo.{F801}{F802}So that B-grade occult magazine article{F801}was right! The Ring of Gaea really is{F801}a doomsday cult!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Youthful man\0{F87A,81}{F813,1,403403}There's a rumor that demons are pouring{F801}out from a reactor in Ichigaya...{F801}{F802}We need electricity, so the reactor{F801}is a must-have.{F801}{F802}In a way, Tokyo never was completely{F801}free from the threat of demons...{F801}</source>
+    <target>{F812}Youthful man\0{F87A,81}{F813,1,403403}There's a rumor that demons are pouring{F801}out from a reactor in Ichigaya...{F801}{F802}We need electricity, so the reactor{F801}is a must-have.{F801}{F802}In a way, Tokyo never was completely{F801}free from the threat of demons...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Moody man\0{F87A,81}{F813,1,403212}There were once office complexes where{F801}the Hills building and Midtown stand...{F801}{F802}The Hills in Roppongi is the Ashura-kai{F801}headquarters now.{F801}{F802}And I hear Midtown is a nest of demons...{F801}</source>
+    <target>{F812}Moody man\0{F87A,81}{F813,1,403212}There were once office complexes where{F801}the Hills building and Midtown stand...{F801}{F802}The Hills in Roppongi is the Ashura-kai{F801}headquarters now.{F801}{F802}And I hear Midtown is a nest of demons...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Moody man\0{F87A,81}{F813,1,403212}Someone told me that the angels are{F801}coming down from above the ceiling...{F801}is that true?{F801}{F802}I bet they're planning to kill us all{F801}along with the demons...!{F801}</source>
+    <target>{F812}Moody man\0{F87A,81}{F813,1,403212}Someone told me that the angels are{F801}coming down from above the ceiling...{F801}is that true?{F801}{F802}I bet they're planning to kill us all{F801}along with the demons...!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Moody man\0{F87A,81}{F813,1,403241}I hear a Samurai named {F843,0}{F801}is a hair's breadth from the champion's{F801}title.{F801}{F802}It's good to know there's one man who{F801}stands above the rest in this awful{F801}world...{F801}</source>
+    <target>{F812}Moody man\0{F87A,81}{F813,1,403241}I hear a Samurai named {F843,0}{F801}is a hair's breadth from the champion's{F801}title.{F801}{F802}It's good to know there's one man who{F801}stands above the rest in this awful{F801}world...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Moody man\0{F87A,81}{F813,1,403241}Hey, champion! You can stop them,{F801}right!?{F801}{F802}If those angels really are coming down{F801}to Tokyo, you can stop them, can't you!?{F801}</source>
+    <target>{F812}Moody man\0{F87A,81}{F813,1,403241}Hey, champion! You can stop them,{F801}right!?{F801}{F802}If those angels really are coming down{F801}to Tokyo, you can stop them, can't you!?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Moody man\0{F87A,81}{F813,1,403213}You really stopped the angels! You're{F801}the best, champion!{F801}{F802}B-But... Tokyo's still full of demons...{F801}{F802}You can stop them for us too, right,{F801}champion?{F801}</source>
+    <target>{F812}Moody man\0{F87A,81}{F813,1,403213}You really stopped the angels! You're{F801}the best, champion!{F801}{F802}B-But... Tokyo's still full of demons...{F801}{F802}You can stop them for us too, right,{F801}champion?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Moody man\0{F87A,81}{F813,1,403213}You stopped both the angels and the{F801}demons! You're the best, champion!{F801}{F802}B-But... Tokyo still has no sunrise...{F801}{F802}You can do something about that for us{F801}too, right, champion?{F801}</source>
+    <target>{F812}Moody man\0{F87A,81}{F813,1,403213}You stopped both the angels and the{F801}demons! You're the best, champion!{F801}{F802}B-But... Tokyo still has no sunrise...{F801}{F802}You can do something about that for us{F801}too, right, champion?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Youthful man\0{F87A,81}{F813,1,403402}Before the ceiling appeared, Shibuya{F801}was filled with young guys.{F801}{F802}But then after that, it was crowded{F801}with demons who want Reds...{F801}{F802}And since that one demon isn't here{F801}now, I expect that others will start{F801}coming back...{F801}</source>
+    <target>{F812}Youthful man\0{F87A,81}{F813,1,403402}Before the ceiling appeared, Shibuya{F801}was filled with young guys.{F801}{F802}But then after that, it was crowded{F801}with demons who want Reds...{F801}{F802}And since that one demon isn't here{F801}now, I expect that others will start{F801}coming back...{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Youthful man\0{F87A,81}{F813,1,403402}This is just a rumor I heard, but the{F801}reason Yuriko's interested in Ichigaya{F801}isn't the electricity...{F801}{F802}That reactor of the Ashura-kai's is{F801}actually a--{F801}{F802}Well, maybe I've already said too much.{F801}It's just a rumor, you know?{F801}</source>
+    <target>{F812}Youthful man\0{F87A,81}{F813,1,403402}This is just a rumor I heard, but the{F801}reason Yuriko's interested in Ichigaya{F801}isn't the electricity...{F801}{F802}That reactor of the Ashura-kai's is{F801}actually a--{F801}{F802}Well, maybe I've already said too much.{F801}It's just a rumor, you know?{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Youthful man\0{F87A,81}{F813,1,403402}This is just a rumor I heard, but the{F801}reason Yuriko's interested in Ichigaya{F801}isn't the electricity...{F801}{F802}That reactor of the Ashura-kai's is{F801}the demon's--{F801}{F802}Well, maybe I've already said too much.{F801}It's just a rumor, you know?{F801}</source>
+    <target>{F812}Youthful man\0{F87A,81}{F813,1,403402}This is just a rumor I heard, but the{F801}reason Yuriko's interested in Ichigaya{F801}isn't the electricity...{F801}{F802}That reactor of the Ashura-kai's is{F801}the demon's--{F801}{F802}Well, maybe I've already said too much.{F801}It's just a rumor, you know?{F801}</target>
+  </entry>
+</mbm>

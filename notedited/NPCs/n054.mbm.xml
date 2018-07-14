@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Haggard man\0{F87A,79}{F813,1,403613}They supposedly have members-only{F801}stores in the shopping district of{F801}Ginza.{F801}{F802}I hear everything is pretty damn{F801}pricy. Of course, I've never set{F801}foot into one of them myself.{F801}{F802}I guess that the kind of people who{F801}go to that kind of store would{F801}usually be known as celebrities...{F801}</source>
+    <target>{F812}Haggard man\0{F87A,79}{F813,1,403613}They supposedly have members-only{F801}stores in the shopping district of{F801}Ginza.{F801}{F802}I hear everything is pretty damn{F801}pricy. Of course, I've never set{F801}foot into one of them myself.{F801}{F802}I guess that the kind of people who{F801}go to that kind of store would{F801}usually be known as celebrities...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Haggard man\0{F87A,79}{F813,1,403613}I can't believe Lady Yuriko's been{F801}defeated... How could anyone in this{F801}world be so strong!?{F801}{F802}A weakling like me will never{F801}survive... There's no way...{F801}</source>
+    <target>{F812}Haggard man\0{F87A,79}{F813,1,403613}I can't believe Lady Yuriko's been{F801}defeated... How could anyone in this{F801}world be so strong!?{F801}{F802}A weakling like me will never{F801}survive... There's no way...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Haggard man\0{F87A,79}{F813,1,403613}To think that demons would come{F801}pouring into Tokyo like this...{F801}{F802}A weakling like me will never{F801}survive... There's no way...{F801}</source>
+    <target>{F812}Haggard man\0{F87A,79}{F813,1,403613}To think that demons would come{F801}pouring into Tokyo like this...{F801}{F802}A weakling like me will never{F801}survive... There's no way...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Confident woman\0{F87A,80}{F813,1,404401}How could a frail woman like me come{F801}all this way?{F801}{F802}Well, not even the Ring of Gaea{F801}members can resist my feminine{F801}charms.{F801}{F802}But I'm nothing compared to Lady{F801}Yuriko, though...{F801}</source>
+    <target>{F812}Confident woman\0{F87A,80}{F813,1,404401}How could a frail woman like me come{F801}all this way?{F801}{F802}Well, not even the Ring of Gaea{F801}members can resist my feminine{F801}charms.{F801}{F802}But I'm nothing compared to Lady{F801}Yuriko, though...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Confident woman\0{F87A,80}{F813,1,404401}I was right to come to this city.{F801}I can tell that I'll be able to{F801}polish my skills even more.{F801}{F802}This is all thanks to Lady Yuriko.{F801}We've lost such an amazing woman...{F801}</source>
+    <target>{F812}Confident woman\0{F87A,80}{F813,1,404401}I was right to come to this city.{F801}I can tell that I'll be able to{F801}polish my skills even more.{F801}{F802}This is all thanks to Lady Yuriko.{F801}We've lost such an amazing woman...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Confident woman\0{F87A,80}{F813,1,404441}This place is going to be overrun{F801}by demons? Fine by me. Bring it on,{F801}I say.{F801}{F802}Facing off against demons will help{F801}me improve my skills even more...!{F801}</source>
+    <target>{F812}Confident woman\0{F87A,80}{F813,1,404441}This place is going to be overrun{F801}by demons? Fine by me. Bring it on,{F801}I say.{F801}{F802}Facing off against demons will help{F801}me improve my skills even more...!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Confident woman\0{F87A,80}{F813,1,404431}I've thought back on Lady Yuriko's{F801}beauty, and I've reached a conclusion.{F801}{F802}Strength isn't all about muscular{F801}power. Looking at me, don't you{F801}agree? Femininity is real strength.{F801}{F802}Men may be the ones that move this{F801}world, but any man can be controlled{F801}by a woman. That is the real power.{F801}</source>
+    <target>{F812}Confident woman\0{F87A,80}{F813,1,404431}I've thought back on Lady Yuriko's{F801}beauty, and I've reached a conclusion.{F801}{F802}Strength isn't all about muscular{F801}power. Looking at me, don't you{F801}agree? Femininity is real strength.{F801}{F802}Men may be the ones that move this{F801}world, but any man can be controlled{F801}by a woman. That is the real power.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Confident woman\0{F87A,80}{F813,1,416100}So, a champion has been born among{F801}the common folk?{F801}{F802}Well, then, since I've made it this{F801}far on my own charms...{F801}{F802}I must be the champion of women.{F801}</source>
+    <target>{F812}Confident woman\0{F87A,80}{F813,1,416100}So, a champion has been born among{F801}the common folk?{F801}{F802}Well, then, since I've made it this{F801}far on my own charms...{F801}{F802}I must be the champion of women.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Demon\0{F87A,-606}{F813,1,411201}I used to be human, but I became a{F801}demon because I didn't want to be{F801}under Tayama's control.{F801}{F802}And now that bastard lives the high{F801}life, in my own home that he took{F801}from me!{F801}</source>
+    <target>{F812}Demon\0{F87A,-606}{F813,1,411201}I used to be human, but I became a{F801}demon because I didn't want to be{F801}under Tayama's control.{F801}{F802}And now that bastard lives the high{F801}life, in my own home that he took{F801}from me!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Demon\0{F87A,-330}{F813,1,411007}Tayama doesn't scare me, but he's{F801}got... Uh... What are they called?{F801}{F802}Some kind of deadly demons.{F801}They're insane.{F801}{F802}Whatever they are, Tayama has a lot{F801}of those scary things.{F801}</source>
+    <target>{F812}Demon\0{F87A,-330}{F813,1,411007}Tayama doesn't scare me, but he's{F801}got... Uh... What are they called?{F801}{F802}Some kind of deadly demons.{F801}They're insane.{F801}{F802}Whatever they are, Tayama has a lot{F801}of those scary things.{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Confident woman\0{F87A,80}{F813,1,416100}So, a champion has been born among{F801}the common folk?{F801}{F802}Well, then, since I've made it this{F801}far on my own charms...{F801}{F802}I must be the champion of women.{F801}</source>
+    <target>{F812}Confident woman\0{F87A,80}{F813,1,416100}So, a champion has been born among{F801}the common folk?{F801}{F802}Well, then, since I've made it this{F801}far on my own charms...{F801}{F802}I must be the champion of women.{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Demon\0{F87A,-606}{F813,1,411201}When the demons appear, only the{F801}strong will survive. Of course, there{F801}will still be inequality among people.{F801}{F802}Inequality... It must exist, in any{F801}society. Things would be boring if{F801}everyone was the same, right?{F801}</source>
+    <target>{F812}Demon\0{F87A,-606}{F813,1,411201}When the demons appear, only the{F801}strong will survive. Of course, there{F801}will still be inequality among people.{F801}{F802}Inequality... It must exist, in any{F801}society. Things would be boring if{F801}everyone was the same, right?{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Demon\0{F87A,-330}{F813,1,411007}If Tayama's dead, then what happened{F801}to his, uh... Those things he had.{F801}Y'know...?{F801}{F802}Those crazy demons. Are they stuck{F801}in their rock form?{F801}{F802}...You think maybe there's a way to{F801}return them to normal and get them{F801}to work for you?{F801}</source>
+    <target>{F812}Demon\0{F87A,-330}{F813,1,411007}If Tayama's dead, then what happened{F801}to his, uh... Those things he had.{F801}Y'know...?{F801}{F802}Those crazy demons. Are they stuck{F801}in their rock form?{F801}{F802}...You think maybe there's a way to{F801}return them to normal and get them{F801}to work for you?{F801}</target>
+  </entry>
+  <entry id="210">
+    <source>{F812}Demon\0{F87A,-606}{F813,1,411201}To be honest, I don't care if I have{F801}to live as a human or a demon. I just{F801}don't want to be bored.{F801}{F802}But if the Demon Lord falls, will{F801}humans reign again?{F801}{F802}Will I be caught like back then, too?{F801}</source>
+    <target>{F812}Demon\0{F87A,-606}{F813,1,411201}To be honest, I don't care if I have{F801}to live as a human or a demon. I just{F801}don't want to be bored.{F801}{F802}But if the Demon Lord falls, will{F801}humans reign again?{F801}{F802}Will I be caught like back then, too?{F801}</target>
+  </entry>
+  <entry id="310">
+    <source>{F812}Demon\0{F87A,-606}{F813,1,411201}The Demon Lord has fallen, and humans{F801}will reign again.{F801}{F802}But... Doesn't that mean that demons{F801}will eventually be able to return to{F801}this world?{F801}{F802}I think I'm going to get my foot in{F801}the door and start a new business{F801}here in the human world.{F801}</source>
+    <target>{F812}Demon\0{F87A,-606}{F813,1,411201}The Demon Lord has fallen, and humans{F801}will reign again.{F801}{F802}But... Doesn't that mean that demons{F801}will eventually be able to return to{F801}this world?{F801}{F802}I think I'm going to get my foot in{F801}the door and start a new business{F801}here in the human world.{F801}</target>
+  </entry>
+</mbm>

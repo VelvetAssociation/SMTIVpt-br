@@ -1,0 +1,174 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403002}If you don't have enough consumable{F801}items, check out the shop underground{F801}here. The Ashura-kai run it.{F801}{F802}The selection's not bad, since it's{F801}an official Ashura-kai thing. The people{F801}of Tokyo can hardly live without it.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403002}If you don't have enough consumable{F801}items, check out the shop underground{F801}here. The Ashura-kai run it.{F801}{F802}The selection's not bad, since it's{F801}an official Ashura-kai thing. The people{F801}of Tokyo can hardly live without it.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403002}{F812}Hunter\0{F87A,118}{F813,1,403002}If you don't have enough consumable{F801}items, check out the shop underground{F801}here. The Ashura-kai run it.{F801}{F802}There's another shop like it outside{F801}Ueno. The selection's not bad, since{F801}it's an official Ashura-kai thing. {F801}{F802}The people of Tokyo can hardly live{F801}without them.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403002}{F812}Hunter\0{F87A,118}{F813,1,403002}If you don't have enough consumable{F801}items, check out the shop underground{F801}here. The Ashura-kai run it.{F801}{F802}There's another shop like it outside{F801}Ueno. The selection's not bad, since{F801}it's an official Ashura-kai thing. {F801}{F802}The people of Tokyo can hardly live{F801}without them.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403042}It hasn't been made public, but now{F801}that Tayama is dead, the Ashura-kai{F801}is practically defunct.{F801}{F802}But the shops they used to run in each{F801}district are still around.{F801}{F802}You can never have enough consumable{F801}items, you know? Thank God for those{F801}shops...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403042}It hasn't been made public, but now{F801}that Tayama is dead, the Ashura-kai{F801}is practically defunct.{F801}{F802}But the shops they used to run in each{F801}district are still around.{F801}{F802}You can never have enough consumable{F801}items, you know? Thank God for those{F801}shops...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403041}The demons want to decide on a champion?{F801}Now? In this mess?{F801}{F802}...I guess this isn't the time to start{F801}freaking out...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403041}The demons want to decide on a champion?{F801}Now? In this mess?{F801}{F802}...I guess this isn't the time to start{F801}freaking out...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403002}It hasn't been made public, but now{F801}that Tayama is dead, the Ashura-kai{F801}is practically defunct.{F801}{F802}But the shops they used to run in each{F801}district are still around.{F801}{F802}If the angels are coming from up top{F801}to attack like I heard, we'll need{F801}those consumable items real soon...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403002}It hasn't been made public, but now{F801}that Tayama is dead, the Ashura-kai{F801}is practically defunct.{F801}{F802}But the shops they used to run in each{F801}district are still around.{F801}{F802}If the angels are coming from up top{F801}to attack like I heard, we'll need{F801}those consumable items real soon...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403001}Even though the Demon Lord was defeated,{F801}there's still demons running around.{F801}{F802}Thank God the shops the Ashura-kai used{F801}to run in each district are still open.{F801}{F802}Tayama wasn't such a great guy, but he{F801}did leave some nice things behind...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403001}Even though the Demon Lord was defeated,{F801}there's still demons running around.{F801}{F802}Thank God the shops the Ashura-kai used{F801}to run in each district are still open.{F801}{F802}Tayama wasn't such a great guy, but he{F801}did leave some nice things behind...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403312}What? Questions? Why don't you ask{F801}a Hunter?{F801}{F802}I got no time to waste on some{F801}strangers. Just go to the Hunter{F801}Association over there and ask them.{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403312}What? Questions? Why don't you ask{F801}a Hunter?{F801}{F802}I got no time to waste on some{F801}strangers. Just go to the Hunter{F801}Association over there and ask them.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403312}What? Questions? Why don't you ask{F801}that Samurai guy?{F801}{F802}I hear there's some schmo who calls{F801}himself a Samurai.{F801}{F802}He's somewhere in this underground{F801}district. Anyways, I got no time to{F801}waste on some strangers.{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403312}What? Questions? Why don't you ask{F801}that Samurai guy?{F801}{F802}I hear there's some schmo who calls{F801}himself a Samurai.{F801}{F802}He's somewhere in this underground{F801}district. Anyways, I got no time to{F801}waste on some strangers.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 A woman and a boy are talking...{F801}</source>
+    <target>〉 A woman and a boy are talking...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 A woman and a boy are talking...{F801}</source>
+    <target>〉 A woman and a boy are talking...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403341}I heard that someone took on that army{F801}of angels and won...{F801}{F802}So mankind still has a chance after{F801}all...{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403341}I heard that someone took on that army{F801}of angels and won...{F801}{F802}So mankind still has a chance after{F801}all...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 A woman and a boy are talking...{F801}</source>
+    <target>〉 A woman and a boy are talking...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Hunter man\0{F87A,118}{F813,1,403001}It hasn't been made public, but now{F801}that Tayama is dead, the Ashura-kai{F801}is practically defunct.{F801}{F802}But the shops they used to run in each{F801}district are still around.{F801}{F802}Demons are still alive and kicking,{F801}after all... As long as we have them,{F801}we'll still need consumable items.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,118}{F813,1,403001}It hasn't been made public, but now{F801}that Tayama is dead, the Ashura-kai{F801}is practically defunct.{F801}{F802}But the shops they used to run in each{F801}district are still around.{F801}{F802}Demons are still alive and kicking,{F801}after all... As long as we have them,{F801}we'll still need consumable items.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403312}These days, I can't help but wonder...{F801}{F802}When my kid grows up to be your age,{F801}what's Tokyo gonna look like then?{F801}{F802}And will I still be alive to look{F801}after him...?{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403312}These days, I can't help but wonder...{F801}{F802}When my kid grows up to be your age,{F801}what's Tokyo gonna look like then?{F801}{F802}And will I still be alive to look{F801}after him...?{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If demons attack the underground{F801}district, you run as fast as you can to{F801}safety, okay?{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If demons attack the underground{F801}district, you run as fast as you can to{F801}safety, okay?{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If demons attack the underground{F801}district, you run as fast as you can to{F801}safety, okay?{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If demons attack the underground{F801}district, you run as fast as you can to{F801}safety, okay?{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Demure boy\0{F87A,55}{F813,1,404021}Mommy? If our champion beats up the{F801}demons, what should we do then?{F801}{F802}</source>
+    <target>{F812}Demure boy\0{F87A,55}{F813,1,404021}Mommy? If our champion beats up the{F801}demons, what should we do then?{F801}{F802}</target>
+  </entry>
+  <entry id="207">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403312}By the way... I don't see that girl from{F801}the Central Underground District so much{F801}these days...{F801}{F802}She used to play with my kid. She's a{F801}real nice girl. Smart, too.{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403312}By the way... I don't see that girl from{F801}the Central Underground District so much{F801}these days...{F801}{F802}She used to play with my kid. She's a{F801}real nice girl. Smart, too.{F801}</target>
+  </entry>
+  <entry id="208">
+    <source>{F812}Demure boy\0{F87A,55}{F813,1,404021}What about you, Mommy...?{F801}</source>
+    <target>{F812}Demure boy\0{F87A,55}{F813,1,404021}What about you, Mommy...?{F801}</target>
+  </entry>
+  <entry id="209">
+    <source>{F812}Demure boy\0{F87A,55}{F813,1,404021}No! I won't run! I'm gonna beat all{F801}the demons for you!{F801}{F802}I'll be as great as {F843,0} and{F801}beat them all up!{F801}</source>
+    <target>{F812}Demure boy\0{F87A,55}{F813,1,404021}No! I won't run! I'm gonna beat all{F801}the demons for you!{F801}{F802}I'll be as great as {F843,0} and{F801}beat them all up!{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403322}...Nothing. Nothing will change, sweetie.{F801}We'll stay together just like now...{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403322}...Nothing. Nothing will change, sweetie.{F801}We'll stay together just like now...{F801}</target>
+  </entry>
+  <entry id="307">
+    <source>〉 A woman and a boy are talking...{F801}</source>
+    <target>〉 A woman and a boy are talking...{F801}</target>
+  </entry>
+  <entry id="308">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403322}Listen to me...! Just do what I say,{F801}all right!?{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403322}Listen to me...! Just do what I say,{F801}all right!?{F801}</target>
+  </entry>
+  <entry id="309">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403322}Sweetheart...{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403322}Sweetheart...{F801}</target>
+  </entry>
+  <entry id="407">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If mommy gets killed by demons,{F801}don't cry, okay?{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If mommy gets killed by demons,{F801}don't cry, okay?{F801}</target>
+  </entry>
+  <entry id="408">
+    <source>〉 A woman and a boy are talking...{F801}</source>
+    <target>〉 A woman and a boy are talking...{F801}</target>
+  </entry>
+  <entry id="409">
+    <source>〉 A woman and a boy are talking...{F801}</source>
+    <target>〉 A woman and a boy are talking...{F801}</target>
+  </entry>
+  <entry id="507">
+    <source>{F812}Demure boy\0{F87A,55}{F813,1,404021}Mommy... are you going to die?{F801}</source>
+    <target>{F812}Demure boy\0{F87A,55}{F813,1,404021}Mommy... are you going to die?{F801}</target>
+  </entry>
+  <entry id="508">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If demons attack the underground{F801}district, you run as fast as you can to{F801}Shinjuku, okay?{F801}{F802}And whatever you do, don't lose this{F801}matchbox. Do you understand?{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If demons attack the underground{F801}district, you run as fast as you can to{F801}Shinjuku, okay?{F801}{F802}And whatever you do, don't lose this{F801}matchbox. Do you understand?{F801}</target>
+  </entry>
+  <entry id="509">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If demons attack the underground{F801}district, you run as fast as you can to{F801}safety, okay?{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If demons attack the underground{F801}district, you run as fast as you can to{F801}safety, okay?{F801}</target>
+  </entry>
+  <entry id="607">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403322}O-Of course not...{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403322}O-Of course not...{F801}</target>
+  </entry>
+  <entry id="608">
+    <source>{F812}Demure boy\0{F87A,55}{F813,1,404021}What about you, Mommy...?{F801}</source>
+    <target>{F812}Demure boy\0{F87A,55}{F813,1,404021}What about you, Mommy...?{F801}</target>
+  </entry>
+  <entry id="609">
+    <source>{F812}Demure boy\0{F87A,55}{F813,1,404021}No! I won't! We've got the champion{F801}to help us, Mommy!{F801}</source>
+    <target>{F812}Demure boy\0{F87A,55}{F813,1,404021}No! I won't! We've got the champion{F801}to help us, Mommy!{F801}</target>
+  </entry>
+  <entry id="708">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403322}That doesn't matter! Just do it!{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403322}That doesn't matter! Just do it!{F801}</target>
+  </entry>
+  <entry id="709">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403322}...You're right, sweetheart.{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403322}...You're right, sweetheart.{F801}</target>
+  </entry>
+  <entry id="807">
+    <source>〉 A woman and a boy are talking...{F801}</source>
+    <target>〉 A woman and a boy are talking...{F801}</target>
+  </entry>
+  <entry id="808">
+    <source>〉 A woman and a boy are talking...{F801}</source>
+    <target>〉 A woman and a boy are talking...{F801}</target>
+  </entry>
+  <entry id="907">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If mommy gets killed by demons,{F801}don't cry, okay?{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If mommy gets killed by demons,{F801}don't cry, okay?{F801}</target>
+  </entry>
+  <entry id="908">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If demons attack the underground{F801}district, you run as fast as you can to{F801}safety, okay?{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403302}If... If demons attack the underground{F801}district, you run as fast as you can to{F801}safety, okay?{F801}</target>
+  </entry>
+  <entry id="917">
+    <source>{F812}Demure boy\0{F87A,55}{F813,1,404021}Mommy won't die, right...?{F801}</source>
+    <target>{F812}Demure boy\0{F87A,55}{F813,1,404021}Mommy won't die, right...?{F801}</target>
+  </entry>
+  <entry id="927">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403322}N-No, of course I won't...{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403322}N-No, of course I won't...{F801}</target>
+  </entry>
+  <entry id="1008">
+    <source>{F812}Demure boy\0{F87A,55}{F813,1,404021}No! I won't run! I'm gonna beat all{F801}the demons for you!{F801}</source>
+    <target>{F812}Demure boy\0{F87A,55}{F813,1,404021}No! I won't run! I'm gonna beat all{F801}the demons for you!{F801}</target>
+  </entry>
+  <entry id="1108">
+    <source>{F812}Demure woman\0{F87A,61}{F813,1,403322}Sweetheart...{F801}</source>
+    <target>{F812}Demure woman\0{F87A,61}{F813,1,403322}Sweetheart...{F801}</target>
+  </entry>
+</mbm>

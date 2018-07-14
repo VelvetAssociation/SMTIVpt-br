@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Emaciated man\0{F87A,59}{F813,1,403211}We've never been strong enough to{F801}fight, so I've never tasted demon{F801}meat.{F801}{F802}Because of that, we were on the edge{F801}of starvation... but, still, we{F801}managed.{F801}</source>
+    <target>{F812}Emaciated man\0{F87A,59}{F813,1,403211}We've never been strong enough to{F801}fight, so I've never tasted demon{F801}meat.{F801}{F802}Because of that, we were on the edge{F801}of starvation... but, still, we{F801}managed.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Emaciated man\0{F87A,59}{F813,1,403212}We starved because we could not get{F801}a supply of demon meat. That's why{F801}we were desperate to rely on God...{F801}{F802}Eventually, that turned into us{F801}worshipping Gozutennou.{F801}</source>
+    <target>{F812}Emaciated man\0{F87A,59}{F813,1,403212}We starved because we could not get{F801}a supply of demon meat. That's why{F801}we were desperate to rely on God...{F801}{F802}Eventually, that turned into us{F801}worshipping Gozutennou.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Emaciated man\0{F87A,59}{F813,1,403212}Though it was purely for survival,{F801}we have committed a sin that cannot{F801}be forgiven.{F801}{F802}We've decided to bear this sin and{F801}continue living.{F801}</source>
+    <target>{F812}Emaciated man\0{F87A,59}{F813,1,403212}Though it was purely for survival,{F801}we have committed a sin that cannot{F801}be forgiven.{F801}{F802}We've decided to bear this sin and{F801}continue living.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Thin-faced woman\0{F87A,122}{F813,1,403323}Huh? ...What did we eat to survive{F801}if we didn't have demon meat?{F801}{F802}Th-That's... none of your business!{F801}Leave us alone!{F801}</source>
+    <target>{F812}Thin-faced woman\0{F87A,122}{F813,1,403323}Huh? ...What did we eat to survive{F801}if we didn't have demon meat?{F801}{F802}Th-That's... none of your business!{F801}Leave us alone!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Thin-faced woman\0{F87A,122}{F813,1,403322}We had cows. That's what we ate{F801}all this time.{F801}{F802}Cows... That's right...{F801}We ate beef!{F801}</source>
+    <target>{F812}Thin-faced woman\0{F87A,122}{F813,1,403322}We had cows. That's what we ate{F801}all this time.{F801}{F802}Cows... That's right...{F801}We ate beef!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Thin-faced woman\0{F87A,122}{F813,1,403322}I kept telling myself that it was{F801}beef...{F801}{F802}If only I'd been able to do anything{F801}else with the desperation I used in{F801}lying to myself...{F801}</source>
+    <target>{F812}Thin-faced woman\0{F87A,122}{F813,1,403322}I kept telling myself that it was{F801}beef...{F801}{F802}If only I'd been able to do anything{F801}else with the desperation I used in{F801}lying to myself...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Elderly woman\0{F87A,65}{F813,1,403923}Our lives are the result of{F801}Gozutennou's blessing...{F801}{F802}We owe our survival to Gozutennou{F801}sharing his food with us...{F801}</source>
+    <target>{F812}Elderly woman\0{F87A,65}{F813,1,403923}Our lives are the result of{F801}Gozutennou's blessing...{F801}{F802}We owe our survival to Gozutennou{F801}sharing his food with us...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Elderly woman\0{F87A,65}{F813,1,403923}The festivals for Gozutennou begin{F801}with a quiet prayer, then move on{F801}to song and dancing...{F801}{F802}And finally, we eat the animal that{F801}we offered to Gozutennou earlier.{F801}</source>
+    <target>{F812}Elderly woman\0{F87A,65}{F813,1,403923}The festivals for Gozutennou begin{F801}with a quiet prayer, then move on{F801}to song and dancing...{F801}{F802}And finally, we eat the animal that{F801}we offered to Gozutennou earlier.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Elderly Woman\0{F87A,65}{F813,1,403923}That long, nightmarish fete is{F801}finally over...{F801}</source>
+    <target>{F812}Elderly Woman\0{F87A,65}{F813,1,403923}That long, nightmarish fete is{F801}finally over...{F801}</target>
+  </entry>
+</mbm>

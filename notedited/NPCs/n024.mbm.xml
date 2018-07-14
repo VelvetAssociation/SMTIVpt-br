@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Meek Samurai\0{F87A,117}{F813,1,403001}Oh, my dear fellow Samurai... Do you{F801}recognize me? I've seen you many a{F801}time in Naraku.{F801}{F802}Operating the elevator proved to be a{F801}challenge, but I, too, have at last{F801}arrived in Tokyo!{F801}{F802}I was so lonely in this unknown land...{F801}I am most relieved to see a few{F801}familiar faces.{F801}</source>
+    <target>{F812}Meek Samurai\0{F87A,117}{F813,1,403001}Oh, my dear fellow Samurai... Do you{F801}recognize me? I've seen you many a{F801}time in Naraku.{F801}{F802}Operating the elevator proved to be a{F801}challenge, but I, too, have at last{F801}arrived in Tokyo!{F801}{F802}I was so lonely in this unknown land...{F801}I am most relieved to see a few{F801}familiar faces.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Meek Samurai\0{F87A,117}{F813,1,403041}Oh, my dear fellow Samurai... You are{F801}in Tokyo as well, I see.{F801}{F802}They say the Monastery is making a{F801}more concerted effort to collect{F801}mystic relics.{F801}{F802}Doubtless I am not the only fellow{F801}Samurai you will see here...{F801}</source>
+    <target>{F812}Meek Samurai\0{F87A,117}{F813,1,403041}Oh, my dear fellow Samurai... You are{F801}in Tokyo as well, I see.{F801}{F802}They say the Monastery is making a{F801}more concerted effort to collect{F801}mystic relics.{F801}{F802}Doubtless I am not the only fellow{F801}Samurai you will see here...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Meek Samurai\0{F87A,117}{F813,1,403041}Oh, my dear fellow Samurai... I will{F801}soon be returning to Mikado Castle.{F801}{F802}I received a message from Abbot Hugo.{F801}He seemed a bit panicked... I wonder{F801}what might have happened.{F801}</source>
+    <target>{F812}Meek Samurai\0{F87A,117}{F813,1,403041}Oh, my dear fellow Samurai... I will{F801}soon be returning to Mikado Castle.{F801}{F802}I received a message from Abbot Hugo.{F801}He seemed a bit panicked... I wonder{F801}what might have happened.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Meek Samurai\0{F87A,117}{F813,1,403042}I can feel my heart swell with hope{F801}merely by looking at you...{F801}{F802}I know that we cannot return to the{F801}Eastern Kingdom of Mikado, but I also{F801}know it's too soon to abandon all hope.{F801}</source>
+    <target>{F812}Meek Samurai\0{F87A,117}{F813,1,403042}I can feel my heart swell with hope{F801}merely by looking at you...{F801}{F802}I know that we cannot return to the{F801}Eastern Kingdom of Mikado, but I also{F801}know it's too soon to abandon all hope.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Meek Samurai\0{F87A,117}{F813,1,403002}The terminal in the Eastern Kingdom of{F801}Mikado is active once again.{F801}{F802}What...? I shouldn't go back to Mikado?{F801}The people are all coming to Tokyo...!?{F801}{F802}W-Wait a minute! J-Just what do you{F801}mean by that!?{F801}</source>
+    <target>{F812}Meek Samurai\0{F87A,117}{F813,1,403002}The terminal in the Eastern Kingdom of{F801}Mikado is active once again.{F801}{F802}What...? I shouldn't go back to Mikado?{F801}The people are all coming to Tokyo...!?{F801}{F802}W-Wait a minute! J-Just what do you{F801}mean by that!?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Meek Samurai\0{F87A,117}{F813,1,403002}The people of the Eastern Kingdom of{F801}Mikado are gathering in Shinjuku now.{F801}{F802}I still have duties to fulfill, but you{F801}should head there straightaway.{F801}</source>
+    <target>{F812}Meek Samurai\0{F87A,117}{F813,1,403002}The people of the Eastern Kingdom of{F801}Mikado are gathering in Shinjuku now.{F801}{F802}I still have duties to fulfill, but you{F801}should head there straightaway.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403141}Are you a Hunter? Eh, doesn't matter.{F801}{F802}You're young and healthy. You oughtta{F801}do some quests.{F801}{F802}Tokyo is packed with demons as it is,{F801}so it's always good to have people who{F801}can fight around.{F801}{F802}But if you're going to get yourself{F801}killed, please die close to the city.{F801}That way we can scavenge your stuff...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403141}Are you a Hunter? Eh, doesn't matter.{F801}{F802}You're young and healthy. You oughtta{F801}do some quests.{F801}{F802}Tokyo is packed with demons as it is,{F801}so it's always good to have people who{F801}can fight around.{F801}{F802}But if you're going to get yourself{F801}killed, please die close to the city.{F801}That way we can scavenge your stuff...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403141}My friend said he saw you in Shinjuku.{F801}{F802}It's good having a guy like you around{F801}Tokyo.{F801}{F802}But if you're going to get yourself{F801}killed, please die close to the city.{F801}That way we can scavenge your stuff...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403141}My friend said he saw you in Shinjuku.{F801}{F802}It's good having a guy like you around{F801}Tokyo.{F801}{F802}But if you're going to get yourself{F801}killed, please die close to the city.{F801}That way we can scavenge your stuff...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403141}My friend said he saw you in Shibuya.{F801}{F802}It's good having a guy like you around{F801}Tokyo.{F801}{F802}But if you're going to get yourself{F801}killed, please die close to the city.{F801}That way we can scavenge your stuff...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403141}My friend said he saw you in Shibuya.{F801}{F802}It's good having a guy like you around{F801}Tokyo.{F801}{F802}But if you're going to get yourself{F801}killed, please die close to the city.{F801}That way we can scavenge your stuff...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403141}My friend said he saw you in the Ginza{F801}region.{F801}{F802}There's noplace in Tokyo you haven't{F801}been... or is there?{F801}{F802}Well, if you're going to get yourself{F801}killed, please die near the Ueno area.{F801}That way we can scavenge your stuff...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403141}My friend said he saw you in the Ginza{F801}region.{F801}{F802}There's noplace in Tokyo you haven't{F801}been... or is there?{F801}{F802}Well, if you're going to get yourself{F801}killed, please die near the Ueno area.{F801}That way we can scavenge your stuff...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403141}My friend said he saw you in the{F801}Roppongi region.{F801}{F802}There's noplace in Tokyo you haven't{F801}been... or is there?{F801}{F802}Well, if you're going to get yourself{F801}killed, please die near the Ueno area.{F801}That way we can scavenge your stuff...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403141}My friend said he saw you in the{F801}Roppongi region.{F801}{F802}There's noplace in Tokyo you haven't{F801}been... or is there?{F801}{F802}Well, if you're going to get yourself{F801}killed, please die near the Ueno area.{F801}That way we can scavenge your stuff...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403141}I didn't expect Yuriko to make the{F801}first strike. I guess her silence so far{F801}was just the calm before the storm...{F801}{F802}It's just a matter of time before the{F801}fighting spills over into the other{F801}regions. Soon, Tokyo'll be up in flames.{F801}{F802}Well, if you're going to get yourself{F801}killed, please die near the Ueno area.{F801}Makes it easier on us scavengers...{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403141}I didn't expect Yuriko to make the{F801}first strike. I guess her silence so far{F801}was just the calm before the storm...{F801}{F802}It's just a matter of time before the{F801}fighting spills over into the other{F801}regions. Soon, Tokyo'll be up in flames.{F801}{F802}Well, if you're going to get yourself{F801}killed, please die near the Ueno area.{F801}Makes it easier on us scavengers...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hunter woman\0{F87A,70}{F813,1,403122}The head of the Association is pushing{F801}this new ranking tournament on us...{F801}{F802}Tokyo's finished anyway, isn't it?{F801}What's the point of this?{F801}</source>
+    <target>{F812}Hunter woman\0{F87A,70}{F813,1,403122}The head of the Association is pushing{F801}this new ranking tournament on us...{F801}{F802}Tokyo's finished anyway, isn't it?{F801}What's the point of this?{F801}</target>
+  </entry>
+</mbm>
