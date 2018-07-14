@@ -41,11 +41,14 @@ Sobre os parágrafos:
 Em todos os arquivos sempre haverá dois parágrafos com o mesmo texto, como:
 
 (source)Let's begin the standard demon-slaying contest.{F801}Don't forget your weapons.{F801}(/source)
+
 (target)Let's begin the standard demon-slaying contest.{F801}Don't forget your weapons.{F801}(/target)
 
 Você não precisa traduzir as duas, só a de baixo, entre os (target)(/target). O parágrafo de cima serve somente para que você tenha uma noção de quando colocar a quebra de página.
 Ex: 
+
 (source)Let's begin the standard demon-slaying contest.{F801}Don't forget your weapons.{F801}(/source)
+
 (target)Vamos começar o concurso padrão de matar demônios.{F801}Não esqueçam suas armas.{F801}(/target)
 
 O parágrafo superior é de grande ajuda para saber o tamanho da caixa de mensagem do jogo e impedir que o texto ultrapasse as suas margens. Se uma frase traduzida fica mais longa do que a original, é importante colocar um {F801} e ir para outro parágrafo o mais perto da original possível. No exemplo, pode-se observar que o {F801} foi inserido na tradução um pouco após do original, mas não há problema, pois como a distância foi pouca, provavelmente não haverá texto saindo da caixa de mensagem.
