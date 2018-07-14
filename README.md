@@ -1,4 +1,4 @@
-# SMTIVpt-br
+# SMTIV pt-br
 Pagina para organizar a tradução do Shin Megami Tensei IV.
 
 Tradutores: A pasta "nottranslated" possui as pastas com textos ainda não traduzidos. Se escolher algum para traduzir, exclua-o da pasta depois de baixá-lo.
