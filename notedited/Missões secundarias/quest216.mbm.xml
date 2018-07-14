@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>I'm looking for a way to save my sister,{F801}who suffers from a lung disease. I want you{F801}to find a certain {F804,5}medicine{F804,0} from the world{F801}below ground. Maybe you can find some in{F801}the hospital in Tsukiji. If you do find any, {F801}could you please bring some back to{F801}Kiccigiorgi Forest?{F801}</source>
+    <target>I'm looking for a way to save my sister,{F801}who suffers from a lung disease. I want you{F801}to find a certain {F804,5}medicine{F804,0} from the world{F801}below ground. Maybe you can find some in{F801}the hospital in Tsukiji. If you do find any, {F801}could you please bring some back to{F801}Kiccigiorgi Forest?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

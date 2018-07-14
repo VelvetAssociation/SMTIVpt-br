@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>Congratulations on besting all of my{F801}difficult Training Battles so far.{F801}Here is this Training Battle's goal:{F801}{F804,5}Defeat a group of enemies with superior{F801}defensive capabilities within four{F801}turns!{F804,0}{F801}Overcome this mission to further hone your skills.{F801}</source>
+    <target>Congratulations on besting all of my{F801}difficult Training Battles so far.{F801}Here is this Training Battle's goal:{F801}{F804,5}Defeat a group of enemies with superior{F801}defensive capabilities within four{F801}turns!{F804,0}{F801}Overcome this mission to further hone your skills.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

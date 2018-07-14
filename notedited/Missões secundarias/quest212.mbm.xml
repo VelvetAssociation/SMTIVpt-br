@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>It is I, Abbot Hugo, leader of the Monastery.{F801}Many of the relics require "electricity" in{F801}order to function. To connect these relics{F801}to an energy source, we need a different{F801}relic, known as a {F804,5}power cable.{F804,0} I am sure{F801}you can find one in Tokyo somewhere.{F801}</source>
+    <target>It is I, Abbot Hugo, leader of the Monastery.{F801}Many of the relics require "electricity" in{F801}order to function. To connect these relics{F801}to an energy source, we need a different{F801}relic, known as a {F804,5}power cable.{F804,0} I am sure{F801}you can find one in Tokyo somewhere.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

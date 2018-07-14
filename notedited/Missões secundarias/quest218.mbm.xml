@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>I have been considering leaving my home in{F801}Ginza to test my strength in new and exciting{F801}places. Since I am leaving and will no longer{F801}have a use for it, I'm going to give away this{F801}{F804,5}Black Card{F804,0} to the first person who brings{F801}me a {F804,5}Silver Coin{F804,0} to remind me of home.{F801}</source>
+    <target>I have been considering leaving my home in{F801}Ginza to test my strength in new and exciting{F801}places. Since I am leaving and will no longer{F801}have a use for it, I'm going to give away this{F801}{F804,5}Black Card{F804,0} to the first person who brings{F801}me a {F804,5}Silver Coin{F804,0} to remind me of home.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

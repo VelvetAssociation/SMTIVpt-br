@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>This is the battle you have all been{F801}waiting for.{F801}Here is this Training Battle's goal:{F801}{F804,5}Weaken the enemy horde's stats and{F801}defeat it within nine turns!{F804,0}{F801}</source>
+    <target>This is the battle you have all been{F801}waiting for.{F801}Here is this Training Battle's goal:{F801}{F804,5}Weaken the enemy horde's stats and{F801}defeat it within nine turns!{F804,0}{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>
