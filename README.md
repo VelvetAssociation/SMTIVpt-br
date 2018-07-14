@@ -28,12 +28,7 @@ O código {F801} serve como um ''quebra-texto'', dividindo a frase, e formando u
 Ex: 
 Vamos dar nosso melhor para completar essa{F801}missão, Mestre.{F801}
 
-A inclusão do código {F801} no meio e no fim da frase modificou a forma que o texto é exibido na caixa de mensagem do jogo. É assim que essa frase vai aparecer:
-
-Vamos dar nosso melhor para completar essa
-missão, Mestre.
-
-Ou seja, o {F801} quebrou a frase para a mesma poder caber na caixa de mensagem.
+A inclusão do código {F801} no meio e no fim da frase modificou a forma que o texto é exibido na caixa de mensagem do jogo, quebrando a frase para a mesma poder caber na caixa de mensagem, e fazendo que o "missão, Mestre." seja exibido em um novo paragrafo.
 O {F801} também deve sempre ficar no fim da frase, pois ele funciona como um ponto final.
 
 Os códigos {F804,5} e {F804,0} aparecem com mais frequência em tutoriais e telas de missões, e servem para que o texto que fica entre os dois códigos torne-se vermelho, destacando algo de importante.
@@ -45,12 +40,12 @@ A inserção desses códigos fez com que as palavras Conversar e Negociar ficare
 Sobre os parágrafos:
 Em todos os arquivos sempre haverá dois parágrafos com o mesmo texto, como:
 
-<source>Let's begin the standard demon-slaying contest.{F801}Don't forget your weapons.{F801}</source>
-<target>Let's begin the standard demon-slaying contest.{F801}Don't forget your weapons.{F801}</target>
+(source)Let's begin the standard demon-slaying contest.{F801}Don't forget your weapons.{F801}(/source)
+(target)Let's begin the standard demon-slaying contest.{F801}Don't forget your weapons.{F801}(/target)
 
-Você não precisa traduzir as duas, só a de baixo, entre os <target></target>. O parágrafo de cima serve somente para que você tenha uma noção de quando colocar a quebra de página.
+Você não precisa traduzir as duas, só a de baixo, entre os (target)(/target). O parágrafo de cima serve somente para que você tenha uma noção de quando colocar a quebra de página.
 Ex: 
-<source>Let's begin the standard demon-slaying contest.{F801}Don't forget your weapons.{F801}</source>
-<target>Vamos começar o concurso padrão de matar demônios.{F801}Não esqueçam suas armas.{F801}</target>
+(source)Let's begin the standard demon-slaying contest.{F801}Don't forget your weapons.{F801}(/source)
+(target)Vamos começar o concurso padrão de matar demônios.{F801}Não esqueçam suas armas.{F801}(/target)
 
 O parágrafo superior é de grande ajuda para saber o tamanho da caixa de mensagem do jogo e impedir que o texto ultrapasse as suas margens. Se uma frase traduzida fica mais longa do que a original, é importante colocar um {F801} e ir para outro parágrafo o mais perto da original possível. No exemplo, pode-se observar que o {F801} foi inserido na tradução um pouco após do original, mas não há problema, pois como a distância foi pouca, provavelmente não haverá texto saindo da caixa de mensagem.
