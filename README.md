@@ -8,7 +8,7 @@ Qualquer dúvida entrar em contato com a página Velvet Association no facebook.
 
 ----
 Traduza sempre sem usar os caracteres especiais das línguas latinas, como a nossa.
-
+- 
 No momento o jogo só aceita arquivos codificados em japonês, ou seja, se for colocar um ç ou outra letra com algum tipo de acento, o bloco de notas vai alertar que para que esses caracteres especiais sejam salvos, a codificação teria que mudar para Unicode, porém, o jogo não suporta nenhuma codificação além da japonesa.
 Então isso quer dizer que o jogo não vai ter esses caracteres?
 O jogo VAI ter todas as acentuações e etc. que a nossa língua possui, porém, para isso, é necessária a modificação da fonte que o jogo usa e inserir esses caracteres especiais. Não é algo muito difícil de fazer, mas leva muito tempo, então, essa edição das fontes vai ser trabalhada por mim em segundo plano. O mais importante é a tradução em si, depois que completar a fonte modificada, eu irei mudar todos os ‘’voce’’, ‘’nao’’, ‘’ha’’, etc., para ‘’você’’, ‘’não’’, ‘’há’’, etc.
@@ -24,7 +24,7 @@ Esta é a lista dos textos do jogo que consegui converter até agora, separados 
 
 
 Negociações com demônios: Inclui os diálogos feitos nas negociações.
--Possui 59 arquivos.
+- 
 
 
 Dialogo dos chefões:
@@ -32,6 +32,7 @@ Dialogo dos chefões:
 
 
 Dialogo de campo (Burroughts): 100% completo
+-
           
 
 Cathedral of Shadows: Inclui os diálogos relacionados a Cathedral of Shadows/Catedral das Sombras, como as explicações do               Mido e das Demon Fusions/Fusões Demoniacas.
