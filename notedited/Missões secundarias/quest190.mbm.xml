@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>The knight in red armor is once again{F801}trying to summon the Gozutennou... or,{F801}rather, the Overlord Baal. He's been{F801}spotted at a {F804,5}building south of the Tennozu{F801}shelters.{F804,0} This is an official quest from the{F801}Hunter Association to slay the {F804,5}Red Knight.{F804,0}{F801}</source>
+    <target>The knight in red armor is once again{F801}trying to summon the Gozutennou... or,{F801}rather, the Overlord Baal. He's been{F801}spotted at a {F804,5}building south of the Tennozu{F801}shelters.{F804,0} This is an official quest from the{F801}Hunter Association to slay the {F804,5}Red Knight.{F804,0}{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

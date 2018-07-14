@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>To all Hunters in Tokyo: We, the Four Devas,{F801}issue a challenge. Those of you confident{F801}in skill or believing yourself to be the rightful{F801}ruler of Tokyo, come to the {F804,5}Gokoku-ji Temple{F804,0} {F801}southeast of {F804,5}Ikebukuro{F804,0} to face us if you dare.{F801}The winner shall be rewarded with access to the{F801}sealed underground chambers.{F801}</source>
+    <target>To all Hunters in Tokyo: We, the Four Devas,{F801}issue a challenge. Those of you confident{F801}in skill or believing yourself to be the rightful{F801}ruler of Tokyo, come to the {F804,5}Gokoku-ji Temple{F804,0} {F801}southeast of {F804,5}Ikebukuro{F804,0} to face us if you dare.{F801}The winner shall be rewarded with access to the{F801}sealed underground chambers.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

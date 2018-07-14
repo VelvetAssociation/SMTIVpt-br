@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>The vanguard of the angel army has reached{F801}the tower reaching into the sky, and has{F801}made camp there. I hear it's a really big{F801}army... Why don't we have a little contest{F801}and see who can slay them first?{F801}</source>
+    <target>The vanguard of the angel army has reached{F801}the tower reaching into the sky, and has{F801}made camp there. I hear it's a really big{F801}army... Why don't we have a little contest{F801}and see who can slay them first?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

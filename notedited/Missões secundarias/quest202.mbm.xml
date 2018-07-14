@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>I have sent a group of my Celtic brethren to{F801}the world above to take back the {F804,5}Cauldron of{F801}Dagda,{F804,0} stolen from us by God. They did get{F801}the Cauldron, but they are injured and {F804,5}lost{F801}in the maze of Naraku.{F804,0} Please find them and{F801}bring the Cauldron to {F804,5}Brigid,{F804,0} who is in{F801}an area east of Tennozu called Daiba.{F801}</source>
+    <target>I have sent a group of my Celtic brethren to{F801}the world above to take back the {F804,5}Cauldron of{F801}Dagda,{F804,0} stolen from us by God. They did get{F801}the Cauldron, but they are injured and {F804,5}lost{F801}in the maze of Naraku.{F804,0} Please find them and{F801}bring the Cauldron to {F804,5}Brigid,{F804,0} who is in{F801}an area east of Tennozu called Daiba.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

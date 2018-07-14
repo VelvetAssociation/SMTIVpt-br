@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>We Casualries have a favor to ask of you.{F801}Please come to Kiccigiorgi Forest so I can{F801}discuss the details in person.  This is{F801}something we cannot do on our own. We{F801}desperately need a Samurai's assistance in{F801}this matter.{F801}</source>
+    <target>We Casualries have a favor to ask of you.{F801}Please come to Kiccigiorgi Forest so I can{F801}discuss the details in person.  This is{F801}something we cannot do on our own. We{F801}desperately need a Samurai's assistance in{F801}this matter.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

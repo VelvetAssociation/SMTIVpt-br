@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>I'd like some help with my research. I want{F801}to speak with Enoch, a man who fused with an{F801}angel. Bring me the angel known as the "most{F801}mysterious" of angels. If you think you can{F801}get your hands on it, come talk to me after{F801}you accept this quest.{F801}</source>
+    <target>I'd like some help with my research. I want{F801}to speak with Enoch, a man who fused with an{F801}angel. Bring me the angel known as the "most{F801}mysterious" of angels. If you think you can{F801}get your hands on it, come talk to me after{F801}you accept this quest.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

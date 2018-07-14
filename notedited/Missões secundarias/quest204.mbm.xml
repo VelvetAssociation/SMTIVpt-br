@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>My name is Mami, though you can refer to me{F801}as the Mother Goddess. I want to create a{F801}human that can work more efficiently. Please{F801}find me the giant {F804,5}{F872,1}{F804,0} and {F804,5}{F872,2}{F804,0}{F801}to experiment on. Give them to the Mushussu{F801}in {F804,5}Fukagawa Fudo north{F804,0} of {F804,5}Toyosu{F804,0} once you do.{F801}</source>
+    <target>My name is Mami, though you can refer to me{F801}as the Mother Goddess. I want to create a{F801}human that can work more efficiently. Please{F801}find me the giant {F804,5}{F872,1}{F804,0} and {F804,5}{F872,2}{F804,0}{F801}to experiment on. Give them to the Mushussu{F801}in {F804,5}Fukagawa Fudo north{F804,0} of {F804,5}Toyosu{F804,0} once you do.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>I would like you to slay a certain raven{F801}that has gotten into the underground. We{F801}cannot allow this bird to remain in these{F801}lands. I will tell you more in detail--meet{F801}me on the {F804,5}road leading to Shene Duque.{F804,0}{F801}This urgent request is from Sister Gabby.{F801}</source>
+    <target>I would like you to slay a certain raven{F801}that has gotten into the underground. We{F801}cannot allow this bird to remain in these{F801}lands. I will tell you more in detail--meet{F801}me on the {F804,5}road leading to Shene Duque.{F804,0}{F801}This urgent request is from Sister Gabby.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

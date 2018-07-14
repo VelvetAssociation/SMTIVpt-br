@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>A demon is following the example of the{F801}Black Samurai and has begun spreading{F801}knowledge to the people. It must be slain.{F801}Please meet me on the {F804,5}road to Shene{F801}Duque.{F804,0} This is an urgent personal request{F801}from Sister Gabby herself.{F801}</source>
+    <target>A demon is following the example of the{F801}Black Samurai and has begun spreading{F801}knowledge to the people. It must be slain.{F801}Please meet me on the {F804,5}road to Shene{F801}Duque.{F804,0} This is an urgent personal request{F801}from Sister Gabby herself.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

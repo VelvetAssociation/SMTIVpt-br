@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>Our leader, Mistress Amaterasu, has been{F801}sealed away by demons who want to take Tokyo{F801}for themselves. We, the Amatsugami, have lost{F801}much of our power. Please collect the three{F801}vessels of our god and bring them to {F804,5}Meiji{F801}Shrine{F804,0} {F804,5}south{F804,0} of {F804,5}Shinjuku{F804,0} so we can revive her.{F801}</source>
+    <target>Our leader, Mistress Amaterasu, has been{F801}sealed away by demons who want to take Tokyo{F801}for themselves. We, the Amatsugami, have lost{F801}much of our power. Please collect the three{F801}vessels of our god and bring them to {F804,5}Meiji{F801}Shrine{F804,0} {F804,5}south{F804,0} of {F804,5}Shinjuku{F804,0} so we can revive her.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

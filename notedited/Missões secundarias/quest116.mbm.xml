@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>To all Demon Hunters: We would like your help{F801}in collecting food supplies. We require a{F801}{F804,5}{F872,1}.{F804,0} Rukhs have a habit of{F801}laying their eggs in high places, so you can{F801}likely find one in that {F804,5}tower that reaches to{F801}the ceiling.{F804,0} An egg that big will feed an army!{F801}</source>
+    <target>To all Demon Hunters: We would like your help{F801}in collecting food supplies. We require a{F801}{F804,5}{F872,1}.{F804,0} Rukhs have a habit of{F801}laying their eggs in high places, so you can{F801}likely find one in that {F804,5}tower that reaches to{F801}the ceiling.{F804,0} An egg that big will feed an army!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery Quest description template second time{F801}Clear condition:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}{F801}Bring {F878,3} {F872,3}{F801}Reward:{F801}{F878,4} {F872,4}{F801}</source>
+    <target>Delivery Quest description template second time{F801}Clear condition:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}{F801}Bring {F878,3} {F872,3}{F801}Reward:{F801}{F878,4} {F872,4}{F801}</target>
+  </entry>
+</mbm>

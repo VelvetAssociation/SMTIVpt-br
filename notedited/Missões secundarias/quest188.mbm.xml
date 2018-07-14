@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>I need a lot of medicine called {F804,5}{F872,1},{F804,0}{F801}{F804,5}{F872,2},{F804,0} and {F804,5}{F872,3}.{F804,0} There's no one{F801}who can protect us now in Tokyo. I want to{F801}pass this medicine out to the people, so{F801}that there's at least one thing they can{F801}rely on.{F801}</source>
+    <target>I need a lot of medicine called {F804,5}{F872,1},{F804,0}{F801}{F804,5}{F872,2},{F804,0} and {F804,5}{F872,3}.{F804,0} There's no one{F801}who can protect us now in Tokyo. I want to{F801}pass this medicine out to the people, so{F801}that there's at least one thing they can{F801}rely on.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery Quest description template second time{F801}Clear condition:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}{F801}Bring {F878,3} {F872,3}{F801}Reward:{F801}{F878,4} {F872,4}{F801}</source>
+    <target>Delivery Quest description template second time{F801}Clear condition:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}{F801}Bring {F878,3} {F872,3}{F801}Reward:{F801}{F878,4} {F872,4}{F801}</target>
+  </entry>
+</mbm>

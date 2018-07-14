@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>Some people are trying to hold a summoning{F801}ritual at {F804,5}Shibuya 108.{F804,0} We want them stopped{F801}before any more things appear in the city.{F801}Please defeat the demon leading this ritual.{F801}Infiltrate their group and take down the{F801}demon when he appears to lead the summoning.{F801}</source>
+    <target>Some people are trying to hold a summoning{F801}ritual at {F804,5}Shibuya 108.{F804,0} We want them stopped{F801}before any more things appear in the city.{F801}Please defeat the demon leading this ritual.{F801}Infiltrate their group and take down the{F801}demon when he appears to lead the summoning.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery Quest description template second time{F801}Clear condition:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}{F801}Bring {F878,3} {F872,3}{F801}Reward:{F801}{F878,4} {F872,4}{F801}</source>
+    <target>Delivery Quest description template second time{F801}Clear condition:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}{F801}Bring {F878,3} {F872,3}{F801}Reward:{F801}{F878,4} {F872,4}{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>I want someone to deliver some {F804,5}film{F804,0} to a{F801}demon slayer. Her hobby is taking pictures of{F801}Tokyo, even though it's dangerous out there.{F801}She's kind of an oddball, if you ask me...{F801}Anyway, I have the film, but I need somebody{F801}to deliver it. I'm in the Ashura-kai shop in Ueno.{F801}</source>
+    <target>I want someone to deliver some {F804,5}film{F804,0} to a{F801}demon slayer. Her hobby is taking pictures of{F801}Tokyo, even though it's dangerous out there.{F801}She's kind of an oddball, if you ask me...{F801}Anyway, I have the film, but I need somebody{F801}to deliver it. I'm in the Ashura-kai shop in Ueno.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery Quest description template second time{F801}Clear condition:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}{F801}Bring {F878,3} {F872,3}{F801}Reward:{F801}{F878,4} {F872,4}{F801}</source>
+    <target>Delivery Quest description template second time{F801}Clear condition:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}{F801}Bring {F878,3} {F872,3}{F801}Reward:{F801}{F878,4} {F872,4}{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>This is the shopkeeper. I'm pretty sure{F801}that photographer Hunter is still in the{F801}Ueno area, since she wanted to take pictures{F801}of shrines and temples. Make sure to give{F801}her the film.{F801}</source>
+    <target>This is the shopkeeper. I'm pretty sure{F801}that photographer Hunter is still in the{F801}Ueno area, since she wanted to take pictures{F801}of shrines and temples. Make sure to give{F801}her the film.{F801}</target>
+  </entry>
+</mbm>

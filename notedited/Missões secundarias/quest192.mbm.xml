@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>We require some {F804,5}smartphones{F804,0} for summoning{F801}to fight off a huge demon swarm in Ichigaya.{F801}Our records indicate a foreign electronics{F801}company in an area south of Tennozu called{F801}{F804,5}Ooi Wharf{F804,0} shipped in a large number{F801}of them. Unfortunately, we're unable to reach{F801}that place. If only we could fly there...{F801}</source>
+    <target>We require some {F804,5}smartphones{F804,0} for summoning{F801}to fight off a huge demon swarm in Ichigaya.{F801}Our records indicate a foreign electronics{F801}company in an area south of Tennozu called{F801}{F804,5}Ooi Wharf{F804,0} shipped in a large number{F801}of them. Unfortunately, we're unable to reach{F801}that place. If only we could fly there...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>

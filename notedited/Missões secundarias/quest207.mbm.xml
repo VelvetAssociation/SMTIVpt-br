@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>I want to make Overlord Astaroth regain his{F801}former form as Ishtar, goddess of fertility.{F801}If she comes to this world, the barren wastes{F801}of Tokyo will be restored to a rich, fertile{F801}land. But in order to do so, we must first slay{F801}two of the ancient gods. I will be waiting{F801}{F804,5}atop the tower{F804,0} in {F804,5}Shinjuku National Park.{F804,0}{F801}</source>
+    <target>I want to make Overlord Astaroth regain his{F801}former form as Ishtar, goddess of fertility.{F801}If she comes to this world, the barren wastes{F801}of Tokyo will be restored to a rich, fertile{F801}land. But in order to do so, we must first slay{F801}two of the ancient gods. I will be waiting{F801}{F804,5}atop the tower{F804,0} in {F804,5}Shinjuku National Park.{F804,0}{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</source>
+    <target>Delivery quest description template second time{F801}Clear conditions:{F801}Bring {F878,1} {F872,1}s{F801}Bring {F878,2} {F872,2}s{F801}Bring {F878,3} {F872,3}s{F801}Reard:{F801}{F878,4} {F872,4}s{F801}</target>
+  </entry>
+</mbm>
