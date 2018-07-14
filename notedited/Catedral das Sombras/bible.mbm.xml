@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Mido\0{F87A,1}Summon {F804,5}{F875,1} {F873,1}{F804,0}{F801}for {F804,5}{F878,1}{F804,0} Macca?{F801}</source>
+    <target>{F812}Mido\0{F87A,1}Summon {F804,5}{F875,1} {F873,1}{F804,0}{F801}for {F804,5}{F878,1}{F804,0} Macca?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Mido\0{F87A,1}Register and overwrite{F801}{F804,5}{F875,1} {F873,1}?{F804,0}{F801}</source>
+    <target>{F812}Mido\0{F87A,1}Register and overwrite{F801}{F804,5}{F875,1} {F873,1}?{F804,0}{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Mido\0{F87A,1}Register and overwrite all your demons?{F801}</source>
+    <target>{F812}Mido\0{F87A,1}Register and overwrite all your demons?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Mido\0{F87A,1}You already have that demon in your{F801}possession.{F801}</source>
+    <target>{F812}Mido\0{F87A,1}You already have that demon in your{F801}possession.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Mido\0{F87A,1}You don't have enough Macca to summon{F801}this demon.{F801}</source>
+    <target>{F812}Mido\0{F87A,1}You don't have enough Macca to summon{F801}this demon.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Mido\0{F87A,1}You can't summoner custom DNA data.{F801}</source>
+    <target>{F812}Mido\0{F87A,1}You can't summoner custom DNA data.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Mido\0{F87A,1}Your level is not high enough to{F801}summon that demon.{F801}</source>
+    <target>{F812}Mido\0{F87A,1}Your level is not high enough to{F801}summon that demon.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Mido\0{F87A,1}It seems your stock is full.{F801}</source>
+    <target>{F812}Mido\0{F87A,1}It seems your stock is full.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Mido\0{F87A,1}Set {F804,5}{F877,1}{F804,0} for{F801}{F804,5}{F878,1}{F804,0} Macca?{F801}</source>
+    <target>{F812}Mido\0{F87A,1}Set {F804,5}{F877,1}{F804,0} for{F801}{F804,5}{F878,1}{F804,0} Macca?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Mido\0{F87A,1}You do not have enough Macca to set{F801}that Legion Skill.{F801}</source>
+    <target>{F812}Mido\0{F87A,1}You do not have enough Macca to set{F801}that Legion Skill.{F801}</target>
+  </entry>
+</mbm>

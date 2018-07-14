@@ -1,0 +1,486 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Mido\0{F87A,0}Dummy{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Dummy{F801}{F802}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Mido\0{F87A,0}{F813,1,902060}It seems there is a demon whose condition{F801}for fusion has been met and can now be{F801}fused at will.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,1,902060}It seems there is a demon whose condition{F801}for fusion has been met and can now be{F801}fused at will.{F801}{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>The fusion condition for{F801}{F804,5}{F875,1} {F873,1}{F804,0} has been met.{F801}{F802}</source>
+    <target>The fusion condition for{F801}{F804,5}{F875,1} {F873,1}{F804,0} has been met.{F801}{F802}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Mido\0{F87A,0}{F813,1,902060}It seems that you now have the required{F801}demons to perform a new special fusion.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,1,902060}It seems that you now have the required{F801}demons to perform a new special fusion.{F801}{F802}</target>
+  </entry>
+  <entry id="4">
+    <source>{F804,5}{F875,1} {F873,1}{F804,0} can{F801}now be made through special fusion.{F801}{F802}</source>
+    <target>{F804,5}{F875,1} {F873,1}{F804,0} can{F801}now be made through special fusion.{F801}{F802}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Mido\0{F87A,0}Please hold while I search...{F801}To cancel the search, press {F814,0,1}.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Please hold while I search...{F801}To cancel the search, press {F814,0,1}.{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Mido\0{F87A,0}I am searching, but it will take some{F801}time... To cancel the search, press {F814,0,1}.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}I am searching, but it will take some{F801}time... To cancel the search, press {F814,0,1}.{F801}{F802}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Mido\0{F87A,0}{F813,1,902010}Gather demons and come again.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,1,902010}Gather demons and come again.{F801}{F802}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Mido\0{F87A,0}Press {F814,0,3} to begin a search.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Press {F814,0,3} to begin a search.{F801}{F802}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Mido\0{F87A,0}Welcome to the Cathedral of Shadows,{F801}where demons gather...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Welcome to the Cathedral of Shadows,{F801}where demons gather...{F801}{F802}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Mido\0{F87A,0}What sort of fusion interests you?{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}What sort of fusion interests you?{F801}{F802}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Mido\0{F87A,0}Your search yields {F804,5}{F878,1} demon(s),{F804,0} which{F801}can be made in {F804,5}{F878,2} way(s).{F804,0}{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Your search yields {F804,5}{F878,1} demon(s),{F804,0} which{F801}can be made in {F804,5}{F878,2} way(s).{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Mido\0{F87A,0}Which demon do you wish to create?{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Which demon do you wish to create?{F801}{F802}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Mido\0{F87A,0}Which combination will you make it with?{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Which combination will you make it with?{F801}{F802}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Mido\0{F87A,0}Which contract do you want to make?{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Which contract do you want to make?{F801}{F802}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Mido\0{F87A,1}éギÓñスキú枠が一杯のようだな{F801}どれと入れ替えるのだ?{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}éギÓñスキú枠が一杯のようだな{F801}どれと入れ替えるのだ?{F801}{F802}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Mido\0{F87A,1}{F813,1,902030}Then I will perform the fusion.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}{F813,1,902030}Then I will perform the fusion.{F801}{F802}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Mido\0{F87A,1}It seems your level is too low to fuse{F801}this demon.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}It seems your level is too low to fuse{F801}this demon.{F801}{F802}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Mido\0{F87A,1}It seems you already have that demon{F801}with you.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}It seems you already have that demon{F801}with you.{F801}{F802}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Mido\0{F87A,1}It seems your stock is full.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}It seems your stock is full.{F801}{F802}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Mido\0{F87A,1}It seems you lack the necessary demons{F801}to fuse this one.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}It seems you lack the necessary demons{F801}to fuse this one.{F801}{F802}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Mido\0{F87A,1}It seems you lack the Macca to use the{F801}Demon Compendium.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}It seems you lack the Macca to use the{F801}Demon Compendium.{F801}{F802}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Mido\0{F87A,0}That search results in too many hits...{F801}You must further narrow your criteria.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}That search results in too many hits...{F801}You must further narrow your criteria.{F801}{F802}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Mido\0{F87A,1}Your demon has no skills. You should{F801}give it at least one.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}Your demon has no skills. You should{F801}give it at least one.{F801}{F802}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Mido\0{F87A,0}Demon fusion is a process in which{F801}multiple demons are fused to create{F801}a new one.{F801}{F802}Pay no mind to the demons' place of{F801}origin, divinity, or tradition; fuse{F801}whatever demons you like together.{F801}{F802}This is a process which fears no god...{F801}For that reason, it might be said to be{F801}immoral and taboo.{F801}{F802}To perform demon fusion, select{F801}{F804,5}Fusion{F804,0} from the menu.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Demon fusion is a process in which{F801}multiple demons are fused to create{F801}a new one.{F801}{F802}Pay no mind to the demons' place of{F801}origin, divinity, or tradition; fuse{F801}whatever demons you like together.{F801}{F802}This is a process which fears no god...{F801}For that reason, it might be said to be{F801}immoral and taboo.{F801}{F802}To perform demon fusion, select{F801}{F804,5}Fusion{F804,0} from the menu.{F801}{F802}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Mido\0{F87A,0}{F804,5}Component demons{F804,0} are demons that you{F801}select as fodder for fusion.{F801}{F802}The {F804,5}resulting demon{F804,0} is the demon that{F801}is created by the fusion process.{F801}{F802}All fusion revolves around these two{F801}types of demons... Remember them well.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F804,5}Component demons{F804,0} are demons that you{F801}select as fodder for fusion.{F801}{F802}The {F804,5}resulting demon{F804,0} is the demon that{F801}is created by the fusion process.{F801}{F802}All fusion revolves around these two{F801}types of demons... Remember them well.{F801}{F802}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Mido\0{F87A,0}The {F804,5}fusion limit{F804,0} is the level restraint{F801}on demons that can be created through{F801}fusion.{F801}{F802}There is a fear that demons of too high{F801}a level would be too powerful for you{F801}to safely control.{F801}{F802}That is why you cannot create demons with{F801}levels higher than the fusion limit.{F801}{F802}The fusion limit is connected to your{F801}own level.{F801}{F802}If you wish to create high-level demons,{F801}you must first increase your own level.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}The {F804,5}fusion limit{F804,0} is the level restraint{F801}on demons that can be created through{F801}fusion.{F801}{F802}There is a fear that demons of too high{F801}a level would be too powerful for you{F801}to safely control.{F801}{F802}That is why you cannot create demons with{F801}levels higher than the fusion limit.{F801}{F802}The fusion limit is connected to your{F801}own level.{F801}{F802}If you wish to create high-level demons,{F801}you must first increase your own level.{F801}{F802}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Mido\0{F87A,0}Apart from a select few, the skills your{F801}component demons know can be passed down{F801}to the resulting demon.{F801}{F802}This is called {F804,5}skill inheritance,{F804,0} and it{F801}is the most important factor in fusion.{F801}{F802}By using skill inheritance, you can{F801}create demons with skills they would{F801}not normally have.{F801}{F802}You may freely select which skills a{F801}demon you create will inherit.{F801}{F802}What sorts of demons will you make...?{F801}Hmhmhm...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Apart from a select few, the skills your{F801}component demons know can be passed down{F801}to the resulting demon.{F801}{F802}This is called {F804,5}skill inheritance,{F804,0} and it{F801}is the most important factor in fusion.{F801}{F802}By using skill inheritance, you can{F801}create demons with skills they would{F801}not normally have.{F801}{F802}You may freely select which skills a{F801}demon you create will inherit.{F801}{F802}What sorts of demons will you make...?{F801}Hmhmhm...{F801}{F802}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Mido\0{F87A,0}{F804,5}Recommended Fusions{F804,0} are the demons created{F801}from the combination I recommend.{F801}{F802}I will handpick three of the best fusions{F801}you can perform at any given time.{F801}{F802}If any of them catch your eye, simply{F801}select that menu option and fuse it.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F804,5}Recommended Fusions{F804,0} are the demons created{F801}from the combination I recommend.{F801}{F802}I will handpick three of the best fusions{F801}you can perform at any given time.{F801}{F802}If any of them catch your eye, simply{F801}select that menu option and fuse it.{F801}{F802}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Mido\0{F87A,0}Recommended Fusions can be performed{F801}directly from the Cathedral of Shadows'{F801}main menu.{F801}{F802}There are three recommendations listed{F801}above the standard options...{F801}{F802}Choose whichever one you like from the{F801}three and press {F814,0,0}.{F801}{F802}Once you have reviewed the resulting{F801}demon to your satisfaction, press {F814,0,0}{F801}again to perform the fusion.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Recommended Fusions can be performed{F801}directly from the Cathedral of Shadows'{F801}main menu.{F801}{F802}There are three recommendations listed{F801}above the standard options...{F801}{F802}Choose whichever one you like from the{F801}three and press {F814,0,0}.{F801}{F802}Once you have reviewed the resulting{F801}demon to your satisfaction, press {F814,0,0}{F801}again to perform the fusion.{F801}{F802}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Mido\0{F87A,0}{F804,5}Fusion Search{F804,0} allows you to create{F801}demons by searching specified criteria.{F801}{F802}Narrow down the list by criteria such{F801}as race, performance, and skills to find{F801}the demon of your choice.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F804,5}Fusion Search{F804,0} allows you to create{F801}demons by searching specified criteria.{F801}{F802}Narrow down the list by criteria such{F801}as race, performance, and skills to find{F801}the demon of your choice.{F801}{F802}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Mido\0{F87A,0}To perform a fusion search, first choose{F801}"Fusion"...{F801}{F802}And then "Fusion Search" in that order.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}To perform a fusion search, first choose{F801}"Fusion"...{F801}{F802}And then "Fusion Search" in that order.{F801}{F802}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Mido\0{F87A,0}The first step in a Fusion Search is to{F801}select the search criteria.{F801}{F802}You may adjust the performance of the{F801}expected demon as you wish.{F801}{F802}If you expect nothing in particular{F801}from the fusion, then you need not{F801}set anything.{F801}{F802}Once you have chosen your criteria,{F801}press {F814,0,0} to carry out the search.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}The first step in a Fusion Search is to{F801}select the search criteria.{F801}{F802}You may adjust the performance of the{F801}expected demon as you wish.{F801}{F802}If you expect nothing in particular{F801}from the fusion, then you need not{F801}set anything.{F801}{F802}Once you have chosen your criteria,{F801}press {F814,0,0} to carry out the search.{F801}{F802}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Mido\0{F87A,0}After the search has been carried out,{F801}you will see a list of candidates.{F801}{F802}Select a demon you wish to create from{F801}that list.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}After the search has been carried out,{F801}you will see a list of candidates.{F801}{F802}Select a demon you wish to create from{F801}that list.{F801}{F802}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Mido\0{F87A,0}After choosing the resulting demon,{F801}select a combination of component{F801}demons for the fusion.{F801}{F802}This step is necessary since most demons{F801}can be fused via multiple combinations.{F801}{F802}When choosing component demons, look to{F801}their {F804,5}skills{F804,0} and the {F804,5}demons currently{F801}at your side.{F804,0}{F801}{F802}The skills inherited from the component{F801}demons and the makeup of your party after{F801}the fusion are both important factors.{F801}{F802}Keep these thoughts in mind as you{F801}select your component demons.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}After choosing the resulting demon,{F801}select a combination of component{F801}demons for the fusion.{F801}{F802}This step is necessary since most demons{F801}can be fused via multiple combinations.{F801}{F802}When choosing component demons, look to{F801}their {F804,5}skills{F804,0} and the {F804,5}demons currently{F801}at your side.{F804,0}{F801}{F802}The skills inherited from the component{F801}demons and the makeup of your party after{F801}the fusion are both important factors.{F801}{F802}Keep these thoughts in mind as you{F801}select your component demons.{F801}{F802}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Mido\0{F87A,0}Once you have a resulting demon and its{F801}component demons, the final step is to{F801}choose skills to pass down.{F801}{F802}Allocate the inherited skills of your{F801}choice into the resulting demon's{F801}skill slots.{F801}{F802}When you have made your decisions,{F801}press {F814,0,3} to move on.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Once you have a resulting demon and its{F801}component demons, the final step is to{F801}choose skills to pass down.{F801}{F802}Allocate the inherited skills of your{F801}choice into the resulting demon's{F801}skill slots.{F801}{F802}When you have made your decisions,{F801}press {F814,0,3} to move on.{F801}{F802}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Mido\0{F87A,0}After the final step has been taken,{F801}you may review the resulting demon's{F801}details.{F801}{F802}Here, you can perform a final check of{F801}your new demon's stats, affinities,{F801}and skills.{F801}{F802}All that remains is to press {F814,0,0} to{F801}commit to the fusion.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}After the final step has been taken,{F801}you may review the resulting demon's{F801}details.{F801}{F802}Here, you can perform a final check of{F801}your new demon's stats, affinities,{F801}and skills.{F801}{F802}All that remains is to press {F814,0,0} to{F801}commit to the fusion.{F801}{F802}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Mido\0{F87A,0}You may specify demons you are adamant{F801}about using as a component in the fusion.{F801}{F802}Perhaps you wish to use strong demons{F801}as components in order to create even{F801}more powerful allies...{F801}{F802}Or perhaps a demon has outlived its{F801}usefulness to you and you wish to wring{F801}one final use from it...{F801}{F802}There are good reasons why you may wish{F801}to set this condition.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}You may specify demons you are adamant{F801}about using as a component in the fusion.{F801}{F802}Perhaps you wish to use strong demons{F801}as components in order to create even{F801}more powerful allies...{F801}{F802}Or perhaps a demon has outlived its{F801}usefulness to you and you wish to wring{F801}one final use from it...{F801}{F802}There are good reasons why you may wish{F801}to set this condition.{F801}{F802}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Mido\0{F87A,0}You may specify demons as off limits from{F801}being used as a component in the fusion.{F801}{F802}Perhaps you wish to keep a demon who has{F801}been an important ally in battle...{F801}{F802}Or you may wish to preserve the demon{F801}for use in a different fusion...{F801}{F802}There are good reasons why you may wish{F801}to set this condition.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}You may specify demons as off limits from{F801}being used as a component in the fusion.{F801}{F802}Perhaps you wish to keep a demon who has{F801}been an important ally in battle...{F801}{F802}Or you may wish to preserve the demon{F801}for use in a different fusion...{F801}{F802}There are good reasons why you may wish{F801}to set this condition.{F801}{F802}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Mido\0{F87A,0}When a search is complete, I will{F801}display the top ten that catch my eye.{F801}{F802}You may find this useful if a search has{F801}too many results to make up your mind.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}When a search is complete, I will{F801}display the top ten that catch my eye.{F801}{F802}You may find this useful if a search has{F801}too many results to make up your mind.{F801}{F802}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Mido\0{F87A,0}This will display only demons that you{F801}do not yet have in the Compendium in{F801}your search results.{F801}{F802}It is a useful condition to set if you{F801}are searching for demons you have not{F801}yet encountered.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}This will display only demons that you{F801}do not yet have in the Compendium in{F801}your search results.{F801}{F802}It is a useful condition to set if you{F801}are searching for demons you have not{F801}yet encountered.{F801}{F802}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Mido\0{F87A,0}You may, if you wish, specify the race{F801}of the demon you will create.{F801}{F802}However, you cannot specify a race from{F801}which you have never encountered any{F801}representatives before.{F801}{F802}Only those in the Demon Compendium or{F801}registered with Analyze can be specified.{F801}{F802}It can be useful if you know you will{F801}need a demon of a specific race for{F801}a later fusion.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}You may, if you wish, specify the race{F801}of the demon you will create.{F801}{F802}However, you cannot specify a race from{F801}which you have never encountered any{F801}representatives before.{F801}{F802}Only those in the Demon Compendium or{F801}registered with Analyze can be specified.{F801}{F802}It can be useful if you know you will{F801}need a demon of a specific race for{F801}a later fusion.{F801}{F802}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Mido\0{F87A,0}This allows you to specify an individual{F801}demon to create.{F801}{F802}However, you cannot specify a demon which{F801}you've never encountered before.{F801}{F802}Only those in the Demon Compendium or{F801}registered with Analyze can be specified.{F801}{F802}Only the most discerning summoners{F801}will find this condition of use...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}This allows you to specify an individual{F801}demon to create.{F801}{F802}However, you cannot specify a demon which{F801}you've never encountered before.{F801}{F802}Only those in the Demon Compendium or{F801}registered with Analyze can be specified.{F801}{F802}Only the most discerning summoners{F801}will find this condition of use...{F801}{F802}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Mido\0{F87A,0}You can specify the types of skills you{F801}wish the resulting demon to have.{F801}{F802}If you are looking for a demon to play{F801}a particular role, such as strking enemy{F801}weaknesses, or support and healing...{F801}{F802}You may find this condition useful.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}You can specify the types of skills you{F801}wish the resulting demon to have.{F801}{F802}If you are looking for a demon to play{F801}a particular role, such as strking enemy{F801}weaknesses, or support and healing...{F801}{F802}You may find this condition useful.{F801}{F802}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Mido\0{F87A,0}You can specify individual skills you{F801}wish the resulting demon to have.{F801}{F802}However, you cannot specify a skill which{F801}you have never seen put to use before.{F801}{F802}If your own party has used it, or it has{F801}been used against you, that is another{F801}matter.{F801}{F802}This is a helpful condition if you{F801}wish to build your demons in a very{F801}specific way.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}You can specify individual skills you{F801}wish the resulting demon to have.{F801}{F802}However, you cannot specify a skill which{F801}you have never seen put to use before.{F801}{F802}If your own party has used it, or it has{F801}been used against you, that is another{F801}matter.{F801}{F802}This is a helpful condition if you{F801}wish to build your demons in a very{F801}specific way.{F801}{F802}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Mido\0{F87A,0}You can specify elements that you require{F801}the resulting demons to be resistant to.{F801}{F802}For example, if you specify Fire or Ice{F801}as your condition...{F801}{F802}The search will return demons who Resist,{F801}Null, Repel, or Drain that element.{F801}{F802}This condition can be invaluable if{F801}you are building a force to combat{F801}troublesome foes.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}You can specify elements that you require{F801}the resulting demons to be resistant to.{F801}{F802}For example, if you specify Fire or Ice{F801}as your condition...{F801}{F802}The search will return demons who Resist,{F801}Null, Repel, or Drain that element.{F801}{F802}This condition can be invaluable if{F801}you are building a force to combat{F801}troublesome foes.{F801}{F802}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Mido\0{F87A,0}This will allow you to use demons{F801}registered in the Compendium for{F801}components as well.{F801}{F802}In other words, component demons which{F801}you do not have on hand can be summoned{F801}directly into the fusion.{F801}{F802}The same amount of Macca is required to{F801}summon them, so mind your finances.{F801}{F802}This condition can increase the{F801}possibilities in fusion tremendously.{F801}{F802}And it will increase the number of{F801}results in a search commensurately, so{F801}you must narrow it down by other means.{F801}{F802}The broad range of possibilities that{F801}this condition opens is fit only for{F801}experts.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}This will allow you to use demons{F801}registered in the Compendium for{F801}components as well.{F801}{F802}In other words, component demons which{F801}you do not have on hand can be summoned{F801}directly into the fusion.{F801}{F802}The same amount of Macca is required to{F801}summon them, so mind your finances.{F801}{F802}This condition can increase the{F801}possibilities in fusion tremendously.{F801}{F802}And it will increase the number of{F801}results in a search commensurately, so{F801}you must narrow it down by other means.{F801}{F802}The broad range of possibilities that{F801}this condition opens is fit only for{F801}experts.{F801}{F802}</target>
+  </entry>
+  <entry id="47">
+    <source>{F812}Mido\0{F87A,0}This allows you to omit Elements from the{F801}component demons.{F801}{F802}Should you include Elements in the{F801}search, it can cause a tremendous{F801}increase in the number of results...{F801}{F802}Should you run afoul of this, use this{F801}condition to narrow your search.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}This allows you to omit Elements from the{F801}component demons.{F801}{F802}Should you include Elements in the{F801}search, it can cause a tremendous{F801}increase in the number of results...{F801}{F802}Should you run afoul of this, use this{F801}condition to narrow your search.{F801}{F802}</target>
+  </entry>
+  <entry id="48">
+    <source>{F812}Mido\0{F87A,0}The Demon Compendium is a grimoire that{F801}contains the details of your demons.{F801}{F802}Not only can you view the demons you{F801}have befriended thus far...{F801}{F802}You can also summon them into your party{F801}for a fee of Macca.{F801}{F802}As you meet more demons, the Demon{F801}Compendium will become an important{F801}tool in your journey.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}The Demon Compendium is a grimoire that{F801}contains the details of your demons.{F801}{F802}Not only can you view the demons you{F801}have befriended thus far...{F801}{F802}You can also summon them into your party{F801}for a fee of Macca.{F801}{F802}As you meet more demons, the Demon{F801}Compendium will become an important{F801}tool in your journey.{F801}{F802}</target>
+  </entry>
+  <entry id="49">
+    <source>{F812}Mido\0{F87A,0}To view the Demon Compendium, access the{F801}Cathedral of Shadows' main menu...{F801}{F802}From there, select Demon Compendium{F801}and then View Compendium.{F801}{F802}Select demons you wish to view from the{F801}list and examine their details to your{F801}heart's content.{F801}{F802}You may also press {F814,0,0} here to summon{F801}that demon.{F801}{F802}This is an extremely useful feature,{F801}but it does have a steep cost in Macca.{F801}{F802}Take care that you use it deliberately{F801}so as not to find yourself penniless.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}To view the Demon Compendium, access the{F801}Cathedral of Shadows' main menu...{F801}{F802}From there, select Demon Compendium{F801}and then View Compendium.{F801}{F802}Select demons you wish to view from the{F801}list and examine their details to your{F801}heart's content.{F801}{F802}You may also press {F814,0,0} here to summon{F801}that demon.{F801}{F802}This is an extremely useful feature,{F801}but it does have a steep cost in Macca.{F801}{F802}Take care that you use it deliberately{F801}so as not to find yourself penniless.{F801}{F802}</target>
+  </entry>
+  <entry id="50">
+    <source>{F812}Mido\0{F87A,0}As you develop your demons, they will{F801}begin to diverge from their entries in{F801}the Demon Compendium.{F801}{F802}When this happens, you may register the{F801}demon's current details in the Compendium,{F801}overwriting its previous information.{F801}{F802}To do so, first go to the Cathedral of{F801}Shadows' main menu...{F801}{F802}Select Demon Compendium, and then{F801}Register.{F801}{F802}The resulting list will contain demons{F801}whose current state diverges from their{F801}recorded Compendium details.{F801}{F802}Select a demon and press {F814,0,0} to{F801}record the new details.{F801}{F802}You may also press {F814,0,2} to record all of{F801}the demons' updated details at once.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}As you develop your demons, they will{F801}begin to diverge from their entries in{F801}the Demon Compendium.{F801}{F802}When this happens, you may register the{F801}demon's current details in the Compendium,{F801}overwriting its previous information.{F801}{F802}To do so, first go to the Cathedral of{F801}Shadows' main menu...{F801}{F802}Select Demon Compendium, and then{F801}Register.{F801}{F802}The resulting list will contain demons{F801}whose current state diverges from their{F801}recorded Compendium details.{F801}{F802}Select a demon and press {F814,0,0} to{F801}record the new details.{F801}{F802}You may also press {F814,0,2} to record all of{F801}the demons' updated details at once.{F801}{F802}</target>
+  </entry>
+  <entry id="51">
+    <source>{F812}Mido\0{F87A,0}When updating the records in your Demon{F801}Compendium, there is one thing to be{F801}cautious of.{F801}{F802}Take care that a stronger version of a{F801}demon in the Compendium is not displaced{F801}by the weak one in your party.{F801}{F802}For example, you might use a well-{F801}developed demon in fusion, eliminating{F801}it from your stock.{F801}{F802}If you happened to befriend that same{F801}demon through conversation again...{F801}{F802}The demon would be in its initial state,{F801}putting you at risk of running afoul{F801}of the case I mentioned.{F801}{F802}When you are considering whether or not{F801}to update the records, press {F814,0,3} on the{F801}register screen.{F801}{F802}This will display the demon's current{F801}state and its Compendium record one{F801}after another for easy comparison.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}When updating the records in your Demon{F801}Compendium, there is one thing to be{F801}cautious of.{F801}{F802}Take care that a stronger version of a{F801}demon in the Compendium is not displaced{F801}by the weak one in your party.{F801}{F802}For example, you might use a well-{F801}developed demon in fusion, eliminating{F801}it from your stock.{F801}{F802}If you happened to befriend that same{F801}demon through conversation again...{F801}{F802}The demon would be in its initial state,{F801}putting you at risk of running afoul{F801}of the case I mentioned.{F801}{F802}When you are considering whether or not{F801}to update the records, press {F814,0,3} on the{F801}register screen.{F801}{F802}This will display the demon's current{F801}state and its Compendium record one{F801}after another for easy comparison.{F801}{F802}</target>
+  </entry>
+  <entry id="52">
+    <source>{F812}Mido\0{F87A,0}Summoning from the Demon Compendium{F801}requires a certain amount of Macca.{F801}{F802}It may interest you to know that the{F801}summoning fee is dependent on the{F801}recorded demon's quality.{F801}{F802}HP, MP, its statistics, elemental{F801}affinities, and known skills are all{F801}factors in determining the price.{F801}{F802}The stronger the demon, the higher the{F801}cost of summoning it will be.{F801}{F802}Whether you opt for strength or savings{F801}will pose quite a dilemma.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Summoning from the Demon Compendium{F801}requires a certain amount of Macca.{F801}{F802}It may interest you to know that the{F801}summoning fee is dependent on the{F801}recorded demon's quality.{F801}{F802}HP, MP, its statistics, elemental{F801}affinities, and known skills are all{F801}factors in determining the price.{F801}{F802}The stronger the demon, the higher the{F801}cost of summoning it will be.{F801}{F802}Whether you opt for strength or savings{F801}will pose quite a dilemma.{F801}{F802}</target>
+  </entry>
+  <entry id="53">
+    <source>{F812}Mido\0{F87A,0}"The record in the Compendium is too{F801}strong! I can't afford the high cost of{F801}summoning!"{F801}{F802}There are many users who express such{F801}concerns, so allow me to tell you one{F801}way to bypass this thorny problem.{F801}{F802}It's quite simple. All you have to do{F801}is purposely replace the record with{F801}a weaker version of the demon.{F801}{F802}Befriend a demon through conversation{F801}to gain it in its initial state, and then{F801}register that state to the Compendium.{F801}{F802}Employing this technique is counter to{F801}the warning given elsewhere, but it{F801}definitely has its uses.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}"The record in the Compendium is too{F801}strong! I can't afford the high cost of{F801}summoning!"{F801}{F802}There are many users who express such{F801}concerns, so allow me to tell you one{F801}way to bypass this thorny problem.{F801}{F802}It's quite simple. All you have to do{F801}is purposely replace the record with{F801}a weaker version of the demon.{F801}{F802}Befriend a demon through conversation{F801}to gain it in its initial state, and then{F801}register that state to the Compendium.{F801}{F802}Employing this technique is counter to{F801}the warning given elsewhere, but it{F801}definitely has its uses.{F801}{F802}</target>
+  </entry>
+  <entry id="54">
+    <source>{F812}Mido\0{F87A,0}There are a series of laws that govern{F801}demon fusion.{F801}{F802}What kind of demon the resulting demon{F801}becomes is decided by the laws of{F801}fusion, for instance.{F801}{F802}It is, of course, entirely possible to{F801}fuse demons without knowing these laws...{F801}{F802}But it is best to be aware of them to{F801}some extent to perform more refined{F801}fusions.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}There are a series of laws that govern{F801}demon fusion.{F801}{F802}What kind of demon the resulting demon{F801}becomes is decided by the laws of{F801}fusion, for instance.{F801}{F802}It is, of course, entirely possible to{F801}fuse demons without knowing these laws...{F801}{F802}But it is best to be aware of them to{F801}some extent to perform more refined{F801}fusions.{F801}{F802}</target>
+  </entry>
+  <entry id="55">
+    <source>{F812}Mido\0{F87A,0}The race of the resulting demon depends{F801}on which component demons are fused.{F801}{F802}For example, fusing race {F804,1}A{F804,0} with race {F804,1}B{F804,0}{F801}will result in race {F804,1}C,{F804,0} and so forth.{F801}{F802}It is most useful to be conscious of this{F801}law if you are seeking to fuse a demon{F801}of a particular race.{F801}{F802}If you wish to make a demon of race {F804,1}C,{F804,0}{F801}you will need component demons of races{F801}{F804,1}A{F804,0} and {F804,1}B...{F804,0}{F801}{F802}With the reverse lookup, you can figure{F801}out which races of component demon{F801}to use.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}The race of the resulting demon depends{F801}on which component demons are fused.{F801}{F802}For example, fusing race {F804,1}A{F804,0} with race {F804,1}B{F804,0}{F801}will result in race {F804,1}C,{F804,0} and so forth.{F801}{F802}It is most useful to be conscious of this{F801}law if you are seeking to fuse a demon{F801}of a particular race.{F801}{F802}If you wish to make a demon of race {F804,1}C,{F804,0}{F801}you will need component demons of races{F801}{F804,1}A{F804,0} and {F804,1}B...{F804,0}{F801}{F802}With the reverse lookup, you can figure{F801}out which races of component demon{F801}to use.{F801}{F802}</target>
+  </entry>
+  <entry id="56">
+    <source>{F812}Mido\0{F87A,0}The resulting demon's level is decided{F801}by the level of the component demons.{F801}{F802}The formula dictates that the averaged{F801}level of the component demons is the{F801}basis for the resulting demon's level.{F801}{F802}A strong demon is born from strong demons.{F801}A weak demon is born from weak demons.{F801}{F802}It only stands to reason...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}The resulting demon's level is decided{F801}by the level of the component demons.{F801}{F802}The formula dictates that the averaged{F801}level of the component demons is the{F801}basis for the resulting demon's level.{F801}{F802}A strong demon is born from strong demons.{F801}A weak demon is born from weak demons.{F801}{F802}It only stands to reason...{F801}{F802}</target>
+  </entry>
+  <entry id="57">
+    <source>{F812}Mido\0{F87A,0}If a component demon has gained any{F801}levels, you must take care when{F801}calculating the fusion result.{F801}{F802}This is because the formula dictated by{F801}the laws of fusion...{F801}{F802}...takes only the component demon's{F801}initial level into account, rather than{F801}any it has accrued through experience.{F801}{F802}Even if you fused a Foul Slime at level{F801}99, it would result in a very weak demon.{F801}{F802}It's important to remember that the{F801}demon's initial strength is what{F801}matters, not its current strength.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}If a component demon has gained any{F801}levels, you must take care when{F801}calculating the fusion result.{F801}{F802}This is because the formula dictated by{F801}the laws of fusion...{F801}{F802}...takes only the component demon's{F801}initial level into account, rather than{F801}any it has accrued through experience.{F801}{F802}Even if you fused a Foul Slime at level{F801}99, it would result in a very weak demon.{F801}{F802}It's important to remember that the{F801}demon's initial strength is what{F801}matters, not its current strength.{F801}{F802}</target>
+  </entry>
+  <entry id="58">
+    <source>{F812}Mido\0{F87A,0}Of the many races of demons, do you know{F801}the idiosyncracies of the Elements?{F801}{F802}This Element race has a special and{F801}rather technical role in fusion.{F801}{F802}It gets a bit complicated to explain,{F801}but using them in fusions can greatly{F801}influence your results.{F801}{F802}If you are confident in your skills,{F801}you should by all means make an effort{F801}to learn their use.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Of the many races of demons, do you know{F801}the idiosyncracies of the Elements?{F801}{F802}This Element race has a special and{F801}rather technical role in fusion.{F801}{F802}It gets a bit complicated to explain,{F801}but using them in fusions can greatly{F801}influence your results.{F801}{F802}If you are confident in your skills,{F801}you should by all means make an effort{F801}to learn their use.{F801}{F802}</target>
+  </entry>
+  <entry id="59">
+    <source>{F812}Mido\0{F87A,0}To create an Element, simply fuse two{F801}demons of the same race together.{F801}{F802}Which Element results from the fusion{F801}is determined by the race of the{F801}component demons used.{F801}{F802}If there is a specific Element you wish{F801}to create, then narrow down your search{F801}to the races that can create it...{F801}{F802}And then fuse two demons of that race{F801}together.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}To create an Element, simply fuse two{F801}demons of the same race together.{F801}{F802}Which Element results from the fusion{F801}is determined by the race of the{F801}component demons used.{F801}{F802}If there is a specific Element you wish{F801}to create, then narrow down your search{F801}to the races that can create it...{F801}{F802}And then fuse two demons of that race{F801}together.{F801}{F802}</target>
+  </entry>
+  <entry id="60">
+    <source>{F812}Mido\0{F87A,0}In order to understand an Element's{F801}effect on fusion, you must first{F801}understand the concept of "ranks."{F801}{F802}Rank is the order of each demon's level{F801}within the same race.{F801}{F802}For example, if there were a demon {F804,1}A{F804,0}{F801}of level 20...{F801}{F802}Within this race, you would look for{F801}a higher-level demon than {F804,1}A.{F804,0}{F801}{F802}It happens that demon {F804,1}B,{F804,0} of level 25,{F801}is the first one you find.{F801}{F802}In this case, demon {F804,1}B{F804,0} would be one rank{F801}higher than demon {F804,1}A.{F804,0}{F801}{F802}Conversely, you could also say that{F801}demon {F804,1}A{F804,0} is one rank lower than demon {F804,1}B.{F804,0}{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}In order to understand an Element's{F801}effect on fusion, you must first{F801}understand the concept of "ranks."{F801}{F802}Rank is the order of each demon's level{F801}within the same race.{F801}{F802}For example, if there were a demon {F804,1}A{F804,0}{F801}of level 20...{F801}{F802}Within this race, you would look for{F801}a higher-level demon than {F804,1}A.{F804,0}{F801}{F802}It happens that demon {F804,1}B,{F804,0} of level 25,{F801}is the first one you find.{F801}{F802}In this case, demon {F804,1}B{F804,0} would be one rank{F801}higher than demon {F804,1}A.{F804,0}{F801}{F802}Conversely, you could also say that{F801}demon {F804,1}A{F804,0} is one rank lower than demon {F804,1}B.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="61">
+    <source>{F812}Mido\0{F87A,0}An Element's role in fusion is in essence{F801}to manipulate the rank of your component{F801}demons.{F801}{F802}For example, if you fused a certain{F801}Element with demon {F804,1}A...{F804,0}{F801}{F802}The result would be a demon of {F804,1}A{F804,0}'s race,{F801}but one rank above or below {F804,1}A.{F804,0}{F801}{F802}This amounts to manipulating {F804,1}A{F804,0}'s rank.{F801}{F802}Whether the rank increases or decreases{F801}depends on {F804,1}A{F804,0}'s race, as well as the{F801}Element fused with it.{F801}{F802}There would seem to be many combinations{F801}where fusion is not possible...{F801}{F802}Learn well the web of compatibility{F801}between the races and Elements.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}An Element's role in fusion is in essence{F801}to manipulate the rank of your component{F801}demons.{F801}{F802}For example, if you fused a certain{F801}Element with demon {F804,1}A...{F804,0}{F801}{F802}The result would be a demon of {F804,1}A{F804,0}'s race,{F801}but one rank above or below {F804,1}A.{F804,0}{F801}{F802}This amounts to manipulating {F804,1}A{F804,0}'s rank.{F801}{F802}Whether the rank increases or decreases{F801}depends on {F804,1}A{F804,0}'s race, as well as the{F801}Element fused with it.{F801}{F802}There would seem to be many combinations{F801}where fusion is not possible...{F801}{F802}Learn well the web of compatibility{F801}between the races and Elements.{F801}{F802}</target>
+  </entry>
+  <entry id="62">
+    <source>{F812}Mido\0{F87A,0}Demon fusions essentially follow certain{F801}laws and proceed systematically...{F801}{F802}But very rarely, unexpected errors may{F801}crop up during this process.{F801}{F802}When this happens, the resulting demon{F801}will not be what you had planned for.{F801}{F802}...Even I have yet to figure out why such{F801}a thing occurs.{F801}{F802}I highly doubt that there are any bugs{F801}in the Cathedral of Shadows' code...{F801}{F802}Perhaps some mysterious power, unknown{F801}even to me, is at play.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Demon fusions essentially follow certain{F801}laws and proceed systematically...{F801}{F802}But very rarely, unexpected errors may{F801}crop up during this process.{F801}{F802}When this happens, the resulting demon{F801}will not be what you had planned for.{F801}{F802}...Even I have yet to figure out why such{F801}a thing occurs.{F801}{F802}I highly doubt that there are any bugs{F801}in the Cathedral of Shadows' code...{F801}{F802}Perhaps some mysterious power, unknown{F801}even to me, is at play.{F801}{F802}</target>
+  </entry>
+  <entry id="63">
+    <source>{F812}Mido\0{F87A,0}Special fusion is a unique process where{F801}the component demons are predetermined.{F801}{F802}These fusions are only possible through{F801}specific combinations.{F801}{F802}That is why many of the demons created{F801}through special fusion tend to be special{F801}themselves.{F801}{F802}Try experimenting to see what kinds of{F801}special fusions you can perform.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Special fusion is a unique process where{F801}the component demons are predetermined.{F801}{F802}These fusions are only possible through{F801}specific combinations.{F801}{F802}That is why many of the demons created{F801}through special fusion tend to be special{F801}themselves.{F801}{F802}Try experimenting to see what kinds of{F801}special fusions you can perform.{F801}{F802}</target>
+  </entry>
+  <entry id="64">
+    <source>{F812}Mido\0{F87A,0}There are four main ways in which special{F801}fusion differs from normal fusion.{F801}{F802}First, the normal laws of fusion do{F801}not apply.{F801}{F802}Second, the process is not limited to{F801}only two component demons. It may{F801}involve three or even four at times.{F801}{F802}Third, demons created through special{F801}fusion cannot be created in any other{F801}way.{F801}{F802}Not through normal fusion, and not{F801}through fusion accidents.{F801}{F802}Fourth, even if the component demons{F801}are the same, the resulting demon will{F801}be different in a special fusion.{F801}{F802}For example, if demon {F804,1}A{F804,0} and demon {F804,1}B{F804,0}{F801}fuse to create demon {F804,1}C{F804,0} through special{F801}fusion...{F801}{F802}You would not get demon {F804,1}C{F804,0} by fusing{F801}demon {F804,1}A{F804,0} and demon {F804,1}B{F804,0} in normal fusion.{F801}{F802}Remember these four points well...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}There are four main ways in which special{F801}fusion differs from normal fusion.{F801}{F802}First, the normal laws of fusion do{F801}not apply.{F801}{F802}Second, the process is not limited to{F801}only two component demons. It may{F801}involve three or even four at times.{F801}{F802}Third, demons created through special{F801}fusion cannot be created in any other{F801}way.{F801}{F802}Not through normal fusion, and not{F801}through fusion accidents.{F801}{F802}Fourth, even if the component demons{F801}are the same, the resulting demon will{F801}be different in a special fusion.{F801}{F802}For example, if demon {F804,1}A{F804,0} and demon {F804,1}B{F804,0}{F801}fuse to create demon {F804,1}C{F804,0} through special{F801}fusion...{F801}{F802}You would not get demon {F804,1}C{F804,0} by fusing{F801}demon {F804,1}A{F804,0} and demon {F804,1}B{F804,0} in normal fusion.{F801}{F802}Remember these four points well...{F801}{F802}</target>
+  </entry>
+  <entry id="65">
+    <source>{F812}Mido\0{F87A,0}To use the special fusion feature,{F801}first access the Cathedral of Shadows'{F801}main menu...{F801}{F802}Then select Fusion and, from there,{F801}Special Fusion.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}To use the special fusion feature,{F801}first access the Cathedral of Shadows'{F801}main menu...{F801}{F802}Then select Fusion and, from there,{F801}Special Fusion.{F801}{F802}</target>
+  </entry>
+  <entry id="66">
+    <source>{F812}Mido\0{F87A,0}For special fusions, you first select the{F801}demon you wish to create from the list.{F801}{F802}Once you have selected it, press {F814,0,0} to{F801}review which component demons the fusion{F801}requires.{F801}{F802}By the way, there is one condition for{F801}that demon to appear on the list...{F801}{F802}You must have befriended at least one{F801}of its component demons in the past.{F801}{F802}You may wish to check the special fusion{F801}list often as you befriend new demons.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}For special fusions, you first select the{F801}demon you wish to create from the list.{F801}{F802}Once you have selected it, press {F814,0,0} to{F801}review which component demons the fusion{F801}requires.{F801}{F802}By the way, there is one condition for{F801}that demon to appear on the list...{F801}{F802}You must have befriended at least one{F801}of its component demons in the past.{F801}{F802}You may wish to check the special fusion{F801}list often as you befriend new demons.{F801}{F802}</target>
+  </entry>
+  <entry id="67">
+    <source>{F812}Mido\0{F87A,0}After deciding on the demon you wish to{F801}create, check which component demons are{F801}required for the fusion.{F801}{F802}At this time, component demons not{F801}present in your stock will be supplied{F801}automatically from the Compendium.{F801}{F802}After reviewing the combination, press{F801}{F814,0,0} to move on to your final check.{F801}{F802}Finally, press {F814,0,0} once more to perform{F801}the fusion.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}After deciding on the demon you wish to{F801}create, check which component demons are{F801}required for the fusion.{F801}{F802}At this time, component demons not{F801}present in your stock will be supplied{F801}automatically from the Compendium.{F801}{F802}After reviewing the combination, press{F801}{F814,0,0} to move on to your final check.{F801}{F802}Finally, press {F814,0,0} once more to perform{F801}the fusion.{F801}{F802}</target>
+  </entry>
+  <entry id="68">
+    <source>{F812}Mido\0{F87A,0}When performing special fusions, you may{F801}come across demons listed as "???".{F801}{F802}This indicates that the demon's identity{F801}is not yet known.{F801}{F802}If the resulting demon is listed as{F801}???", it means that not all of the{F801}component demons have been acquired yet.{F801}{F802}If a component demon is listed as "???",{F801}it means you have not yet befriended{F801}that demon in some way.{F801}{F802}Despite this, the demon's race and level{F801}will be legible, which should provide a{F801}hint toward acquiring that demon.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}When performing special fusions, you may{F801}come across demons listed as "???".{F801}{F802}This indicates that the demon's identity{F801}is not yet known.{F801}{F802}If the resulting demon is listed as{F801}???", it means that not all of the{F801}component demons have been acquired yet.{F801}{F802}If a component demon is listed as "???",{F801}it means you have not yet befriended{F801}that demon in some way.{F801}{F802}Despite this, the demon's race and level{F801}will be legible, which should provide a{F801}hint toward acquiring that demon.{F801}{F802}</target>
+  </entry>
+  <entry id="69">
+    <source>{F812}Mido\0{F87A,0}Fusion conditions show that a demon is{F801}not currently available to be fused.{F801}{F802}Even if you are of an appropriate level,{F801}and in possession of the right component{F801}demons...{F801}{F802}Unless the fusion conditions are met,{F801}you will be unable to create that demon.{F801}{F802}What this means in practice is...{F801}{F802}The Fusion Search does not reflect all{F801}possible results. Special fusions will{F801}not appear on the list.{F801}{F802}Their very existence is hidden.{F801}{F802}...Even I am not sure why this occurs.{F801}I am currently looking into it.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Fusion conditions show that a demon is{F801}not currently available to be fused.{F801}{F802}Even if you are of an appropriate level,{F801}and in possession of the right component{F801}demons...{F801}{F802}Unless the fusion conditions are met,{F801}you will be unable to create that demon.{F801}{F802}What this means in practice is...{F801}{F802}The Fusion Search does not reflect all{F801}possible results. Special fusions will{F801}not appear on the list.{F801}{F802}Their very existence is hidden.{F801}{F802}...Even I am not sure why this occurs.{F801}I am currently looking into it.{F801}{F802}</target>
+  </entry>
+  <entry id="70">
+    <source>{F812}Mido\0{F87A,0}It seems that there are two ways to meet{F801}fusion conditions.{F801}{F802}One is to fight the demon and defeat it.{F801}{F802}The other is to somehow enlist that{F801}demon's help.{F801}{F802}Either way... you must make the demon{F801}accept you as its master.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}It seems that there are two ways to meet{F801}fusion conditions.{F801}{F802}One is to fight the demon and defeat it.{F801}{F802}The other is to somehow enlist that{F801}demon's help.{F801}{F802}Either way... you must make the demon{F801}accept you as its master.{F801}{F802}</target>
+  </entry>
+  <entry id="71">
+    <source>{F812}Mido\0{F87A,0}There is an App that extends the{F801}Cathedral of Shadows to allow you to{F801}fuse demons even during battle.{F801}{F802}By installing the "Fusion Lite" App on{F801}Burroughs, you will gain access to this{F801}functionality.{F801}{F802}However, since the Gauntlet is occupied{F801}with various other processes during{F801}battle...{F801}{F802}Only the simplest, most minimal functions{F801}are enabled, so as not to overexert it.{F801}{F802}It permits a quick fusion between two{F801}demons on hand. Skill inheritance is{F801}handled automatically.{F801}{F802}This may seem to compare poorly with{F801}the more fully-featured version...{F801}{F802}But the ability to fuse during battle{F801}will surely open up new strategic{F801}possibilities.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}There is an App that extends the{F801}Cathedral of Shadows to allow you to{F801}fuse demons even during battle.{F801}{F802}By installing the "Fusion Lite" App on{F801}Burroughs, you will gain access to this{F801}functionality.{F801}{F802}However, since the Gauntlet is occupied{F801}with various other processes during{F801}battle...{F801}{F802}Only the simplest, most minimal functions{F801}are enabled, so as not to overexert it.{F801}{F802}It permits a quick fusion between two{F801}demons on hand. Skill inheritance is{F801}handled automatically.{F801}{F802}This may seem to compare poorly with{F801}the more fully-featured version...{F801}{F802}But the ability to fuse during battle{F801}will surely open up new strategic{F801}possibilities.{F801}{F802}</target>
+  </entry>
+  <entry id="72">
+    <source>{F812}Mido\0{F87A,0}The Cathedral of Shadows app... This is{F801}the masterpiece I spent my life crafting.{F801}{F802}It is the ultimate demon App that allows{F801}the user full control of all things{F801}related to demons.{F801}{F802}From the ritual of demon fusion to{F801}various functions to control demons...{F801}{F802}This App is your gateway to the{F801}mesmerizing world of demons.{F801}{F802}I hope that you use it to the fullest.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}The Cathedral of Shadows app... This is{F801}the masterpiece I spent my life crafting.{F801}{F802}It is the ultimate demon App that allows{F801}the user full control of all things{F801}related to demons.{F801}{F802}From the ritual of demon fusion to{F801}various functions to control demons...{F801}{F802}This App is your gateway to the{F801}mesmerizing world of demons.{F801}{F802}I hope that you use it to the fullest.{F801}{F802}</target>
+  </entry>
+  <entry id="73">
+    <source>{F812}Mido\0{F87A,0}What are you asking me now? I am Mido,{F801}master of this Cathedral of Shadows app.{F801}{F802}If you wish to know more, well...{F801}{F802}I am a man who grew fascinated by{F801}demons, and as a result, ended up{F801}as a digital entity...{F801}{F802}...That much I don't mind telling you.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}What are you asking me now? I am Mido,{F801}master of this Cathedral of Shadows app.{F801}{F802}If you wish to know more, well...{F801}{F802}I am a man who grew fascinated by{F801}demons, and as a result, ended up{F801}as a digital entity...{F801}{F802}...That much I don't mind telling you.{F801}{F802}</target>
+  </entry>
+  <entry id="74">
+    <source>{F812}Strange man\0{F813,0,900000}Welcome to the Cathedral of Shadows,{F801}where demons gather...{F801}{F802}</source>
+    <target>{F812}Strange man\0{F813,0,900000}Welcome to the Cathedral of Shadows,{F801}where demons gather...{F801}{F802}</target>
+  </entry>
+  <entry id="75">
+    <source>{F812}Strange man\0{F813,0,900001}Ah, you must be a new user.{F801}Congratulations on activating{F801}this application.{F801}{F802}{F813,0,900002}My name is Mido, the master of the{F801}Cathedral of Shadows app.{F801}{F802}{F813,0,900003}Glad to make your acquaintance.{F801}{F802}</source>
+    <target>{F812}Strange man\0{F813,0,900001}Ah, you must be a new user.{F801}Congratulations on activating{F801}this application.{F801}{F802}{F813,0,900002}My name is Mido, the master of the{F801}Cathedral of Shadows app.{F801}{F802}{F813,0,900003}Glad to make your acquaintance.{F801}{F802}</target>
+  </entry>
+  <entry id="76">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900004}Now... do you want to go through the{F801}lessons for beginners?{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900004}Now... do you want to go through the{F801}lessons for beginners?{F801}{F802}</target>
+  </entry>
+  <entry id="77">
+    <source>Go through it{F801}Don't go through it{F801}{F802}</source>
+    <target>Go through it{F801}Don't go through it{F801}{F802}</target>
+  </entry>
+  <entry id="78">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900005}If you want to learn more about{F801}particular topics later, choose "Talk"{F801}and ask me your questions.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900005}If you want to learn more about{F801}particular topics later, choose "Talk"{F801}and ask me your questions.{F801}{F802}</target>
+  </entry>
+  <entry id="79">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900007}Many things are possible in the{F801}Cathedral of Shadows, but the most{F801}important of them is demon fusion.{F801}{F802}{F813,0,900008}Demon fusion is a forbidden process{F801}wherein multiple demons are fused{F801}together to create a new demon.{F801}{F802}{F813,0,900009}To perform demon fusion, select{F801}{F804,5}"Demon Fusion"{F804,0} from the menu.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900007}Many things are possible in the{F801}Cathedral of Shadows, but the most{F801}important of them is demon fusion.{F801}{F802}{F813,0,900008}Demon fusion is a forbidden process{F801}wherein multiple demons are fused{F801}together to create a new demon.{F801}{F802}{F813,0,900009}To perform demon fusion, select{F801}{F804,5}"Demon Fusion"{F804,0} from the menu.{F801}{F802}</target>
+  </entry>
+  <entry id="80">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900010}An astounding variety of demons can{F801}be created through fusion...{F801}{F802}{F813,0,900011}Which is why I have prepared a useful{F801}function called {F804,5}"Fusion Search."{F804,0}{F801}{F802}{F813,0,900012}This will allow you to search by{F801}categories such as race, performance,{F801}and skills to fuse your desired demon.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900010}An astounding variety of demons can{F801}be created through fusion...{F801}{F802}{F813,0,900011}Which is why I have prepared a useful{F801}function called {F804,5}"Fusion Search."{F804,0}{F801}{F802}{F813,0,900012}This will allow you to search by{F801}categories such as race, performance,{F801}and skills to fuse your desired demon.{F801}{F802}</target>
+  </entry>
+  <entry id="81">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900013}I would recommend that beginners{F801}simply perform a search without{F801}changing any of the parameters.{F801}{F802}{F813,0,900014}Doing so will display a list of demons{F801}you are currently capable of fusing.{F801}{F802}{F813,0,900015}If any of them catch your interest,{F801}go ahead and fuse them.{F801}{F802}{F813,0,900016}Once you get the hang of it, then you{F801}can try adjusting some of the search{F801}conditions.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900013}I would recommend that beginners{F801}simply perform a search without{F801}changing any of the parameters.{F801}{F802}{F813,0,900014}Doing so will display a list of demons{F801}you are currently capable of fusing.{F801}{F802}{F813,0,900015}If any of them catch your interest,{F801}go ahead and fuse them.{F801}{F802}{F813,0,900016}Once you get the hang of it, then you{F801}can try adjusting some of the search{F801}conditions.{F801}{F802}</target>
+  </entry>
+  <entry id="82">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900017}Now, apart from that, I've actually{F801}prepared one other method of fusion{F801}that's very basic.{F801}{F802}{F813,0,900018}Look at those rows directly above{F801}the menu. Do you see the icons with{F801}demon faces?{F801}{F802}{F813,0,900019}That is the ultimate time-saving{F801}function... I call it {F804,5}"Recommended{F801}Fusions."{F804,0}{F801}{F802}{F813,0,900020}It lists the top three demons you can{F801}currently fuse, hand-picked by me.{F801}{F802}{F813,0,900021}If any of them pique your interest,{F801}you can select it and fuse it at once.{F801}{F802}{F813,0,900022}You can be particular with the Fusion{F801}Search or take the simple route of{F801}Recommended Fusions.{F801}{F802}{F813,0,900023}Use whatever style works best for you.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900017}Now, apart from that, I've actually{F801}prepared one other method of fusion{F801}that's very basic.{F801}{F802}{F813,0,900018}Look at those rows directly above{F801}the menu. Do you see the icons with{F801}demon faces?{F801}{F802}{F813,0,900019}That is the ultimate time-saving{F801}function... I call it {F804,5}"Recommended{F801}Fusions."{F804,0}{F801}{F802}{F813,0,900020}It lists the top three demons you can{F801}currently fuse, hand-picked by me.{F801}{F802}{F813,0,900021}If any of them pique your interest,{F801}you can select it and fuse it at once.{F801}{F802}{F813,0,900022}You can be particular with the Fusion{F801}Search or take the simple route of{F801}Recommended Fusions.{F801}{F802}{F813,0,900023}Use whatever style works best for you.{F801}{F802}</target>
+  </entry>
+  <entry id="83">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900017}Now, apart from that, I've actually{F801}prepared one other method of fusion{F801}that's very basic.{F801}{F802}{F813,0,900033}Look at those rows directly above{F801}the menu.{F801}{F802}{F813,0,900019}That is the ultimate time-saving{F801}function... I call it "Recommended{F801}Fusions."{F801}{F802}{F813,0,900020}It lists the top three demons you can{F801}currently fuse, hand-picked by me.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900017}Now, apart from that, I've actually{F801}prepared one other method of fusion{F801}that's very basic.{F801}{F802}{F813,0,900033}Look at those rows directly above{F801}the menu.{F801}{F802}{F813,0,900019}That is the ultimate time-saving{F801}function... I call it "Recommended{F801}Fusions."{F801}{F802}{F813,0,900020}It lists the top three demons you can{F801}currently fuse, hand-picked by me.{F801}{F802}</target>
+  </entry>
+  <entry id="84">
+    <source>{F813,1,903002}Unfortunately, there are no demons that{F801}can be fused right now.{F801}{F802}{F813,1,903001}When the tutorial is done, gather more{F801}demons so that you can fuse them.{F801}{F802}{F813,1,903004}Should you do so, Mido will make fusion{F801}recommendations here...{F801}{F802}</source>
+    <target>{F813,1,903002}Unfortunately, there are no demons that{F801}can be fused right now.{F801}{F802}{F813,1,903001}When the tutorial is done, gather more{F801}demons so that you can fuse them.{F801}{F802}{F813,1,903004}Should you do so, Mido will make fusion{F801}recommendations here...{F801}{F802}</target>
+  </entry>
+  <entry id="85">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900021}If any of them pique your interest,{F801}you can select it and fuse it at once.{F801}{F802}{F813,0,900022}You can be particular with the Fusion{F801}Search or take the simple route of{F801}Recommended Fusions.{F801}{F802}{F813,0,900023}Use whatever style works best for you.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900021}If any of them pique your interest,{F801}you can select it and fuse it at once.{F801}{F802}{F813,0,900022}You can be particular with the Fusion{F801}Search or take the simple route of{F801}Recommended Fusions.{F801}{F802}{F813,0,900023}Use whatever style works best for you.{F801}{F802}</target>
+  </entry>
+  <entry id="86">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900024}One last thing... I should say a few{F801}words about the {F804,5}"Demon Compendium."{F804,0}{F801}{F802}{F813,0,900025}The Demon Compendium is a grimoire{F801}where your demons' data is recorded.{F801}{F802}{F813,0,900026}Not only can you view the data for the{F801}demons you have fused or befriended...{F801}{F802}{F813,0,900027}You can also summon those demons in{F801}exchange for Macca.{F801}{F802}{F813,0,900028}The more demons you encounter, the more{F801}use you will get out of the Compendium.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900024}One last thing... I should say a few{F801}words about the {F804,5}"Demon Compendium."{F804,0}{F801}{F802}{F813,0,900025}The Demon Compendium is a grimoire{F801}where your demons' data is recorded.{F801}{F802}{F813,0,900026}Not only can you view the data for the{F801}demons you have fused or befriended...{F801}{F802}{F813,0,900027}You can also summon those demons in{F801}exchange for Macca.{F801}{F802}{F813,0,900028}The more demons you encounter, the more{F801}use you will get out of the Compendium.{F801}{F802}</target>
+  </entry>
+  <entry id="87">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900029}That concludes my lessons.{F801}{F802}{F813,0,900030}If you want to learn more about{F801}particular topics later, simply ask.{F801}{F802}{F813,0,900031}Select {F804,5}"Talk"{F804,0} from the menu and you'll{F801}be able to speak with me.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900029}That concludes my lessons.{F801}{F802}{F813,0,900030}If you want to learn more about{F801}particular topics later, simply ask.{F801}{F802}{F813,0,900031}Select {F804,5}"Talk"{F804,0} from the menu and you'll{F801}be able to speak with me.{F801}{F802}</target>
+  </entry>
+  <entry id="88">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900032}And now, go and enjoy the wondrous{F801}world of demons to your heart's content.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900032}And now, go and enjoy the wondrous{F801}world of demons to your heart's content.{F801}{F802}</target>
+  </entry>
+  <entry id="89">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900100}Welcome to the Cathedral of Shadows,{F801}where demons gather...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900100}Welcome to the Cathedral of Shadows,{F801}where demons gather...{F801}{F802}</target>
+  </entry>
+  <entry id="90">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900101}ほう どうやらéギÓñスキúを{F801}手に入れたようだな{F801}{F802}{F813,0,900102}éギÓñスキúに関する{F801}チュートíÁúを聞いておくか?{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900101}ほう どうやらéギÓñスキúを{F801}手に入れたようだな{F801}{F802}{F813,0,900102}éギÓñスキúに関する{F801}チュートíÁúを聞いておくか?{F801}{F802}</target>
+  </entry>
+  <entry id="91">
+    <source>聞いておく{F801}結構だ{F801}{F802}</source>
+    <target>聞いておく{F801}結構だ{F801}{F802}</target>
+  </entry>
+  <entry id="92">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900103}éギÓñスキúを再習得したい時は{F801}{F804,5}『軍勢全書』{F804,0}を選ぶがよい{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900103}éギÓñスキúを再習得したい時は{F801}{F804,5}『軍勢全書』{F804,0}を選ぶがよい{F801}{F802}</target>
+  </entry>
+  <entry id="93">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900104}éギÓñスキúとは{F801}悪魔の軍勢を一時的に召喚する魔法だ{F801}{F802}{F813,0,900105}軍勢は強力なスキúを繰り出し{F801}お[前/まえ]を助けてくれるだろう{F801}{F802}{F813,0,900106}…ただし ガñトéットに登録しておける{F801}éギÓñスキúの数は限られている{F801}{F802}{F813,0,900107}多数の悪魔を一度に扱うため{F801}ガñトéットが膨大な計算を行うからだ{F801}{F802}{F813,0,900108}したがって お[前/まえ]はéギÓñスキúの{F801}取捨選択に悩まされるだろう…{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900104}éギÓñスキúとは{F801}悪魔の軍勢を一時的に召喚する魔法だ{F801}{F802}{F813,0,900105}軍勢は強力なスキúを繰り出し{F801}お[前/まえ]を助けてくれるだろう{F801}{F802}{F813,0,900106}…ただし ガñトéットに登録しておける{F801}éギÓñスキúの数は限られている{F801}{F802}{F813,0,900107}多数の悪魔を一度に扱うため{F801}ガñトéットが膨大な計算を行うからだ{F801}{F802}{F813,0,900108}したがって お[前/まえ]はéギÓñスキúの{F801}取捨選択に悩まされるだろう…{F801}{F802}</target>
+  </entry>
+  <entry id="94">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900109}そこで 新機能を用意しておいたぞ{F801}{F802}{F813,0,900110}éギÓñスキúを登録する[魔導書/グíモÁ]…{F801}その名も{F804,5}『軍勢全書』{F804,0}だ{F801}{F802}{F813,0,900111}メニューを見るがよい 軍勢全書の{F801}項目が追加されているだろう{F801}{F802}{F813,0,900112}お[前/まえ]が今までに習得したéギÓñスキúは{F801}全てその中に登録されている{F801}{F802}{F813,0,900113}スキúの内容を確認できるのは勿論{F801}再び習得しなおしたいスキúがあれば…{F801}{F802}{F813,0,900114}マッカと引き換えに{F801}いつでも習得しなおすことができるぞ{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900109}そこで 新機能を用意しておいたぞ{F801}{F802}{F813,0,900110}éギÓñスキúを登録する[魔導書/グíモÁ]…{F801}その名も{F804,5}『軍勢全書』{F804,0}だ{F801}{F802}{F813,0,900111}メニューを見るがよい 軍勢全書の{F801}項目が追加されているだろう{F801}{F802}{F813,0,900112}お[前/まえ]が今までに習得したéギÓñスキúは{F801}全てその中に登録されている{F801}{F802}{F813,0,900113}スキúの内容を確認できるのは勿論{F801}再び習得しなおしたいスキúがあれば…{F801}{F802}{F813,0,900114}マッカと引き換えに{F801}いつでも習得しなおすことができるぞ{F801}{F802}</target>
+  </entry>
+  <entry id="95">
+    <source>{F812}Mido\0{F87A,0}{F813,0,900115}さて チュートíÁúは以上だ{F801}{F802}{F813,0,900116}バトúの切り札 éギÓñスキú{F801}その切り札がズáíと並ぶ 軍勢全書{F801}{F802}{F813,0,900117}この新たなる悪魔の業を{F801}是非とも活用してみるがよい{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,900115}さて チュートíÁúは以上だ{F801}{F802}{F813,0,900116}バトúの切り札 éギÓñスキú{F801}その切り札がズáíと並ぶ 軍勢全書{F801}{F802}{F813,0,900117}この新たなる悪魔の業を{F801}是非とも活用してみるがよい{F801}{F802}</target>
+  </entry>
+  <entry id="96">
+    <source>{F812}Mido\0{F87A,0}{F813,0,901001}By the way, you seem to have handled{F801}a startling number of quests so far.{F801}{F802}{F813,0,901002}What? How can I know such a thing?{F801}{F802}{F813,0,901003}Why, it's quite obvious if I look into{F801}your Gauntlet's data.{F801}{F802}{F813,0,901004}Hahahaha...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,901001}By the way, you seem to have handled{F801}a startling number of quests so far.{F801}{F802}{F813,0,901002}What? How can I know such a thing?{F801}{F802}{F813,0,901003}Why, it's quite obvious if I look into{F801}your Gauntlet's data.{F801}{F802}{F813,0,901004}Hahahaha...{F801}{F802}</target>
+  </entry>
+  <entry id="97">
+    <source>{F812}Mido\0{F87A,0}{F813,0,901005}That aside, about those quests...{F801}{F802}{F813,0,901006}I'd like to request one of you myself.{F801}{F802}{F813,0,901007}I want you to assist me in my research{F801}on demons.{F801}{F802}{F813,0,901008}I cannot offer much, but there will{F801}be a reward as well. Not a bad deal,{F801}is it?{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,901005}That aside, about those quests...{F801}{F802}{F813,0,901006}I'd like to request one of you myself.{F801}{F802}{F813,0,901007}I want you to assist me in my research{F801}on demons.{F801}{F802}{F813,0,901008}I cannot offer much, but there will{F801}be a reward as well. Not a bad deal,{F801}is it?{F801}{F802}</target>
+  </entry>
+  <entry id="98">
+    <source>{F812}Mido\0{F87A,0}{F813,0,901009}Thank you for taking the time to speak{F801}with me. I actually have another{F801}request for you.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,901009}Thank you for taking the time to speak{F801}with me. I actually have another{F801}request for you.{F801}{F802}</target>
+  </entry>
+  <entry id="99">
+    <source>{F812}Mido\0{F87A,0}{F813,0,901010}The details...? Well, it's something{F801}along these lines.{F801}{F802}{F813,0,901011}Let me transfer the data to Burroughs{F801}right now.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,901010}The details...? Well, it's something{F801}along these lines.{F801}{F802}{F813,0,901011}Let me transfer the data to Burroughs{F801}right now.{F801}{F802}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Burroughs\0{F813,0,901012}Mido passed along some data.{F801}I'll register it as a quest.{F801}{F802}</source>
+    <target>{F812}Burroughs\0{F813,0,901012}Mido passed along some data.{F801}I'll register it as a quest.{F801}{F802}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Mido\0{F87A,0}{F813,0,901013}All right, I'll be counting on you.{F801}I expect excellent results.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,901013}All right, I'll be counting on you.{F801}I expect excellent results.{F801}{F802}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Mido\0{F87A,0}{F813,0,901014}Is the request I gave you going{F801}smoothly?{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,901014}Is the request I gave you going{F801}smoothly?{F801}{F802}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Mido\0{F87A,0}{F813,0,901015}Hm... it doesn't seem like you have{F801}what I specified yet.{F801}{F802}{F813,0,901016}Well, all I ask is that you continue{F801}trying.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,901015}Hm... it doesn't seem like you have{F801}what I specified yet.{F801}{F802}{F813,0,901016}Well, all I ask is that you continue{F801}trying.{F801}{F802}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Mido\0{F87A,0}{F813,0,901017}Ah, it would seem that you have what{F801}I specified.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,901017}Ah, it would seem that you have what{F801}I specified.{F801}{F802}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Mido\0{F87A,0}{F813,0,901018}Hm, this is a fine report. Very useful{F801}data. It will do a great deal for my{F801}research...{F801}{F802}{F813,0,901019}I hope you'd be willing to pitch in{F801}again if something were to come up.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}{F813,0,901018}Hm, this is a fine report. Very useful{F801}data. It will do a great deal for my{F801}research...{F801}{F802}{F813,0,901019}I hope you'd be willing to pitch in{F801}again if something were to come up.{F801}{F802}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Mido\0{F87A,0}This Cathedral of Shadows is stored on{F801}a server. The Gauntlet acts as a terminal{F801}to access it.{F801}{F802}In essence, all of Mikado's Samurai are{F801}Cathedral of Shadows users.{F801}{F802}This year, you and four other new users{F801}have been registered...{F801}{F802}Walter, Jonathan, Isabeau, Navarre,{F801}and {F843,0}...{F801}{F802}I look forward to working with these{F801}five new Samurai.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}This Cathedral of Shadows is stored on{F801}a server. The Gauntlet acts as a terminal{F801}to access it.{F801}{F802}In essence, all of Mikado's Samurai are{F801}Cathedral of Shadows users.{F801}{F802}This year, you and four other new users{F801}have been registered...{F801}{F802}Walter, Jonathan, Isabeau, Navarre,{F801}and {F843,0}...{F801}{F802}I look forward to working with these{F801}five new Samurai.{F801}{F802}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Mido\0{F87A,0}If there is anything you don't understand{F801}about fusion, you may ask me.{F801}{F802}Select a topic from the list below and{F801}I will give you as clear an answer as{F801}I am able.{F801}{F802}After you have digested what I have to{F801}teach, all that's left is to fuse and{F801}keep fusing...{F801}{F802}Experience is the greatest teacher,{F801}after all.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}If there is anything you don't understand{F801}about fusion, you may ask me.{F801}{F802}Select a topic from the list below and{F801}I will give you as clear an answer as{F801}I am able.{F801}{F802}After you have digested what I have to{F801}teach, all that's left is to fuse and{F801}keep fusing...{F801}{F802}Experience is the greatest teacher,{F801}after all.{F801}{F802}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Mido\0{F87A,0}Once you grow accustomed to normal{F801}fusion, try attempting special fusions.{F801}{F802}Demons created through special fusion{F801}are generally quite strong...{F801}{F802}They will be reassuring allies when you{F801}face powerful enemies.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Once you grow accustomed to normal{F801}fusion, try attempting special fusions.{F801}{F802}Demons created through special fusion{F801}are generally quite strong...{F801}{F802}They will be reassuring allies when you{F801}face powerful enemies.{F801}{F802}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Mido\0{F87A,0}What was your initial reaction when{F801}you saw Tokyo? Isn't it truly vast?{F801}{F802}There are many demons unknown to you{F801}lurking in this land.{F801}{F802}Which means it is all the more abundant{F801}in components for fusion...{F801}{F802}The Cathedral of Shadows will be your{F801}oyster now! Hahahahahaha...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}What was your initial reaction when{F801}you saw Tokyo? Isn't it truly vast?{F801}{F802}There are many demons unknown to you{F801}lurking in this land.{F801}{F802}Which means it is all the more abundant{F801}in components for fusion...{F801}{F802}The Cathedral of Shadows will be your{F801}oyster now! Hahahahahaha...{F801}{F802}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Mido\0{F87A,0}As you face stronger demons, support{F801}skills will play a more vital role.{F801}{F802}If you see a support skill in the list{F801}of skills to inherit, you should think{F801}carefully about what to keep.{F801}{F802}Are you certain you won't need that{F801}support skill? Might you come to regret{F801}that decision later?{F801}{F802}Give careful thought to such questions{F801}when fusing...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}As you face stronger demons, support{F801}skills will play a more vital role.{F801}{F802}If you see a support skill in the list{F801}of skills to inherit, you should think{F801}carefully about what to keep.{F801}{F802}Are you certain you won't need that{F801}support skill? Might you come to regret{F801}that decision later?{F801}{F802}Give careful thought to such questions{F801}when fusing...{F801}{F802}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Mido\0{F87A,0}How many skill slots do your demons{F801}have as yet?{F801}{F802}Your demons' skills will surely be{F801}more abundant going forward.{F801}{F802}How many of these skills they can hold{F801}at a time will be dependant on the{F801}number of skill slots you provide.{F801}{F802}Whether or not to purchase more skill{F801}slots for your demons is certainly{F801}something to consider...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}How many skill slots do your demons{F801}have as yet?{F801}{F802}Your demons' skills will surely be{F801}more abundant going forward.{F801}{F802}How many of these skills they can hold{F801}at a time will be dependant on the{F801}number of skill slots you provide.{F801}{F802}Whether or not to purchase more skill{F801}slots for your demons is certainly{F801}something to consider...{F801}{F802}</target>
+  </entry>
+  <entry id="112">
+    <source>{F812}Mido\0{F87A,0}Have you been making use of special{F801}fusions?{F801}{F802}There are a limited number available{F801}at first, but I'm sure the list has{F801}become quite substantial now.{F801}{F802}If the component demons are unknown,{F801}it can be diverting to try and guess{F801}what they might be.{F801}{F802}Discovering the components, fusing the{F801}special demons, and deploying their{F801}strength in battle...{F801}{F802}Special fusion can be rewarding indeed.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Have you been making use of special{F801}fusions?{F801}{F802}There are a limited number available{F801}at first, but I'm sure the list has{F801}become quite substantial now.{F801}{F802}If the component demons are unknown,{F801}it can be diverting to try and guess{F801}what they might be.{F801}{F802}Discovering the components, fusing the{F801}special demons, and deploying their{F801}strength in battle...{F801}{F802}Special fusion can be rewarding indeed.{F801}{F802}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Mido\0{F87A,0}Have you experimented with using Elements{F801}in your fusions?{F801}{F802}Manipulating rank with Elements is the{F801}most straightforward way to strengthen{F801}a demon.{F801}{F802}It does require some care. You must{F801}understand the laws governing it and{F801}prepare the proper Elemental...{F801}{F802}But the reward for taking such pains{F801}will surely be significant.{F801}{F802}If ever you find yourself needing such{F801}an ally, give it a try.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Have you experimented with using Elements{F801}in your fusions?{F801}{F802}Manipulating rank with Elements is the{F801}most straightforward way to strengthen{F801}a demon.{F801}{F802}It does require some care. You must{F801}understand the laws governing it and{F801}prepare the proper Elemental...{F801}{F802}But the reward for taking such pains{F801}will surely be significant.{F801}{F802}If ever you find yourself needing such{F801}an ally, give it a try.{F801}{F802}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Mido\0{F87A,0}I assume your Demon Compendium must{F801}be quite substantial by now.{F801}{F802}Try allowing demons in your Compendium{F801}to be used in fusion searches.{F801}{F802}You may be shocked at the expanded range{F801}of possibilities that will result. You{F801}could call it explosive...{F801}{F802}But then, the vast range of possibilities{F801}could also prove overwhelming for you.{F801}{F802}Use your own judgement in setting your{F801}conditions for a fusion search.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}I assume your Demon Compendium must{F801}be quite substantial by now.{F801}{F802}Try allowing demons in your Compendium{F801}to be used in fusion searches.{F801}{F802}You may be shocked at the expanded range{F801}of possibilities that will result. You{F801}could call it explosive...{F801}{F802}But then, the vast range of possibilities{F801}could also prove overwhelming for you.{F801}{F802}Use your own judgement in setting your{F801}conditions for a fusion search.{F801}{F802}</target>
+  </entry>
+  <entry id="115">
+    <source>{F812}Mido\0{F87A,0}The enemy demons will only be stronger{F801}from this point on.{F801}{F802}It may be time to have your demons{F801}specialize in a particular role, such as{F801}attackers, supporters, or healers.{F801}{F802}You could also create well-rounded{F801}demons, but you run the risk of them{F801}falling short at a critical moment.{F801}{F802}The kind of demons you create will be{F801}the true proof of your skills.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}The enemy demons will only be stronger{F801}from this point on.{F801}{F802}It may be time to have your demons{F801}specialize in a particular role, such as{F801}attackers, supporters, or healers.{F801}{F802}You could also create well-rounded{F801}demons, but you run the risk of them{F801}falling short at a critical moment.{F801}{F802}The kind of demons you create will be{F801}the true proof of your skills.{F801}{F802}</target>
+  </entry>
+  <entry id="116">
+    <source>{F812}Mido\0{F87A,0}You don't even understand your situation,{F801}yet even so, you want to fuse demons...{F801}{F802}Amazing! That is how a true user of the{F801}Cathedral of Shadows App should behave!{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}You don't even understand your situation,{F801}yet even so, you want to fuse demons...{F801}{F802}Amazing! That is how a true user of the{F801}Cathedral of Shadows App should behave!{F801}{F802}</target>
+  </entry>
+  <entry id="117">
+    <source>{F812}Mido\0{F87A,0}The digital world where I live is{F801}connected to all places.{F801}{F802}Thus, there is no difficulty in using{F801}the Cathedral of Shadows App even from{F801}the Tokyo you find yourself in now.{F801}{F802}Pay no mind to these trifling matters{F801}and concentrate on your fusions as{F801}usual.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}The digital world where I live is{F801}connected to all places.{F801}{F802}Thus, there is no difficulty in using{F801}the Cathedral of Shadows App even from{F801}the Tokyo you find yourself in now.{F801}{F802}Pay no mind to these trifling matters{F801}and concentrate on your fusions as{F801}usual.{F801}{F802}</target>
+  </entry>
+  <entry id="118">
+    <source>{F812}Mido\0{F87A,0}Have you encountered any fusion accidents{F801}thus far?{F801}{F802}Fusion accidents are essentially a{F801}flawed fusion resulting in an unforeseen{F801}demon...{F801}{F802}However, they will sometimes result in{F801}rare demons that cannot normally be{F801}created through fusion.{F801}{F802}What starts as an unfortunate accident{F801}could become a happy stroke of luck...{F801}{F802}This is one of the things that makes{F801}fusion so mesmerizing.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Have you encountered any fusion accidents{F801}thus far?{F801}{F802}Fusion accidents are essentially a{F801}flawed fusion resulting in an unforeseen{F801}demon...{F801}{F802}However, they will sometimes result in{F801}rare demons that cannot normally be{F801}created through fusion.{F801}{F802}What starts as an unfortunate accident{F801}could become a happy stroke of luck...{F801}{F802}This is one of the things that makes{F801}fusion so mesmerizing.{F801}{F802}</target>
+  </entry>
+  <entry id="119">
+    <source>{F812}Mido\0{F87A,0}Your battle has reached its climax now...{F801}The highest class of demons will be{F801}making its appearances soon.{F801}{F802}Though I call it the highest class,{F801}it contains quite a number of demons.{F801}{F802}Are you up to the challenge of creating{F801}the best demons from within this{F801}exalted class?{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}Your battle has reached its climax now...{F801}The highest class of demons will be{F801}making its appearances soon.{F801}{F802}Though I call it the highest class,{F801}it contains quite a number of demons.{F801}{F802}Are you up to the challenge of creating{F801}the best demons from within this{F801}exalted class?{F801}{F802}</target>
+  </entry>
+  <entry id="120">
+    <source>{F812}Mido\0{F87A,0}You seem to have accomplished a great{F801}mission.{F801}{F802}It is all thanks to your fusion of{F801}steadfast demons through the Cathedral{F801}of Shadows app.{F801}{F802}Knowing that it gave you the power to{F801}change the world, I'm ready to call it{F801}my true masterpiece.{F801}{F802}Hahahahaha...{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,0}You seem to have accomplished a great{F801}mission.{F801}{F802}It is all thanks to your fusion of{F801}steadfast demons through the Cathedral{F801}of Shadows app.{F801}{F802}Knowing that it gave you the power to{F801}change the world, I'm ready to call it{F801}my true masterpiece.{F801}{F802}Hahahahaha...{F801}{F802}</target>
+  </entry>
+</mbm>
