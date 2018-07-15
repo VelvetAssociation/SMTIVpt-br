@@ -1,7 +1,7 @@
 # SMTIV pt-br
 Pagina para organizar a tradução do Shin Megami Tensei IV.
 
-Tradutores: A pasta "notedited" possui as pastas com textos ainda não traduzidos. Se escolher algum para traduzir, exclua-o da pasta depois de baixá-lo.
+Tradutores: A pasta "notedited" possui as pastas com textos ainda não traduzidos. Se escolher algum para traduzir, primeiro copie todo o seu conteudo para um arquivo do bloco de notas com o nome do arquivo original e com a extensão .xml. Depois, exclua o arquivo original daqui do GitHub.
             A pasta "edited" possui as pastas com textos já traduzidos. Quando acabar a tradução de algum arquivo, coloque-o na subpasta correspondente a de onde ele foi retirado.
 
 Os arquivos do texto da história principal ainda não foram colocados pois, como eu estou traduzindo essa parte, ainda devo separar as partes.
