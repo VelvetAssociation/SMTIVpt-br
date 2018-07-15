@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="23">
+    <source>{F812}Shopkeeper\0{F813,0,405406}Alright, bring 'em out already and{F801}I'll appraise them for you.{F801}</source>
+    <target>{F812}Shopkeeper\0{F813,0,405406}Alright, bring 'em out already and{F801}I'll appraise them for you.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Shopkeeper\0This is the best I can give you for{F801}those. Take it.{F801}</source>
+    <target>{F812}Shopkeeper\0This is the best I can give you for{F801}those. Take it.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Shopkeeper\0{F813,0,405400}Oh, a Hunter...{F801}</source>
+    <target>{F812}Shopkeeper\0{F813,0,405400}Oh, a Hunter...{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Shopkeeper\0{F813,0,405403}You still got business here?{F801}</source>
+    <target>{F812}Shopkeeper\0{F813,0,405403}You still got business here?{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Shopkeeper\0{F813,4,405402}Make sure you bring more Macca next{F801}time.{F801}</source>
+    <target>{F812}Shopkeeper\0{F813,4,405402}Make sure you bring more Macca next{F801}time.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Shopkeeper\0{F872,1} x{F878,1}, huh?{F801}That'll be {F878,2} Macca.{F801}</source>
+    <target>{F812}Shopkeeper\0{F872,1} x{F878,1}, huh?{F801}That'll be {F878,2} Macca.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Shopkeeper\0{F872,1} x{F878,1}, huh?{F801}{F878,2} Macca's a fair price,{F801}right?{F801}</source>
+    <target>{F812}Shopkeeper\0{F872,1} x{F878,1}, huh?{F801}{F878,2} Macca's a fair price,{F801}right?{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Shopkeeper\0{F813,0,405407}...Here.{F801}</source>
+    <target>{F812}Shopkeeper\0{F813,0,405407}...Here.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Shopkeeper\0Don't tell me you're gonna change{F801}here...{F801}</source>
+    <target>{F812}Shopkeeper\0Don't tell me you're gonna change{F801}here...{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Shopkeeper\0{F813,0,405405}...This is real, right?{F801}</source>
+    <target>{F812}Shopkeeper\0{F813,0,405405}...This is real, right?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Shopkeeper\0{F813,0,405404}You better not just be window shopping.{F801}</source>
+    <target>{F812}Shopkeeper\0{F813,0,405404}You better not just be window shopping.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Shopkeeper\0{F813,0,405401}...You had to come now, didn't you?{F801}</source>
+    <target>{F812}Shopkeeper\0{F813,0,405401}...You had to come now, didn't you?{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="23">
+    <source>{F812}Q\0{F813,0,405206}Ah, what superb relics you have there...{F801}</source>
+    <target>{F812}Q\0{F813,0,405206}Ah, what superb relics you have there...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Q\0I'd judge their value to be... this{F801}much. Let me get the money now.{F801}</source>
+    <target>{F812}Q\0I'd judge their value to be... this{F801}much. Let me get the money now.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Q\0{F813,0,405200}Welcome, Blessed Samurai.{F801}</source>
+    <target>{F812}Q\0{F813,0,405200}Welcome, Blessed Samurai.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Q\0{F813,0,405203}If there's anything I can do for you,{F801}please do not hesitate to ask...{F801}</source>
+    <target>{F812}Q\0{F813,0,405203}If there's anything I can do for you,{F801}please do not hesitate to ask...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Q\0{F813,4,405202}Please be careful on your way.{F801}</source>
+    <target>{F812}Q\0{F813,4,405202}Please be careful on your way.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Q\0{F872,1} x{F878,1}, yes?{F801}That will be {F878,2} Macca.{F801}</source>
+    <target>{F812}Q\0{F872,1} x{F878,1}, yes?{F801}That will be {F878,2} Macca.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Q\0{F872,1} x{F878,1}, yes?{F801}I could give you {F878,2} Macca.{F801}</source>
+    <target>{F812}Q\0{F872,1} x{F878,1}, yes?{F801}I could give you {F878,2} Macca.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Q\0{F813,0,405207}Thank you very much.{F801}</source>
+    <target>{F812}Q\0{F813,0,405207}Thank you very much.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Q\0Would you like to equip this now?{F801}</source>
+    <target>{F812}Q\0Would you like to equip this now?{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Q\0{F813,0,405205}What will you be selling?{F801}</source>
+    <target>{F812}Q\0{F813,0,405205}What will you be selling?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Q\0{F813,0,405204}What are you in search of today?{F801}</source>
+    <target>{F812}Q\0{F813,0,405204}What are you in search of today?{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Q\0{F813,0,405201}Please allow me to give you a discount.{F801}</source>
+    <target>{F812}Q\0{F813,0,405201}Please allow me to give you a discount.{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+</mbm>

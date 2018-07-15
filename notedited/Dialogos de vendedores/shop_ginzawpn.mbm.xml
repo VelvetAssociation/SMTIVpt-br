@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="23">
+    <source>{F812}Hostess\0{F87A,0}{F813,0,405506}I'll appraise those for you!{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}{F813,0,405506}I'll appraise those for you!{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Hostess\0{F87A,0}I can give you this much for everything.{F801}Here you go!{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}I can give you this much for everything.{F801}Here you go!{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Hostess\0{F87A,0}{F813,0,405500}Welcome!{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}{F813,0,405500}Welcome!{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Hostess\0{F87A,0}{F813,0,405503}Any other business I can help you with?{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}{F813,0,405503}Any other business I can help you with?{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Hostess\0{F87A,0}{F813,4,405502}Come again!{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}{F813,4,405502}Come again!{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Hostess\0{F87A,0}{F872,1} x{F878,1}, hmm?{F801}That'll be {F878,2} Macca.{F801}That all right with you?{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}{F872,1} x{F878,1}, hmm?{F801}That'll be {F878,2} Macca.{F801}That all right with you?{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Hostess\0{F87A,0}{F872,1} x{F878,1}, hmm?{F801}I'll pay... {F878,2} Macca for that.{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}{F872,1} x{F878,1}, hmm?{F801}I'll pay... {F878,2} Macca for that.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Hostess\0{F87A,0}{F813,0,405507}Thanks!{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}{F813,0,405507}Thanks!{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Hostess\0{F87A,0}Are you gonna change here?{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}Are you gonna change here?{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Hostess\0{F87A,0}{F813,0,405505}What do you want to sell?{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}{F813,0,405505}What do you want to sell?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Hostess\0{F87A,0}{F813,0,405504}What do you want to buy?{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}{F813,0,405504}What do you want to buy?{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Hostess\0{F87A,0}{F813,0,405501}We're having a sale!{F801}</source>
+    <target>{F812}Hostess\0{F87A,0}{F813,0,405501}We're having a sale!{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+</mbm>
