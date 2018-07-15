@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>"There are scary demons outside."{F801}{F802}"Kids should play underground!"{F801}{F802}〉 ...So the mystic script says.{F801}</source>
+    <target>"There are scary demons outside."{F801}{F802}"Kids should play underground!"{F801}{F802}〉 ...So the mystic script says.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"Now recruiting Hunters!"{F801}{F802}"For more details, see your local{F801}Hunter Association."{F801}{F802}〉 ...So the mystic script says.{F801}</source>
+    <target>"Now recruiting Hunters!"{F801}{F802}"For more details, see your local{F801}Hunter Association."{F801}{F802}〉 ...So the mystic script says.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Friendly Hunter\0{F813,1,403002}Hey there. You're a Hunter, right?{F801}{F802}I'm glad to see you here, because I'm{F801}in the market for some food.{F801}{F802}{F813,1,403042}Let's see... Do you have any{F801}{F804,5}{F872,1}?{F804,0}{F801}{F802}I'd buy {F804,5}{F872,1}{F804,0} for triple{F801}the market price right now.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F813,1,403002}Hey there. You're a Hunter, right?{F801}{F802}I'm glad to see you here, because I'm{F801}in the market for some food.{F801}{F802}{F813,1,403042}Let's see... Do you have any{F801}{F804,5}{F872,1}?{F804,0}{F801}{F802}I'd buy {F804,5}{F872,1}{F804,0} for triple{F801}the market price right now.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 Hand over your {F804,5}{F872,1}?{F804,0}{F801}</source>
+    <target>〉 Hand over your {F804,5}{F872,1}?{F804,0}{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Friendly Hunter\0{F813,1,403041}I can't thank you enough. Here's the{F801}{F804,5}{F878,1} Macca{F804,0} I owe you.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F813,1,403041}I can't thank you enough. Here's the{F801}{F804,5}{F878,1} Macca{F804,0} I owe you.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Friendly Hunter\0{F813,1,403033}I hope you'll be around to help me out{F801}again in a bit.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F813,1,403033}I hope you'll be around to help me out{F801}again in a bit.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Friendly Hunter\0{F813,1,403042}Oh. Well, that's okay. If you ever{F801}change your mind, you know where{F801}to find me.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F813,1,403042}Oh. Well, that's okay. If you ever{F801}change your mind, you know where{F801}to find me.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Friendly Hunter\0{F813,1,403042}Hm? You don't have any {F872,1}.{F801}{F802}Oops. Sorry if that was an unreasonable{F801}request.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F813,1,403042}Hm? You don't have any {F872,1}.{F801}{F802}Oops. Sorry if that was an unreasonable{F801}request.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Friendly Hunter\0{F813,1,403001}I've got plenty of food right now. But{F801}if you come back another time, maybe{F801}we can do business then.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F813,1,403001}I've got plenty of food right now. But{F801}if you come back another time, maybe{F801}we can do business then.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Greedy Hunter\0{F813,1,403013}Whaddaya want!? Don't come over here!{F801}{F802}The treasure around here's all mine.{F801}{F802}I'm gonna grab every last one!{F801}</source>
+    <target>{F812}Greedy Hunter\0{F813,1,403013}Whaddaya want!? Don't come over here!{F801}{F802}The treasure around here's all mine.{F801}{F802}I'm gonna grab every last one!{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Girl\0Are you a Hunter, Mister? Good luck{F801}with your work!{F801}</source>
+    <target>{F812}Girl\0Are you a Hunter, Mister? Good luck{F801}with your work!{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Boy\0Are you a Hunter too? Go get those{F801}demons!{F801}</source>
+    <target>{F812}Boy\0Are you a Hunter too? Go get those{F801}demons!{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Middle-aged woman\0The world wasn't like this when I was{F801}younger...{F801}</source>
+    <target>{F812}Middle-aged woman\0The world wasn't like this when I was{F801}younger...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Hunter man\0My job this time was a breeze. I made{F801}a bundle off it.{F801}</source>
+    <target>{F812}Hunter man\0My job this time was a breeze. I made{F801}a bundle off it.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Hunter man\0All I run into lately are weak demons.{F801}Maybe it's just that I've gotten too{F801}strong?{F801}</source>
+    <target>{F812}Hunter man\0All I run into lately are weak demons.{F801}Maybe it's just that I've gotten too{F801}strong?{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Hunter man\0There's around 1,200 cherry blossom{F801}trees in Ueno Park. As you can see,{F801}though, they're all withered.{F801}</source>
+    <target>{F812}Hunter man\0There's around 1,200 cherry blossom{F801}trees in Ueno Park. As you can see,{F801}though, they're all withered.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Girl\0{F813,1,404101}I'm good at polishing shoes! If I do a{F801}good job, will you pay me?{F801}</source>
+    <target>{F812}Girl\0{F813,1,404101}I'm good at polishing shoes! If I do a{F801}good job, will you pay me?{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Boy\0{F813,1,404003}...My mom'll yell at me if I talk to{F801}strangers...{F801}</source>
+    <target>{F812}Boy\0{F813,1,404003}...My mom'll yell at me if I talk to{F801}strangers...{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Middle-aged man\0{F813,1,403223}Huh? I got a thick accent? Dude, I was{F801}born an' raised in Tokyo my whole life!{F801}</source>
+    <target>{F812}Middle-aged man\0{F813,1,403223}Huh? I got a thick accent? Dude, I was{F801}born an' raised in Tokyo my whole life!{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Hunter man\0{F813,1,403021}I'm so hungry... I just want something in{F801}my mouth. Is there any candy around...?{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403021}I'm so hungry... I just want something in{F801}my mouth. Is there any candy around...?{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Hunter man\0{F813,1,403021}......{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403021}......{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>〉 The man gave you a sullen look...{F801}</source>
+    <target>〉 The man gave you a sullen look...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,242 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}門番\0貴様 見たことがない顔だな…{F801}{F802}ここから先の街は我らガÍÁ教団が{F801}もたらす 繁栄の象徴{F801}{F802}入るにはそれなりの収入力が{F801}求められるぞ{F801}{F802}通行料として{F801}5000マッカを頂こうか{F801}</source>
+    <target>{F812}門番\0貴様 見たことがない顔だな…{F801}{F802}ここから先の街は我らガÍÁ教団が{F801}もたらす 繁栄の象徴{F801}{F802}入るにはそれなりの収入力が{F801}求められるぞ{F801}{F802}通行料として{F801}5000マッカを頂こうか{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>払う{F801}払わない{F801}</source>
+    <target>払う{F801}払わない{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}門番\0貧乏人には用はない{F801}…とっとと消え失せろ{F801}</source>
+    <target>{F812}門番\0貧乏人には用はない{F801}…とっとと消え失せろ{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}門番\0ほう 少しはもっておるようだな{F801}好きに通るがいい{F801}</source>
+    <target>{F812}門番\0ほう 少しはもっておるようだな{F801}好きに通るがいい{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}門番\0…貴様か{F801}{F802}5000マッカ{F801}用意出来たのだろうな{F801}</source>
+    <target>{F812}門番\0…貴様か{F801}{F802}5000マッカ{F801}用意出来たのだろうな{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}門番\0…なんだ 足りないではないか{F801}出直してくるんだな{F801}</source>
+    <target>{F812}門番\0…なんだ 足りないではないか{F801}出直してくるんだな{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}門番\0ここから先は銀座に相応しい{F801}セéブíテÏのみが許される街{F801}{F802}{F841,833}を持っている者{F801}のみが入れるのだ{F801}</source>
+    <target>{F812}門番\0ここから先は銀座に相応しい{F801}セéブíテÏのみが許される街{F801}{F802}{F841,833}を持っている者{F801}のみが入れるのだ{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}門番\0っと 失礼した{F801}{F841,833}を持っているのか{F801}{F802}先へ進むといい{F801}</source>
+    <target>{F812}門番\0っと 失礼した{F801}{F841,833}を持っているのか{F801}{F802}先へ進むといい{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}門番\0{F841,834}は{F801}当然持っているのだろうな?{F801}{F802}でなければこの門を通ること{F801}まかりならん{F801}</source>
+    <target>{F812}門番\0{F841,834}は{F801}当然持っているのだろうな?{F801}{F802}でなければこの門を通ること{F801}まかりならん{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}門番\0ほう そこに見えるのは{F801}{F841,834}{F801}{F802}先ほどは無礼を申した{F801}どうぞ先へ{F801}</source>
+    <target>{F812}門番\0ほう そこに見えるのは{F801}{F841,834}{F801}{F802}先ほどは無礼を申した{F801}どうぞ先へ{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}門番\0ここはセéブな銀座の中でも{F801}最上級なショッ¿が立ち並ぶ街{F801}{F802}{F841,835}の所有者のみが{F801}入ることを許されるのだ{F801}</source>
+    <target>{F812}門番\0ここはセéブな銀座の中でも{F801}最上級なショッ¿が立ち並ぶ街{F801}{F802}{F841,835}の所有者のみが{F801}入ることを許されるのだ{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}門番\0これは失礼{F801}{F841,835}をお持ちか{F801}{F802}存分に楽しむと良い{F801}</source>
+    <target>{F812}門番\0これは失礼{F801}{F841,835}をお持ちか{F801}{F802}存分に楽しむと良い{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}ハñターの男\0おいお前 この店を{F801}使うなら{F841,833}が必須だぞ{F801}{F802}ただ 無事買い物出来ても{F801}戻れるかどうかは怪しいがな…{F801}{F802}さっきもやられた奴がいたらしい{F801}そこで{F841,833}を拾っちまった{F801}{F802}…見たところ{F801}お前は実力者のようだな{F801}{F802}どうだ、この{F841,833}{F801}10000マッカで買わないか?{F801}{F802}お前なら有効に使えるだろう{F801}</source>
+    <target>{F812}ハñターの男\0おいお前 この店を{F801}使うなら{F841,833}が必須だぞ{F801}{F802}ただ 無事買い物出来ても{F801}戻れるかどうかは怪しいがな…{F801}{F802}さっきもやられた奴がいたらしい{F801}そこで{F841,833}を拾っちまった{F801}{F802}…見たところ{F801}お前は実力者のようだな{F801}{F802}どうだ、この{F841,833}{F801}10000マッカで買わないか?{F801}{F802}お前なら有効に使えるだろう{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>買う{F801}買わない{F801}</source>
+    <target>買う{F801}買わない{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}ハñターの男\0そうか…{F801}ではここは通せないな{F801}{F802}気が変わったら{F801}また声をかけてくれ{F801}</source>
+    <target>{F812}ハñターの男\0そうか…{F801}ではここは通せないな{F801}{F802}気が変わったら{F801}また声をかけてくれ{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}ハñターの男\0毎度あり 悪魔に殺されて{F801}買ったもの無駄にしないようにな{F801}{F802}せっかく貴重なカードを手に入れても{F801}死んじまったら元も子もねえ{F801}{F802}他を探せば{F841,833}より上の{F801}{F841,834}も落ちてるかもな{F801}</source>
+    <target>{F812}ハñターの男\0毎度あり 悪魔に殺されて{F801}買ったもの無駄にしないようにな{F801}{F802}せっかく貴重なカードを手に入れても{F801}死んじまったら元も子もねえ{F801}{F802}他を探せば{F841,833}より上の{F801}{F841,834}も落ちてるかもな{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}ハñターの男\0…よう また来たか{F801}{F802}{F841,833} 10000マッカで{F801}買う気になったか?{F801}</source>
+    <target>{F812}ハñターの男\0…よう また来たか{F801}{F802}{F841,833} 10000マッカで{F801}買う気になったか?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}ハñターの男\0所持金が足りてないようだな{F801}出直してこい{F801}</source>
+    <target>{F812}ハñターの男\0所持金が足りてないようだな{F801}出直してこい{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}ハñターの男\0よう お前か{F801}この街を楽しんでるようだな{F801}{F802}……そうだな{F801}お前になら頼んでもいいかもしれん{F801}{F802}実は少し金に困っていてな{F801}調子に乗って装備に使いすぎちまった{F801}{F802}まあ 当然その分の対価は{F801}得てきたわけなんだが…{F801}{F802}頼みっつうのは俺が手に入れてきた{F801}ブツを買い取って欲しいってことだ{F801}{F802}この{F841,836}だ{F801}いいとこに売ればそりゃあ大金が手に入る{F801}{F802}そうだな… お前になら特別に{F801}100000マッカで譲ろう{F801}{F802}どうだ 決して悪い話じゃないぜ?{F801}</source>
+    <target>{F812}ハñターの男\0よう お前か{F801}この街を楽しんでるようだな{F801}{F802}……そうだな{F801}お前になら頼んでもいいかもしれん{F801}{F802}実は少し金に困っていてな{F801}調子に乗って装備に使いすぎちまった{F801}{F802}まあ 当然その分の対価は{F801}得てきたわけなんだが…{F801}{F802}頼みっつうのは俺が手に入れてきた{F801}ブツを買い取って欲しいってことだ{F801}{F802}この{F841,836}だ{F801}いいとこに売ればそりゃあ大金が手に入る{F801}{F802}そうだな… お前になら特別に{F801}100000マッカで譲ろう{F801}{F802}どうだ 決して悪い話じゃないぜ?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>買う{F801}買わない{F801}</source>
+    <target>買う{F801}買わない{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}ハñターの男\0そうか 残念だ{F801}{F802}なるべく早いうちに金を手に入れないと{F801}きついんだがな…{F801}{F802}気が変わったらまた声かけてくれ{F801}</source>
+    <target>{F812}ハñターの男\0そうか 残念だ{F801}{F802}なるべく早いうちに金を手に入れないと{F801}きついんだがな…{F801}{F802}気が変わったらまた声かけてくれ{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}ハñターの男\0おおそうか! 助かるぜ{F801}{F802}こんだけデカいの滅多にないからな{F801}きっと役立つだろうよ!{F801}{F802}それじゃあな!{F801}</source>
+    <target>{F812}ハñターの男\0おおそうか! 助かるぜ{F801}{F802}こんだけデカいの滅多にないからな{F801}きっと役立つだろうよ!{F801}{F802}それじゃあな!{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}ハñターの男\0おいおい 金が足りてないぞ{F801}{F802}こっちもこんなéÁもの出してんだ{F801}{F802}きっかり100000マッカ{F801}用意してまた来てくれ{F801}</source>
+    <target>{F812}ハñターの男\0おいおい 金が足りてないぞ{F801}{F802}こっちもこんなéÁもの出してんだ{F801}{F802}きっかり100000マッカ{F801}用意してまた来てくれ{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}ハñターの男\0また来たな{F801}{F802}{F841,836} 100000マッカ{F801}で購入してくれるのか?{F801}</source>
+    <target>{F812}ハñターの男\0また来たな{F801}{F802}{F841,836} 100000マッカ{F801}で購入してくれるのか?{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}ハñターの男\0よう この間はおかげで助かったぜ{F801}{F802}{F841,836}は銀座を屯する{F801}金持ちはよぉく欲しがってるぜ{F801}{F802}無駄にすんなよ{F801}</source>
+    <target>{F812}ハñターの男\0よう この間はおかげで助かったぜ{F801}{F802}{F841,836}は銀座を屯する{F801}金持ちはよぉく欲しがってるぜ{F801}{F802}無駄にすんなよ{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404411}I'm not interested in a low-ranked boy{F801}like you. I may not look it, but I'm{F801}of the Gold Class.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404411}I'm not interested in a low-ranked boy{F801}like you. I may not look it, but I'm{F801}of the Gold Class.{F801}</target>
+  </entry>
+  <entry id="70">
+    <source>{F812}Ring of Gaea woman\0Come back when you can at least pay{F801}the man guarding the west side's{F801}asking price...{F801}</source>
+    <target>{F812}Ring of Gaea woman\0Come back when you can at least pay{F801}the man guarding the west side's{F801}asking price...{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404402}What? You want to get through here?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404402}What? You want to get through here?{F801}</target>
+  </entry>
+  <entry id="72">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}I only let those with a {F804,5}{F841,833}{F804,0}{F801}through.{F801}{F802}Do you have the strength to win a{F801}{F804,5}{F841,833}?{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}I only let those with a {F804,5}{F841,833}{F804,0}{F801}through.{F801}{F802}Do you have the strength to win a{F801}{F804,5}{F841,833}?{F804,0}{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}Oh...? You have a {F804,5}{F841,833}.{F804,0}{F801}Most impressive.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}Oh...? You have a {F804,5}{F841,833}.{F804,0}{F801}Most impressive.{F801}</target>
+  </entry>
+  <entry id="74">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Very well, I'll let you through.{F801}The south side is open to you now.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Very well, I'll let you through.{F801}The south side is open to you now.{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Are you satisfied with just the west{F801}and south sides? If you think you can{F801}do better...{F801}{F802}Then perhaps we could talk.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Are you satisfied with just the west{F801}and south sides? If you think you can{F801}do better...{F801}{F802}Then perhaps we could talk.{F801}</target>
+  </entry>
+  <entry id="76">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404402}What? You want to get through here?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404402}What? You want to get through here?{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}I only let those with a {F804,5}{F841,833}{F804,0}{F801}through.{F801}{F802}Do you have the strength to win a{F801}{F804,5}{F841,833}?{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}I only let those with a {F804,5}{F841,833}{F804,0}{F801}through.{F801}{F802}Do you have the strength to win a{F801}{F804,5}{F841,833}?{F804,0}{F801}</target>
+  </entry>
+  <entry id="78">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}Ah, you came. It's good to be confident{F801}in your own strength.{F801}{F802}Now listen closely... I'm telling you{F801}this because you have the strength to{F801}possess a {F804,5}{F841,833}.{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}Ah, you came. It's good to be confident{F801}in your own strength.{F801}{F802}Now listen closely... I'm telling you{F801}this because you have the strength to{F801}possess a {F804,5}{F841,833}.{F804,0}{F801}</target>
+  </entry>
+  <entry id="79">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Wouldn't you like to prove your strength{F801}even more? Then I have some good news{F801}for you...{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Wouldn't you like to prove your strength{F801}even more? Then I have some good news{F801}for you...{F801}</target>
+  </entry>
+  <entry id="80">
+    <source>Pay{F801}Don't pay{F801}</source>
+    <target>Pay{F801}Don't pay{F801}</target>
+  </entry>
+  <entry id="81">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}I admire your hunger...{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}I admire your hunger...{F801}</target>
+  </entry>
+  <entry id="82">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Supposedly, there is a {F804,5}{F841,834}{F804,0}{F801}somewhere in Ginza lacking an owner.{F801}{F802}I already have one. If you can find this{F801}one, then it'll be yours to keep.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Supposedly, there is a {F804,5}{F841,834}{F804,0}{F801}somewhere in Ginza lacking an owner.{F801}{F802}I already have one. If you can find this{F801}one, then it'll be yours to keep.{F801}</target>
+  </entry>
+  <entry id="83">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404421}You don't even have that much...?{F801}{F802}Ah well. If you want my information,{F801}you'd better prepare {F804,5}50,000 Macca.{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404421}You don't even have that much...?{F801}{F802}Ah well. If you want my information,{F801}you'd better prepare {F804,5}50,000 Macca.{F804,0}{F801}</target>
+  </entry>
+  <entry id="84">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}You won't even spare that much?{F801}{F802}...Forget everything that I told you.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}You won't even spare that much?{F801}{F802}...Forget everything that I told you.{F801}</target>
+  </entry>
+  <entry id="85">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}I'm telling you this because you have{F801}the strength to possess a {F804,5}{F841,833}.{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}I'm telling you this because you have{F801}the strength to possess a {F804,5}{F841,833}.{F804,0}{F801}</target>
+  </entry>
+  <entry id="86">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Wouldn't you like to prove your strength{F801}even more? Then I have some good news{F801}for you...{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Wouldn't you like to prove your strength{F801}even more? Then I have some good news{F801}for you...{F801}</target>
+  </entry>
+  <entry id="87">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}...Oh, you're still here? You wish to{F801}prove your strength more, no?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}...Oh, you're still here? You wish to{F801}prove your strength more, no?{F801}</target>
+  </entry>
+  <entry id="88">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Supposedly, there is a {F804,5}{F841,834}{F804,0}{F801}somewhere in Ginza lacking an owner.{F801}{F802}I already have one. If you can find this{F801}one, then it'll be yours to keep.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Supposedly, there is a {F804,5}{F841,834}{F804,0}{F801}somewhere in Ginza lacking an owner.{F801}{F802}I already have one. If you can find this{F801}one, then it'll be yours to keep.{F801}</target>
+  </entry>
+  <entry id="90">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,503001}I detect a very dangerous demon nearby.{F801}You should consider getting out of here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,503001}I detect a very dangerous demon nearby.{F801}You should consider getting out of here.{F801}</target>
+  </entry>
+  <entry id="91">
+    <source>〉 Will you stay here?{F801}</source>
+    <target>〉 Will you stay here?{F801}</target>
+  </entry>
+  <entry id="92">
+    <source>〉 Will you really stay here?{F801}</source>
+    <target>〉 Will you really stay here?{F801}</target>
+  </entry>
+  <entry id="93">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Hunter man\0*sigh* Slim pickings today...{F801}</source>
+    <target>{F812}Hunter man\0*sigh* Slim pickings today...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Hunter man\0This place is called "Ginza" because{F801}silver coins, or "ginka," used to be{F801}made around here.{F801}</source>
+    <target>{F812}Hunter man\0This place is called "Ginza" because{F801}silver coins, or "ginka," used to be{F801}made around here.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Hunter man\0This place is typical of Ginza. Doesn't{F801}it seem more luxurious compared to the{F801}other regions?{F801}</source>
+    <target>{F812}Hunter man\0This place is typical of Ginza. Doesn't{F801}it seem more luxurious compared to the{F801}other regions?{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Hunter man\0The stores around here probably cost{F801}more than other places. You won't be{F801}able to buy anything with pocket change.{F801}</source>
+    <target>{F812}Hunter man\0The stores around here probably cost{F801}more than other places. You won't be{F801}able to buy anything with pocket change.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Hunter man\0The underground district was connected{F801}to the neighboring station.{F801}</source>
+    <target>{F812}Hunter man\0The underground district was connected{F801}to the neighboring station.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>There are lots of underground passages,{F801}but there are some areas underground{F801}where humans can't survive.{F801}</source>
+    <target>There are lots of underground passages,{F801}but there are some areas underground{F801}where humans can't survive.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Ring of Gaea man\0{F813,1,404303}Ginza is under our thumb. The new rule{F801}here is that power is everything.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F813,1,404303}Ginza is under our thumb. The new rule{F801}here is that power is everything.{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Ring of Gaea woman\0{F813,1,404412}I detest dogs... especially Tayama's{F801}bitches. I'm always careful to discipline{F801}them when I come across one.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F813,1,404412}I detest dogs... especially Tayama's{F801}bitches. I'm always careful to discipline{F801}them when I come across one.{F801}</target>
+  </entry>
+  <entry id="150">
+    <source>〉 This store doesn't seem to be{F801}in business...{F801}</source>
+    <target>〉 This store doesn't seem to be{F801}in business...{F801}</target>
+  </entry>
+  <entry id="179">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}I ask that you pay me {F804,5}50,000 Macca{F804,0} Macca.{F801}Think of it as paying for information.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}I ask that you pay me {F804,5}50,000 Macca{F804,0} Macca.{F801}Think of it as paying for information.{F801}</target>
+  </entry>
+  <entry id="186">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}I ask that you pay me {F804,5}50,000 Macca{F804,0} Macca.{F801}Think of it as paying for information.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}I ask that you pay me {F804,5}50,000 Macca{F804,0} Macca.{F801}Think of it as paying for information.{F801}</target>
+  </entry>
+</mbm>

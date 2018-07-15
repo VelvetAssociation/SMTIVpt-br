@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>TEST{F801}</source>
+    <target>TEST{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,503001}I detect a very dangerous demon nearby.{F801}You should consider getting out of here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,503001}I detect a very dangerous demon nearby.{F801}You should consider getting out of here.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Will you stay here?{F801}</source>
+    <target>〉 Will you stay here?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Will you really stay here?{F801}</source>
+    <target>〉 Will you really stay here?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hunter man\0{F87A,0}{F813,1,403031}Hey, look at all this valuable food{F801}I've got!{F801}{F802}The rumor about there being tons of{F801}edible demons in Shinjuku was true...{F801}{F802}It would feel weird to turn all these{F801}in, though. Maybe I should eat one...?{F801}</source>
+    <target>{F812}Hunter man\0{F87A,0}{F813,1,403031}Hey, look at all this valuable food{F801}I've got!{F801}{F802}The rumor about there being tons of{F801}edible demons in Shinjuku was true...{F801}{F802}It would feel weird to turn all these{F801}in, though. Maybe I should eat one...?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hunter man\0{F87A,0}{F813,1,403021}Some say that this place is paradise,{F801}but hell with that...{F801}{F802}Do you know what Fiends are? There's one{F801}that likes to show up in this region.{F801}{F802}That demon's on a whole other level than{F801}the rest of them. It's already killed{F801}three of my buddies.{F801}{F802}If you go in to a fight with one half-{F801}assed, be ready to die.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,0}{F813,1,403021}Some say that this place is paradise,{F801}but hell with that...{F801}{F802}Do you know what Fiends are? There's one{F801}that likes to show up in this region.{F801}{F802}That demon's on a whole other level than{F801}the rest of them. It's already killed{F801}three of my buddies.{F801}{F802}If you go in to a fight with one half-{F801}assed, be ready to die.{F801}</target>
+  </entry>
+</mbm>

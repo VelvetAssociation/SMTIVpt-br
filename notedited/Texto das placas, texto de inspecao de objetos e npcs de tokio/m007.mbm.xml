@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,503001}I detect a very dangerous demon nearby.{F801}You should consider getting out of here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,503001}I detect a very dangerous demon nearby.{F801}You should consider getting out of here.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Will you stay here?{F801}</source>
+    <target>〉 Will you stay here?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Will you really stay here?{F801}</source>
+    <target>〉 Will you really stay here?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+</mbm>

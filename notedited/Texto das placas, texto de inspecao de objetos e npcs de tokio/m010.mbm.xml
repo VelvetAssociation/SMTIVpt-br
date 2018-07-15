@@ -1,0 +1,162 @@
+<mbm>
+  <entry id="0">
+    <source>"Well done, fellow Samurai, in your{F801}fight against the demons. Rest at the{F801}barracks and heal the day's wounds."{F801}{F802}〉 ...So the sign says.{F801}</source>
+    <target>"Well done, fellow Samurai, in your{F801}fight against the demons. Rest at the{F801}barracks and heal the day's wounds."{F801}{F802}〉 ...So the sign says.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"Praise be to the brave Samurai!{F801}And let us mourn our comrades who have{F801}fallen before achieving their goals."{F801}{F802}〉 ...So the sign says.{F801}</source>
+    <target>"Praise be to the brave Samurai!{F801}And let us mourn our comrades who have{F801}fallen before achieving their goals."{F801}{F802}〉 ...So the sign says.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>"Beware the appearance of demons."{F801}...So the sign says.{F801}</source>
+    <target>"Beware the appearance of demons."{F801}...So the sign says.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>"Go forth, fellow Samurai."{F801}{F802}"Those who descend these stairs and{F801}live to climb them again will be renowned{F801}as heroes."{F801}{F802}〉 ...So the sign says.{F801}</source>
+    <target>"Go forth, fellow Samurai."{F801}{F802}"Those who descend these stairs and{F801}live to climb them again will be renowned{F801}as heroes."{F801}{F802}〉 ...So the sign says.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>"Suggestions for prentice Samurai:"{F801}{F802}"One, check your Gauntlet often."{F801}{F802}"Two, be mindful of your stamina.{F801}A single strike from a demon may be{F801}enough to slay."{F801}{F802}"Three, there is a limit to how many of{F801}a kind of item you can carry. Use them{F801}rather than take them to the grave."{F801}{F802}〉 ...So the sign says.{F801}</source>
+    <target>"Suggestions for prentice Samurai:"{F801}{F802}"One, check your Gauntlet often."{F801}{F802}"Two, be mindful of your stamina.{F801}A single strike from a demon may be{F801}enough to slay."{F801}{F802}"Three, there is a limit to how many of{F801}a kind of item you can carry. Use them{F801}rather than take them to the grave."{F801}{F802}〉 ...So the sign says.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>"Mind what's at your feet."{F801}{F802}"Some say that new paths have been{F801}found by doing so."{F801}...So the sign says.{F801}</source>
+    <target>"Mind what's at your feet."{F801}{F802}"Some say that new paths have been{F801}found by doing so."{F801}...So the sign says.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"Only Samurai who have obtained this{F801}door's key have leave to pass through."{F801}{F802}〉 ...So the sign says.{F801}</source>
+    <target>"Only Samurai who have obtained this{F801}door's key have leave to pass through."{F801}{F802}〉 ...So the sign says.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>"Mind what is above you."{F801}{F802}"Some say that new paths have been{F801}found by doing so."{F801}...So the sign says.{F801}</source>
+    <target>"Mind what is above you."{F801}{F802}"Some say that new paths have been{F801}found by doing so."{F801}...So the sign says.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>"Beware... Injuries may occur in even{F801}the most familiar battles."{F801}...So the sign says.{F801}</source>
+    <target>"Beware... Injuries may occur in even{F801}the most familiar battles."{F801}...So the sign says.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>"Waste Storage Manager: Hope"{F801}...So the sign says.{F801}</source>
+    <target>"Waste Storage Manager: Hope"{F801}...So the sign says.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>"Paths are meant to be cut open."{F801}{F802}"If you come across a new wall and find{F801}yourself lost, training against a wall{F801}is one idea!"{F801}{F802}"It may even lead to a new path."{F801}{F802}〉 ...So the sign says.{F801}</source>
+    <target>"Paths are meant to be cut open."{F801}{F802}"If you come across a new wall and find{F801}yourself lost, training against a wall{F801}is one idea!"{F801}{F802}"It may even lead to a new path."{F801}{F802}〉 ...So the sign says.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>"Be wary of poison up ahead."{F801}...So the sign says.{F801}</source>
+    <target>"Be wary of poison up ahead."{F801}...So the sign says.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>"A treatment for poison:"{F801}{F802}"Those who find themselves poisoned{F801}should use a Detox Solution."{F801}{F802}〉 ...So the sign says.{F801}</source>
+    <target>"A treatment for poison:"{F801}{F802}"Those who find themselves poisoned{F801}should use a Detox Solution."{F801}{F802}〉 ...So the sign says.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>"Upon finding relics, take them promptly{F801}to Q's Blacksmith or B's Apothecary."{F801}{F802}〉 ...So the sign says.{F801}</source>
+    <target>"Upon finding relics, take them promptly{F801}to Q's Blacksmith or B's Apothecary."{F801}{F802}〉 ...So the sign says.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>"Beware the hazards of falling."{F801}...So the sign says.{F801}</source>
+    <target>"Beware the hazards of falling."{F801}...So the sign says.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>"Passage forbidden."{F801}{F802}"Across this bridge is the forbidden land.{F801}Obey the code."{F801}{F802}〉 ...So the sign says.{F801}</source>
+    <target>"Passage forbidden."{F801}{F802}"Across this bridge is the forbidden land.{F801}Obey the code."{F801}{F802}〉 ...So the sign says.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>"Opening the door ahead is strictly{F801}forbidden."{F801}...So the sign says.{F801}</source>
+    <target>"Opening the door ahead is strictly{F801}forbidden."{F801}...So the sign says.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>"From here on is within the bedrock."{F801}...So the mystic script says.{F801}</source>
+    <target>"From here on is within the bedrock."{F801}...So the mystic script says.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>"Smoking in the pit is forbidden."{F801}...So the mystic script says.{F801}</source>
+    <target>"Smoking in the pit is forbidden."{F801}...So the mystic script says.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>"There is a danger of encountering{F801}angels from above on. Do not approach."{F801}{F802}〉 ...So the mystic script says.{F801}</source>
+    <target>"There is a danger of encountering{F801}angels from above on. Do not approach."{F801}{F802}〉 ...So the mystic script says.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>"Look, the ceiling is almost there.{F801}Do not lose your life over a foolish accident."{F801}{F802}〉 ...So the mystic script says.{F801}</source>
+    <target>"Look, the ceiling is almost there.{F801}Do not lose your life over a foolish accident."{F801}{F802}〉 ...So the mystic script says.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>"Don't give up. Recall the blue skies."{F801}{F802}〉 ...So the mystic script says.{F801}</source>
+    <target>"Don't give up. Recall the blue skies."{F801}{F802}〉 ...So the mystic script says.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>"From here on is below the ceiling.{F801}Be careful of rockslides. Take care not{F801}to destroy our future."{F801}{F802}〉 ...So the mystic script says.{F801}</source>
+    <target>"From here on is below the ceiling.{F801}Be careful of rockslides. Take care not{F801}to destroy our future."{F801}{F802}〉 ...So the mystic script says.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>"Always wear a safety harness when{F801}working in high places."{F801}{F802}〉 ...So the mystic script says.{F801}</source>
+    <target>"Always wear a safety harness when{F801}working in high places."{F801}{F802}〉 ...So the mystic script says.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>"The smallest bit of carelessness can{F801}cause accidents."{F801}{F802}〉 ...So the mystic script says.{F801}</source>
+    <target>"The smallest bit of carelessness can{F801}cause accidents."{F801}{F802}〉 ...So the mystic script says.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>〉 It's a statue shaped like a human.{F801}</source>
+    <target>〉 It's a statue shaped like a human.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>〉 It's a statue shaped like a human.{F801}</source>
+    <target>〉 It's a statue shaped like a human.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>〉 It's a statue shaped like a human.{F801}</source>
+    <target>〉 It's a statue shaped like a human.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>〉 It's a statue shaped like a human.{F801}</source>
+    <target>〉 It's a statue shaped like a human.{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>{F812}Samurai\0{F813,1,403042}You're a prentice, no?{F801}{F802}You are unready to be here now. Leave{F801}at once before you are hurt.{F801}</source>
+    <target>{F812}Samurai\0{F813,1,403042}You're a prentice, no?{F801}{F802}You are unready to be here now. Leave{F801}at once before you are hurt.{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>{F812}Samurai\0{F813,1,403042}You haven't a light with you.{F801}{F802}You are unready to be here now. Leave{F801}at once before you are hurt.{F801}</source>
+    <target>{F812}Samurai\0{F813,1,403042}You haven't a light with you.{F801}{F802}You are unready to be here now. Leave{F801}at once before you are hurt.{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>{F812}Samurai\0I see that you are working hard,{F801}prentice from the Casualries.{F801}</source>
+    <target>{F812}Samurai\0I see that you are working hard,{F801}prentice from the Casualries.{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>〉 The door is locked...{F801}</source>
+    <target>〉 The door is locked...{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>〉 Use the Key to Naraku?{F801}</source>
+    <target>〉 Use the Key to Naraku?{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>Use it{F801}Don't use it{F801}</source>
+    <target>Use it{F801}Don't use it{F801}</target>
+  </entry>
+  <entry id="56">
+    <source>〉 The door is now open.{F801}</source>
+    <target>〉 The door is now open.{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>Use {F814,0,21} to look down.{F801}</source>
+    <target>Use {F814,0,21} to look down.{F801}</target>
+  </entry>
+  <entry id="58">
+    <source>Use {F814,0,20} to look up.{F801}</source>
+    <target>Use {F814,0,20} to look up.{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>Use {F814,0,3} to open the menu.{F801}</source>
+    <target>Use {F814,0,3} to open the menu.{F801}</target>
+  </entry>
+  <entry id="60">
+    <source>Some walls can be destroyed by attacking{F801}them with {F814,0,2} from a set direction.{F801}</source>
+    <target>Some walls can be destroyed by attacking{F801}them with {F814,0,2} from a set direction.{F801}</target>
+  </entry>
+</mbm>

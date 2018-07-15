@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 There's a glowing recession in{F801}the wall...{F801}{F802}〉 Lift your hand to it?{F801}</source>
+    <target>〉 There's a glowing recession in{F801}the wall...{F801}{F802}〉 Lift your hand to it?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 ......{F801}{F802}〉 A voice echoes from somewhere...{F801}</source>
+    <target>〉 ......{F801}{F802}〉 A voice echoes from somewhere...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Voice\0{F87A,1}Crouch down... Crouch down...{F801}Into the cage you go...{F801}</source>
+    <target>{F812}Voice\0{F87A,1}Crouch down... Crouch down...{F801}Into the cage you go...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Voice\0{F87A,1}When will the bird in the coop die...?{F801}</source>
+    <target>{F812}Voice\0{F87A,1}When will the bird in the coop die...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Voice\0{F87A,1}Who is the one... with the imprudent{F801}mask...?{F801}</source>
+    <target>{F812}Voice\0{F87A,1}Who is the one... with the imprudent{F801}mask...?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 ......{F801}{F802}〉 Nothing happens...{F801}</source>
+    <target>〉 ......{F801}{F802}〉 Nothing happens...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,246 @@
+<mbm>
+  <entry id="0">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 There's a ferryboat...{F801}{F802}〉 Go to the Ueno region?{F801}</source>
+    <target>〉 There's a ferryboat...{F801}{F802}〉 Go to the Ueno region?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 There's a ferryboat...{F801}{F802}〉 Go to the Chiyoda region?{F801}</source>
+    <target>〉 There's a ferryboat...{F801}{F802}〉 Go to the Chiyoda region?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The old subway line has become an{F801}underground passage...{F801}{F802}〉 Go to the Ikebukuro region?{F801}</source>
+    <target>〉 The old subway line has become an{F801}underground passage...{F801}{F802}〉 Go to the Ikebukuro region?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The old subway line has become an{F801}underground passage...{F801}{F802}〉 Go to the Shinjuku region?{F801}</source>
+    <target>〉 The old subway line has become an{F801}underground passage...{F801}{F802}〉 Go to the Shinjuku region?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The old subway line has become an{F801}underground passage...{F801}{F802}〉 Go to the Roppongi region?{F801}</source>
+    <target>〉 The old subway line has become an{F801}underground passage...{F801}{F802}〉 Go to the Roppongi region?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 The old subway line has become an{F801}underground passage...{F801}{F802}〉 Go to the coastal region?{F801}</source>
+    <target>〉 The old subway line has become an{F801}underground passage...{F801}{F802}〉 Go to the coastal region?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The old subway line has become an{F801}underground passage...{F801}{F802}〉 Go to the Ginza region?{F801}</source>
+    <target>〉 The old subway line has become an{F801}underground passage...{F801}{F802}〉 Go to the Ginza region?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 There's a ferryboat...{F801}{F802}〉 Go to the Johoku region?{F801}</source>
+    <target>〉 There's a ferryboat...{F801}{F802}〉 Go to the Johoku region?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 Go to the Central Breakwater region?{F801}</source>
+    <target>〉 Go to the Central Breakwater region?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The Torifune's Shawl is shining...{F801}{F802}〉 It seems you can ascend from here.{F801}{F802}〉 Use the Ameno Torifune Spell?{F801}</source>
+    <target>〉 The Torifune's Shawl is shining...{F801}{F802}〉 It seems you can ascend from here.{F801}{F802}〉 Use the Ameno Torifune Spell?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Enter the tower?{F801}</source>
+    <target>〉 Enter the tower?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>Enter the tower{F801}View the tower exterior{F801}Don't do anything{F801}</source>
+    <target>Enter the tower{F801}View the tower exterior{F801}Don't do anything{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 Demons are standing by...{F801}{F802}〉 Go to the Ueno region?{F801}</source>
+    <target>〉 Demons are standing by...{F801}{F802}〉 Go to the Ueno region?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 Pass through the tunnel and go to{F801}the Ichigaya region?{F801}</source>
+    <target>〉 Pass through the tunnel and go to{F801}the Ichigaya region?{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 Pass through the tunnel and go to{F801}the Shibuya region?{F801}</source>
+    <target>〉 Pass through the tunnel and go to{F801}the Shibuya region?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>TEMP{F801}</source>
+    <target>TEMP{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 Enter the Hills Building?{F801}</source>
+    <target>〉 Enter the Hills Building?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>TEMP{F801}</source>
+    <target>TEMP{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>TEMP{F801}</source>
+    <target>TEMP{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>TEMP{F801}</source>
+    <target>TEMP{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>TEMP{F801}</source>
+    <target>TEMP{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>There's nothing past here.{F801}{F802}If you're headed to Ueno, go west{F801}from here.{F801}</source>
+    <target>There's nothing past here.{F801}{F802}If you're headed to Ueno, go west{F801}from here.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>Dammit, the path to the Shinjuku region{F801}isn't connected...{F801}</source>
+    <target>Dammit, the path to the Shinjuku region{F801}isn't connected...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Guide\0{F813,1,403001}You must be a rookie Hunter. Do you{F801}want some help?{F801}{F802}I can tell you what I know.{F801}Like where Shinjuku, Tokyo Station,{F801}and Kasumigaseki are.{F801}</source>
+    <target>{F812}Guide\0{F813,1,403001}You must be a rookie Hunter. Do you{F801}want some help?{F801}{F802}I can tell you what I know.{F801}Like where Shinjuku, Tokyo Station,{F801}and Kasumigaseki are.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Ashura-kai Man\0Whoa, hold it right there. No one's{F801}allowed in.{F801}{F802}And don't go getting any dumb ideas{F801}like sneaking around looking for{F801}a way in, either.{F801}</source>
+    <target>{F812}Ashura-kai Man\0Whoa, hold it right there. No one's{F801}allowed in.{F801}{F802}And don't go getting any dumb ideas{F801}like sneaking around looking for{F801}a way in, either.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Ashura-kai man\0Those Ring of Gaea punks... They're...{F801}really serious this time...{F801}{F802}They brought... a ridiculously strong{F801}troop...{F801}{F802}You guys... Are you gonna... go help out{F801}Mr. Tayama...?{F801}{F802}Camp Ichigaya... is up ahead... Y-You{F801}better hurry...{F801}</source>
+    <target>{F812}Ashura-kai man\0Those Ring of Gaea punks... They're...{F801}really serious this time...{F801}{F802}They brought... a ridiculously strong{F801}troop...{F801}{F802}You guys... Are you gonna... go help out{F801}Mr. Tayama...?{F801}{F802}Camp Ichigaya... is up ahead... Y-You{F801}better hurry...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Dreary man\0{F813,1,403012}I used to take walks across Ryogokubashi{F801}up ahead to Kasumigaseki...{F801}{F802}But the bridge is out and these weird{F801}demons are there now... I wonder if{F801}I'll ever see Kasumigaseki again.{F801}</source>
+    <target>{F812}Dreary man\0{F813,1,403012}I used to take walks across Ryogokubashi{F801}up ahead to Kasumigaseki...{F801}{F802}But the bridge is out and these weird{F801}demons are there now... I wonder if{F801}I'll ever see Kasumigaseki again.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Armed man\0{F813,1,403021}...Hey, don't think about mooching off{F801}of me. I'm not sharing my hard-earned{F801}items or Macca with you.{F801}{F802}Why don't you head a little more west{F801}to Ueno and find a sucker to{F801}give you something there?{F801}</source>
+    <target>{F812}Armed man\0{F813,1,403021}...Hey, don't think about mooching off{F801}of me. I'm not sharing my hard-earned{F801}items or Macca with you.{F801}{F802}Why don't you head a little more west{F801}to Ueno and find a sucker to{F801}give you something there?{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Armed man\0{F813,1,403002}Did you come looking for a smartphone in{F801}Akihabara too? Then you wasted your time.{F801}{F802}It's worse than what you might have{F801}heard. Nothing's left there. They say{F801}it was blown away in a military strike.{F801}{F802}The Ashura-kai will wipe a whole city{F801}off the map for their purposes...{F801}Another reminder of their awfulness.{F801}</source>
+    <target>{F812}Armed man\0{F813,1,403002}Did you come looking for a smartphone in{F801}Akihabara too? Then you wasted your time.{F801}{F802}It's worse than what you might have{F801}heard. Nothing's left there. They say{F801}it was blown away in a military strike.{F801}{F802}The Ashura-kai will wipe a whole city{F801}off the map for their purposes...{F801}Another reminder of their awfulness.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Ashura-kai man\0{F813,1,404311}Mr. Tayama told me not to let any{F801}strange guys go to Shibuya.{F801}{F802}So I gotta ask you to leave. Seeya.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F813,1,404311}Mr. Tayama told me not to let any{F801}strange guys go to Shibuya.{F801}{F802}So I gotta ask you to leave. Seeya.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Ashura-kai man\0{F813,1,404311}Mr. Tayama told me it was okay for the{F801}Samurai to go through.{F801}{F802}So you're free to go on ahead.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F813,1,404311}Mr. Tayama told me it was okay for the{F801}Samurai to go through.{F801}{F802}So you're free to go on ahead.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Hunter man\0{F813,1,403023}Dammit, I can't find any...! There's{F801}gotta be at least one Red somewhere{F801}on the ground!{F801}{F802}If that goddamn demon wasn't shitting{F801}up the place in Shibuya, I wouldn't{F801}have to go through all this trouble!{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403023}Dammit, I can't find any...! There's{F801}gotta be at least one Red somewhere{F801}on the ground!{F801}{F802}If that goddamn demon wasn't shitting{F801}up the place in Shibuya, I wouldn't{F801}have to go through all this trouble!{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}ハñターの男\0…ないッ ないんだよぉ…赤玉{F801}1つくらい落っこちててもいいだろうよ{F801}{F802}…渋谷のクソ悪魔さえいなくなりゃ{F801}赤玉で こんな苦労しなくてもいいのにッ{F801}</source>
+    <target>{F812}ハñターの男\0…ないッ ないんだよぉ…赤玉{F801}1つくらい落っこちててもいいだろうよ{F801}{F802}…渋谷のクソ悪魔さえいなくなりゃ{F801}赤玉で こんな苦労しなくてもいいのにッ{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Hunter woman\0{F813,1,403101}East from here is the Roppongi region.{F801}It's where Shibuya and Roppongi are...{F801}{F802}Supposedly you can only get there{F801}through an underground passage, but{F801}I couldn't tell you where it is.{F801}</source>
+    <target>{F812}Hunter woman\0{F813,1,403101}East from here is the Roppongi region.{F801}It's where Shibuya and Roppongi are...{F801}{F802}Supposedly you can only get there{F801}through an underground passage, but{F801}I couldn't tell you where it is.{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Hunter man\0{F813,1,403002}That Tayama seems serious this time.{F801}I heard he's gonna start an all-out war{F801}against the Ring of Gaea.{F801}{F802}I've heard he put some "national defense{F801}weapon" at the Sendagaya Tunnel ahead.{F801}{F802}I went to take a peek and almost soiled{F801}my drawers when I saw that demon!{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403002}That Tayama seems serious this time.{F801}I heard he's gonna start an all-out war{F801}against the Ring of Gaea.{F801}{F802}I've heard he put some "national defense{F801}weapon" at the Sendagaya Tunnel ahead.{F801}{F802}I went to take a peek and almost soiled{F801}my drawers when I saw that demon!{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Hunter man\0{F813,1,403002}That Tayama seems serious this time.{F801}I heard he's gonna start an all-out war{F801}against the Ring of Gaea.{F801}{F802}I've heard he put some "national defense{F801}weapon" at the Sendagaya Tunnel ahead.{F801}{F802}There was a guy a moment ago saying he{F801}was going to Ichigaya. I hate to say it,{F801}but he's probably dead now...{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403002}That Tayama seems serious this time.{F801}I heard he's gonna start an all-out war{F801}against the Ring of Gaea.{F801}{F802}I've heard he put some "national defense{F801}weapon" at the Sendagaya Tunnel ahead.{F801}{F802}There was a guy a moment ago saying he{F801}was going to Ichigaya. I hate to say it,{F801}but he's probably dead now...{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Hunter woman\0{F813,1,403142}You want to go to the west entrance{F801}park? I suggest you rethink that.{F801}{F802}The Ashura-kai's sealed off the west{F801}side of Shinjuku. If you go in that{F801}way, they'd take it personally...{F801}{F802}If you have business in Shinjuku, why{F801}not go in from the south entrance?{F801}</source>
+    <target>{F812}Hunter woman\0{F813,1,403142}You want to go to the west entrance{F801}park? I suggest you rethink that.{F801}{F802}The Ashura-kai's sealed off the west{F801}side of Shinjuku. If you go in that{F801}way, they'd take it personally...{F801}{F802}If you have business in Shinjuku, why{F801}not go in from the south entrance?{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Hunter man\0{F813,1,403012}The Ashura-kai posted some quest with{F801}the Association in Shinjuku.{F801}{F802}I came all this way through the subway{F801}tunnels from Ikebukuro, hoping to snag{F801}it for myself...{F801}{F802}But now I have to walk through that{F801}poisonous swamp too?{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403012}The Ashura-kai posted some quest with{F801}the Association in Shinjuku.{F801}{F802}I came all this way through the subway{F801}tunnels from Ikebukuro, hoping to snag{F801}it for myself...{F801}{F802}But now I have to walk through that{F801}poisonous swamp too?{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Hunter woman\0{F813,1,403112}Bleh... If I could use the Terminals,{F801}I wouldn't have to deal with this{F801}poisonous swamp.{F801}{F802}But I'm almost at Shinjuku... I can see{F801}the skyscrapers in the south.{F801}</source>
+    <target>{F812}Hunter woman\0{F813,1,403112}Bleh... If I could use the Terminals,{F801}I wouldn't have to deal with this{F801}poisonous swamp.{F801}{F802}But I'm almost at Shinjuku... I can see{F801}the skyscrapers in the south.{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Skulking man\0{F813,1,403222}I-I'm just taking a walk around here...{F801}but don't tell anyone, okay?{F801}{F802}If all goes well, there's something in{F801}it for you. I'll share the vegetables{F801}grown in the National Park with you...{F801}</source>
+    <target>{F812}Skulking man\0{F813,1,403222}I-I'm just taking a walk around here...{F801}but don't tell anyone, okay?{F801}{F802}If all goes well, there's something in{F801}it for you. I'll share the vegetables{F801}grown in the National Park with you...{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Hunter man\0{F813,1,403021}I know there's no point, but I keep{F801}heading toward Shibuya...{F801}{F802}Even if I go over there, the Ashura-kai{F801}will just shoo me away.{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403021}I know there's no point, but I keep{F801}heading toward Shibuya...{F801}{F802}Even if I go over there, the Ashura-kai{F801}will just shoo me away.{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Hunter man\0{F813,1,403021}I know there's no point, but I keep{F801}heading toward Shibuya...{F801}{F802}If Tayama calls me up, would I be able{F801}to get into Shibuya again then...?{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403021}I know there's no point, but I keep{F801}heading toward Shibuya...{F801}{F802}If Tayama calls me up, would I be able{F801}to get into Shibuya again then...?{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>〉 There's an elevator here.{F801}Which floor will you go to?{F801}</source>
+    <target>〉 There's an elevator here.{F801}Which floor will you go to?{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>B1F{F801}Cancel{F801}</source>
+    <target>B1F{F801}Cancel{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>{F812}Bloodied man\0......{F801}</source>
+    <target>{F812}Bloodied man\0......{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>〉 A man is collapsed on the ground here{F801}with his throat slit...{F801}</source>
+    <target>〉 A man is collapsed on the ground here{F801}with his throat slit...{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>{F812}Ashura-kai man\0{F813,1,403212}A bunch of Ring of Gaea guys were here{F801}a minute ago, saying there were some{F801}kinda vanguard...{F801}{F802}There's no way they coulda stood up to{F801}Koga Saburo. Thanks to them, I'm stuck{F801}with the job of cleaning up the bodies.{F801}{F802}Say... are you guys new here? Then do{F801}me a solid and stand guard over there.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F813,1,403212}A bunch of Ring of Gaea guys were here{F801}a minute ago, saying there were some{F801}kinda vanguard...{F801}{F802}There's no way they coulda stood up to{F801}Koga Saburo. Thanks to them, I'm stuck{F801}with the job of cleaning up the bodies.{F801}{F802}Say... are you guys new here? Then do{F801}me a solid and stand guard over there.{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>〉 There is a mountain of disfigured{F801}corpses with the limbs torn off...{F801}{F802}〉 All of the corpses are clad in a{F801}familiar red uniform.{F801}</source>
+    <target>〉 There is a mountain of disfigured{F801}corpses with the limbs torn off...{F801}{F802}〉 All of the corpses are clad in a{F801}familiar red uniform.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>〉 There's an underground passage{F801}continuing under the sea...{F801}{F802}〉 According to the Mapper, up ahead{F801}is the Ooi Wharf...{F801}</source>
+    <target>〉 There's an underground passage{F801}continuing under the sea...{F801}{F802}〉 According to the Mapper, up ahead{F801}is the Ooi Wharf...{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>〉 There's an underground passage{F801}continuing under the sea...{F801}{F802}〉 According to the Mapper, up ahead{F801}is the Daiba...{F801}</source>
+    <target>〉 There's an underground passage{F801}continuing under the sea...{F801}{F802}〉 According to the Mapper, up ahead{F801}is the Daiba...{F801}</target>
+  </entry>
+  <entry id="306">
+    <source>Take the underground passage{F801}Leave{F801}</source>
+    <target>Take the underground passage{F801}Leave{F801}</target>
+  </entry>
+  <entry id="1025">
+    <source>Ask about Shinjuku{F801}Ask about Tokyo Station{F801}Ask about Kasumigaseki{F801}Don't ask anything{F801}</source>
+    <target>Ask about Shinjuku{F801}Ask about Tokyo Station{F801}Ask about Kasumigaseki{F801}Don't ask anything{F801}</target>
+  </entry>
+  <entry id="1039">
+    <source>{F812}Hunter man\0{F813,1,403002}Over at the Sendagaya Tunnel up ahead,{F801}there's this weird mound of rock.{F801}{F802}Is that the place where... "Koga Saburo",{F801}his name was?{F801}{F802}He was that really strong demon Tayama{F801}put there, right?{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403002}Over at the Sendagaya Tunnel up ahead,{F801}there's this weird mound of rock.{F801}{F802}Is that the place where... "Koga Saburo",{F801}his name was?{F801}{F802}He was that really strong demon Tayama{F801}put there, right?{F801}</target>
+  </entry>
+  <entry id="1125">
+    <source>{F812}Guide\0Head north a bit and you'll find{F801}a ferryman. Ask him to take you to{F801}Shinjuku.{F801}{F802}Anything else you wanna ask?{F801}</source>
+    <target>{F812}Guide\0Head north a bit and you'll find{F801}a ferryman. Ask him to take you to{F801}Shinjuku.{F801}{F802}Anything else you wanna ask?{F801}</target>
+  </entry>
+  <entry id="1225">
+    <source>{F812}Guide\0Head south along the road and the{F801}entrance you find to the east side{F801}will get you into Tokyo Station.{F801}{F802}Anything else you wanna ask?{F801}</source>
+    <target>{F812}Guide\0Head south along the road and the{F801}entrance you find to the east side{F801}will get you into Tokyo Station.{F801}{F802}Anything else you wanna ask?{F801}</target>
+  </entry>
+  <entry id="1325">
+    <source>{F812}Guide\0Head south along the road and keep{F801}going past Tokyo Station...{F801}{F802}Then take the path west from there{F801}to get to Kasumigaseki.{F801}{F802}Anything else you wanna ask?{F801}</source>
+    <target>{F812}Guide\0Head south along the road and keep{F801}going past Tokyo Station...{F801}{F802}Then take the path west from there{F801}to get to Kasumigaseki.{F801}{F802}Anything else you wanna ask?{F801}</target>
+  </entry>
+  <entry id="1425">
+    <source>{F812}Guide\0Alright. Come talk to me if you ever need{F801}help, okay? I'm always glad to help out{F801}my fellow Hunters.{F801}</source>
+    <target>{F812}Guide\0Alright. Come talk to me if you ever need{F801}help, okay? I'm always glad to help out{F801}my fellow Hunters.{F801}</target>
+  </entry>
+</mbm>

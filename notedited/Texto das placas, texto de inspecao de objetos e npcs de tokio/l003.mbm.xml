@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Go to region 1?{F801}</source>
+    <target>〉 Go to region 1?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Go to region 2?{F801}</source>
+    <target>〉 Go to region 2?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Go to region 3?{F801}</source>
+    <target>〉 Go to region 3?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Go to region 4?{F801}</source>
+    <target>〉 Go to region 4?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Go to region 5?{F801}</source>
+    <target>〉 Go to region 5?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Go to region 6?{F801}</source>
+    <target>〉 Go to region 6?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Go to region 7?{F801}</source>
+    <target>〉 Go to region 7?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Go to region 8?{F801}</source>
+    <target>〉 Go to region 8?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 Go to region 9?{F801}</source>
+    <target>〉 Go to region 9?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 Fly?{F801}</source>
+    <target>〉 Fly?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>I'll blast you with my bomb!{F801}</source>
+    <target>I'll blast you with my bomb!{F801}</target>
+  </entry>
+</mbm>

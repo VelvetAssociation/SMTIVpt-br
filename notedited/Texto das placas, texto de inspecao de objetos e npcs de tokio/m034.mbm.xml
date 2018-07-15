@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demonoid man\0{F813,1,415204}PK... Bukuroooo! O-Oh, I was just talking{F801}to myself. It's not like I'm a clown or{F801}anything.{F801}</source>
+    <target>{F812}Demonoid man\0{F813,1,415204}PK... Bukuroooo! O-Oh, I was just talking{F801}to myself. It's not like I'm a clown or{F801}anything.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demonoid woman\0{F813,1,419412}Ikebukuro's gotten pretty messed up...{F801}But this is still Japan after all.{F801}</source>
+    <target>{F812}Demonoid woman\0{F813,1,419412}Ikebukuro's gotten pretty messed up...{F801}But this is still Japan after all.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 The shutter is closed. It doesn't seem{F801}that it will open.{F801}</source>
+    <target>〉 The shutter is closed. It doesn't seem{F801}that it will open.{F801}</target>
+  </entry>
+</mbm>

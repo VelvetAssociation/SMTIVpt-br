@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The door won't open.{F801}It seems to be locked.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be locked.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 A key has been left inserted into{F801}the door. Open the door's lock?{F801}</source>
+    <target>〉 A key has been left inserted into{F801}the door. Open the door's lock?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Open the lock{F801}Don't open the lock{F801}</source>
+    <target>Open the lock{F801}Don't open the lock{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The door is now open.{F801}</source>
+    <target>〉 The door is now open.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 You sense many Gaea followers beyond{F801}the door...{F801}</source>
+    <target>〉 You sense many Gaea followers beyond{F801}the door...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demonoid woman\0{F813,1,418002}Ever since I became a demonoid, I haven't{F801}had to deal with silly rivalries! Life is{F801}so much better now!{F801}</source>
+    <target>{F812}Demonoid woman\0{F813,1,418002}Ever since I became a demonoid, I haven't{F801}had to deal with silly rivalries! Life is{F801}so much better now!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400002}I'm detecting a strong demon ahead.{F801}Be careful.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400002}I'm detecting a strong demon ahead.{F801}Be careful.{F801}</target>
+  </entry>
+</mbm>

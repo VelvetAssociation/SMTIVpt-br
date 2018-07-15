@@ -1,0 +1,174 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 There's a button.{F801}Press it?{F801}</source>
+    <target>〉 There's a button.{F801}Press it?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 There's a button.{F801}Press it?{F801}</source>
+    <target>〉 There's a button.{F801}Press it?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 There's a button.{F801}Press it?{F801}</source>
+    <target>〉 There's a button.{F801}Press it?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 There's a button.{F801}Press it?{F801}</source>
+    <target>〉 There's a button.{F801}Press it?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 There's a button.{F801}Press it?{F801}</source>
+    <target>〉 There's a button.{F801}Press it?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 There's a button.{F801}Press it?{F801}</source>
+    <target>〉 There's a button.{F801}Press it?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 There's a button.{F801}Press it?{F801}</source>
+    <target>〉 There's a button.{F801}Press it?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The door is locked down.{F801}</source>
+    <target>〉 The door is locked down.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 The door is locked down.{F801}</source>
+    <target>〉 The door is locked down.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 The door is password-locked.{F801}</source>
+    <target>〉 The door is password-locked.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 The door is password-locked.{F801}</source>
+    <target>〉 The door is password-locked.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 The door won't open.{F801}It seems to be locked.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be locked.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 The door won't open.{F801}It seems to be broken.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be broken.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>Press{F801}Don't press{F801}</source>
+    <target>Press{F801}Don't press{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 The door is now open.{F801}</source>
+    <target>〉 The door is now open.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 The door won't open.{F801}It seems to be locked.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be locked.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>〉 There's a switch on the door.{F801}Press it?{F801}</source>
+    <target>〉 There's a switch on the door.{F801}Press it?{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>Press{F801}Don't press{F801}</source>
+    <target>Press{F801}Don't press{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>〉 The door is now open.{F801}</source>
+    <target>〉 The door is now open.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>〉 There is no reaction.{F801}The switch seems to be broken.{F801}</source>
+    <target>〉 There is no reaction.{F801}The switch seems to be broken.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>〉 The door won't open.{F801}It seems to be locked.{F801}</source>
+    <target>〉 The door won't open.{F801}It seems to be locked.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>〉 A key has been left inserted into{F801}the door. Open the door's lock?{F801}</source>
+    <target>〉 A key has been left inserted into{F801}the door. Open the door's lock?{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>Open the lock{F801}Don't open the lock{F801}</source>
+    <target>Open the lock{F801}Don't open the lock{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>〉 The door is now open.{F801}</source>
+    <target>〉 The door is now open.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>〉 There's an emergency alarm device.{F801}</source>
+    <target>〉 There's an emergency alarm device.{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>〉 There was a panel hidden behind{F801}the plate.{F801}</source>
+    <target>〉 There was a panel hidden behind{F801}the plate.{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>〉 There was a panel hidden behind{F801}the device. Enter the password?{F801}</source>
+    <target>〉 There was a panel hidden behind{F801}the device. Enter the password?{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>Enter{F801}Don't enter{F801}</source>
+    <target>Enter{F801}Don't enter{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>〉 The security lock on the doors has{F801}been released.{F801}</source>
+    <target>〉 The security lock on the doors has{F801}been released.{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>Input error: Incorrect password.{F801}</source>
+    <target>Input error: Incorrect password.{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>〉 The security lock has already been{F801}lifted.{F801}</source>
+    <target>〉 The security lock has already been{F801}lifted.{F801}</target>
+  </entry>
+</mbm>

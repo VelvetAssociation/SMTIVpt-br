@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Ring of Gaea man\0...Who are you? You don't seem to be{F801}one of the Ring of Gaea.{F801}{F802}Well, regardless, try to stay out of{F801}our way. If you cannot, then we'll slay{F801}you before dealing with Xi Wangmu.{F801}</source>
+    <target>{F812}Ring of Gaea man\0...Who are you? You don't seem to be{F801}one of the Ring of Gaea.{F801}{F802}Well, regardless, try to stay out of{F801}our way. If you cannot, then we'll slay{F801}you before dealing with Xi Wangmu.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Ring of Gaea woman\0Odd that you'd come to Ikebukuro now.{F801}Do you have family or loved ones here?{F801}{F802}This may sound harsh, but don't get{F801}your hopes up. Ikebukuro's underground{F801}has been overrun by demons.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0Odd that you'd come to Ikebukuro now.{F801}Do you have family or loved ones here?{F801}{F802}This may sound harsh, but don't get{F801}your hopes up. Ikebukuro's underground{F801}has been overrun by demons.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 You have no more business here.{F801}</source>
+    <target>〉 You have no more business here.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Greedy Hunter\0{F813,1,403013}Whaddaya want!? Don't come over here!{F801}{F802}The treasure around here's all mine.{F801}{F802}I'm gonna grab every last one!{F801}</source>
+    <target>{F812}Greedy Hunter\0{F813,1,403013}Whaddaya want!? Don't come over here!{F801}{F802}The treasure around here's all mine.{F801}{F802}I'm gonna grab every last one!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Hunter man\0{F813,1,403001}H-Hey... I saw some people in red come{F801}down from the Metropolitan Expressway...{F801}{F802}Y'think they were part of that Ring of{F801}Gaea? They went towards Sunshine...{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403001}H-Hey... I saw some people in red come{F801}down from the Metropolitan Expressway...{F801}{F802}Y'think they were part of that Ring of{F801}Gaea? They went towards Sunshine...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Hunter man\0{F813,1,403001}I just saw someone in a strange black{F801}outfit, heading towards the underground{F801}district...{F801}{F802}Huh? You want to know how to get to{F801}the underground district?{F801}{F802}Well, first you take the southwest exit{F801}out. Northwest from there is the other{F801}entrance into the city.{F801}{F802}Go in from there and you can't miss it.{F801}</source>
+    <target>{F812}Hunter man\0{F813,1,403001}I just saw someone in a strange black{F801}outfit, heading towards the underground{F801}district...{F801}{F802}Huh? You want to know how to get to{F801}the underground district?{F801}{F802}Well, first you take the southwest exit{F801}out. Northwest from there is the other{F801}entrance into the city.{F801}{F802}Go in from there and you can't miss it.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Ring of Gaea man\0{F813,1,404311}The demon's nest is up ahead. Kaga seems{F801}to have gone in already...{F801}{F802}Even if we send many against it, it is{F801}a great foreign demon. In truth, we have{F801}nearly no chance against it...{F801}{F802}But if it inspires the people to see{F801}us take a stand against the demon,{F801}then that is enough.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F813,1,404311}The demon's nest is up ahead. Kaga seems{F801}to have gone in already...{F801}{F802}Even if we send many against it, it is{F801}a great foreign demon. In truth, we have{F801}nearly no chance against it...{F801}{F802}But if it inspires the people to see{F801}us take a stand against the demon,{F801}then that is enough.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 There's no one here...{F801}</source>
+    <target>〉 There's no one here...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Hunter man\0That big building there is called{F801}Sunshine. It's always had a shady{F801}history, even back then...{F801}</source>
+    <target>{F812}Hunter man\0That big building there is called{F801}Sunshine. It's always had a shady{F801}history, even back then...{F801}</target>
+  </entry>
+</mbm>

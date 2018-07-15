@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,503001}I detect a very dangerous demon nearby.{F801}You should consider getting out of here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,503001}I detect a very dangerous demon nearby.{F801}You should consider getting out of here.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Will you stay here?{F801}</source>
+    <target>〉 Will you stay here?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Will you really stay here?{F801}</source>
+    <target>〉 Will you really stay here?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Friendly Hunter\0{F87A,29}{F813,1,403002}Hey there. You're a Hunter, right?{F801}{F802}I'm glad to see you here, because I'm{F801}in the market for some food.{F801}{F802}{F87A,29}{F813,1,403042}Let's see... Do you have any{F801}{F804,5}{F872,1}?{F804,0}{F801}{F802}I'd buy {F804,5}{F872,1}{F804,0} for triple{F801}the market price right now.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F87A,29}{F813,1,403002}Hey there. You're a Hunter, right?{F801}{F802}I'm glad to see you here, because I'm{F801}in the market for some food.{F801}{F802}{F87A,29}{F813,1,403042}Let's see... Do you have any{F801}{F804,5}{F872,1}?{F804,0}{F801}{F802}I'd buy {F804,5}{F872,1}{F804,0} for triple{F801}the market price right now.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Hand over your {F804,5}{F872,1}?{F804,0}{F801}</source>
+    <target>〉 Hand over your {F804,5}{F872,1}?{F804,0}{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Friendly Hunter\0{F87A,29}{F813,1,403041}I can't thank you enough. Here's the{F801}{F804,5}{F878,1} Macca{F804,0} I owe you.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F87A,29}{F813,1,403041}I can't thank you enough. Here's the{F801}{F804,5}{F878,1} Macca{F804,0} I owe you.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Friendly Hunter\0{F87A,29}{F813,1,403033}I hope you'll be around to help me out{F801}again in a bit.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F87A,29}{F813,1,403033}I hope you'll be around to help me out{F801}again in a bit.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Friendly Hunter\0{F87A,29}{F813,1,403042}Oh. Well, that's okay. If you ever{F801}change your mind, you know where{F801}to find me.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F87A,29}{F813,1,403042}Oh. Well, that's okay. If you ever{F801}change your mind, you know where{F801}to find me.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Friendly Hunter\0{F87A,29}{F813,1,403042}Hm? You don't have any {F872,1}.{F801}{F802}Oops. Sorry if that was an unreasonable{F801}request.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F87A,29}{F813,1,403042}Hm? You don't have any {F872,1}.{F801}{F802}Oops. Sorry if that was an unreasonable{F801}request.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Friendly Hunter\0{F87A,29}{F813,1,403001}I've got plenty of food right now. But{F801}if you come back another time, maybe{F801}we can do business then.{F801}</source>
+    <target>{F812}Friendly Hunter\0{F87A,29}{F813,1,403001}I've got plenty of food right now. But{F801}if you come back another time, maybe{F801}we can do business then.{F801}</target>
+  </entry>
+</mbm>
