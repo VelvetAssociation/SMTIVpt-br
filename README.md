@@ -5,6 +5,12 @@ Para poder editar, excluir, ou fazer upload de arquivos é necessário ter uma c
 
 Todos os arquivos devem estar no formato ANSI. Se estiver em dúvida, utilize o bloco de notas para fazer a tradução, e, quando for salvar, selecione ANSI na Codificação.
 
+Membros:
+RitsuLaw
+Pyro Jack
+Nico
+KRaidou
+
 Tradutores: A pasta "notedited" possui as pastas com textos ainda não traduzidos. Se escolher algum para traduzir, primeiro copie todo o seu conteudo para um arquivo do bloco de notas com o nome do arquivo original e com a extensão .xml. Depois, exclua o arquivo original daqui do GitHub.
             A pasta "edited" possui as pastas com textos já traduzidos. Quando acabar a tradução de algum arquivo, coloque-o na subpasta correspondente a de onde ele foi retirado.
 
@@ -17,7 +23,10 @@ Traduza sempre sem usar os caracteres especiais das línguas latinas, como acent
 - 
 No momento o jogo só aceita arquivos codificados em japonês, ou seja, se for colocar um ç ou outra letra com algum tipo de acento, o bloco de notas vai alertar que para que esses caracteres especiais sejam salvos, a codificação teria que mudar para Unicode, porém, o jogo não suporta nenhuma codificação além da japonesa.
 Então isso quer dizer que o jogo não vai ter esses caracteres?
-O jogo VAI ter todas as acentuações e etc. que a nossa língua possui, porém, para isso, é necessária a modificação da fonte que o jogo usa e inserir esses caracteres especiais. Não é algo muito difícil de fazer, mas leva muito tempo, então, essa edição das fontes vai ser trabalhada por mim em segundo plano. O mais importante é a tradução em si, depois que completar a fonte modificada, eu irei mudar todos os ‘’voce’’, ‘’nao’’, ‘’ha’’, etc., para ‘’você’’, ‘’não’’, ‘’há’’, etc.
+O jogo VAI ter todas as acentuações e etc. que a nossa língua possui, porém, para isso, é necessária a modificação da fonte que o jogo usa e inserir esses caracteres especiais. Não é algo muito difícil de fazer, mas leva muito tempo, então, essa edição das fontes vai ser trabalhada por mim em segundo plano. O mais importante é a tradução em si, depois que completar a fonte modificada, eu irei mudar todos os ‘’voce’’, ‘’nao’’, ‘’ha’’, etc., para ‘’você’’, ‘’não’’, ‘’há’’, etc. 
+
+E peço que, ao invés de colocar ‘’e’’ no lugar do ‘’é’’, coloquem ‘’eh’’, para facilitar o processo de substituição depois.
+
 Reiterando: O nosso foco atual é traduzir os textos, mesmo que fiquem estranhos sem as acentuações e etc., mas tudo isso vai ser corrigido antes do lançamento da tradução completa.
 
 Observações finais: Não modifique o coding dos arquivos para Unicode ou qualquer outro, sempre mantendo o original.
@@ -44,6 +53,8 @@ Ex:
 Selecione {F804,5}Conversar{F804,0} na lista de comando e{F801}então {F804,5}Negociar.{F804,0} Isso irá convidar o demônio{F801}a se juntar a você.{F801}
 
 A inserção desses códigos fez com que as palavras Conversar e Negociar ficarem em vermelho. É importantíssimo prestar atenção se as palavras que você colocar entre esses códigos seja a tradução das que originalmente estavam ali.
+
+Observação: Apesar do limite de caracteres por linha serem de cerda de 36-40, isso varia por conta do tamanho das próprias letras, então recomendo que usem o espaço original da frase como base.
 
 Sobre os parágrafos:
 Em todos os arquivos sempre haverá dois parágrafos com o mesmo texto, como:
