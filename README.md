@@ -1,7 +1,8 @@
 # SMTIV pt-br
 Pagina para organizar a tradução do Shin Megami Tensei IV.
 
-Para poder editar, excluir, ou fazer upload de arquivos é necessário se cadastrar no GitHub.
+Para poder editar, excluir, ou fazer upload de arquivos é necessário ter uma conta no GitHub.
+
 Todos os arquivos devem estar no formato ANSI. Se estiver em dúvida, utilize o bloco de notas para fazer a tradução, e, quando for salvar, selecione ANSI na Codificação.
 
 Tradutores: A pasta "notedited" possui as pastas com textos ainda não traduzidos. Se escolher algum para traduzir, primeiro copie todo o seu conteudo para um arquivo do bloco de notas com o nome do arquivo original e com a extensão .xml. Depois, exclua o arquivo original daqui do GitHub.
