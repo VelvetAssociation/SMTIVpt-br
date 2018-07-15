@@ -37,6 +37,8 @@ Vamos dar nosso melhor para completar essa{F801}missão, Mestre.{F801}
 A inclusão do código {F801} no meio e no fim da frase modificou a forma que o texto é exibido na caixa de mensagem do jogo, quebrando a frase para a mesma poder caber na caixa de mensagem, e fazendo que o "missão, Mestre." seja exibido em um novo paragrafo.
 O {F801} também deve sempre ficar no fim da frase, pois ele funciona como um ponto final.
 
+O código {F802}, geralmente encontrado após o {F801}, e no meio da linha de texto, serve para dar um ''next'' na mensagem atual, limpando a caixa de texto para que surja o resto da mensagem que não coube na primeira mensagem.
+
 Os códigos {F804,5} e {F804,0} aparecem com mais frequência em tutoriais e telas de missões, e servem para que o texto que fica entre os dois códigos torne-se vermelho, destacando algo de importante.
 Ex: 
 Selecione {F804,5}Conversar{F804,0} na lista de comando e{F801}então {F804,5}Negociar.{F804,0} Isso irá convidar o demônio{F801}a se juntar a você.{F801}
