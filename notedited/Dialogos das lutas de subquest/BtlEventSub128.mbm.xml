@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Dantalian\0{F87A,0}{F813,0,350501}Hahaha... Only a demon can grant a{F801}human's greedy desire for knowledge.{F801}{F802}{F813,0,350502}Those who seek to learn shall become{F801}nourishment for me, and in turn have{F801}their wishes granted.{F801}</source>
+    <target>{F812}Dantalian\0{F87A,0}{F813,0,350501}Hahaha... Only a demon can grant a{F801}human's greedy desire for knowledge.{F801}{F802}{F813,0,350502}Those who seek to learn shall become{F801}nourishment for me, and in turn have{F801}their wishes granted.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Dantalian's face suddenly turned{F801}into the baker's!{F801}</source>
+    <target>〉 Dantalian's face suddenly turned{F801}into the baker's!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Baker\0{F87A,0}{F813,0,350503}P-Please! Stop, master Samurai!{F801}{F802}{F813,0,350504}I just wanted to know what the{F801}Luxurors are hiding from us!{F801}</source>
+    <target>{F812}Baker\0{F87A,0}{F813,0,350503}P-Please! Stop, master Samurai!{F801}{F802}{F813,0,350504}I just wanted to know what the{F801}Luxurors are hiding from us!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Continue attacking{F801}Lower your weapon{F801}</source>
+    <target>Continue attacking{F801}Lower your weapon{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Baker\0{F87A,0}{F813,0,350505}Gaaah! Someone... help me!{F801}</source>
+    <target>{F812}Baker\0{F87A,0}{F813,0,350505}Gaaah! Someone... help me!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Baker\0{F87A,0}{F813,0,350506}P-Please...! Master Samurai...!{F801}</source>
+    <target>{F812}Baker\0{F87A,0}{F813,0,350506}P-Please...! Master Samurai...!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Dantalian\0{F87A,0}{F813,0,350507}HAHAHAHA. This is far too amusing.{F801}You shall die cursing your own{F801}foolishness.{F801}</source>
+    <target>{F812}Dantalian\0{F87A,0}{F813,0,350507}HAHAHAHA. This is far too amusing.{F801}You shall die cursing your own{F801}foolishness.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Dantalian\0{F87A,0}{F813,0,350508}Impossible! Me, with my infinite{F801}knowledge... defeated by a mere{F801}human? ...How...?{F801}</source>
+    <target>{F812}Dantalian\0{F87A,0}{F813,0,350508}Impossible! Me, with my infinite{F801}knowledge... defeated by a mere{F801}human? ...How...?{F801}</target>
+  </entry>
+</mbm>

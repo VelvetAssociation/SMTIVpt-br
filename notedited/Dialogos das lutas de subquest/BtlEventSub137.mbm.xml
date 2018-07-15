@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,0}{F813,1,414102}I come forth with the poison winds{F801}and the voices of the dead.{F801}{F802}The name is Fury Chernobog.{F801}</source>
+    <target>{F812}Demon\0{F87A,0}{F813,1,414102}I come forth with the poison winds{F801}and the voices of the dead.{F801}{F802}The name is Fury Chernobog.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Chernobog\0{F87A,0}Now... As my sacrifice, you shall{F801}entertain me until I am satisfied.{F801}</source>
+    <target>{F812}Chernobog\0{F87A,0}Now... As my sacrifice, you shall{F801}entertain me until I am satisfied.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Chernobog\0{F87A,0}{F813,1,414100}Ho... I suppose you humans are much{F801}more than fragile creatures that{F801}succumb to poison...{F801}</source>
+    <target>{F812}Chernobog\0{F87A,0}{F813,1,414100}Ho... I suppose you humans are much{F801}more than fragile creatures that{F801}succumb to poison...{F801}</target>
+  </entry>
+</mbm>

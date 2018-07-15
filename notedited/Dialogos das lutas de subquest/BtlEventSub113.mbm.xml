@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Ares\0{F87A,0}{F813,0,350101}My former master made me bow down{F801}before his overwhelming power.{F801}{F802}{F813,0,350102}If you can make me surrender to you,{F801}then I shall hand over control of{F801}this machine.{F801}{F802}{F813,0,350103}...Of course, that is if you can{F801}withstand my assault.{F801}</source>
+    <target>{F812}Ares\0{F87A,0}{F813,0,350101}My former master made me bow down{F801}before his overwhelming power.{F801}{F802}{F813,0,350102}If you can make me surrender to you,{F801}then I shall hand over control of{F801}this machine.{F801}{F802}{F813,0,350103}...Of course, that is if you can{F801}withstand my assault.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Ares\0{F87A,0}{F813,0,350104}I see... You have shown me your power.{F801}I admit defeat.{F801}</source>
+    <target>{F812}Ares\0{F87A,0}{F813,0,350104}I see... You have shown me your power.{F801}I admit defeat.{F801}</target>
+  </entry>
+</mbm>

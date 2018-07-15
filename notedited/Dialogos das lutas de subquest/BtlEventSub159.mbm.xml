@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Astaroth\0{F87A,0}{F813,0,350801}Hahaha. It has been some time since{F801}I last set foot in the human world.{F801}{F802}{F813,0,350802}I regret not having more time to look{F801}about the place, but first...{F801}{F802}{F813,0,350803}I must teach this fool a lesson, for{F801}trying to disturb my resurrection.{F801}{F802}{F813,0,350804}Well then, let us play.{F801}</source>
+    <target>{F812}Astaroth\0{F87A,0}{F813,0,350801}Hahaha. It has been some time since{F801}I last set foot in the human world.{F801}{F802}{F813,0,350802}I regret not having more time to look{F801}about the place, but first...{F801}{F802}{F813,0,350803}I must teach this fool a lesson, for{F801}trying to disturb my resurrection.{F801}{F802}{F813,0,350804}Well then, let us play.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,350805}Overlord Astaroth. Leave this to us.{F801}{F802}{F813,0,350806}You have just materialized in this{F801}world; your soul is still unstable.{F801}{F802}{F813,0,350807}We cannot have you die here.{F801}{F802}{F813,0,350808}Now, this way!{F801}{F802}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,350805}Overlord Astaroth. Leave this to us.{F801}{F802}{F813,0,350806}You have just materialized in this{F801}world; your soul is still unstable.{F801}{F802}{F813,0,350807}We cannot have you die here.{F801}{F802}{F813,0,350808}Now, this way!{F801}{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 The woman from the Ring of Gaea{F801}leads Astaroth away...{F801}</source>
+    <target>〉 The woman from the Ring of Gaea{F801}leads Astaroth away...{F801}</target>
+  </entry>
+</mbm>

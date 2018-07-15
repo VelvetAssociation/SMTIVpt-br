@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Asura\0{F87A,0}{F813,0,350401}Do you know what it means to turn{F801}your blade on me? Human, learn your{F801}place.{F801}{F802}{F813,0,350402}I laugh at you for fighting me.{F801}I shall send you to the land of{F801}the dead.{F801}</source>
+    <target>{F812}Asura\0{F87A,0}{F813,0,350401}Do you know what it means to turn{F801}your blade on me? Human, learn your{F801}place.{F801}{F802}{F813,0,350402}I laugh at you for fighting me.{F801}I shall send you to the land of{F801}the dead.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Asura\0{F87A,0}{F813,0,350403}Urgh...! To think... I would be{F801}defeated... by a hu...man...{F801}</source>
+    <target>{F812}Asura\0{F87A,0}{F813,0,350403}Urgh...! To think... I would be{F801}defeated... by a hu...man...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Astaroth\0{F87A,0}{F813,0,350901}Chasing down a demon is hardly the{F801}wisest choice a warrior like yourself{F801}could make...{F801}{F802}{F813,0,350902}But, you're determined to finish{F801}the job. I admire that.{F801}{F802}{F813,0,350903}...I believe I've had enough time to{F801}get used to this world.{F801}{F802}{F813,0,350904}Very well. If you wish to challenge{F801}me, then I shall gladly be your{F801}opponent!{F801}</source>
+    <target>{F812}Astaroth\0{F87A,0}{F813,0,350901}Chasing down a demon is hardly the{F801}wisest choice a warrior like yourself{F801}could make...{F801}{F802}{F813,0,350902}But, you're determined to finish{F801}the job. I admire that.{F801}{F802}{F813,0,350903}...I believe I've had enough time to{F801}get used to this world.{F801}{F802}{F813,0,350904}Very well. If you wish to challenge{F801}me, then I shall gladly be your{F801}opponent!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Astaroth\0{F87A,0}{F813,0,350906}How could you defeat me, the{F801}Overlord Astaroth...?{F801}{F802}{F813,0,350907}What are you...?{F801}</source>
+    <target>{F812}Astaroth\0{F87A,0}{F813,0,350906}How could you defeat me, the{F801}Overlord Astaroth...?{F801}{F802}{F813,0,350907}What are you...?{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Wu Kong\0{F87A,0}{F813,1,411007}Holy shit! How long are you gonna{F801}chase me!?{F801}{F802}Augh! You just won't stop! You're{F801}just like that jerk Erlang Shen!{F801}{F802}Fine, whatever. If you want a fight,{F801}let's go. If you get killed, don't{F801}say I didn't warn you!{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,0}{F813,1,411007}Holy shit! How long are you gonna{F801}chase me!?{F801}{F802}Augh! You just won't stop! You're{F801}just like that jerk Erlang Shen!{F801}{F802}Fine, whatever. If you want a fight,{F801}let's go. If you get killed, don't{F801}say I didn't warn you!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Wu Kong\0{F87A,0}{F813,1,411006}I... I give up! I surrender!{F801}I admit defeat!{F801}{F802}Son of a bitch! How the hell did{F801}things end up like this...?{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,0}{F813,1,411006}I... I give up! I surrender!{F801}I admit defeat!{F801}{F802}Son of a bitch! How the hell did{F801}things end up like this...?{F801}</target>
+  </entry>
+</mbm>

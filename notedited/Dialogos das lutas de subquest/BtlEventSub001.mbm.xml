@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Mother Harlot\0Test{F801}{F802}</source>
+    <target>{F812}Mother Harlot\0Test{F801}{F802}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 One of Mother Harlot's followers{F801}interrupts the battle...{F801}</source>
+    <target>〉 One of Mother Harlot's followers{F801}interrupts the battle...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Follower\0{F87A,53}Mother! Please leave this to us.{F801}{F802}You have only just materialized.{F801}For your own safety, please{F801}stay back.{F801}{F802}Now please, come this way!{F801}</source>
+    <target>{F812}Follower\0{F87A,53}Mother! Please leave this to us.{F801}{F802}You have only just materialized.{F801}For your own safety, please{F801}stay back.{F801}{F802}Now please, come this way!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The follower leads Mother Harlot{F801}away...{F801}</source>
+    <target>〉 The follower leads Mother Harlot{F801}away...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Follower\0{F87A,53}Rise! Gods of Babylon.{F801}{F802}You may have the honor of protecting{F801}the mother goddess!{F801}</source>
+    <target>{F812}Follower\0{F87A,53}Rise! Gods of Babylon.{F801}{F802}You may have the honor of protecting{F801}the mother goddess!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>Test{F801}{F802}</source>
+    <target>Test{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>Test{F801}{F802}</source>
+    <target>Test{F801}{F802}</target>
+  </entry>
+  <entry id="7">
+    <source>Test{F801}{F802}</source>
+    <target>Test{F801}{F802}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Mother Harlot\0Test Die{F801}{F802}</source>
+    <target>{F812}Mother Harlot\0Test Die{F801}{F802}</target>
+  </entry>
+</mbm>

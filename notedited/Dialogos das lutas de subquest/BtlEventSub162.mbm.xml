@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Thor\0{F87A,0}{F813,1,413204}Show me your strength.{F801}</source>
+    <target>{F812}Thor\0{F87A,0}{F813,1,413204}Show me your strength.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Dignified voice\0{F87A,-168}{F813,1,413103}That is enough, Thor.{F801}{F802}That was a splendid battle, you two.{F801}I cannot recall when I last felt so{F801}impassioned from watching combat.{F801}</source>
+    <target>{F812}Dignified voice\0{F87A,-168}{F813,1,413103}That is enough, Thor.{F801}{F802}That was a splendid battle, you two.{F801}I cannot recall when I last felt so{F801}impassioned from watching combat.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Thor\0{F87A,0}{F813,1,413202}That voice... Lord Odin!{F801}Your memories have returned!{F801}</source>
+    <target>{F812}Thor\0{F87A,0}{F813,1,413202}That voice... Lord Odin!{F801}Your memories have returned!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 A dignified voice speaks out from{F801}behind the demon...{F801}</source>
+    <target>〉 A dignified voice speaks out from{F801}behind the demon...{F801}</target>
+  </entry>
+</mbm>

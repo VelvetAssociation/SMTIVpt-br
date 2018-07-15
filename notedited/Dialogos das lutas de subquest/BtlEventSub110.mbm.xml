@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Wu Kong\0{F87A,0}{F813,1,411005}Who the hell are you?{F801}{F802}Wait a minute, you were sent to find{F801}me, weren't you?{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,0}{F813,1,411005}Who the hell are you?{F801}{F802}Wait a minute, you were sent to find{F801}me, weren't you?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Wu Kong\0{F87A,0}{F813,1,411009}Damn it... I bet Erlang Shen put you{F801}up to this, didn't he?{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,0}{F813,1,411009}Damn it... I bet Erlang Shen put you{F801}up to this, didn't he?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Wu Kong\0{F87A,0}{F813,1,411007}Heh, yeah, right.{F801}It was Erlang Shen, wasn't it?{F801}{F802}I'm guessing that he's asked you to{F801}capture me and take me back.{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,0}{F813,1,411007}Heh, yeah, right.{F801}It was Erlang Shen, wasn't it?{F801}{F802}I'm guessing that he's asked you to{F801}capture me and take me back.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Wu Kong\0...But from the looks of things, he{F801}still doesn't know about this place.{F801}{F802}Well then, there's only one thing{F801}to do.{F801}{F802}I'll just have to silence you, and{F801}then I can keep hiding here for a{F801}while longer.{F801}</source>
+    <target>{F812}Wu Kong\0...But from the looks of things, he{F801}still doesn't know about this place.{F801}{F802}Well then, there's only one thing{F801}to do.{F801}{F802}I'll just have to silence you, and{F801}then I can keep hiding here for a{F801}while longer.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Wu Kong\0{F87A,0}{F813,1,411006}Not bad...! Guess I'll just have to{F801}scram for now.{F801}{F802}Bye now!{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,0}{F813,1,411006}Not bad...! Guess I'll just have to{F801}scram for now.{F801}{F802}Bye now!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The demon runs away...{F801}</source>
+    <target>〉 The demon runs away...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+</mbm>

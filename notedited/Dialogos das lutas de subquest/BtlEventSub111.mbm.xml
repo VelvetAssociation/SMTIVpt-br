@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Wu Kong\0{F87A,0}{F813,1,411000}You again! You know, you're pretty{F801}good for a human!{F801}{F802}But you're not going to catch me{F801}that easily!{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,0}{F813,1,411000}You again! You know, you're pretty{F801}good for a human!{F801}{F802}But you're not going to catch me{F801}that easily!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Wu Kong\0{F87A,0}{F813,1,411007}Damn, what's with this guy...!?{F801}{F802}Y-You'll never catch me!{F801}You hear me? Never!{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,0}{F813,1,411007}Damn, what's with this guy...!?{F801}{F802}Y-You'll never catch me!{F801}You hear me? Never!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The demon runs away...{F801}</source>
+    <target>〉 The demon runs away...{F801}</target>
+  </entry>
+</mbm>

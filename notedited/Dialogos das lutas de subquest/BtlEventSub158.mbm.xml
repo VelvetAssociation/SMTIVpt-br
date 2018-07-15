@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,0}{F813,0,350701}Here I am, at last.{F801}Cernunnos has arrived!{F801}</source>
+    <target>{F812}Demon\0{F87A,0}{F813,0,350701}Here I am, at last.{F801}Cernunnos has arrived!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Cernunnos\0{F87A,0}{F813,0,350702}You see, the more people die in my{F801}name, the higher my status rises.{F801}{F802}{F813,0,350703}It doesn't matter how they die.{F801}War, sacrifice, anything'll do.{F801}{F802}{F813,0,350704}What I'm trying to say is,{F801}I just want you humans dead.{F801}{F802}{F813,0,350705}Then I can reclaim my place as the{F801}king of fertility and the harvest,{F801}just like old times.{F801}</source>
+    <target>{F812}Cernunnos\0{F87A,0}{F813,0,350702}You see, the more people die in my{F801}name, the higher my status rises.{F801}{F802}{F813,0,350703}It doesn't matter how they die.{F801}War, sacrifice, anything'll do.{F801}{F802}{F813,0,350704}What I'm trying to say is,{F801}I just want you humans dead.{F801}{F802}{F813,0,350705}Then I can reclaim my place as the{F801}king of fertility and the harvest,{F801}just like old times.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 {F843,0} places the unconscions{F801}Nozomi on the ground and stands{F801}before the demon...{F801}{F802}〉 Nozomi is no longer in the party.{F801}</source>
+    <target>〉 {F843,0} places the unconscions{F801}Nozomi on the ground and stands{F801}before the demon...{F801}{F802}〉 Nozomi is no longer in the party.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Cernunnos\0{F87A,0}{F813,0,350706}How...? The Wicker Man sacrifices{F801}should have increased my power...!{F801}{F802}{F813,0,350707}But, you were still able to defeat{F801}me... You're one crazy human.{F801}{F802}{F813,0,350708}Don't you think I've given up, though.{F801}{F802}{F813,0,350709}I'll just resurrect more ancient{F801}gods like me...{F801}{F802}{F813,0,350710}I'm going to restore this world to{F801}the ancient gods.{F801}</source>
+    <target>{F812}Cernunnos\0{F87A,0}{F813,0,350706}How...? The Wicker Man sacrifices{F801}should have increased my power...!{F801}{F802}{F813,0,350707}But, you were still able to defeat{F801}me... You're one crazy human.{F801}{F802}{F813,0,350708}Don't you think I've given up, though.{F801}{F802}{F813,0,350709}I'll just resurrect more ancient{F801}gods like me...{F801}{F802}{F813,0,350710}I'm going to restore this world to{F801}the ancient gods.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The demon vanishes...{F801}</source>
+    <target>〉 The demon vanishes...{F801}</target>
+  </entry>
+</mbm>

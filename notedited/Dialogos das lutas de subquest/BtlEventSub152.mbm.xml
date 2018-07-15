@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Announcer\0{F87A,138}{F813,1,406002}It would appear a Hunter and a demon{F801}have crossed paths here at the{F801}East Gate's Main Street.{F801}{F802}The demons from the Red Team who{F801}face the White Team's skilled{F801}Hunter are...{F801}{F802}It's the popular girl group,{F801}"The Apsaras Project"!{F801}</source>
+    <target>{F812}Announcer\0{F87A,138}{F813,1,406002}It would appear a Hunter and a demon{F801}have crossed paths here at the{F801}East Gate's Main Street.{F801}{F802}The demons from the Red Team who{F801}face the White Team's skilled{F801}Hunter are...{F801}{F802}It's the popular girl group,{F801}"The Apsaras Project"!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F813,1,497250}With these legs!{F801}With these looks!{F801}With this dance!{F801}Please cheer us on!{F801}We'll charm you all!{F801}{F802}</source>
+    <target>{F813,1,497250}With these legs!{F801}With these looks!{F801}With this dance!{F801}Please cheer us on!{F801}We'll charm you all!{F801}{F802}</target>
+  </entry>
+</mbm>

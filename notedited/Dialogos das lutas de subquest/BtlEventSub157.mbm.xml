@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Nozomi\0{F87A,138}{F813,0,350601}Huh? What the--?{F801}Hey, get me out of here!{F801}{F802}{F813,0,350602}Ohhhh...!{F801}Am I gonna be burned alive!?{F801}</source>
+    <target>{F812}Nozomi\0{F87A,138}{F813,0,350601}Huh? What the--?{F801}Hey, get me out of here!{F801}{F802}{F813,0,350602}Ohhhh...!{F801}Am I gonna be burned alive!?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Nozomi\0{F87A,138}{F813,0,350603}Wait, they caught me again!?{F801}{F802}{F813,0,350604}Why the hell does this keep{F801}happening!?{F801}</source>
+    <target>{F812}Nozomi\0{F87A,138}{F813,0,350603}Wait, they caught me again!?{F801}{F802}{F813,0,350604}Why the hell does this keep{F801}happening!?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Nozomi\0{F87A,138}{F813,0,350605}Oh come on! What the hell!{F801}{F802}{F813,0,350606}Why do they want to roast me so bad!?{F801}What is wrong with these things!?{F801}</source>
+    <target>{F812}Nozomi\0{F87A,138}{F813,0,350605}Oh come on! What the hell!{F801}{F802}{F813,0,350606}Why do they want to roast me so bad!?{F801}What is wrong with these things!?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You have defeated the demons and{F801}rescued Nozomi.{F801}</source>
+    <target>〉 You have defeated the demons and{F801}rescued Nozomi.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Nozomi has been trapped within the{F801}demon's body!{F801}</source>
+    <target>〉 Nozomi has been trapped within the{F801}demon's body!{F801}</target>
+  </entry>
+</mbm>

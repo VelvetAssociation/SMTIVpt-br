@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Announcer\0{F87A,138}{F813,1,406002}Our cameras in Kabuki-cho have{F801}spotted another run-in between a{F801}Hunter and a demon!{F801}{F802}The demon from the Red Team who{F801}faces off against the White Team's{F801}hardy Hunter is...{F801}{F802}The beautiful songstress of the{F801}Expanse who sings mysterious and{F801}magical melodies, Lorelei!{F801}</source>
+    <target>{F812}Announcer\0{F87A,138}{F813,1,406002}Our cameras in Kabuki-cho have{F801}spotted another run-in between a{F801}Hunter and a demon!{F801}{F802}The demon from the Red Team who{F801}faces off against the White Team's{F801}hardy Hunter is...{F801}{F802}The beautiful songstress of the{F801}Expanse who sings mysterious and{F801}magical melodies, Lorelei!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Lorelei\0{F87A,0}{F813,1,418002}Please, hear my song of tragic{F801}love...{F801}{F802}</source>
+    <target>{F812}Lorelei\0{F87A,0}{F813,1,418002}Please, hear my song of tragic{F801}love...{F801}{F802}</target>
+  </entry>
+</mbm>

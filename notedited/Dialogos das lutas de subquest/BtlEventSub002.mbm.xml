@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Mother Harlot\0Ha! To think the someone would{F801}willingly chase after a demon...{F801}A foolish decision, for a warrior.{F801}{F802}I do respect your determination,{F801}however.{F801}{F802}If you wish to challenge me, then{F801}so be it. I will face you!{F801}</source>
+    <target>{F812}Mother Harlot\0Ha! To think the someone would{F801}willingly chase after a demon...{F801}A foolish decision, for a warrior.{F801}{F802}I do respect your determination,{F801}however.{F801}{F802}If you wish to challenge me, then{F801}so be it. I will face you!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Mother Harlot disappears...{F801}</source>
+    <target>〉 Mother Harlot disappears...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Follower\0{F87A,53}Impossible... How could Mother be{F801}defeated...?{F801}{F802}We were one step away before you{F801}showed up...{F801}{F802}You've ruined everything...{F801}</source>
+    <target>{F812}Follower\0{F87A,53}Impossible... How could Mother be{F801}defeated...?{F801}{F802}We were one step away before you{F801}showed up...{F801}{F802}You've ruined everything...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hunter\0{F87A,67}Damn it!{F801}My dreams, my paradise...{F801}{F802}I haven't given up yet!{F801}You hear me!?{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}Damn it!{F801}My dreams, my paradise...{F801}{F802}I haven't given up yet!{F801}You hear me!?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The people who have gathered for{F801}the ritual disperse...{F801}</source>
+    <target>〉 The people who have gathered for{F801}the ritual disperse...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Pales\0{F87A,-126}I was concerned when I realized{F801}that the ritual had been completed.{F801}{F802}But, you have done well.{F801}Mother Harlot has been defeated.{F801}{F802}Now we can maintain a peaceful{F801}balance between humans and demons{F801}in this world.{F801}{F802}Who knew that a human would be{F801}capable of such things...?{F801}{F802}It seems that I have misjudged your{F801}people.{F801}{F802}In any case, good work, {F843,0}.{F801}</source>
+    <target>{F812}Pales\0{F87A,-126}I was concerned when I realized{F801}that the ritual had been completed.{F801}{F802}But, you have done well.{F801}Mother Harlot has been defeated.{F801}{F802}Now we can maintain a peaceful{F801}balance between humans and demons{F801}in this world.{F801}{F802}Who knew that a human would be{F801}capable of such things...?{F801}{F802}It seems that I have misjudged your{F801}people.{F801}{F802}In any case, good work, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Pales\0{F87A,-126}{F843,0}! You're alive!{F801}{F802}</source>
+    <target>{F812}Pales\0{F87A,-126}{F843,0}! You're alive!{F801}{F802}</target>
+  </entry>
+  <entry id="7">
+    <source>Test{F801}{F802}</source>
+    <target>Test{F801}{F802}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Mother Harlot\0How could... this be?{F801}{F802}</source>
+    <target>{F812}Mother Harlot\0How could... this be?{F801}{F802}</target>
+  </entry>
+</mbm>

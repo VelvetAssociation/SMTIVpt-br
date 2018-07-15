@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Beelzebub\0{F87A,0}{F813,0,351201}The slaying of a king is like the{F801}slaying of a god. Now, I must put an{F801}end to your blood-streaked soul.{F801}{F802}{F813,0,351202}But, rejoice, for I shall use your{F801}body as my new vessel.{F801}</source>
+    <target>{F812}Beelzebub\0{F87A,0}{F813,0,351201}The slaying of a king is like the{F801}slaying of a god. Now, I must put an{F801}end to your blood-streaked soul.{F801}{F802}{F813,0,351202}But, rejoice, for I shall use your{F801}body as my new vessel.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Beelzebub\0{F87A,0}{F813,0,351203}...I shall not perish.{F801}I will return.{F801}{F802}{F813,0,351204}Just as thousands of flies appear from{F801}filth, I will appear once again.{F801}</source>
+    <target>{F812}Beelzebub\0{F87A,0}{F813,0,351203}...I shall not perish.{F801}I will return.{F801}{F802}{F813,0,351204}Just as thousands of flies appear from{F801}filth, I will appear once again.{F801}</target>
+  </entry>
+</mbm>

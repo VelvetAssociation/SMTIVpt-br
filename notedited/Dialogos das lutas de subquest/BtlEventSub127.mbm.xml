@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Okuninushi\0{F87A,0}{F813,1,412107}There is no hope for you. Mourn for{F801}your coming death and await your{F801}fate, for you have angered a god.{F801}{F802}You shall feel the pain the land has{F801}felt after centuries of destruction{F801}by the hands of you greedy humans.{F801}</source>
+    <target>{F812}Okuninushi\0{F87A,0}{F813,1,412107}There is no hope for you. Mourn for{F801}your coming death and await your{F801}fate, for you have angered a god.{F801}{F802}You shall feel the pain the land has{F801}felt after centuries of destruction{F801}by the hands of you greedy humans.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Okuninushi\0{F87A,0}{F813,1,412109}I am sorry... my friend...{F801}I could not... keep my promise...{F801}</source>
+    <target>{F812}Okuninushi\0{F87A,0}{F813,1,412109}I am sorry... my friend...{F801}I could not... keep my promise...{F801}</target>
+  </entry>
+</mbm>

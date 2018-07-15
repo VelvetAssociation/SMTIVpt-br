@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Tiamat\0{F87A,0}{F813,1,419005}I find it difficult to comprehend{F801}why all of you would want to{F801}participate in something like this.{F801}{F802}...Unlike you, I have no choice. I{F801}was summoned and ordered to do this.{F801}{F802}Really, I would prefer not to take{F801}part in such trash, but what can you{F801}do. Let's get this over with.{F801}</source>
+    <target>{F812}Tiamat\0{F87A,0}{F813,1,419005}I find it difficult to comprehend{F801}why all of you would want to{F801}participate in something like this.{F801}{F802}...Unlike you, I have no choice. I{F801}was summoned and ordered to do this.{F801}{F802}Really, I would prefer not to take{F801}part in such trash, but what can you{F801}do. Let's get this over with.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Tiamat\0{F87A,0}{F813,1,419004}You're pretty good.{F801}{F802}I wouldn't have thought that I would{F801}be defeated.{F801}</source>
+    <target>{F812}Tiamat\0{F87A,0}{F813,1,419004}You're pretty good.{F801}{F802}I wouldn't have thought that I would{F801}be defeated.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Tiamat\0{F87A,0}{F813,1,419001}Would you be {F843,0}, by any{F801}chance?{F801}{F802}I thought so...{F801}{F802}The Ashura-kai, the group that set{F801}up this project, were pretty wary{F801}about having you participate.{F801}{F802}Hahaha... Things have certainly{F801}gotten interesting.{F801}</source>
+    <target>{F812}Tiamat\0{F87A,0}{F813,1,419001}Would you be {F843,0}, by any{F801}chance?{F801}{F802}I thought so...{F801}{F802}The Ashura-kai, the group that set{F801}up this project, were pretty wary{F801}about having you participate.{F801}{F802}Hahaha... Things have certainly{F801}gotten interesting.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Tiamat\0{F87A,0}{F813,1,419001}Would you be {F843,0}, by any{F801}chance?{F801}{F802}I thought so...{F801}{F802}The Ashura-kai, the group that set{F801}up this project, were pretty wary{F801}about having you participate.{F801}{F802}I hear you played a large part in{F801}why the Ashura-kai fell apart.{F801}{F802}No wonder...{F801}{F802}Even after the fall of the{F801}Ashura-kai, humans still thirst for{F801}entertainment...{F801}{F802}And I'm still here because my contract{F801}stipulates that I must be on this{F801}show.{F801}{F802}Sorry if I'm boring you with my{F801}talking. I'll be on my way now.{F801}</source>
+    <target>{F812}Tiamat\0{F87A,0}{F813,1,419001}Would you be {F843,0}, by any{F801}chance?{F801}{F802}I thought so...{F801}{F802}The Ashura-kai, the group that set{F801}up this project, were pretty wary{F801}about having you participate.{F801}{F802}I hear you played a large part in{F801}why the Ashura-kai fell apart.{F801}{F802}No wonder...{F801}{F802}Even after the fall of the{F801}Ashura-kai, humans still thirst for{F801}entertainment...{F801}{F802}And I'm still here because my contract{F801}stipulates that I must be on this{F801}show.{F801}{F802}Sorry if I'm boring you with my{F801}talking. I'll be on my way now.{F801}</target>
+  </entry>
+</mbm>

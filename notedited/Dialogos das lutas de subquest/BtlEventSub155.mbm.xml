@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Announcer\0{F87A,138}{F813,1,406002}A Hunter and a demon have crossed{F801}paths right here in Golden Gai.{F801}{F802}The White Team's gifted Hunter is{F801}up against a demon from the Red Team!{F801}{F802}Her sorrow's as sweet as the fruit{F801}that doomed her. The unwilling{F801}queen of the underworld, Persephone!{F801}</source>
+    <target>{F812}Announcer\0{F87A,138}{F813,1,406002}A Hunter and a demon have crossed{F801}paths right here in Golden Gai.{F801}{F802}The White Team's gifted Hunter is{F801}up against a demon from the Red Team!{F801}{F802}Her sorrow's as sweet as the fruit{F801}that doomed her. The unwilling{F801}queen of the underworld, Persephone!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Persephone\0{F87A,0}{F813,1,417106}I may not look it, but I'm no{F801}stranger to this sort of thing.{F801}{F802}Actually, I'm not a big fan of all{F801}this business with murdering people{F801}and so forth...{F801}{F802}But, work is work, and it gets me{F801}on television. Let's get this over{F801}with.{F801}{F802}</source>
+    <target>{F812}Persephone\0{F87A,0}{F813,1,417106}I may not look it, but I'm no{F801}stranger to this sort of thing.{F801}{F802}Actually, I'm not a big fan of all{F801}this business with murdering people{F801}and so forth...{F801}{F802}But, work is work, and it gets me{F801}on television. Let's get this over{F801}with.{F801}{F802}</target>
+  </entry>
+</mbm>

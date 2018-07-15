@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Announcer\0{F87A,138}{F813,1,406002}The camera in Shinjuku Nicho has{F801}found us another confrontation{F801}between a Hunter and a demon.{F801}{F802}Which of the demons from the Red{F801}Team is the White Team's prized{F801}Hunter up against now...?{F801}{F802}Her abilities are still unknown,{F801}but she's taken the popularity{F801}charts by storm!{F801}{F802}She's the rarest of all things in the{F801}Expanse: a pure and innocent girl.{F801}Silky is taking the stage!{F801}</source>
+    <target>{F812}Announcer\0{F87A,138}{F813,1,406002}The camera in Shinjuku Nicho has{F801}found us another confrontation{F801}between a Hunter and a demon.{F801}{F802}Which of the demons from the Red{F801}Team is the White Team's prized{F801}Hunter up against now...?{F801}{F802}Her abilities are still unknown,{F801}but she's taken the popularity{F801}charts by storm!{F801}{F802}She's the rarest of all things in the{F801}Expanse: a pure and innocent girl.{F801}Silky is taking the stage!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Silky\0{F87A,0}{F813,1,493008}Oh! This is my first time on{F801}"RedxWhite Punchdown Smacktacular!"{F801}{F802}I'll do my best to slaughter my{F801}opponent. Gee ell aitch eff,{F801}everybody!{F801}{F802}</source>
+    <target>{F812}Silky\0{F87A,0}{F813,1,493008}Oh! This is my first time on{F801}"RedxWhite Punchdown Smacktacular!"{F801}{F802}I'll do my best to slaughter my{F801}opponent. Gee ell aitch eff,{F801}everybody!{F801}{F802}</target>
+  </entry>
+</mbm>

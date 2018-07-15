@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Master Therion\0{F87A,0}{F813,1,413204}You shall soon learn why others fear{F801}me and tremble at the very mention{F801}of "the Beast."{F801}</source>
+    <target>{F812}Master Therion\0{F87A,0}{F813,1,413204}You shall soon learn why others fear{F801}me and tremble at the very mention{F801}of "the Beast."{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Master Therion\0{F87A,0}{F813,1,413206}Gah... To think that I would be{F801}defeated now, and here...{F801}{F802}You have sought to defeat me, and{F801}you have succeeded...{F801}{F802}Quite impressive.{F801}</source>
+    <target>{F812}Master Therion\0{F87A,0}{F813,1,413206}Gah... To think that I would be{F801}defeated now, and here...{F801}{F802}You have sought to defeat me, and{F801}you have succeeded...{F801}{F802}Quite impressive.{F801}</target>
+  </entry>
+</mbm>

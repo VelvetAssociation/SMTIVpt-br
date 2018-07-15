@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}David\0{F87A,0}{F813,1,421000}I did not expect you to so easily{F801}eliminate those who danced to my tune...{F801}{F802}However, the fear of death will appear{F801}to humans time and again, shifting its{F801}form every time...{F801}{F802}Yes... just as I stand before you now!{F801}</source>
+    <target>{F812}David\0{F87A,0}{F813,1,421000}I did not expect you to so easily{F801}eliminate those who danced to my tune...{F801}{F802}However, the fear of death will appear{F801}to humans time and again, shifting its{F801}form every time...{F801}{F802}Yes... just as I stand before you now!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}David\0{F87A,0}{F813,1,421004}Hmm... you have done well to evade{F801}my curse.{F801}{F802}However, it is not so easy to overcome{F801}the fear of death.{F801}{F802}I believe I will appear before you in{F801}another form eventually. Farewell,{F801}until we meet again...{F801}</source>
+    <target>{F812}David\0{F87A,0}{F813,1,421004}Hmm... you have done well to evade{F801}my curse.{F801}{F802}However, it is not so easy to overcome{F801}the fear of death.{F801}{F802}I believe I will appear before you in{F801}another form eventually. Farewell,{F801}until we meet again...{F801}</target>
+  </entry>
+</mbm>

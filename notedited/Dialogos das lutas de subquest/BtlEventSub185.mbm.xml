@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Baal\0{F87A,0}{F813,0,351101}Hahaha... You're quite a formidable{F801}opponent.{F801}{F802}{F813,0,351102}You would make a suitable offering to{F801}me, the king of gods.{F801}{F802}{F813,0,351103}You, too, shall become part of me,{F801}just as these ones have.{F801}</source>
+    <target>{F812}Baal\0{F87A,0}{F813,0,351101}Hahaha... You're quite a formidable{F801}opponent.{F801}{F802}{F813,0,351102}You would make a suitable offering to{F801}me, the king of gods.{F801}{F802}{F813,0,351103}You, too, shall become part of me,{F801}just as these ones have.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Baal\0{F87A,0}{F813,0,351104}How could this be...? I underestimated{F801}you... human...{F801}{F802}{F813,0,351105}At this rate... My body will start to{F801}decay...{F801}{F802}{F813,0,351106}I must return... to that body...{F801}</source>
+    <target>{F812}Baal\0{F87A,0}{F813,0,351104}How could this be...? I underestimated{F801}you... human...{F801}{F802}{F813,0,351105}At this rate... My body will start to{F801}decay...{F801}{F802}{F813,0,351106}I must return... to that body...{F801}</target>
+  </entry>
+</mbm>
