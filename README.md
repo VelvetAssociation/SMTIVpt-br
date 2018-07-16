@@ -17,6 +17,8 @@ Nico
 
 Bajie
 
+Diamantino
+
 
 Tradutores: A pasta "notedited" possui as pastas com textos ainda não traduzidos. Se escolher algum para traduzir, você pode: Editar o arquivo diretamente de onde ele está, ou, copiar todo o conteudo do arquivo para um arquivo do bloco de notas com o nome do arquivo original e com a extensão .xml. Depois, exclua o arquivo original daqui do GitHub.
             A pasta "edited" possui as pastas com textos já traduzidos. Quando acabar a tradução de algum arquivo, coloque-o na subpasta correspondente a de onde ele foi retirado.
