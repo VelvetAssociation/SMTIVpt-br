@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}K\0{F87A,22}{F813,0,252001}Hoy there, {F843,0}...{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,252001}Hoy there, {F843,0}...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}K\0{F87A,22}{F813,0,252002}Ah, but please excuse me. You're a{F801}blessed warrior of light now.{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,252002}Ah, but please excuse me. You're a{F801}blessed warrior of light now.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}K\0{F87A,22}{F813,0,252003}I'm glad to see someone younger than{F801}me move up in the world, but I feel{F801}distance from you now...{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,252003}I'm glad to see someone younger than{F801}me move up in the world, but I feel{F801}distance from you now...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}K\0{F87A,22}{F813,0,252004}Whoa, it's {F843,0}... You should've{F801}come around sooner if you were alive!{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,252004}Whoa, it's {F843,0}... You should've{F801}come around sooner if you were alive!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}K\0{F87A,22}{F813,0,252005}Isabeau was just here, saying that the{F801}Eastern Kingdom of Mikado was going to{F801}be no more.{F801}{F802}{F813,0,252006}She seemed very flustered, insisting{F801}that we needed to hurry and pack for{F801}a trip to Tokyo.{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,252005}Isabeau was just here, saying that the{F801}Eastern Kingdom of Mikado was going to{F801}be no more.{F801}{F802}{F813,0,252006}She seemed very flustered, insisting{F801}that we needed to hurry and pack for{F801}a trip to Tokyo.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}K\0{F87A,22}{F813,0,252008}...Well, no matter. It's been some{F801}time since we last saw your face here,{F801}so make yourself at home.{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,252008}...Well, no matter. It's been some{F801}time since we last saw your face here,{F801}so make yourself at home.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 K hailed {F843,0} while crushing{F801}some ice.{F801}</source>
+    <target>〉 K hailed {F843,0} while crushing{F801}some ice.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}K\0{F87A,22}{F813,0,252007}But come, you know we've never been{F801}to Tokyo before. What are we meant to{F801}wear when we go?{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,252007}But come, you know we've never been{F801}to Tokyo before. What are we meant to{F801}wear when we go?{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Girl's voice\0{F87B,5,1,1,3}{F813,0,267001}Wake up...{F801}{F802}{F813,0,267002}Please, why won't you wake up...?{F801}</source>
+    <target>{F812}Girl's voice\0{F87B,5,1,1,3}{F813,0,267001}Wake up...{F801}{F802}{F813,0,267002}Please, why won't you wake up...?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,267003}Ah, thank goodness. I have been{F801}searching far and wide for you.{F801}Where have you been?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,267003}Ah, thank goodness. I have been{F801}searching far and wide for you.{F801}Where have you been?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,267007}Didn't you go together with Jonathan{F801}to slay Lilith?{F801}{F802}{F813,0,267008}Alas, Jonathan and Walter... I don't{F801}know where either of them have gone...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,267007}Didn't you go together with Jonathan{F801}to slay Lilith?{F801}{F802}{F813,0,267008}Alas, Jonathan and Walter... I don't{F801}know where either of them have gone...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,267009}Didn't you go together with Walter{F801}to see Lilith?{F801}{F802}{F813,0,267010}Alas, Walter and Jonathan... I don't{F801}know where either of them have gone...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,267009}Didn't you go together with Walter{F801}to see Lilith?{F801}{F802}{F813,0,267010}Alas, Walter and Jonathan... I don't{F801}know where either of them have gone...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,267011}Tokyo is now facing a terrible{F801}situation.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,267011}Tokyo is now facing a terrible{F801}situation.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,267012}With the gate to the Expanse open,{F801}demons are swarming in. Everything is{F801}in chaos.{F801}{F802}{F813,0,267013}What's more, an army of angels has{F801}established a front at Naraku to{F801}annihilate the demons along with Tokyo.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,267012}With the gate to the Expanse open,{F801}demons are swarming in. Everything is{F801}in chaos.{F801}{F802}{F813,0,267013}What's more, an army of angels has{F801}established a front at Naraku to{F801}annihilate the demons along with Tokyo.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,267014}Open war is about to erupt between{F801}the angels and demons...{F801}{F802}{F813,0,267015}Who knows what will become of the{F801}Eastern Kingdom of Mikado and Tokyo{F801}in that event...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,267014}Open war is about to erupt between{F801}the angels and demons...{F801}{F802}{F813,0,267015}Who knows what will become of the{F801}Eastern Kingdom of Mikado and Tokyo{F801}in that event...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,267018}But I'm glad I found you, {F843,0}.{F801}I simply don't know what to do...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,267018}But I'm glad I found you, {F843,0}.{F801}I simply don't know what to do...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 You decide to go along with Isabeau.{F801}</source>
+    <target>〉 You decide to go along with Isabeau.{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,267004}Hm...? The White? Stephen?{F801}{F802}{F813,0,267005}I met no one by those names.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,267004}Hm...? The White? Stephen?{F801}{F802}{F813,0,267005}I met no one by those names.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,267016}The Monastery is defunct now. I have{F801}heard that Tayama is dead, and there{F801}is no knowing where Yuriko has got to.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,267016}The Monastery is defunct now. I have{F801}heard that Tayama is dead, and there{F801}is no knowing where Yuriko has got to.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,267019}Won't you permit me to stay with you?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,267019}Won't you permit me to stay with you?{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,267006}By the by, {F843,0}, are you alone?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,267006}By the by, {F843,0}, are you alone?{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,5,1,1}{F813,0,267017}I don't know who else I can turn to...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,5,1,1}{F813,0,267017}I don't know who else I can turn to...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>承の章でどちらのúートを通ったか{F801}</source>
+    <target>承の章でどちらのúートを通ったか{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>LAWúート{F801}CHAOSúート{F801}</source>
+    <target>LAWúート{F801}CHAOSúート{F801}</target>
+  </entry>
+</mbm>

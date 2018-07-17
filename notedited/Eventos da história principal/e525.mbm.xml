@@ -1,0 +1,102 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400005}Oh... Master {F843,0}, the Yamato's{F801}remote control is here on the floor.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400005}Oh... Master {F843,0}, the Yamato's{F801}remote control is here on the floor.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Press the button{F801}Leave{F801}</source>
+    <target>Press the button{F801}Leave{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 {F843,0} placed his finger on the{F801}button...{F801}</source>
+    <target>〉 {F843,0} placed his finger on the{F801}button...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}Sorry, Master {F843,0}, but let me{F801}make sure of something...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}Sorry, Master {F843,0}, but let me{F801}make sure of something...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}Which are you going to: the Tokyo{F801}below the ceiling or the Tokyo{F801}engulfed in flames?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Which are you going to: the Tokyo{F801}below the ceiling or the Tokyo{F801}engulfed in flames?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>"The below-ceiling Tokyo."{F801}"The infernal Tokyo."{F801}"Neither, I think."{F801}</source>
+    <target>"The below-ceiling Tokyo."{F801}"The infernal Tokyo."{F801}"Neither, I think."{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 {F843,0} pressed the button with{F801}the Tokyo below the ceiling in mind...{F801}</source>
+    <target>〉 {F843,0} pressed the button with{F801}the Tokyo below the ceiling in mind...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 {F843,0} pressed the button{F801}with the infernal Tokyo in mind...{F801}</source>
+    <target>〉 {F843,0} pressed the button{F801}with the infernal Tokyo in mind...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}OK. I think that's a perfectly valid{F801}choice too.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}OK. I think that's a perfectly valid{F801}choice too.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 The Yamato Perpetual Reactor is{F801}here before you...{F801}</source>
+    <target>〉 The Yamato Perpetual Reactor is{F801}here before you...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The remote control is on the ground.{F801}</source>
+    <target>〉 The remote control is on the ground.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>Press the button{F801}Talk to Akira{F801}Leave{F801}</source>
+    <target>Press the button{F801}Talk to Akira{F801}Leave{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}King Akira\0{F87A,85}......{F801}</source>
+    <target>{F812}King Akira\0{F87A,85}......{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 Akira seems distracted.{F801}</source>
+    <target>〉 Akira seems distracted.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>Talk to him again{F801}Walk away{F801}</source>
+    <target>Talk to him again{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Tokyo King Akira\0{F87A,85}{F813,1,401701}...Oh, it's you, Boss. Sorry, I was...{F801}just doing some thinking.{F801}{F802}I finally realized something after I{F801}became the King of Tokyo. When it comes{F801}to who I should be looking out for...{F801}{F802}I need to put everyone else first,{F801}right? I mean, I'm the King of Tokyo,{F801}after all.{F801}{F802}Having to worry about more than{F801}yourself is harder than a punch to{F801}the gut...{F801}{F802}To be honest, I already want to ditch{F801}it all, but I already told my sis{F801}about it... so I gotta stand firm.{F801}</source>
+    <target>{F812}Tokyo King Akira\0{F87A,85}{F813,1,401701}...Oh, it's you, Boss. Sorry, I was...{F801}just doing some thinking.{F801}{F802}I finally realized something after I{F801}became the King of Tokyo. When it comes{F801}to who I should be looking out for...{F801}{F802}I need to put everyone else first,{F801}right? I mean, I'm the King of Tokyo,{F801}after all.{F801}{F802}Having to worry about more than{F801}yourself is harder than a punch to{F801}the gut...{F801}{F802}To be honest, I already want to ditch{F801}it all, but I already told my sis{F801}about it... so I gotta stand firm.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Burroughs\0{F87A,2}Which are you going to, the Tokyo{F801}below the ceiling or the Tokyo{F801}covered in desert?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Which are you going to, the Tokyo{F801}below the ceiling or the Tokyo{F801}covered in desert?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>"The Tokyo below the ceiling."{F801}"The Tokyo covered in desert."{F801}"Neither, I think."{F801}</source>
+    <target>"The Tokyo below the ceiling."{F801}"The Tokyo covered in desert."{F801}"Neither, I think."{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 {F843,0} pressed the button with{F801}the blasted Tokyo in mind...{F801}</source>
+    <target>〉 {F843,0} pressed the button with{F801}the blasted Tokyo in mind...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 The door is locked...{F801}</source>
+    <target>〉 The door is locked...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400004}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400004}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>Use the Chipped Key{F801}Leave{F801}</source>
+    <target>Use the Chipped Key{F801}Leave{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 {F843,0} used the Chipped Key.{F801}</source>
+    <target>〉 {F843,0} used the Chipped Key.{F801}</target>
+  </entry>
+</mbm>

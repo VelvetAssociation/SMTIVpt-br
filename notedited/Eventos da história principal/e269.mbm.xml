@@ -1,0 +1,174 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,7,1,1}{F87B,19,7,1,1}{F813,0,269001}Huh? You're still in Tokyo?{F801}{F802}{F813,0,269002}I've heard the situation in your home{F801}country is pretty serious too.{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,7,1,1}{F87B,19,7,1,1}{F813,0,269001}Huh? You're still in Tokyo?{F801}{F802}{F813,0,269002}I've heard the situation in your home{F801}country is pretty serious too.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,269003}Yes... We are not certain what can{F801}be done...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,269003}Yes... We are not certain what can{F801}be done...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F87B,18,3,1,1}{F813,0,269004}Sounds like we're both at a loss.{F801}{F802}{F813,0,269005}The Demon Lord Lucifer's been{F801}resurrected in Tokyo. It's looking{F801}more and more like doomsday is here...{F801}{F802}{F813,0,269006}And I don't think there's anything we{F801}humans can do about it this time.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F87B,18,3,1,1}{F813,0,269004}Sounds like we're both at a loss.{F801}{F802}{F813,0,269005}The Demon Lord Lucifer's been{F801}resurrected in Tokyo. It's looking{F801}more and more like doomsday is here...{F801}{F802}{F813,0,269006}And I don't think there's anything we{F801}humans can do about it this time.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,269007}In that case, why not turn to a god?{F801}{F802}{F813,0,269008}And by that I mean the guardian deity{F801}of Tokyo which the Doctor mentioned.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,269007}In that case, why not turn to a god?{F801}{F802}{F813,0,269008}And by that I mean the guardian deity{F801}of Tokyo which the Doctor mentioned.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269009}...Did you just say the guardian deity{F801}of Tokyo?{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269009}...Did you just say the guardian deity{F801}of Tokyo?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269010}Hey... You know who she means?{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269010}Hey... You know who she means?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"I do."{F801}"I don't."{F801}</source>
+    <target>"I do."{F801}"I don't."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269011}Then tell me his name.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269011}Then tell me his name.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269012}...I must have been overthinking it.{F801}Never mind, forget what I said.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269012}...I must have been overthinking it.{F801}Never mind, forget what I said.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F87B,18,3,1,1}{F813,0,269013}What...? So you do know about the{F801}guardian deity of Tokyo?{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F87B,18,3,1,1}{F813,0,269013}What...? So you do know about the{F801}guardian deity of Tokyo?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269012}...I must have been overthinking it.{F801}Never mind, forget what I said.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269012}...I must have been overthinking it.{F801}Never mind, forget what I said.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,7,1,1}{F813,0,269014}Hold on... are you...!?{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,7,1,1}{F813,0,269014}Hold on... are you...!?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,2}{F813,0,269015}Hold this katana...!{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,2}{F813,0,269015}Hold this katana...!{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 Skins thrust the old katana he{F801}always carries with him out to you.{F801}</source>
+    <target>〉 Skins thrust the old katana he{F801}always carries with him out to you.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Skins\0{F87A,19}{F813,0,269016}Just hold it!{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F813,0,269016}Just hold it!{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 {F843,0} was forced to hold the{F801}old katana...{F801}</source>
+    <target>〉 {F843,0} was forced to hold the{F801}old katana...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 The old katana silently slipped from{F801}its sheath.{F801}</source>
+    <target>〉 The old katana silently slipped from{F801}its sheath.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,4,1,2}{F813,0,269017}Fujiwara...{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,4,1,2}{F813,0,269017}Fujiwara...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,4,1,1}{F813,0,269018}The day's finally come.{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,4,1,1}{F813,0,269018}The day's finally come.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269024}That... Er... That is another deity{F801}entirely, I think.{F801}{F802}{F813,0,269025}...I must have been overthinking it.{F801}Never mind, forget what I said.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269024}That... Er... That is another deity{F801}entirely, I think.{F801}{F802}{F813,0,269025}...I must have been overthinking it.{F801}Never mind, forget what I said.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,269026}Umm, what was it...? It's on the tip{F801}of my tongue.{F801}{F802}{F813,0,269027}Ma-something...{F801}{F802}{F813,0,269028}...Oh, it's no use. The data records{F801}were corrupted by our trip through{F801}hyperspace.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,269026}Umm, what was it...? It's on the tip{F801}of my tongue.{F801}{F802}{F813,0,269027}Ma-something...{F801}{F802}{F813,0,269028}...Oh, it's no use. The data records{F801}were corrupted by our trip through{F801}hyperspace.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Skins\0{F87A,19}{F813,0,269019}...I must have been overthinking it.{F801}Never mind, forget what I said.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F813,0,269019}...I must have been overthinking it.{F801}Never mind, forget what I said.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,269020}Umm, what was it...? It's on the tip{F801}of my tongue.{F801}{F802}{F813,0,269021}Ma-something...{F801}{F802}{F813,0,269022}Ma...vakado?{F801}{F802}{F813,0,269023}...Oh, it's no use. The data records{F801}were corrupted by our trip through{F801}hyperspace.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,269020}Umm, what was it...? It's on the tip{F801}of my tongue.{F801}{F802}{F813,0,269021}Ma-something...{F801}{F802}{F813,0,269022}Ma...vakado?{F801}{F802}{F813,0,269023}...Oh, it's no use. The data records{F801}were corrupted by our trip through{F801}hyperspace.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,2}{F87B,18,3,1,1}{F813,0,269029}Indulge me in a little story of the{F801}old days...{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,2}{F87B,18,3,1,1}{F813,0,269029}Indulge me in a little story of the{F801}old days...{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,2}{F813,0,269030}I used to belong to the Counter-Demon{F801}Force.{F801}{F802}{F813,0,269031}Back then, I slayed Masakado together{F801}with... well, a certain young man.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,2}{F813,0,269030}I used to belong to the Counter-Demon{F801}Force.{F801}{F802}{F813,0,269031}Back then, I slayed Masakado together{F801}with... well, a certain young man.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269032}This sword is Masakado's Katana. It's{F801}the medium that controls Masakado.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269032}This sword is Masakado's Katana. It's{F801}the medium that controls Masakado.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269033}Together with Masakado, the young man{F801}became the ceiling over Tokyo...{F801}{F802}{F813,0,269034}It saved this city from the missiles.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269033}Together with Masakado, the young man{F801}became the ceiling over Tokyo...{F801}{F802}{F813,0,269034}It saved this city from the missiles.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269035}I ended up inheriting this katana...{F801}{F802}{F813,0,269036}But no one since then has been able to{F801}pull it from its sheath. Not even me.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,269035}I ended up inheriting this katana...{F801}{F802}{F813,0,269036}But no one since then has been able to{F801}pull it from its sheath. Not even me.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,3,1,1}{F813,0,269037}We decided to bide our time until we{F801}were ready to act... by forming what{F801}you know as the Hunter's Association.{F801}{F802}{F813,0,269038}For the day when someone else showed{F801}up who could unsheathe that katana{F801}and save us once again...{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,3,1,1}{F813,0,269037}We decided to bide our time until we{F801}were ready to act... by forming what{F801}you know as the Hunter's Association.{F801}{F802}{F813,0,269038}For the day when someone else showed{F801}up who could unsheathe that katana{F801}and save us once again...{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,1,1,2}{F813,0,269039}You should have this.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,1,1,2}{F813,0,269039}You should have this.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>〉 {F843,0} received Masakado's Katana{F801}from Skins.{F801}</source>
+    <target>〉 {F843,0} received Masakado's Katana{F801}from Skins.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,2}{F813,0,269040}Masakado is a patriotic warrior who{F801}was known as a fearsome National{F801}Defense Divinity.{F801}{F802}{F813,0,269041}If someone deemed worthy of watching{F801}over Tokyo was to call to him, I'm{F801}sure he'd answer.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,2}{F813,0,269040}Masakado is a patriotic warrior who{F801}was known as a fearsome National{F801}Defense Divinity.{F801}{F802}{F813,0,269041}If someone deemed worthy of watching{F801}over Tokyo was to call to him, I'm{F801}sure he'd answer.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F813,0,269042}Even a human might be able to stop the{F801}war between angels and demons if they{F801}had Masakado's power on their side...{F801}{F802}{F87B,18,4,1,1}{F813,0,269043}Us old folks can finally let go now.{F801}We'll leave the rest to you kids.{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F813,0,269042}Even a human might be able to stop the{F801}war between angels and demons if they{F801}had Masakado's power on their side...{F801}{F802}{F87B,18,4,1,1}{F813,0,269043}Us old folks can finally let go now.{F801}We'll leave the rest to you kids.{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,269044}Gracious, {F843,0}... It seems you've{F801}been chosen to represent humanity.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,269044}Gracious, {F843,0}... It seems you've{F801}been chosen to represent humanity.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,2}{F813,0,269045}Go to the giant boulder in Ginza and{F801}pull out that katana there.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,2}{F813,0,269045}Go to the giant boulder in Ginza and{F801}pull out that katana there.{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,4,1,2}{F813,0,269046}You'll understand what this is about{F801}when you do...{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,4,1,2}{F813,0,269046}You'll understand what this is about{F801}when you do...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>〉 Skins' grip on the katana tightened.{F801}</source>
+    <target>〉 Skins' grip on the katana tightened.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,278013}Hmm. I know I'm the one who got us on{F801}the subject, but what was his name...?{F801}{F802}I kind of remember what it looked like{F801}written down. It was eight letters,{F801}I think...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,278013}Hmm. I know I'm the one who got us on{F801}the subject, but what was his name...?{F801}{F802}I kind of remember what it looked like{F801}written down. It was eight letters,{F801}I think...{F801}</target>
+  </entry>
+  <entry id="137">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>ここでネームÉñトíー{F801}『マサカド』と入力すると{F801}Íäñトが先へ進みます{F801}それ以外は再びこのÍäñトが発生{F801}</source>
+    <target>ここでネームÉñトíー{F801}『マサカド』と入力すると{F801}Íäñトが先へ進みます{F801}それ以外は再びこのÍäñトが発生{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>どう答えますか?{F801}</source>
+    <target>どう答えますか?{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>マサカド{F801}間違った回答{F801}</source>
+    <target>マサカド{F801}間違った回答{F801}</target>
+  </entry>
+  <entry id="903">
+    <source>{F843,0}は『マサカド』と答えた(仮){F801}</source>
+    <target>{F843,0}は『マサカド』と答えた(仮){F801}</target>
+  </entry>
+</mbm>

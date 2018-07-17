@@ -1,0 +1,338 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Bartender\0{F87A,24}{F813,0,271001}Aha, perfect timing. We were just{F801}updating the bulletin board.{F801}{F802}{F813,0,271002}You're the clear first-place rank{F801}overall.{F801}</source>
+    <target>{F812}Bartender\0{F87A,24}{F813,0,271001}Aha, perfect timing. We were just{F801}updating the bulletin board.{F801}{F802}{F813,0,271002}You're the clear first-place rank{F801}overall.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,271003}Meaning...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,271003}Meaning...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Bartender\0{F87A,24}{F813,0,271004}{F843,0}'s our first champion!{F801}</source>
+    <target>{F812}Bartender\0{F87A,24}{F813,0,271004}{F843,0}'s our first champion!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Bartender\0{F87A,24}{F813,0,271008}Word about the champion will spread{F801}all across Tokyo.{F801}{F802}{F813,0,271009}You better be careful walking around{F801}now. You might find yourself mobbed{F801}by adoring fans.{F801}</source>
+    <target>{F812}Bartender\0{F87A,24}{F813,0,271008}Word about the champion will spread{F801}all across Tokyo.{F801}{F802}{F813,0,271009}You better be careful walking around{F801}now. You might find yourself mobbed{F801}by adoring fans.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Blue-lipped man\0{F87A,60}{F813,0,271010}...Hm?{F801}{F802}{F813,0,271011}Aren't you...?{F801}</source>
+    <target>{F812}Blue-lipped man\0{F87A,60}{F813,0,271010}...Hm?{F801}{F802}{F813,0,271011}Aren't you...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 A blue-lipped man is staring up and{F801}down at {F843,0}...{F801}</source>
+    <target>〉 A blue-lipped man is staring up and{F801}down at {F843,0}...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Blue-lipped man\0{F87A,60}{F813,0,271012}I knew it! You're him! {F843,0},{F801}right?{F801}{F802}{F813,0,271013}My friend said he saw you at the{F801}Hunter's Association. That's how{F801}I knew.{F801}</source>
+    <target>{F812}Blue-lipped man\0{F87A,60}{F813,0,271012}I knew it! You're him! {F843,0},{F801}right?{F801}{F802}{F813,0,271013}My friend said he saw you at the{F801}Hunter's Association. That's how{F801}I knew.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Blue-lipped man\0{F87A,60}{F813,0,271014}Man... you're a lot younger than I{F801}imagined you.{F801}</source>
+    <target>{F812}Blue-lipped man\0{F87A,60}{F813,0,271014}Man... you're a lot younger than I{F801}imagined you.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Woman's voice\0{F813,0,271015}What'd you say? {F843,0}'s here?{F801}Ooh, where is he?{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,271015}What'd you say? {F843,0}'s here?{F801}Ooh, where is he?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Man's voice\0{F813,0,271016}{F843,0}'s here in Ueno...?{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,271016}{F843,0}'s here in Ueno...?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The people in the underground district,{F801}hearing the rumors of {F843,0},{F801}begin to gather.{F801}</source>
+    <target>〉 The people in the underground district,{F801}hearing the rumors of {F843,0},{F801}begin to gather.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,1}{F813,0,271017}It seems you're quite popular, {F843,0}.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,1}{F813,0,271017}It seems you're quite popular, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Man's voice\0{F813,0,271018}Yeah! You go, bro! Tokyo'll be safe{F801}and sound as long as you're here!{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,271018}Yeah! You go, bro! Tokyo'll be safe{F801}and sound as long as you're here!{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Woman's voice\0{F813,0,271019}Ah... just seeing him here gives me{F801}hope.{F801}{F802}{F813,0,271020}You're what gives us the strength to{F801}carry on.{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,271019}Ah... just seeing him here gives me{F801}hope.{F801}{F802}{F813,0,271020}You're what gives us the strength to{F801}carry on.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>Éáーです{F801}</source>
+    <target>Éáーです{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 The light within the chalice now fills{F801}it roughly halfway to the brim...{F801}</source>
+    <target>〉 The light within the chalice now fills{F801}it roughly halfway to the brim...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 The light within the chalice has almost{F801}reached the cup's brim...{F801}</source>
+    <target>〉 The light within the chalice has almost{F801}reached the cup's brim...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Broken-toothed man\0{F87A,46}{F813,0,271021}The hell are ya lookin' at?{F801}{F802}{F813,0,271022}The Ashura-kai may be toast, but I{F801}ain't gonna let a kid like you mess{F801}with...{F801}{F802}{F813,0,271023}Huh?{F801}</source>
+    <target>{F812}Broken-toothed man\0{F87A,46}{F813,0,271021}The hell are ya lookin' at?{F801}{F802}{F813,0,271022}The Ashura-kai may be toast, but I{F801}ain't gonna let a kid like you mess{F801}with...{F801}{F802}{F813,0,271023}Huh?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 The broken-toothed man is staring up{F801}and down at {F843,0}...{F801}</source>
+    <target>〉 The broken-toothed man is staring up{F801}and down at {F843,0}...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Broken-toothed man\0{F87A,46}{F813,0,271024}A-Are you shittin' me...? You're not{F801}{F843,0}, are ya?{F801}{F802}{F813,0,271025}Son of a gun! It is you! My girl's{F801}a big fan of yours!{F801}</source>
+    <target>{F812}Broken-toothed man\0{F87A,46}{F813,0,271024}A-Are you shittin' me...? You're not{F801}{F843,0}, are ya?{F801}{F802}{F813,0,271025}Son of a gun! It is you! My girl's{F801}a big fan of yours!{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Broken-toothed man\0{F87A,46}{F813,0,271026}Hey, guys, come quick! {F843,0}'s{F801}here!{F801}</source>
+    <target>{F812}Broken-toothed man\0{F87A,46}{F813,0,271026}Hey, guys, come quick! {F843,0}'s{F801}here!{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Man's voice\0{F813,0,271027}No way! {F843,0}...?{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,271027}No way! {F843,0}...?{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Woman's voice\0{F813,0,271028}{F843,0}'s here in Shinjuku...?{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,271028}{F843,0}'s here in Shinjuku...?{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 The people in the underground district,{F801}hearing the rumors of {F843,0},{F801}begin to gather.{F801}</source>
+    <target>〉 The people in the underground district,{F801}hearing the rumors of {F843,0},{F801}begin to gather.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,1}{F813,0,271029}You're attracting a great deal of{F801}attention...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,1}{F813,0,271029}You're attracting a great deal of{F801}attention...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Woman's voice\0{F813,0,271030}He's the one, right? The guy who's{F801}been beating up the demons.{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,271030}He's the one, right? The guy who's{F801}been beating up the demons.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Man's voice\0{F813,0,271031}I check the bulletin board all the time!{F801}{F802}{F813,0,271032}Just seeing how much you're gettin'{F801}done gives me hope. Makes me wanna{F801}try harder.{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,271031}I check the bulletin board all the time!{F801}{F802}{F813,0,271032}Just seeing how much you're gettin'{F801}done gives me hope. Makes me wanna{F801}try harder.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>Éáーです{F801}</source>
+    <target>Éáーです{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>〉 The light within the chalice now fills{F801}it roughly halfway to the brim...{F801}</source>
+    <target>〉 The light within the chalice now fills{F801}it roughly halfway to the brim...{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>〉 The light within the chalice has almost{F801}reached the cup's brim...{F801}</source>
+    <target>〉 The light within the chalice has almost{F801}reached the cup's brim...{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Long-eyelashed girl\0{F87A,123}{F813,0,271033}Hey... isn't that... you know?{F801}I bet you it is.{F801}</source>
+    <target>{F812}Long-eyelashed girl\0{F87A,123}{F813,0,271033}Hey... isn't that... you know?{F801}I bet you it is.{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Sparkling-nailed girl\0{F87A,122}{F813,0,271034}Like that would ever happen...{F801}</source>
+    <target>{F812}Sparkling-nailed girl\0{F87A,122}{F813,0,271034}Like that would ever happen...{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>〉 The two girls are looking at{F801}{F843,0} with furrowed brows.{F801}</source>
+    <target>〉 The two girls are looking at{F801}{F843,0} with furrowed brows.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>欠番です{F801}</source>
+    <target>欠番です{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Sparkling-nailed woman\0{F87A,122}欠番です{F801}</source>
+    <target>{F812}Sparkling-nailed woman\0{F87A,122}欠番です{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Long-eyelashed woman\0{F87A,123}欠番です{F801}</source>
+    <target>{F812}Long-eyelashed woman\0{F87A,123}欠番です{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>欠番です{F801}</source>
+    <target>欠番です{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Long-eyelashed woman\0{F87A,123}欠番です{F801}</source>
+    <target>{F812}Long-eyelashed woman\0{F87A,123}欠番です{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Sparkling-nailed girl\0{F87A,122}{F813,0,271035}...Holy damn, it's seriously {F843,0}.{F801}What a babe!{F801}</source>
+    <target>{F812}Sparkling-nailed girl\0{F87A,122}{F813,0,271035}...Holy damn, it's seriously {F843,0}.{F801}What a babe!{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Woman's voice\0{F813,0,271036}{F843,0}? He's here in Shibuya?{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,271036}{F843,0}? He's here in Shibuya?{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Man's voice\0{F813,0,271037}Whoa, it's really {F843,0}.{F801}He's even got a girl with him!{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,271037}Whoa, it's really {F843,0}.{F801}He's even got a girl with him!{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>〉 The people in the underground district,{F801}hearing the rumors of {F843,0},{F801}begin to gather.{F801}</source>
+    <target>〉 The people in the underground district,{F801}hearing the rumors of {F843,0},{F801}begin to gather.{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,1}{F813,0,271038}The excitement here is becoming{F801}palpable...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,1}{F813,0,271038}The excitement here is becoming{F801}palpable...{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>{F812}Man's voice\0{F813,0,271039}There's way too many demons around{F801}these days. Go kill 'em, {F843,0}!{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,271039}There's way too many demons around{F801}these days. Go kill 'em, {F843,0}!{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>{F812}Woman's voice\0{F813,0,271040}If we stay alive, we might even{F801}land ourselves a babe like him.{F801}{F802}{F813,0,271041}I'm starting to get my hopes up...!{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,271040}If we stay alive, we might even{F801}land ourselves a babe like him.{F801}{F802}{F813,0,271041}I'm starting to get my hopes up...!{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>Éáーです{F801}</source>
+    <target>Éáーです{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>〉 The light within the chalice now fills{F801}it roughly halfway to the brim...{F801}</source>
+    <target>〉 The light within the chalice now fills{F801}it roughly halfway to the brim...{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="56">
+    <source>〉 The light within the chalice has almost{F801}reached the cup's brim...{F801}</source>
+    <target>〉 The light within the chalice has almost{F801}reached the cup's brim...{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>{F812}Exotic woman\0{F87A,62}{F813,0,271042}Mister, you fine looking man.{F801}Want massage for... hm?{F801}{F802}{F813,0,271043}Mister, are you... {F843,0}?{F801}</source>
+    <target>{F812}Exotic woman\0{F87A,62}{F813,0,271042}Mister, you fine looking man.{F801}Want massage for... hm?{F801}{F802}{F813,0,271043}Mister, are you... {F843,0}?{F801}</target>
+  </entry>
+  <entry id="58">
+    <source>〉 The exotic woman is staring{F801}up and down at {F843,0}...{F801}</source>
+    <target>〉 The exotic woman is staring{F801}up and down at {F843,0}...{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>{F812}Exotic woman\0{F87A,62}{F813,0,271044}I certain! My customers show me{F801}pictures.{F801}{F802}{F813,0,271045}I wanted meet you once. You hero of{F801}all Tokyo, right?{F801}</source>
+    <target>{F812}Exotic woman\0{F87A,62}{F813,0,271044}I certain! My customers show me{F801}pictures.{F801}{F802}{F813,0,271045}I wanted meet you once. You hero of{F801}all Tokyo, right?{F801}</target>
+  </entry>
+  <entry id="60">
+    <source>{F812}Man's voice\0{F813,0,271046}No way... {F843,0}? Really?{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,271046}No way... {F843,0}? Really?{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>{F812}Woman's voice\0{F813,0,271047}Sure enough... it's {F843,0}!{F801}I didn't know he was in Ikebukuro.{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,271047}Sure enough... it's {F843,0}!{F801}I didn't know he was in Ikebukuro.{F801}</target>
+  </entry>
+  <entry id="62">
+    <source>〉 The people in the underground district,{F801}hearing the rumors of {F843,0},{F801}begin to gather.{F801}</source>
+    <target>〉 The people in the underground district,{F801}hearing the rumors of {F843,0},{F801}begin to gather.{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>{F812}Woman's voice\0{F813,0,271049}Oh, he's so wonderful! There's just{F801}no other word to describe him!{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,271049}Oh, he's so wonderful! There's just{F801}no other word to describe him!{F801}</target>
+  </entry>
+  <entry id="64">
+    <source>{F812}Man's voice\0{F813,0,271050}You ask me, it's a privilege breathing{F801}the same air as you.{F801}{F802}{F813,0,271051}I got hope for us here in Tokyo now!{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,271050}You ask me, it's a privilege breathing{F801}the same air as you.{F801}{F802}{F813,0,271051}I got hope for us here in Tokyo now!{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>Éáーです{F801}</source>
+    <target>Éáーです{F801}</target>
+  </entry>
+  <entry id="66">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="68">
+    <source>〉 The light within the chalice now fills{F801}it roughly halfway to the brim...{F801}</source>
+    <target>〉 The light within the chalice now fills{F801}it roughly halfway to the brim...{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="70">
+    <source>〉 The light within the chalice has almost{F801}reached the cup's brim...{F801}</source>
+    <target>〉 The light within the chalice has almost{F801}reached the cup's brim...{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>〉 Light pools within the chalice...{F801}</source>
+    <target>〉 Light pools within the chalice...{F801}</target>
+  </entry>
+  <entry id="72">
+    <source>〉 The chalice is filled with light...{F801}</source>
+    <target>〉 The chalice is filled with light...{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,271052}Hm? What's this...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,271052}Hm? What's this...?{F801}</target>
+  </entry>
+  <entry id="74">
+    <source>〉 The light within the chalice takes{F801}form...{F801}</source>
+    <target>〉 The light within the chalice takes{F801}form...{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,1}{F813,0,271053}That warm light... It feels kindly,{F801}yet fleeting...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,1}{F813,0,271053}That warm light... It feels kindly,{F801}yet fleeting...{F801}</target>
+  </entry>
+  <entry id="76">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,271054}Perhaps this is the Great Spirit of{F801}Hope that Masakado spoke of?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,271054}Perhaps this is the Great Spirit of{F801}Hope that Masakado spoke of?{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Bartender\0{F87A,24}{F813,0,271005}"Champion"...{F801}{F802}{F813,0,271006}I like the sound of that. It gives{F801}a guy hope in these dark times.{F801}</source>
+    <target>{F812}Bartender\0{F87A,24}{F813,0,271005}"Champion"...{F801}{F802}{F813,0,271006}I like the sound of that. It gives{F801}a guy hope in these dark times.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="162">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,1}{F813,0,271048}I marvel to see your name alone{F801}causing such a stir...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,1}{F813,0,271048}I marvel to see your name alone{F801}causing such a stir...{F801}</target>
+  </entry>
+  <entry id="176">
+    <source>〉 The chalice has been filled.{F801}</source>
+    <target>〉 The chalice has been filled.{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,271007}Oh... look! Something's filling the{F801}chalice...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,271007}Oh... look! Something's filling the{F801}chalice...{F801}</target>
+  </entry>
+  <entry id="276">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="302">
+    <source>〉 Some light begins to pool inside the{F801}chalice...{F801}</source>
+    <target>〉 Some light begins to pool inside the{F801}chalice...{F801}</target>
+  </entry>
+</mbm>

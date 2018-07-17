@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}White\0{F87A,78}{F813,0,245001}Our fifth son, who chose neutrality...{F801}</source>
+    <target>{F812}White\0{F87A,78}{F813,0,245001}Our fifth son, who chose neutrality...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}White\0{F87A,217}{F813,0,245002}If you will not willingly choose{F801}nothingness, then I will unmake you.{F801}</source>
+    <target>{F812}White\0{F87A,217}{F813,0,245002}If you will not willingly choose{F801}nothingness, then I will unmake you.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}White\0[我/われ]らの[慈悲/じひ]に[感謝/かんしゃ]するどころか{F801}[牙/きば]をむくとはな{F801}</source>
+    <target>{F812}White\0[我/われ]らの[慈悲/じひ]に[感謝/かんしゃ]するどころか{F801}[牙/きば]をむくとはな{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}White\0…ならば お[前/まえ]を{F801}[新/あら]たな[居場所/いばしょ]に[誘/いざな]ってやる…{F801}{F802}『あの[世/よ]』と[言/い]う[名/]の[居場所/いばしょ]へなぁ…ッ{F801}</source>
+    <target>{F812}White\0…ならば お[前/まえ]を{F801}[新/あら]たな[居場所/いばしょ]に[誘/いざな]ってやる…{F801}{F802}『あの[世/よ]』と[言/い]う[名/]の[居場所/いばしょ]へなぁ…ッ{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}This may sound sudden, but I've cross-{F801}referenced data from the past,{F801}Master {F843,0}.{F801}{F802}You won't allow God to destroy you,{F801}but you also won't seek the power to{F801}resist such destruction...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}This may sound sudden, but I've cross-{F801}referenced data from the past,{F801}Master {F843,0}.{F801}{F802}You won't allow God to destroy you,{F801}but you also won't seek the power to{F801}resist such destruction...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}You won't allow God to destroy you,{F801}but you also won't seek the power to{F801}resist such destruction...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}You won't allow God to destroy you,{F801}but you also won't seek the power to{F801}resist such destruction...{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

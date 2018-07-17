@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F813,0,230001}Warriors of light, the Lord's{F801}chosen ones...{F801}{F802}{F813,0,230002}You have done well in repelling the{F801}despair of the White and beginning to{F801}walk on your own.{F801}</source>
+    <target>{F812}Voice\0{F813,0,230001}Warriors of light, the Lord's{F801}chosen ones...{F801}{F802}{F813,0,230002}You have done well in repelling the{F801}despair of the White and beginning to{F801}walk on your own.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230003}I have come to collect you. Our Lord{F801}requires your strength.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230003}I have come to collect you. Our Lord{F801}requires your strength.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230005}This is the Expanse... A world created{F801}by the thoughts of men.{F801}{F802}{F813,0,230006}The White are also an aggregation of{F801}thoughts. They are a portion of this{F801}space.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230005}This is the Expanse... A world created{F801}by the thoughts of men.{F801}{F802}{F813,0,230006}The White are also an aggregation of{F801}thoughts. They are a portion of this{F801}space.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230009}The White number four. They are lurking{F801}somewhere within this forest.{F801}{F802}{F813,0,230010}Slay all of the White so that you may{F801}return to your world of origin and{F801}save mankind.{F801}{F802}{F813,0,230011}That is your task as the warriors{F801}of light.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230009}The White number four. They are lurking{F801}somewhere within this forest.{F801}{F802}{F813,0,230010}Slay all of the White so that you may{F801}return to your world of origin and{F801}save mankind.{F801}{F802}{F813,0,230011}That is your task as the warriors{F801}of light.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230014}If you ever become wounded in battle,{F801}return here to the forest's entrance.{F801}{F802}{F813,0,230015}I shall heal your wounds at any time.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230014}If you ever become wounded in battle,{F801}return here to the forest's entrance.{F801}{F802}{F813,0,230015}I shall heal your wounds at any time.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,1,436002}Warriors of light, allow me to heal{F801}your wounds.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,1,436002}Warriors of light, allow me to heal{F801}your wounds.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,1,436000}Now, go forth.{F801}{F802}With your pure hands, put an end to{F801}the White who have fed man's despair.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,1,436000}Now, go forth.{F801}{F802}With your pure hands, put an end to{F801}the White who have fed man's despair.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,230004}Gabriel...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,230004}Gabriel...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230007}Because you rejected the White, their{F801}power is weakened now.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230007}Because you rejected the White, their{F801}power is weakened now.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230008}You must slay the Whites. Do so, and{F801}you will be able to escape from the{F801}Expanse.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230008}You must slay the Whites. Do so, and{F801}you will be able to escape from the{F801}Expanse.{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230013}Allow me to heal your wounds.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230013}Allow me to heal your wounds.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,122 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,259001}Where are we...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,259001}Where are we...?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Lucifer\0{F87A,-1085}{F87B,87,1,1,1}{F813,0,259003}Thanks to you, the gate to the Expanse{F801}has been opened.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F87B,87,1,1,1}{F813,0,259003}Thanks to you, the gate to the Expanse{F801}has been opened.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259006}Sadly... God's puppets in the Eastern{F801}Kingdom of Mikado won't take this{F801}lying down.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259006}Sadly... God's puppets in the Eastern{F801}Kingdom of Mikado won't take this{F801}lying down.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,259008}We're going to war against the Eastern{F801}Kingdom of Mikado...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,259008}We're going to war against the Eastern{F801}Kingdom of Mikado...?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259009}Yes. But there's one small issue...{F801}{F802}{F813,0,259010}They're probably going to bring out{F801}God's chariot...{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259009}Yes. But there's one small issue...{F801}{F802}{F813,0,259010}They're probably going to bring out{F801}God's chariot...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259012}That being said...{F801}{F802}{F813,0,259013}If I, who seized selfhood by opposing{F801}God, and a son of man who rejects His{F801}authority, were to fuse together...{F801}{F802}{F813,0,259014}Then I could reach my full power as{F801}one who was said to equal God...{F801}My true strength as the Demon Lord.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259012}That being said...{F801}{F802}{F813,0,259013}If I, who seized selfhood by opposing{F801}God, and a son of man who rejects His{F801}authority, were to fuse together...{F801}{F802}{F813,0,259014}Then I could reach my full power as{F801}one who was said to equal God...{F801}My true strength as the Demon Lord.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,259015}The Demon Lord...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,259015}The Demon Lord...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259016}It doesn't matter which one of you{F801}it is, but I'd like one of you to fuse{F801}with me.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259016}It doesn't matter which one of you{F801}it is, but I'd like one of you to fuse{F801}with me.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259019}Who will be brave enough to sacrifice{F801}himself to the Demon Lord? Will it be{F801}you, Walter? Or... you, {F843,0}?{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259019}Who will be brave enough to sacrifice{F801}himself to the Demon Lord? Will it be{F801}you, Walter? Or... you, {F843,0}?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Lucifer\0{F87A,-1085}{F813,0,259021}...Hello, you two.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F813,0,259021}...Hello, you two.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Lucifer\0{F87A,87}{F813,0,259022}If you're back here, does that mean{F801}you've decided which of you will be{F801}the sacrifice?{F801}{F802}{F813,0,259023}Well then, who's going to fuse with me?{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F813,0,259022}If you're back here, does that mean{F801}you've decided which of you will be{F801}the sacrifice?{F801}{F802}{F813,0,259023}Well then, who's going to fuse with me?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>"I'll do it."{F801}"It should be you, Walter."{F801}"I need time to think."{F801}</source>
+    <target>"I'll do it."{F801}"It should be you, Walter."{F801}"I need time to think."{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,259024}...No you won't, {F843,0}. If one{F801}of us is to be sacrificed, let it{F801}be me.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,259024}...No you won't, {F843,0}. If one{F801}of us is to be sacrificed, let it{F801}be me.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Lucifer\0{F87A,87}Ah... then go off and think some more.{F801}{F802}Once your mind is made up, come{F801}back here to me, my fellow heretics{F801}against God.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}Ah... then go off and think some more.{F801}{F802}Once your mind is made up, come{F801}back here to me, my fellow heretics{F801}against God.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,259029}You know that I'm a fisherman's boy,{F801}don't you?{F801}{F802}{F87B,4,10,1,1}{F813,0,259030}I thought I'd while away my whole life{F801}catching fish. It stretched out before{F801}me like a dull, straight road...{F801}{F802}{F87B,4,9,1,1}{F813,0,259031}But after I was chosen as a Samurai{F801}and began to travel with you lot...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,259029}You know that I'm a fisherman's boy,{F801}don't you?{F801}{F802}{F87B,4,10,1,1}{F813,0,259030}I thought I'd while away my whole life{F801}catching fish. It stretched out before{F801}me like a dull, straight road...{F801}{F802}{F87B,4,9,1,1}{F813,0,259031}But after I was chosen as a Samurai{F801}and began to travel with you lot...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,259032}I enjoyed myself like never before.{F801}It made me think that this life isn't{F801}so bad, in the end.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,259032}I enjoyed myself like never before.{F801}It made me think that this life isn't{F801}so bad, in the end.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,259033}But if I aged... I could see myself{F801}becoming like Jonathan.{F801}{F802}{F813,0,259034}I'd grow covetous and intent on{F801}preserving what I had. And that's{F801}not the life for me.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,259033}But if I aged... I could see myself{F801}becoming like Jonathan.{F801}{F802}{F813,0,259034}I'd grow covetous and intent on{F801}preserving what I had. And that's{F801}not the life for me.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Lucifer\0{F87A,-1085}{F813,0,259041}...Well said, Walter. Let us begin.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F813,0,259041}...Well said, Walter. Let us begin.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Voice\0{F87A,10}{F813,0,259002}You're back in Tokyo.{F801}</source>
+    <target>{F812}Voice\0{F87A,10}{F813,0,259002}You're back in Tokyo.{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259004}Now Tayama is dead and the demons in{F801}all their power are overrunning Tokyo.{F801}{F802}{F813,0,259005}There's no "order" anymore here...{F801}It's really a place now that the{F801}strong can shape as they see fit.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259004}Now Tayama is dead and the demons in{F801}all their power are overrunning Tokyo.{F801}{F802}{F813,0,259005}There's no "order" anymore here...{F801}It's really a place now that the{F801}strong can shape as they see fit.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259007}I say we go strike at them before{F801}they invade Tokyo.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259007}I say we go strike at them before{F801}they invade Tokyo.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259011}If we don't make sure we're ready,{F801}it will pose a big threat.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259011}If we don't make sure we're ready,{F801}it will pose a big threat.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259017}Though if you do, your individual{F801}consciousness will be no more. It's{F801}basically dying.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F87B,87,1,1,1}{F813,0,259017}Though if you do, your individual{F801}consciousness will be no more. It's{F801}basically dying.{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Lucifer\0{F87A,-1085}{F813,0,259020}I'll give you some time to think.{F801}Come see me here when you're ready.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F813,0,259020}I'll give you some time to think.{F801}Come see me here when you're ready.{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,259025}......{F801}{F802}{F87B,4,1,1,2}{F813,0,259026}...I'm quite sure about this. I'll be{F801}your sacrifice.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,259025}......{F801}{F802}{F87B,4,1,1,2}{F813,0,259026}...I'm quite sure about this. I'll be{F801}your sacrifice.{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Lucifer\0{F87A,87}{F813,0,259027}You do like to get my hopes up, don't{F801}you? Well, so it goes.{F801}{F802}{F813,0,259028}I'll give you some time to think.{F801}Come see me here when you're ready.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F813,0,259027}You do like to get my hopes up, don't{F801}you? Well, so it goes.{F801}{F802}{F813,0,259028}I'll give you some time to think.{F801}Come see me here when you're ready.{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,259035}If I'm going to die, I want to die now{F801}when my life is at its peak.{F801}{F802}{F87B,4,4,1,1}{F813,0,259036}The fact that I'll die for something{F801}that matters sweetens it, too.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,259035}If I'm going to die, I want to die now{F801}when my life is at its peak.{F801}{F802}{F87B,4,4,1,1}{F813,0,259036}The fact that I'll die for something{F801}that matters sweetens it, too.{F801}</target>
+  </entry>
+  <entry id="207">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,259018}We would... die...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,259018}We would... die...?{F801}</target>
+  </entry>
+  <entry id="216">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,259037}Be sure of one thing--I don't do this{F801}out of desperation.{F801}{F802}{F87B,4,12,1,1}{F813,0,259038}I thought that I could leave the rest{F801}to you, {F843,0}.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,259037}Be sure of one thing--I don't do this{F801}out of desperation.{F801}{F802}{F87B,4,12,1,1}{F813,0,259038}I thought that I could leave the rest{F801}to you, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="316">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,259039}But when I think of those who wish{F801}for a world that the strong can shape{F801}as they see fit...{F801}{F802}{F813,0,259040}I think that you're the one to lead{F801}such men.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,259039}But when I think of those who wish{F801}for a world that the strong can shape{F801}as they see fit...{F801}{F802}{F813,0,259040}I think that you're the one to lead{F801}such men.{F801}</target>
+  </entry>
+</mbm>

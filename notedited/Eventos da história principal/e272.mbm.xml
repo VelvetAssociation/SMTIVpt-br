@@ -1,0 +1,150 @@
+<mbm>
+  <entry id="0">
+    <source>{F843,0}が[持/も]っていた{F801}マサカドの[太刀/たち]が[輝/かがや]き[出/だ]した{F801}</source>
+    <target>{F843,0}が[持/も]っていた{F801}マサカドの[太刀/たち]が[輝/かがや]き[出/だ]した{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Masakado\0{F813,0,272001}Ah... this is a fine Great Soul. It{F801}overflows with the hopes of the people.{F801}{F802}{F813,0,272002}Let me see here...{F801}</source>
+    <target>{F812}Masakado\0{F813,0,272001}Ah... this is a fine Great Soul. It{F801}overflows with the hopes of the people.{F801}{F802}{F813,0,272002}Let me see here...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Masakado swallowed the Great Spirit{F801}of Hope.{F801}</source>
+    <target>〉 Masakado swallowed the Great Spirit{F801}of Hope.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272004}Ahh... I can feel it permeating my{F801}entire being...{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272004}Ahh... I can feel it permeating my{F801}entire being...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272011}......{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272011}......{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,272014}What...!?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,272014}What...!?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272015}The two feelings that normally buttress{F801}hope are acting now as obstacles.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272015}The two feelings that normally buttress{F801}hope are acting now as obstacles.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272016}They are... the Great Spirit of Goodwill{F801}and the Great Spirit of Spite.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272016}They are... the Great Spirit of Goodwill{F801}and the Great Spirit of Spite.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,272018}What do you mean...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,272018}What do you mean...?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272019}The Great Spirit of Goodwill has{F801}transformed into God's chariot,{F801}which rules the angels...{F801}{F802}{F813,0,272020}And the Great Spirit of Spite has{F801}transformed into the Demon Lord that{F801}reigns over the demons.{F801}{F802}{F813,0,272021}Both continue to gain strength that{F801}they might win the people's hopes...{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272019}The Great Spirit of Goodwill has{F801}transformed into God's chariot,{F801}which rules the angels...{F801}{F802}{F813,0,272020}And the Great Spirit of Spite has{F801}transformed into the Demon Lord that{F801}reigns over the demons.{F801}{F802}{F813,0,272021}Both continue to gain strength that{F801}they might win the people's hopes...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 You can now fuse{F801}{F804,5}{F874,360} {F842,360}.{F804,0}{F801}</source>
+    <target>〉 You can now fuse{F801}{F804,5}{F874,360} {F842,360}.{F804,0}{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Masakado tried to join your team...{F801}{F802}〉 But {F843,0}'s stock was full...{F801}</source>
+    <target>〉 Masakado tried to join your team...{F801}{F802}〉 But {F843,0}'s stock was full...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,402003}......{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,402003}......{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,402001}What business brings you here?{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,402001}What business brings you here?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>Ask him to join your party{F801}Leave{F801}</source>
+    <target>Ask him to join your party{F801}Leave{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,438002}Let us work together.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,438002}Let us work together.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 {F804,5}{F874,360} {F842,360}{F804,0} joined your team!{F801}</source>
+    <target>〉 {F804,5}{F874,360} {F842,360}{F804,0} joined your team!{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 You can now fuse{F801}{F804,5}{F874,360} {F842,360}.{F804,0}{F801}</source>
+    <target>〉 You can now fuse{F801}{F804,5}{F874,360} {F842,360}.{F804,0}{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 Masakado tried to join your team...{F801}{F802}〉 But Masakado was already present in{F801}{F843,0}'s stock...{F801}</source>
+    <target>〉 Masakado tried to join your team...{F801}{F802}〉 But Masakado was already present in{F801}{F843,0}'s stock...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Masakado\0{F87A,-360}{F813,1,402002}The New Emperor's power is unique and{F801}unparalleled...{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,1,402002}The New Emperor's power is unique and{F801}unparalleled...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 Masakado became one with the Masakado{F801}in your stock...{F801}</source>
+    <target>〉 Masakado became one with the Masakado{F801}in your stock...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,272003}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,272003}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,272005}Eek...!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,272005}Eek...!{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272012}Ungh... they have grown so in{F801}strength...{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272012}Ungh... they have grown so in{F801}strength...{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272017}Goodwill is blindly moving only to{F801}preserve, and Spite is running amok{F801}solely for upheaval.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272017}Goodwill is blindly moving only to{F801}preserve, and Spite is running amok{F801}solely for upheaval.{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}{F802}{F813,0,272026}...I use my own judgement to name the{F801}quest, if you were wondering.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}{F802}{F813,0,272026}...I use my own judgement to name the{F801}quest, if you were wondering.{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272029}[首/くび]だけとて[天使/てんし]や[悪魔/あくま]に[引/ひ]けは[取/と]らぬ{F801}[我/われ]の[力/ちから]が[必要/ひつよう]ならば[合体/がったい]を[成/な]せ{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272029}[首/くび]だけとて[天使/てんし]や[悪魔/あくま]に[引/ひ]けは[取/と]らぬ{F801}[我/われ]の[力/ちから]が[必要/ひつよう]ならば[合体/がったい]を[成/な]せ{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>〉 Masakado turned back into a boulder...{F801}</source>
+    <target>〉 Masakado turned back into a boulder...{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272006}I have recovered somewhat. I can lend{F801}you my strength now.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272006}I have recovered somewhat. I can lend{F801}you my strength now.{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272013}I cannot return to my body like this.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272013}I cannot return to my body like this.{F801}</target>
+  </entry>
+  <entry id="209">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,272023}In order to reclaim myself from the{F801}dome, both of them must be slain...{F801}{F802}{F813,0,272024}So that you may collect the Great{F801}Spirits of Goodwill and Spite.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,272023}In order to reclaim myself from the{F801}dome, both of them must be slain...{F801}{F802}{F813,0,272024}So that you may collect the Great{F801}Spirits of Goodwill and Spite.{F801}</target>
+  </entry>
+  <entry id="210">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,438002}Let us work together.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,438002}Let us work together.{F801}</target>
+  </entry>
+  <entry id="303">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,272007}The ceiling will finally be removed...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,272007}The ceiling will finally be removed...{F801}</target>
+  </entry>
+  <entry id="309">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,272022}God's chariot and the Demon Lord...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,272022}God's chariot and the Demon Lord...{F801}</target>
+  </entry>
+  <entry id="310">
+    <source>〉 {F804,5}{F874,360} {F842,360}{F804,0} joined your team!{F801}</source>
+    <target>〉 {F804,5}{F874,360} {F842,360}{F804,0} joined your team!{F801}</target>
+  </entry>
+  <entry id="403">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,272008}Master {F843,0}, isn't this all{F801}so touching?{F801}{F802}{F813,0,272009}It's been night in Tokyo for more than{F801}25 years, and now the sun is finally{F801}rising.{F801}{F802}{F813,0,272010}Maybe I should keep a video log of{F801}this to commemorate it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,272008}Master {F843,0}, isn't this all{F801}so touching?{F801}{F802}{F813,0,272009}It's been night in Tokyo for more than{F801}25 years, and now the sun is finally{F801}rising.{F801}{F802}{F813,0,272010}Maybe I should keep a video log of{F801}this to commemorate it.{F801}</target>
+  </entry>
+  <entry id="409">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,272027}Why don't we first make for Naraku,{F801}where the angels are?{F801}{F802}{F813,0,272028}If the ground above is to disappear,{F801}then we must ferry the people of the{F801}Eastern Kingdom of Mikado to Tokyo.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,272027}Why don't we first make for Naraku,{F801}where the angels are?{F801}{F802}{F813,0,272028}If the ground above is to disappear,{F801}then we must ferry the people of the{F801}Eastern Kingdom of Mikado to Tokyo.{F801}</target>
+  </entry>
+</mbm>

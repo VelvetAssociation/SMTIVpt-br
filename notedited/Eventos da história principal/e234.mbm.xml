@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,124}{F813,0,234001}Our fifth son, who chose preservation...{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,234001}Our fifth son, who chose preservation...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,220}{F813,0,234002}It is our fate to endlessly repeat the{F801}same mistakes.{F801}{F802}{F813,0,234003}Given this, what other salvation can{F801}there be than returning everything{F801}to naught...?{F801}</source>
+    <target>{F812}The White\0{F87A,220}{F813,0,234002}It is our fate to endlessly repeat the{F801}same mistakes.{F801}{F802}{F813,0,234003}Given this, what other salvation can{F801}there be than returning everything{F801}to naught...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,220}{F813,0,234004}Your choice is wrong... We will prove{F801}that to you...{F801}</source>
+    <target>{F812}The White\0{F87A,220}{F813,0,234004}Your choice is wrong... We will prove{F801}that to you...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,234006}I understand better now after fighting{F801}them. I sensed no hostility from them...{F801}{F802}{F813,0,234007}They must truly believe, without the{F801}slightest doubt, that nothingness is{F801}the only salvation.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,234006}I understand better now after fighting{F801}them. I sensed no hostility from them...{F801}{F802}{F813,0,234007}They must truly believe, without the{F801}slightest doubt, that nothingness is{F801}the only salvation.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,234008}If this discord arises from us both{F801}holding to our own choices, which{F801}cannot coexist...{F801}{F802}{F87B,3,12,1,1}{F813,0,204004}......{F801}{F802}{F87B,3,2,1,1}{F813,0,234010}Then there is only one thing for us{F801}to do.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,234008}If this discord arises from us both{F801}holding to our own choices, which{F801}cannot coexist...{F801}{F802}{F87B,3,12,1,1}{F813,0,204004}......{F801}{F802}{F87B,3,2,1,1}{F813,0,234010}Then there is only one thing for us{F801}to do.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,6,1,1}{F813,0,191001}...Hm?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,6,1,1}{F813,0,191001}...Hm?{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+</mbm>

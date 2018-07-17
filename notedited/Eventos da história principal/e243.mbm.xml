@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,124}{F813,0,243001}So even {F843,0} would make that{F801}choice...{F801}{F802}{F813,0,243002}Cowardly human...!{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,243001}So even {F843,0} would make that{F801}choice...{F801}{F802}{F813,0,243002}Cowardly human...!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,124}{F813,0,243003}But...{F801}{F802}{F813,0,243004}...You are too late to walk that path,{F801}{F843,0}.{F801}{F802}{F813,0,243005}You have chosen to preserve the status{F801}quo, yet you wish to upend it as well...{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,243003}But...{F801}{F802}{F813,0,243004}...You are too late to walk that path,{F801}{F843,0}.{F801}{F802}{F813,0,243005}You have chosen to preserve the status{F801}quo, yet you wish to upend it as well...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,124}{F813,0,243006}So even {F843,0} would make that{F801}choice...{F801}{F802}{F813,0,243007}Cowardly human...!{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,243006}So even {F843,0} would make that{F801}choice...{F801}{F802}{F813,0,243007}Cowardly human...!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}The White\0{F87A,124}{F813,0,243008}But...{F801}{F802}{F813,0,243009}...You are too late to walk that path,{F801}{F843,0}.{F801}{F802}{F813,0,243010}You have chosen to upend the status{F801}quo, yet you wish to preserve it{F801}as well...{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,243008}But...{F801}{F802}{F813,0,243009}...You are too late to walk that path,{F801}{F843,0}.{F801}{F802}{F813,0,243010}You have chosen to upend the status{F801}quo, yet you wish to preserve it{F801}as well...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}The White\0{F87A,124}{F813,0,243011}Why do you oppose us, {F843,0}?{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,243011}Why do you oppose us, {F843,0}?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}The White\0{F87A,124}{F813,0,243012}Will even you place your hopes in{F801}the possibility of a future?{F801}{F802}{F813,0,243013}Even after we have shown you many{F801}times there is no future for the{F801}human race?{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,243012}Will even you place your hopes in{F801}the possibility of a future?{F801}{F802}{F813,0,243013}Even after we have shown you many{F801}times there is no future for the{F801}human race?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}The White\0{F87A,124}{F813,0,243014}You are no longer of use to us.{F801}{F802}{F813,0,243015}May you regret your choice here in{F801}this fabricated space until you die...{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,243014}You are no longer of use to us.{F801}{F802}{F813,0,243015}May you regret your choice here in{F801}this fabricated space until you die...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 What will you do with the order of{F801}things?{F801}</source>
+    <target>〉 What will you do with the order of{F801}things?{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>Preserve it{F801}Destroy it{F801}</source>
+    <target>Preserve it{F801}Destroy it{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,77}{F813,0,239001}Our fifth son, who chose upheaval...{F801}</source>
+    <target>{F812}The White\0{F87A,77}{F813,0,239001}Our fifth son, who chose upheaval...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,218}{F813,0,239002}...Your actions are abominable.{F801}No matter how much you struggle,{F801}your despair will never be healed.{F801}</source>
+    <target>{F812}The White\0{F87A,218}{F813,0,239002}...Your actions are abominable.{F801}No matter how much you struggle,{F801}your despair will never be healed.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,218}{F813,0,239003}Very well... As your forebear, I will{F801}teach you...{F801}{F802}{F813,0,239004}The splendor of nonexistence...{F801}</source>
+    <target>{F812}The White\0{F87A,218}{F813,0,239003}Very well... As your forebear, I will{F801}teach you...{F801}{F802}{F813,0,239004}The splendor of nonexistence...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}"God's curse", eh? That's merely a{F801}convenient turn of phrase.{F801}{F802}They should blame their own weakness{F801}instead, for not being able to sever{F801}that curse.{F801}{F802}Improving oneself to become better{F801}than others is how a real man lives.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}"God's curse", eh? That's merely a{F801}convenient turn of phrase.{F801}{F802}They should blame their own weakness{F801}instead, for not being able to sever{F801}that curse.{F801}{F802}Improving oneself to become better{F801}than others is how a real man lives.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

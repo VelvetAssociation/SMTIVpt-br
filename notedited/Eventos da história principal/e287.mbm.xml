@@ -1,0 +1,142 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The Domain lifted...{F801}</source>
+    <target>〉 The Domain lifted...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Terminal guardian\0{F87A,59}{F813,0,287001}Aw man, you've put me out of business{F801}as a guardian.{F801}{F802}{F813,0,287002}But oh well... I guess it's not so bad{F801}if I think of it as a chance to go{F801}back to making an honest buck.{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,59}{F813,0,287001}Aw man, you've put me out of business{F801}as a guardian.{F801}{F802}{F813,0,287002}But oh well... I guess it's not so bad{F801}if I think of it as a chance to go{F801}back to making an honest buck.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Terminal guardian\0{F87A,60}{F813,0,287003}Sheesh... I'm gonna be out of the{F801}guardian business, thanks to you.{F801}{F802}{F813,0,287004}Though I can go back to making an{F801}honest living now, so I guess there's{F801}some upside.{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,60}{F813,0,287003}Sheesh... I'm gonna be out of the{F801}guardian business, thanks to you.{F801}{F802}{F813,0,287004}Though I can go back to making an{F801}honest living now, so I guess there's{F801}some upside.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Terminal guardian\0{F87A,120}{F813,0,287005}I'll have to give up the guardian{F801}business now... All because of you.{F801}I made a tidy little wage, too...{F801}{F802}{F813,0,287006}But there's nothing for it now. Guess{F801}I'll take the hint and go back to{F801}making an honest living.{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,120}{F813,0,287005}I'll have to give up the guardian{F801}business now... All because of you.{F801}I made a tidy little wage, too...{F801}{F802}{F813,0,287006}But there's nothing for it now. Guess{F801}I'll take the hint and go back to{F801}making an honest living.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Terminal guardian\0{F87A,63}{F813,0,287007}I'm through as a guardian because{F801}of you! Oh, what do I do now...?{F801}{F802}{F813,0,287008}I guess I could go straight and try{F801}living like a squarejohn instead.{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,63}{F813,0,287007}I'm through as a guardian because{F801}of you! Oh, what do I do now...?{F801}{F802}{F813,0,287008}I guess I could go straight and try{F801}living like a squarejohn instead.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Terminal guardian\0{F87A,123}{F813,0,287009}Dude, it's like, your fault that I'm{F801}out of a job now? And it's been super{F801}hard disguising myself and stuff?{F801}{F802}{F813,0,287010}Though like, I guess if I go back to{F801}an honest job, I won't have to do{F801}that crap anymore?{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,123}{F813,0,287009}Dude, it's like, your fault that I'm{F801}out of a job now? And it's been super{F801}hard disguising myself and stuff?{F801}{F802}{F813,0,287010}Though like, I guess if I go back to{F801}an honest job, I won't have to do{F801}that crap anymore?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Terminal guardian\0{F87A,29}{F813,0,287011}Alas... I shall be a guardian by trade{F801}no longer, thanks to thee.{F801}{F802}{F813,0,287012}'Tis the straight and narrow life for{F801}me now, I suppose.{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,29}{F813,0,287011}Alas... I shall be a guardian by trade{F801}no longer, thanks to thee.{F801}{F802}{F813,0,287012}'Tis the straight and narrow life for{F801}me now, I suppose.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Terminal guardian\0{F87A,47}{F813,0,287013}Hm. I wasn't expecting you to drive me{F801}out of business.{F801}{F802}{F813,0,287014}But there's a silver lining. I can go{F801}back to making an honest living now.{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,47}{F813,0,287013}Hm. I wasn't expecting you to drive me{F801}out of business.{F801}{F802}{F813,0,287014}But there's a silver lining. I can go{F801}back to making an honest living now.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The Terminal Guardian suddenly threw{F801}off his clothes!{F801}</source>
+    <target>〉 The Terminal Guardian suddenly threw{F801}off his clothes!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Terminal guardian\0{F87A,118}{F813,0,287015}Sometimes I'm a young girl, and at{F801}other times I might be a guard who{F801}watches over the city...{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,118}{F813,0,287015}Sometimes I'm a young girl, and at{F801}other times I might be a guard who{F801}watches over the city...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The Terminal Guardian leaves...{F801}</source>
+    <target>〉 The Terminal Guardian leaves...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The Domain lifted...{F801}</source>
+    <target>〉 The Domain lifted...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Terminal guardian\0{F87A,118}{F813,0,287020}Man, I give up when it comes to you.{F801}You've put me right out of a job.{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,118}{F813,0,287020}Man, I give up when it comes to you.{F801}You've put me right out of a job.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405705}This is the Ueno Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405705}This is the Ueno Terminal.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405702}This is the Kasumigaseki Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405702}This is the Kasumigaseki Terminal.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405700}This is the Shinjuku Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405700}This is the Shinjuku Terminal.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405703}This is the Ikebukuro Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405703}This is the Ikebukuro Terminal.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405701}This is the Shibuya Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405701}This is the Shibuya Terminal.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405707}This is the Tennozu Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405707}This is the Tennozu Terminal.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405706}This is the Toyosu Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405706}This is the Toyosu Terminal.{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Terminal guardian\0{F87A,118}{F813,0,287016}I was inspired by reruns of an anime{F801}I used to watch. I did this job just{F801}to transform every day...{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,118}{F813,0,287016}I was inspired by reruns of an anime{F801}I used to watch. I did this job just{F801}to transform every day...{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Terminal guardian\0{F87A,118}{F813,0,287021}Sometimes I'm a young girl, and at{F801}other times I might be a guard who{F801}watches over the city...{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,118}{F813,0,287021}Sometimes I'm a young girl, and at{F801}other times I might be a guard who{F801}watches over the city...{F801}</target>
+  </entry>
+  <entry id="209">
+    <source>{F812}Terminal guardian\0{F87A,118}{F813,0,287017}But that all ends now. I'm going back{F801}to my family.{F801}{F802}{F813,0,287018}I probably won't ever see you again,{F801}but good luck staying alive. See ya.{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,118}{F813,0,287017}But that all ends now. I'm going back{F801}to my family.{F801}{F802}{F813,0,287018}I probably won't ever see you again,{F801}but good luck staying alive. See ya.{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="213">
+    <source>{F812}Terminal guardian\0{F87A,118}{F813,0,287022}I was inspired by reruns of an anime{F801}I used to watch. I did this job just{F801}to transform every day...{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,118}{F813,0,287022}I was inspired by reruns of an anime{F801}I used to watch. I did this job just{F801}to transform every day...{F801}</target>
+  </entry>
+  <entry id="311">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</target>
+  </entry>
+  <entry id="313">
+    <source>{F812}Terminal guardian\0{F87A,118}{F813,0,287023}But that all ends now. I'm going back{F801}to my family.{F801}{F802}{F813,0,287024}I probably won't ever see you again,{F801}but good luck staying alive. See ya.{F801}</source>
+    <target>{F812}Terminal guardian\0{F87A,118}{F813,0,287023}But that all ends now. I'm going back{F801}to my family.{F801}{F802}{F813,0,287024}I probably won't ever see you again,{F801}but good luck staying alive. See ya.{F801}</target>
+  </entry>
+  <entry id="411">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+  <entry id="413">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="513">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74005}This seems to be a type of Terminal{F801}too. The activation program ran{F801}normally, anyway.{F801}{F802}{F813,1,405718}This is the Purgatorium Terminal.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74005}This seems to be a type of Terminal{F801}too. The activation program ran{F801}normally, anyway.{F801}{F802}{F813,1,405718}This is the Purgatorium Terminal.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+  <entry id="613">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74005}This seems to be a type of Terminal{F801}too. The activation program ran{F801}normally, anyway.{F801}{F802}{F813,1,405719}This is the Lucifer Palace Terminal.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74005}This seems to be a type of Terminal{F801}too. The activation program ran{F801}normally, anyway.{F801}{F802}{F813,1,405719}This is the Lucifer Palace Terminal.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,78}{F813,0,231001}Our fifth son, who chose preservation...{F801}</source>
+    <target>{F812}The White\0{F87A,78}{F813,0,231001}Our fifth son, who chose preservation...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,217}{F813,0,231002}If you will not willingly choose{F801}nothingness, then I will unmake you.{F801}</source>
+    <target>{F812}The White\0{F87A,217}{F813,0,231002}If you will not willingly choose{F801}nothingness, then I will unmake you.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,217}God's plan has ever led to our ruin...{F801}{F802}You will surely follow the same path.{F801}</source>
+    <target>{F812}The White\0{F87A,217}God's plan has ever led to our ruin...{F801}{F802}You will surely follow the same path.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}What rubbish, saying that God's will{F801}led to their destruction.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}What rubbish, saying that God's will{F801}led to their destruction.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}We are God's chosen people! We have{F801}freely decided to follow Him.{F801}{F802}Much of what they said was little but{F801}the unjustified resentment of those{F801}who were not chosen by God.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}We are God's chosen people! We have{F801}freely decided to follow Him.{F801}{F802}Much of what they said was little but{F801}the unjustified resentment of those{F801}who were not chosen by God.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

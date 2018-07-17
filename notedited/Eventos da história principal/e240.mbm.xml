@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,75}{F813,0,240001}Our fifth son, who chose upheaval...{F801}</source>
+    <target>{F812}The White\0{F87A,75}{F813,0,240001}Our fifth son, who chose upheaval...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,219}{F813,0,240002}...You still do not understand?{F801}</source>
+    <target>{F812}The White\0{F87A,219}{F813,0,240002}...You still do not understand?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,219}{F813,0,240004}We will eliminate that will in{F801}preparation for the coming of a{F801}new Messiah.{F801}</source>
+    <target>{F812}The White\0{F87A,219}{F813,0,240004}We will eliminate that will in{F801}preparation for the coming of a{F801}new Messiah.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}Does their self-righteous interference{F801}never end? Our will is useless, they{F801}say...?{F801}{F802}But I have chosen to upend the world{F801}out of my own will.{F801}{F802}Is the same not true for you,{F801}{F843,0}...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Does their self-righteous interference{F801}never end? Our will is useless, they{F801}say...?{F801}{F802}But I have chosen to upend the world{F801}out of my own will.{F801}{F802}Is the same not true for you,{F801}{F843,0}...?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}To perish by dint of one's own will{F801}is a fantasy of cowards unable to{F801}think for themselves.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}To perish by dint of one's own will{F801}is a fantasy of cowards unable to{F801}think for themselves.{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}The White\0{F87A,219}{F813,0,240003}Your will, which rejects our salvation,{F801}is the cause of your suffering...{F801}</source>
+    <target>{F812}The White\0{F87A,219}{F813,0,240003}Your will, which rejects our salvation,{F801}is the cause of your suffering...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

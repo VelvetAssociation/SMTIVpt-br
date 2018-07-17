@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Accented manager\0{F87A,111}{F813,1,405424}...Wait a sec.{F801}{F802}You must be here for that thing, but I'm{F801}sorry. We've got reasons why you can't{F801}have any.{F801}</source>
+    <target>{F812}Accented manager\0{F87A,111}{F813,1,405424}...Wait a sec.{F801}{F802}You must be here for that thing, but I'm{F801}sorry. We've got reasons why you can't{F801}have any.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Accented manager\0{F87A,111}We don't accept any complaints, either.{F801}So I'll have to ask you to leave.{F801}</source>
+    <target>{F812}Accented manager\0{F87A,111}We don't accept any complaints, either.{F801}So I'll have to ask you to leave.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-423}{F813,1,412103}You still insist on staying human here{F801}in Shibuya? The birthplace of fashion?{F801}{F802}C'mon, eat a Red already and take that{F801}step toward becoming a demon.{F801}</source>
+    <target>{F812}Demon\0{F87A,-423}{F813,1,412103}You still insist on staying human here{F801}in Shibuya? The birthplace of fashion?{F801}{F802}C'mon, eat a Red already and take that{F801}step toward becoming a demon.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-469}{F813,1,411001}Reds don't just fill your belly. It's{F801}that... What's it called? Intellectual{F801}curiosity, yeah?{F801}{F802}You sense the troubles and joys of{F801}humans, too. It's like slipping into{F801}another world.{F801}{F802}It's a kick for us since we live off{F801}reason. Once you get hooked, you can't{F801}eat just one.{F801}</source>
+    <target>{F812}Demon\0{F87A,-469}{F813,1,411001}Reds don't just fill your belly. It's{F801}that... What's it called? Intellectual{F801}curiosity, yeah?{F801}{F802}You sense the troubles and joys of{F801}humans, too. It's like slipping into{F801}another world.{F801}{F802}It's a kick for us since we live off{F801}reason. Once you get hooked, you can't{F801}eat just one.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon\0{F87A,-470}{F813,1,419100}Looks like my demands helped. Tayama's{F801}finally making a move about the Reds.{F801}{F802}He's going to send in a skilled human{F801}to take care of that demon.{F801}{F802}Not that I care what he does as long as{F801}he keeps the Reds coming. If he doesn't,{F801}the humans underground look tempting...{F801}</source>
+    <target>{F812}Demon\0{F87A,-470}{F813,1,419100}Looks like my demands helped. Tayama's{F801}finally making a move about the Reds.{F801}{F802}He's going to send in a skilled human{F801}to take care of that demon.{F801}{F802}Not that I care what he does as long as{F801}he keeps the Reds coming. If he doesn't,{F801}the humans underground look tempting...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Demon\0{F87A,-470}{F813,1,419100}Looks like my demands helped. Some more{F801}Reds have finally come in.{F801}{F802}I guess that skilled human did his job.{F801}{F802}I should get going to Club Milton or{F801}my share of the Reds will be gone!{F801}</source>
+    <target>{F812}Demon\0{F87A,-470}{F813,1,419100}Looks like my demands helped. Some more{F801}Reds have finally come in.{F801}{F802}I guess that skilled human did his job.{F801}{F802}I should get going to Club Milton or{F801}my share of the Reds will be gone!{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+</mbm>

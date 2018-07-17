@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Man's voice\0{F87A,2}{F813,0,286001}Wait wait wait wait wait wait! Don't{F801}move another inch!{F801}</source>
+    <target>{F812}Man's voice\0{F87A,2}{F813,0,286001}Wait wait wait wait wait wait! Don't{F801}move another inch!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 A man suddenly rushes towards you and{F801}blocks your passage.{F801}</source>
+    <target>〉 A man suddenly rushes towards you and{F801}blocks your passage.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,286002}Folks call me the Terminal Guardian.{F801}I'm a genuine veteran who's been on{F801}the job for over twenty years.{F801}{F802}{F813,0,286003}This is a strange place I've found{F801}myself in... but I can sense that{F801}there's a Terminal behind me!{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,286002}Folks call me the Terminal Guardian.{F801}I'm a genuine veteran who's been on{F801}the job for over twenty years.{F801}{F802}{F813,0,286003}This is a strange place I've found{F801}myself in... but I can sense that{F801}there's a Terminal behind me!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,286004}Wait... you're that Terminal-raiding{F801}brat, aren't you?{F801}{F802}{F813,0,286005}If you're here... then there must be{F801}a Terminal not far off!{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,286004}Wait... you're that Terminal-raiding{F801}brat, aren't you?{F801}{F802}{F813,0,286005}If you're here... then there must be{F801}a Terminal not far off!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,286006}I'm just in time, I see!{F801}{F802}{F813,0,286007}My finely-honed intuition told me that{F801}you were approaching a Terminal...{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,286006}I'm just in time, I see!{F801}{F802}{F813,0,286007}My finely-honed intuition told me that{F801}you were approaching a Terminal...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,286008}Sorry, kid, but you're not getting{F801}past here.{F801}{F802}{F813,0,286009}I got a family to feed, but you keep{F801}breaking into the Terminals all over{F801}Tokyo...{F801}{F802}{F813,0,286010}I was looking for work when my{F801}intuition kicked in again, telling{F801}me there's a Terminal here!{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,286008}Sorry, kid, but you're not getting{F801}past here.{F801}{F802}{F813,0,286009}I got a family to feed, but you keep{F801}breaking into the Terminals all over{F801}Tokyo...{F801}{F802}{F813,0,286010}I was looking for work when my{F801}intuition kicked in again, telling{F801}me there's a Terminal here!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,286011}Hey, we meet again, kid. Guess my{F801}keenly-trained intuition's still{F801}got it.{F801}{F802}{F813,0,286012}I'm not sure how it works, but this{F801}is a Terminal too, right?{F801}{F802}{F813,0,286013}Beat me all you want, but I'm still{F801}the guardian of the Terminals. And{F801}that means I can't let you in!{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,286011}Hey, we meet again, kid. Guess my{F801}keenly-trained intuition's still{F801}got it.{F801}{F802}{F813,0,286012}I'm not sure how it works, but this{F801}is a Terminal too, right?{F801}{F802}{F813,0,286013}Beat me all you want, but I'm still{F801}the guardian of the Terminals. And{F801}that means I can't let you in!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,286014}Sorry, but you won't be escaping{F801}this Domain.{F801}{F802}{F813,0,286015}If you want to use this place, then{F801}you gotta get by me. And I won't make{F801}it easy on you!{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,286014}Sorry, but you won't be escaping{F801}this Domain.{F801}{F802}{F813,0,286015}If you want to use this place, then{F801}you gotta get by me. And I won't make{F801}it easy on you!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The Domain lifted...{F801}</source>
+    <target>〉 The Domain lifted...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74005}This seems to be a type of Terminal{F801}too. The activation program ran{F801}normally, anyway.{F801}{F802}{F813,1,405719}This is the Lucifer Palace Terminal.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74005}This seems to be a type of Terminal{F801}too. The activation program ran{F801}normally, anyway.{F801}{F802}{F813,1,405719}This is the Lucifer Palace Terminal.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+</mbm>

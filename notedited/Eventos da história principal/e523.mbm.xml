@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>〉 It's filled with a horrible stench.{F801}</source>
+    <target>〉 It's filled with a horrible stench.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 There's something on the ground.{F801}</source>
+    <target>〉 There's something on the ground.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Obtained {F841,35}.{F801}</source>
+    <target>〉 Obtained {F841,35}.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source></source>
+    <target></target>
+  </entry>
+  <entry id="4">
+    <source>〉 You have no business here anymore.{F801}</source>
+    <target>〉 You have no business here anymore.{F801}</target>
+  </entry>
+</mbm>

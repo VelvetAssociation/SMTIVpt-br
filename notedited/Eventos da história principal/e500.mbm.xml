@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Polite jailer\0{F87A,164}{F813,1,412201}...Is this our second meeting here?{F801}</source>
+    <target>{F812}Polite jailer\0{F87A,164}{F813,1,412201}...Is this our second meeting here?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hot-headed jailer\0{F87A,165}{F813,1,415001}You're a Samurai, right? Didja hafta{F801}commit seppuku that many times?{F801}</source>
+    <target>{F812}Hot-headed jailer\0{F87A,165}{F813,1,415001}You're a Samurai, right? Didja hafta{F801}commit seppuku that many times?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Polite jailer\0{F87A,164}Though you have met an unfortunate end,{F801}you're in luck. Since you are the soul{F801}of a Samurai...{F801}{F802}And since Master Charon isn't here right{F801}now...{F801}</source>
+    <target>{F812}Polite jailer\0{F87A,164}Though you have met an unfortunate end,{F801}you're in luck. Since you are the soul{F801}of a Samurai...{F801}{F802}And since Master Charon isn't here right{F801}now...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hot-headed jailer\0{F87A,165}...Stay still, got it? Don't swing your{F801}arms or nothing...{F801}</source>
+    <target>{F812}Hot-headed jailer\0{F87A,165}...Stay still, got it? Don't swing your{F801}arms or nothing...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The hot-headed jailer took something{F801}from his pocket and raised it to your{F801}Gauntlet...{F801}</source>
+    <target>〉 The hot-headed jailer took something{F801}from his pocket and raised it to your{F801}Gauntlet...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F813,0,400004}{F87A,2}I have info for you.{F801}</source>
+    <target>{F812}Burroughs\0{F813,0,400004}{F87A,2}I have info for you.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>You can now {F804,5}choose a difficulty setting.{F804,0}{F801}{F802}This will allow you to {F804,5}adjust the{F801}difficulty level whenever you wish{F801}during the game.{F804,0}{F801}{F802}If you feel that the game is too hard,{F801}select {F804,5}Burroughs{F804,0} -〉 {F804,5}Difficulty{F804,0} from{F801}the menu screen.{F801}</source>
+    <target>You can now {F804,5}choose a difficulty setting.{F804,0}{F801}{F802}This will allow you to {F804,5}adjust the{F801}difficulty level whenever you wish{F801}during the game.{F804,0}{F801}{F802}If you feel that the game is too hard,{F801}select {F804,5}Burroughs{F804,0} -〉 {F804,5}Difficulty{F804,0} from{F801}the menu screen.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Burroughs\0{F813,0,10019}{F87A,2}Did you get all that?{F801}</source>
+    <target>{F812}Burroughs\0{F813,0,10019}{F87A,2}Did you get all that?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>"Yes... Yes."{F801}"Once more, please?"{F801}</source>
+    <target>"Yes... Yes."{F801}"Once more, please?"{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F813,0,400056}{F87A,2}All right. I'll display the{F801}information once more.{F801}</source>
+    <target>{F812}Burroughs\0{F813,0,400056}{F87A,2}All right. I'll display the{F801}information once more.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hot-headed jailer\0{F87A,165}We don't need no money, so hurry up and{F801}get outta here!{F801}</source>
+    <target>{F812}Hot-headed jailer\0{F87A,165}We don't need no money, so hurry up and{F801}get outta here!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Polite jailer\0{F87A,164}...And please be sure never to speak of{F801}this to anyone...{F801}</source>
+    <target>{F812}Polite jailer\0{F87A,164}...And please be sure never to speak of{F801}this to anyone...{F801}</target>
+  </entry>
+</mbm>

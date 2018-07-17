@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Man's voice\0{F87A,2}{F813,0,285001}Whoa, whoa, whoaaa! Hold it right there!{F801}</source>
+    <target>{F812}Man's voice\0{F87A,2}{F813,0,285001}Whoa, whoa, whoaaa! Hold it right there!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 A man suddenly rushes towards you and{F801}blocks your passage.{F801}</source>
+    <target>〉 A man suddenly rushes towards you and{F801}blocks your passage.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,285002}Whew... Sorry kid, but I'm not gonna{F801}let you go any further.{F801}{F802}{F813,0,285003}Folks call me the Terminal Guardian.{F801}I'm a tried and true veteran who's been{F801}on the job for over twenty years.{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,285002}Whew... Sorry kid, but I'm not gonna{F801}let you go any further.{F801}{F802}{F813,0,285003}Folks call me the Terminal Guardian.{F801}I'm a tried and true veteran who's been{F801}on the job for over twenty years.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,285004}Huh...? You're that kid from before!{F801}You're gonna pay for last time...{F801}{F802}{F813,0,285005}Well, never mind that, though! My{F801}guardian's intuition came into play.{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,285004}Huh...? You're that kid from before!{F801}You're gonna pay for last time...{F801}{F802}{F813,0,285005}Well, never mind that, though! My{F801}guardian's intuition came into play.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,285006}So, it was you... That was a close one.{F801}I'll skip the introduction this time.{F801}{F802}{F813,0,285007}After all, surely you know... If I'm{F801}here, a Terminal's not far off!{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,285006}So, it was you... That was a close one.{F801}I'll skip the introduction this time.{F801}{F802}{F813,0,285007}After all, surely you know... If I'm{F801}here, a Terminal's not far off!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,285008}You're my sworn enemy... You've really{F801}done a number on the Terminals in{F801}Tokyo!{F801}{F802}{F813,0,285009}I've bounced from job to job, trying{F801}to feed my family...{F801}{F802}{F813,0,285010}But my keenly-honed intuition told{F801}me what's here!{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,285008}You're my sworn enemy... You've really{F801}done a number on the Terminals in{F801}Tokyo!{F801}{F802}{F813,0,285009}I've bounced from job to job, trying{F801}to feed my family...{F801}{F802}{F813,0,285010}But my keenly-honed intuition told{F801}me what's here!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Intuitive man\0{F87A,118}{F813,0,285012}If there's a Terminal behind me, then{F801}I'll kill anyone who gets near it!{F801}</source>
+    <target>{F812}Intuitive man\0{F87A,118}{F813,0,285012}If there's a Terminal behind me, then{F801}I'll kill anyone who gets near it!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The Domain lifted...{F801}</source>
+    <target>〉 The Domain lifted...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74005}This seems to be a type of Terminal{F801}too. The activation program ran{F801}normally, anyway.{F801}{F802}{F813,1,405718}This is the Purgatorium Terminal.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74005}This seems to be a type of Terminal{F801}too. The activation program ran{F801}normally, anyway.{F801}{F802}{F813,1,405718}This is the Purgatorium Terminal.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+</mbm>

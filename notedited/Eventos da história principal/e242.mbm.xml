@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>{F813,0,242001}{F812}Voice\0It seems you've slain the White.{F801}</source>
+    <target>{F813,0,242001}{F812}Voice\0It seems you've slain the White.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Lucifer\0{F87A,-1085}{F813,0,242002}Their influence over the Expanse{F801}appears to have temporarily faded.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F813,0,242002}Their influence over the Expanse{F801}appears to have temporarily faded.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Lucifer\0{F87A,-1085}{F813,0,242004}As long as humans exist, beings such{F801}as myself, God, and the White will{F801}never truly disappear.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F813,0,242004}As long as humans exist, beings such{F801}as myself, God, and the White will{F801}never truly disappear.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,242008}I saw how pitiful Kiyoharu and Kenji{F801}were... I'd do anything to avoid{F801}becoming like them.{F801}{F802}{F813,0,242009}{F87B,4,1,1,1}Let's go back, {F843,0}. To our world...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,242008}I saw how pitiful Kiyoharu and Kenji{F801}were... I'd do anything to avoid{F801}becoming like them.{F801}{F802}{F813,0,242009}{F87B,4,1,1,1}Let's go back, {F843,0}. To our world...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,242003}Temporarily...? But we defeated them...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,242003}Temporarily...? But we defeated them...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Lucifer\0{F87A,-1085}{F813,0,242005}Now, let us go back. Your final task{F801}awaits you.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F813,0,242005}Now, let us go back. Your final task{F801}awaits you.{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>{F812}Lucifer\0{F87A,-1085}{F813,0,242006}You intend to create a new world, no?{F801}Where the strong can shape it as they{F801}see fit...{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F813,0,242006}You intend to create a new world, no?{F801}Where the strong can shape it as they{F801}see fit...{F801}</target>
+  </entry>
+  <entry id="302">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,242007}Indeed. I haven't forgotten...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,242007}Indeed. I haven't forgotten...{F801}</target>
+  </entry>
+</mbm>

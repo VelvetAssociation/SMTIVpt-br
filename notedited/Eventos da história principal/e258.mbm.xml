@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0The day will never come that {F843,0}{F801}looks upon the world he has saved.{F801}{F802}Which is why this is small comfort...{F801}</source>
+    <target>{F812}Voice\0The day will never come that {F843,0}{F801}looks upon the world he has saved.{F801}{F802}Which is why this is small comfort...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0Though it is not much, I shall show{F801}you the future of the world he chose.{F801}</source>
+    <target>{F812}Voice\0Though it is not much, I shall show{F801}you the future of the world he chose.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Voice\0In years to come, it will be known as{F801}a holy land.{F801}</source>
+    <target>{F812}Voice\0In years to come, it will be known as{F801}a holy land.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Voice\0And though he will not be present in{F801}person, he will live on there are a{F801}great hero.{F801}</source>
+    <target>{F812}Voice\0And though he will not be present in{F801}person, he will live on there are a{F801}great hero.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Voice\0So long as the people of this kingdom{F801}do not forget God...{F801}</source>
+    <target>{F812}Voice\0So long as the people of this kingdom{F801}do not forget God...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>このÍäñトはカットÁニメÍäñトになる{F801}想定ですが本Verでは実機Íäñトで表現します{F801}</source>
+    <target>このÍäñトはカットÁニメÍäñトになる{F801}想定ですが本Verでは実機Íäñトで表現します{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Thus was a world created where all that{F801}is evil is ousted. The peace that the{F801}people know today shall last forever.{F801}{F802}〉 It is a world populated only with the{F801}innocent; the world God longed to see.{F801}</source>
+    <target>〉 Thus was a world created where all that{F801}is evil is ousted. The peace that the{F801}people know today shall last forever.{F801}{F802}〉 It is a world populated only with the{F801}innocent; the world God longed to see.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,279001}Hmm, what's this...?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,279001}Hmm, what's this...?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 The Great Spirit of Spite flew towards{F801}{F843,0}.{F801}</source>
+    <target>〉 The Great Spirit of Spite flew towards{F801}{F843,0}.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Obtained the Great Spirit of Spite.{F801}</source>
+    <target>〉 Obtained the Great Spirit of Spite.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,279006}Ah, thank goodness... I was growing{F801}worried when I found myself unable{F801}to reach you.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,279006}Ah, thank goodness... I was growing{F801}worried when I found myself unable{F801}to reach you.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,279007}The preparations are ready on my end.{F801}The Commander is leading everyone{F801}down to Tokyo.{F801}{F802}{F813,0,279008}They'll make their arrival in Shinjuku{F801}presently.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,279007}The preparations are ready on my end.{F801}The Commander is leading everyone{F801}down to Tokyo.{F801}{F802}{F813,0,279008}They'll make their arrival in Shinjuku{F801}presently.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,279009}Shall I see you there?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,279009}Shall I see you there?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,279002}Scanning...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,279002}Scanning...{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,279003}That bizarre thing that appeared after{F801}you defeated the Demon Lord...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,279003}That bizarre thing that appeared after{F801}you defeated the Demon Lord...{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,279004}I've scanned it, but I'm still not{F801}sure what it is.{F801}{F802}{F813,0,279005}But I never could understand human{F801}emotions, so I assume it's the Great{F801}Spirit of Spite.{F801}{F802}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,279004}I've scanned it, but I'm still not{F801}sure what it is.{F801}{F802}{F813,0,279005}But I never could understand human{F801}emotions, so I assume it's the Great{F801}Spirit of Spite.{F801}{F802}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

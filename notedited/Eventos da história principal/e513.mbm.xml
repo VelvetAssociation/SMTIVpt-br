@@ -1,0 +1,114 @@
+<mbm>
+  <entry id="1">
+    <source>〉 Things are scattered everywhere.{F801}</source>
+    <target>〉 Things are scattered everywhere.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 There is something on the floor.{F801}</source>
+    <target>〉 There is something on the floor.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 There is nothing else here that seems{F801}useful.{F801}</source>
+    <target>〉 There is nothing else here that seems{F801}useful.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Obtained Dx Incense.{F801}</source>
+    <target>〉 Obtained Dx Incense.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Obtained St Incense.{F801}</source>
+    <target>〉 Obtained St Incense.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Obtained Ma Incense.{F801}</source>
+    <target>〉 Obtained Ma Incense.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Obtained Ag Incense.{F801}</source>
+    <target>〉 Obtained Ag Incense.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Obtained Lu Incense.{F801}</source>
+    <target>〉 Obtained Lu Incense.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446002}Though it may be temporary, Tayama{F801}brought order to a Tokyo filled with{F801}confusion...{F801}{F802}I have decided that this is what the{F801}Lord desires. That is why I overlook{F801}the use of the Reds.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446002}Though it may be temporary, Tayama{F801}brought order to a Tokyo filled with{F801}confusion...{F801}{F802}I have decided that this is what the{F801}Lord desires. That is why I overlook{F801}the use of the Reds.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Mastema\0{F87A,-16}...Ah, it seems I have said too much.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}...Ah, it seems I have said too much.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446004}You wish to go on ahead, correct? I have{F801}already lifted my barrier.{F801}{F802}Be careful on your way... my fellow.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446004}You wish to go on ahead, correct? I have{F801}already lifted my barrier.{F801}{F802}Be careful on your way... my fellow.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446004}You are free to condemn the Reds as{F801}inhumane or defend them as a necessary{F801}evil...{F801}{F802}Temporary though it maybe, they bring{F801}order to Tokyo. I have decided that this{F801}is what the Lord wishes.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446004}You are free to condemn the Reds as{F801}inhumane or defend them as a necessary{F801}evil...{F801}{F802}Temporary though it maybe, they bring{F801}order to Tokyo. I have decided that this{F801}is what the Lord wishes.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Mastema\0{F87A,-16}My fellow, do not be deluded by the{F801}witch of the night...{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}My fellow, do not be deluded by the{F801}witch of the night...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446001}...You plan to slay the witch of the{F801}night, correct?{F801}{F802}I leave that task to you. I will continue{F801}to supervise the Reds from here.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446001}...You plan to slay the witch of the{F801}night, correct?{F801}{F802}I leave that task to you. I will continue{F801}to supervise the Reds from here.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Mastema\0{F87A,-16}Let us both carry out our roles. I wish{F801}you good luck...{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}Let us both carry out our roles. I wish{F801}you good luck...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446002}...You plan to side with the witch of{F801}the night, correct?{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446002}...You plan to side with the witch of{F801}the night, correct?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Mastema\0{F87A,-16}Turning one's back to the Lord may also{F801}be a chance to learn of His greatness...{F801}{F802}In the hopes this will come to pass,{F801}I shall overlook your actions.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}Turning one's back to the Lord may also{F801}be a chance to learn of His greatness...{F801}{F802}In the hopes this will come to pass,{F801}I shall overlook your actions.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446000}No matter what way you choose, I shall{F801}remain here to supervise the Reds.{F801}{F802}...Now, go.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446000}No matter what way you choose, I shall{F801}remain here to supervise the Reds.{F801}{F802}...Now, go.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446003}Gracious... to think that a son of man{F801}could grow so great as to have the Lord's{F801}chariot at his beck and call.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446003}Gracious... to think that a son of man{F801}could grow so great as to have the Lord's{F801}chariot at his beck and call.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Mastema\0{F87A,-16}If the Lord wishes for the eradication{F801}of the Unclean Ones, you must devote{F801}yourself to carrying out His will.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}If the Lord wishes for the eradication{F801}of the Unclean Ones, you must devote{F801}yourself to carrying out His will.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Mastema\0{F87A,-16}I shall continue to supervise the Reds{F801}from here...{F801}{F802}Until the very moment you erase Tokyo...{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}I shall continue to supervise the Reds{F801}from here...{F801}{F802}Until the very moment you erase Tokyo...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446003}Ah... to think that the son of man,{F801}created by our Lord, would be in league{F801}with the Demon Lord...{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446003}Ah... to think that the son of man,{F801}created by our Lord, would be in league{F801}with the Demon Lord...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Mastema\0{F87A,-16}Hoho, be you relieved. I do not{F801}condemn you.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}Hoho, be you relieved. I do not{F801}condemn you.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446000}My duty is to supervise the Reds, not to{F801}do battle with demons.{F801}{F802}The Lord's chariot will be intervening.{F801}There is no need for me to take an{F801}active hand in the conflict...{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446000}My duty is to supervise the Reds, not to{F801}do battle with demons.{F801}{F802}The Lord's chariot will be intervening.{F801}There is no need for me to take an{F801}active hand in the conflict...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446001}...I did not recognize you for a moment.{F801}Your face looks even more intrepid than{F801}before.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446001}...I did not recognize you for a moment.{F801}Your face looks even more intrepid than{F801}before.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Mastema\0{F87A,-16}I have heard that you rejected a world{F801}of angels or demons, and chose to return{F801}Tokyo to its previous state.{F801}{F802}That is indeed an admirable choice.{F801}Though of course, it means prolonging{F801}the suffering of the sons of man...{F801}{F802}What you see as the best way may not{F801}be desirable to all... no?{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}I have heard that you rejected a world{F801}of angels or demons, and chose to return{F801}Tokyo to its previous state.{F801}{F802}That is indeed an admirable choice.{F801}Though of course, it means prolonging{F801}the suffering of the sons of man...{F801}{F802}What you see as the best way may not{F801}be desirable to all... no?{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Mastema\0{F87A,-16}{F813,1,446004}...'Tis no sin to be troubled. Doubts{F801}are but an opportunity for the seed of{F801}belief in the Lord to germinate.{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,1,446004}...'Tis no sin to be troubled. Doubts{F801}are but an opportunity for the seed of{F801}belief in the Lord to germinate.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>〉 Mastema is no longer here...{F801}</source>
+    <target>〉 Mastema is no longer here...{F801}</target>
+  </entry>
+</mbm>

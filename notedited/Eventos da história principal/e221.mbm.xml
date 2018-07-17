@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>〉 Two demons are talking to each other...{F801}</source>
+    <target>〉 Two demons are talking to each other...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,221001}Look, I told you before...{F801}{F802}{F813,0,221002}It's a sad accident, but that's the{F801}risk you take with fusion.{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,221001}Look, I told you before...{F801}{F802}{F813,0,221002}It's a sad accident, but that's the{F801}risk you take with fusion.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-547}{F813,0,221003}......{F801}</source>
+    <target>{F812}Demon\0{F87A,-547}{F813,0,221003}......{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,221004}You knew the risks when you signed up{F801}to become a demonoid, right?{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,221004}You knew the risks when you signed up{F801}to become a demonoid, right?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon\0{F87A,-547}{F813,0,221005}......{F801}</source>
+    <target>{F812}Demon\0{F87A,-547}{F813,0,221005}......{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,221006}No, there's no way to reverse the{F801}process. Give up.{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,221006}No, there's no way to reverse the{F801}process. Give up.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 The conversation continues...{F801}</source>
+    <target>〉 The conversation continues...{F801}</target>
+  </entry>
+</mbm>

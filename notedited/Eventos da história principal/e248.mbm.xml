@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}White\0{F87A,124}{F813,0,248001}Our fifth son, who chose neutrality...{F801}</source>
+    <target>{F812}White\0{F87A,124}{F813,0,248001}Our fifth son, who chose neutrality...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}White\0{F87A,220}[我/われ]らが[慈悲/じひ]が[伝/つた]わらぬとは[残念/ざんねん]だよ{F801}{F802}[世界/せかい]の[維持/いじ]も[世界/せかい]の[破壊/はかい]も[選/えら]ばず{F801}…そして[世界/せかい]が[無/む]に[帰/き]すことも[拒/こば]む[者/もの]よ{F801}</source>
+    <target>{F812}White\0{F87A,220}[我/われ]らが[慈悲/じひ]が[伝/つた]わらぬとは[残念/ざんねん]だよ{F801}{F802}[世界/せかい]の[維持/いじ]も[世界/せかい]の[破壊/はかい]も[選/えら]ばず{F801}…そして[世界/せかい]が[無/む]に[帰/き]すことも[拒/こば]む[者/もの]よ{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}White\0{F87A,220}{F813,0,234002}It is our fate to endlessly repeat the{F801}same mistakes.{F801}{F802}{F813,0,248003}Given this, what other salvation can{F801}there be than returning everything{F801}to naught...?{F801}</source>
+    <target>{F812}White\0{F87A,220}{F813,0,234002}It is our fate to endlessly repeat the{F801}same mistakes.{F801}{F802}{F813,0,248003}Given this, what other salvation can{F801}there be than returning everything{F801}to naught...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}White\0{F87A,220}{F813,0,248004}Your choice is wrong... We will prove{F801}that to you...{F801}</source>
+    <target>{F812}White\0{F87A,220}{F813,0,248004}Your choice is wrong... We will prove{F801}that to you...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}[間/ま]もなく[元/もと]の[世界/せかい]に[戻/もど]れると{F801}そう[認識/にんしき]してね{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}[間/ま]もなく[元/もと]の[世界/せかい]に[戻/もど]れると{F801}そう[認識/にんしき]してね{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}[唐突/とうとつ]だけど[過去/かこ]のデータを[参照/さんしょう]したの{F801}{F843,0}[様/さま]{F801}{F802}[以前/いぜん] [神/かみ]にも[悪魔/あくま]にも[頼/たよ]らず{F801}{F843,0}[様/さま]は[人間/にんげん]であろうとしたの{F801}{F802}でも そう[選/えら]んだ[行動/こうどう]は{F801}かなりの[悲劇/ひげき]だと[記憶/きおく]しているの{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}[唐突/とうとつ]だけど[過去/かこ]のデータを[参照/さんしょう]したの{F801}{F843,0}[様/さま]{F801}{F802}[以前/いぜん] [神/かみ]にも[悪魔/あくま]にも[頼/たよ]らず{F801}{F843,0}[様/さま]は[人間/にんげん]であろうとしたの{F801}{F802}でも そう[選/えら]んだ[行動/こうどう]は{F801}かなりの[悲劇/ひげき]だと[記憶/きおく]しているの{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}[今度/こんど]は あんなことにならないことを{F801}[推奨/すいしょう]させてね{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}[今度/こんど]は あんなことにならないことを{F801}[推奨/すいしょう]させてね{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+</mbm>

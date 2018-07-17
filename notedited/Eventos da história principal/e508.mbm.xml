@@ -1,0 +1,530 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The room reeks of alcohol...{F801}</source>
+    <target>〉 The room reeks of alcohol...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-921}{F813,1,414005}You're more capable than I thought a{F801}mere human could be... So that's what{F801}one who holds the Black Card can do.{F801}</source>
+    <target>{F812}Demon\0{F87A,-921}{F813,1,414005}You're more capable than I thought a{F801}mere human could be... So that's what{F801}one who holds the Black Card can do.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hunter\0{F87A,118}{F813,1,403032}This isn't... business... It's for my{F801}honor... as a "Togo"...{F801}</source>
+    <target>{F812}Hunter\0{F87A,118}{F813,1,403032}This isn't... business... It's for my{F801}honor... as a "Togo"...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-921}{F813,1,414002}Hohohoh! What an interesting human.{F801}Then I should care less about my own{F801}appearance...{F801}{F802}The winner takes the loser's legs.{F801}I hope you haven't forgotten that part{F801}of it...{F801}⇒キーフíー{F801}</source>
+    <target>{F812}Demon\0{F87A,-921}{F813,1,414002}Hohohoh! What an interesting human.{F801}Then I should care less about my own{F801}appearance...{F801}{F802}The winner takes the loser's legs.{F801}I hope you haven't forgotten that part{F801}of it...{F801}⇒キーフíー{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,1,400305}...Hm? Is that...?{F801}{F802}No, it can't be... but...!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,1,400305}...Hm? Is that...?{F801}{F802}No, it can't be... but...!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F87B,5,1,1,1}〉 Isabeau picked up a book from the{F801}floor and stared intently at it...{F801}</source>
+    <target>{F87B,5,1,1,1}〉 Isabeau picked up a book from the{F801}floor and stared intently at it...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}Ahh... That unmistakable artwork on the{F801}cover! To think that I'd find the manga{F801}I'd been searching for here...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}Ahh... That unmistakable artwork on the{F801}cover! To think that I'd find the manga{F801}I'd been searching for here...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}Ahh... That unmistakable artwork on the{F801}cover! This is the manga I'd been{F801}searching for! It was still here...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}Ahh... That unmistakable artwork on the{F801}cover! This is the manga I'd been{F801}searching for! It was still here...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,1,400308}But... how could this be!? This one has{F801}a "5" written on the spine...{F801}{F802}I've not even read half of the one with{F801}the "3" on the spine...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,1,400308}But... how could this be!? This one has{F801}a "5" written on the spine...{F801}{F802}I've not even read half of the one with{F801}the "3" on the spine...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,1,400308}But... how could this be!? This one has{F801}a "5" written on the spine...{F801}{F802}I've barely begun reading the latter{F801}half of the one with the "4" on the{F801}spine...!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,1,400308}But... how could this be!? This one has{F801}a "5" written on the spine...{F801}{F802}I've barely begun reading the latter{F801}half of the one with the "4" on the{F801}spine...!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,1,400307}O-Oh...! What a welcome surprise! This{F801}one has "5" written on the spine!{F801}{F802}Why, I had just finished reading the one{F801}with the "4" on the spine and had hoped{F801}to read the next...!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,1,400307}O-Oh...! What a welcome surprise! This{F801}one has "5" written on the spine!{F801}{F802}Why, I had just finished reading the one{F801}with the "4" on the spine and had hoped{F801}to read the next...!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}I would truly love to read this... but{F801}to fully enjoy the story, it must be{F801}read in the proper order.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}I would truly love to read this... but{F801}to fully enjoy the story, it must be{F801}read in the proper order.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,1,400309}...No, I can't make up my mind.{F801}{F802}I'll pretend that I didn't see this{F801}manga here...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,1,400309}...No, I can't make up my mind.{F801}{F802}I'll pretend that I didn't see this{F801}manga here...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}I am curious, {F843,0}... If I said{F801}to you that I would like to read this{F801}manga here, right now...{F801}{F802}Would you allow me time to do so...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}I am curious, {F843,0}... If I said{F801}to you that I would like to read this{F801}manga here, right now...{F801}{F802}Would you allow me time to do so...?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>"Of course."{F801}"Don't be absurd."{F801}</source>
+    <target>"Of course."{F801}"Don't be absurd."{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,9,1,1}{F813,1,433000}T-Truly!? Thank you...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,9,1,1}{F813,1,433000}T-Truly!? Thank you...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,4,1,1}......{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,4,1,1}......{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 Isabeau began reading the manga...{F801}</source>
+    <target>〉 Isabeau began reading the manga...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}......{F801}{F802}{F813,1,400303}*sniff*{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}......{F801}{F802}{F813,1,400303}*sniff*{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}Such a loving couple... Was death truly{F801}the only way for them to be joined?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}Such a loving couple... Was death truly{F801}the only way for them to be joined?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,9,1,1}...I-I'm sorry. The end of the story{F801}was just so affecting...{F801}{F802}Once again, thank you, {F843,0}.{F801}It's very good of you to give me the{F801}time to enjoy this.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,9,1,1}...I-I'm sorry. The end of the story{F801}was just so affecting...{F801}{F802}Once again, thank you, {F843,0}.{F801}It's very good of you to give me the{F801}time to enjoy this.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 Isabeau hugs the manga and places it{F801}with her belongings.{F801}</source>
+    <target>〉 Isabeau hugs the manga and places it{F801}with her belongings.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}...Let us go.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}...Let us go.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,1,400308}I see... That's understandable.{F801}{F802}Never fear, it was only a hypothetical.{F801}Let us go...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,1,400308}I see... That's understandable.{F801}{F802}Never fear, it was only a hypothetical.{F801}Let us go...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 There is a book on the floor.{F801}</source>
+    <target>〉 There is a book on the floor.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>〉 The manga is no longer on the floor.{F801}</source>
+    <target>〉 The manga is no longer on the floor.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Demon\0{F87A,-248}{F813,1,471000}Obviously, I'm the "heroine" type!{F801}</source>
+    <target>{F812}Demon\0{F87A,-248}{F813,1,471000}Obviously, I'm the "heroine" type!{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Demon\0{F87A,-249}{F813,1,417209}What're you talking about? I think{F801}humans would prefer someone a little{F801}more unspoiled.{F801}</source>
+    <target>{F812}Demon\0{F87A,-249}{F813,1,417209}What're you talking about? I think{F801}humans would prefer someone a little{F801}more unspoiled.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Demon\0{F87A,-342}{F813,1,419305}You kids just don't get it. These days,{F801}older women are all the rage.{F801}</source>
+    <target>{F812}Demon\0{F87A,-342}{F813,1,419305}You kids just don't get it. These days,{F801}older women are all the rage.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Demon\0{F87A,-248}{F813,1,471002}...Hm? Ooh, perfect timing! Excuse me!{F801}Mr. Human?{F801}{F802}You have a Black Card, so you know{F801}what's what, right?{F801}{F802}Who do you think is most cut out to be{F801}a heroine? And honestly... I think{F801}there's only two real choices here.{F801}</source>
+    <target>{F812}Demon\0{F87A,-248}{F813,1,471002}...Hm? Ooh, perfect timing! Excuse me!{F801}Mr. Human?{F801}{F802}You have a Black Card, so you know{F801}what's what, right?{F801}{F802}Who do you think is most cut out to be{F801}a heroine? And honestly... I think{F801}there's only two real choices here.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>"You, on the left."{F801}"You in the center."{F801}"The demon on the right."{F801}"This warrants further consideration."{F801}</source>
+    <target>"You, on the left."{F801}"You in the center."{F801}"The demon on the right."{F801}"This warrants further consideration."{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Demon\0{F87A,-248}{F813,1,471003}That's what I thought! It wasn't even{F801}worth asking, considering I'd obviously{F801}get the congeniality award.{F801}</source>
+    <target>{F812}Demon\0{F87A,-248}{F813,1,471003}That's what I thought! It wasn't even{F801}worth asking, considering I'd obviously{F801}get the congeniality award.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Demon\0{F87A,-248}{F813,1,471001}You really get it, Mr. Human!{F801}Here, this is for you!{F801}</source>
+    <target>{F812}Demon\0{F87A,-248}{F813,1,471001}You really get it, Mr. Human!{F801}Here, this is for you!{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>〉 Obtained {F841,6}.{F801}</source>
+    <target>〉 Obtained {F841,6}.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Demon\0{F87A,-249}{F813,1,417202}That's right! Of course you'd rather{F801}have a fresh face than a girl who's been{F801}handed down who knows how many times!{F801}</source>
+    <target>{F812}Demon\0{F87A,-249}{F813,1,417202}That's right! Of course you'd rather{F801}have a fresh face than a girl who's been{F801}handed down who knows how many times!{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Demon\0{F87A,-249}{F813,1,417200}This isn't so we can get acquainted or{F801}anything, but you can have this.{F801}</source>
+    <target>{F812}Demon\0{F87A,-249}{F813,1,417200}This isn't so we can get acquainted or{F801}anything, but you can have this.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>〉 Obtained {F841,6}.{F801}</source>
+    <target>〉 Obtained {F841,6}.{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Demon\0{F87A,-342}{F813,1,419300}See? Human tastes change over time.{F801}Don't be so sure that youth trumps{F801}everything.{F801}</source>
+    <target>{F812}Demon\0{F87A,-342}{F813,1,419300}See? Human tastes change over time.{F801}Don't be so sure that youth trumps{F801}everything.{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Demon\0{F87A,-342}{F813,1,419304}As for you, boy... Since you have such{F801}a discerning eye, I'll give you this.{F801}</source>
+    <target>{F812}Demon\0{F87A,-342}{F813,1,419304}As for you, boy... Since you have such{F801}a discerning eye, I'll give you this.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>〉 Obtained {F841,6}.{F801}</source>
+    <target>〉 Obtained {F841,6}.{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Demon\0{F87A,-248}{F813,1,471009}Hmm... Doesn't seem like something you'd{F801}need to think that hard about, but if so,{F801}never mind. Sorry to waste your time.{F801}</source>
+    <target>{F812}Demon\0{F87A,-248}{F813,1,471009}Hmm... Doesn't seem like something you'd{F801}need to think that hard about, but if so,{F801}never mind. Sorry to waste your time.{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>〉 The demons are having a heated{F801}conversation...{F801}</source>
+    <target>〉 The demons are having a heated{F801}conversation...{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404311}...Who are you? I haven't seen you{F801}around here...{F801}{F802}But no matter. You're here now, which{F801}means you're quite confident in your{F801}own power.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404311}...Who are you? I haven't seen you{F801}around here...{F801}{F802}But no matter. You're here now, which{F801}means you're quite confident in your{F801}own power.{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Ring of Gaea man\0{F87A,53}A safe assumption, yes...?{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}A safe assumption, yes...?{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>"I'm confident."{F801}"I'm not confident."{F801}</source>
+    <target>"I'm confident."{F801}"I'm not confident."{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404311}...I hope those aren't just empty words.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404311}...I hope those aren't just empty words.{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404311}Then leave here at once...{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404311}Then leave here at once...{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404303}From here forward, only those with power{F801}are allowed.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404303}From here forward, only those with power{F801}are allowed.{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>{F812}Ring of Gaea man\0{F87A,53}And we measure one's personal power by{F801}how much one is willing to spend.{F801}{F802}If you wish to proceed, the cost will{F801}be {F804,5}5,000 Macca.{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}And we measure one's personal power by{F801}how much one is willing to spend.{F801}{F802}If you wish to proceed, the cost will{F801}be {F804,5}5,000 Macca.{F804,0}{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>Pay{F801}Don't pay{F801}</source>
+    <target>Pay{F801}Don't pay{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404331}Ah... very good.{F801}{F802}I'll let you through. You can do as you{F801}please on the west side.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404331}Ah... very good.{F801}{F802}I'll let you through. You can do as you{F801}please on the west side.{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404331}So they were merely empty words after{F801}all...?{F801}{F802}Come back if you find the strength in{F801}you to do so. And have the {F804,5}5,000 Macca{F804,0}{F801}ready...{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404331}So they were merely empty words after{F801}all...?{F801}{F802}Come back if you find the strength in{F801}you to do so. And have the {F804,5}5,000 Macca{F804,0}{F801}ready...{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404312}You won't part with such a meager sum?{F801}{F802}Then leave here at once.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404312}You won't part with such a meager sum?{F801}{F802}Then leave here at once.{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404303}From here forward, only those with power{F801}are allowed.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404303}From here forward, only those with power{F801}are allowed.{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>{F812}Ring of Gaea man\0{F87A,53}And we measure one's personal power by{F801}how much one is willing to spend.{F801}{F802}If you wish to proceed, the cost will{F801}be {F804,5}5,000 Macca.{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}And we measure one's personal power by{F801}how much one is willing to spend.{F801}{F802}If you wish to proceed, the cost will{F801}be {F804,5}5,000 Macca.{F804,0}{F801}</target>
+  </entry>
+  <entry id="56">
+    <source>{F812}Ring of Gaea man\0Have you prepared the {F804,5}5,000 Macca?{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea man\0Have you prepared the {F804,5}5,000 Macca?{F804,0}{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403002}Oh... Perfect timing.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403002}Oh... Perfect timing.{F801}</target>
+  </entry>
+  <entry id="58">
+    <source>{F812}Hunter man\0{F87A,67}I got my hands on a {F804,5}{F841,833}{F804,0}{F801}over there.{F801}{F802}The bastard who bumped into me and didn't{F801}even apologize just happened to have one{F801}with him.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}I got my hands on a {F804,5}{F841,833}{F804,0}{F801}over there.{F801}{F802}The bastard who bumped into me and didn't{F801}even apologize just happened to have one{F801}with him.{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>{F812}Hunter man\0{F87A,67}But enough about that... interested in{F801}buying this {F804,5}{F841,833}{F804,0} for{F801}{F804,5}5,000 Macca?{F804,0}{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}But enough about that... interested in{F801}buying this {F804,5}{F841,833}{F804,0} for{F801}{F804,5}5,000 Macca?{F804,0}{F801}</target>
+  </entry>
+  <entry id="60">
+    <source>Buy it{F801}Don't buy it{F801}</source>
+    <target>Buy it{F801}Don't buy it{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403042}...Nah, I changed my mind.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403042}...Nah, I changed my mind.{F801}</target>
+  </entry>
+  <entry id="62">
+    <source>{F812}Hunter man\0{F87A,67}I'm going to charge extra for having to{F801}go through the poison zone twice. Let's{F801}make it {F804,5}10,000 Macca{F804,0} instead.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}I'm going to charge extra for having to{F801}go through the poison zone twice. Let's{F801}make it {F804,5}10,000 Macca{F804,0} instead.{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403012}I'm surprised you came out to Ginza{F801}without even knowing how much you had{F801}to spend...{F801}{F802}Sorry to waste your time. Thanks.{F801}You can leave now...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403012}I'm surprised you came out to Ginza{F801}without even knowing how much you had{F801}to spend...{F801}{F802}Sorry to waste your time. Thanks.{F801}You can leave now...{F801}</target>
+  </entry>
+  <entry id="64">
+    <source>{F812}Hunter man\0{F87A,67}...I see.{F801}{F802}Well, thanks for considering it.{F801}Sorry to waste your time. You can{F801}leave now...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}...I see.{F801}{F802}Well, thanks for considering it.{F801}Sorry to waste your time. You can{F801}leave now...{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>"Very well."{F801}"No."{F801}</source>
+    <target>"Very well."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="66">
+    <source>{F812}Hunter man\0{F87A,67}...You're pretty generous.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}...You're pretty generous.{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403012}I'm surprised you came out to Ginza{F801}without even knowing how much you had{F801}to spend...{F801}{F802}Sorry to waste your time. Thanks.{F801}You can leave now...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403012}I'm surprised you came out to Ginza{F801}without even knowing how much you had{F801}to spend...{F801}{F802}Sorry to waste your time. Thanks.{F801}You can leave now...{F801}</target>
+  </entry>
+  <entry id="68">
+    <source>{F812}Hunter man\0{F87A,67}...I see.{F801}{F802}Well, thanks for considering it.{F801}Sorry to waste your time. You can{F801}leave now...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}...I see.{F801}{F802}Well, thanks for considering it.{F801}Sorry to waste your time. You can{F801}leave now...{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>{F812}Hunter man\0{F87A,67}...Just to be clear, I haven't given up{F801}on the {F841,833}.{F801}{F802}Once I get some good equipment with the{F801}10,000 Macca you gave me...{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}...Just to be clear, I haven't given up{F801}on the {F841,833}.{F801}{F802}Once I get some good equipment with the{F801}10,000 Macca you gave me...{F801}</target>
+  </entry>
+  <entry id="70">
+    <source>{F812}Hunter man\0{F87A,67}{F813,1,403031}All I've gotta do is steal a {F841,833}{F801}from someone else...{F801}{F802}...See ya.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,67}{F813,1,403031}All I've gotta do is steal a {F841,833}{F801}from someone else...{F801}{F802}...See ya.{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404411}I'm not interested in a low-ranked boy{F801}like you. I may not look it, but I'm{F801}of the Gold Class.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404411}I'm not interested in a low-ranked boy{F801}like you. I may not look it, but I'm{F801}of the Gold Class.{F801}</target>
+  </entry>
+  <entry id="72">
+    <source>{F812}Ring of Gaea woman\0Come back when you can at least pay{F801}the man guarding the west side's{F801}asking price...{F801}</source>
+    <target>{F812}Ring of Gaea woman\0Come back when you can at least pay{F801}the man guarding the west side's{F801}asking price...{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404402}What? You want to get through here?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404402}What? You want to get through here?{F801}</target>
+  </entry>
+  <entry id="74">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}I only let those with a {F804,5}{F841,833}{F804,0}{F801}through.{F801}{F802}Do you have the strength to win a{F801}{F804,5}{F841,833}?{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}I only let those with a {F804,5}{F841,833}{F804,0}{F801}through.{F801}{F802}Do you have the strength to win a{F801}{F804,5}{F841,833}?{F804,0}{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}Oh...? You have a {F804,5}{F841,833}.{F804,0}{F801}Most impressive.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}Oh...? You have a {F804,5}{F841,833}.{F804,0}{F801}Most impressive.{F801}</target>
+  </entry>
+  <entry id="76">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Are you satisfied with just the west{F801}and south sides? If you think you can{F801}do better...{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Are you satisfied with just the west{F801}and south sides? If you think you can{F801}do better...{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}I ask that you pay me {F804,5}50,000 Macca.{F804,0}{F801}{F802}In return, I'll give you the chance to{F801}get a {F804,5}Platinum Card.{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}I ask that you pay me {F804,5}50,000 Macca.{F804,0}{F801}{F802}In return, I'll give you the chance to{F801}get a {F804,5}Platinum Card.{F804,0}{F801}</target>
+  </entry>
+  <entry id="78">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}Oh, you're back.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}Oh, you're back.{F801}</target>
+  </entry>
+  <entry id="79">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Since you have enough power to win{F801}a {F804,5}Gold Card...{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Since you have enough power to win{F801}a {F804,5}Gold Card...{F804,0}{F801}</target>
+  </entry>
+  <entry id="80">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}Ah, you came. It's good to be confident{F801}in your own strength.{F801}{F802}Now listen closely... I'm telling you{F801}this because you have the strength to{F801}possess a {F804,5}{F841,833}.{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}Ah, you came. It's good to be confident{F801}in your own strength.{F801}{F802}Now listen closely... I'm telling you{F801}this because you have the strength to{F801}possess a {F804,5}{F841,833}.{F804,0}{F801}</target>
+  </entry>
+  <entry id="81">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Wouldn't you like to prove your strength{F801}even more? Then I have some good news{F801}for you...{F801}{F802}I ask that you pay me {F804,5}50,000 Macca{F804,0}{F801}Think of it as paying for information.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Wouldn't you like to prove your strength{F801}even more? Then I have some good news{F801}for you...{F801}{F802}I ask that you pay me {F804,5}50,000 Macca{F804,0}{F801}Think of it as paying for information.{F801}</target>
+  </entry>
+  <entry id="82">
+    <source>Pay{F801}Don't pay{F801}</source>
+    <target>Pay{F801}Don't pay{F801}</target>
+  </entry>
+  <entry id="83">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}I admire your hunger...{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404431}I admire your hunger...{F801}</target>
+  </entry>
+  <entry id="84">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}I'm going to leave a box with a Platinum{F801}Card in it somewhere in Ginza.{F801}{F802}If you can find it, the Platinum Card{F801}is yours.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}I'm going to leave a box with a Platinum{F801}Card in it somewhere in Ginza.{F801}{F802}If you can find it, the Platinum Card{F801}is yours.{F801}</target>
+  </entry>
+  <entry id="85">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}You're allowed into the south area now.{F801}Will you find it, I wonder...?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}You're allowed into the south area now.{F801}Will you find it, I wonder...?{F801}</target>
+  </entry>
+  <entry id="86">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404421}Hm. It seems you don't have the "power"{F801}to get my information.{F801}{F802}If you want it, you'd better scrape{F801}together 50,000 Macca.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404421}Hm. It seems you don't have the "power"{F801}to get my information.{F801}{F802}If you want it, you'd better scrape{F801}together 50,000 Macca.{F801}</target>
+  </entry>
+  <entry id="87">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404441}You don't want to prove that you have{F801}the power to get a {F804,5}Platinum Card?{F804,0}{F801}{F802}I thought you'd be interested, since{F801}you're a {F804,5}Gold Card{F804,0} holder... That's a{F801}terrible shame.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404441}You don't want to prove that you have{F801}the power to get a {F804,5}Platinum Card?{F804,0}{F801}{F802}I thought you'd be interested, since{F801}you're a {F804,5}Gold Card{F804,0} holder... That's a{F801}terrible shame.{F801}</target>
+  </entry>
+  <entry id="88">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404401}I'm telling you this because you have{F801}the strength to possess a {F804,5}{F841,833}.{F804,0}{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404401}I'm telling you this because you have{F801}the strength to possess a {F804,5}{F841,833}.{F804,0}{F801}</target>
+  </entry>
+  <entry id="89">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Wouldn't you like to prove your strength{F801}even more? Then I have some good news{F801}for you...{F801}{F802}I ask that you pay me {F804,5}50,000 Macca{F804,0} Macca.{F801}Think of it as paying for information.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Wouldn't you like to prove your strength{F801}even more? Then I have some good news{F801}for you...{F801}{F802}I ask that you pay me {F804,5}50,000 Macca{F804,0} Macca.{F801}Think of it as paying for information.{F801}</target>
+  </entry>
+  <entry id="90">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}...Oh, you're still here? You wish to{F801}prove your strength more, no?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}...Oh, you're still here? You wish to{F801}prove your strength more, no?{F801}</target>
+  </entry>
+  <entry id="91">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Supposedly, there is a {F804,5}{F841,834}{F804,0}{F801}somewhere in Ginza lacking an owner.{F801}{F802}I already have one. If you can find this{F801}one, then it'll be yours to keep.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Supposedly, there is a {F804,5}{F841,834}{F804,0}{F801}somewhere in Ginza lacking an owner.{F801}{F802}I already have one. If you can find this{F801}one, then it'll be yours to keep.{F801}</target>
+  </entry>
+  <entry id="92">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404311}Just facing you like this is unpleasant.{F801}The annual fee I pay is much different{F801}from yours.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404311}Just facing you like this is unpleasant.{F801}The annual fee I pay is much different{F801}from yours.{F801}</target>
+  </entry>
+  <entry id="93">
+    <source>{F812}Ring of Gaea man\0{F87A,53}Prove your power to the woman guarding{F801}the south side... If you can do that,{F801}then I might have time for you.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}Prove your power to the woman guarding{F801}the south side... If you can do that,{F801}then I might have time for you.{F801}</target>
+  </entry>
+  <entry id="94">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404301}What is it? You want to get past here?{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404301}What is it? You want to get past here?{F801}</target>
+  </entry>
+  <entry id="95">
+    <source>{F812}Ring of Gaea man\0{F87A,53}You can pass if you have a {F804,5}{F841,834}.{F804,0}{F801}{F802}The question is... do you have the power{F801}it takes to be a {F804,5}{F841,834}{F804,0} holder?{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}You can pass if you have a {F804,5}{F841,834}.{F804,0}{F801}{F802}The question is... do you have the power{F801}it takes to be a {F804,5}{F841,834}{F804,0} holder?{F801}</target>
+  </entry>
+  <entry id="96">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404331}...Ah, you have the {F804,5}{F841,834}.{F804,0}{F801}Excuse me.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404331}...Ah, you have the {F804,5}{F841,834}.{F804,0}{F801}Excuse me.{F801}</target>
+  </entry>
+  <entry id="97">
+    <source>{F812}Ring of Gaea man\0{F87A,53}All right. I'll let you through. Now{F801}you can stride proudly through the{F801}east side.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}All right. I'll let you through. Now{F801}you can stride proudly through the{F801}east side.{F801}</target>
+  </entry>
+  <entry id="98">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404331}By the way... are you interested in the{F801}north side? It's the only area you{F801}haven't made your way into yet...{F801}{F802}If you're confident in your power, then{F801}why not take on a certain someone's{F801}request?{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404331}By the way... are you interested in the{F801}north side? It's the only area you{F801}haven't made your way into yet...{F801}{F802}If you're confident in your power, then{F801}why not take on a certain someone's{F801}request?{F801}</target>
+  </entry>
+  <entry id="99">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404301}What is it? You want to get past here?{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404301}What is it? You want to get past here?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Ring of Gaea man\0{F87A,53}You can pass if you have a {F804,5}{F841,834}.{F804,0}{F801}{F802}The question is... do you have the power{F801}it takes to be a {F804,5}{F841,834}{F804,0} holder?{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}You can pass if you have a {F804,5}{F841,834}.{F804,0}{F801}{F802}The question is... do you have the power{F801}it takes to be a {F804,5}{F841,834}{F804,0} holder?{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Shabby man\0{F87A,79}{F813,1,403202}...Hey there, mister.{F801}{F802}I just couldn't help talkin' to you,{F801}'cause of that smell of power on you.{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}{F813,1,403202}...Hey there, mister.{F801}{F802}I just couldn't help talkin' to you,{F801}'cause of that smell of power on you.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Shabby man\0{F87A,79}I got a good bargain for you...{F801}{F802}I dug everywhere in Ginza to find{F801}silver, and I melted it all into a{F801}mold to make a coin.{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}I got a good bargain for you...{F801}{F802}I dug everywhere in Ginza to find{F801}silver, and I melted it all into a{F801}mold to make a coin.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Shabby man\0{F87A,79}It don't look so good, but it's an{F801}original coin made of pure silver.{F801}I call it the {F804,5}Silver Coin.{F804,0}{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}It don't look so good, but it's an{F801}original coin made of pure silver.{F801}I call it the {F804,5}Silver Coin.{F804,0}{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Shabby man\0{F87A,79}Now here's where your "power" comes into{F801}it... How's {F804,5}100,000 Macca{F804,0} for the coin{F801}sound to you?{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}Now here's where your "power" comes into{F801}it... How's {F804,5}100,000 Macca{F804,0} for the coin{F801}sound to you?{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>Buy it{F801}Don't buy it{F801}</source>
+    <target>Buy it{F801}Don't buy it{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Shabby man\0{F87A,79}Nice doin' business with you!{F801}{F802}Now I can pay off my tabs at the bars.{F801}Pretty close call, since they were about{F801}to take my ears...{F801}{F802}I'm gonna party tonight like there's{F801}no tomorrow!{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}Nice doin' business with you!{F801}{F802}Now I can pay off my tabs at the bars.{F801}Pretty close call, since they were about{F801}to take my ears...{F801}{F802}I'm gonna party tonight like there's{F801}no tomorrow!{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>〉 The man left...{F801}</source>
+    <target>〉 The man left...{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Shabby man\0{F87A,79}...Sheesh, way to get me all excited.{F801}{F802}I probably shouldn't tell you this, but{F801}if you make time for everyone, you'll{F801}end up a target for con artists.{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}...Sheesh, way to get me all excited.{F801}{F802}I probably shouldn't tell you this, but{F801}if you make time for everyone, you'll{F801}end up a target for con artists.{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Shabby man\0{F87A,79}I see...{F801}{F802}A bigshot like you wouldn't carry around{F801}that kind of cash to spend on the spot.{F801}{F802}Then again, it's not like anyone would{F801}wanna buy a {F804,5}Silver Coin{F804,0} like this...{F801}Uh, no, I was just talking to myself!{F801}{F802}Come again if you change your mind.{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}I see...{F801}{F802}A bigshot like you wouldn't carry around{F801}that kind of cash to spend on the spot.{F801}{F802}Then again, it's not like anyone would{F801}wanna buy a {F804,5}Silver Coin{F804,0} like this...{F801}Uh, no, I was just talking to myself!{F801}{F802}Come again if you change your mind.{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Voice\0{F813,1,403202}...Excuse me, mister?{F801}</source>
+    <target>{F812}Voice\0{F813,1,403202}...Excuse me, mister?{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Shabby man\0{F87A,79}Oh, so it is you. I just smelled so{F801}much power coming off you.{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}Oh, so it is you. I just smelled so{F801}much power coming off you.{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>{F812}Shabby man\0{F87A,79}I kept that {F804,5}Silver Coin{F804,0} just for you.{F801}How's {F804,5}100,000 Macca{F804,0} Macca sound for it?{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}I kept that {F804,5}Silver Coin{F804,0} just for you.{F801}How's {F804,5}100,000 Macca{F804,0} Macca sound for it?{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404411}...An ordinary man like you has no right{F801}to even approach me. Do you not know how{F801}much of an annual fee I pay?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404411}...An ordinary man like you has no right{F801}to even approach me. Do you not know how{F801}much of an annual fee I pay?{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Go and prove your power to the guardian{F801}on the east side. If you can't do that,{F801}you're no better than an insect.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Go and prove your power to the guardian{F801}on the east side. If you can't do that,{F801}you're no better than an insect.{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404403}What's this...? Are you curious about{F801}what lies ahead?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404403}What's this...? Are you curious about{F801}what lies ahead?{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Past here is the epitome of Ginza.{F801}A modern-day salon, where only the{F801}absolute masters of power gather...{F801}{F802}It's insolence itself for one without{F801}even a {F804,5}{F841,835}{F804,0} to hope{F801}to enter.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Past here is the epitome of Ginza.{F801}A modern-day salon, where only the{F801}absolute masters of power gather...{F801}{F802}It's insolence itself for one without{F801}even a {F804,5}{F841,835}{F804,0} to hope{F801}to enter.{F801}</target>
+  </entry>
+  <entry id="117">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404432}Hm? Is this the {F804,5}{F841,835}...!?{F804,0}{F801}To think it would be in the possession{F801}of one so young...{F801}{F802}First, allow me to praise your strenuous{F801}effort and tremendous power for mastering{F801}the challenges thus far.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404432}Hm? Is this the {F804,5}{F841,835}...!?{F804,0}{F801}To think it would be in the possession{F801}of one so young...{F801}{F802}First, allow me to praise your strenuous{F801}effort and tremendous power for mastering{F801}the challenges thus far.{F801}</target>
+  </entry>
+  <entry id="118">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}You can now walk as freely as you wish{F801}through Ginza. We all acknowledge the{F801}power you've shown.{F801}{F802}Now enter within... The epitome of Ginza{F801}awaits you.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}You can now walk as freely as you wish{F801}through Ginza. We all acknowledge the{F801}power you've shown.{F801}{F802}Now enter within... The epitome of Ginza{F801}awaits you.{F801}</target>
+  </entry>
+  <entry id="119">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404403}What's this...? Are you curious about{F801}what lies ahead?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,1,404403}What's this...? Are you curious about{F801}what lies ahead?{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Past here is the epitome of Ginza.{F801}A modern-day salon, where only the{F801}absolute masters of power gather...{F801}{F802}It's insolence itself for one without{F801}even a {F804,5}{F841,835}{F804,0} to hope{F801}to enter.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Past here is the epitome of Ginza.{F801}A modern-day salon, where only the{F801}absolute masters of power gather...{F801}{F802}It's insolence itself for one without{F801}even a {F804,5}{F841,835}{F804,0} to hope{F801}to enter.{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>{F812}Shabby man\0{F87A,79}{F813,1,403212}Isn't there anyone I could sell this{F801}{F804,5}Silver Coin{F804,0} to...?{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}{F813,1,403212}Isn't there anyone I could sell this{F801}{F804,5}Silver Coin{F804,0} to...?{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>{F812}Shabby man\0{F87A,79}{F813,1,403211}Hm? Who're you? I don't really smell{F801}any power off you...{F801}{F802}And I don't deal with weaklings.{F801}Get lost.{F801}</source>
+    <target>{F812}Shabby man\0{F87A,79}{F813,1,403211}Hm? Who're you? I don't really smell{F801}any power off you...{F801}{F802}And I don't deal with weaklings.{F801}Get lost.{F801}</target>
+  </entry>
+  <entry id="123">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+  <entry id="124">
+    <source>〉 Obtained the Silver Coin.{F801}</source>
+    <target>〉 Obtained the Silver Coin.{F801}</target>
+  </entry>
+  <entry id="125">
+    <source>〉 Obtained the Gold Card.{F801}</source>
+    <target>〉 Obtained the Gold Card.{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>〉 A giant boulder looms before you...{F801}{F802}〉 You sense something that you cannot{F801}express in words...{F801}</source>
+    <target>〉 A giant boulder looms before you...{F801}{F802}〉 You sense something that you cannot{F801}express in words...{F801}</target>
+  </entry>
+  <entry id="127">
+    <source>{F812}Masakado\0{F87A,-360}{F813,1,402002}The power of we deadly National Defense{F801}Divinities... In the wrong hands, we{F801}would be a threat to our own country.{F801}{F802}You made the choice to stay human, and{F801}so I ask this of you. Fill the chalice{F801}with the hopes of Tokyo's people.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,1,402002}The power of we deadly National Defense{F801}Divinities... In the wrong hands, we{F801}would be a threat to our own country.{F801}{F802}You made the choice to stay human, and{F801}so I ask this of you. Fill the chalice{F801}with the hopes of Tokyo's people.{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>〉 Obtained {F804,5}{F841,31}{F804,0} x10.{F801}</source>
+    <target>〉 Obtained {F804,5}{F841,31}{F804,0} x10.{F801}</target>
+  </entry>
+  <entry id="129">
+    <source>{F812}Ring of Gaea man\0{F87A,51}{F813,1,404303}Past here is the Terminal Room.{F801}{F802}In other regions, it appears that{F801}Ashura-kai agents guard the Terminals...{F801}{F802}But we care nothing for Tayama's{F801}machinations here in Ginza. Use it{F801}as you will.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,51}{F813,1,404303}Past here is the Terminal Room.{F801}{F802}In other regions, it appears that{F801}Ashura-kai agents guard the Terminals...{F801}{F802}But we care nothing for Tayama's{F801}machinations here in Ginza. Use it{F801}as you will.{F801}</target>
+  </entry>
+  <entry id="155">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404311}I won't allow anyone without power to{F801}go on.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,1,404311}I won't allow anyone without power to{F801}go on.{F801}</target>
+  </entry>
+  <entry id="1127">
+    <source>〉 Masakado returned to his stone form...{F801}</source>
+    <target>〉 Masakado returned to his stone form...{F801}</target>
+  </entry>
+</mbm>

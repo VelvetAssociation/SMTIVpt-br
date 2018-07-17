@@ -1,0 +1,70 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F813,0,244001}The law of God, the temptation of{F801}demons, and the despair of the White...{F801}{F802}{F813,0,244002}You turned them all down and chose{F801}your own path.{F801}</source>
+    <target>{F812}Voice\0{F813,0,244001}The law of God, the temptation of{F801}demons, and the despair of the White...{F801}{F802}{F813,0,244002}You turned them all down and chose{F801}your own path.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,244003}For your current self, I am willing{F801}to tell you everything that I know.{F801}{F802}{F813,0,244004}...Wouldn't you say so, Burroughs?{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,244003}For your current self, I am willing{F801}to tell you everything that I know.{F801}{F802}{F813,0,244004}...Wouldn't you say so, Burroughs?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Stephen\0{F87A,14}For your current self, I am willing{F801}to tell you everything that I know.{F801}{F802}...Wouldn't you say so, Burroughs?{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}For your current self, I am willing{F801}to tell you everything that I know.{F801}{F802}...Wouldn't you say so, Burroughs?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,244005}The choices Master {F843,0} made{F801}followed the same pattern as from{F801}the past.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,244005}The choices Master {F843,0} made{F801}followed the same pattern as from{F801}the past.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,244006}{F843,0} is indeed the one you seek,{F801}Doctor.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,244006}{F843,0} is indeed the one you seek,{F801}Doctor.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,244007}I see... Thank you.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,244007}I see... Thank you.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,244008}Now...{F801}{F802}{F813,0,244009}If you are truly the one who has{F801}inherited his will, then for the sake{F801}of both Mikado and Tokyo...{F801}{F802}{F813,0,244010}You must return to your home world to{F801}revive the goddess of Tokyo.{F801}{F802}{F813,0,244011}I will help you with that.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,244008}Now...{F801}{F802}{F813,0,244009}If you are truly the one who has{F801}inherited his will, then for the sake{F801}of both Mikado and Tokyo...{F801}{F802}{F813,0,244010}You must return to your home world to{F801}revive the goddess of Tokyo.{F801}{F802}{F813,0,244011}I will help you with that.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,244012}This is a world made by the thoughts{F801}of humanity... it is the Expanse.{F801}{F802}{F813,0,244013}It's a bit different from the place{F801}where you met that girl before.{F801}{F802}{F813,0,244014}The White are also aggregates of{F801}thought. This is their home.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,244012}This is a world made by the thoughts{F801}of humanity... it is the Expanse.{F801}{F802}{F813,0,244013}It's a bit different from the place{F801}where you met that girl before.{F801}{F802}{F813,0,244014}The White are also aggregates of{F801}thought. This is their home.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,244015}Though you rejected their proposal,{F801}the White's influence persists.{F801}{F802}{F813,0,244016}There are four of the White lurking{F801}somewhere in this forest.{F801}{F802}{F813,0,244017}I would like you to defeat them all{F801}and break their hold on this place.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,244015}Though you rejected their proposal,{F801}the White's influence persists.{F801}{F802}{F813,0,244016}There are four of the White lurking{F801}somewhere in this forest.{F801}{F802}{F813,0,244017}I would like you to defeat them all{F801}and break their hold on this place.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Stephen\0{F87A,14}There are four of the White lurking{F801}somewhere within this forest.{F801}{F802}Kill them all and break their influence{F801}on this place.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}There are four of the White lurking{F801}somewhere within this forest.{F801}{F802}Kill them all and break their influence{F801}on this place.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,244019}Let me heal your wounds.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,244019}Let me heal your wounds.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Stephen disappeared...{F801}</source>
+    <target>〉 Stephen disappeared...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Stephen\0{F87A,14}{F813,1,401001}Ah, hello.{F801}{F802}Let me treat those wounds.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,1,401001}Ah, hello.{F801}{F802}Let me treat those wounds.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Stephen\0{F87A,14}{F813,1,401004}There is more we have to discuss,{F801}but defeating the White takes{F801}priority now.{F801}{F802}I'll heal you again whenever you want.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,1,401004}There is more we have to discuss,{F801}but defeating the White takes{F801}priority now.{F801}{F802}I'll heal you again whenever you want.{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,244020}If you're ever injured in battle, you{F801}should go back to the forest entrance.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,244020}If you're ever injured in battle, you{F801}should go back to the forest entrance.{F801}</target>
+  </entry>
+  <entry id="210">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,244021}I'll heal you whenever you want.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,244021}I'll heal you whenever you want.{F801}</target>
+  </entry>
+</mbm>

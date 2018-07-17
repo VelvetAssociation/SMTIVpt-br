@@ -1,0 +1,86 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</source>
+    <target>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Merkabah\0{F87A,-1058}{F813,0,255001}This is pitiful next to the Lord's{F801}fearsome power. It is nothing but{F801}a shallow joke of Lucifer's.{F801}{F802}{F813,0,255002}Does he think he can keep me at bay{F801}with such petty tricks?{F801}</source>
+    <target>{F812}Merkabah\0{F87A,-1058}{F813,0,255001}This is pitiful next to the Lord's{F801}fearsome power. It is nothing but{F801}a shallow joke of Lucifer's.{F801}{F802}{F813,0,255002}Does he think he can keep me at bay{F801}with such petty tricks?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Merkabah\0{F87A,-1058}{F813,0,255003}......{F801}</source>
+    <target>{F812}Merkabah\0{F87A,-1058}{F813,0,255003}......{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The barrier was blasted away.{F801}</source>
+    <target>〉 The barrier was blasted away.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Merkabah\0{F87A,205}{F813,0,255004}The Lord's chariot does not retreat.{F801}Those who bar the way shall be{F801}trampled underfoot.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,205}{F813,0,255004}The Lord's chariot does not retreat.{F801}Those who bar the way shall be{F801}trampled underfoot.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Echoing voice\0{F813,0,255005}...You've come.{F801}</source>
+    <target>{F812}Echoing voice\0{F813,0,255005}...You've come.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Demon\0{F87A,229}{F813,0,255006}Son of man, you praise a false God,{F801}and have sold your very soul.{F801}{F802}{F813,0,255007}{F87A,229}Your spirit is utterly worthless.{F801}</source>
+    <target>{F812}Demon\0{F87A,229}{F813,0,255006}Son of man, you praise a false God,{F801}and have sold your very soul.{F801}{F802}{F813,0,255007}{F87A,229}Your spirit is utterly worthless.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Demon\0ゆえに[無価値/むかち]なる[魂/たましい]の[人/ひと]の[子/こ]よ{F801}ここで[引導/いんどう]を[渡/わた]して[差/さ]し[上/あ]げましょう{F801}</source>
+    <target>{F812}Demon\0ゆえに[無価値/むかち]なる[魂/たましい]の[人/ひと]の[子/こ]よ{F801}ここで[引導/いんどう]を[渡/わた]して[差/さ]し[上/あ]げましょう{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The demon is no longer here...{F801}</source>
+    <target>〉 The demon is no longer here...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Echoing voice\0{F813,0,255008}Foolish lamb who has relinquished your{F801}very consciousness to God...{F801}</source>
+    <target>{F812}Echoing voice\0{F813,0,255008}Foolish lamb who has relinquished your{F801}very consciousness to God...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Demon\0{F813,0,255009}{F87A,228}What do you think has allowed you{F801}humans to progress and evolve so far?{F801}{F802}{F813,0,255010}It was thanks to our existence.{F801}</source>
+    <target>{F812}Demon\0{F813,0,255009}{F87A,228}What do you think has allowed you{F801}humans to progress and evolve so far?{F801}{F802}{F813,0,255010}It was thanks to our existence.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Demon\0{F87A,228}{F813,0,255011}A human's true strength is only drawn{F801}out by the adversity of chaos.{F801}{F802}{F813,0,255012}God's order will bring you nothing{F801}but degradation and lowliness.{F801}</source>
+    <target>{F812}Demon\0{F87A,228}{F813,0,255011}A human's true strength is only drawn{F801}out by the adversity of chaos.{F801}{F802}{F813,0,255012}God's order will bring you nothing{F801}but degradation and lowliness.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The demon is no longer here...{F801}</source>
+    <target>〉 The demon is no longer here...{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Merkabah\0{F87A,205}{F813,0,255013}This one is truly nothing but Filth.{F801}It is beyond salvation.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,205}{F813,0,255013}This one is truly nothing but Filth.{F801}It is beyond salvation.{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>{F812}Demon\0{F87A,228}{F813,0,255014}I will prove my point with a battle{F801}to the death...{F801}</source>
+    <target>{F812}Demon\0{F87A,228}{F813,0,255014}I will prove my point with a battle{F801}to the death...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>メúカバーが封印を解く{F801}</source>
+    <target>メúカバーが封印を解く{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>úシフÄーの声が聞こえる{F801}</source>
+    <target>úシフÄーの声が聞こえる{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>中ëス悪魔1と対峙する{F801}</source>
+    <target>中ëス悪魔1と対峙する{F801}</target>
+  </entry>
+  <entry id="903">
+    <source>戦闘終了フáグ用Íäñト{F801}</source>
+    <target>戦闘終了フáグ用Íäñト{F801}</target>
+  </entry>
+  <entry id="904">
+    <source>中ëス悪魔2と対峙する{F801}</source>
+    <target>中ëス悪魔2と対峙する{F801}</target>
+  </entry>
+  <entry id="905">
+    <source>戦闘終了フáグ用Íäñト{F801}</source>
+    <target>戦闘終了フáグ用Íäñト{F801}</target>
+  </entry>
+</mbm>

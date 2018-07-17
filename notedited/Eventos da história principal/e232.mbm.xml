@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,77}{F813,0,232001}Our fifth son, who chose preservation...{F801}</source>
+    <target>{F812}The White\0{F87A,77}{F813,0,232001}Our fifth son, who chose preservation...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,218}{F813,0,232002}...Your actions are abominable.{F801}No matter how much you struggle,{F801}your despair will never be healed.{F801}</source>
+    <target>{F812}The White\0{F87A,218}{F813,0,232002}...Your actions are abominable.{F801}No matter how much you struggle,{F801}your despair will never be healed.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,218}{F813,0,232003}Very well... As your forebear, I will{F801}teach you...{F801}{F802}{F813,0,232004}The splendor of nonexistence...{F801}</source>
+    <target>{F812}The White\0{F87A,218}{F813,0,232003}Very well... As your forebear, I will{F801}teach you...{F801}{F802}{F813,0,232004}The splendor of nonexistence...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}I cannot believe they dare utter such{F801}blasphemy as "God's curse."{F801}{F802}Those who couldn't abide by the rules{F801}of this world only say such things{F801}in their own paltry defense.{F801}{F802}To prize order and consideration for{F801}others is a high virtue of we humans,{F801}after all.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}I cannot believe they dare utter such{F801}blasphemy as "God's curse."{F801}{F802}Those who couldn't abide by the rules{F801}of this world only say such things{F801}in their own paltry defense.{F801}{F802}To prize order and consideration for{F801}others is a high virtue of we humans,{F801}after all.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

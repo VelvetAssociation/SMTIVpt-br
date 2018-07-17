@@ -1,0 +1,226 @@
+<mbm>
+  <entry id="0">
+    <source>〉 This place seems to be called the 2nd{F801}Observation Platform.{F801}{F802}〉 Where will you go?{F801}</source>
+    <target>〉 This place seems to be called the 2nd{F801}Observation Platform.{F801}{F802}〉 Where will you go?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>The 1st Observation Platform{F801}The Outer Scaffolding{F801}</source>
+    <target>The 1st Observation Platform{F801}The Outer Scaffolding{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hope\0{F813,1,400651}This is Hope. I have a message for you.{F801}</source>
+    <target>{F812}Hope\0{F813,1,400651}This is Hope. I have a message for you.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hope\0That zone is beyond the boundaries of{F801}the training area.{F801}{F802}Turn back at once and continue your{F801}training exercises.{F801}</source>
+    <target>{F812}Hope\0That zone is beyond the boundaries of{F801}the training area.{F801}{F802}Turn back at once and continue your{F801}training exercises.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Left Samurai\0{F87A,29}{F813,1,403042}Halt, young fellow.{F801}</source>
+    <target>{F812}Left Samurai\0{F87A,29}{F813,1,403042}Halt, young fellow.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Right Samurai\0{F87A,116}{F813,1,404311}To proceed past here is counter to the{F801}Samurai code.{F801}{F802}If you consider yourself a Samurai, we{F801}ask that you head back without protest.{F801}</source>
+    <target>{F812}Right Samurai\0{F87A,116}{F813,1,404311}To proceed past here is counter to the{F801}Samurai code.{F801}{F802}If you consider yourself a Samurai, we{F801}ask that you head back without protest.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Left Samurai\0{F87A,29}{F813,1,403042}Ho there, young fellows.{F801}{F802}We heard plainly Abbot Hugo's mandate at{F801}the emergency's meeting...{F801}</source>
+    <target>{F812}Left Samurai\0{F87A,29}{F813,1,403042}Ho there, young fellows.{F801}{F802}We heard plainly Abbot Hugo's mandate at{F801}the emergency's meeting...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Right Samurai\0{F87A,116}{F813,1,404311}But we know no other way than the{F801}Samurai code.{F801}{F802}That is why we cannot accept Abbot Hugo's{F801}request.{F801}</source>
+    <target>{F812}Right Samurai\0{F87A,116}{F813,1,404311}But we know no other way than the{F801}Samurai code.{F801}{F802}That is why we cannot accept Abbot Hugo's{F801}request.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Left Samurai\0{F87A,29}Still, were any willing to accept his{F801}quest to appear before us...{F801}{F802}We would yield to him graciously.{F801}</source>
+    <target>{F812}Left Samurai\0{F87A,29}Still, were any willing to accept his{F801}quest to appear before us...{F801}{F802}We would yield to him graciously.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Left Samurai\0{F87A,29}{F813,1,403042}Ho there, young fellows. It seems you've{F801}undertaken Abbot Hugo's quest...{F801}{F802}You intend to proceed, correct...?{F801}</source>
+    <target>{F812}Left Samurai\0{F87A,29}{F813,1,403042}Ho there, young fellows. It seems you've{F801}undertaken Abbot Hugo's quest...{F801}{F802}You intend to proceed, correct...?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Right Samurai\0{F87A,116}{F813,1,404311}It would be to the kingdom's detriment{F801}now for us to insist on upholding the{F801}Samurai code...{F801}{F802}Yet we know of no other way than to live{F801}by the code. We cannot go with you.{F801}</source>
+    <target>{F812}Right Samurai\0{F87A,116}{F813,1,404311}It would be to the kingdom's detriment{F801}now for us to insist on upholding the{F801}Samurai code...{F801}{F802}Yet we know of no other way than to live{F801}by the code. We cannot go with you.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Left Samurai\0{F87A,29}At the very least, though, we wish you{F801}good luck as our fellows.{F801}</source>
+    <target>{F812}Left Samurai\0{F87A,29}At the very least, though, we wish you{F801}good luck as our fellows.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The Samurai leave...{F801}</source>
+    <target>〉 The Samurai leave...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hope\0{F87A,8}{F813,1,400651}This is Hope. I have a message for you.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,1,400651}This is Hope. I have a message for you.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Hope\0{F87A,8}That zone is beyond the boundaries of{F801}the training area.{F801}{F802}Turn back at once and continue your{F801}training exercises.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}That zone is beyond the boundaries of{F801}the training area.{F801}{F802}Turn back at once and continue your{F801}training exercises.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Hope\0{F87A,8}{F813,1,400651}This is Hope. I have a message for you.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,1,400651}This is Hope. I have a message for you.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Hope\0{F87A,8}The training exercises are over.{F801}{F802}Turn back at once and return to Aquila{F801}Statue Plaza.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}The training exercises are over.{F801}{F802}Turn back at once and return to Aquila{F801}Statue Plaza.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,401090}Hello there. We meet again.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,401090}Hello there. We meet again.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,401092}I can improve your demon summoning{F801}program for you.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,401092}I can improve your demon summoning{F801}program for you.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400004}I have info for you.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400004}I have info for you.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>The {F804,5}StreetPass feature of Shin Megami{F801}Tensei IV{F804,0} is now available, allowing you{F801}to use {F804,5}DDS{F804,0} (Digital Demon Service).{F801}{F802}DDS is a special service that allows{F801}demon summoners to connect with one{F801}another.{F801}{F802}The demon summoners who use DDS will be{F801}able to exchange {F804,5}cards{F804,0} to show off {F804,5}the{F801}attached demon,{F804,0} as well as to strengthen{F801}those demons.{F801}{F802}If a demon is attached to a card that's{F801}sent out, the demon may {F804,5}gain levels{F804,0} or{F801}even come back with an item.{F801}{F802}If another user receives the card, the{F801}{F804,5}DDS Skill{F804,0} that corresponds to the number{F801}of received cards can be used in battle.{F801}{F802}To activate StreetPass for Shin Megami{F801}Tensei IV, open the main menu and{F801}select {F804,5}Burroughs{F804,0} -〉 {F804,5}StreetPass.{F804,0}{F801}{F802}Afterwards, select {F804,5}ON/OFF{F804,0} to activate or{F801}deactive StreetPass for this game.{F801}{F802}In order to exchange data with StreetPass{F801}after activation, you will need to {F804,5}push{F801}the wireless switch to enable wireless{F801}communication.{F804,0}{F801}</source>
+    <target>The {F804,5}StreetPass feature of Shin Megami{F801}Tensei IV{F804,0} is now available, allowing you{F801}to use {F804,5}DDS{F804,0} (Digital Demon Service).{F801}{F802}DDS is a special service that allows{F801}demon summoners to connect with one{F801}another.{F801}{F802}The demon summoners who use DDS will be{F801}able to exchange {F804,5}cards{F804,0} to show off {F804,5}the{F801}attached demon,{F804,0} as well as to strengthen{F801}those demons.{F801}{F802}If a demon is attached to a card that's{F801}sent out, the demon may {F804,5}gain levels{F804,0} or{F801}even come back with an item.{F801}{F802}If another user receives the card, the{F801}{F804,5}DDS Skill{F804,0} that corresponds to the number{F801}of received cards can be used in battle.{F801}{F802}To activate StreetPass for Shin Megami{F801}Tensei IV, open the main menu and{F801}select {F804,5}Burroughs{F804,0} -〉 {F804,5}StreetPass.{F804,0}{F801}{F802}Afterwards, select {F804,5}ON/OFF{F804,0} to activate or{F801}deactive StreetPass for this game.{F801}{F802}In order to exchange data with StreetPass{F801}after activation, you will need to {F804,5}push{F801}the wireless switch to enable wireless{F801}communication.{F804,0}{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,10019}Did you get all that?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,10019}Did you get all that?{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>"I did."{F801}"Let's have it once more."{F801}</source>
+    <target>"I did."{F801}"Let's have it once more."{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400056}All right. I'll display the{F801}information once more.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400056}All right. I'll display the{F801}information once more.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Stephen\0{F87A,14}{F813,1,401094}I hope you'll put it to good use.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,1,401094}I hope you'll put it to good use.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Angel\0{F87A,-73}{F813,1,412200}Ah, the warrior of light. How brightly{F801}you shine... I can sense our Lord's{F801}blessing radiating from you.{F801}{F802}I am sure that our Lord is eager to see{F801}you will decisively annihilate the{F801}Unclean Ones underground.{F801}{F802}Let us defeat the demons in order to{F801}bring peace to the sons of man chosen{F801}by the Lord.{F801}</source>
+    <target>{F812}Angel\0{F87A,-73}{F813,1,412200}Ah, the warrior of light. How brightly{F801}you shine... I can sense our Lord's{F801}blessing radiating from you.{F801}{F802}I am sure that our Lord is eager to see{F801}you will decisively annihilate the{F801}Unclean Ones underground.{F801}{F802}Let us defeat the demons in order to{F801}bring peace to the sons of man chosen{F801}by the Lord.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Angel\0{F87A,-73}{F813,1,412209}Son of man who denies our Lord's{F801}salvation in favor of a path filled{F801}with thorns...{F801}{F802}There can be no peace without the Lord's{F801}blessing. For the creator of the world{F801}is...{F801}{F802}...But I need not say anything more.{F801}We shall wait until the day that the{F801}sons of man require us again...{F801}</source>
+    <target>{F812}Angel\0{F87A,-73}{F813,1,412209}Son of man who denies our Lord's{F801}salvation in favor of a path filled{F801}with thorns...{F801}{F802}There can be no peace without the Lord's{F801}blessing. For the creator of the world{F801}is...{F801}{F802}...But I need not say anything more.{F801}We shall wait until the day that the{F801}sons of man require us again...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Angel\0{F87A,-73}{F813,1,412203}You who denied the temptation of demons{F801}and chose to remain a son of man...{F801}{F802}Just as the demons have departed for the{F801}present, so shall we... But the time of{F801}our reunion will not be long in coming.{F801}{F802}For the sons of man have been fertile{F801}ground for demons since days of old.{F801}That is why we exist...{F801}</source>
+    <target>{F812}Angel\0{F87A,-73}{F813,1,412203}You who denied the temptation of demons{F801}and chose to remain a son of man...{F801}{F802}Just as the demons have departed for the{F801}present, so shall we... But the time of{F801}our reunion will not be long in coming.{F801}{F802}For the sons of man have been fertile{F801}ground for demons since days of old.{F801}That is why we exist...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Demon\0{F87A,-487}{F813,1,411106}I intended on being the first to go into{F801}the Eastern Kingdom of Mikado, but I'm{F801}stuck here.{F801}{F802}Looks like that Terminal thing isn't any{F801}use now. And even if I could go ahead...{F801}{F802}Ugh, dammit! I wish I could just rip the{F801}wings off those bastards!{F801}</source>
+    <target>{F812}Demon\0{F87A,-487}{F813,1,411106}I intended on being the first to go into{F801}the Eastern Kingdom of Mikado, but I'm{F801}stuck here.{F801}{F802}Looks like that Terminal thing isn't any{F801}use now. And even if I could go ahead...{F801}{F802}Ugh, dammit! I wish I could just rip the{F801}wings off those bastards!{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Demon\0{F87A,-487}{F813,1,411106}I intended on being the first to go into{F801}the Eastern Kingdom of Mikado, but I'm{F801}stuck here.{F801}{F802}Though it feels like things have changed{F801}a bit up ahead... But nah, I won't be{F801}suckered.{F801}{F802}Those damn angels are good at lulling{F801}you into a false sense of security...{F801}and then beating the daylights outta you.{F801}</source>
+    <target>{F812}Demon\0{F87A,-487}{F813,1,411106}I intended on being the first to go into{F801}the Eastern Kingdom of Mikado, but I'm{F801}stuck here.{F801}{F802}Though it feels like things have changed{F801}a bit up ahead... But nah, I won't be{F801}suckered.{F801}{F802}Those damn angels are good at lulling{F801}you into a false sense of security...{F801}and then beating the daylights outta you.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light. You are on{F801}your way to annihilate Tokyo and the{F801}Unclean Ones there, no?{F801}{F802}Please leave the defense of New Mikado{F801}Castle to us. We won't allow a single{F801}one of the vile demons through.{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light. You are on{F801}your way to annihilate Tokyo and the{F801}Unclean Ones there, no?{F801}{F802}Please leave the defense of New Mikado{F801}Castle to us. We won't allow a single{F801}one of the vile demons through.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light. You are on{F801}your way to annihilate Tokyo and the{F801}Unclean Ones there, no?{F801}{F802}Your gallant figure as you personally{F801}confront the Unclean Ones will live on{F801}in the people's hearts for eternity...{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light. You are on{F801}your way to annihilate Tokyo and the{F801}Unclean Ones there, no?{F801}{F802}Your gallant figure as you personally{F801}confront the Unclean Ones will live on{F801}in the people's hearts for eternity...{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light. You are on{F801}your way to annihilate Tokyo and the{F801}Unclean Ones there, no?{F801}{F802}There is no need to fear the Demon Lord.{F801}The Lord's chariot is with you.{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light. You are on{F801}your way to annihilate Tokyo and the{F801}Unclean Ones there, no?{F801}{F802}There is no need to fear the Demon Lord.{F801}The Lord's chariot is with you.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light. You are on{F801}your way to annihilate Tokyo and the{F801}Unclean Ones there, no?{F801}{F802}The advent of the new millennium cannot{F801}be completed without your tireless{F801}efforts.{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light. You are on{F801}your way to annihilate Tokyo and the{F801}Unclean Ones there, no?{F801}{F802}The advent of the new millennium cannot{F801}be completed without your tireless{F801}efforts.{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light.{F801}{F802}Ahead is a fabricated space... It is{F801}a defensive measure to prevent demons{F801}from passing through.{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light.{F801}{F802}Ahead is a fabricated space... It is{F801}a defensive measure to prevent demons{F801}from passing through.{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Angel\0{F87A,-75}We are voluntarily refraining from{F801}passing through it. But could it be that{F801}you wish to proceed...?{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}We are voluntarily refraining from{F801}passing through it. But could it be that{F801}you wish to proceed...?{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>"That's right."{F801}"No."{F801}</source>
+    <target>"That's right."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Angel\0{F87A,-75}If the warrior of light says it, then it{F801}shall be done.{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}If the warrior of light says it, then it{F801}shall be done.{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Angel\0{F87A,-75}......{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}......{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>〉 {F843,0} was drawn by a gentle{F801}power...{F801}</source>
+    <target>〉 {F843,0} was drawn by a gentle{F801}power...{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Angel\0{F87A,-75}Thank you for your consideration.{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}Thank you for your consideration.{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,412009}Who goes there?{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light.{F801}{F802}Ahead is a fabricated space... It is{F801}a defensive measure to prevent demons{F801}from passing through.{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}{F813,1,412000}Ah, the warrior of light.{F801}{F802}Ahead is a fabricated space... It is{F801}a defensive measure to prevent demons{F801}from passing through.{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>{F812}Angel\0{F87A,-75}We are voluntarily refraining from{F801}passing through it. But could it be that{F801}you wish to proceed...?{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}We are voluntarily refraining from{F801}passing through it. But could it be that{F801}you wish to proceed...?{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>"That's right."{F801}"No."{F801}</source>
+    <target>"That's right."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>{F812}Angel\0{F87A,-75}If the warrior of light says it, then it{F801}shall be done.{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}If the warrior of light says it, then it{F801}shall be done.{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>{F812}Angel\0{F87A,-75}......{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}......{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>〉 {F843,0} was drawn by a gentle{F801}power...{F801}</source>
+    <target>〉 {F843,0} was drawn by a gentle{F801}power...{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>{F812}Angel\0{F87A,-75}Thank you for your consideration.{F801}</source>
+    <target>{F812}Angel\0{F87A,-75}Thank you for your consideration.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Voice\0{F813,1,403042}Halt, young fellow.{F801}</source>
+    <target>{F812}Voice\0{F813,1,403042}Halt, young fellow.{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>〉 Two master Samurai stepped around{F801}before {F843,0} and the others.{F801}</source>
+    <target>〉 Two master Samurai stepped around{F801}before {F843,0} and the others.{F801}</target>
+  </entry>
+</mbm>

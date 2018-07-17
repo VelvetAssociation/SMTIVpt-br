@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The elevator is locked down.{F801}</source>
+    <target>〉 The elevator is locked down.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}This looks a bit like the door at{F801}that place below Roppongi...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}This looks a bit like the door at{F801}that place below Roppongi...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}Will we be needing a card key here{F801}as well?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Will we be needing a card key here{F801}as well?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Use the scorched card key{F801}Don't use it{F801}</source>
+    <target>Use the scorched card key{F801}Don't use it{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}What? We're not using it? Very well...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}What? We're not using it? Very well...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 {F843,0} used the scorched card key.{F801}</source>
+    <target>〉 {F843,0} used the scorched card key.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>〉 The elevator has been unlocked.{F801}</source>
+    <target>〉 The elevator has been unlocked.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</target>
+  </entry>
+</mbm>

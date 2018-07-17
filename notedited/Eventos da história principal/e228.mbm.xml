@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,78}{F813,0,228001}...We have won.{F801}{F802}{F813,0,228002}We humans have triumphed over God's{F801}plan...{F801}</source>
+    <target>{F812}The White\0{F87A,78}{F813,0,228001}...We have won.{F801}{F802}{F813,0,228002}We humans have triumphed over God's{F801}plan...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,77}{F813,0,228003}Now we will be saved.{F801}{F802}{F813,0,228004}We can pass into nothingness, where{F801}there will be no suffering or sorrow...{F801}</source>
+    <target>{F812}The White\0{F87A,77}{F813,0,228003}Now we will be saved.{F801}{F802}{F813,0,228004}We can pass into nothingness, where{F801}there will be no suffering or sorrow...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,124}{F813,0,228005}All of this is thanks to the choice{F801}you made.{F801}{F802}{F813,0,228006}You are the true Messiah...{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,228005}All of this is thanks to the choice{F801}you made.{F801}{F802}{F813,0,228006}You are the true Messiah...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}The White\0{F87A,75}{F813,0,228007}The long and painful journey ends here.{F801}{F802}{F813,0,228008}Thank you...{F801}</source>
+    <target>{F812}The White\0{F87A,75}{F813,0,228007}The long and painful journey ends here.{F801}{F802}{F813,0,228008}Thank you...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}The White\0{F87A,75}{F813,0,228009}...and goodbye.{F801}</source>
+    <target>{F812}The White\0{F87A,75}{F813,0,228009}...and goodbye.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 {F843,0} turned the world into{F801}nothingness.{F801}{F802}〉 The world is completely free from{F801}agony and sorrow...{F801}{F802}〉 Everything is gone...{F801}</source>
+    <target>〉 {F843,0} turned the world into{F801}nothingness.{F801}{F802}〉 The world is completely free from{F801}agony and sorrow...{F801}{F802}〉 Everything is gone...{F801}</target>
+  </entry>
+  <entry id="999">
+    <source>カットÁニメでブáックüーúに{F801}世界が飲みこまれていきます{F801}{F802}ここでゲームクíÁとなります{F801}</source>
+    <target>カットÁニメでブáックüーúに{F801}世界が飲みこまれていきます{F801}{F802}ここでゲームクíÁとなります{F801}</target>
+  </entry>
+</mbm>

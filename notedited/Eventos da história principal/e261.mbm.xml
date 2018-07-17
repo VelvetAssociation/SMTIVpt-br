@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F87B,19,7,1,1}{F813,0,261001}Hey, it's you... Long time no see.{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F87B,19,7,1,1}{F813,0,261001}Hey, it's you... Long time no see.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,261002}Seems you've been to Ichigaya. We heard{F801}all about it already.{F801}{F802}{F813,0,261003}Hard to miss a pillar of light in the{F801}sky and those demons pouring in... You{F801}opened the gate to the Expanse, huh?{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,261002}Seems you've been to Ichigaya. We heard{F801}all about it already.{F801}{F802}{F813,0,261003}Hard to miss a pillar of light in the{F801}sky and those demons pouring in... You{F801}opened the gate to the Expanse, huh?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F813,0,261004}It's true that with all those demons'{F801}power, it'll be easier for us to get{F801}to the Eastern Kingdom of Mikado.{F801}{F802}{F813,0,261005}With muscle like that, we can make it{F801}even if the angels show up.{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F813,0,261004}It's true that with all those demons'{F801}power, it'll be easier for us to get{F801}to the Eastern Kingdom of Mikado.{F801}{F802}{F813,0,261005}With muscle like that, we can make it{F801}even if the angels show up.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,3,1,1}{F813,0,261006}But that'd mean bringing demons along{F801}with us to Mikado...{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,3,1,1}{F813,0,261006}But that'd mean bringing demons along{F801}with us to Mikado...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,261007}And then we'd be no better off than{F801}we are here in Tokyo.{F801}{F802}{F813,0,261008}Looks like we'll be fighting demons{F801}'til the day we die...{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,7,1,1}{F813,0,261007}And then we'd be no better off than{F801}we are here in Tokyo.{F801}{F802}{F813,0,261008}Looks like we'll be fighting demons{F801}'til the day we die...{F801}</target>
+  </entry>
+</mbm>

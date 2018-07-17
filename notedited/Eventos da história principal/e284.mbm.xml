@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Man's voice\0{F87A,1}{F813,0,284001}You there, young man. Hold it there.{F801}{F802}{F813,0,284002}I'm afraid it's no use running.{F801}You see, I've set up a Domain here.{F801}</source>
+    <target>{F812}Man's voice\0{F87A,1}{F813,0,284001}You there, young man. Hold it there.{F801}{F802}{F813,0,284002}I'm afraid it's no use running.{F801}You see, I've set up a Domain here.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Businesslike man\0{F87A,47}{F813,0,284003}I've had the honor of looking after{F801}the Terminals for over twenty years.{F801}Some call me the Terminal Guardian.{F801}</source>
+    <target>{F812}Businesslike man\0{F87A,47}{F813,0,284003}I've had the honor of looking after{F801}the Terminals for over twenty years.{F801}Some call me the Terminal Guardian.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Businesslike man\0{F87A,47}{F813,0,284004}Some call me the... Hm?{F801}{F802}{F813,0,284005}Ah... The mischievous boy from before.{F801}You've made yourself quite a nuisance.{F801}I'd best deal with you quickly.{F801}</source>
+    <target>{F812}Businesslike man\0{F87A,47}{F813,0,284004}Some call me the... Hm?{F801}{F802}{F813,0,284005}Ah... The mischievous boy from before.{F801}You've made yourself quite a nuisance.{F801}I'd best deal with you quickly.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Businesslike man\0{F87A,47}{F813,0,284006}You're back, you mischievous boy.{F801}I was confident that I'd see you at{F801}another Terminal.{F801}</source>
+    <target>{F812}Businesslike man\0{F87A,47}{F813,0,284006}You're back, you mischievous boy.{F801}I was confident that I'd see you at{F801}another Terminal.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Businesslike man\0{F87A,47}{F813,0,284007}We meet again, you mischievous boy.{F801}{F802}{F813,0,284008}Ever since you began wreaking havoc,{F801}it's become rather difficult to put{F801}food on the table for my family.{F801}{F802}{F813,0,284009}Not that I am worried. All I must do is{F801}to make sure this place is protected.{F801}</source>
+    <target>{F812}Businesslike man\0{F87A,47}{F813,0,284007}We meet again, you mischievous boy.{F801}{F802}{F813,0,284008}Ever since you began wreaking havoc,{F801}it's become rather difficult to put{F801}food on the table for my family.{F801}{F802}{F813,0,284009}Not that I am worried. All I must do is{F801}to make sure this place is protected.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Businesslike man\0{F87A,47}{F813,0,284010}You've come, you mischievous Terminal-{F801}raiding boy.{F801}{F802}{F813,0,284012}These mounting losses don't reflect{F801}well on me, hm? You may not realize it,{F801}but I'm quite proud of my job.{F801}</source>
+    <target>{F812}Businesslike man\0{F87A,47}{F813,0,284010}You've come, you mischievous Terminal-{F801}raiding boy.{F801}{F802}{F813,0,284012}These mounting losses don't reflect{F801}well on me, hm? You may not realize it,{F801}but I'm quite proud of my job.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Businesslike man\0{F87A,47}{F813,0,284013}I can't tolerate those who trespass{F801}carelessly, not even high-spirited{F801}youths like yourself.{F801}{F802}{F813,0,284014}I will capture you and reap the reward.{F801}</source>
+    <target>{F812}Businesslike man\0{F87A,47}{F813,0,284013}I can't tolerate those who trespass{F801}carelessly, not even high-spirited{F801}youths like yourself.{F801}{F802}{F813,0,284014}I will capture you and reap the reward.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The Domain lifted...{F801}</source>
+    <target>〉 The Domain lifted...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405706}This is the Toyosu Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405706}This is the Toyosu Terminal.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+</mbm>

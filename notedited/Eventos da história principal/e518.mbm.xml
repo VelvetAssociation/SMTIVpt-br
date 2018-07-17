@@ -1,0 +1,102 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The angels are no longer here...{F801}</source>
+    <target>〉 The angels are no longer here...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</source>
+    <target>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Masakado\0{F87A,-360}It seems that the angels who erected this{F801}barrier must be defeated before it will{F801}disappear.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}It seems that the angels who erected this{F801}barrier must be defeated before it will{F801}disappear.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Masakado\0{F87A,-360}Come, {F843,0}. Let us find the angels{F801}and strike them down.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}Come, {F843,0}. Let us find the angels{F801}and strike them down.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The atmosphere changed...{F801}</source>
+    <target>〉 The atmosphere changed...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The barrier disappeared.{F801}</source>
+    <target>〉 The barrier disappeared.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</source>
+    <target>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Masakado\0{F87A,-360}This barrier created by the angels we{F801}must eliminate... It seems more powerful{F801}than the last.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}This barrier created by the angels we{F801}must eliminate... It seems more powerful{F801}than the last.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Masakado\0{F87A,-360}Come, {F843,0}. Let us find the angels{F801}and strike them down.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}Come, {F843,0}. Let us find the angels{F801}and strike them down.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The atmosphere changed...{F801}</source>
+    <target>〉 The atmosphere changed...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The barrier disappeared.{F801}</source>
+    <target>〉 The barrier disappeared.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</source>
+    <target>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Demon Lord Lucifer\0{F87A,-480}An elaborate trick... The barrier will{F801}remain so long as the angels who created{F801}it live...{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,-480}An elaborate trick... The barrier will{F801}remain so long as the angels who created{F801}it live...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Demon Lord Lucifer\0{F87A,-480}In which case, {F843,0}, we must{F801}simply hunt and kill all the angels.{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,-480}In which case, {F843,0}, we must{F801}simply hunt and kill all the angels.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 The atmosphere changed...{F801}</source>
+    <target>〉 The atmosphere changed...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 The barrier disappeared.{F801}</source>
+    <target>〉 The barrier disappeared.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</source>
+    <target>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Demon Lord Lucifer\0{F87A,-480}This barrier... it is stronger than the{F801}last one we demolished.{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,-480}This barrier... it is stronger than the{F801}last one we demolished.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Demon Lord Lucifer\0{F87A,-480}There is nothing for it, {F843,0},{F801}than to hunt and kill all the angels{F801}who remain.{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,-480}There is nothing for it, {F843,0},{F801}than to hunt and kill all the angels{F801}who remain.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 The atmosphere changed...{F801}</source>
+    <target>〉 The atmosphere changed...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 The barrier disappeared.{F801}</source>
+    <target>〉 The barrier disappeared.{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Masakado\0{F87A,-360}{F813,1,402002}A barrier the angels erected...{F801}{F802}......{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,1,402002}A barrier the angels erected...{F801}{F802}......{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Masakado\0{F87A,-360}{F813,1,402002}Hrrrm... Another of the angels' barriers.{F801}{F802}......{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,1,402002}Hrrrm... Another of the angels' barriers.{F801}{F802}......{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,1,401904}...One of the angels' barriers.{F801}{F802}......{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,1,401904}...One of the angels' barriers.{F801}{F802}......{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,1,401902}Another of the accursed angels' barriers,{F801}I see.{F801}{F802}......{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,1,401902}Another of the accursed angels' barriers,{F801}I see.{F801}{F802}......{F801}</target>
+  </entry>
+</mbm>

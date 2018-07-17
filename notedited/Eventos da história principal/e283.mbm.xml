@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Man's voice\0{F87A,2}{F813,0,283001}Halt, thou varlet!{F801}{F802}{F813,0,283002}This Domain hath been established to{F801}ensnare scoundrels like thee!{F801}</source>
+    <target>{F812}Man's voice\0{F87A,2}{F813,0,283001}Halt, thou varlet!{F801}{F802}{F813,0,283002}This Domain hath been established to{F801}ensnare scoundrels like thee!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Anachronistic man\0{F87A,29}{F813,0,283003}The folk call me the Guardian of the{F801}Terminal! I am a seasoned hand who has{F801}performed thus for nigh twenty years.{F801}</source>
+    <target>{F812}Anachronistic man\0{F87A,29}{F813,0,283003}The folk call me the Guardian of the{F801}Terminal! I am a seasoned hand who has{F801}performed thus for nigh twenty years.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Anachronistic man\0{F87A,29}{F813,0,283004}The folk call me the... Zounds! Thou{F801}art the varlet from before!{F801}{F802}{F813,0,283005}That thou wouldst follow the rail to{F801}come so far!{F801}</source>
+    <target>{F812}Anachronistic man\0{F87A,29}{F813,0,283004}The folk call me the... Zounds! Thou{F801}art the varlet from before!{F801}{F802}{F813,0,283005}That thou wouldst follow the rail to{F801}come so far!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Anachronistic man\0{F87A,29}{F813,0,283006}I think thou hast surmised that there{F801}is a Terminal here to be won!{F801}</source>
+    <target>{F812}Anachronistic man\0{F87A,29}{F813,0,283006}I think thou hast surmised that there{F801}is a Terminal here to be won!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Anachronistic man\0{F87A,29}{F813,0,283007}Thou hast come... Thou Terminal-{F801}seeking scoundrel!{F801}{F802}{F813,0,283008}Wouldst thou deprive a patriarch of{F801}honest work, to chortle at the tears{F801}of his starving family?{F801}{F802}{F813,0,283009}...Yes, that's exactly what an actor{F801}would say at such a dramatic moment!{F801}Good thing I had a line prepared!{F801}</source>
+    <target>{F812}Anachronistic man\0{F87A,29}{F813,0,283007}Thou hast come... Thou Terminal-{F801}seeking scoundrel!{F801}{F802}{F813,0,283008}Wouldst thou deprive a patriarch of{F801}honest work, to chortle at the tears{F801}of his starving family?{F801}{F802}{F813,0,283009}...Yes, that's exactly what an actor{F801}would say at such a dramatic moment!{F801}Good thing I had a line prepared!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Anachronistic man\0{F87A,29}{F813,0,283010}Thou hath shown thine face, thou{F801}scoundrel. It seems this will be the{F801}stage of our final fray.{F801}{F802}{F813,0,283011}Let me end this vicious struggle with{F801}the pride of mine task as a guardian{F801}held fast to heart!{F801}{F802}{F813,0,283012}...That's how it would go in a play,{F801}anyway, but it's true that I do take{F801}pride in the work I do.{F801}</source>
+    <target>{F812}Anachronistic man\0{F87A,29}{F813,0,283010}Thou hath shown thine face, thou{F801}scoundrel. It seems this will be the{F801}stage of our final fray.{F801}{F802}{F813,0,283011}Let me end this vicious struggle with{F801}the pride of mine task as a guardian{F801}held fast to heart!{F801}{F802}{F813,0,283012}...That's how it would go in a play,{F801}anyway, but it's true that I do take{F801}pride in the work I do.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Anachronistic man\0{F87A,29}{F813,0,283013}See my armor? Doesn't it look perfect{F801}for a period piece? I found it in a{F801}run-down theater nearby.{F801}{F802}{F813,0,283014}The thread of thine fate shall be{F801}severed here! Fall before the blade{F801}of a steadfast guardian!{F801}</source>
+    <target>{F812}Anachronistic man\0{F87A,29}{F813,0,283013}See my armor? Doesn't it look perfect{F801}for a period piece? I found it in a{F801}run-down theater nearby.{F801}{F802}{F813,0,283014}The thread of thine fate shall be{F801}severed here! Fall before the blade{F801}of a steadfast guardian!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The Domain has lifted...{F801}</source>
+    <target>〉 The Domain has lifted...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405707}This is the Tennozu Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405707}This is the Tennozu Terminal.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+</mbm>

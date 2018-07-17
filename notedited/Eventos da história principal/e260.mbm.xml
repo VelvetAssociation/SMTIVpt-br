@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>カットÁニメにて{F801}新生悪魔王úシフÄーが誕生する{F801}</source>
+    <target>カットÁニメにて{F801}新生悪魔王úシフÄーが誕生する{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-1086}{F813,0,260006}......{F801}</source>
+    <target>{F812}Demon\0{F87A,-1086}{F813,0,260006}......{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-1086}{F813,0,260007}I...{F801}</source>
+    <target>{F812}Demon\0{F87A,-1086}{F813,0,260007}I...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,204}{F813,0,260008}I am the Demon Lord Lucifer.{F801}</source>
+    <target>{F812}Demon\0{F87A,204}{F813,0,260008}I am the Demon Lord Lucifer.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon Lord Lucifer\0{F87A,204}{F813,0,260009}The son of man, and a demon, reunited{F801}in one body... This is my truest form.{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,204}{F813,0,260009}The son of man, and a demon, reunited{F801}in one body... This is my truest form.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Voice\0{F813,0,260001}...Hoy, where are you going?{F801}</source>
+    <target>{F812}Voice\0{F813,0,260001}...Hoy, where are you going?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Walter\0{F87A,4}{F813,0,260002}Trying to slip away quietly, eh?{F801}If you mean to flee, you can at{F801}least let me know.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,260002}Trying to slip away quietly, eh?{F801}If you mean to flee, you can at{F801}least let me know.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F813,0,260003}Though come to think on it... We have{F801}nowhere to flee to.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,260003}Though come to think on it... We have{F801}nowhere to flee to.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,260004}Hrm... what should we do...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,260004}Hrm... what should we do...?{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>{F812}Demon Lord Lucifer\0{F87A,204}{F813,0,260010}You, son of man, who desires a world{F801}of freedom.{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,204}{F813,0,260010}You, son of man, who desires a world{F801}of freedom.{F801}</target>
+  </entry>
+  <entry id="304">
+    <source>{F812}Demon Lord Lucifer\0{F87A,204}{F813,0,260011}Let us pass through Naraku together.{F801}We will demonstrate the laws of power{F801}to the kingdom of deceit.{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,204}{F813,0,260011}Let us pass through Naraku together.{F801}We will demonstrate the laws of power{F801}to the kingdom of deceit.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>úシフÄーとの合体Íäñトが終了するまで{F801}ワúターによって部屋を出るのを止められます{F801}</source>
+    <target>úシフÄーとの合体Íäñトが終了するまで{F801}ワúターによって部屋を出るのを止められます{F801}</target>
+  </entry>
+</mbm>

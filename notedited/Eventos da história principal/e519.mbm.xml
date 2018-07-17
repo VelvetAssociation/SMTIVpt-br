@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The atmosphere changed...{F801}</source>
+    <target>〉 The atmosphere changed...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 The demons are no longer here...{F801}</source>
+    <target>〉 The demons are no longer here...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 A voice can be heard coming from{F801}somewhere...{F801}</source>
+    <target>〉 A voice can be heard coming from{F801}somewhere...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Voice\0{F813,1,412207}This is His Excellency's castle...{F801}And you are uninvited guests.{F801}</source>
+    <target>{F812}Voice\0{F813,1,412207}This is His Excellency's castle...{F801}And you are uninvited guests.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Voice\0{F813,1,461008}...There is no need for us to show{F801}ourselves.{F801}{F802}Wander the Hall of Eternity, leaving{F801}behind only your unsightly corpse.{F801}</source>
+    <target>{F812}Voice\0{F813,1,461008}...There is no need for us to show{F801}ourselves.{F801}{F802}Wander the Hall of Eternity, leaving{F801}behind only your unsightly corpse.{F801}</target>
+  </entry>
+</mbm>

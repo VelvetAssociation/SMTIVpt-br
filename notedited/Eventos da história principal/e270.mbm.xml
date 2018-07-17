@@ -1,0 +1,122 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The blade of Masakado's Katana begins{F801}to resonate.{F801}</source>
+    <target>〉 The blade of Masakado's Katana begins{F801}to resonate.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,270001}Look! The boulder before us...!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,270001}Look! The boulder before us...!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-360}{F813,0,270002}I am Masakado...{F801}</source>
+    <target>{F812}Demon\0{F87A,-360}{F813,0,270002}I am Masakado...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,270004}Ho there, {F843,0}.{F801}{F802}{F813,0,270005}Ah... you have reincarnated.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,270004}Ho there, {F843,0}.{F801}{F802}{F813,0,270005}Ah... you have reincarnated.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,270009}Oh... does that mean...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,270009}Oh... does that mean...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,270012}Unfortunately, my essence has left me{F801}to become the dome up above.{F801}{F802}{F813,0,270013}As it stands, I have no power to{F801}lend you.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,270012}Unfortunately, my essence has left me{F801}to become the dome up above.{F801}{F802}{F813,0,270013}As it stands, I have no power to{F801}lend you.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,270015}But that does not mean there is not{F801}a way.{F801}{F802}{F813,0,270016}Unite the souls of Tokyo's people as{F801}one to form a singular great soul.{F801}{F802}{F813,0,270017}What you call "hope" is my{F801}nourishment... Offer this{F801}Great Spirit of Hope to me.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,270015}But that does not mean there is not{F801}a way.{F801}{F802}{F813,0,270016}Unite the souls of Tokyo's people as{F801}one to form a singular great soul.{F801}{F802}{F813,0,270017}What you call "hope" is my{F801}nourishment... Offer this{F801}Great Spirit of Hope to me.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Masakado handed {F843,0} a chalice.{F801}{F802}〉 Obtained the Chalice.{F801}</source>
+    <target>〉 Masakado handed {F843,0} a chalice.{F801}{F802}〉 Obtained the Chalice.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,270020}When the chalice is filled, the Great{F801}Spirit of Hope will form on its own...{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,270020}When the chalice is filled, the Great{F801}Spirit of Hope will form on its own...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,270022}But how are we to gather hope...?{F801}{F802}{F813,0,270023}Perhaps the best way is to travel the{F801}regions of Tokyo in search of some{F801}morsel that may help us...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,270022}But how are we to gather hope...?{F801}{F802}{F813,0,270023}Perhaps the best way is to travel the{F801}regions of Tokyo in search of some{F801}morsel that may help us...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>本来この後複数のサブクÉストを行い{F801}人外ハñターのáñキñグで{F801}総合1位になる必要がありますが{F801}仮処理で総合1位になったことになります{F801}{F802}総合1位になった事でどの町でも{F801}人気者である事が人外ハñター商会の{F801}店主から知らされます{F801}</source>
+    <target>本来この後複数のサブクÉストを行い{F801}人外ハñターのáñキñグで{F801}総合1位になる必要がありますが{F801}仮処理で総合1位になったことになります{F801}{F802}総合1位になった事でどの町でも{F801}人気者である事が人外ハñター商会の{F801}店主から知らされます{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Bartender\0{F87A,24}{F813,0,270024}Ah, Tokyo these days... No matter{F801}where you look, it's demons everywhere.{F801}{F802}{F813,0,270025}No wonder the Hunters' hearts aren't{F801}in it, eh? We'll be going bust if{F801}this keeps up.{F801}{F802}{F813,0,270026}What we need is some kind of gimmick{F801}to boost the Hunter trade...{F801}</source>
+    <target>{F812}Bartender\0{F87A,24}{F813,0,270024}Ah, Tokyo these days... No matter{F801}where you look, it's demons everywhere.{F801}{F802}{F813,0,270025}No wonder the Hunters' hearts aren't{F801}in it, eh? We'll be going bust if{F801}this keeps up.{F801}{F802}{F813,0,270026}What we need is some kind of gimmick{F801}to boost the Hunter trade...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Bartender\0{F87A,24}{F813,0,270027}That's why the Hunter Association has{F801}decided to change how the rankings work.{F801}{F802}{F813,0,270028}We've always ranked people in various{F801}categories, but from now on, we're{F801}switching to just one big list.{F801}{F802}{F813,0,270029}Basically, we're turning the system{F801}into a tournament to determine the{F801}champion Hunter.{F801}{F802}{F813,0,270030}Maybe the tournament-style rankings{F801}will liven up the Hunter trade.{F801}</source>
+    <target>{F812}Bartender\0{F87A,24}{F813,0,270027}That's why the Hunter Association has{F801}decided to change how the rankings work.{F801}{F802}{F813,0,270028}We've always ranked people in various{F801}categories, but from now on, we're{F801}switching to just one big list.{F801}{F802}{F813,0,270029}Basically, we're turning the system{F801}into a tournament to determine the{F801}champion Hunter.{F801}{F802}{F813,0,270030}Maybe the tournament-style rankings{F801}will liven up the Hunter trade.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Bartender\0{F87A,24}{F813,0,270031}Say... you're a Samurai from the world{F801}up top, right?{F801}{F802}{F813,0,270032}An outsider contending for the title{F801}would be a great way to drum up{F801}interest in the tournament.{F801}{F802}{F813,0,270033}If you won the championship, you'd be{F801}the man of the hour!{F801}{F802}{F813,0,270034}You'd be a shining ray of light for{F801}them... a hero that everyone could pin{F801}their hopes on.{F801}</source>
+    <target>{F812}Bartender\0{F87A,24}{F813,0,270031}Say... you're a Samurai from the world{F801}up top, right?{F801}{F802}{F813,0,270032}An outsider contending for the title{F801}would be a great way to drum up{F801}interest in the tournament.{F801}{F802}{F813,0,270033}If you won the championship, you'd be{F801}the man of the hour!{F801}{F802}{F813,0,270034}You'd be a shining ray of light for{F801}them... a hero that everyone could pin{F801}their hopes on.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Bartender\0{F87A,24}{F813,0,270035}With a hook like that, there's no way{F801}you can refuse, right?{F801}{F802}{F813,0,270036}The future of the Hunter trade could{F801}be riding on your shoulders.{F801}{F802}{F813,0,270037}I'll be counting on you.{F801}</source>
+    <target>{F812}Bartender\0{F87A,24}{F813,0,270035}With a hook like that, there's no way{F801}you can refuse, right?{F801}{F802}{F813,0,270036}The future of the Hunter trade could{F801}be riding on your shoulders.{F801}{F802}{F813,0,270037}I'll be counting on you.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 There is a boulder before you...{F801}{F802}〉 Unsheathe Masakado's Katana?{F801}</source>
+    <target>〉 There is a boulder before you...{F801}{F802}〉 Unsheathe Masakado's Katana?{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,270003}The great spirit of the earth charged{F801}with protecting Tokyo...{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,270003}The great spirit of the earth charged{F801}with protecting Tokyo...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,270006}I am aware of your intentions.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,270006}I am aware of your intentions.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,270010}Will the rift between the Eastern{F801}Kingdom of Mikado and Tokyo be healed?{F801}Will their peoples live together...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,270010}Will the rift between the Eastern{F801}Kingdom of Mikado and Tokyo be healed?{F801}Will their peoples live together...?{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,270014}What...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,270014}What...?{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,270018}If you do this, my head will return{F801}to its body.{F801}{F802}{F813,0,270019}Here. Fill this chalice with the hopes{F801}of Tokyo's people.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,270018}If you do this, my head will return{F801}to its body.{F801}{F802}{F813,0,270019}Here. Fill this chalice with the hopes{F801}of Tokyo's people.{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>〉 The bartender addressed {F843,0}{F801}while washing dishes...{F801}</source>
+    <target>〉 The bartender addressed {F843,0}{F801}while washing dishes...{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>Unsheathe{F801}Don't unsheathe{F801}</source>
+    <target>Unsheathe{F801}Don't unsheathe{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,270007}You wish to remove the dome above and{F801}restore Tokyo to its rightful form...{F801}{F802}{F813,0,270008}In short, you intend to revive the{F801}goddess of Tokyo, correct?{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,270007}You wish to remove the dome above and{F801}restore Tokyo to its rightful form...{F801}{F802}{F813,0,270008}In short, you intend to revive the{F801}goddess of Tokyo, correct?{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,4,1,1}{F813,0,270011}What a splendid idea... There is{F801}the choice I've been longing for!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,4,1,1}{F813,0,270011}What a splendid idea... There is{F801}the choice I've been longing for!{F801}</target>
+  </entry>
+  <entry id="208">
+    <source>〉 Masakado turned back into a boulder...{F801}</source>
+    <target>〉 Masakado turned back into a boulder...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>総合áñキñグに参加しないかと{F801}人外ハñター商会の店主に誘われます{F801}</source>
+    <target>総合áñキñグに参加しないかと{F801}人外ハñター商会の店主に誘われます{F801}</target>
+  </entry>
+</mbm>

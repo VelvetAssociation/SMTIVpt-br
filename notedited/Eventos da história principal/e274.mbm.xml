@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isabeau\0{F87B,5,3,1,1}{F813,0,274001}I-It's pitch black in here. You are{F801}there, aren't you, {F843,0}...?{F801}</source>
+    <target>{F812}Isabeau\0{F87B,5,3,1,1}{F813,0,274001}I-It's pitch black in here. You are{F801}there, aren't you, {F843,0}...?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F87A,205}{F813,0,274002}So you, too, returned from the world{F801}of possibility, {F843,0}...{F801}</source>
+    <target>{F812}Voice\0{F87A,205}{F813,0,274002}So you, too, returned from the world{F801}of possibility, {F843,0}...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Voice\0{F87A,205}{F813,0,274003}If you're here, does that mean you{F801}have come to upset the harmony of{F801}my goodwill?{F801}</source>
+    <target>{F812}Voice\0{F87A,205}{F813,0,274003}If you're here, does that mean you{F801}have come to upset the harmony of{F801}my goodwill?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,274004}That voice...!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,274004}That voice...!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Voice\0{F87A,205}{F813,0,274005}Surely you must know already. Human{F801}suffering is what births the demons{F801}which trouble the world so...{F801}{F802}{F813,0,274006}The weak humans need an absolute as a{F801}foundation of their faith. Something{F801}that can banish despair...{F801}{F802}{F813,0,274007}That is God.{F801}</source>
+    <target>{F812}Voice\0{F87A,205}{F813,0,274005}Surely you must know already. Human{F801}suffering is what births the demons{F801}which trouble the world so...{F801}{F802}{F813,0,274006}The weak humans need an absolute as a{F801}foundation of their faith. Something{F801}that can banish despair...{F801}{F802}{F813,0,274007}That is God.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Voice\0{F87A,205}{F813,0,274008}God wished for man to become the{F801}extensions of His order so that we{F801}need not harbor unnecessary anxieties.{F801}{F802}{F813,0,274009}Why can you not see God's affection{F801}for us?{F801}</source>
+    <target>{F812}Voice\0{F87A,205}{F813,0,274008}God wished for man to become the{F801}extensions of His order so that we{F801}need not harbor unnecessary anxieties.{F801}{F802}{F813,0,274009}Why can you not see God's affection{F801}for us?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Voice\0{F87A,205}{F813,0,274010}Perhaps because you are nothing but{F801}a human born of common stock after{F801}all...{F801}</source>
+    <target>{F812}Voice\0{F87A,205}{F813,0,274010}Perhaps because you are nothing but{F801}a human born of common stock after{F801}all...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87B,5,10,1,1}{F87A,5}{F813,0,274011}That is you, isn't it, Jonathan?{F801}What are you saying...!?{F801}</source>
+    <target>{F812}Isabeau\0{F87B,5,10,1,1}{F87A,5}{F813,0,274011}That is you, isn't it, Jonathan?{F801}What are you saying...!?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Voice\0{F87A,205}{F813,0,274012}I am no longer the son of man you{F801}know as Jonathan.{F801}</source>
+    <target>{F812}Voice\0{F87A,205}{F813,0,274012}I am no longer the son of man you{F801}know as Jonathan.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Angel\0{F87B,205,1,1,1}{F87A,205}{F813,0,274013}I am the Lord's chariot... the seraph{F801}Merkabah.{F801}</source>
+    <target>{F812}Angel\0{F87B,205,1,1,1}{F87A,205}{F813,0,274013}I am the Lord's chariot... the seraph{F801}Merkabah.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Merkabah\0{F87B,205,1,1,1}{F87A,205}{F813,0,274014}Foolish ones who churlishly refuse{F801}the hand of salvation that the Lord{F801}has extended to you...{F801}</source>
+    <target>{F812}Merkabah\0{F87B,205,1,1,1}{F87A,205}{F813,0,274014}Foolish ones who churlishly refuse{F801}the hand of salvation that the Lord{F801}has extended to you...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Merkabah\0{F87B,205,1,1,1}{F87A,205}{F813,0,274015}I shall reduce you to ash for the sake{F801}of a new millenium of order.{F801}</source>
+    <target>{F812}Merkabah\0{F87B,205,1,1,1}{F87A,205}{F813,0,274015}I shall reduce you to ash for the sake{F801}of a new millenium of order.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,274016}Jonathan fought fairly and valiantly{F801}to the end for the path he chose.{F801}{F802}{F813,0,274017}As his fellow Samurai... I must pay{F801}my respect to him.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,274016}Jonathan fought fairly and valiantly{F801}to the end for the path he chose.{F801}{F802}{F813,0,274017}As his fellow Samurai... I must pay{F801}my respect to him.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F87B,5,8,1,2}〉 Isabeau closed her eyes...{F801}</source>
+    <target>{F87B,5,8,1,2}〉 Isabeau closed her eyes...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,274018}Hark, what's this...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,274018}Hark, what's this...?{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>メúカバーが消滅し虚構空間が消える{F801}</source>
+    <target>メúカバーが消滅し虚構空間が消える{F801}</target>
+  </entry>
+</mbm>

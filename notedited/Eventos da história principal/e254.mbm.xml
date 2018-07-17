@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Girl's voice\0{F813,0,254001}...Halt.{F801}</source>
+    <target>{F812}Girl's voice\0{F813,0,254001}...Halt.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,254002}We meet again, {F843,0}.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,254002}We meet again, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,254003}It's just as Walter said...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,254003}It's just as Walter said...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,254004}You intend to annihilate Tokyo through{F801}the use of the Yamato Reactor, no?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,254004}You intend to annihilate Tokyo through{F801}the use of the Yamato Reactor, no?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,254005}It may be for the sake of the people of{F801}the Eastern Kingdom of Mikado... but it{F801}is tantamount to genocide.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,254005}It may be for the sake of the people of{F801}the Eastern Kingdom of Mikado... but it{F801}is tantamount to genocide.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,2}{F87B,5,3,1,1}{F813,0,254007}...You, {F843,0}, are a strong Samurai{F801}who can be proud of the path you've{F801}chosen...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,2}{F87B,5,3,1,1}{F813,0,254007}...You, {F843,0}, are a strong Samurai{F801}who can be proud of the path you've{F801}chosen...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,254009}Nevertheless... I abhor the idea of{F801}you doing something so horrible as{F801}annihilating Tokyo!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,254009}Nevertheless... I abhor the idea of{F801}you doing something so horrible as{F801}annihilating Tokyo!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,254010}I am quite serious about this.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,254010}I am quite serious about this.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Isabeau lies still...{F801}</source>
+    <target>〉 Isabeau lies still...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Merkabah\0{F87A,-1058}{F813,0,254011}We must never forget this woman.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,-1058}{F813,0,254011}We must never forget this woman.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Merkabah\0{F87A,205}{F813,0,254013}Now, let us go, chosen warrior of light.{F801}{F802}{F813,0,254014}We will excise Tokyo, the root of{F801}the Filth, with our own hands.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,205}{F813,0,254013}Now, let us go, chosen warrior of light.{F801}{F802}{F813,0,254014}We will excise Tokyo, the root of{F801}the Filth, with our own hands.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Merkabah\0{F87A,205}{F87B,205,1,1,1}{F813,0,254006}This woman has come in contact with{F801}Tokyo's manga. She is Unclean and would{F801}lead we righteous ones astray.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,205}{F87B,205,1,1,1}{F813,0,254006}This woman has come in contact with{F801}Tokyo's manga. She is Unclean and would{F801}lead we righteous ones astray.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,5,1,1}{F813,0,254008}But I... I could not make my decision{F801}until the very end.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,5,1,1}{F813,0,254008}But I... I could not make my decision{F801}until the very end.{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Merkabah\0{F87A,-1058}{F813,0,254012}If Tokyo is left untouched, there will{F801}be many more victims like her.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,-1058}{F813,0,254012}If Tokyo is left untouched, there will{F801}be many more victims like her.{F801}</target>
+  </entry>
+</mbm>

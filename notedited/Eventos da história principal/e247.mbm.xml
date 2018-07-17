@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}White\0{F87A,75}{F813,0,247001}Our fifth son, who chose neutrality...{F801}</source>
+    <target>{F812}White\0{F87A,75}{F813,0,247001}Our fifth son, who chose neutrality...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}White\0{F87A,219}{F813,0,247002}...You still do not understand?{F801}</source>
+    <target>{F812}White\0{F87A,219}{F813,0,247002}...You still do not understand?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}White\0{F87A,219}{F813,0,247003}Your will, which rejects our salvation,{F801}is the cause of your suffering...{F801}</source>
+    <target>{F812}White\0{F87A,219}{F813,0,247003}Your will, which rejects our salvation,{F801}is the cause of your suffering...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}White\0{F87A,219}{F813,0,247004}We will eliminate that will in{F801}preparation for the coming of a{F801}new Messiah.{F801}</source>
+    <target>{F812}White\0{F87A,219}{F813,0,247004}We will eliminate that will in{F801}preparation for the coming of a{F801}new Messiah.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}This may sound sudden, but I've cross-{F801}referenced data from the past,{F801}Master {F843,0}.{F801}{F802}You don't agree with self-actualization{F801}through will and power, but you also{F801}don't oppress those who do...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}This may sound sudden, but I've cross-{F801}referenced data from the past,{F801}Master {F843,0}.{F801}{F802}You don't agree with self-actualization{F801}through will and power, but you also{F801}don't oppress those who do...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}Allow me to note that you haven't{F801}changed at all, Master {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Allow me to note that you haven't{F801}changed at all, Master {F843,0}.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

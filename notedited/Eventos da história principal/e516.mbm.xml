@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The stone that was once Tenkai is{F801}sitting in front of you...{F801}</source>
+    <target>〉 The stone that was once Tenkai is{F801}sitting in front of you...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 The stone that was once Omoikane is{F801}sitting in front of you...{F801}</source>
+    <target>〉 The stone that was once Omoikane is{F801}sitting in front of you...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F813,1,400255}...Hoy, how far have you gone? I'm sure{F801}you've come to terms with your feelings{F801}on this by now.{F801}{F802}I'll be waiting at the Yamato Reactor.{F801}</source>
+    <target>{F812}Walter\0{F813,1,400255}...Hoy, how far have you gone? I'm sure{F801}you've come to terms with your feelings{F801}on this by now.{F801}{F802}I'll be waiting at the Yamato Reactor.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Ashura-kai member\0{F87A,47}{F813,1,68001}...Huh?{F801}</source>
+    <target>{F812}Ashura-kai member\0{F87A,47}{F813,1,68001}...Huh?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Ashura-kai member\0{F87A,47}...Dude, what took you so long? I was{F801}gettin' lonely here. I felt real bad{F801}asking you to do this, y'know...{F801}{F802}I made sure to put Mr. Tayama's demons{F801}in the right places and set up a Domain{F801}to boot.{F801}</source>
+    <target>{F812}Ashura-kai member\0{F87A,47}...Dude, what took you so long? I was{F801}gettin' lonely here. I felt real bad{F801}asking you to do this, y'know...{F801}{F802}I made sure to put Mr. Tayama's demons{F801}in the right places and set up a Domain{F801}to boot.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Ashura-kai member\0{F87A,47}Even if by some mistake those Ring of{F801}Gaea punks show up, there's no way{F801}they can get past those two demons.{F801}{F802}So... I'm gonna take off now.{F801}</source>
+    <target>{F812}Ashura-kai member\0{F87A,47}Even if by some mistake those Ring of{F801}Gaea punks show up, there's no way{F801}they can get past those two demons.{F801}{F802}So... I'm gonna take off now.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 The Ashura-kai member leaves.{F801}</source>
+    <target>〉 The Ashura-kai member leaves.{F801}</target>
+  </entry>
+</mbm>

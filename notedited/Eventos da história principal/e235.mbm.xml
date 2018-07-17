@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F813,0,235001}You have done well to drive out the{F801}White, blessed warriors of light.{F801}</source>
+    <target>{F812}Voice\0{F813,0,235001}You have done well to drive out the{F801}White, blessed warriors of light.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,235002}Their control over the Expanse seems{F801}to have dissipated for the time being.{F801}{F802}{F813,0,235003}I can now use my own power to return{F801}you to your world of origin.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,235002}Their control over the Expanse seems{F801}to have dissipated for the time being.{F801}{F802}{F813,0,235003}I can now use my own power to return{F801}you to your world of origin.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,235004}Let us go. Together, we shall become{F801}shepherds of the lost flock...{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,235004}Let us go. Together, we shall become{F801}shepherds of the lost flock...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,235005}We must take care not to repeat the{F801}tragedies of Kiyoharu and Kenji...{F801}{F802}{F813,0,235006}{F87B,3,1,1,1}...Let's return. To your world,{F801}{F843,0}, and mine.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,235005}We must take care not to repeat the{F801}tragedies of Kiyoharu and Kenji...{F801}{F802}{F813,0,235006}{F87B,3,1,1,1}...Let's return. To your world,{F801}{F843,0}, and mine.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,106 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,4,1,1}{F813,0,280001}It's you, {F843,0}...{F801}{F802}{F813,0,280002}You've become quite gallant in our{F801}short time apart.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,4,1,1}{F813,0,280001}It's you, {F843,0}...{F801}{F802}{F813,0,280002}You've become quite gallant in our{F801}short time apart.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,280003}Go on inside. Everyone is waiting for{F801}you there.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,280003}Go on inside. Everyone is waiting for{F801}you there.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F87B,19,1,1,2}{F813,0,280004}Ah, the man of the hour. This must{F801}be a sign from God as well!{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F87B,19,1,1,2}{F813,0,280004}Ah, the man of the hour. This must{F801}be a sign from God as well!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,4,1,2}{F813,0,280005}Didn't you decide you'd stop saying{F801}that from now on, Mr. Hugo?{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,4,1,2}{F813,0,280005}Didn't you decide you'd stop saying{F801}that from now on, Mr. Hugo?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}K\0{F87A,22}{F87B,22,5,1,1}{F813,0,280006}That certainly was a lengthy trip.{F801}I would never have completed it had I{F801}been short one leg instead...{F801}</source>
+    <target>{F812}K\0{F87A,22}{F87B,22,5,1,1}{F813,0,280006}That certainly was a lengthy trip.{F801}I would never have completed it had I{F801}been short one leg instead...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,2}{F813,0,280007}Welcome back, {F843,0}. I take it you{F801}collected the Great Spirit of Spite{F801}without mishap.{F801}{F802}{F813,0,280008}Burroughs told me of your success.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,2}{F813,0,280007}Welcome back, {F843,0}. I take it you{F801}collected the Great Spirit of Spite{F801}without mishap.{F801}{F802}{F813,0,280008}Burroughs told me of your success.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F87B,22,1,1,1}{F813,0,280010}Isabeau told us that the bedrock{F801}covering Tokyo is going to be removed.{F801}{F802}{F813,0,280011}I never thought that would even be{F801}possible...{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F87B,22,1,1,1}{F813,0,280010}Isabeau told us that the bedrock{F801}covering Tokyo is going to be removed.{F801}{F802}{F813,0,280011}I never thought that would even be{F801}possible...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}K\0{F87A,22}{F87B,22,1,1,1}{F813,0,280012}The legends make Tokyo out to be a{F801}fell place, but this is not so bad.{F801}{F802}{F87B,22,5,1,1}{F813,0,280013}P'raps it's only in my imagination, but{F801}this doesn't feel like the first time{F801}I've been here.{F801}</source>
+    <target>{F812}K\0{F87A,22}{F87B,22,1,1,1}{F813,0,280012}The legends make Tokyo out to be a{F801}fell place, but this is not so bad.{F801}{F802}{F87B,22,5,1,1}{F813,0,280013}P'raps it's only in my imagination, but{F801}this doesn't feel like the first time{F801}I've been here.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,280014}This entire city is a mystic relic...{F801}We shall make great strides in our{F801}research.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,280014}This entire city is a mystic relic...{F801}We shall make great strides in our{F801}research.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,4,1,2}{F813,0,280015}Heh! Those "mystic relics" are common{F801}knowledge for us Tokyo folks, you know.{F801}{F802}{F813,0,280016}If you wanna stay a scholar, you'd{F801}better start boning up on stuff like{F801}your life depends on it.{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,4,1,2}{F813,0,280015}Heh! Those "mystic relics" are common{F801}knowledge for us Tokyo folks, you know.{F801}{F802}{F813,0,280016}If you wanna stay a scholar, you'd{F801}better start boning up on stuff like{F801}your life depends on it.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,280017}Hm! Then I shall begin by researching{F801}wine...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,280017}Hm! Then I shall begin by researching{F801}wine...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,4,1,1}{F813,0,280018}You seem to have quite an enthusiasm{F801}for the subject, Mr. Hugo.{F801}{F802}{F813,0,280019}Very well, I'll treat you to a bottle{F801}of my precious Romanee.{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,4,1,1}{F813,0,280018}You seem to have quite an enthusiasm{F801}for the subject, Mr. Hugo.{F801}{F802}{F813,0,280019}Very well, I'll treat you to a bottle{F801}of my precious Romanee.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Fujiwara\0{F87A,18}[私/わたし]たちはね お[祝/いわい]い[事/ごと]があると{F801}[互/たが]いに[酒/さけ]を[酌/く]み[交/か]わして[語/かた]らうんです{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}[私/わたし]たちはね お[祝/いわい]い[事/ごと]があると{F801}[互/たが]いに[酒/さけ]を[酌/く]み[交/か]わして[語/かた]らうんです{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,280020}Tokyo is a treasure house of alcoholic{F801}relics as well. I would love to partake{F801}of them...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,280020}Tokyo is a treasure house of alcoholic{F801}relics as well. I would love to partake{F801}of them...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Skins\0{F87A,19}{F87B,19,4,1,2}{F87B,22,1,1,1}{F813,0,280021}How many years has it been since we{F801}drank without worrying what the future{F801}holds?{F801}</source>
+    <target>{F812}Skins\0{F87A,19}{F87B,19,4,1,2}{F87B,22,1,1,1}{F813,0,280021}How many years has it been since we{F801}drank without worrying what the future{F801}holds?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}K\0{F87A,22}{F813,0,280022}Here, I'll work up some appetizers{F801}for the drinks. Don't mind me helping{F801}myself to what I can find in the shop!{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,280022}Here, I'll work up some appetizers{F801}for the drinks. Don't mind me helping{F801}myself to what I can find in the shop!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,2}{F813,0,280025}I think that everyone will get along{F801}splendidly, don't you?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,2}{F813,0,280025}I think that everyone will get along{F801}splendidly, don't you?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,280026}But we should be going. We have an{F801}appointment with Masakado to keep.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,280026}But we should be going. We have an{F801}appointment with Masakado to keep.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 You decided to go with Isabeau.{F801}</source>
+    <target>〉 You decided to go with Isabeau.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,4,1,1}{F813,0,280001}It's you, {F843,0}...{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,4,1,1}{F813,0,280001}It's you, {F843,0}...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,280003}Go on inside. Everyone is waiting for{F801}you there.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,280003}Go on inside. Everyone is waiting for{F801}you there.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,2}{F813,0,280009}I had Director Hugo and the Commander{F801}appeal to the public, so my own task{F801}has been fulfilled as well.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,2}{F813,0,280009}I had Director Hugo and the Commander{F801}appeal to the public, so my own task{F801}has been fulfilled as well.{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,280023}This is different from the atmosphere{F801}I scanned in the Eastern Kingdom of{F801}Mikado or in Tokyo.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,280023}This is different from the atmosphere{F801}I scanned in the Eastern Kingdom of{F801}Mikado or in Tokyo.{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,280024}...Anyway, congratulations on{F801}completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,280024}...Anyway, congratulations on{F801}completing the quest.{F801}</target>
+  </entry>
+  <entry id="119">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,4,1,1}{F813,0,280002}You've become quite gallant in our{F801}short time apart.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,4,1,1}{F813,0,280002}You've become quite gallant in our{F801}short time apart.{F801}</target>
+  </entry>
+  <entry id="216">
+    <source>〉 Isabeau finished drinking her coffee{F801}with a smile.{F801}</source>
+    <target>〉 Isabeau finished drinking her coffee{F801}with a smile.{F801}</target>
+  </entry>
+</mbm>

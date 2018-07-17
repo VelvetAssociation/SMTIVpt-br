@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F813,0,237001}Looks like you didn't fall for the{F801}White's moaning and kept right on{F801}going your own way.{F801}</source>
+    <target>{F812}Voice\0{F813,0,237001}Looks like you didn't fall for the{F801}White's moaning and kept right on{F801}going your own way.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F802}</source>
+    <target>{F812}Voice\0{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hikaru\0{F87A,20}{F813,0,237002}Hi, you guys! Long time no see.{F801}</source>
+    <target>{F812}Hikaru\0{F87A,20}{F813,0,237002}Hi, you guys! Long time no see.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hikaru\0{F87A,20}{F87B,20,4,1,1}{F813,0,237004}Hey, you don't think I'm one of the{F801}White too, do you?{F801}{F802}{F813,0,237005}*giggle* No way. I'm definitely the{F801}real me!{F801}</source>
+    <target>{F812}Hikaru\0{F87A,20}{F87B,20,4,1,1}{F813,0,237004}Hey, you don't think I'm one of the{F801}White too, do you?{F801}{F802}{F813,0,237005}*giggle* No way. I'm definitely the{F801}real me!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}</source>
+    <target>{F812}Walter\0{F87A,4}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Demon\0{F87A,87}{F813,0,237007}I am Lucifer.{F801}</source>
+    <target>{F812}Demon\0{F87A,87}{F813,0,237007}I am Lucifer.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Lucifer\0{F87A,20}{F813,0,237015}Though you rejected their proposal,{F801}the White's influence is still strong.{F801}{F802}{F813,0,237016}There are four of the White lurking{F801}somewhere within this forest.{F801}{F802}{F813,0,237017}Kill them all and break their influence{F801}on this place.{F801}{F802}{F813,0,237018}If you can do this, I shall return you{F801}to your own world.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,20}{F813,0,237015}Though you rejected their proposal,{F801}the White's influence is still strong.{F801}{F802}{F813,0,237016}There are four of the White lurking{F801}somewhere within this forest.{F801}{F802}{F813,0,237017}Kill them all and break their influence{F801}on this place.{F801}{F802}{F813,0,237018}If you can do this, I shall return you{F801}to your own world.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Lucifer\0{F87A,20}{F813,0,237020}Let me heal your wounds.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,20}{F813,0,237020}Let me heal your wounds.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Lucifer disappeared...{F801}</source>
+    <target>〉 Lucifer disappeared...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Lucifer\0{F87A,-1085}{F813,1,401214}Hello, my allies who long for a new{F801}world.{F801}{F802}I'll heal your wounds.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F813,1,401214}Hello, my allies who long for a new{F801}world.{F801}{F802}I'll heal your wounds.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Lucifer\0{F87A,-1085}If the people's despair strengthens,{F801}the White will gain power as well.{F801}{F802}Don't let the despair in. Hold fast{F801}to your desires...{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}If the people's despair strengthens,{F801}the White will gain power as well.{F801}{F802}Don't let the despair in. Hold fast{F801}to your desires...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,237003}Hikaru...!?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,237003}Hikaru...!?{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Hikaru\0{F87A,20}{F87B,20,1,1,1}{F813,0,237006}Although this is not precisely my{F801}true form...{F801}</source>
+    <target>{F812}Hikaru\0{F87A,20}{F87B,20,1,1,1}{F813,0,237006}Although this is not precisely my{F801}true form...{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Lucifer\0{F87A,20}{F813,0,237008}Thanks to your work in opening the{F801}gate to the Expanse, I live again.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,20}{F813,0,237008}Thanks to your work in opening the{F801}gate to the Expanse, I live again.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Lucifer\0{F87A,87}{F813,0,237021}If you find yourself too wounded to{F801}continue, come to the forest entrance.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F813,0,237021}If you find yourself too wounded to{F801}continue, come to the forest entrance.{F801}</target>
+  </entry>
+  <entry id="205">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,237009}So, Hikaru was a demon...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,237009}So, Hikaru was a demon...{F801}</target>
+  </entry>
+  <entry id="207">
+    <source>{F812}Lucifer\0{F87A,87}{F813,0,237022}I'll provide healing whenever you{F801}need it.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,87}{F813,0,237022}I'll provide healing whenever you{F801}need it.{F801}</target>
+  </entry>
+  <entry id="305">
+    <source>{F812}Lucifer\0{F87A,20}{F813,0,237010}Playing the fool to mask my subtle{F801}maneuverings is a sure strategy.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,20}{F813,0,237010}Playing the fool to mask my subtle{F801}maneuverings is a sure strategy.{F801}</target>
+  </entry>
+  <entry id="405">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,237011}Hikaru... Er, no, "Lucifer", was it?{F801}Why are you here...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,237011}Hikaru... Er, no, "Lucifer", was it?{F801}Why are you here...?{F801}</target>
+  </entry>
+  <entry id="505">
+    <source>{F812}Lucifer\0{F87A,20}{F813,0,237012}I believe I mentioned before that I{F801}am interested in you all...{F801}</source>
+    <target>{F812}Lucifer\0{F87A,20}{F813,0,237012}I believe I mentioned before that I{F801}am interested in you all...{F801}</target>
+  </entry>
+  <entry id="605">
+    <source>{F812}Lucifer\0{F87A,20}{F813,0,237013}We stand in the Expanse. It is a world{F801}fabricated by people's thoughts.{F801}{F802}{F813,0,237014}The White are also aggregations of{F801}thoughts. They are part of this space.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,20}{F813,0,237013}We stand in the Expanse. It is a world{F801}fabricated by people's thoughts.{F801}{F802}{F813,0,237014}The White are also aggregations of{F801}thoughts. They are part of this space.{F801}</target>
+  </entry>
+</mbm>

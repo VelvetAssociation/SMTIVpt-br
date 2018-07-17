@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F813,0,249001}Ah... you've done well.{F801}</source>
+    <target>{F812}Voice\0{F813,0,249001}Ah... you've done well.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,249002}The influence of the White seems to{F801}be gone for now.{F801}{F802}{F813,0,249003}As things stand, I should be able to{F801}return you to your home world.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,249002}The influence of the White seems to{F801}be gone for now.{F801}{F802}{F813,0,249003}As things stand, I should be able to{F801}return you to your home world.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,249004}You chose a world without bias.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,249004}You chose a world without bias.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Stephen\0{F87A,14}{F87B,14,1,1,1}{F813,0,249005}Though its people will yearn for joy{F801}and affection, they will most likely{F801}feel more pain and sadness.{F801}{F802}{F87B,14,4,1,1}{F813,0,249006}But there is a goddess who will gently{F801}embrace such people...{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F87B,14,1,1,1}{F813,0,249005}Though its people will yearn for joy{F801}and affection, they will most likely{F801}feel more pain and sadness.{F801}{F802}{F87B,14,4,1,1}{F813,0,249006}But there is a goddess who will gently{F801}embrace such people...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,249007}That girl you met before... she is{F801}Tokyo itself.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,249007}That girl you met before... she is{F801}Tokyo itself.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Stephen\0{F87A,14}{F87B,14,1,1,1}{F813,0,249008}There was once a young man who{F801}answered her cries and protected Tokyo.{F801}{F802}{F813,0,249009}But in doing so, the people of Tokyo{F801}were divided in two...{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F87B,14,1,1,1}{F813,0,249008}There was once a young man who{F801}answered her cries and protected Tokyo.{F801}{F802}{F813,0,249009}But in doing so, the people of Tokyo{F801}were divided in two...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,249010}You must remove that dome which divides{F801}the people and return Tokyo, which is{F801}to say the goddess, to her true form.{F801}{F802}{F813,0,249011}The world your past self protected must{F801}be returned to normal this time by{F801}your current self.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,249010}You must remove that dome which divides{F801}the people and return Tokyo, which is{F801}to say the goddess, to her true form.{F801}{F802}{F813,0,249011}The world your past self protected must{F801}be returned to normal this time by{F801}your current self.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,249012}I'm sure that the dome which covers{F801}Tokyo will heed your voice.{F801}{F802}{F813,0,249013}For that dome is Masakado, the guardian{F801}deity of Tokyo...{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,249012}I'm sure that the dome which covers{F801}Tokyo will heed your voice.{F801}{F802}{F813,0,249013}For that dome is Masakado, the guardian{F801}deity of Tokyo...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,249014}But that should be enough chitchat.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,249014}But that should be enough chitchat.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,249015}I'm trusting you with this. Go and {F801}return to your original world.{F801}{F802}{F813,0,249016}I'm sure a certain someone is waiting{F801}for you as well.{F801}{F802}{F813,0,249017}...I'll leave the rest to you,{F801}Burroughs.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,249015}I'm trusting you with this. Go and {F801}return to your original world.{F801}{F802}{F813,0,249016}I'm sure a certain someone is waiting{F801}for you as well.{F801}{F802}{F813,0,249017}...I'll leave the rest to you,{F801}Burroughs.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,249018}Okay, Doctor.{F801}{F802}{F813,0,249019}Well then, let's go back, shall we?{F801}{F802}{F813,0,249020}To the new world that you chose...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,249018}Okay, Doctor.{F801}{F802}{F813,0,249019}Well then, let's go back, shall we?{F801}{F802}{F813,0,249020}To the new world that you chose...{F801}</target>
+  </entry>
+</mbm>

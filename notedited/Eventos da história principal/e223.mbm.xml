@@ -1,0 +1,130 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,4,3,1,1}{F813,0,223001}No one is around...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,4,3,1,1}{F813,0,223001}No one is around...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,223002}Ah, it's here on the floor. Shall we{F801}get this over with?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,223002}Ah, it's here on the floor. Shall we{F801}get this over with?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Voice\0{F87A,202}{F87B,3,12,1,1}{F87B,4,4,1,1}{F813,0,223003}I can't let you pick that up...{F801}{F87B,3,2,1,1}{F87B,4,1,1,2}</source>
+    <target>{F812}Voice\0{F87A,202}{F87B,3,12,1,1}{F87B,4,4,1,1}{F813,0,223003}I can't let you pick that up...{F801}{F87B,3,2,1,1}{F87B,4,1,1,2}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,7,1,1}{F87B,3,7,1,2}{F813,0,223004}What...? That's the King of Tokyo?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,7,1,1}{F87B,3,7,1,2}{F813,0,223004}What...? That's the King of Tokyo?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}King Kenji\0{F87A,202}{F87B,202,1,1,1}{F813,0,223005}Some call me that... But it doesn't{F801}matter.{F801}</source>
+    <target>{F812}King Kenji\0{F87A,202}{F87B,202,1,1,1}{F813,0,223005}Some call me that... But it doesn't{F801}matter.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}King Kenji\0{F87A,202}{F87B,202,1,1,1}{F813,0,223006}You're the Intruders, right?{F801}{F802}{F813,0,223007}Forget about the remote... I'm getting{F801}tired of killing.{F801}</source>
+    <target>{F812}King Kenji\0{F87A,202}{F87B,202,1,1,1}{F813,0,223006}You're the Intruders, right?{F801}{F802}{F813,0,223007}Forget about the remote... I'm getting{F801}tired of killing.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,4,3,1,1}{F813,0,223008}We must return to our own world. And{F801}in order to do that, we require that{F801}the gate to the Expanse be opened.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,4,3,1,1}{F813,0,223008}We must return to our own world. And{F801}in order to do that, we require that{F801}the gate to the Expanse be opened.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}King Kenji\0{F87A,202}{F87B,202,1,1,1}{F813,0,223009}So in the end, it boils down to this...{F801}{F802}{F813,0,223010}You want the remote so bad you're{F801}willing to fight me?{F801}</source>
+    <target>{F812}King Kenji\0{F87A,202}{F87B,202,1,1,1}{F813,0,223009}So in the end, it boils down to this...{F801}{F802}{F813,0,223010}You want the remote so bad you're{F801}willing to fight me?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}King Kenji\0{F87A,202}{F87B,202,1,1,1}{F813,0,223011}...Then I can't let you live.{F801}</source>
+    <target>{F812}King Kenji\0{F87A,202}{F87B,202,1,1,1}{F813,0,223011}...Then I can't let you live.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}King Kenji\0{F87A,202}{F87B,202,1,1,1}{F813,0,223012}...Thought not. There's no need for{F801}us to fight.{F801}{F802}{F813,0,223013}Don't come back here.{F801}</source>
+    <target>{F812}King Kenji\0{F87A,202}{F87B,202,1,1,1}{F813,0,223012}...Thought not. There's no need for{F801}us to fight.{F801}{F802}{F813,0,223013}Don't come back here.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Voice\0{F87A,202}{F813,0,223014}...I told you not to come back.{F801}</source>
+    <target>{F812}Voice\0{F87A,202}{F813,0,223014}...I told you not to come back.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}King Kenji\0{F87A,202}{F813,0,223015}You really want that remote, huh?{F801}</source>
+    <target>{F812}King Kenji\0{F87A,202}{F813,0,223015}You really want that remote, huh?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F813,0,223017}...Here we are.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,223017}...Here we are.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 Walter picked up the remote from{F801}the ground.{F801}</source>
+    <target>〉 Walter picked up the remote from{F801}the ground.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}The remote for the Yamato Reactor.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}The remote for the Yamato Reactor.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F813,0,223018}I'm pushing the button now.{F801}Any objections?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,223018}I'm pushing the button now.{F801}Any objections?{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>Press the button{F801}Don't press the button{F801}</source>
+    <target>Press the button{F801}Don't press the button{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Walter\0{F87A,4}...Here we are.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}...Here we are.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 Walter pushed the button...{F801}</source>
+    <target>〉 Walter pushed the button...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Jonathan\0{F87A,3}What's wrong, {F843,0}? Have we{F801}missed something...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}What's wrong, {F843,0}? Have we{F801}missed something...?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Walter\0{F87A,4}{F813,0,223023}Hm? Are you superstitious as well?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,223023}Hm? Are you superstitious as well?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 {F843,0} and his fellow Samurai{F801}exited the room.{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}exited the room.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 Walter ran to the center of the room.{F801}</source>
+    <target>〉 Walter ran to the center of the room.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Walter\0{F87A,4}</source>
+    <target>{F812}Walter\0{F87A,4}</target>
+  </entry>
+  <entry id="107">
+    <source>"I do."{F801}"I don't."{F801}</source>
+    <target>"I do."{F801}"I don't."{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,223019}Hold.{F801}{F802}{F813,0,223020}I feel it may be bad luck for you to{F801}press it. Let's give it to {F843,0}.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,223019}Hold.{F801}{F802}{F813,0,223020}I feel it may be bad luck for you to{F801}press it. Let's give it to {F843,0}.{F801}</target>
+  </entry>
+  <entry id="118">
+    <source>〉 {F843,0} was surprised by the sudden noise {F801}and dropped the remote...{F801}</source>
+    <target>〉 {F843,0} was surprised by the sudden noise {F801}and dropped the remote...{F801}</target>
+  </entry>
+  <entry id="123">
+    <source>〉 Push the button?{F801}</source>
+    <target>〉 Push the button?{F801}</target>
+  </entry>
+  <entry id="215">
+    <source>{F812}Walter\0{F87A,4}{F813,0,223021}What...!? But why!?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,223021}What...!? But why!?{F801}</target>
+  </entry>
+  <entry id="315">
+    <source>{F812}Walter\0{F87A,4}{F813,0,223022}Oh, very well... Here.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,223022}Oh, very well... Here.{F801}</target>
+  </entry>
+  <entry id="415">
+    <source>〉 {F843,0} received the remote from{F801}Walter.{F801}{F802}〉 Press the button on the remote?{F801}</source>
+    <target>〉 {F843,0} received the remote from{F801}Walter.{F801}{F802}〉 Press the button on the remote?{F801}</target>
+  </entry>
+</mbm>

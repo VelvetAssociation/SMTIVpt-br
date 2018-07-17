@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Solemn voice\0{F813,0,281001}Well done in accomplishing this feat.{F801}</source>
+    <target>{F812}Solemn voice\0{F813,0,281001}Well done in accomplishing this feat.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}マサカド…{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}マサカド…{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,281002}By your actions, man has wrested back{F801}their own world.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,281002}By your actions, man has wrested back{F801}their own world.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Masakado swallowed the Great Spirit of{F801}Goodwill and the Great Spirit of Spite.{F801}</source>
+    <target>〉 Masakado swallowed the Great Spirit of{F801}Goodwill and the Great Spirit of Spite.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,281003}But keep this always in mind. Man is{F801}a creature that repeats its mistakes.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,281003}But keep this always in mind. Man is{F801}a creature that repeats its mistakes.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}[月並/つきな]みな[言葉/ことば]だけど お[疲/つか]れさま{F801}[本当/ほんとう]に…{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}[月並/つきな]みな[言葉/ことば]だけど お[疲/つか]れさま{F801}[本当/ほんとう]に…{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,281004}A day will come again that we must{F801}fight. This is but a brief farewell{F801}until then.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,281004}A day will come again that we must{F801}fight. This is but a brief farewell{F801}until then.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,281005}Now, bring the Great Spirit of Goodwill{F801}and the Great Spirit of Spite to me...{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,281005}Now, bring the Great Spirit of Goodwill{F801}and the Great Spirit of Spite to me...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Masakado\0{F87A,-360}[再/ふたた]び [我/われ]らが[共/とも]に[戦/たたか]う[日/ひ]が[来/く]る{F801}{F802}それまで しばしの[別/わか]れである{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}[再/ふたた]び [我/われ]らが[共/とも]に[戦/たたか]う[日/ひ]が[来/く]る{F801}{F802}それまで しばしの[別/わか]れである{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,281006}He is gone...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,281006}He is gone...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,281007}Now the Eastern Kingdom of Mikado and{F801}Tokyo will become one...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,281007}Now the Eastern Kingdom of Mikado and{F801}Tokyo will become one...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,281008}Ah! Look...!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,281008}Ah! Look...!{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>カットÁニメで{F801}マサカドの魂が天井に戻り立ち上がる{F801}</source>
+    <target>カットÁニメで{F801}マサカドの魂が天井に戻り立ち上がる{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>新規Íäñト{F801}マサカドが立ち上がるカットÁニメの{F801}状況補足Íäñトになります{F801}</source>
+    <target>新規Íäñト{F801}マサカドが立ち上がるカットÁニメの{F801}状況補足Íäñトになります{F801}</target>
+  </entry>
+</mbm>

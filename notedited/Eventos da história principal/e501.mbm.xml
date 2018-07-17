@@ -1,0 +1,566 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F87A,4}{F813,1,403602}...Where do you think you're going?{F801}</source>
+    <target>{F812}Voice\0{F87A,4}{F813,1,403602}...Where do you think you're going?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F813,1,400202}おいおい{F843,0}{F801}どこに[行/い]く[気/き]だよ{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,400202}おいおい{F843,0}{F801}どこに[行/い]く[気/き]だよ{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F813,1,400151}Where are you now? We're tarrying in{F801}front of K's Tavern.{F801}{F802}You wouldn't have headed to Naraku...{F801}No, perish the thought. Well, we shall{F801}be here waiting for you.{F801}</source>
+    <target>{F812}Jonathan\0{F813,1,400151}Where are you now? We're tarrying in{F801}front of K's Tavern.{F801}{F802}You wouldn't have headed to Naraku...{F801}No, perish the thought. Well, we shall{F801}be here waiting for you.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 A Samurai in the tavern speaks to you.{F801}</source>
+    <target>〉 A Samurai in the tavern speaks to you.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Master Samurai\0{F87A,117}{F813,1,403003}You must be one of our new fellows. Let{F801}me give you some advice from a master.{F801}{F802}You should return here after you've{F801}finished your training exercises.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,117}{F813,1,403003}You must be one of our new fellows. Let{F801}me give you some advice from a master.{F801}{F802}You should return here after you've{F801}finished your training exercises.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Samurai on duty\0{F87A,116}{F813,1,403001}You've come, newly chosen one.{F801}</source>
+    <target>{F812}Samurai on duty\0{F87A,116}{F813,1,403001}You've come, newly chosen one.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Samurai on duty\0{F813,1,403041}What's this...? Spending a rare day of{F801}leisure in Naraku, are you?{F801}</source>
+    <target>{F812}Samurai on duty\0{F813,1,403041}What's this...? Spending a rare day of{F801}leisure in Naraku, are you?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>"Er, yes."{F801}"No..."{F801}</source>
+    <target>"Er, yes."{F801}"No..."{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Samurai on duty\0{F813,1,403042}Well! I admire your dedication. Go on{F801}in, then.{F801}</source>
+    <target>{F812}Samurai on duty\0{F813,1,403042}Well! I admire your dedication. Go on{F801}in, then.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Samurai on duty\0{F813,1,403042}We Samurai rarely get holidays. I would{F801}suggest you retire early today at the{F801}barracks.{F801}</source>
+    <target>{F812}Samurai on duty\0{F813,1,403042}We Samurai rarely get holidays. I would{F801}suggest you retire early today at the{F801}barracks.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Voice\0{F87A,4}{F813,1,403602}...Where do you think you're going?{F801}</source>
+    <target>{F812}Voice\0{F87A,4}{F813,1,403602}...Where do you think you're going?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Wandering monk\0{F87A,42}{F813,1,403603}Abbot Hugo is having us periodically{F801}inspect the Terminal.{F801}{F802}Though it was discovered a couple hundred{F801}years ago in Naraku, only recently has{F801}it seen any actual use.{F801}{F802}Our diligence will help you to remain{F801}focused on retrieving mystic relics.{F801}You should be grateful...{F801}</source>
+    <target>{F812}Wandering monk\0{F87A,42}{F813,1,403603}Abbot Hugo is having us periodically{F801}inspect the Terminal.{F801}{F802}Though it was discovered a couple hundred{F801}years ago in Naraku, only recently has{F801}it seen any actual use.{F801}{F802}Our diligence will help you to remain{F801}focused on retrieving mystic relics.{F801}You should be grateful...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F813,1,400202}Hoy, we've not had breakfast yet and{F801}you're off to fight demons...?{F801}{F802}You can go to Naraku whenever you like!{F801}But the morning bread will only be fresh{F801}for so long.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,400202}Hoy, we've not had breakfast yet and{F801}you're off to fight demons...?{F801}{F802}You can go to Naraku whenever you like!{F801}But the morning bread will only be fresh{F801}for so long.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 Walter tugs on your arm...{F801}</source>
+    <target>〉 Walter tugs on your arm...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Voice\0{F87A,4}{F813,1,404301}...Hoy, where are you going?{F801}</source>
+    <target>{F812}Voice\0{F87A,4}{F813,1,404301}...Hoy, where are you going?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,404341}You were the one who received the Third{F801}Order of Merit for distinguished services{F801}rendered, no?{F801}{F802}We can't have you absent at the public{F801}execution! Come now, you should be on{F801}your way to Obelisk Plaza at once.{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,404341}You were the one who received the Third{F801}Order of Merit for distinguished services{F801}rendered, no?{F801}{F802}We can't have you absent at the public{F801}execution! Come now, you should be on{F801}your way to Obelisk Plaza at once.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Cheerful woman\0{F87A,37}{F813,1,403303}Oh, my... I heard that the training{F801}exercises were to take place today.{F801}</source>
+    <target>{F812}Cheerful woman\0{F87A,37}{F813,1,403303}Oh, my... I heard that the training{F801}exercises were to take place today.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Cheerful woman\0{F87A,37}I received an order to deliver new{F801}blankets from the castle town.{F801}{F802}It seems I came just in time! Look at{F801}how ragged yours is... You be sure to{F801}thank Sir Hope for this, won't you?{F801}</source>
+    <target>{F812}Cheerful woman\0{F87A,37}I received an order to deliver new{F801}blankets from the castle town.{F801}{F802}It seems I came just in time! Look at{F801}how ragged yours is... You be sure to{F801}thank Sir Hope for this, won't you?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Cheerful woman\0{F87A,37}I'll prepare the new blankets at once.{F801}Off to your training exercises, now!{F801}Shoo!{F801}</source>
+    <target>{F812}Cheerful woman\0{F87A,37}I'll prepare the new blankets at once.{F801}Off to your training exercises, now!{F801}Shoo!{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400005}...Oh? Are you feeling sleepy,{F801}Master {F843,0}?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400005}...Oh? Are you feeling sleepy,{F801}Master {F843,0}?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Burroughs\0{F87A,2}Master Jonathan should be waiting for{F801}you at the place you decided.{F801}{F802}It's important to keep one's commitments.{F801}I suggest you go see him.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Master Jonathan should be waiting for{F801}you at the place you decided.{F801}{F802}It's important to keep one's commitments.{F801}I suggest you go see him.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Walter\0{F87A,4}{F813,1,400201}Hoy, what will going back to your room{F801}accomplish? Are you going back to sleep?{F801}{F802}You can sleep whenever you like! But the{F801}morning bread will only be fresh for{F801}so long.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,400201}Hoy, what will going back to your room{F801}accomplish? Are you going back to sleep?{F801}{F802}You can sleep whenever you like! But the{F801}morning bread will only be fresh for{F801}so long.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 Walter tugs on your arm...{F801}</source>
+    <target>〉 Walter tugs on your arm...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}Hey, Master {F843,0}. I remember{F801}something Master Hope said...{F801}{F802}Something about an urgent meeting?{F801}Shouldn't you go meet up with everyone{F801}else?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}Hey, Master {F843,0}. I remember{F801}something Master Hope said...{F801}{F802}Something about an urgent meeting?{F801}Shouldn't you go meet up with everyone{F801}else?{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Voice\0{F87A,2}{F813,1,400101}...Here you are, thank goodness.{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,400101}...Here you are, thank goodness.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Jonathan\0{F87A,3}You were mysteriously absent, so I came{F801}to look in on you.{F801}{F802}The Black Samurai's public execution{F801}will begin shortly. I'll go on ahead{F801}to Obelisk Plaza.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}You were mysteriously absent, so I came{F801}to look in on you.{F801}{F802}The Black Samurai's public execution{F801}will begin shortly. I'll go on ahead{F801}to Obelisk Plaza.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Jonathan\0{F87A,3}{F813,1,400105}Ah...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,1,400105}Ah...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Walter\0{F87A,4}{F813,1,400203}......{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,400203}......{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Jonathan\0{F87A,3}...I see. You are going with Walter...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}...I see. You are going with Walter...{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Jonathan\0{F87A,3}Eventually, word about the two of you{F801}will reach the Monastery. When that{F801}happens...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}Eventually, word about the two of you{F801}will reach the Monastery. When that{F801}happens...{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Jonathan\0{F87A,3}......{F801}{F802}I... saw no one when I came here.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}......{F801}{F802}I... saw no one when I came here.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Jonathan\0{F87A,3}Hurry and go.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}Hurry and go.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Jonathan\0{F87A,3}{F813,1,400103}You two...!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,1,400103}You two...!{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Jonathan\0{F87A,3}Eventually, word about the two of you{F801}will reach the Monastery. When that{F801}happens...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}Eventually, word about the two of you{F801}will reach the Monastery. When that{F801}happens...{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Jonathan\0{F87A,3}......{F801}{F802}I... saw no one when I came here.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}......{F801}{F802}I... saw no one when I came here.{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Jonathan\0{F87A,3}Hurry and go.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}Hurry and go.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}Hey, Master {F843,0}. I remember{F801}something Master Hope said...{F801}{F802}Something about an urgent meeting?{F801}Shouldn't you go meet up with everyone{F801}else?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}Hey, Master {F843,0}. I remember{F801}something Master Hope said...{F801}{F802}Something about an urgent meeting?{F801}Shouldn't you go meet up with everyone{F801}else?{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Samurai on guard\0{F87A,116}{F813,1,404301}You there... prentice. You aren't allowed{F801}out of the castle.{F801}{F802}I was told nothing about you having leave{F801}to go outside. Turn back at once.{F801}</source>
+    <target>{F812}Samurai on guard\0{F87A,116}{F813,1,404301}You there... prentice. You aren't allowed{F801}out of the castle.{F801}{F802}I was told nothing about you having leave{F801}to go outside. Turn back at once.{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Shopkeeper\0{F87A,25}{F813,1,405220}Ah, Blessed Samurai...!{F801}{F802}Unfortunately, I am still not yet ready{F801}to open shop. All will be in readiness{F801}shortly, so please come again soon.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,25}{F813,1,405220}Ah, Blessed Samurai...!{F801}{F802}Unfortunately, I am still not yet ready{F801}to open shop. All will be in readiness{F801}shortly, so please come again soon.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Shopkeeper\0{F87A,26}{F813,1,405320}Ah, Blessed Samurai...{F801}{F802}I am currently getting ready to open.{F801}I should be done fairly quickly, so{F801}please come again soon.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,26}{F813,1,405320}Ah, Blessed Samurai...{F801}{F802}I am currently getting ready to open.{F801}I should be done fairly quickly, so{F801}please come again soon.{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Walter\0{F813,1,400251}Hoy, where are you? We're in front of{F801}K's Tavern.{F801}{F802}Don't tell me you're thinking of going{F801}about, I hope! Hurry and meet us here.{F801}We'll be waiting.{F801}</source>
+    <target>{F812}Walter\0{F813,1,400251}Hoy, where are you? We're in front of{F801}K's Tavern.{F801}{F802}Don't tell me you're thinking of going{F801}about, I hope! Hurry and meet us here.{F801}We'll be waiting.{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Jonathan\0{F813,1,400151}Where have you gone...? We're tarrying{F801}in front of K's Tavern.{F801}{F802}You wouldn't have headed to Naraku...{F801}No, perish the thought. Well, we shall{F801}be here waiting for you.{F801}</source>
+    <target>{F812}Jonathan\0{F813,1,400151}Where have you gone...? We're tarrying{F801}in front of K's Tavern.{F801}{F802}You wouldn't have headed to Naraku...{F801}No, perish the thought. Well, we shall{F801}be here waiting for you.{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>〉 A pleasant smell drifts from inside{F801}the bakery...{F801}</source>
+    <target>〉 A pleasant smell drifts from inside{F801}the bakery...{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>〉 Isabeau is talking intently with the{F801}baker...{F801}</source>
+    <target>〉 Isabeau is talking intently with the{F801}baker...{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Isabeau\0{F87A,5}{F813,1,400302}I see... so there are all manner of{F801}"books"...{F801}{F802}...Ah! {F843,0}...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,1,400302}I see... so there are all manner of{F801}"books"...{F801}{F802}...Ah! {F843,0}...?{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Isabeau\0{F87A,5}{F813,1,400305}...I see that Walter and Jonathan aren't{F801}with you.{F801}{F802}I'm... truly sorry to have turned down{F801}your kind offer before.{F801}{F802}I'm a bit hesitant around boys my age.{F801}They seem to speak of nothing but{F801}themselves...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,1,400305}...I see that Walter and Jonathan aren't{F801}with you.{F801}{F802}I'm... truly sorry to have turned down{F801}your kind offer before.{F801}{F802}I'm a bit hesitant around boys my age.{F801}They seem to speak of nothing but{F801}themselves...{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Isabeau\0{F87A,5}I... would ask that you keep our meeting{F801}here a secret. And I, in turn, will try{F801}to improve my disposition...{F801}{F802}Well then, shall I see you tomorrow?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}I... would ask that you keep our meeting{F801}here a secret. And I, in turn, will try{F801}to improve my disposition...{F801}{F802}Well then, shall I see you tomorrow?{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>〉 Isabeau is talking intently with the{F801}baker...{F801}</source>
+    <target>〉 Isabeau is talking intently with the{F801}baker...{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>{F812}Baker\0{F87A,23}......{F801}</source>
+    <target>{F812}Baker\0{F87A,23}......{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>〉 The baker is staring at you with a{F801}book in hand...{F801}</source>
+    <target>〉 The baker is staring at you with a{F801}book in hand...{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}...Let's pretend we didn't see him.{F801}Otherwise he could keep us here for{F801}hours...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}...Let's pretend we didn't see him.{F801}Otherwise he could keep us here for{F801}hours...{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>〉 The baker is no longer here...{F801}</source>
+    <target>〉 The baker is no longer here...{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>〉 The lakeside is perfect for taking{F801}a nap...{F801}</source>
+    <target>〉 The lakeside is perfect for taking{F801}a nap...{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>{F812}Gabby\0{F87A,11}{F813,1,400802}......{F801}{F802}{F813,1,400801}May I help you?{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,1,400802}......{F801}{F802}{F813,1,400801}May I help you?{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>Ask about the Black Samurai{F801}Ask about the masked men{F801}Tell her it's nothing{F801}</source>
+    <target>Ask about the Black Samurai{F801}Ask about the masked men{F801}Tell her it's nothing{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>{F812}Gabby\0{F87A,11}{F813,1,400803}She appeared when the people began to{F801}lose their reverence for this land...{F801}She came to lead them astray.{F801}{F802}She took a form similar to mine to mock{F801}the way I led the people away in the{F801}past.{F801}{F802}...Let us leave it at that for now.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,1,400803}She appeared when the people began to{F801}lose their reverence for this land...{F801}She came to lead them astray.{F801}{F802}She took a form similar to mine to mock{F801}the way I led the people away in the{F801}past.{F801}{F802}...Let us leave it at that for now.{F801}</target>
+  </entry>
+  <entry id="56">
+    <source>{F812}Gabby\0{F87A,11}May I help you?{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}May I help you?{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>{F812}Gabby\0{F87A,11}{F813,1,400804}They have been taken from here to a{F801}place that is closer to the creator...{F801}{F802}The people of this kingdom have fallen{F801}so far that they no longer trust one{F801}another.{F801}{F802}These men you saved are the ones who{F801}will bring this kingdom back to itself.{F801}{F802}...Let us leave it at that for now.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,1,400804}They have been taken from here to a{F801}place that is closer to the creator...{F801}{F802}The people of this kingdom have fallen{F801}so far that they no longer trust one{F801}another.{F801}{F802}These men you saved are the ones who{F801}will bring this kingdom back to itself.{F801}{F802}...Let us leave it at that for now.{F801}</target>
+  </entry>
+  <entry id="58">
+    <source>{F812}Gabby\0{F87A,11}{F813,1,400805}Well then, please go to Tokyo. I will{F801}leave the matter of the Black Samurai{F801}to you.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,1,400805}Well then, please go to Tokyo. I will{F801}leave the matter of the Black Samurai{F801}to you.{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>{F812}Isabeau\0{F87A,5}{F813,1,400302}......{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,1,400302}......{F801}</target>
+  </entry>
+  <entry id="60">
+    <source>Read the epigraph{F801}Talk to Isabeau{F801}Leave{F801}</source>
+    <target>Read the epigraph{F801}Talk to Isabeau{F801}Leave{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>{F812}Isabeau\0{F87A,5}{F813,1,400305}Ah... {F843,0}.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,1,400305}Ah... {F843,0}.{F801}</target>
+  </entry>
+  <entry id="62">
+    <source>{F812}Isabeau\0{F87A,5}The more I think about what is best for{F801}everyone, the more I see what an illusory{F801}concept it is.{F801}{F802}However much a choice may seem to be{F801}best for everyone, there is always one{F801}for whom it is dissatisfying.{F801}{F802}Is it not, in fact, possible to choose{F801}an outcome that is "best" for all...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}The more I think about what is best for{F801}everyone, the more I see what an illusory{F801}concept it is.{F801}{F802}However much a choice may seem to be{F801}best for everyone, there is always one{F801}for whom it is dissatisfying.{F801}{F802}Is it not, in fact, possible to choose{F801}an outcome that is "best" for all...?{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>{F812}Isabeau\0{F87A,5}...I will only be a hindrance, wrapped{F801}up in such troubles as I am. I'm sorry,{F801}but I cannot go with you.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}...I will only be a hindrance, wrapped{F801}up in such troubles as I am. I'm sorry,{F801}but I cannot go with you.{F801}</target>
+  </entry>
+  <entry id="64">
+    <source>{F812}Isabeau\0{F87A,5}......{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}......{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>{F812}Isabeau\0{F87A,5}Ah... Walter, {F843,0}.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}Ah... Walter, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="66">
+    <source>{F812}Isabeau\0{F87A,5}You two have staked all on the potential{F801}for change. I, on the contrary, am still{F801}unable to...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}You two have staked all on the potential{F801}for change. I, on the contrary, am still{F801}unable to...{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>{F812}Isabeau\0{F87A,5}...I will only be a hindrance, wrapped{F801}up in such troubles as I am. I'm sorry,{F801}but I cannot go with you.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}...I will only be a hindrance, wrapped{F801}up in such troubles as I am. I'm sorry,{F801}but I cannot go with you.{F801}</target>
+  </entry>
+  <entry id="68">
+    <source>{F812}Isabeau\0{F87A,5}Ah... Jonathan, {F843,0}.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}Ah... Jonathan, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>{F812}Isabeau\0{F87A,5}You two have staked all on upholding{F801}the peace. I, on the contrary, am still{F801}unable to...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}You two have staked all on upholding{F801}the peace. I, on the contrary, am still{F801}unable to...{F801}</target>
+  </entry>
+  <entry id="70">
+    <source>{F812}Isabeau\0{F87A,5}...I will only be a hindrance, wrapped{F801}up in such troubles as I am. I'm sorry,{F801}but I cannot go with you.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}...I will only be a hindrance, wrapped{F801}up in such troubles as I am. I'm sorry,{F801}but I cannot go with you.{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,1,402404}Blessed Samurai, the sons of man chosen{F801}by our Lord.{F801}{F802}For the sake of the reconstruction of{F801}this Eastern Kingdom of Mikado, the Black{F801}Samurai... no, Lilith must be slain.{F801}{F802}That we reveal ourselves to you shows{F801}the great faith that the Lord has in{F801}you... I ask that you remember that.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,1,402404}Blessed Samurai, the sons of man chosen{F801}by our Lord.{F801}{F802}For the sake of the reconstruction of{F801}this Eastern Kingdom of Mikado, the Black{F801}Samurai... no, Lilith must be slain.{F801}{F802}That we reveal ourselves to you shows{F801}the great faith that the Lord has in{F801}you... I ask that you remember that.{F801}</target>
+  </entry>
+  <entry id="72">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,1,402404}Blessed Samurai, the sons of man chosen{F801}by our Lord.{F801}{F802}Upon coming in contact with the values{F801}of the Unclean Tokyo... one of your{F801}fellows is clouded with doubt.{F801}{F802}For the sake of his future as well, the{F801}Black Samurai... or rather, Lilith, must{F801}be slain.{F801}{F802}That we reveal ourselves to you shows{F801}the great faith that the Lord has in{F801}you... I ask that you remember that.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,1,402404}Blessed Samurai, the sons of man chosen{F801}by our Lord.{F801}{F802}Upon coming in contact with the values{F801}of the Unclean Tokyo... one of your{F801}fellows is clouded with doubt.{F801}{F802}For the sake of his future as well, the{F801}Black Samurai... or rather, Lilith, must{F801}be slain.{F801}{F802}That we reveal ourselves to you shows{F801}the great faith that the Lord has in{F801}you... I ask that you remember that.{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,1,402404}You are the sons of man chosen by our{F801}Lord, yet you have been led astray by{F801}the temptation of demons.{F801}{F802}At the end of the path you have chosen,{F801}you will learn how powerless you are and{F801}how great is the Lord.{F801}{F802}That is why we allow your continued{F801}existence. As long as the possibility{F801}for you to repent your sins remains...{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,1,402404}You are the sons of man chosen by our{F801}Lord, yet you have been led astray by{F801}the temptation of demons.{F801}{F802}At the end of the path you have chosen,{F801}you will learn how powerless you are and{F801}how great is the Lord.{F801}{F802}That is why we allow your continued{F801}existence. As long as the possibility{F801}for you to repent your sins remains...{F801}</target>
+  </entry>
+  <entry id="74">
+    <source>〉 {F843,0} headed to the cocoon in{F801}Shene Duque...{F801}</source>
+    <target>〉 {F843,0} headed to the cocoon in{F801}Shene Duque...{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>{F812}Frightened woman\0{F87A,36}{F813,1,403313}A-Ah...{F801}</source>
+    <target>{F812}Frightened woman\0{F87A,36}{F813,1,403313}A-Ah...{F801}</target>
+  </entry>
+  <entry id="76">
+    <source>{F812}Demon\0{F87A,-424}{F813,1,412101}This is a Red I got in Tokyo. Eat it{F801}and become a demon like us...{F801}{F802}Or hold on to your precious humanity,{F801}remain a slave of God, and die here.{F801}Choose now...{F801}</source>
+    <target>{F812}Demon\0{F87A,-424}{F813,1,412101}This is a Red I got in Tokyo. Eat it{F801}and become a demon like us...{F801}{F802}Or hold on to your precious humanity,{F801}remain a slave of God, and die here.{F801}Choose now...{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>{F812}Demon\0{F87A,-140}{F813,1,494000}OOH...! ME KNOW! THAT "PIG" THING{F801}ME EAT EARLIER...{F801}{F802}ME KNOW THAT TASTE! IT "JUICY"!{F801}{F802}THIS PLACE PARADISE... IT TRUE!{F801}LET ME EAT MORE "PIG"...!{F801}</source>
+    <target>{F812}Demon\0{F87A,-140}{F813,1,494000}OOH...! ME KNOW! THAT "PIG" THING{F801}ME EAT EARLIER...{F801}{F802}ME KNOW THAT TASTE! IT "JUICY"!{F801}{F802}THIS PLACE PARADISE... IT TRUE!{F801}LET ME EAT MORE "PIG"...!{F801}</target>
+  </entry>
+  <entry id="78">
+    <source>〉 You feel like you saw something for{F801}a moment...{F801}</source>
+    <target>〉 You feel like you saw something for{F801}a moment...{F801}</target>
+  </entry>
+  <entry id="79">
+    <source>{F812}Hugo\0{F87A,10}{F813,1,400702}......{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,1,400702}......{F801}</target>
+  </entry>
+  <entry id="80">
+    <source>Read the epigraph{F801}Talk to Hugo{F801}Leave{F801}</source>
+    <target>Read the epigraph{F801}Talk to Hugo{F801}Leave{F801}</target>
+  </entry>
+  <entry id="81">
+    <source>{F812}Hugo\0{F87A,10}{F813,1,400711}...Ah, the warrior of light.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,1,400711}...Ah, the warrior of light.{F801}</target>
+  </entry>
+  <entry id="82">
+    <source>{F812}Hugo\0{F87A,10}...In the end, I could not meet God's{F801}expectations. That day I was appointed{F801}as the abbot of the Monastery...{F801}{F802}I was entrusted with running this kingdom{F801}by the angel Gabriel, in the form of{F801}Gabby, and yet... I...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}...In the end, I could not meet God's{F801}expectations. That day I was appointed{F801}as the abbot of the Monastery...{F801}{F802}I was entrusted with running this kingdom{F801}by the angel Gabriel, in the form of{F801}Gabby, and yet... I...{F801}</target>
+  </entry>
+  <entry id="83">
+    <source>{F812}Hugo\0{F87A,10}I wished that this kingdom would be{F801}prosperous and directed my passions into{F801}retrieving mystic relics...{F801}{F802}But I mistook the magic of those mystic{F801}relics for my own power. My passion...{F801}became twisted into arrogance.{F801}{F802}It is too late now, but I have come to{F801}understand the true meaning of King{F801}Aquila's teachings.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}I wished that this kingdom would be{F801}prosperous and directed my passions into{F801}retrieving mystic relics...{F801}{F802}But I mistook the magic of those mystic{F801}relics for my own power. My passion...{F801}became twisted into arrogance.{F801}{F802}It is too late now, but I have come to{F801}understand the true meaning of King{F801}Aquila's teachings.{F801}</target>
+  </entry>
+  <entry id="84">
+    <source>{F812}Hugo\0{F87A,10}{F813,1,400711}...Ah, it's you. Isabeau has told me{F801}of the recent goings-on.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,1,400711}...Ah, it's you. Isabeau has told me{F801}of the recent goings-on.{F801}</target>
+  </entry>
+  <entry id="85">
+    <source>{F812}Hugo\0{F87A,10}Hope suggested that we hold an emergency{F801}meeting.{F801}{F802}Primarily to ensure everyone fully{F801}understands the move to this "new land."{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}Hope suggested that we hold an emergency{F801}meeting.{F801}{F802}Primarily to ensure everyone fully{F801}understands the move to this "new land."{F801}</target>
+  </entry>
+  <entry id="86">
+    <source>{F812}Hugo\0{F87A,10}He said that with our new leaders absent,{F801}it is sensible to return to our previous{F801}authority structure.{F801}{F802}The Commander is a true man of integrity,{F801}honorable and forthright to the last.{F801}{F802}In my final days as the Abbot of the{F801}Monastery, I will do what I can to meet{F801}everyone's expectations.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}He said that with our new leaders absent,{F801}it is sensible to return to our previous{F801}authority structure.{F801}{F802}The Commander is a true man of integrity,{F801}honorable and forthright to the last.{F801}{F802}In my final days as the Abbot of the{F801}Monastery, I will do what I can to meet{F801}everyone's expectations.{F801}</target>
+  </entry>
+  <entry id="87">
+    <source>{F812}Hugo\0{F87A,10}......{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}......{F801}</target>
+  </entry>
+  <entry id="88">
+    <source>{F812}Merkabah\0{F87A,-1058}{F813,1,430002}Armageddon is upon us, between the Lord's{F801}kingdom, the Eastern Kingdom of Mikado,{F801}and the Unclean Tokyo.{F801}{F802}Now, warrior of light, we shall head{F801}together to the Yamato Reactor.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,-1058}{F813,1,430002}Armageddon is upon us, between the Lord's{F801}kingdom, the Eastern Kingdom of Mikado,{F801}and the Unclean Tokyo.{F801}{F802}Now, warrior of light, we shall head{F801}together to the Yamato Reactor.{F801}</target>
+  </entry>
+  <entry id="89">
+    <source>〉 The four Heralds are no longer here...{F801}{F802}〉 There is a yellow scarf on the floor...{F801}</source>
+    <target>〉 The four Heralds are no longer here...{F801}{F802}〉 There is a yellow scarf on the floor...{F801}</target>
+  </entry>
+  <entry id="90">
+    <source>{F812}Q\0{F813,1,405230}Our kingdom is being devastated by{F801}demons... This is a calamity without{F801}precedent.{F801}{F802}Our shop supplied Samurai with weapons{F801}and armor free of charge...{F801}{F802}The Mikado Castle interior still holds,{F801}but what of the people of the castle{F801}town untrained in battle...!?{F801}</source>
+    <target>{F812}Q\0{F813,1,405230}Our kingdom is being devastated by{F801}demons... This is a calamity without{F801}precedent.{F801}{F802}Our shop supplied Samurai with weapons{F801}and armor free of charge...{F801}{F802}The Mikado Castle interior still holds,{F801}but what of the people of the castle{F801}town untrained in battle...!?{F801}</target>
+  </entry>
+  <entry id="91">
+    <source>{F812}B\0{F813,1,405342}D-Demons keep coming and taking my goods{F801}without paying...{F801}{F802}If these demons come to rule our kingdom,{F801}money itself shall lose its worth!{F801}{F802}Still worse, the civilization man has{F801}built will be no more...{F801}</source>
+    <target>{F812}B\0{F813,1,405342}D-Demons keep coming and taking my goods{F801}without paying...{F801}{F802}If these demons come to rule our kingdom,{F801}money itself shall lose its worth!{F801}{F802}Still worse, the civilization man has{F801}built will be no more...{F801}</target>
+  </entry>
+  <entry id="92">
+    <source>〉 Demons are streaming out endlessly{F801}from Naraku...{F801}{F802}〉 You cannot pass through here...{F801}</source>
+    <target>〉 Demons are streaming out endlessly{F801}from Naraku...{F801}{F802}〉 You cannot pass through here...{F801}</target>
+  </entry>
+  <entry id="93">
+    <source>{F812}Voice\0{F87A,2}{F813,1,401214}...Where are you going?{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,401214}...Where are you going?{F801}</target>
+  </entry>
+  <entry id="94">
+    <source>{F812}Lucifer\0{F87A,-1085}...You should forget about your old{F801}nest. All you must do is look forward{F801}at my side.{F801}{F802}It is good that you witness the end of{F801}this false paradise... that you see where{F801}the choice you made has led.{F801}{F802}Come. Let us go to the rooftop together.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}...You should forget about your old{F801}nest. All you must do is look forward{F801}at my side.{F801}{F802}It is good that you witness the end of{F801}this false paradise... that you see where{F801}the choice you made has led.{F801}{F802}Come. Let us go to the rooftop together.{F801}</target>
+  </entry>
+  <entry id="95">
+    <source>{F812}Voice\0{F87A,2}{F813,1,401214}...Where are you going?{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,401214}...Where are you going?{F801}</target>
+  </entry>
+  <entry id="96">
+    <source>{F812}Lucifer\0{F87A,-1085}You have no more business with the castle{F801}built on corpses you've already bested.{F801}You must look upward, at my side.{F801}{F802}It is good that you witness the end of{F801}this false paradise... that you see where{F801}the choice you made has led.{F801}{F802}Come. Let us go to the rooftop together.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}You have no more business with the castle{F801}built on corpses you've already bested.{F801}You must look upward, at my side.{F801}{F802}It is good that you witness the end of{F801}this false paradise... that you see where{F801}the choice you made has led.{F801}{F802}Come. Let us go to the rooftop together.{F801}</target>
+  </entry>
+  <entry id="97">
+    <source>{F812}Voice\0{F87A,2}{F813,1,401214}...Where are you going?{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,401214}...Where are you going?{F801}</target>
+  </entry>
+  <entry id="98">
+    <source>{F812}Lucifer\0{F87A,-1085}You need not look down anymore. Instead,{F801}look upward at my side.{F801}{F802}It is good that you witness the end of{F801}this false paradise... that you see where{F801}the choice you made has led.{F801}{F802}Come. Let us go to the rooftop together.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}You need not look down anymore. Instead,{F801}look upward at my side.{F801}{F802}It is good that you witness the end of{F801}this false paradise... that you see where{F801}the choice you made has led.{F801}{F802}Come. Let us go to the rooftop together.{F801}</target>
+  </entry>
+  <entry id="99">
+    <source>{F812}K\0{F87A,22}{F813,1,405022}I've noticed a decline in customers{F801}today. Is it because of the commotion{F801}outside?{F801}{F802}I think I can more or less imagine{F801}what's going on...{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,1,405022}I've noticed a decline in customers{F801}today. Is it because of the commotion{F801}outside?{F801}{F802}I think I can more or less imagine{F801}what's going on...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Wandering monk\0{F87A,42}{F813,1,403603}It seems I made a wise decision, going{F801}on a walk because I was bored... er, I{F801}mean, taking the time to patrol.{F801}{F802}There's no need for you to find out what{F801}is beyond there. You must leave at once.{F801}</source>
+    <target>{F812}Wandering monk\0{F87A,42}{F813,1,403603}It seems I made a wise decision, going{F801}on a walk because I was bored... er, I{F801}mean, taking the time to patrol.{F801}{F802}There's no need for you to find out what{F801}is beyond there. You must leave at once.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Master Samurai\0{F87A,117}The training exercises are a rite of{F801}passage for all Samurai. I wish you{F801}luck, my young fellow.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,117}The training exercises are a rite of{F801}passage for all Samurai. I wish you{F801}luck, my young fellow.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Samurai on duty\0{F87A,116}Past here is Naraku, the cavern of evil{F801}where the demons from the fables you've{F801}heard exist in the flesh.{F801}{F802}Have you come fully prepared, with{F801}weapons, armor, and supplies at the{F801}ready...?{F801}</source>
+    <target>{F812}Samurai on duty\0{F87A,116}Past here is Naraku, the cavern of evil{F801}where the demons from the fables you've{F801}heard exist in the flesh.{F801}{F802}Have you come fully prepared, with{F801}weapons, armor, and supplies at the{F801}ready...?{F801}</target>
+  </entry>
+  <entry id="138">
+    <source>{F812}Shopkeeper\0{F87A,25}{F813,1,405220}Young Samurai, please feel free to call{F801}me Q.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,25}{F813,1,405220}Young Samurai, please feel free to call{F801}me Q.{F801}</target>
+  </entry>
+  <entry id="139">
+    <source>{F812}Shopkeeper\0{F87A,26}{F813,1,405320}It is an honor to meet you, young{F801}Samurai. I am called B.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,26}{F813,1,405320}It is an honor to meet you, young{F801}Samurai. I am called B.{F801}</target>
+  </entry>
+  <entry id="179">
+    <source>〉 An epigraph is carved on the Obelisk.{F801}{F802}〉 Will you read it?{F801}</source>
+    <target>〉 An epigraph is carved on the Obelisk.{F801}{F802}〉 Will you read it?{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>{F812}Master Samurai\0{F87A,117}{F813,1,403003}Ah, I hear tell that you've finished the{F801}training exercises. That marks you as a{F801}bona fide Samurai.{F801}{F802}Which means you've earned the right to{F801}come here... to K's Tavern.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,117}{F813,1,403003}Ah, I hear tell that you've finished the{F801}training exercises. That marks you as a{F801}bona fide Samurai.{F801}{F802}Which means you've earned the right to{F801}come here... to K's Tavern.{F801}</target>
+  </entry>
+  <entry id="205">
+    <source>"I'm prepared."{F801}"I'm none too confident."{F801}</source>
+    <target>"I'm prepared."{F801}"I'm none too confident."{F801}</target>
+  </entry>
+  <entry id="238">
+    <source>{F812}Q\0{F87A,25}It would please me if my shop's weapons{F801}and armor were of use to you.{F801}</source>
+    <target>{F812}Q\0{F87A,25}It would please me if my shop's weapons{F801}and armor were of use to you.{F801}</target>
+  </entry>
+  <entry id="239">
+    <source>{F812}B\0{F87A,26}I supply sundries to the many Samurai{F801}here.{F801}</source>
+    <target>{F812}B\0{F87A,26}I supply sundries to the many Samurai{F801}here.{F801}</target>
+  </entry>
+  <entry id="279">
+    <source>Read it{F801}Don't read it{F801}</source>
+    <target>Read it{F801}Don't read it{F801}</target>
+  </entry>
+  <entry id="304">
+    <source>{F812}Master Samurai\0{F87A,117}You'll eventually receive a proper{F801}introduction from him. Look forward{F801}to that, my young fellow!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,117}You'll eventually receive a proper{F801}introduction from him. Look forward{F801}to that, my young fellow!{F801}</target>
+  </entry>
+  <entry id="305">
+    <source>{F812}Samurai on duty\0{F87A,116}{F813,1,403042}Then go and face the training exercises.{F801}And try not to be slain.{F801}</source>
+    <target>{F812}Samurai on duty\0{F87A,116}{F813,1,403042}Then go and face the training exercises.{F801}And try not to be slain.{F801}</target>
+  </entry>
+  <entry id="405">
+    <source>{F812}Samurai on duty\0{F87A,116}{F813,1,403043}Then you should prepare yourself at the{F801}shops in the plaza first.{F801}</source>
+    <target>{F812}Samurai on duty\0{F87A,116}{F813,1,403043}Then you should prepare yourself at the{F801}shops in the plaza first.{F801}</target>
+  </entry>
+  <entry id="1000">
+    <source>{F812}K\0{F87A,22}A Samurai founded this kingdom, and it{F801}will be a Samurai who draws the curtains{F801}on it, eh...?{F801}{F802}Let me put on a brave face this once{F801}and say that I had a feeling this day{F801}would eventually come...{F801}{F802}And if it has, then I am thankful to{F801}see it happen in my lifetime.{F801}</source>
+    <target>{F812}K\0{F87A,22}A Samurai founded this kingdom, and it{F801}will be a Samurai who draws the curtains{F801}on it, eh...?{F801}{F802}Let me put on a brave face this once{F801}and say that I had a feeling this day{F801}would eventually come...{F801}{F802}And if it has, then I am thankful to{F801}see it happen in my lifetime.{F801}</target>
+  </entry>
+  <entry id="1001">
+    <source>〉 There is a note on the door...{F801}{F802}"K's Tavern has moved. A new location{F801}is planned for Shinjuku in Tokyo."{F801}{F802}"Thank you for your patronage.{F801}Now, hurry up and evacuate!"{F801}</source>
+    <target>〉 There is a note on the door...{F801}{F802}"K's Tavern has moved. A new location{F801}is planned for Shinjuku in Tokyo."{F801}{F802}"Thank you for your patronage.{F801}Now, hurry up and evacuate!"{F801}</target>
+  </entry>
+  <entry id="1002">
+    <source>〉 No one is here.{F801}</source>
+    <target>〉 No one is here.{F801}</target>
+  </entry>
+  <entry id="1003">
+    <source>{F812}Baritone Samurai\0{F87A,117}{F813,1,403021}Abbot Hugo convened an emergency meeting{F801}for the people gathered in Mikado Castle.{F801}{F802}We are to abandon the Eastern Kingdom{F801}of Mikado and emigrate to Tokyo as our{F801}new home...{F801}{F802}The abbot's final words brought tears{F801}to my eyes...{F801}{F802}We abandon this land not out of despair,{F801}but out of hope. The hope for us all to{F801}finally come into our own...{F801}</source>
+    <target>{F812}Baritone Samurai\0{F87A,117}{F813,1,403021}Abbot Hugo convened an emergency meeting{F801}for the people gathered in Mikado Castle.{F801}{F802}We are to abandon the Eastern Kingdom{F801}of Mikado and emigrate to Tokyo as our{F801}new home...{F801}{F802}The abbot's final words brought tears{F801}to my eyes...{F801}{F802}We abandon this land not out of despair,{F801}but out of hope. The hope for us all to{F801}finally come into our own...{F801}</target>
+  </entry>
+  <entry id="1004">
+    <source>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}We considered bringing the pigs along{F801}with us to Tokyo...{F801}{F802}But in the end, we had to preserve most{F801}of them in salt and let the people{F801}bring them that way.{F801}{F802}They made the ultimate sacrifice for us.{F801}It reminds us how precarious our{F801}situation is.{F801}{F802}We must not forget all that. We must{F801}stay humble in the new world...{F801}</source>
+    <target>{F812}Patrolling Samurai\0{F87A,116}{F813,1,403042}We considered bringing the pigs along{F801}with us to Tokyo...{F801}{F802}But in the end, we had to preserve most{F801}of them in salt and let the people{F801}bring them that way.{F801}{F802}They made the ultimate sacrifice for us.{F801}It reminds us how precarious our{F801}situation is.{F801}{F802}We must not forget all that. We must{F801}stay humble in the new world...{F801}</target>
+  </entry>
+  <entry id="1052">
+    <source>{F812}Demon\0{F87A,-240}{F813,1,482006}I-It was us who found this place first,{F801}you know...!{F801}</source>
+    <target>{F812}Demon\0{F87A,-240}{F813,1,482006}I-It was us who found this place first,{F801}you know...!{F801}</target>
+  </entry>
+  <entry id="1064">
+    <source>〉 Which part will you read?{F801}</source>
+    <target>〉 Which part will you read?{F801}</target>
+  </entry>
+  <entry id="1080">
+    <source>〉 Which part will you read?{F801}</source>
+    <target>〉 Which part will you read?{F801}</target>
+  </entry>
+  <entry id="1086">
+    <source>{F812}Hugo\0{F87A,10}{F813,1,400703}{F843,0}...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,1,400703}{F843,0}...{F801}</target>
+  </entry>
+  <entry id="1088">
+    <source>〉 {F843,0} headed to the New Mikado{F801}Castle.{F801}</source>
+    <target>〉 {F843,0} headed to the New Mikado{F801}Castle.{F801}</target>
+  </entry>
+  <entry id="1164">
+    <source>The war of angels and demons{F801}The founding of the Samurai{F801}The Eastern Kingdom of Mikado{F801}Exit{F801}</source>
+    <target>The war of angels and demons{F801}The founding of the Samurai{F801}The Eastern Kingdom of Mikado{F801}Exit{F801}</target>
+  </entry>
+  <entry id="1180">
+    <source>The war of angels and demons{F801}The founding of the Samurai{F801}The Eastern Kingdom of Mikado{F801}Exit{F801}</source>
+    <target>The war of angels and demons{F801}The founding of the Samurai{F801}The Eastern Kingdom of Mikado{F801}Exit{F801}</target>
+  </entry>
+  <entry id="1186">
+    <source>{F812}Hugo\0{F87A,10}In light of the tide of demons coming{F801}from Naraku, Hope has recommended that{F801}we evacuate...{F801}{F802}But where in this kingdom is there that{F801}a man like myself would be accepted?{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}In light of the tide of demons coming{F801}from Naraku, Hope has recommended that{F801}we evacuate...{F801}{F802}But where in this kingdom is there that{F801}a man like myself would be accepted?{F801}</target>
+  </entry>
+  <entry id="1264">
+    <source>In ancient times, this land was shared{F801}by angels and those blessed by God.{F801}{F802}One day, the Unclean Ones emerged{F801}from the underworld, and decided of{F801}their own mind to live here.{F801}{F802}The Unclean Ones summoned demons and{F801}the angels knew they could not be{F801}allowed to go unchecked.{F801}{F802}Fearing the power of the angels sent{F801}by God, the Unclean Ones retreated to{F801}the underworld from whence they came.{F801}{F802}Thus were the land blessed by God{F801}and the people who dwelled there{F801}protected by angels...{F801}</source>
+    <target>In ancient times, this land was shared{F801}by angels and those blessed by God.{F801}{F802}One day, the Unclean Ones emerged{F801}from the underworld, and decided of{F801}their own mind to live here.{F801}{F802}The Unclean Ones summoned demons and{F801}the angels knew they could not be{F801}allowed to go unchecked.{F801}{F802}Fearing the power of the angels sent{F801}by God, the Unclean Ones retreated to{F801}the underworld from whence they came.{F801}{F802}Thus were the land blessed by God{F801}and the people who dwelled there{F801}protected by angels...{F801}</target>
+  </entry>
+  <entry id="1280">
+    <source>In ancient times, this land was shared{F801}by angels and those blessed by God.{F801}{F802}One day, the Unclean Ones emerged{F801}from the underworld, and decided of{F801}their own mind to live here.{F801}{F802}The Unclean Ones summoned demons and{F801}the angels knew they could not be{F801}allowed to go unchecked.{F801}{F802}Fearing the power of the angels sent{F801}by God, the Unclean Ones retreated to{F801}the underworld from whence they came.{F801}{F802}Thus were the land blessed by God{F801}and the people who dwelled there{F801}protected by angels...{F801}</source>
+    <target>In ancient times, this land was shared{F801}by angels and those blessed by God.{F801}{F802}One day, the Unclean Ones emerged{F801}from the underworld, and decided of{F801}their own mind to live here.{F801}{F802}The Unclean Ones summoned demons and{F801}the angels knew they could not be{F801}allowed to go unchecked.{F801}{F802}Fearing the power of the angels sent{F801}by God, the Unclean Ones retreated to{F801}the underworld from whence they came.{F801}{F802}Thus were the land blessed by God{F801}and the people who dwelled there{F801}protected by angels...{F801}</target>
+  </entry>
+  <entry id="1286">
+    <source>{F812}Hugo\0{F87A,10}I was given my position as abbot of the{F801}Monastery by the angel Gabriel, in the{F801}form of "Gabby."{F801}{F802}But in exchange for the power to reign{F801}over this kingdom, I lost the trust of{F801}its people.{F801}{F802}What you see before you is the pitiful{F801}shell of a man who had power beyond his{F801}control. Look to your heart's content...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}I was given my position as abbot of the{F801}Monastery by the angel Gabriel, in the{F801}form of "Gabby."{F801}{F802}But in exchange for the power to reign{F801}over this kingdom, I lost the trust of{F801}its people.{F801}{F802}What you see before you is the pitiful{F801}shell of a man who had power beyond his{F801}control. Look to your heart's content...{F801}</target>
+  </entry>
+  <entry id="1364">
+    <source>〉 Read another section?{F801}</source>
+    <target>〉 Read another section?{F801}</target>
+  </entry>
+  <entry id="1380">
+    <source>〉 Read another section?{F801}</source>
+    <target>〉 Read another section?{F801}</target>
+  </entry>
+  <entry id="1464">
+    <source>In the long ago war of angels and{F801}demons, one soldier stood with the{F801}angels.{F801}{F802}Like the Unclean Ones, this soldier{F801}summoned demons; but he did so to{F801}combat the demonic hordes.{F801}{F802}With this power, the soldier forced{F801}the demons into the underworld, and{F801}sealed the path to their country...{F801}{F802}This soldier was the first Samurai,{F801}as well as the first monarch of the{F801}Eastern Kingdom of Mikado... Aquila.{F801}{F802}King Aquila's great achievement is{F801}the reason why Samurai are even today{F801}the cornerstone of our defenses.{F801}</source>
+    <target>In the long ago war of angels and{F801}demons, one soldier stood with the{F801}angels.{F801}{F802}Like the Unclean Ones, this soldier{F801}summoned demons; but he did so to{F801}combat the demonic hordes.{F801}{F802}With this power, the soldier forced{F801}the demons into the underworld, and{F801}sealed the path to their country...{F801}{F802}This soldier was the first Samurai,{F801}as well as the first monarch of the{F801}Eastern Kingdom of Mikado... Aquila.{F801}{F802}King Aquila's great achievement is{F801}the reason why Samurai are even today{F801}the cornerstone of our defenses.{F801}</target>
+  </entry>
+  <entry id="1480">
+    <source>During the struggle, the remaining{F801}demons regained their power. The{F801}wounded angels were unable to...{F801}{F802}〉 The rest of the epigraph has been{F801}scraped off from the Obelisk's{F801}surface and is illegible.{F801}</source>
+    <target>During the struggle, the remaining{F801}demons regained their power. The{F801}wounded angels were unable to...{F801}{F802}〉 The rest of the epigraph has been{F801}scraped off from the Obelisk's{F801}surface and is illegible.{F801}</target>
+  </entry>
+  <entry id="1564">
+    <source>Will you read the other parts as well?{F801}</source>
+    <target>Will you read the other parts as well?{F801}</target>
+  </entry>
+  <entry id="1580">
+    <source>〉 Read another section?{F801}</source>
+    <target>〉 Read another section?{F801}</target>
+  </entry>
+  <entry id="1664">
+    <source>In the first year of the Gregorian{F801}Calendar, King Aquila established the{F801}Eastern Kingdom of Mikado in this land.{F801}{F802}The king built a castle in the sealed{F801}land and prayed to God. His subjects,{F801}following his example, prayed as well.{F801}{F802}Under God's watchful eye, the people{F801}were guaranteed equality and peace{F801}everlasting.{F801}</source>
+    <target>In the first year of the Gregorian{F801}Calendar, King Aquila established the{F801}Eastern Kingdom of Mikado in this land.{F801}{F802}The king built a castle in the sealed{F801}land and prayed to God. His subjects,{F801}following his example, prayed as well.{F801}{F802}Under God's watchful eye, the people{F801}were guaranteed equality and peace{F801}everlasting.{F801}</target>
+  </entry>
+  <entry id="1680">
+    <source>In the first year of the Gregorian{F801}Calendar... King Aqu...{F801}{F802}〉 The rest of the epigraph has been{F801}scraped off from the Obelisk's{F801}surface and is illegible.{F801}</source>
+    <target>In the first year of the Gregorian{F801}Calendar... King Aqu...{F801}{F802}〉 The rest of the epigraph has been{F801}scraped off from the Obelisk's{F801}surface and is illegible.{F801}</target>
+  </entry>
+  <entry id="1764">
+    <source>〉 Read another section?{F801}</source>
+    <target>〉 Read another section?{F801}</target>
+  </entry>
+  <entry id="1780">
+    <source>〉 Read another section?{F801}</source>
+    <target>〉 Read another section?{F801}</target>
+  </entry>
+  <entry id="2052">
+    <source>{F812}Demon\0{F87A,-811}{F813,1,477005}I ain't leaving this lake. It's too clean{F801}for my tastes, but I like the size of it.{F801}{F802}If you got a problem with that, wanna{F801}talk it over? Hmm?{F801}</source>
+    <target>{F812}Demon\0{F87A,-811}{F813,1,477005}I ain't leaving this lake. It's too clean{F801}for my tastes, but I like the size of it.{F801}{F802}If you got a problem with that, wanna{F801}talk it over? Hmm?{F801}</target>
+  </entry>
+</mbm>

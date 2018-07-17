@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isabeau\0{F87A,170}{F87B,170,7,1,1}{F813,0,275001}Is this... Mikado Castle?{F801}{F802}{F87B,170,10,1,1}{F813,0,275002}We've returned to the Eastern Kingdom{F801}of Mikado...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F87B,170,7,1,1}{F813,0,275001}Is this... Mikado Castle?{F801}{F802}{F87B,170,10,1,1}{F813,0,275002}We've returned to the Eastern Kingdom{F801}of Mikado...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,170}{F87B,170,10,1,1}{F813,0,275003}Look!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F87B,170,10,1,1}{F813,0,275003}Look!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Isabeau\0{F87A,170}{F87B,170,10,1,1}{F813,0,275004}It is very like the Great Spirit{F801}of Hope.{F801}{F802}{F813,0,275005}This must be the Great Spirit of{F801}Goodwill that was changed into God's{F801}chariot...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F87B,170,10,1,1}{F813,0,275004}It is very like the Great Spirit{F801}of Hope.{F801}{F802}{F813,0,275005}This must be the Great Spirit of{F801}Goodwill that was changed into God's{F801}chariot...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The Great Spirit of Goodwill flew{F801}towards {F843,0}...{F801}</source>
+    <target>〉 The Great Spirit of Goodwill flew{F801}towards {F843,0}...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Obtained the Great Spirit of Goodwill.{F801}</source>
+    <target>〉 Obtained the Great Spirit of Goodwill.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,170}{F87B,170,4,1,1}{F813,0,275006}Well then, {F843,0}, I will part ways{F801}with you for the nonce.{F801}{F802}{F813,0,275007}I want to persuade the people of the{F801}Eastern Kingdom of Mikado to move to{F801}Tokyo.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F87B,170,4,1,1}{F813,0,275006}Well then, {F843,0}, I will part ways{F801}with you for the nonce.{F801}{F802}{F813,0,275007}I want to persuade the people of the{F801}Eastern Kingdom of Mikado to move to{F801}Tokyo.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,170}{F87B,170,4,1,1}{F813,0,275011}I trust that you can gain the Great{F801}Spirit of Spite without me.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F87B,170,4,1,1}{F813,0,275011}I trust that you can gain the Great{F801}Spirit of Spite without me.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,170}{F87B,170,1,1,1}{F813,0,275012}And once the matter is settled... Hm...{F801}{F802}{F87B,170,10,1,1}{F813,0,275013}Let us reconvene at Cafe Florida in{F801}Shinjuku.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F87B,170,1,1,1}{F813,0,275012}And once the matter is settled... Hm...{F801}{F802}{F87B,170,10,1,1}{F813,0,275013}Let us reconvene at Cafe Florida in{F801}Shinjuku.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 You decide to part ways with Isabeau.{F801}</source>
+    <target>〉 You decide to part ways with Isabeau.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>ここで善意の大魂を表示したいです{F801}</source>
+    <target>ここで善意の大魂を表示したいです{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Isabeau\0{F87A,170}{F87B,170,6,1,1}{F813,0,275008}Don't worry... I doubt I'll need any{F801}assistance in this.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F87B,170,6,1,1}{F813,0,275008}Don't worry... I doubt I'll need any{F801}assistance in this.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Isabeau\0{F87A,170}{F87B,170,6,1,1}{F813,0,275014}I shall see you by and by.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F87B,170,6,1,1}{F813,0,275014}I shall see you by and by.{F801}</target>
+  </entry>
+  <entry id="205">
+    <source>{F812}Isabeau\0{F87A,170}{F87B,170,9,1,1}{F813,0,275009}There are no more Luxurors. And the{F801}angels have lost their masters...{F801}{F802}{F87B,170,4,1,1}{F813,0,275010}It strikes me as the ideal moment for{F801}us to emigrate to a new land.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F87B,170,9,1,1}{F813,0,275009}There are no more Luxurors. And the{F801}angels have lost their masters...{F801}{F802}{F87B,170,4,1,1}{F813,0,275010}It strikes me as the ideal moment for{F801}us to emigrate to a new land.{F801}</target>
+  </entry>
+</mbm>

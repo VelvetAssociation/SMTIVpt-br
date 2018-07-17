@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220002}I messed up again. Waste of a perfectly{F801}good plug...{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220002}I messed up again. Waste of a perfectly{F801}good plug...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220003}Hm? What do you want? Oh, hold on{F801}a second...{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220003}Hm? What do you want? Oh, hold on{F801}a second...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220004}Hmp...!{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220004}Hmp...!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The old demon replaced a part from the{F801}convulsing man...{F801}</source>
+    <target>〉 The old demon replaced a part from the{F801}convulsing man...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220005}Oh, it's one of Tonankai Trade's.{F801}All their products are such junk.{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220005}Oh, it's one of Tonankai Trade's.{F801}All their products are such junk.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220006}By the way... I don't recognize you{F801}from the applicant list...{F801}{F802}{F813,0,220007}Don't tell me you're here to see{F801}Kenji?{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220006}By the way... I don't recognize you{F801}from the applicant list...{F801}{F802}{F813,0,220007}Don't tell me you're here to see{F801}Kenji?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"That's right."{F801}"No."{F801}</source>
+    <target>"That's right."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220008}Ho-ho, you came to see him in person?{F801}Aren't you a bold one.{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220008}Ho-ho, you came to see him in person?{F801}Aren't you a bold one.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220011}...I figured as much.{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220011}...I figured as much.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220012}Then could you leave? I have a quota{F801}to meet.{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220012}Then could you leave? I have a quota{F801}to meet.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220009}I like you. Take this.{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220009}I like you. Take this.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Obtained a scorched card key.{F801}</source>
+    <target>〉 Obtained a scorched card key.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220010}It's a dog eat dog world. Good luck,{F801}now. Eeh heh heh heh...{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220010}It's a dog eat dog world. Good luck,{F801}now. Eeh heh heh heh...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220014}Another failure. The plug missed its{F801}mark...{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220014}Another failure. The plug missed its{F801}mark...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Old demon\0{F87A,-146}{F813,0,220015}...Hm? Weren't you just here...?{F801}{F802}{F813,0,220016}I'm probably just imagining it.{F801}But could you leave? I'm busy.{F801}</source>
+    <target>{F812}Old demon\0{F87A,-146}{F813,0,220015}...Hm? Weren't you just here...?{F801}{F802}{F813,0,220016}I'm probably just imagining it.{F801}But could you leave? I'm busy.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,246 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-566}{F813,1,417001}...Ah!{F801}{F802}{F813,1,417007}Aww, for a second, I thought you were{F801}that human, but you're not him.{F801}{F802}I'm not interested in your lame pickup{F801}attempts, okay? See ya.{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}{F813,1,417001}...Ah!{F801}{F802}{F813,1,417007}Aww, for a second, I thought you were{F801}that human, but you're not him.{F801}{F802}I'm not interested in your lame pickup{F801}attempts, okay? See ya.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-566}{F813,1,417001}...Ah!{F801}{F802}{F813,1,417007}Aww, for a second, I thought you were{F801}that human, but you're not... Huh?{F801}No way...{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}{F813,1,417001}...Ah!{F801}{F802}{F813,1,417007}Aww, for a second, I thought you were{F801}that human, but you're not... Huh?{F801}No way...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-566}{F813,1,417006}{F812}Demon\0{F87A,-566}I feel that human's magnetite on you,{F801}mister.{F801}{F802}His face looked pretty banged up. But I{F801}think he's alive in that place called{F801}"Shinjuku."{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}{F813,1,417006}{F812}Demon\0{F87A,-566}I feel that human's magnetite on you,{F801}mister.{F801}{F802}His face looked pretty banged up. But I{F801}think he's alive in that place called{F801}"Shinjuku."{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-566}{F813,1,417003}When that human was fighting the angels,{F801}I got scared and ran away.{F801}{F802}After that, I had a sick feeling in my{F801}stomach. That's why I kept coming here.{F801}{F802}But that feeling's all gone now that I{F801}met you!{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}{F813,1,417003}When that human was fighting the angels,{F801}I got scared and ran away.{F801}{F802}After that, I had a sick feeling in my{F801}stomach. That's why I kept coming here.{F801}{F802}But that feeling's all gone now that I{F801}met you!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon\0{F87A,-566}Here, I want to give you this. It's to{F801}thank you for making me not scared.{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}Here, I want to give you this. It's to{F801}thank you for making me not scared.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Obtained {F841,3}.{F801}</source>
+    <target>〉 Obtained {F841,3}.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Demon\0{F87A,-566}See ya!{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}See ya!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Earnest man\0{F87A,119}{F813,1,403023}I wonder if everyone at Florida is doing{F801}well...{F801}</source>
+    <target>{F812}Earnest man\0{F87A,119}{F813,1,403023}I wonder if everyone at Florida is doing{F801}well...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The earnest man won't even look{F801}at you...{F801}</source>
+    <target>〉 The earnest man won't even look{F801}at you...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Earnest man\0{F87A,119}{F813,1,403023}I wonder if everyone at Florida is doing{F801}well...{F801}{F802}...Hm?{F801}</source>
+    <target>{F812}Earnest man\0{F87A,119}{F813,1,403023}I wonder if everyone at Florida is doing{F801}well...{F801}{F802}...Hm?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Earnest man\0{F87A,119}Is that... you there, sir? Your Magnetite{F801}is kind of familiar...{F801}{F802}And you were the one they entrusted the{F801}key to this place with...{F801}{F802}Why are you so quiet? That is you, isn't{F801}it, sir? It's been a while... at least{F801}let me hear your voice.{F801}</source>
+    <target>{F812}Earnest man\0{F87A,119}Is that... you there, sir? Your Magnetite{F801}is kind of familiar...{F801}{F802}And you were the one they entrusted the{F801}key to this place with...{F801}{F802}Why are you so quiet? That is you, isn't{F801}it, sir? It's been a while... at least{F801}let me hear your voice.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}Hey, Master {F843,0}? Judging by{F801}this man's appearance...{F801}{F802}I've got a few candidates who could be{F801}the "sir" this man's talking about.{F801}{F802}Do you want to try playing one of their{F801}voice clips?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}Hey, Master {F843,0}? Judging by{F801}this man's appearance...{F801}{F802}I've got a few candidates who could be{F801}the "sir" this man's talking about.{F801}{F802}Do you want to try playing one of their{F801}voice clips?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>Play Hugo's voice{F801}Play Fujiwara's voice{F801}Play Skins' voice{F801}Don't play anything{F801}</source>
+    <target>Play Hugo's voice{F801}Play Fujiwara's voice{F801}Play Skins' voice{F801}Don't play anything{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Burroughs\0{F87A,2}Okay, Master {F843,0}.{F801}I'll play Abbot Hugo's voice.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Okay, Master {F843,0}.{F801}I'll play Abbot Hugo's voice.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Earnest man\0{F87A,119}......{F801}</source>
+    <target>{F812}Earnest man\0{F87A,119}......{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Burroughs\0{F87A,2}Okay, Master {F843,0}.{F801}I'll play Master Fujiwara's voice.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Okay, Master {F843,0}.{F801}I'll play Master Fujiwara's voice.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Earnest man\0{F87A,119}...You haven't changed at all.{F801}</source>
+    <target>{F812}Earnest man\0{F87A,119}...You haven't changed at all.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Burroughs\0{F87A,2}Okay, Master {F843,0}.{F801}I'll play Master Skins' voice.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Okay, Master {F843,0}.{F801}I'll play Master Skins' voice.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Earnest man\0{F87A,119}That voice sounds familiar, but it's{F801}not his...{F801}</source>
+    <target>{F812}Earnest man\0{F87A,119}That voice sounds familiar, but it's{F801}not his...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Earnest man\0{F87A,119}......{F801}</source>
+    <target>{F812}Earnest man\0{F87A,119}......{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Earnest man\0{F87A,119}There's no doubt that the former Ministry{F801}of Defense official wormed his way into{F801}the Ashura-kai's favor.{F801}{F802}Otherwise, there's no way someone like{F801}Tayama would've been able to find this{F801}place.{F801}{F802}{F813,1,403021}You could have used the supplies here{F801}for the sake of everyone...!{F801}{F802}Ah... now that I've said what I wanted{F801}to for so long, it's such a weight off{F801}my chest...{F801}{F802}I'm sorry... Please... let me sleep{F801}for a...{F801}</source>
+    <target>{F812}Earnest man\0{F87A,119}There's no doubt that the former Ministry{F801}of Defense official wormed his way into{F801}the Ashura-kai's favor.{F801}{F802}Otherwise, there's no way someone like{F801}Tayama would've been able to find this{F801}place.{F801}{F802}{F813,1,403021}You could have used the supplies here{F801}for the sake of everyone...!{F801}{F802}Ah... now that I've said what I wanted{F801}to for so long, it's such a weight off{F801}my chest...{F801}{F802}I'm sorry... Please... let me sleep{F801}for a...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Earnest man\0{F87A,119}Hm...?{F801}{F802}That is you there, isn't it, sir?{F801}Why are you so quiet...?{F801}{F802}It's been a while... please at least{F801}let me hear your voice.{F801}</source>
+    <target>{F812}Earnest man\0{F87A,119}Hm...?{F801}{F802}That is you there, isn't it, sir?{F801}Why are you so quiet...?{F801}{F802}It's been a while... please at least{F801}let me hear your voice.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}I've got a few candidates who could be{F801}the "sir" this man's talking about.{F801}{F802}Do you want to try playing one of their{F801}voice clips?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}I've got a few candidates who could be{F801}the "sir" this man's talking about.{F801}{F802}Do you want to try playing one of their{F801}voice clips?{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 The earnest man is no longer here...{F801}</source>
+    <target>〉 The earnest man is no longer here...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Demon\0{F87A,-441}{F813,1,411201}The last human who was saying they were{F801}going to protect this place suddenly{F801}collapsed the other day.{F801}{F802}It seemed like just breathing was painful{F801}for him, so I put him out of his misery.{F801}{F802}I mean, we were "comrades" after all.{F801}</source>
+    <target>{F812}Demon\0{F87A,-441}{F813,1,411201}The last human who was saying they were{F801}going to protect this place suddenly{F801}collapsed the other day.{F801}{F802}It seemed like just breathing was painful{F801}for him, so I put him out of his misery.{F801}{F802}I mean, we were "comrades" after all.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>〉 The demon's mouth is soaked red...{F801}</source>
+    <target>〉 The demon's mouth is soaked red...{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Voice\0{F87A,101}{F813,1,404541}Hm? Is someone there...?{F801}{F802}That's odd. How'd you get past the lock?{F801}Well, no matter...{F801}{F802}If you're here, then you must have come{F801}from Shinjuku, right?{F801}</source>
+    <target>{F812}Voice\0{F87A,101}{F813,1,404541}Hm? Is someone there...?{F801}{F802}That's odd. How'd you get past the lock?{F801}Well, no matter...{F801}{F802}If you're here, then you must have come{F801}from Shinjuku, right?{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Voice\0{F87A,101}Perfect timing. I want to share my{F801}information with you. May I debrief you{F801}on what happened...?{F801}</source>
+    <target>{F812}Voice\0{F87A,101}Perfect timing. I want to share my{F801}information with you. May I debrief you{F801}on what happened...?{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>"Go ahead."{F801}"No."{F801}</source>
+    <target>"Go ahead."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Voice\0{F87A,101}{F813,1,404521}The Ashura-kai bastards finally found{F801}out about Kasumigaseki.{F801}{F802}If they find this warehouse and come in{F801}force, there's no way our side can{F801}protect the place.{F801}{F802}And I doubt there's time to request{F801}backup, either...{F801}</source>
+    <target>{F812}Voice\0{F87A,101}{F813,1,404521}The Ashura-kai bastards finally found{F801}out about Kasumigaseki.{F801}{F802}If they find this warehouse and come in{F801}force, there's no way our side can{F801}protect the place.{F801}{F802}And I doubt there's time to request{F801}backup, either...{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Voice\0{F87A,101}That's why we decided to lock this place{F801}from the inside and stay here.{F801}{F802}If I could, I'd love to have that cafe's{F801}coffee with everyone again, but...{F801}</source>
+    <target>{F812}Voice\0{F87A,101}That's why we decided to lock this place{F801}from the inside and stay here.{F801}{F802}If I could, I'd love to have that cafe's{F801}coffee with everyone again, but...{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Voice\0{F87A,101}{F813,1,404541}I see...{F801}{F802}Careful on your way back. The Ashura-kai{F801}may be outside.{F801}</source>
+    <target>{F812}Voice\0{F87A,101}{F813,1,404541}I see...{F801}{F802}Careful on your way back. The Ashura-kai{F801}may be outside.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>〉 Things are scattered everywhere.{F801}</source>
+    <target>〉 Things are scattered everywhere.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>〉 There is something on the ground.{F801}</source>
+    <target>〉 There is something on the ground.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>〉 Obtained {F841,5}.{F801}</source>
+    <target>〉 Obtained {F841,5}.{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>〉 Obtained {F841,13}.{F801}</source>
+    <target>〉 Obtained {F841,13}.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>〉 Obtained {F841,46}.{F801}</source>
+    <target>〉 Obtained {F841,46}.{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>〉 Obtained {F841,35}.{F801}</source>
+    <target>〉 Obtained {F841,35}.{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>〉 Obtained ●●.{F801}</source>
+    <target>〉 Obtained ●●.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>〉 Obtained ●●.{F801}</source>
+    <target>〉 Obtained ●●.{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>〉 There seems to be nothing more of use.{F801}</source>
+    <target>〉 There seems to be nothing more of use.{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>〉 Things are scattered everywhere.{F801}{F802}〉 There is something on the ground.{F801}</source>
+    <target>〉 Things are scattered everywhere.{F801}{F802}〉 There is something on the ground.{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>〉 Obtained {F841,149}.{F801}</source>
+    <target>〉 Obtained {F841,149}.{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>〉 Obtained {F841,214}.{F801}</source>
+    <target>〉 Obtained {F841,214}.{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,503001}I detect a very dangerous demon nearby.{F801}You should consider getting out of here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,503001}I detect a very dangerous demon nearby.{F801}You should consider getting out of here.{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>〉 Remain here?{F801}</source>
+    <target>〉 Remain here?{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>〉 Will you really remain here?{F801}</source>
+    <target>〉 Will you really remain here?{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>〉 Obtained {F804,5}{F841,31}{F804,0} x10.{F801}</source>
+    <target>〉 Obtained {F804,5}{F841,31}{F804,0} x10.{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>〉 Obtained {F804,5}{F841,32}{F804,0} x10.{F801}</source>
+    <target>〉 Obtained {F804,5}{F841,32}{F804,0} x10.{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>〉 Obtained {F804,5}{F841,33}{F804,0} x10.{F801}</source>
+    <target>〉 Obtained {F804,5}{F841,33}{F804,0} x10.{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>〉 Obtained {F804,5}{F841,34}{F804,0} x10.{F801}</source>
+    <target>〉 Obtained {F804,5}{F841,34}{F804,0} x10.{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>〉 Obtained {F804,5}{F841,35}{F804,0} x10.{F801}</source>
+    <target>〉 Obtained {F804,5}{F841,35}{F804,0} x10.{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>〉 The room is filled with silence...{F801}{F802}〉 You have no more business here...{F801}</source>
+    <target>〉 The room is filled with silence...{F801}{F802}〉 You have no more business here...{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>〉 The elevator is locked down.{F801}</source>
+    <target>〉 The elevator is locked down.{F801}</target>
+  </entry>
+  <entry id="56">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>Use ID Card Lv2{F801}Leave{F801}</source>
+    <target>Use ID Card Lv2{F801}Leave{F801}</target>
+  </entry>
+  <entry id="58">
+    <source>Use ID Card Lv3{F801}Leave{F801}</source>
+    <target>Use ID Card Lv3{F801}Leave{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>〉 Undine is no longer here...{F801}</source>
+    <target>〉 Undine is no longer here...{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+</mbm>

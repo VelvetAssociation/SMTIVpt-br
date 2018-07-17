@@ -1,0 +1,214 @@
+<mbm>
+  <entry id="0">
+    <source>B7F部屋Íäñト配置予定{F801}</source>
+    <target>B7F部屋Íäñト配置予定{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>B51F部屋Íäñト配置予定{F801}</source>
+    <target>B51F部屋Íäñト配置予定{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>¡スワード処理配置予定{F801}</source>
+    <target>¡スワード処理配置予定{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404703}...What do you want? There's nothing{F801}here, you know.{F801}{F802}It'd be different if you wanted to kill{F801}that thing, but I doubt anyone's stupid{F801}enough to try...{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404703}...What do you want? There's nothing{F801}here, you know.{F801}{F802}It'd be different if you wanted to kill{F801}that thing, but I doubt anyone's stupid{F801}enough to try...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404741}...Ah.{F801}{F802}You're that "Samurai", right? Mr. Tayama{F801}told us.{F801}{F802}That's weird... According to the report,{F801}they took back your card keys...{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404741}...Ah.{F801}{F802}You're that "Samurai", right? Mr. Tayama{F801}told us.{F801}{F802}That's weird... According to the report,{F801}they took back your card keys...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Gas masked man\0{F87A,48}...Well, that doesn't matter.{F801}{F802}I doubt the answer is "yes," but did you{F801}come to get revenge on that thing too?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}...Well, that doesn't matter.{F801}{F802}I doubt the answer is "yes," but did you{F801}come to get revenge on that thing too?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"Yes, in fact."{F801}"No."{F801}</source>
+    <target>"Yes, in fact."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404733}Ahh, that would be a great help.{F801}{F802}We didn't know what to do. It's been{F801}complaining lately that it doesn't get{F801}enough exercise.{F801}{F802}I'll release the four security locks on{F801}this floor for you.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404733}Ahh, that would be a great help.{F801}{F802}We didn't know what to do. It's been{F801}complaining lately that it doesn't get{F801}enough exercise.{F801}{F802}I'll release the four security locks on{F801}this floor for you.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404711}...Thought not.{F801}{F802}If only someone would deal with that{F801}thing for us...{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404711}...Thought not.{F801}{F802}If only someone would deal with that{F801}thing for us...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404702}...Yo, Samurai. You're back again.{F801}{F802}Come to get revenge on that thing{F801}after all?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404702}...Yo, Samurai. You're back again.{F801}{F802}Come to get revenge on that thing{F801}after all?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404712}I've been stranded here ever since they{F801}told me to wait for further instructions.{F801}{F802}And none have ever come... Did the{F801}factory manager completely forget?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404712}I've been stranded here ever since they{F801}told me to wait for further instructions.{F801}{F802}And none have ever come... Did the{F801}factory manager completely forget?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Factory manager\0{F87A,48}{F813,1,404741}Huh? Who're you? Oh, you're here to ask{F801}about the password.{F801}</source>
+    <target>{F812}Factory manager\0{F87A,48}{F813,1,404741}Huh? Who're you? Oh, you're here to ask{F801}about the password.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Factory manager\0{F87A,48}Actually, I'm in some trouble because{F801}of that. I lost the paper I jotted the{F801}password down on.{F801}{F802}{F804,5}1... something... 03.{F804,0} It's no use.{F801}I just can't remember that second digit.{F801}</source>
+    <target>{F812}Factory manager\0{F87A,48}Actually, I'm in some trouble because{F801}of that. I lost the paper I jotted the{F801}password down on.{F801}{F802}{F804,5}1... something... 03.{F804,0} It's no use.{F801}I just can't remember that second digit.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Factory manager\0{F87A,48}You know that "Annunciation" painting by{F801}that one artist? El Greco?{F801}{F802}The year that painting was released is{F801}the four-digit password...{F801}{F802}There's no way I'd ever remember that,{F801}so I wrote it down.{F801}</source>
+    <target>{F812}Factory manager\0{F87A,48}You know that "Annunciation" painting by{F801}that one artist? El Greco?{F801}{F802}The year that painting was released is{F801}the four-digit password...{F801}{F802}There's no way I'd ever remember that,{F801}so I wrote it down.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Factory manager\0{F87A,48}At the very least, I can tell you where{F801}the panel is to enter the password.{F801}{F802}You know the alarm device by the door{F801}that won't open? There should be a panel{F801}to enter the password hidden there.{F801}{F802}Well, good luck to you.{F801}</source>
+    <target>{F812}Factory manager\0{F87A,48}At the very least, I can tell you where{F801}the panel is to enter the password.{F801}{F802}You know the alarm device by the door{F801}that won't open? There should be a panel{F801}to enter the password hidden there.{F801}{F802}Well, good luck to you.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 The man is lost in thought...{F801}</source>
+    <target>〉 The man is lost in thought...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 The man is lost in thought...{F801}</source>
+    <target>〉 The man is lost in thought...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404703}{F804,5}1... something... 03.{F804,0} It's no use.{F801}I just can't remember that second digit!{F801}{F802}It's the year that painting, "The{F801}Annunciation," was released...{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404703}{F804,5}1... something... 03.{F804,0} It's no use.{F801}I just can't remember that second digit!{F801}{F802}It's the year that painting, "The{F801}Annunciation," was released...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source></source>
+    <target></target>
+  </entry>
+  <entry id="19">
+    <source>〉 The man is lost in thought...{F801}</source>
+    <target>〉 The man is lost in thought...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404731}I remember now, it's "1603"!{F801}{F802}Huh? You don't need it anymore...?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404731}I remember now, it's "1603"!{F801}{F802}Huh? You don't need it anymore...?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 You hear a voice from somewhere...{F801}</source>
+    <target>〉 You hear a voice from somewhere...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Voice\0{F813,1,404722}Y-You must be the ones. They told me{F801}about you...{F801}{F802}D-Don't worry about who I am or why I'm{F801}not showing myself...{F801}{F802}I keep my distance from people I've{F801}never met before. I-I only talk to guys{F801}I'm used to, y-you know?{F801}</source>
+    <target>{F812}Voice\0{F813,1,404722}Y-You must be the ones. They told me{F801}about you...{F801}{F802}D-Don't worry about who I am or why I'm{F801}not showing myself...{F801}{F802}I keep my distance from people I've{F801}never met before. I-I only talk to guys{F801}I'm used to, y-you know?{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Voice\0Th-That aside, say the password.{F801}You're after... that thing... right?{F801}</source>
+    <target>{F812}Voice\0Th-That aside, say the password.{F801}You're after... that thing... right?{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Voice\0Y-You remember the password...?{F801}</source>
+    <target>{F812}Voice\0Y-You remember the password...?{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>"I do."{F801}"I don't."{F801}</source>
+    <target>"I do."{F801}"I don't."{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Voice\0{F813,1,404722}Th-Then say it...{F801}</source>
+    <target>{F812}Voice\0{F813,1,404722}Th-Then say it...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Voice\0{F813,1,404722}Th-Then go back and ask the guy who's{F801}"waiting for instructions"...{F801}{F802}D-Don't even think about asking me{F801}directly, all right? I-I'd stutter{F801}through it if I tried telling someone...{F801}</source>
+    <target>{F812}Voice\0{F813,1,404722}Th-Then go back and ask the guy who's{F801}"waiting for instructions"...{F801}{F802}D-Don't even think about asking me{F801}directly, all right? I-I'd stutter{F801}through it if I tried telling someone...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Voice\0{F813,1,404722}...Th-That's the right one.{F801}{F802}Well then, I-I'll remove the l-lock on{F801}this door...{F801}</source>
+    <target>{F812}Voice\0{F813,1,404722}...Th-That's the right one.{F801}{F802}Well then, I-I'll remove the l-lock on{F801}this door...{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Voice\0N-Now you can go on to where... that{F801}thing is...{F801}</source>
+    <target>{F812}Voice\0N-Now you can go on to where... that{F801}thing is...{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Voice\0And don't complain to me anything like,{F801}"W-What's the point of this password{F801}ordeal?" all right?{F801}{F802}I-I think it's weird too, but I do it{F801}because I'm told...{F801}</source>
+    <target>{F812}Voice\0And don't complain to me anything like,{F801}"W-What's the point of this password{F801}ordeal?" all right?{F801}{F802}I-I think it's weird too, but I do it{F801}because I'm told...{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Voice\0S-See ya then...{F801}</source>
+    <target>{F812}Voice\0S-See ya then...{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Voice\0{F813,1,404722}...Th-That's not it. Y-You didn't say{F801}the right one.{F801}</source>
+    <target>{F812}Voice\0{F813,1,404722}...Th-That's not it. Y-You didn't say{F801}the right one.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Voice\0I-If you've forgotten it, head back{F801}and ask the guy who's "waiting for{F801}instructions"...{F801}{F802}B-But don't even think about asking me{F801}directly, all right? I-I'd stutter{F801}through it if I tried telling someone...{F801}</source>
+    <target>{F812}Voice\0I-If you've forgotten it, head back{F801}and ask the guy who's "waiting for{F801}instructions"...{F801}{F802}B-But don't even think about asking me{F801}directly, all right? I-I'd stutter{F801}through it if I tried telling someone...{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>〉 You hear a voice from somewhere...{F801}</source>
+    <target>〉 You hear a voice from somewhere...{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Voice\0{F813,1,404722}Y-You're back... You're after... that{F801}thing... right?{F801}</source>
+    <target>{F812}Voice\0{F813,1,404722}Y-You're back... You're after... that{F801}thing... right?{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Voice\0S-So, what's the password...?{F801}</source>
+    <target>{F812}Voice\0S-So, what's the password...?{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404703}...Huh? What're you guys doing here?{F801}You shouldn't leave your post like this.{F801}{F802}Hm? Me? I forgot something.{F801}Wait... what was it I forgot?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404703}...Huh? What're you guys doing here?{F801}You shouldn't leave your post like this.{F801}{F802}Hm? Me? I forgot something.{F801}Wait... what was it I forgot?{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Gas masked man\0{F87A,48}Crap, I must have breathed it in...{F801}Well, that's fine. I'll let you handle{F801}this mess.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}Crap, I must have breathed it in...{F801}Well, that's fine. I'll let you handle{F801}this mess.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>〉 The gas masked man is no longer here...{F801}</source>
+    <target>〉 The gas masked man is no longer here...{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Sleeping man\0{F87A,71}{F813,0,150032}I'm going to study hard... I'm going...{F801}to study... hard... I'm... going to{F801}study hard...{F801}</source>
+    <target>{F812}Sleeping man\0{F87A,71}{F813,0,150032}I'm going to study hard... I'm going...{F801}to study... hard... I'm... going to{F801}study hard...{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Sleeping man\0{F87A,71}......{F801}</source>
+    <target>{F812}Sleeping man\0{F87A,71}......{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>〉 The sleeping man isn't saying anything{F801}anymore...{F801}</source>
+    <target>〉 The sleeping man isn't saying anything{F801}anymore...{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404702}I've released the security locks on this{F801}floor.{F801}{F802}As for the password... you'll have to{F801}look into that yourself.{F801}{F802}The factory manager might know it,{F801}if you can find him.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404702}I've released the security locks on this{F801}floor.{F801}{F802}As for the password... you'll have to{F801}look into that yourself.{F801}{F802}The factory manager might know it,{F801}if you can find him.{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+  <entry id="45">
+    <source></source>
+    <target></target>
+  </entry>
+  <entry id="46">
+    <source>〉 There is something in the center of{F801}the room.{F801}</source>
+    <target>〉 There is something in the center of{F801}the room.{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>〉 It seems there is nothing else here{F801}that's usable.{F801}</source>
+    <target>〉 It seems there is nothing else here{F801}that's usable.{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>〉 Obtained Kogarasumaru.{F801}</source>
+    <target>〉 Obtained Kogarasumaru.{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>〉 The restraints are quietly swaying...{F801}{F802}〉 No one is here...{F801}</source>
+    <target>〉 The restraints are quietly swaying...{F801}{F802}〉 No one is here...{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404741}When was the painting called "The{F801}Annunciation" released?{F801}{F802}You're talking about El Greco's, right?{F801}{F802}I remember it being at the beginning of{F801}the {F804,5}17th century...{F804,0} Sorry, I don't know{F801}the exact year.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404741}When was the painting called "The{F801}Annunciation" released?{F801}{F802}You're talking about El Greco's, right?{F801}{F802}I remember it being at the beginning of{F801}the {F804,5}17th century...{F804,0} Sorry, I don't know{F801}the exact year.{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404742}Looks like you figured out the password.{F801}I'll be counting on you to deal with...{F801}that thing... now.{F801}{F802}Make sure you don't make too much of a{F801}mess killing it, okay? It's a pain{F801}cleaning up after that stuff.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404742}Looks like you figured out the password.{F801}I'll be counting on you to deal with...{F801}that thing... now.{F801}{F802}Make sure you don't make too much of a{F801}mess killing it, okay? It's a pain{F801}cleaning up after that stuff.{F801}</target>
+  </entry>
+  <entry id="138">
+    <source>{F812}Gas masked man\0{F87A,48}But I can't open up the doors that are{F801}also password protected.{F801}{F802}Go find the factory manager and ask him{F801}for the password.{F801}{F802}And good luck dealing with that thing,{F801}all right?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}But I can't open up the doors that are{F801}also password protected.{F801}{F802}Go find the factory manager and ask him{F801}for the password.{F801}{F802}And good luck dealing with that thing,{F801}all right?{F801}</target>
+  </entry>
+</mbm>

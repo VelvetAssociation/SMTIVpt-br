@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A vast, white space spreads as far{F801}as you can see...{F801}</source>
+    <target>〉 A vast, white space spreads as far{F801}as you can see...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Walter and Jonathan are nowhere to be{F801}seen...{F801}</source>
+    <target>〉 Walter and Jonathan are nowhere to be{F801}seen...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,77}{F813,0,225001}Your atom has brushed against two{F801}possible worlds.{F801}</source>
+    <target>{F812}The White\0{F87A,77}{F813,0,225001}Your atom has brushed against two{F801}possible worlds.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}The White\0{F87A,77}{F813,0,225002}You have touched the possible world{F801}one chooses to preserve...{F801}{F802}{F813,0,225003}...and the possible world where one{F801}chooses to fight the stillness.{F801}</source>
+    <target>{F812}The White\0{F87A,77}{F813,0,225002}You have touched the possible world{F801}one chooses to preserve...{F801}{F802}{F813,0,225003}...and the possible world where one{F801}chooses to fight the stillness.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}The White\0{F87A,124}{F813,0,225004}...You have sensed it.{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,225004}...You have sensed it.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}The White\0{F87A,124}{F813,0,225005}Even if you elect to preserve the world,{F801}if it does not align with God's will,{F801}it will be cast into destruction...{F801}{F802}{F813,0,225006}Even if you choose not to preserve the{F801}world, it will lead inexorably down{F801}a path of self-destruction...{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,225005}Even if you elect to preserve the world,{F801}if it does not align with God's will,{F801}it will be cast into destruction...{F801}{F802}{F813,0,225006}Even if you choose not to preserve the{F801}world, it will lead inexorably down{F801}a path of self-destruction...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}The White\0{F87A,78}{F813,0,225007}Humans are but prisoners of God's{F801}expectations.{F801}</source>
+    <target>{F812}The White\0{F87A,78}{F813,0,225007}Humans are but prisoners of God's{F801}expectations.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}The White\0{F87A,78}{F813,0,225008}But we know a way... A way to escape{F801}God's grasp.{F801}{F802}{F813,0,225009}Yes... We will simply turn all to{F801}nothing to begin with.{F801}</source>
+    <target>{F812}The White\0{F87A,78}{F813,0,225008}But we know a way... A way to escape{F801}God's grasp.{F801}{F802}{F813,0,225009}Yes... We will simply turn all to{F801}nothing to begin with.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}The White\0{F87A,75}{F813,0,225010}Because we lack forms, we entrust the {F801}choice to you who have shape, {F843,0}...{F801}{F802}{F813,0,225011}Release all of humanity from God's{F801}control and become the true Messiah.{F801}</source>
+    <target>{F812}The White\0{F87A,75}{F813,0,225010}Because we lack forms, we entrust the {F801}choice to you who have shape, {F843,0}...{F801}{F802}{F813,0,225011}Release all of humanity from God's{F801}control and become the true Messiah.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}The White\0{F87A,124}{F813,0,225012}Now {F843,0}, the time of fate.{F801}{F802}{F813,0,225013}The power is in your hands to save{F801}every being in every world.{F801}{F802}{F813,0,225014}Will you turn the world to naught with{F801}your hands as the Messiah...?{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,225012}Now {F843,0}, the time of fate.{F801}{F802}{F813,0,225013}The power is in your hands to save{F801}every being in every world.{F801}{F802}{F813,0,225014}Will you turn the world to naught with{F801}your hands as the Messiah...?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>Return the world to nothing{F801}Don't return the world to nothing{F801}</source>
+    <target>Return the world to nothing{F801}Don't return the world to nothing{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}The White\0{F87A,124}{F813,0,225015}No...{F801}{F802}{F813,0,225016}You and your messianic tendencies...{F801}What do you think you can do, leaving{F801}this world intact...?{F801}{F802}{F813,0,225017}Do you intend to preserve the current{F801}status quo? Are you going to destroy{F801}the order of things?{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,225015}No...{F801}{F802}{F813,0,225016}You and your messianic tendencies...{F801}What do you think you can do, leaving{F801}this world intact...?{F801}{F802}{F813,0,225017}Do you intend to preserve the current{F801}status quo? Are you going to destroy{F801}the order of things?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>"I'll preserve the status quo."{F801}"I'll destroy the order of things."{F801}"I don't know."{F801}</source>
+    <target>"I'll preserve the status quo."{F801}"I'll destroy the order of things."{F801}"I don't know."{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}The White\0{F87A,124}{F813,0,225018}Then let us ask you once more.{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,225018}Then let us ask you once more.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}The White\0{F87A,124}{F813,0,225019}Release all of humanity from God's{F801}control and become the true messiah.{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,225019}Release all of humanity from God's{F801}control and become the true messiah.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}The White\0{F87A,124}{F813,0,225020}Now is the moment of fate...{F801}{F802}{F813,0,225021}{F843,0}, will you bring the world{F801}to naught?{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,225020}Now is the moment of fate...{F801}{F802}{F813,0,225021}{F843,0}, will you bring the world{F801}to naught?{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>ニュートáúúートへ飛びますか{F801}</source>
+    <target>ニュートáúúートへ飛びますか{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>飛ぶ{F801}飛ばない{F801}</source>
+    <target>飛ぶ{F801}飛ばない{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>ニュートáúúートへ遷移します{F801}</source>
+    <target>ニュートáúúートへ遷移します{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>通常の流れに戻ります{F801}</source>
+    <target>通常の流れに戻ります{F801}</target>
+  </entry>
+</mbm>

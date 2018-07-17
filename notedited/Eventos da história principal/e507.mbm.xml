@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>〉 Obtained {F841,881}.{F801}</source>
+    <target>〉 Obtained {F841,881}.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Lifeless woman\0{F87A,80}{F813,1,403312}...Who're you? Are you a human? Or...{F801}are you a demon in the shape of{F801}a human?{F801}</source>
+    <target>{F812}Lifeless woman\0{F87A,80}{F813,1,403312}...Who're you? Are you a human? Or...{F801}are you a demon in the shape of{F801}a human?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Lifeless woman\0{F87A,80}I told myself I'd make a choice... the{F801}next time I met someone. I'm... so tired{F801}now...{F801}{F802}I've been thinking about my life... How{F801}I tricked men into marriage and stole{F801}their money...{F801}</source>
+    <target>{F812}Lifeless woman\0{F87A,80}I told myself I'd make a choice... the{F801}next time I met someone. I'm... so tired{F801}now...{F801}{F802}I've been thinking about my life... How{F801}I tricked men into marriage and stole{F801}their money...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Lifeless woman\0{F87A,80}If the last one I met here was a human,{F801}I'd think, "my life wasn't so bad."{F801}{F802}And if the last one I met here was a{F801}demon, I'd think, "my life was nothing{F801}but mistakes"...{F801}</source>
+    <target>{F812}Lifeless woman\0{F87A,80}If the last one I met here was a human,{F801}I'd think, "my life wasn't so bad."{F801}{F802}And if the last one I met here was a{F801}demon, I'd think, "my life was nothing{F801}but mistakes"...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Lifeless woman\0{F87A,80}...So, which are you? Are you human{F801}or a demon?{F801}</source>
+    <target>{F812}Lifeless woman\0{F87A,80}...So, which are you? Are you human{F801}or a demon?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>"I'm a human."{F801}"A demon."{F801}</source>
+    <target>"I'm a human."{F801}"A demon."{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Lifeless woman\0{F87A,80}...I see.{F801}</source>
+    <target>{F812}Lifeless woman\0{F87A,80}...I see.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Lifeless woman\0{F87A,80}...I'm sorry to have held you up.{F801}Don't... worry about me.{F801}{F802}Goodbye. It was nice to talk to someone{F801}for the last time.{F801}</source>
+    <target>{F812}Lifeless woman\0{F87A,80}...I'm sorry to have held you up.{F801}Don't... worry about me.{F801}{F802}Goodbye. It was nice to talk to someone{F801}for the last time.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Lifeless woman\0{F87A,80}I see...{F801}</source>
+    <target>{F812}Lifeless woman\0{F87A,80}I see...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 No one is here. It seems it isn't used{F801}anymore...{F801}</source>
+    <target>〉 No one is here. It seems it isn't used{F801}anymore...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251001}Ah, it's you...{F801}{F802}{F813,0,251002}I am taking a break right now.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251001}Ah, it's you...{F801}{F802}{F813,0,251002}I am taking a break right now.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251003}I have heard the welcome news that{F801}you are now elevated to the duty of{F801}being a warrior of light.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251003}I have heard the welcome news that{F801}you are now elevated to the duty of{F801}being a warrior of light.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251004}Here, we are steadily going about our{F801}business of processing the knowledge{F801}from Tokyo.{F801}{F802}{F813,0,251005}We are only retrieving mystic relics{F801}which have been specified by our new{F801}authorities.{F801}{F802}{F813,0,251006}Now, our research into them has nothing{F801}at all to do with our self-interest.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251004}Here, we are steadily going about our{F801}business of processing the knowledge{F801}from Tokyo.{F801}{F802}{F813,0,251005}We are only retrieving mystic relics{F801}which have been specified by our new{F801}authorities.{F801}{F802}{F813,0,251006}Now, our research into them has nothing{F801}at all to do with our self-interest.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251007}Our knowledge is not yet sufficient{F801}to realize the world that our Lord{F801}wishes to see...{F801}{F802}{F813,0,251008}Together with my flock, I will strive{F801}to meet His expectations as quickly{F801}as we can.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251007}Our knowledge is not yet sufficient{F801}to realize the world that our Lord{F801}wishes to see...{F801}{F802}{F813,0,251008}Together with my flock, I will strive{F801}to meet His expectations as quickly{F801}as we can.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251010}Now, my duties call, so if you will{F801}please excuse me...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251010}Now, my duties call, so if you will{F801}please excuse me...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,251011}...Isabeau was by earlier. She says{F801}that we should all begin preparations{F801}to go to Tokyo.{F801}{F802}{F813,0,251012}She was unwilling to say more, but she{F801}did mention something about the Eastern{F801}Kingdom of Mikado ceasing to be...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,251011}...Isabeau was by earlier. She says{F801}that we should all begin preparations{F801}to go to Tokyo.{F801}{F802}{F813,0,251012}She was unwilling to say more, but she{F801}did mention something about the Eastern{F801}Kingdom of Mikado ceasing to be...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,251013}Despite this imminent disaster, God{F801}remains silent...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,251013}Despite this imminent disaster, God{F801}remains silent...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,7,1,1}{F813,0,251014}It must be a sign from God to{F801}act in His stead.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,7,1,1}{F813,0,251014}It must be a sign from God to{F801}act in His stead.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,251016}I recall a certain phrase in a book{F801}I read whilst I was researching Tokyo.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,251016}I recall a certain phrase in a book{F801}I read whilst I was researching Tokyo.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251018}Ah, but listen to me prattle on...{F801}{F802}{F813,0,251019}Let us meet in Tokyo later. I must go{F801}ready myself as well...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251018}Ah, but listen to me prattle on...{F801}{F802}{F813,0,251019}Let us meet in Tokyo later. I must go{F801}ready myself as well...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,251009}There are some who deride my rather...{F801}swift change of heart... but pay no{F801}heed to them.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,251009}There are some who deride my rather...{F801}swift change of heart... but pay no{F801}heed to them.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,251015}It will be our duty to create for God{F801}a place we can belong in Tokyo...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,251015}It will be our duty to create for God{F801}a place we can belong in Tokyo...{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251017}"The architects of freedom"... It would{F801}seem an apt description for us.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,251017}"The architects of freedom"... It would{F801}seem an apt description for us.{F801}</target>
+  </entry>
+</mbm>

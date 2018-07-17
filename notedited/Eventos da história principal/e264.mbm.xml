@@ -1,0 +1,74 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Chaste voice\0{F813,0,264001}...I suspected that we would meet.{F801}{F802}{F813,0,264002}My former brother, blinded and consumed{F801}by pride, and the pitiful son of man{F801}who sold his soul to the demons.{F801}</source>
+    <target>{F812}Chaste voice\0{F813,0,264001}...I suspected that we would meet.{F801}{F802}{F813,0,264002}My former brother, blinded and consumed{F801}by pride, and the pitiful son of man{F801}who sold his soul to the demons.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Merkabah\0{F813,0,264003}{F87A,205}I am the Lord's chariot... the seraph{F801}Merkabah.{F801}</source>
+    <target>{F812}Merkabah\0{F813,0,264003}{F87A,205}I am the Lord's chariot... the seraph{F801}Merkabah.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Merkabah\0{F87A,205}{F813,0,264004}You Unclean Ones, who mistakenly{F801}believe that chaos is an expression{F801}of free will...{F801}</source>
+    <target>{F812}Merkabah\0{F87A,205}{F813,0,264004}You Unclean Ones, who mistakenly{F801}believe that chaos is an expression{F801}of free will...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Merkabah\0{F87A,205}{F813,0,264005}Let us see Armageddon through to the{F801}end, for a new millennium of order.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,205}{F813,0,264005}Let us see Armageddon through to the{F801}end, for a new millennium of order.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,0,264006}No matter how loyal one is to God,{F801}He will never answer.{F801}{F802}{F813,0,264007}That is all. What else need there be?{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,0,264006}No matter how loyal one is to God,{F801}He will never answer.{F801}{F802}{F813,0,264007}That is all. What else need there be?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,0,264009}We have dispelled God's curse.{F801}{F802}{F813,0,264010}From now on, this world will be{F801}governed by the law of power.{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,0,264009}We have dispelled God's curse.{F801}{F802}{F813,0,264010}From now on, this world will be{F801}governed by the law of power.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Lucifer\0{F87A,-1085}{F813,1,401214}We have dispelled even God's curse...{F801}{F802}There are none left in the world who{F801}could stop us. So we have no need of{F801}the Demon Lord's power anymore.{F801}{F802}Now, to the Eastern Kingdom of Mikado...{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F813,1,401214}We have dispelled even God's curse...{F801}{F802}There are none left in the world who{F801}could stop us. So we have no need of{F801}the Demon Lord's power anymore.{F801}{F802}Now, to the Eastern Kingdom of Mikado...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 {F843,0} proceeded through Naraku{F801}with Lucifer...{F801}</source>
+    <target>〉 {F843,0} proceeded through Naraku{F801}with Lucifer...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The statue of Aquila was destroyed...{F801}</source>
+    <target>〉 The statue of Aquila was destroyed...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Lucifer\0{F87A,-1085}That statue was modeled after a great{F801}hero of this kingdom. To only allow{F801}God to be worshipped by the people...{F801}{F802}That smacks of something that His{F801}puppets would do.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}That statue was modeled after a great{F801}hero of this kingdom. To only allow{F801}God to be worshipped by the people...{F801}{F802}That smacks of something that His{F801}puppets would do.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400004}We've come this far, so no need to{F801}take on any more quests.{F801}{F802}I'll set all the quests as ineligible{F801}to be accepted.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400004}We've come this far, so no need to{F801}take on any more quests.{F801}{F802}I'll set all the quests as ineligible{F801}to be accepted.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Lucifer\0{F87A,-1085}Do I recall correctly that there is a{F801}rooftop view atop this castle? We can{F801}see the land from there...{F801}{F802}Let us watch together as the country{F801}founded on lies meets its end.{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}Do I recall correctly that there is a{F801}rooftop view atop this castle? We can{F801}see the land from there...{F801}{F802}Let us watch together as the country{F801}founded on lies meets its end.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 Demons poured out of Naraku in an{F801}endless stream...{F801}</source>
+    <target>〉 Demons poured out of Naraku in an{F801}endless stream...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,264008}This might be a little early, but{F801}congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,264008}This might be a little early, but{F801}congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,0,264011}Now, to the Eastern Kingdom of Mikado...{F801}{F802}{F813,0,264012}Let us watch together as the country{F801}founded on lies meets its end.{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,0,264011}Now, to the Eastern Kingdom of Mikado...{F801}{F802}{F813,0,264012}Let us watch together as the country{F801}founded on lies meets its end.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>〉 Along the way, they met resistance{F801}from the angels standing watch, but all{F801}were driven off...{F801}{F802}〉 After passing through Naraku, they{F801}arrived in Aquila Statue Plaza.{F801}</source>
+    <target>〉 Along the way, they met resistance{F801}from the angels standing watch, but all{F801}were driven off...{F801}{F802}〉 After passing through Naraku, they{F801}arrived in Aquila Statue Plaza.{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Lucifer\0{F87A,-1085}{F813,1,401214}There, the sun... That light...{F801}Ah, see how bright it is...{F801}</source>
+    <target>{F812}Lucifer\0{F87A,-1085}{F813,1,401214}There, the sun... That light...{F801}Ah, see how bright it is...{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>〉 {F843,0} and the others were drawn{F801}by a mysterious power...{F801}</source>
+    <target>〉 {F843,0} and the others were drawn{F801}by a mysterious power...{F801}</target>
+  </entry>
+</mbm>

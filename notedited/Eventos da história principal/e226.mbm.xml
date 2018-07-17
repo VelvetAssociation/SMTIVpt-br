@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,78}{F813,0,226001}...You have chosen well.{F801}</source>
+    <target>{F812}The White\0{F87A,78}{F813,0,226001}...You have chosen well.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,77}{F813,0,226002}This is the control device for what you{F801}call the Yamato Perpetual Reactor.{F801}{F802}{F813,0,226003}We created it...{F801}</source>
+    <target>{F812}The White\0{F87A,77}{F813,0,226002}This is the control device for what you{F801}call the Yamato Perpetual Reactor.{F801}{F802}{F813,0,226003}We created it...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,75}{F813,0,226004}Yamato was originally a particle{F801}accelerator that creates a black hole.{F801}{F802}{F813,0,226005}Destroy Yamato's control device...{F801}let it run amok. Have it swallow the{F801}entire universe.{F801}</source>
+    <target>{F812}The White\0{F87A,75}{F813,0,226004}Yamato was originally a particle{F801}accelerator that creates a black hole.{F801}{F802}{F813,0,226005}Destroy Yamato's control device...{F801}let it run amok. Have it swallow the{F801}entire universe.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}The White\0{F87A,124}{F813,0,226006}Thanks to your fifth self, we humans{F801}will finally be free of God's plan...{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,226006}Thanks to your fifth self, we humans{F801}will finally be free of God's plan...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}The White\0{F813,0,226007}Now, Messiah. Lead us to nothingness...{F801}</source>
+    <target>{F812}The White\0{F813,0,226007}Now, Messiah. Lead us to nothingness...{F801}</target>
+  </entry>
+</mbm>

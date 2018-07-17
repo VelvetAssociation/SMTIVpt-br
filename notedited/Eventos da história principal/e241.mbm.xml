@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,124}{F813,0,241001}Our fifth son, who chose upheaval...{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,241001}Our fifth son, who chose upheaval...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,220}{F813,0,234002}It is our fate to endlessly repeat the{F801}same mistakes.{F801}{F802}{F813,0,241003}Given this, what other salvation can{F801}there be than returning everything{F801}to naught...?{F801}</source>
+    <target>{F812}The White\0{F87A,220}{F813,0,234002}It is our fate to endlessly repeat the{F801}same mistakes.{F801}{F802}{F813,0,241003}Given this, what other salvation can{F801}there be than returning everything{F801}to naught...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,220}{F813,0,241004}Your choice is wrong... We will prove{F801}that to you...{F801}</source>
+    <target>{F812}The White\0{F87A,220}{F813,0,241004}Your choice is wrong... We will prove{F801}that to you...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,241006}'Tis odd, but even as we fought...{F801}I sensed no hostility from them.{F801}{F802}{F87B,4,6,1,1}{F813,0,241007}They must be utterly devoted to the{F801}idea that destruction is salvation.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,241006}'Tis odd, but even as we fought...{F801}I sensed no hostility from them.{F801}{F802}{F87B,4,6,1,1}{F813,0,241007}They must be utterly devoted to the{F801}idea that destruction is salvation.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,241008}If our own earnest choices were in such{F801}conflict that we had no choice but to{F801}do battle...{F801}{F802}{F813,0,241009}{F87B,4,5,1,1}...Ha.{F801}{F802}{F813,0,241010}{F87B,4,5,1,1}Then there is only one thing for{F801}us to do.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,241008}If our own earnest choices were in such{F801}conflict that we had no choice but to{F801}do battle...{F801}{F802}{F813,0,241009}{F87B,4,5,1,1}...Ha.{F801}{F802}{F813,0,241010}{F87B,4,5,1,1}Then there is only one thing for{F801}us to do.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+</mbm>

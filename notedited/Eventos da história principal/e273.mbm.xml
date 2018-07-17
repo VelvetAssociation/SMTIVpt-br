@@ -1,0 +1,166 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Echoing voice\0{F813,0,273009}I speak unto the Filth...{F801}</source>
+    <target>{F812}Echoing voice\0{F813,0,273009}I speak unto the Filth...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Angel\0{F87A,-863}{F813,0,273010}We will not allow you to take even a{F801}single step into the lands of the{F801}Eastern Kingdom of Mikado.{F801}</source>
+    <target>{F812}Angel\0{F87A,-863}{F813,0,273010}We will not allow you to take even a{F801}single step into the lands of the{F801}Eastern Kingdom of Mikado.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Angel\0{F87A,-863}{F813,0,273011}We will obliterate you Filth, just as{F801}the Lord has commanded.{F801}</source>
+    <target>{F812}Angel\0{F87A,-863}{F813,0,273011}We will obliterate you Filth, just as{F801}the Lord has commanded.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Echoing voice\0{F813,0,273012}I speak unto the Filth...{F801}</source>
+    <target>{F812}Echoing voice\0{F813,0,273012}I speak unto the Filth...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Angel\0{F87A,-21}{F813,0,273013}We will not allow you to take even a{F801}single step into the lands of the{F801}Eastern Kingdom of Mikado.{F801}</source>
+    <target>{F812}Angel\0{F87A,-21}{F813,0,273013}We will not allow you to take even a{F801}single step into the lands of the{F801}Eastern Kingdom of Mikado.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Angel\0{F87A,224}{F813,0,273014}We will obliterate you Filth, just as{F801}the Lord has commanded.{F801}</source>
+    <target>{F812}Angel\0{F87A,224}{F813,0,273014}We will obliterate you Filth, just as{F801}the Lord has commanded.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Echoing voice\0{F87A,-865}It angers me to see your unchecked,{F801}wild overgrowth...{F801}</source>
+    <target>{F812}Echoing voice\0{F87A,-865}It angers me to see your unchecked,{F801}wild overgrowth...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Demon\0{F87A,-865}The beauty of a garden is expressed{F801}through the bare minimum of plants{F801}that decorate it.{F801}{F802}Those who cannot fully blossom, such{F801}as yourselves, are what will cause{F801}the garden to become a wasteland.{F801}</source>
+    <target>{F812}Demon\0{F87A,-865}The beauty of a garden is expressed{F801}through the bare minimum of plants{F801}that decorate it.{F801}{F802}Those who cannot fully blossom, such{F801}as yourselves, are what will cause{F801}the garden to become a wasteland.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Demon\0{F87A,-865}I shall prune your numbers here.{F801}</source>
+    <target>{F812}Demon\0{F87A,-865}I shall prune your numbers here.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Echoing voice\0{F813,0,273015}I speak unto the Filth...{F801}</source>
+    <target>{F812}Echoing voice\0{F813,0,273015}I speak unto the Filth...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Angel\0{F87A,-20}{F813,0,273016}We will not allow you to take even a{F801}single step into the lands of the{F801}Eastern Kingdom of Mikado.{F801}</source>
+    <target>{F812}Angel\0{F87A,-20}{F813,0,273016}We will not allow you to take even a{F801}single step into the lands of the{F801}Eastern Kingdom of Mikado.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Angel\0{F87A,226}{F813,0,273017}We will obliterate you Filth, just as{F801}the Lord has commanded.{F801}</source>
+    <target>{F812}Angel\0{F87A,226}{F813,0,273017}We will obliterate you Filth, just as{F801}the Lord has commanded.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Echoing voice\0{F813,0,273020}I speak unto the Filth...{F801}</source>
+    <target>{F812}Echoing voice\0{F813,0,273020}I speak unto the Filth...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Angel\0{F87A,-18}{F813,0,273021}We will not allow you to take even a{F801}single step into the lands of the{F801}Eastern Kingdom of Mikado.{F801}</source>
+    <target>{F812}Angel\0{F87A,-18}{F813,0,273021}We will not allow you to take even a{F801}single step into the lands of the{F801}Eastern Kingdom of Mikado.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Angel\0{F87A,-18}{F813,0,273022}We will obliterate you Filth, just as{F801}the Lord has commanded.{F801}</source>
+    <target>{F812}Angel\0{F87A,-18}{F813,0,273022}We will obliterate you Filth, just as{F801}the Lord has commanded.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Echoing voice\0{F813,0,273023}I speak unto the Filth...{F801}</source>
+    <target>{F812}Echoing voice\0{F813,0,273023}I speak unto the Filth...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Angel\0{F87A,-17}{F813,0,273024}We will not allow you to take even a{F801}single step into the lands of the{F801}Eastern Kingdom of Mikado.{F801}</source>
+    <target>{F812}Angel\0{F87A,-17}{F813,0,273024}We will not allow you to take even a{F801}single step into the lands of the{F801}Eastern Kingdom of Mikado.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Angel\0{F87A,225}{F813,0,273025}We will obliterate you Filth, just as{F801}the Lord has commanded.{F801}</source>
+    <target>{F812}Angel\0{F87A,225}{F813,0,273025}We will obliterate you Filth, just as{F801}the Lord has commanded.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Echoing voice\0{F813,0,273026}Filth that has strayed from the path{F801}of the sons of man...{F801}</source>
+    <target>{F812}Echoing voice\0{F813,0,273026}Filth that has strayed from the path{F801}of the sons of man...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Angel\0{F87A,227}{F813,0,273027}We are the archangel Seraph.{F801}</source>
+    <target>{F812}Angel\0{F87A,227}{F813,0,273027}We are the archangel Seraph.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Angel\0{F87A,227}{F813,0,273028}We need hardly involve God's chariot{F801}in exorcising you.{F801}</source>
+    <target>{F812}Angel\0{F87A,227}{F813,0,273028}We need hardly involve God's chariot{F801}in exorcising you.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Angel\0{F87A,227}{F813,0,273030}Go hence to Hell...{F801}</source>
+    <target>{F812}Angel\0{F87A,227}{F813,0,273030}Go hence to Hell...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 The angels are no longer here...{F801}</source>
+    <target>〉 The angels are no longer here...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</source>
+    <target>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,273001}I hate to have come all this way,{F801}only to be stopped by something{F801}so trifling...{F801}{F802}{F813,0,273002}Do you know of anyone that we could{F801}call upon for help? Even a demon in{F801}your party might do.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,273001}I hate to have come all this way,{F801}only to be stopped by something{F801}so trifling...{F801}{F802}{F813,0,273002}Do you know of anyone that we could{F801}call upon for help? Even a demon in{F801}your party might do.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,273004}Worry not. I am here with you.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,273004}Worry not. I am here with you.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,273006}......{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,273006}......{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,273007}Haaa...!{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,273007}Haaa...!{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>〉 Masakado swallowed the seal whole.{F801}{F802}〉 The seal disappeared.{F801}</source>
+    <target>〉 Masakado swallowed the seal whole.{F801}{F802}〉 The seal disappeared.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,273008}There is no barrier that cannot be{F801}overcome with hope.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,273008}There is no barrier that cannot be{F801}overcome with hope.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,273018}These people--well, angels--keep saying{F801}the same things over and over... {F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,273018}These people--well, angels--keep saying{F801}the same things over and over... {F801}</target>
+  </entry>
+  <entry id="120">
+    <source>{F812}Angel\0{F87A,227}{F813,0,273029}The sublime world we seek must not{F801}harbor even a speck of Filth.{F801}</source>
+    <target>{F812}Angel\0{F87A,227}{F813,0,273029}The sublime world we seek must not{F801}harbor even a speck of Filth.{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,273003}I hate to have come all this way,{F801}only to be stopped by something{F801}so trifling...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,273003}I hate to have come all this way,{F801}only to be stopped by something{F801}so trifling...{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,273005}A space constructed by angels...{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,273005}A space constructed by angels...{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>〉 A regretful voice echoed from{F801}{F843,0}'s Gauntlet.{F801}</source>
+    <target>〉 A regretful voice echoed from{F801}{F843,0}'s Gauntlet.{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,273019}It's like they're machines...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,273019}It's like they're machines...{F801}</target>
+  </entry>
+  <entry id="222">
+    <source>〉 The angel's aura intensifies...{F801}</source>
+    <target>〉 The angel's aura intensifies...{F801}</target>
+  </entry>
+  <entry id="306">
+    <source>{F812}Voice\0{F87A,1}{F813,1,438001}Most regrettable... If only I were{F801}in a more complete state...{F801}</source>
+    <target>{F812}Voice\0{F87A,1}{F813,1,438001}Most regrettable... If only I were{F801}in a more complete state...{F801}</target>
+  </entry>
+  <entry id="406">
+    <source>〉 Masakado attempted to bite into the{F801}ominous field before you...{F801}</source>
+    <target>〉 Masakado attempted to bite into the{F801}ominous field before you...{F801}</target>
+  </entry>
+  <entry id="506">
+    <source>{F812}Masakado\0{F87A,-360}{F813,1,438001}...Alas, I have not even the strength to{F801}open my jaws. If only I had the Great{F801}Spirit of Hope...{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,1,438001}...Alas, I have not even the strength to{F801}open my jaws. If only I had the Great{F801}Spirit of Hope...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>マサカドが封印を解く{F801}</source>
+    <target>マサカドが封印を解く{F801}</target>
+  </entry>
+</mbm>

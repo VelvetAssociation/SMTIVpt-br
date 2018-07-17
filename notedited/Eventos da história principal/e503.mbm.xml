@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The villagers are gone...{F801}</source>
+    <target>〉 The villagers are gone...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 The area is densely covered with thick{F801}trees...{F801}</source>
+    <target>〉 The area is densely covered with thick{F801}trees...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hope\0{F87A,8}{F813,1,400601}Good, you've returned. Do you need{F801}healing?{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,1,400601}Good, you've returned. Do you need{F801}healing?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>"Unfortunately, yes."{F801}"No, I am well."{F801}</source>
+    <target>"Unfortunately, yes."{F801}"No, I am well."{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hope\0{F87A,8}...Healers!{F801}</source>
+    <target>{F812}Hope\0{F87A,8}...Healers!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The Samurai healer treated your{F801}wounds...{F801}{F802}〉 {F843,0} and the others were{F801}healed.{F801}</source>
+    <target>〉 The Samurai healer treated your{F801}wounds...{F801}{F802}〉 {F843,0} and the others were{F801}healed.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hope\0{F87A,8}If you are injured, better to return{F801}here than to risk going further. The{F801}healers can treat your wounds.{F801}{F802}Well then, I must ask that you resume{F801}the mission.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}If you are injured, better to return{F801}here than to risk going further. The{F801}healers can treat your wounds.{F801}{F802}Well then, I must ask that you resume{F801}the mission.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hope\0{F87A,8}If you are injured, better to return{F801}here than to risk going further. The{F801}healers can treat your wounds.{F801}{F802}Well then, I must ask that you resume{F801}the mission.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}If you are injured, better to return{F801}here than to risk going further. The{F801}healers can treat your wounds.{F801}{F802}Well then, I must ask that you resume{F801}the mission.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Samurai on guard\0{F87A,29}{F813,1,403042}I will risk my life guarding this place{F801}to prevent any villagers who escaped{F801}into the forest from going deeper in.{F801}{F802}You should turn back and work toward{F801}turning up any survivors.{F801}</source>
+    <target>{F812}Samurai on guard\0{F87A,29}{F813,1,403042}I will risk my life guarding this place{F801}to prevent any villagers who escaped{F801}into the forest from going deeper in.{F801}{F802}You should turn back and work toward{F801}turning up any survivors.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 Obtained {F804,5}{F841,31}{F804,0} x10.{F801}</source>
+    <target>〉 Obtained {F804,5}{F841,31}{F804,0} x10.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,150 @@
+<mbm>
+  <entry id="5">
+    <source>{F812}Echoing voice\0{F813,0,277011}...You've come.{F801}</source>
+    <target>{F812}Echoing voice\0{F813,0,277011}...You've come.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Demon\0{F87A,229}{F813,0,277012}It seems you mean to accept the world{F801}of chaos. I respect your efforts in{F801}that regard.{F801}</source>
+    <target>{F812}Demon\0{F87A,229}{F813,0,277012}It seems you mean to accept the world{F801}of chaos. I respect your efforts in{F801}that regard.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Demon\0{F87A,229}{F813,0,277014}Sadly, your soul, stained as it is{F801}by hope, is valueless.{F801}</source>
+    <target>{F812}Demon\0{F87A,229}{F813,0,277014}Sadly, your soul, stained as it is{F801}by hope, is valueless.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The demon is no longer here...{F801}</source>
+    <target>〉 The demon is no longer here...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Echoing voice\0{F813,0,277015}Stray lamb who could not choose either{F801}path...{F801}</source>
+    <target>{F812}Echoing voice\0{F813,0,277015}Stray lamb who could not choose either{F801}path...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Demon\0{F87A,228}{F813,0,277016}I give you this advice out of goodwill.{F801}</source>
+    <target>{F812}Demon\0{F87A,228}{F813,0,277016}I give you this advice out of goodwill.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Demon\0{F87A,228}{F813,0,277017}If you think that frail humans can{F801}survive without yielding to demons or{F801}God, you are mistaken.{F801}</source>
+    <target>{F812}Demon\0{F87A,228}{F813,0,277017}If you think that frail humans can{F801}survive without yielding to demons or{F801}God, you are mistaken.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The demon is no longer here...{F801}</source>
+    <target>〉 The demon is no longer here...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</source>
+    <target>〉 A powerful barrier prevents you from{F801}proceeding...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,277001}I hate to have come all this way,{F801}only to be stopped by something{F801}so trifling...{F801}{F802}{F813,0,277002}Do you know of anyone that we could{F801}call upon for help? Even a demon in{F801}your party might do.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,277001}I hate to have come all this way,{F801}only to be stopped by something{F801}so trifling...{F801}{F802}{F813,0,277002}Do you know of anyone that we could{F801}call upon for help? Even a demon in{F801}your party might do.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,277003}Master, this is a problem...{F801}{F802}{F813,0,277004}I don't mean the thing in your way,{F801}I'm talking about Masakado not being{F801}with us right now.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,277003}Master, this is a problem...{F801}{F802}{F813,0,277004}I don't mean the thing in your way,{F801}I'm talking about Masakado not being{F801}with us right now.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,277005}A space constructed by demons...{F801}{F802}{F813,0,277021}Allow me.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,277005}A space constructed by demons...{F801}{F802}{F813,0,277021}Allow me.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,277006}......{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,277006}......{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,277007}Haaa...!{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,277007}Haaa...!{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>〉 Masakado swallowed the barrier whole.{F801}{F802}〉 The barrier disappeared.{F801}</source>
+    <target>〉 Masakado swallowed the barrier whole.{F801}{F802}〉 The barrier disappeared.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,277008}I will devour all spite that awaits{F801}ahead.{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,277008}I will devour all spite that awaits{F801}ahead.{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,277009}A moment, please... We should make{F801}first for Naraku.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,277009}A moment, please... We should make{F801}first for Naraku.{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,277010}The people of the Eastern Kingdom of{F801}Mikado must escape to Tokyo.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,277010}The people of the Eastern Kingdom of{F801}Mikado must escape to Tokyo.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Demon\0{F87A,228}{F813,0,277018}But it is not too late. Let us walk{F801}together the path of chaos...{F801}</source>
+    <target>{F812}Demon\0{F87A,228}{F813,0,277018}But it is not too late. Let us walk{F801}together the path of chaos...{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,277001}I hate to have come all this way,{F801}only to be stopped by something{F801}so trifling...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,277001}I hate to have come all this way,{F801}only to be stopped by something{F801}so trifling...{F801}</target>
+  </entry>
+  <entry id="205">
+    <source>〉 Masakado attempted to bite into the{F801}ominous field before you...{F801}</source>
+    <target>〉 Masakado attempted to bite into the{F801}ominous field before you...{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>{F812}Demon\0{F87A,229}{F813,0,277013}But allowing God's order to stand as{F801}well will never do.{F801}</source>
+    <target>{F812}Demon\0{F87A,229}{F813,0,277013}But allowing God's order to stand as{F801}well will never do.{F801}</target>
+  </entry>
+  <entry id="209">
+    <source>〉 A regretful voice echoed from{F801}{F843,0}'s Gauntlet.{F801}</source>
+    <target>〉 A regretful voice echoed from{F801}{F843,0}'s Gauntlet.{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>〉 The Great Spirit of Hope shines{F801}brilliantly.{F801}</source>
+    <target>〉 The Great Spirit of Hope shines{F801}brilliantly.{F801}</target>
+  </entry>
+  <entry id="305">
+    <source>{F812}Masakado\0{F87A,-360}{F813,0,438001}......{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,0,438001}......{F801}</target>
+  </entry>
+  <entry id="309">
+    <source>{F812}Voice\0{F87A,1}{F813,1,438001}Most regrettable... If only I were{F801}in a more complete state...{F801}</source>
+    <target>{F812}Voice\0{F87A,1}{F813,1,438001}Most regrettable... If only I were{F801}in a more complete state...{F801}</target>
+  </entry>
+  <entry id="311">
+    <source>{F812}Demon\0{F87A,228}{F813,0,277019}...So there will be no taking{F801}advantage of you, I see.{F801}</source>
+    <target>{F812}Demon\0{F87A,228}{F813,0,277019}...So there will be no taking{F801}advantage of you, I see.{F801}</target>
+  </entry>
+  <entry id="409">
+    <source>〉 Masakado attempted to bite into the{F801}ominous field before you...{F801}</source>
+    <target>〉 Masakado attempted to bite into the{F801}ominous field before you...{F801}</target>
+  </entry>
+  <entry id="411">
+    <source>{F812}Demon\0{F87A,228}{F813,0,277020}Then I, the Tyrant Belial, will crush{F801}you along with humanity's hope.{F801}</source>
+    <target>{F812}Demon\0{F87A,228}{F813,0,277020}Then I, the Tyrant Belial, will crush{F801}you along with humanity's hope.{F801}</target>
+  </entry>
+  <entry id="509">
+    <source>{F812}Masakado\0{F87A,-360}{F813,1,438001}...Alas, I have not even the strength to{F801}open my jaws. If only I had the Great{F801}Spirit of Hope...{F801}</source>
+    <target>{F812}Masakado\0{F87A,-360}{F813,1,438001}...Alas, I have not even the strength to{F801}open my jaws. If only I had the Great{F801}Spirit of Hope...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>マサカドが封印を解く{F801}</source>
+    <target>マサカドが封印を解く{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>úシフÄーの声が聞こえる{F801}</source>
+    <target>úシフÄーの声が聞こえる{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>中ëス悪魔1と対峙する{F801}</source>
+    <target>中ëス悪魔1と対峙する{F801}</target>
+  </entry>
+  <entry id="903">
+    <source>戦闘終了フáグ用Íäñト{F801}</source>
+    <target>戦闘終了フáグ用Íäñト{F801}</target>
+  </entry>
+  <entry id="904">
+    <source>中ëス悪魔2と対峙する{F801}</source>
+    <target>中ëス悪魔2と対峙する{F801}</target>
+  </entry>
+  <entry id="905">
+    <source>戦闘終了フáグ用Íäñト{F801}</source>
+    <target>戦闘終了フáグ用Íäñト{F801}</target>
+  </entry>
+  <entry id="906">
+    <source>仮データ{F801}</source>
+    <target>仮データ{F801}</target>
+  </entry>
+</mbm>

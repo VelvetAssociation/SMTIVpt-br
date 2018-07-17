@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,268001}Ah... You've returned. I had given up{F801}the ghost, thinking you'd quite{F801}forgotten about me...{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,268001}Ah... You've returned. I had given up{F801}the ghost, thinking you'd quite{F801}forgotten about me...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,268002}There seems to be no sign of Tayama{F801}and his men returning. I can only{F801}assume that they fear me!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,268002}There seems to be no sign of Tayama{F801}and his men returning. I can only{F801}assume that they fear me!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,268003}Captivity has been so dull that I have{F801}inspected every nook and cranny of{F801}this room.{F801}{F802}{F813,0,268004}I present to you the results of my{F801}search!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,268003}Captivity has been so dull that I have{F801}inspected every nook and cranny of{F801}this room.{F801}{F802}{F813,0,268004}I present to you the results of my{F801}search!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Obtained Ryoja's Scales.{F801}{F802}〉 Obtained Myoko's Disk.{F801}{F802}〉 Obtained Yagokoro's Brain.{F801}{F802}〉 Obtained Tobiume's Shoot.{F801}{F802}〉 Obtained Yaizu's Flint.{F801}{F802}〉 Obtained Hades' Soil.{F801}</source>
+    <target>〉 Obtained Ryoja's Scales.{F801}{F802}〉 Obtained Myoko's Disk.{F801}{F802}〉 Obtained Yagokoro's Brain.{F801}{F802}〉 Obtained Tobiume's Shoot.{F801}{F802}〉 Obtained Yaizu's Flint.{F801}{F802}〉 Obtained Hades' Soil.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,268005}I know not what they are, but take{F801}them with my compliments.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,268005}I know not what they are, but take{F801}them with my compliments.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,268006}I'll... stay here a while longer.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,268006}I'll... stay here a while longer.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,268007}N-No, it's not that my Gauntlet is in{F801}need of repair... I merely wish to{F801}continue the hunt for mystic relics.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,268007}N-No, it's not that my Gauntlet is in{F801}need of repair... I merely wish to{F801}continue the hunt for mystic relics.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,170006}I will... stay here a while more.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,170006}I will... stay here a while more.{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,170007}Not to wait out the conflict... but to...{F801}find more mystic relics!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,170007}Not to wait out the conflict... but to...{F801}find more mystic relics!{F801}</target>
+  </entry>
+</mbm>

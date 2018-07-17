@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Girl\0{F87A,15}{F813,0,282001}Everyone came back.{F801}{F802}{F813,0,282002}I'm so happy...{F801}</source>
+    <target>{F812}Girl\0{F87A,15}{F813,0,282001}Everyone came back.{F801}{F802}{F813,0,282002}I'm so happy...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Woman\0{F87A,16}{F813,0,282003}{F843,0}...{F801}{F802}{F813,0,282004}I am revived.{F801}{F802}{F813,0,282005}It is all due to your efforts in{F801}granting hope to everyone.{F801}</source>
+    <target>{F812}Woman\0{F87A,16}{F813,0,282003}{F843,0}...{F801}{F802}{F813,0,282004}I am revived.{F801}{F802}{F813,0,282005}It is all due to your efforts in{F801}granting hope to everyone.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Woman\0{F87A,16}{F813,0,282007}See... It begins...{F801}</source>
+    <target>{F812}Woman\0{F87A,16}{F813,0,282007}See... It begins...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Woman's voice\0{F813,0,282008}Thank you.{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,282008}Thank you.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>カットÁニメが入り{F801}ÉñデÏñグです{F801}</source>
+    <target>カットÁニメが入り{F801}ÉñデÏñグです{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Woman\0{F87A,16}{F813,0,282006}Tokyo will be restored to its former{F801}splendor.{F801}</source>
+    <target>{F812}Woman\0{F87A,16}{F813,0,282006}Tokyo will be restored to its former{F801}splendor.{F801}</target>
+  </entry>
+</mbm>

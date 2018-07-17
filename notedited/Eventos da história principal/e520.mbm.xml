@@ -1,0 +1,74 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-566}{F813,1,417006}......{F801}{F802}{F813,1,417001}Huh? No way...{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}{F813,1,417006}......{F801}{F802}{F813,1,417001}Huh? No way...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-566}{F813,1,417003}I got scared and ran when he was fighting{F801}with Pluto.{F801}{F802}Ever since, I've felt guilty, and come{F801}here to visit now and then.{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}{F813,1,417003}I got scared and ran when he was fighting{F801}with Pluto.{F801}{F802}Ever since, I've felt guilty, and come{F801}here to visit now and then.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-566}I'm really glad to know he's still alive.{F801}Not that I have the right to show my{F801}face to the guy...{F801}{F802}Thanks, though. You can have this.{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}I'm really glad to know he's still alive.{F801}Not that I have the right to show my{F801}face to the guy...{F801}{F802}Thanks, though. You can have this.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Obtained {F841,3}.{F801}</source>
+    <target>〉 Obtained {F841,3}.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon\0{F87A,-566}Bye bye.{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}Bye bye.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The place is littered with junk.{F801}</source>
+    <target>〉 The place is littered with junk.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 There's something on the ground.{F801}</source>
+    <target>〉 There's something on the ground.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Obtained {F841,6}.{F801}</source>
+    <target>〉 Obtained {F841,6}.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The room is a mess...{F801}</source>
+    <target>〉 The room is a mess...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 There is nothing useful left.{F801}</source>
+    <target>〉 There is nothing useful left.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The room is a mess...{F801}{F802}〉 It doesn't feel like humans have lived{F801}here for a while...{F801}</source>
+    <target>〉 The room is a mess...{F801}{F802}〉 It doesn't feel like humans have lived{F801}here for a while...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 The door is locked...{F801}</source>
+    <target>〉 The door is locked...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>Use the Rusty Key{F801}Leave{F801}</source>
+    <target>Use the Rusty Key{F801}Leave{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 {F843,0} used the Rusty Key.{F801}</source>
+    <target>〉 {F843,0} used the Rusty Key.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Demon\0{F87A,-566}It's faint, but I can feel some of that{F801}man's Magnetite from you, mister.{F801}{F802}He's got a real stitched-up face, but{F801}he's living in this "Shinjuku" place.{F801}</source>
+    <target>{F812}Demon\0{F87A,-566}It's faint, but I can feel some of that{F801}man's Magnetite from you, mister.{F801}{F802}He's got a real stitched-up face, but{F801}he's living in this "Shinjuku" place.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>〉 The Undine is no longer here...{F801}</source>
+    <target>〉 The Undine is no longer here...{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>〉 There is no one here.{F801}</source>
+    <target>〉 There is no one here.{F801}</target>
+  </entry>
+</mbm>

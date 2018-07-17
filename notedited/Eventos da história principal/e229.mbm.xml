@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,124}{F813,0,229001}So even {F843,0} would make that{F801}choice...{F801}{F802}{F813,0,229002}Cowardly human...!{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,229001}So even {F843,0} would make that{F801}choice...{F801}{F802}{F813,0,229002}Cowardly human...!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,124}{F813,0,229003}...You are too late to walk that path,{F801}{F843,0}.{F801}{F802}{F813,0,229004}You have committed too deeply to{F801}preserving the status quo...{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,229003}...You are too late to walk that path,{F801}{F843,0}.{F801}{F802}{F813,0,229004}You have committed too deeply to{F801}preserving the status quo...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0…だが [選択/せんたく]にそぐわぬとはいえ{F801}[我/われ]らを[拒/こば]むというのだな…{F801}</source>
+    <target>{F812}The White\0…だが [選択/せんたく]にそぐわぬとはいえ{F801}[我/われ]らを[拒/こば]むというのだな…{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}The White\0{F87A,124}{F813,0,229005}Why do you oppose us, {F843,0}?{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,229005}Why do you oppose us, {F843,0}?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}The White\0{F87A,124}{F813,0,229006}Will even you place your hopes in{F801}the possibility of a future?{F801}{F802}{F813,0,229007}Even after we have shown you many{F801}times there is no future for the{F801}human race?{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,229006}Will even you place your hopes in{F801}the possibility of a future?{F801}{F802}{F813,0,229007}Even after we have shown you many{F801}times there is no future for the{F801}human race?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}The White\0{F87A,124}{F813,0,229008}You are no longer of use to us.{F801}{F802}{F813,0,229009}May you regret your choice here in{F801}this fabricated space until you die...{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,229008}You are no longer of use to us.{F801}{F802}{F813,0,229009}May you regret your choice here in{F801}this fabricated space until you die...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,229010}{F843,0}? Is that you there...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,229010}{F843,0}? Is that you there...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,229011}Thank heavens, I thought you were but{F801}a vision... To think that we would{F801}meet in this strange place...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,229011}Thank heavens, I thought you were but{F801}a vision... To think that we would{F801}meet in this strange place...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,229012}The White asked me whether I would{F801}bring the world to naught...{F801}{F802}{F813,0,229013}I told them that I would rather{F801}preserve the status quo.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,229012}The White asked me whether I would{F801}bring the world to naught...{F801}{F802}{F813,0,229013}I told them that I would rather{F801}preserve the status quo.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,229014}It seems the White intend to keep us{F801}prisoner here...{F801}{F802}{F813,0,229015}{F87B,3,4,1,1}But I'm relieved to be reunited{F801}with you, {F843,0}.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,229014}It seems the White intend to keep us{F801}prisoner here...{F801}{F802}{F813,0,229015}{F87B,3,4,1,1}But I'm relieved to be reunited{F801}with you, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,229016}We'll escape this world, come what{F801}may. Now, let us begin!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,229016}We'll escape this world, come what{F801}may. Now, let us begin!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Jonathan has joined you.{F801}</source>
+    <target>〉 Jonathan has joined you.{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Voice\0{F813,0,230001}Warriors of light, the Lord's{F801}chosen ones...{F801}{F802}{F813,0,230002}You have done well in repelling the{F801}despair of the White and beginning to{F801}walk on your own.{F801}</source>
+    <target>{F812}Voice\0{F813,0,230001}Warriors of light, the Lord's{F801}chosen ones...{F801}{F802}{F813,0,230002}You have done well in repelling the{F801}despair of the White and beginning to{F801}walk on your own.{F801}</target>
+  </entry>
+  <entry id="209">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230003}I have come to collect you. Our Lord{F801}requires your strength.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230003}I have come to collect you. Our Lord{F801}requires your strength.{F801}</target>
+  </entry>
+  <entry id="309">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,230004}Gabriel...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,230004}Gabriel...{F801}</target>
+  </entry>
+  <entry id="409">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230005}This is the Expanse... A world created{F801}by the thoughts of men.{F801}{F802}{F813,0,230006}The White are also an aggregation of{F801}thoughts. They are a portion of this{F801}space.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230005}This is the Expanse... A world created{F801}by the thoughts of men.{F801}{F802}{F813,0,230006}The White are also an aggregation of{F801}thoughts. They are a portion of this{F801}space.{F801}</target>
+  </entry>
+  <entry id="509">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230007}Because you rejected the White, their{F801}power is weakened now.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230007}Because you rejected the White, their{F801}power is weakened now.{F801}</target>
+  </entry>
+  <entry id="609">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230008}You must slay the Whites. Do so, and{F801}you will be able to escape from the{F801}Expanse.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230008}You must slay the Whites. Do so, and{F801}you will be able to escape from the{F801}Expanse.{F801}</target>
+  </entry>
+  <entry id="709">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230009}The White number four. They are lurking{F801}somewhere within this forest.{F801}{F802}{F813,0,230010}Slay all of the White so that you may{F801}return to your world of origin and{F801}save mankind.{F801}{F802}{F813,0,230011}That is your task as the warriors{F801}of light.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230009}The White number four. They are lurking{F801}somewhere within this forest.{F801}{F802}{F813,0,230010}Slay all of the White so that you may{F801}return to your world of origin and{F801}save mankind.{F801}{F802}{F813,0,230011}That is your task as the warriors{F801}of light.{F801}</target>
+  </entry>
+  <entry id="809">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="909">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230013}Allow me to heal your wounds.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230013}Allow me to heal your wounds.{F801}</target>
+  </entry>
+  <entry id="1009">
+    <source>{F812}Gabriel\0{F87A,-13}{F813,0,230014}If you ever become wounded in battle,{F801}return here to the forest's entrance.{F801}{F802}{F813,0,230015}I shall heal your wounds at any time.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,-13}{F813,0,230014}If you ever become wounded in battle,{F801}return here to the forest's entrance.{F801}{F802}{F813,0,230015}I shall heal your wounds at any time.{F801}</target>
+  </entry>
+  <entry id="1109">
+    <source>〉 Gabriel walked away...{F801}</source>
+    <target>〉 Gabriel walked away...{F801}</target>
+  </entry>
+</mbm>

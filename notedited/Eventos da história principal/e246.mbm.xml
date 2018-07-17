@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}White\0{F87A,77}{F813,0,246001}Our fifth son, who chose neutrality...{F801}</source>
+    <target>{F812}White\0{F87A,77}{F813,0,246001}Our fifth son, who chose neutrality...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}White\0{F87A,218}{F813,0,246002}...Your actions are abominable.{F801}No matter how much you struggle,{F801}your despair will never be healed.{F801}</source>
+    <target>{F812}White\0{F87A,218}{F813,0,246002}...Your actions are abominable.{F801}No matter how much you struggle,{F801}your despair will never be healed.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}White\0[足/あ][掻/が]いたところで{F801}[負/ふ]の[連鎖/れんさ]からは[逃/のが]れられぬというのに{F801}</source>
+    <target>{F812}White\0[足/あ][掻/が]いたところで{F801}[負/ふ]の[連鎖/れんさ]からは[逃/のが]れられぬというのに{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}White\0{F813,0,246003}{F87A,218}Very well... As your forebear, I will{F801}teach you...{F801}{F802}{F813,0,246004}The splendor of nonexistence...{F801}</source>
+    <target>{F812}White\0{F813,0,246003}{F87A,218}Very well... As your forebear, I will{F801}teach you...{F801}{F802}{F813,0,246004}The splendor of nonexistence...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}This may sound sudden, but I've cross-{F801}referenced data from the past,{F801}Master {F843,0}.{F801}{F802}You don't have blind faith in "God's{F801}plan," but you also don't lash out at{F801}those with such blind faith...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}This may sound sudden, but I've cross-{F801}referenced data from the past,{F801}Master {F843,0}.{F801}{F802}You don't have blind faith in "God's{F801}plan," but you also don't lash out at{F801}those with such blind faith...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}Allow me to note that you haven't{F801}changed at all, Master {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Allow me to note that you haven't{F801}changed at all, Master {F843,0}.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,122 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The room is filled with an eerie{F801}silence.{F801}</source>
+    <target>〉 The room is filled with an eerie{F801}silence.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Where will you go?{F801}</source>
+    <target>〉 Where will you go?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>The underground shelter ruins{F801}The Domain{F801}</source>
+    <target>The underground shelter ruins{F801}The Domain{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 There is no need to head deeper in{F801}anymore...{F801}{F802}〉 You head back to the ruins of the{F801}underground shelter.{F801}</source>
+    <target>〉 There is no need to head deeper in{F801}anymore...{F801}{F802}〉 You head back to the ruins of the{F801}underground shelter.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 You sense no one here. The area is{F801}filled with silence...{F801}</source>
+    <target>〉 You sense no one here. The area is{F801}filled with silence...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 A giant temple is before you...{F801}</source>
+    <target>〉 A giant temple is before you...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>Enter{F801}Leave{F801}</source>
+    <target>Enter{F801}Leave{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135001}...You have come, my brother. Lady{F801}Yuriko knows all.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135001}...You have come, my brother. Lady{F801}Yuriko knows all.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135002}We caught an intruder... Some punk{F801}from the Ashura-kai.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135002}We caught an intruder... Some punk{F801}from the Ashura-kai.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135003}I'm on patrol, so I can't escort you,{F801}but don't keep Lady Yuriko waiting.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135003}I'm on patrol, so I can't escort you,{F801}but don't keep Lady Yuriko waiting.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The brawny man leaves...{F801}</source>
+    <target>〉 The brawny man leaves...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Glaring man\0{F87A,46}{F813,0,135004}Oh... You came...?{F801}</source>
+    <target>{F812}Glaring man\0{F87A,46}{F813,0,135004}Oh... You came...?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Glaring man\0{F87A,46}{F813,0,135005}Because you took so long... Mr. Tayama{F801}sent us instead...{F801}</source>
+    <target>{F812}Glaring man\0{F87A,46}{F813,0,135005}Because you took so long... Mr. Tayama{F801}sent us instead...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Glaring man\0{F87A,46}{F813,0,135006}Y... You can't get in from the front.{F801}But under... the bench...{F801}{F802}{F813,0,135007}There's... a manhole... Open it...{F801}and a hidden pa...{F801}</source>
+    <target>{F812}Glaring man\0{F87A,46}{F813,0,135006}Y... You can't get in from the front.{F801}But under... the bench...{F801}{F802}{F813,0,135007}There's... a manhole... Open it...{F801}and a hidden pa...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 The glaring man collapsed with his{F801}eyes wide open...{F801}</source>
+    <target>〉 The glaring man collapsed with his{F801}eyes wide open...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>Head inside{F801}Head to the bench{F801}Leave{F801}</source>
+    <target>Head inside{F801}Head to the bench{F801}Leave{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 The gate is tightly closed.{F801}It doesn't seem like you can{F801}go any further...{F801}</source>
+    <target>〉 The gate is tightly closed.{F801}It doesn't seem like you can{F801}go any further...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 There is a manhole cover under{F801}the bench...{F801}{F802}〉 It seems tightly sealed.{F801}You don't think you can open it...{F801}</source>
+    <target>〉 There is a manhole cover under{F801}the bench...{F801}{F802}〉 It seems tightly sealed.{F801}You don't think you can open it...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Voice\0{F813,1,404301}{F87A,1}...Halt.{F801}</source>
+    <target>{F812}Voice\0{F813,1,404301}{F87A,1}...Halt.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404303}We have closed off that entrance.{F801}Not a single vile rat will survive.{F801}{F802}If you wish to meet Lady Yuriko,{F801}enter through the front gates.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404303}We have closed off that entrance.{F801}Not a single vile rat will survive.{F801}{F802}If you wish to meet Lady Yuriko,{F801}enter through the front gates.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 {F843,0} opens the manhole cover{F801}underneath the bench...{F801}{F802}〉 {F843,0} climbs down the ladder{F801}and enters Tsukiji Hongwanji.{F801}</source>
+    <target>〉 {F843,0} opens the manhole cover{F801}underneath the bench...{F801}{F802}〉 {F843,0} climbs down the ladder{F801}and enters Tsukiji Hongwanji.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>Head inside{F801}Head to the bench{F801}Leave{F801}</source>
+    <target>Head inside{F801}Head to the bench{F801}Leave{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 A man in the Ring of Gaea stands{F801}in the way...{F801}</source>
+    <target>〉 A man in the Ring of Gaea stands{F801}in the way...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Ring of Gaea member\0{F813,1,404311}{F87A,53}Ah, you have arrived. Welcome,{F801}brother. There is no need for{F801}explanation; I know why you are here.{F801}{F802}Lady Yuriko awaits your arrival.{F801}...Come with me.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F813,1,404311}{F87A,53}Ah, you have arrived. Welcome,{F801}brother. There is no need for{F801}explanation; I know why you are here.{F801}{F802}Lady Yuriko awaits your arrival.{F801}...Come with me.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 {F843,0} and Walter followed the{F801}man...{F801}</source>
+    <target>〉 {F843,0} and Walter followed the{F801}man...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>〉 {F843,0} and Walter were led to{F801}a room with two pillars.{F801}</source>
+    <target>〉 {F843,0} and Walter were led to{F801}a room with two pillars.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Voice\0{F813,1,404301}{F87A,1}...Halt.{F801}</source>
+    <target>{F812}Voice\0{F813,1,404301}{F87A,1}...Halt.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 A man in the Ring of Gaea stands{F801}in the way...{F801}</source>
+    <target>〉 A man in the Ring of Gaea stands{F801}in the way...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Ring of Gaea member\0{F87A,53}Lady Yuriko should have already{F801}told you that now is the time to{F801}release the gates to the Expanse...{F801}{F802}Now, my brother, you must go{F801}quickly to Camp Ichigaya...{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,53}Lady Yuriko should have already{F801}told you that now is the time to{F801}release the gates to the Expanse...{F801}{F802}Now, my brother, you must go{F801}quickly to Camp Ichigaya...{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400005}That bench over there... I see a hole{F801}under it. It seems to lead underground...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400005}That bench over there... I see a hole{F801}under it. It seems to lead underground...{F801}</target>
+  </entry>
+</mbm>

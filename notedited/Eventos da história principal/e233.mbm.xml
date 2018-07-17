@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}The White\0{F87A,75}{F813,0,233001}Our fifth son, who chose preservation...{F801}</source>
+    <target>{F812}The White\0{F87A,75}{F813,0,233001}Our fifth son, who chose preservation...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}The White\0{F87A,219}{F813,0,233002}...You still do not understand?{F801}</source>
+    <target>{F812}The White\0{F87A,219}{F813,0,233002}...You still do not understand?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,219}{F813,0,233003}Your will, which rejects our salvation,{F801}is the cause of your suffering...{F801}</source>
+    <target>{F812}The White\0{F87A,219}{F813,0,233003}Your will, which rejects our salvation,{F801}is the cause of your suffering...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}Man's will shall be the cause of{F801}our downfall in God's world?{F801}Preposterous.{F801}{F802}'Tis by my own will that I choose{F801}to preserve this world.{F801}{F802}Of course, it should be the same for{F801}you as well...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}Man's will shall be the cause of{F801}our downfall in God's world?{F801}Preposterous.{F801}{F802}'Tis by my own will that I choose{F801}to preserve this world.{F801}{F802}Of course, it should be the same for{F801}you as well...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}To give up on self-determination and{F801}openly invite destruction... It is an{F801}insult to the family I love.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}To give up on self-determination and{F801}openly invite destruction... It is an{F801}insult to the family I love.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}The White\0{F87A,219}{F813,0,233004}We will eliminate that will in{F801}preparation for the coming of a{F801}new Messiah.{F801}</source>
+    <target>{F812}The White\0{F87A,219}{F813,0,233004}We will eliminate that will in{F801}preparation for the coming of a{F801}new Messiah.{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>
