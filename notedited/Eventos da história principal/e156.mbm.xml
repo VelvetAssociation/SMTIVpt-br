@@ -1,0 +1,78 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Angel\0{F87A,91}{F87B,91,1,1,1}{F813,0,156011}I am the Herald Uriel.{F801}</source>
+    <target>{F812}Angel\0{F87A,91}{F87B,91,1,1,1}{F813,0,156011}I am the Herald Uriel.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Angel\0{F87A,90}{F87B,90,1,1,1}{F813,0,156012}And I am Raphael.{F801}</source>
+    <target>{F812}Angel\0{F87A,90}{F87B,90,1,1,1}{F813,0,156012}And I am Raphael.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Angel\0{F87A,89}{F87B,89,1,1,1}{F813,0,156013}I am Michael.{F801}</source>
+    <target>{F812}Angel\0{F87A,89}{F87B,89,1,1,1}{F813,0,156013}I am Michael.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Angel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156015}And I... I am not Gabby...{F801}{F802}{F813,0,156016}But in truth, the Herald Gabriel.{F801}</source>
+    <target>{F812}Angel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156015}And I... I am not Gabby...{F801}{F802}{F813,0,156016}But in truth, the Herald Gabriel.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156017}We four Heralds shall act as the new{F801}leaders of this kingdom.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156017}We four Heralds shall act as the new{F801}leaders of this kingdom.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,1}{F813,0,156018}The legendary angels are here before{F801}us... Is this a dream?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,1}{F813,0,156018}The legendary angels are here before{F801}us... Is this a dream?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156019}Under the order of our Lord, I have{F801}watched over humans living in this{F801}land as Gabby.{F801}{F802}{F813,0,156020}However... as time passed, the people{F801}of this kingdom became warped.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156019}Under the order of our Lord, I have{F801}watched over humans living in this{F801}land as Gabby.{F801}{F802}{F813,0,156020}However... as time passed, the people{F801}of this kingdom became warped.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156021}They speak the Lord's name in vain{F801}to trumpet their authority and{F801}manipulate the people to their will...{F801}{F802}{F813,0,156022}Our Lord is saddened by this state{F801}of affairs.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156021}They speak the Lord's name in vain{F801}to trumpet their authority and{F801}manipulate the people to their will...{F801}{F802}{F813,0,156022}Our Lord is saddened by this state{F801}of affairs.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156023}We have sifted through the humans here{F801}and once again cleansed the land of{F801}those who were found wanting.{F801}{F802}{F813,0,156024}Every human in this land was created{F801}by our Lord...{F801}{F802}{F813,0,156025}There is no life except by following{F801}His will.{F801}{F802}{F813,0,156026}The people of the new Eastern Kingdom{F801}of Mikado will pursue the true Way{F801}with us.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156023}We have sifted through the humans here{F801}and once again cleansed the land of{F801}those who were found wanting.{F801}{F802}{F813,0,156024}Every human in this land was created{F801}by our Lord...{F801}{F802}{F813,0,156025}There is no life except by following{F801}His will.{F801}{F802}{F813,0,156026}The people of the new Eastern Kingdom{F801}of Mikado will pursue the true Way{F801}with us.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F87B,4,3,1,1}{F813,0,156027}The true way... What could that be...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F87B,4,3,1,1}{F813,0,156027}The true way... What could that be...?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,156028}Lilith said something similar,{F801}didn't she?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,156028}Lilith said something similar,{F801}didn't she?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,156029}Oh, that's right... {F843,0}!{F801}{F802}{F813,0,156030}This would be an opportune time to{F801}tell them about Fujiwara...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,156029}Oh, that's right... {F843,0}!{F801}{F802}{F813,0,156030}This would be an opportune time to{F801}tell them about Fujiwara...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156031}You need not tell us.{F801}{F802}{F813,0,156032}You must not succumb to the temptation{F801}of Filth.{F801}{F802}{F813,0,156033}Those trapped in Tokyo are the tainted{F801}souls who were not chosen by our Lord.{F801}{F802}{F813,0,156034}They are forbidden to live in this land.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156031}You need not tell us.{F801}{F802}{F813,0,156032}You must not succumb to the temptation{F801}of Filth.{F801}{F802}{F813,0,156033}Those trapped in Tokyo are the tainted{F801}souls who were not chosen by our Lord.{F801}{F802}{F813,0,156034}They are forbidden to live in this land.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156035}If they attempt to enter this kingdom,{F801}then we shall once again eliminate them.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,88}{F87B,88,1,1,1}{F813,0,156035}If they attempt to enter this kingdom,{F801}then we shall once again eliminate them.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F87B,5,7,1,1}{F813,0,156036}What do you mean by "eliminate"!?{F801}Surely you jest!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F87B,5,7,1,1}{F813,0,156036}What do you mean by "eliminate"!?{F801}Surely you jest!{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,156037}Stop it, Walter.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,156037}Stop it, Walter.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Gabriel\0{F87A,88}{F813,0,156038}I shall repeat myself.{F801}{F802}{F813,0,156039}For the sake of rebuilding the Eastern{F801}Kingdom of Mikado, kill the Black{F801}Samurai.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,88}{F813,0,156038}I shall repeat myself.{F801}{F802}{F813,0,156039}For the sake of rebuilding the Eastern{F801}Kingdom of Mikado, kill the Black{F801}Samurai.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Gabriel\0{F87A,88}{F813,0,156040}That is all you need concern yourself{F801}with.{F801}</source>
+    <target>{F812}Gabriel\0{F87A,88}{F813,0,156040}That is all you need concern yourself{F801}with.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Michael\0{F87A,89}{F87B,89,1,1,1}{F813,0,156014}Your deed at Shinjuku National Park{F801}was a grand accomplishment.{F801}</source>
+    <target>{F812}Michael\0{F87A,89}{F87B,89,1,1,1}{F813,0,156014}Your deed at Shinjuku National Park{F801}was a grand accomplishment.{F801}</target>
+  </entry>
+</mbm>

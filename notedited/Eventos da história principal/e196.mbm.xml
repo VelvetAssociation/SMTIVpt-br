@@ -1,0 +1,134 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Kiyoharu\0{F87A,83}{F87B,83,4,1,1}{F813,0,196002}Oh, look! It's them.{F801}{F802}{F813,0,196003}These are the Messiahs I summoned.{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F87B,83,4,1,1}{F813,0,196002}Oh, look! It's them.{F801}{F802}{F813,0,196003}These are the Messiahs I summoned.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F87B,4,10,1,1}{F813,0,196004}"Messiahs"? We are...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F87B,4,10,1,1}{F813,0,196004}"Messiahs"? We are...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,1,1,1}{F813,0,196005}I see... They've actually come.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,1,1,1}{F813,0,196005}I see... They've actually come.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Kiyoharu\0{F87A,83}{F87B,83,4,1,1}{F813,0,196007}It's been... let's see... 25 years,{F801}hee hee.{F801}{F802}{F813,0,196008}I'm sure glad I prayed all that time!{F801}Now Pluto the Tormentor is done for!{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F87B,83,4,1,1}{F813,0,196007}It's been... let's see... 25 years,{F801}hee hee.{F801}{F802}{F813,0,196008}I'm sure glad I prayed all that time!{F801}Now Pluto the Tormentor is done for!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196009}I'm sure the partner who fought{F801}alongside you is smiling in heaven.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196009}I'm sure the partner who fought{F801}alongside you is smiling in heaven.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Kiyoharu\0{F87A,83}{F87B,83,4,1,1}{F813,0,196010}That's right! I can't just be standing{F801}around! I need to thank God for this.{F801}{F802}{F813,0,196011}Oh, Akira, you can entertain our{F801}Messiah guests!{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F87B,83,4,1,1}{F813,0,196010}That's right! I can't just be standing{F801}around! I need to thank God for this.{F801}{F802}{F813,0,196011}Oh, Akira, you can entertain our{F801}Messiah guests!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Kiyoharu walked away.{F801}</source>
+    <target>〉 Kiyoharu walked away.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196012}...Ha.{F801}{F802}{F813,0,196013}I don't blame you for that blank look{F801}on your faces.{F801}{F802}{F813,0,196014}But you don't need to worry. We're not{F801}your enemies.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196012}...Ha.{F801}{F802}{F813,0,196013}I don't blame you for that blank look{F801}on your faces.{F801}{F802}{F813,0,196014}But you don't need to worry. We're not{F801}your enemies.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,196015}What do you mean?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,196015}What do you mean?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196016}...I had a dream of a white space.{F801}{F802}{F813,0,196017}In it, people who called themselves{F801}The White told me that you would be{F801}coming here...{F801}{F802}{F813,0,196018}From another world, the Eastern{F801}Kingdom of Mikado...{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196016}...I had a dream of a white space.{F801}{F802}{F813,0,196017}In it, people who called themselves{F801}The White told me that you would be{F801}coming here...{F801}{F802}{F813,0,196018}From another world, the Eastern{F801}Kingdom of Mikado...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,196019}Another world...?{F801}{F802}{F813,0,196020}Then this is the Tokyo of another{F801}world?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,196019}Another world...?{F801}{F802}{F813,0,196020}Then this is the Tokyo of another{F801}world?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196021}At first, I thought it was just a{F801}strange dream.{F801}{F802}{F87B,84,1,1,1}{F813,0,196022}But when I woke up, I was holding this.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196021}At first, I thought it was just a{F801}strange dream.{F801}{F802}{F87B,84,1,1,1}{F813,0,196022}But when I woke up, I was holding this.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 Akira showed {F843,0} and his{F801}fellow Samurai a remote.{F801}</source>
+    <target>〉 Akira showed {F843,0} and his{F801}fellow Samurai a remote.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,7,1,2}{F87B,3,7,1,2}{F813,0,196023}That's the activation device for the{F801}Yamato Reactor!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,7,1,2}{F87B,3,7,1,2}{F813,0,196023}That's the activation device for the{F801}Yamato Reactor!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196024}The White said you would be after this.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196024}The White said you would be after this.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196026}I don't know what the White are up to.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196026}I don't know what the White are up to.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196027}But whatever it is, we won't last much{F801}longer with Pluto's poison.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196027}But whatever it is, we won't last much{F801}longer with Pluto's poison.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196028}Though actually meeting you makes me{F801}want to bet on your potential.{F801}{F802}{F813,0,196029}If you're the Messiahs that Kiyoharu{F801}thinks you are, then I want you to{F801}get rid of Pluto the Tormentor.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196028}Though actually meeting you makes me{F801}want to bet on your potential.{F801}{F802}{F813,0,196029}If you're the Messiahs that Kiyoharu{F801}thinks you are, then I want you to{F801}get rid of Pluto the Tormentor.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196030}This remote will be your reward.{F801}Will you do it...?{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196030}This remote will be your reward.{F801}Will you do it...?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>Accept the request{F801}Decline the request{F801}</source>
+    <target>Accept the request{F801}Decline the request{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196031}I'm glad to hear that.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196031}I'm glad to hear that.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,1,1,1}{F813,0,196032}The Tormentor is in Pluto Castle to{F801}the southeast.{F801}{F802}{F813,0,196033}You'll run into Pluto's forces on the{F801}way. I'll give you their data.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,1,1,1}{F813,0,196032}The Tormentor is in Pluto Castle to{F801}the southeast.{F801}{F802}{F813,0,196033}You'll run into Pluto's forces on the{F801}way. I'll give you their data.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 Akira pulls a Demonica from his bag{F801}and transmits the data.{F801}</source>
+    <target>〉 Akira pulls a Demonica from his bag{F801}and transmits the data.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,1,1,1}{F813,0,196036}It's a keepsake from a friend who{F801}tried to storm Pluto Castle. I'm sure{F801}he would have wanted to help...{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,1,1,1}{F813,0,196036}It's a keepsake from a friend who{F801}tried to storm Pluto Castle. I'm sure{F801}he would have wanted to help...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196037}Please give us light. We who believe{F801}in God, yet were not chosen by Him...{F801}{F802}{F813,0,196038}Take care of Pluto for us.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196037}Please give us light. We who believe{F801}in God, yet were not chosen by Him...{F801}{F802}{F813,0,196038}Take care of Pluto for us.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,1,1,1}{F813,0,196040}I see...{F801}{F802}{F813,0,196041}I'll be here. Come back if you change{F801}your mind.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,1,1,1}{F813,0,196040}I see...{F801}{F802}{F813,0,196041}I'll be here. Come back if you change{F801}your mind.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,8,1,1}{F87B,4,10,1,1}{F813,0,196001}Blech... Refuse everywhere...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,8,1,1}{F87B,4,10,1,1}{F813,0,196001}Blech... Refuse everywhere...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196006}You truly did well, Kiyoharu.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196006}You truly did well, Kiyoharu.{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F87B,4,3,1,1}{F813,0,196025}Are they implying we must open the{F801}gate to the Expanse again...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F87B,4,3,1,1}{F813,0,196025}Are they implying we must open the{F801}gate to the Expanse again...?{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,196034}Master {F843,0}, I got the geographic{F801}data for this Tokyo.{F801}{F802}{F813,0,196035}The map functions are available now.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,196034}Master {F843,0}, I got the geographic{F801}data for this Tokyo.{F801}{F802}{F813,0,196035}The map functions are available now.{F801}</target>
+  </entry>
+  <entry id="124">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196042}...You're back.{F801}{F802}{F813,0,196043}If you're the Messiahs that Kiyoharu{F801}thinks you are, then I want you to{F801}get rid of Pluto the Tormentor.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,196042}...You're back.{F801}{F802}{F813,0,196043}If you're the Messiahs that Kiyoharu{F801}thinks you are, then I want you to{F801}get rid of Pluto the Tormentor.{F801}</target>
+  </entry>
+  <entry id="127">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196044}This remote will be your reward.{F801}Will you do it...?{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,196044}This remote will be your reward.{F801}Will you do it...?{F801}</target>
+  </entry>
+</mbm>

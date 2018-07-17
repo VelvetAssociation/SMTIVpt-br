@@ -1,0 +1,206 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Smiling boy\0{F87A,71}{F813,0,174001}I'm going to study hard and make{F801}Tokyo great...{F801}</source>
+    <target>{F812}Smiling boy\0{F87A,71}{F813,0,174001}I'm going to study hard and make{F801}Tokyo great...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Smiling girl\0{F87A,72}{F813,0,174002}There are so many books and movies{F801}here. It's like a wonderland.{F801}</source>
+    <target>{F812}Smiling girl\0{F87A,72}{F813,0,174002}There are so many books and movies{F801}here. It's like a wonderland.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,174003}{F87B,3,3,1,1}They're still here...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,174003}{F87B,3,3,1,1}They're still here...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,174004}{F87B,3,3,1,1}......{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,174004}{F87B,3,3,1,1}......{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,174005}{F87B,3,12,1,1}It is within our power now to release{F801}these children.{F801}{F802}{F813,0,174006}But that is akin to robbing them of{F801}their peaceful lives and thrusting{F801}them into a cruel world...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,174005}{F87B,3,12,1,1}It is within our power now to release{F801}these children.{F801}{F802}{F813,0,174006}But that is akin to robbing them of{F801}their peaceful lives and thrusting{F801}them into a cruel world...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,174007}{F87B,3,10,1,1}...Perhaps it is best for them, in the{F801}end, that they live out the rest of{F801}their lives here.{F801}{F802}{F87B,3,6,1,1}{F813,0,174008}What say you, {F843,0}? Should we{F801}release them...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,174007}{F87B,3,10,1,1}...Perhaps it is best for them, in the{F801}end, that they live out the rest of{F801}their lives here.{F801}{F802}{F87B,3,6,1,1}{F813,0,174008}What say you, {F843,0}? Should we{F801}release them...?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"We'll release them."{F801}"Let them be."{F801}</source>
+    <target>"We'll release them."{F801}"Let them be."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,174009}{F87B,3,3,1,1}I see...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,174009}{F87B,3,3,1,1}I see...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,174010}{F87B,3,12,1,1}Then let us release them forthwith.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,174010}{F87B,3,12,1,1}Then let us release them forthwith.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,174015}...I agree.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,174015}...I agree.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,174016}I pray that their happiness lasts as{F801}long as it can.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,174016}I pray that their happiness lasts as{F801}long as it can.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,174011}{F87B,3,4,1,1}All is well, children... We've come{F801}to rescue you.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,174011}{F87B,3,4,1,1}All is well, children... We've come{F801}to rescue you.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Smiling boy\0{F87A,71}{F813,0,174012}......{F801}</source>
+    <target>{F812}Smiling boy\0{F87A,71}{F813,0,174012}......{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Smiling girl\0{F87A,72}{F813,0,174013}......{F801}</source>
+    <target>{F812}Smiling girl\0{F87A,72}{F813,0,174013}......{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,174014}{F87B,3,1,1,1}What's wrong? Come, step outside.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,174014}{F87B,3,1,1,1}What's wrong? Come, step outside.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 The smiling boy and girl looked back{F801}and forth several times before leaving{F801}the room.{F801}</source>
+    <target>〉 The smiling boy and girl looked back{F801}and forth several times before leaving{F801}the room.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Walter\0{F87A,4}{F813,0,174017}{F87B,4,3,1,1}These children are still here...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,174017}{F87B,4,3,1,1}These children are still here...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Walter\0{F87A,4}{F813,0,174018}{F87B,4,3,1,1}......{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,174018}{F87B,4,3,1,1}......{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Walter\0{F87A,4}{F813,0,174019}{F87B,4,3,1,1}With all the demons outside, this may{F801}indeed be the best place for them.{F801}{F802}{F813,0,174020}But then, one cannot grow strong if{F801}one is pampered and coddled.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,174019}{F87B,4,3,1,1}With all the demons outside, this may{F801}indeed be the best place for them.{F801}{F802}{F813,0,174020}But then, one cannot grow strong if{F801}one is pampered and coddled.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Walter\0{F87A,4}{F813,0,174021}{F87B,4,3,1,1}I think removing them from this place,{F801}by force if necessary, would be the{F801}best thing for their futures.{F801}{F802}{F87B,4,12,1,1}{F813,0,174022}You are in agreement, right,{F801}{F843,0}...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,174021}{F87B,4,3,1,1}I think removing them from this place,{F801}by force if necessary, would be the{F801}best thing for their futures.{F801}{F802}{F87B,4,12,1,1}{F813,0,174022}You are in agreement, right,{F801}{F843,0}...?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>"Of course."{F801}"Not this time."{F801}</source>
+    <target>"Of course."{F801}"Not this time."{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Walter\0{F87A,4}{F813,0,174023}{F87B,4,12,1,1}I knew that you would be.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,174023}{F87B,4,12,1,1}I knew that you would be.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Walter\0{F87A,4}{F813,0,174028}{F87B,4,3,1,1}I see...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,174028}{F87B,4,3,1,1}I see...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Walter\0{F87A,4}{F813,0,174029}{F87B,4,3,1,1}I expect you think you're being kind,{F801}but you're merely turning a blind eye.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,174029}{F87B,4,3,1,1}I expect you think you're being kind,{F801}but you're merely turning a blind eye.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Walter\0{F87A,4}{F813,0,174024}{F87B,4,12,1,1}Hoy, we're setting you free. Today{F801}is the day of your liberation!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,174024}{F87B,4,12,1,1}Hoy, we're setting you free. Today{F801}is the day of your liberation!{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Smiling boy\0{F87A,71}{F813,0,174025}......{F801}</source>
+    <target>{F812}Smiling boy\0{F87A,71}{F813,0,174025}......{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Smiling girl\0{F87A,72}{F813,0,174026}......{F801}</source>
+    <target>{F812}Smiling girl\0{F87A,72}{F813,0,174026}......{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Walter\0{F87A,4}{F813,0,174027}{F87B,4,12,1,1}Don't give in, children... not to{F801}demons, not to yourselves...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,174027}{F87B,4,12,1,1}Don't give in, children... not to{F801}demons, not to yourselves...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>〉 The smiling boy and girl looked back{F801}and forth several times before leaving{F801}the room.{F801}</source>
+    <target>〉 The smiling boy and girl looked back{F801}and forth several times before leaving{F801}the room.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 Walter looked at the children{F801}bitterly...{F801}</source>
+    <target>〉 Walter looked at the children{F801}bitterly...{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,174030}{F87B,5,10,1,1}The children are still here...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,174030}{F87B,5,10,1,1}The children are still here...{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}......{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}......{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,174032}{F87B,5,3,1,1}We may set them free now, if we wish.{F801}{F802}{F813,0,174033}But doing so will only force them to{F801}fight for their lives in a pitiless{F801}world...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,174032}{F87B,5,3,1,1}We may set them free now, if we wish.{F801}{F802}{F813,0,174033}But doing so will only force them to{F801}fight for their lives in a pitiless{F801}world...{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,174034}{F87B,5,3,1,1}Perhaps they would ultimately be{F801}happier here.{F801}{F802}{F87B,5,10,1,1}{F813,0,174035}What is your opinion, {F843,0}?{F801}Shall we free these children?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,174034}{F87B,5,3,1,1}Perhaps they would ultimately be{F801}happier here.{F801}{F802}{F87B,5,10,1,1}{F813,0,174035}What is your opinion, {F843,0}?{F801}Shall we free these children?{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>"We'll release them."{F801}"Let them be."{F801}</source>
+    <target>"We'll release them."{F801}"Let them be."{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,174036}{F87B,5,10,1,1}I see...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,174036}{F87B,5,10,1,1}I see...{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,174037}{F87B,5,10,1,1}If that is your decision, I will abide{F801}by it.{F801}{F802}{F813,0,174038}Let us release them.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,174037}{F87B,5,10,1,1}If that is your decision, I will abide{F801}by it.{F801}{F802}{F813,0,174038}Let us release them.{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Isabeau\0{F87A,5}</source>
+    <target>{F812}Isabeau\0{F87A,5}</target>
+  </entry>
+  <entry id="38">
+    <source>〉 Isabeau knelt down to talk to the{F801}children.{F801}</source>
+    <target>〉 Isabeau knelt down to talk to the{F801}children.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,174043}{F87B,5,4,1,1}You be nice to others, all right?{F801}And stay out of harm's way.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,174043}{F87B,5,4,1,1}You be nice to others, all right?{F801}And stay out of harm's way.{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,174039}{F87B,5,1,1,1}You may come out now... You are free.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,174039}{F87B,5,1,1,1}You may come out now... You are free.{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Smiling boy\0{F87A,71}{F813,0,174040}......{F801}</source>
+    <target>{F812}Smiling boy\0{F87A,71}{F813,0,174040}......{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Smiling girl\0{F87A,72}{F813,0,174041}......{F801}</source>
+    <target>{F812}Smiling girl\0{F87A,72}{F813,0,174041}......{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,174042}{F87B,5,4,1,1}Hold hands so that you don't get lost.{F801}You must look after one another, do{F801}you understand?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,174042}{F87B,5,4,1,1}Hold hands so that you don't get lost.{F801}You must look after one another, do{F801}you understand?{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>〉 The smiling boy and girl looked back{F801}and forth several times before leaving{F801}the room.{F801}</source>
+    <target>〉 The smiling boy and girl looked back{F801}and forth several times before leaving{F801}the room.{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>〉 The smiling boy and girl are no longer{F801}here...{F801}</source>
+    <target>〉 The smiling boy and girl are no longer{F801}here...{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Smiling boy\0{F87A,71}{F813,0,174012}......{F801}</source>
+    <target>{F812}Smiling boy\0{F87A,71}{F813,0,174012}......{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>{F812}Smiling girl\0{F87A,72}{F813,0,174013}......{F801}</source>
+    <target>{F812}Smiling girl\0{F87A,72}{F813,0,174013}......{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>〉 The smiling boy and girl are staring{F801}into space...{F801}</source>
+    <target>〉 The smiling boy and girl are staring{F801}into space...{F801}</target>
+  </entry>
+  <entry id="137">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,174036}{F87B,5,10,1,1}I see...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,174036}{F87B,5,10,1,1}I see...{F801}</target>
+  </entry>
+  <entry id="237">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,174037}{F87B,5,10,1,1}If that is your decision, I will abide{F801}by it.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,174037}{F87B,5,10,1,1}If that is your decision, I will abide{F801}by it.{F801}</target>
+  </entry>
+</mbm>

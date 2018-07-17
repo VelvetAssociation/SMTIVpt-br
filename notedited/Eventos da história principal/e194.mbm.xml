@@ -1,0 +1,70 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A group of armed men stand in{F801}your way...{F801}</source>
+    <target>〉 A group of armed men stand in{F801}your way...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Armed man\0{F87A,99}{F813,0,194003}Who are you? How can you be outside?{F801}</source>
+    <target>{F812}Armed man\0{F87A,99}{F813,0,194003}Who are you? How can you be outside?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F813,0,194004}...Come again?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,194004}...Come again?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>"Kill them before they kill us."{F801}"Let's wait and see..."{F801}</source>
+    <target>"Kill them before they kill us."{F801}"Let's wait and see..."{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,194009}Hold, you two.{F801}{F802}{F813,0,194010}Let's wait and see. Better to know{F801}our situation in full before reacting.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,194009}Hold, you two.{F801}{F802}{F813,0,194010}Let's wait and see. Better to know{F801}our situation in full before reacting.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,194011}Agreed.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,194011}Agreed.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,194012}Let's wait and see. Right now, they're{F801}our only source of information.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,194012}Let's wait and see. Right now, they're{F801}our only source of information.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}You have a point... Very well.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}You have a point... Very well.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Armed man\0{F87A,99}{F813,0,194014}K...Kiyoharu! Call Kiyoharu!{F801}{F802}{F813,0,194015}You three, come with us!{F801}</source>
+    <target>{F812}Armed man\0{F87A,99}{F813,0,194014}K...Kiyoharu! Call Kiyoharu!{F801}{F802}{F813,0,194015}You three, come with us!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The group of armed men escorted{F801}{F843,0} and his fellow Samurai{F801}inside...{F801}</source>
+    <target>〉 The group of armed men escorted{F801}{F843,0} and his fellow Samurai{F801}inside...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>ダミーです{F801}住民に話しかけるが逃げらます{F801}</source>
+    <target>ダミーです{F801}住民に話しかけるが逃げらます{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,194001}Ah...! At last, someone we can talk to.{F801}{F802}{F87B,4,1,1,1}{F813,0,194002}Hoy, you lot. There's something we'd{F801}like to ask you...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,194001}Ah...! At last, someone we can talk to.{F801}{F802}{F87B,4,1,1,1}{F813,0,194002}Hoy, you lot. There's something we'd{F801}like to ask you...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,194005}Have a care, Walter. They're acting{F801}strangely...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,194005}Have a care, Walter. They're acting{F801}strangely...{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Armed man\0{F87A,99}{F813,0,194013}Huh...? That thing on your arm...!{F801}</source>
+    <target>{F812}Armed man\0{F87A,99}{F813,0,194013}Huh...? That thing on your arm...!{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Armed man\0{F87A,99}{F813,0,194006}Th-These must be Pluto's henchmen...!{F801}</source>
+    <target>{F812}Armed man\0{F87A,99}{F813,0,194006}Th-These must be Pluto's henchmen...!{F801}</target>
+  </entry>
+  <entry id="303">
+    <source>〉 The group of armed men pointed their{F801}weapons at you.{F801}</source>
+    <target>〉 The group of armed men pointed their{F801}weapons at you.{F801}</target>
+  </entry>
+  <entry id="403">
+    <source>{F812}Walter\0{F87A,4}{F813,0,194007}...This bodes ill.{F801}{F802}{F813,0,194008}Hoy, what do you think? We could be{F801}in danger...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,194007}...This bodes ill.{F801}{F802}{F813,0,194008}Hoy, what do you think? We could be{F801}in danger...{F801}</target>
+  </entry>
+</mbm>

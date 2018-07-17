@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Woman's voice\0{F813,0,161001}Halt!{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,161001}Halt!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,0,161002}You flies who hound Lady Yuriko's{F801}steps will go no further!{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,0,161002}You flies who hound Lady Yuriko's{F801}steps will go no further!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,0,161003}Do you not want the knowledge and{F801}wisdom your ruler has kept from you?{F801}{F802}{F813,0,161004}But I suppose an insect could never{F801}understand...{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,0,161003}Do you not want the knowledge and{F801}wisdom your ruler has kept from you?{F801}{F802}{F813,0,161004}But I suppose an insect could never{F801}understand...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,0,161005}I can do anything for the sake of{F801}Lady Yuriko... Such as crushing a{F801}pair of flies.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,0,161005}I can do anything for the sake of{F801}Lady Yuriko... Such as crushing a{F801}pair of flies.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,161006}This cowardice is unbecoming of you,{F801}Lilith! Where are you hiding...!?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,161006}This cowardice is unbecoming of you,{F801}Lilith! Where are you hiding...!?{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F87A,47}{F813,0,180001}Hold up there.{F801}</source>
+    <target>{F812}Voice\0{F87A,47}{F813,0,180001}Hold up there.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Ashura-kai man\0{F87A,137}{F813,0,180002}I ain't lettin' you past here.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,137}{F813,0,180002}I ain't lettin' you past here.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F813,0,180003}This is no time for heroics. If you{F801}don't want to die, stand clear.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,180003}This is no time for heroics. If you{F801}don't want to die, stand clear.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Ashura-kai man\0{F87A,137}{F813,0,180004}Don't press your luck, loser. You'll{F801}shit your pants when you see my demon.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,137}{F813,0,180004}Don't press your luck, loser. You'll{F801}shit your pants when you see my demon.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Ashura-kai man\0{F87A,137}{F813,0,180005}E-Even a fearsome National Defense{F801}Divinity couldn't stop them...!?{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,137}{F813,0,180005}E-Even a fearsome National Defense{F801}Divinity couldn't stop them...!?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Ashura-kai man\0{F87A,137}{F813,0,180006}M... M-M... Mr. Tayamaaaaaa...!{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,137}{F813,0,180006}M... M-M... Mr. Tayamaaaaaa...!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 The Ashura-kai man ran away...{F801}</source>
+    <target>〉 The Ashura-kai man ran away...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,180007}See how he flees... These ruffians{F801}never seem to change.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,180007}See how he flees... These ruffians{F801}never seem to change.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Ryoja's Scales started to shine in your hand...{F801}</source>
+    <target>〉 Ryoja's Scales started to shine in your hand...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Voice\0{F87A,2}{F813,1,452004}I am the Dragon Koga Saburo, one of the{F801}fierce National Defense Divinities.{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,452004}I am the Dragon Koga Saburo, one of the{F801}fierce National Defense Divinities.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Koga Saburo\0{F87A,2}{F813,1,452003}It matters not who you are. If you{F801}hold my medium, then you are my master.{F801}{F802}{F813,1,452010}I am honored to meet you.{F801}</source>
+    <target>{F812}Koga Saburo\0{F87A,2}{F813,1,452003}It matters not who you are. If you{F801}hold my medium, then you are my master.{F801}{F802}{F813,1,452010}I am honored to meet you.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 You can now fuse{F801}{F874,388} {F842,388}.{F801}</source>
+    <target>〉 You can now fuse{F801}{F874,388} {F842,388}.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 An unfriendly man is standing here...{F801}</source>
+    <target>〉 An unfriendly man is standing here...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,1,403213}Y-You're...! What's Koga Saburo doing!?{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,1,403213}Y-You're...! What's Koga Saburo doing!?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}{F813,1,400203}If you're going to run, do so now.{F801}We won't stop you.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,400203}If you're going to run, do so now.{F801}We won't stop you.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,1,403012}Y-You don't need to tell me twice.{F801}My job ain't to fight you.{F801}{F802}I'm only supposed to escort Mr. Tayama{F801}to Yamato... What happens after that{F801}ain't my problem.{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,1,403012}Y-You don't need to tell me twice.{F801}My job ain't to fight you.{F801}{F802}I'm only supposed to escort Mr. Tayama{F801}to Yamato... What happens after that{F801}ain't my problem.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Unfriendly man\0{F87A,46}I'll let that divinity deal with ya...{F801}Go and die if ya want!{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}I'll let that divinity deal with ya...{F801}Go and die if ya want!{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 The unfriendly man quickly ran off...{F801}</source>
+    <target>〉 The unfriendly man quickly ran off...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>〉 The demon turned to stone...{F801}</source>
+    <target>〉 The demon turned to stone...{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>〉 A voice emanates from the stone in{F801}front of you...{F801}</source>
+    <target>〉 A voice emanates from the stone in{F801}front of you...{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>〉 The stone that was once Koga Saburo{F801}sits in front of you...{F801}</source>
+    <target>〉 The stone that was once Koga Saburo{F801}sits in front of you...{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>〉 Koga Saburo is no longer here...{F801}</source>
+    <target>〉 Koga Saburo is no longer here...{F801}</target>
+  </entry>
+</mbm>

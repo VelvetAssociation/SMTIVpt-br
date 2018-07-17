@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F813,0,192001}What in the devil...!?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,192001}What in the devil...!?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Jonathan and Walter stood there,{F801}devastated...{F801}</source>
+    <target>〉 Jonathan and Walter stood there,{F801}devastated...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,192003}Ah, {F843,0}... We stepped outside{F801}to find this.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,192003}Ah, {F843,0}... We stepped outside{F801}to find this.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}We stepped outside to find this.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}We stepped outside to find this.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,192004}What's happened to Lilith...? To Tokyo?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,192004}What's happened to Lilith...? To Tokyo?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,192005}The layer of bedrock that covered{F801}Tokyo is gone...{F801}{F802}{F813,0,192006}Our homeland... What has become of{F801}the Eastern Kingdom of Mikado?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,192005}The layer of bedrock that covered{F801}Tokyo is gone...{F801}{F802}{F813,0,192006}Our homeland... What has become of{F801}the Eastern Kingdom of Mikado?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Walter\0{F87A,4}]We are met with one wave of madness{F801}after another.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}]We are met with one wave of madness{F801}after another.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,192007}We're in Tokyo, yes? Is this place{F801}truly Tokyo...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,192007}We're in Tokyo, yes? Is this place{F801}truly Tokyo...?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,192008}Would you please refrain from asking{F801}me that?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,192008}Would you please refrain from asking{F801}me that?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,6,1,1}{F813,0,192009}I should like to find someone who{F801}does know what the truth of this.{F801}{F802}{F813,0,192010}Assuming anyone does, that is...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,6,1,1}{F813,0,192009}I should like to find someone who{F801}does know what the truth of this.{F801}{F802}{F813,0,192010}Assuming anyone does, that is...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 Jonathan and Walter joined you.{F801}</source>
+    <target>〉 Jonathan and Walter joined you.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,192002}The city is gone...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,192002}The city is gone...{F801}</target>
+  </entry>
+</mbm>

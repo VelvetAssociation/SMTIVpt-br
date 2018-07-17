@@ -1,0 +1,74 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,204001}Here it is...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,204001}Here it is...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,204002}How can I forget? The Yamato Reactor.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,204002}How can I forget? The Yamato Reactor.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F813,0,204003}It's present in this Tokyo as well,{F801}eh...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,204003}It's present in this Tokyo as well,{F801}eh...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,204004}......{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,204004}......{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,204005}We found ourselves in this world after{F801}Yamato was activated...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,204005}We found ourselves in this world after{F801}Yamato was activated...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Jonathan walked up to the Yamato{F801}Reactor...{F801}</source>
+    <target>〉 Jonathan walked up to the Yamato{F801}Reactor...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,204006}...You press the switch, {F843,0}.{F801}{F802}{F813,0,204007}It seems we are fated to do this.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,204006}...You press the switch, {F843,0}.{F801}{F802}{F813,0,204007}It seems we are fated to do this.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>Press the button{F801}Don't press the button{F801}</source>
+    <target>Press the button{F801}Don't press the button{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}I appreciate it...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}I appreciate it...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}I'm ready. Go ahead.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}I'm ready. Go ahead.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 {F843,0} pushed the button...{F801}</source>
+    <target>〉 {F843,0} pushed the button...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}What's wrong, {F843,0}?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}What's wrong, {F843,0}?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,204009}If there is something you need to do{F801}beforehand, we'll do it with you.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,204009}If there is something you need to do{F801}beforehand, we'll do it with you.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 Jonathan walked up to the Yamato{F801}Reactor...{F801}</source>
+    <target>〉 Jonathan walked up to the Yamato{F801}Reactor...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,204006}...You press the switch, {F843,0}.{F801}{F802}{F813,0,204007}It seems we are fated to do this.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,204006}...You press the switch, {F843,0}.{F801}{F802}{F813,0,204007}It seems we are fated to do this.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>カットÁニメです{F801}魔界ゲートが開かれます{F801}</source>
+    <target>カットÁニメです{F801}魔界ゲートが開かれます{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Walter\0{F87A,4}{F813,0,204008}I'm ready. Go ahead.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,204008}I'm ready. Go ahead.{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>〉 Surprised by the sudden sound,{F801}{F843,0} dropped the remote...{F801}</source>
+    <target>〉 Surprised by the sudden sound,{F801}{F843,0} dropped the remote...{F801}</target>
+  </entry>
+</mbm>

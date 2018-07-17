@@ -1,0 +1,114 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-641}{F813,0,167001}......{F801}</source>
+    <target>{F812}Demon\0{F87A,-641}{F813,0,167001}......{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,167002}A demon...!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,167002}A demon...!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-641}{F813,0,167003}*pant* *pant*{F801}</source>
+    <target>{F812}Demon\0{F87A,-641}{F813,0,167003}*pant* *pant*{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,1}{F813,0,167004}He's covered in wounds...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,1}{F813,0,167004}He's covered in wounds...?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon\0{F87A,-641}{F813,0,167005}Hah... Ha... hahaha...{F801}{F802}{F813,0,167006}That Tayama... A pitiful man who{F801}thought himself the King of Tokyo...{F801}{F802}{F813,0,167007}His wretched end is fitting...{F801}</source>
+    <target>{F812}Demon\0{F87A,-641}{F813,0,167005}Hah... Ha... hahaha...{F801}{F802}{F813,0,167006}That Tayama... A pitiful man who{F801}thought himself the King of Tokyo...{F801}{F802}{F813,0,167007}His wretched end is fitting...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The demon turned to stone...{F801}</source>
+    <target>〉 The demon turned to stone...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,167008}...Hoy.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,167008}...Hoy.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,167009}Your presence here means that Lilith{F801}was not all she made herself out to be.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,167009}Your presence here means that Lilith{F801}was not all she made herself out to be.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,167010}Walter, what are you doing here!?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,167010}Walter, what are you doing here!?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,167011}You came at the perfect time. I was{F801}about to open the gate to the Expanse.{F801}{F802}{F813,0,167012}Evidently, this Yamato Reactor can{F801}link our world to the Expanse.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,167011}You came at the perfect time. I was{F801}about to open the gate to the Expanse.{F801}{F802}{F813,0,167012}Evidently, this Yamato Reactor can{F801}link our world to the Expanse.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167013}...Lilith taught me that.{F801}{F802}{F813,0,167014}I will summon demons, the incarnations{F801}of human desire, to this world.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167013}...Lilith taught me that.{F801}{F802}{F813,0,167014}I will summon demons, the incarnations{F801}of human desire, to this world.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167015}Tayama thought to stop me, so I blasted{F801}him along with his demons.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167015}Tayama thought to stop me, so I blasted{F801}him along with his demons.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167016}When demons run amok over this world,{F801}human laws will lose their hold.{F801}{F802}{F813,0,167017}In the new world, only the survivors--{F801}the strongest of all--can shape it{F801}as they see fit.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167016}When demons run amok over this world,{F801}human laws will lose their hold.{F801}{F802}{F813,0,167017}In the new world, only the survivors--{F801}the strongest of all--can shape it{F801}as they see fit.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167018}That's the world I long to see.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167018}That's the world I long to see.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,1}{F813,0,167019}But that is horrifying...!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,1}{F813,0,167019}But that is horrifying...!{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,167020}'Tis an error, Nicholas Maragos.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,167020}'Tis an error, Nicholas Maragos.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,167020}It will cease to matter what family{F801}one is born into. Only the powerful{F801}will be respected...{F801}{F802}{F813,0,167021}That will be the new way of the{F801}Eastern Kingdom of Mikado.{F801}{F802}{F813,0,167022}In this kingdom, there will be no one{F801}who suffers as Issachar did.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,167020}It will cease to matter what family{F801}one is born into. Only the powerful{F801}will be respected...{F801}{F802}{F813,0,167021}That will be the new way of the{F801}Eastern Kingdom of Mikado.{F801}{F802}{F813,0,167022}In this kingdom, there will be no one{F801}who suffers as Issachar did.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167023}You mark me, yes, {F843,0}?{F801}As another Casualry.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167023}You mark me, yes, {F843,0}?{F801}As another Casualry.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>"Completely."{F801}"Do not speak for me."{F801}</source>
+    <target>"Completely."{F801}"Do not speak for me."{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,167024}{F843,0}... What are you saying!?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,167024}{F843,0}... What are you saying!?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167025}Jonathan, this is reality.{F801}{F802}{F87B,4,6,1,1}{F813,0,167026}It may be hard for one who has had{F801}such a comfortable life to grasp...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167025}Jonathan, this is reality.{F801}{F802}{F87B,4,6,1,1}{F813,0,167026}It may be hard for one who has had{F801}such a comfortable life to grasp...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,167027}...I thought that you would understand.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,167027}...I thought that you would understand.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,167028}......{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,167028}......{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 Walter put his finger on the remote's{F801}switch...{F801}</source>
+    <target>〉 Walter put his finger on the remote's{F801}switch...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,167029}But no matter. I never expected my{F801}choice to be a popular one.{F801}{F802}{F813,0,167030}'Tis the price I pay for going my{F801}own way.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,167029}But no matter. I never expected my{F801}choice to be a popular one.{F801}{F802}{F813,0,167030}'Tis the price I pay for going my{F801}own way.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167031}...Well then.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,167031}...Well then.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 Walter pushed the remote's switch and{F801}then tossed it aside.{F801}</source>
+    <target>〉 Walter pushed the remote's switch and{F801}then tossed it aside.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>〉 Tayama is lying on the floor. Blood is{F801}trickling from his mouth and he is no{F801}longer breathing.{F801}</source>
+    <target>〉 Tayama is lying on the floor. Blood is{F801}trickling from his mouth and he is no{F801}longer breathing.{F801}</target>
+  </entry>
+</mbm>

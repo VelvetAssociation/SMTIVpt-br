@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,191001}...Hm?{F801}{F802}{F87B,3,1,1,1}{F813,0,191002}{F843,0}, you're awake. Thank heaven...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,191001}...Hm?{F801}{F802}{F87B,3,1,1,1}{F813,0,191002}{F843,0}, you're awake. Thank heaven...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F813,0,191003}Hoy, don't change the subject,{F801}Jonathan.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,191003}Hoy, don't change the subject,{F801}Jonathan.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,191004}My apologies, but you came to as we{F801}were having a conversation...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,191004}My apologies, but you came to as we{F801}were having a conversation...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,191005}...Oh, hello.{F801}{F802}{F813,0,191006}You've come around. That's good...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,191005}...Oh, hello.{F801}{F802}{F813,0,191006}You've come around. That's good...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,191007}Walter, I wasn't finished...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,191007}Walter, I wasn't finished...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,191008}Sorry, but you caught us in the middle{F801}of a discussion.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,191008}Sorry, but you caught us in the middle{F801}of a discussion.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,191009}So Jonathan, Burroughs said that this{F801}is the Counter-Demon Force base, yes?{F801}{F802}{F813,0,191010}Why the devil are we here?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,191009}So Jonathan, Burroughs said that this{F801}is the Counter-Demon Force base, yes?{F801}{F802}{F813,0,191010}Why the devil are we here?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,191011}Why would I know that? I simply found{F801}myself here upon awakening.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,191011}Why would I know that? I simply found{F801}myself here upon awakening.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,191012}This is all because you opened the gate{F801}to the Expanse, you know.{F801}{F802}{F813,0,191013}{F843,0} and I tried to stop you,{F801}but...!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,191012}This is all because you opened the gate{F801}to the Expanse, you know.{F801}{F802}{F813,0,191013}{F843,0} and I tried to stop you,{F801}but...!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,3,2,1,1}{F813,0,191014}Hold a moment. What was that you{F801}said...?{F801}{F802}{F87B,4,3,1,1}{F813,0,191015}{F843,0} was at my side when we{F801}activated Yamato together...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,3,2,1,1}{F813,0,191014}Hold a moment. What was that you{F801}said...?{F801}{F802}{F87B,4,3,1,1}{F813,0,191015}{F843,0} was at my side when we{F801}activated Yamato together...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,191016}But that can't be. {F843,0} was{F801}with me!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,191016}But that can't be. {F843,0} was{F801}with me!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,7,1,2}{F813,0,191017}Impossible. {F843,0} and I defeated{F801}Yamato Takeru...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,7,1,2}{F813,0,191017}Impossible. {F843,0} and I defeated{F801}Yamato Takeru...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,191018}I went with {F843,0} to Lilith's{F801}dwelling, and then...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,191018}I went with {F843,0} to Lilith's{F801}dwelling, and then...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,191019}Wait. That can't possibly be true.{F801}{F802}{F813,0,191020}{F843,0} and I vanquished Lilith{F801}together at Tsukiji Hongwanji.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,191019}Wait. That can't possibly be true.{F801}{F802}{F813,0,191020}{F843,0} and I vanquished Lilith{F801}together at Tsukiji Hongwanji.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,7,1,2}{F813,0,191021}You defeated Lilith!? With {F843,0}...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,7,1,2}{F813,0,191021}You defeated Lilith!? With {F843,0}...?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,191022}We are going round in circles. I can{F801}feel the onset of a headache...{F801}{F802}{F87B,3,12,1,2}{F813,0,191023}First, I dreamt of a scolding from{F801}those white ones, and now this.{F801}It's all too much...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,191022}We are going round in circles. I can{F801}feel the onset of a headache...{F801}{F802}{F87B,3,12,1,2}{F813,0,191023}First, I dreamt of a scolding from{F801}those white ones, and now this.{F801}It's all too much...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,191024}I need a breath of fresh air.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,191024}I need a breath of fresh air.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 Walter walked away.{F801}</source>
+    <target>〉 Walter walked away.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,191025}A dream of "a scolding from those{F801}white ones"...?{F801}{F802}{F813,0,191026}I had precisely the same dream...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,191025}A dream of "a scolding from those{F801}white ones"...?{F801}{F802}{F813,0,191026}I had precisely the same dream...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F813,0,191027}{F843,0}? What are your plans now?{F801}{F802}{F87B,3,10,1,2}{F813,0,250028}......{F801}{F802}{F87B,3,12,1,1}{F813,0,191028}I think I'll have a look outside.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F813,0,191027}{F843,0}? What are your plans now?{F801}{F802}{F87B,3,10,1,2}{F813,0,250028}......{F801}{F802}{F87B,3,12,1,1}{F813,0,191028}I think I'll have a look outside.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 Jonathan walked away.{F801}</source>
+    <target>〉 Jonathan walked away.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 You have parted ways with Jonathan{F801}and Walter.{F801}</source>
+    <target>〉 You have parted ways with Jonathan{F801}and Walter.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,191029}This is a bit late, but congratulations{F801}on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,191029}This is a bit late, but congratulations{F801}on completing the quest.{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,400203}Argh...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,400203}Argh...{F801}</target>
+  </entry>
+</mbm>

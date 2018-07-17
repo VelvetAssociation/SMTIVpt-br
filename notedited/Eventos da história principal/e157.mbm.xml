@@ -1,0 +1,122 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,5,3,1,1}{F813,0,157001}...It has been decided.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,5,3,1,1}{F813,0,157001}...It has been decided.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,157002}We are Samurai of the Eastern Kingdom{F801}of Mikado. Our role has not changed.{F801}{F802}{F87B,3,7,1,2}{F813,0,157003}Let us go to Tsukiji Hongwanji. There{F801}we shall finally strike down the Black{F801}Samurai.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,157002}We are Samurai of the Eastern Kingdom{F801}of Mikado. Our role has not changed.{F801}{F802}{F87B,3,7,1,2}{F813,0,157003}Let us go to Tsukiji Hongwanji. There{F801}we shall finally strike down the Black{F801}Samurai.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,157004}...I won't raise a hand against Lilith.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,157004}...I won't raise a hand against Lilith.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F87B,3,2,1,1}{F813,0,157005}Walter?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F87B,3,2,1,1}{F813,0,157005}Walter?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,157006}It matters not that I am a Samurai.{F801}This is my stance as a human being.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,157006}It matters not that I am a Samurai.{F801}This is my stance as a human being.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,157007}The new Eastern Kingdom of Mikado{F801}is no better than Tayama's "utopia."{F801}{F802}{F813,0,157008}Both are ruled over by revolting{F801}dictators who care for nothing but{F801}themselves.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,157007}The new Eastern Kingdom of Mikado{F801}is no better than Tayama's "utopia."{F801}{F802}{F813,0,157008}Both are ruled over by revolting{F801}dictators who care for nothing but{F801}themselves.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,157009}...Through my missions as a Samurai,{F801}I've gained knowledge and wisdom.{F801}{F802}{F813,0,157010}I've learned to doubt.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,157009}...Through my missions as a Samurai,{F801}I've gained knowledge and wisdom.{F801}{F802}{F813,0,157010}I've learned to doubt.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,157011}How lamentable...!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,157011}How lamentable...!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,157012}I want to change this rotten world.{F801}To one where "the strong can shape{F801}it as they please."{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,157012}I want to change this rotten world.{F801}To one where "the strong can shape{F801}it as they please."{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,157013}You are throwing your lot in with the{F801}Black Samurai... Is that what I am to{F801}understand...?{F801}{F802}{F813,0,157014}You dare insult the souls of those who{F801}became demons because of her...!?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,157013}You are throwing your lot in with the{F801}Black Samurai... Is that what I am to{F801}understand...?{F801}{F802}{F813,0,157014}You dare insult the souls of those who{F801}became demons because of her...!?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,157015}Jonathan, calm down!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,157015}Jonathan, calm down!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,157016}After I pack my things... I'm going to{F801}Lilith's.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,157016}After I pack my things... I'm going to{F801}Lilith's.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,157017}I'll be at the residence hall. If any{F801}wish to come with me, you may meet{F801}me there.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,157017}I'll be at the residence hall. If any{F801}wish to come with me, you may meet{F801}me there.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 Walter walked away...{F801}</source>
+    <target>〉 Walter walked away...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,2}{F87B,5,3,1,1}{F813,0,157018}......{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,2}{F87B,5,3,1,1}{F813,0,157018}......{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F813,0,157019}...So be it. Then we alone shall go to{F801}Tsukiji Hongwanji.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F813,0,157019}...So be it. Then we alone shall go to{F801}Tsukiji Hongwanji.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,2}{F813,0,157020}...Wait.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,2}{F813,0,157020}...Wait.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,157021}Isabeau! Not you, too?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,157021}Isabeau! Not you, too?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,157022}No, it isn't that. I am merely worried{F801}for Fujiwara and Skins.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,157022}No, it isn't that. I am merely worried{F801}for Fujiwara and Skins.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,157023}Even if we send no word to them, I{F801}fear they will attempt to enter the{F801}Eastern Kingdom of Mikado...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,157023}Even if we send no word to them, I{F801}fear they will attempt to enter the{F801}Eastern Kingdom of Mikado...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,157024}And I cannot simply let them die.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,157024}And I cannot simply let them die.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,157025}But at the same time, I don't have the {F801}words to talk them out of it, either.{F801}{F802}{F813,0,157026}I need time to think upon what is the{F801}best course for everyone.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,157025}But at the same time, I don't have the {F801}words to talk them out of it, either.{F801}{F802}{F813,0,157026}I need time to think upon what is the{F801}best course for everyone.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,157027}My apologies...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,157027}My apologies...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 Isabeau walked away...{F801}</source>
+    <target>〉 Isabeau walked away...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,157028}...We are Samurai sworn to protect{F801}this kingdom.{F801}{F802}{F813,0,157029}It is our duty to protect today so that{F801}the people can see tomorrow, as they{F801}always have.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,157028}...We are Samurai sworn to protect{F801}this kingdom.{F801}{F802}{F813,0,157029}It is our duty to protect today so that{F801}the people can see tomorrow, as they{F801}always have.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,157030}What profit is it to plunge the world{F801}into chaos!?{F801}{F802}{F813,0,157031}Neither the Eastern Kingdom of Mikado{F801}nor Tokyo must change.{F801}{F802}{F813,0,157032}I therefore pledge to smite Lilith to{F801}restore the world to its former order.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,157030}What profit is it to plunge the world{F801}into chaos!?{F801}{F802}{F813,0,157031}Neither the Eastern Kingdom of Mikado{F801}nor Tokyo must change.{F801}{F802}{F813,0,157032}I therefore pledge to smite Lilith to{F801}restore the world to its former order.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F813,0,157033}...I pray that you will accompany me{F801}in this quest. I shall be waiting at{F801}the entrance of Naraku.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F813,0,157033}...I pray that you will accompany me{F801}in this quest. I shall be waiting at{F801}the entrance of Naraku.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 You have parted ways with Jonathan,{F801}Walter, and Isabeau.{F801}</source>
+    <target>〉 You have parted ways with Jonathan,{F801}Walter, and Isabeau.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>〉 {F843,0} returned to Mikado Castle{F801}alone...{F801}</source>
+    <target>〉 {F843,0} returned to Mikado Castle{F801}alone...{F801}</target>
+  </entry>
+  <entry id="127">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+</mbm>

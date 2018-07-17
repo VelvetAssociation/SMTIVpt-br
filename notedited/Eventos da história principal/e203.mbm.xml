@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,1,1,1}{F813,0,203001}...Speak of the devil.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,1,1,1}{F813,0,203001}...Speak of the devil.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Kiyoharu\0{F87A,83}{F87B,83,4,1,1}{F813,0,203002}Everyone in Tokyo's talking about{F801}you already.{F801}{F802}{F813,0,203003}The Messiahs I summoned have beaten{F801}Pluto! Eee hee hee.{F801}{F802}{F813,0,203004}Now we can all live out in the open{F801}again!{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F87B,83,4,1,1}{F813,0,203002}Everyone in Tokyo's talking about{F801}you already.{F801}{F802}{F813,0,203003}The Messiahs I summoned have beaten{F801}Pluto! Eee hee hee.{F801}{F802}{F813,0,203004}Now we can all live out in the open{F801}again!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Kiyoharu\0{F87A,83}{F87B,83,1,1,1}{F813,0,203005}Oh, right... I must go thank God!{F801}{F802}{F87B,83,4,1,1}{F813,0,203006}Akira, you know what to do, right?{F801}Make sure to thank our Messiahs!{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F87B,83,1,1,1}{F813,0,203005}Oh, right... I must go thank God!{F801}{F802}{F87B,83,4,1,1}{F813,0,203006}Akira, you know what to do, right?{F801}Make sure to thank our Messiahs!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F87B,3,12,1,1}{F813,0,203007}Reporting to "God", eh...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F87B,3,12,1,1}{F813,0,203007}Reporting to "God", eh...?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Kiyoharu walked away.{F801}</source>
+    <target>〉 Kiyoharu walked away.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,203008}Here you are... as promised.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,203008}Here you are... as promised.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Akira handed the remote to {F843,0}.{F801}</source>
+    <target>〉 Akira handed the remote to {F843,0}.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,203009}According to the White...{F801}{F802}{F813,0,203010}This remote connects the human world{F801}to the Expanse?{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,203009}According to the White...{F801}{F802}{F813,0,203010}This remote connects the human world{F801}to the Expanse?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,4,12,1,1}{F813,0,203011}Knowing that... you are certain about{F801}giving it over to us?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,4,12,1,1}{F813,0,203011}Knowing that... you are certain about{F801}giving it over to us?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,203012}You can use it as you please. I'm{F801}prepared to have Tokyo filled with{F801}demons.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,203012}You can use it as you please. I'm{F801}prepared to have Tokyo filled with{F801}demons.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,203013}Some people used to preach that demons{F801}were the embodiment of our desires,{F801}and that we should live in harmony.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,12,1,1}{F813,0,203013}Some people used to preach that demons{F801}were the embodiment of our desires,{F801}and that we should live in harmony.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,203015}I get that now.{F801}{F802}{F813,0,203016}To bring back Tokyo, we need passion{F801}now, not empty words.{F801}{F802}{F813,0,203017}We can't afford to stand on ceremony.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,203015}I get that now.{F801}{F802}{F813,0,203016}To bring back Tokyo, we need passion{F801}now, not empty words.{F801}{F802}{F813,0,203017}We can't afford to stand on ceremony.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,203019}...A very bold plan.{F801}{F802}{F813,0,203020}Sir Kiyoharu is a tad bit unique,{F801}so I think it would be better if you{F801}were to lead.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,203019}...A very bold plan.{F801}{F802}{F813,0,203020}Sir Kiyoharu is a tad bit unique,{F801}so I think it would be better if you{F801}were to lead.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,203021}If we succeed in reviving Tokyo, I'm{F801}thinking of renaming the newborn city.{F801}{F802}{F813,0,203022}Out of respect to you three, I'll call{F801}it the "Eastern Kingdom of Mikado."{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,203021}If we succeed in reviving Tokyo, I'm{F801}thinking of renaming the newborn city.{F801}{F802}{F813,0,203022}Out of respect to you three, I'll call{F801}it the "Eastern Kingdom of Mikado."{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,203023}If that were to happen, you would be {F801}King Akira of the Eastern Kingdom of...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,203023}If that were to happen, you would be {F801}King Akira of the Eastern Kingdom of...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F87B,4,10,1,1}{F813,0,203024}...Eh?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F87B,4,10,1,1}{F813,0,203024}...Eh?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,203025}Now go...{F801}{F802}{F813,0,203026}Stories of your achievements will be{F801}passed down for generations to come.{F801}So long, our Messiahs.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,203025}Now go...{F801}{F802}{F813,0,203026}Stories of your achievements will be{F801}passed down for generations to come.{F801}So long, our Messiahs.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,4,12,1,1}{F813,0,203014}Wait, that's...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,4,12,1,1}{F813,0,203014}Wait, that's...{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,203018}If demons start popping up, I'll take{F801}control of 'em and put 'em to use.{F801}</source>
+    <target>{F812}Akira\0{F87A,84}{F87B,84,4,1,1}{F813,0,203018}If demons start popping up, I'll take{F801}control of 'em and put 'em to use.{F801}</target>
+  </entry>
+</mbm>

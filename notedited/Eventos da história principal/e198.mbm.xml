@@ -1,0 +1,102 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A young girl intercepts {F843,0}{F801}and the others.{F801}</source>
+    <target>〉 A young girl intercepts {F843,0}{F801}and the others.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hoarse girl\0{F87A,96}{F813,0,198001}Mr. Messiah...{F801}</source>
+    <target>{F812}Hoarse girl\0{F87A,96}{F813,0,198001}Mr. Messiah...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hoarse man\0{F87A,97}{F813,0,198002}We heard from Kiyoharu... You finally{F801}came...{F801}</source>
+    <target>{F812}Hoarse man\0{F87A,97}{F813,0,198002}We heard from Kiyoharu... You finally{F801}came...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hoarse old woman\0{F87A,133}{F813,0,198003}Please let my family die in peace...!{F801}</source>
+    <target>{F812}Hoarse old woman\0{F87A,133}{F813,0,198003}Please let my family die in peace...!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F813,0,198004}Have they lost their senses...? We{F801}haven't time for this. Let's go...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,198004}Have they lost their senses...? We{F801}haven't time for this. Let's go...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,198005}They may be trying to tell us something.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,198005}They may be trying to tell us something.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"I see no harm in it."{F801}"Let's not."{F801}</source>
+    <target>"I see no harm in it."{F801}"Let's not."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}Hmph. It seems sometimes there's no{F801}wretch in distress you won't make{F801}time for.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Hmph. It seems sometimes there's no{F801}wretch in distress you won't make{F801}time for.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hoarse man\0{F87A,97}{F813,0,198007}Ohhh! Truly, you are the messiahs we{F801}were waiting for!{F801}</source>
+    <target>{F812}Hoarse man\0{F87A,97}{F813,0,198007}Ohhh! Truly, you are the messiahs we{F801}were waiting for!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}He's right, Jonathan.{F801}{F802}Our own troubles are thorny enough{F801}without inviting others' problems{F801}onto ourselves.{F801}{F802}Let's go.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}He's right, Jonathan.{F801}{F802}Our own troubles are thorny enough{F801}without inviting others' problems{F801}onto ourselves.{F801}{F802}Let's go.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hoarse girl\0{F87A,96}{F813,0,198023}Oh...{F801}</source>
+    <target>{F812}Hoarse girl\0{F87A,96}{F813,0,198023}Oh...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hoarse man\0{F87A,97}{F813,0,198008}...We want you to get revenge.{F801}{F802}{F813,0,198009}Our hometown, Shibuya, was attacked by{F801}a demon... Many people died that day.{F801}{F802}{F813,0,198010}But worse than the ones it killed{F801}were my family, who that demon turned{F801}into...!{F801}{F802}{F813,0,198011}Please, Messiah, bring down the hammer{F801}of justice for us!{F801}</source>
+    <target>{F812}Hoarse man\0{F87A,97}{F813,0,198008}...We want you to get revenge.{F801}{F802}{F813,0,198009}Our hometown, Shibuya, was attacked by{F801}a demon... Many people died that day.{F801}{F802}{F813,0,198010}But worse than the ones it killed{F801}were my family, who that demon turned{F801}into...!{F801}{F802}{F813,0,198011}Please, Messiah, bring down the hammer{F801}of justice for us!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hoarse old woman\0{F87A,133}{F813,0,198012}I can't face my family in heaven{F801}without knowing they've been avenged.{F801}</source>
+    <target>{F812}Hoarse old woman\0{F87A,133}{F813,0,198012}I can't face my family in heaven{F801}without knowing they've been avenged.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hoarse girl\0{F87A,96}{F813,0,198013}Here...{F801}</source>
+    <target>{F812}Hoarse girl\0{F87A,96}{F813,0,198013}Here...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 {F843,0} received a rusted key{F801}from the hoarse girl.{F801}</source>
+    <target>〉 {F843,0} received a rusted key{F801}from the hoarse girl.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Hoarse man\0{F87A,97}{F813,0,198014}We know it was wrong, but we borrowed{F801}this from Kiyoharu's room.{F801}{F802}{F813,0,198015}You can enter the Terminal room that{F801}leads to Shibuya with this...{F801}{F802}{F813,0,198016}We have no way to fight the demons{F801}ourselves, so please, PLEASE...{F801}</source>
+    <target>{F812}Hoarse man\0{F87A,97}{F813,0,198014}We know it was wrong, but we borrowed{F801}this from Kiyoharu's room.{F801}{F802}{F813,0,198015}You can enter the Terminal room that{F801}leads to Shibuya with this...{F801}{F802}{F813,0,198016}We have no way to fight the demons{F801}ourselves, so please, PLEASE...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Walter\0{F87A,4}{F813,0,198018}I should think the more positive{F801}approach would be to forget the dead,{F801}rather than wallow in sadness...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,198018}I should think the more positive{F801}approach would be to forget the dead,{F801}rather than wallow in sadness...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,198019}We cannot help the dead, but we can{F801}help those they have left behind.{F801}{F802}{F813,0,198020}{F87B,3,1,1,1}I think it fate that we heard their{F801}pleas. I believe we ought to help them.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,198019}We cannot help the dead, but we can{F801}help those they have left behind.{F801}{F802}{F813,0,198020}{F87B,3,1,1,1}I think it fate that we heard their{F801}pleas. I believe we ought to help them.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Walter\0{F87A,4}{F813,0,198021}But we mustn't forget our duty to deal{F801}with this Pluto figure, yes?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,198021}But we mustn't forget our duty to deal{F801}with this Pluto figure, yes?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,198022}Hm... The decision is yours, {F843,0}.{F801}We can go to Shibuya if you wish.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,198022}Hm... The decision is yours, {F843,0}.{F801}We can go to Shibuya if you wish.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Hoarse man\0{F87A,97}{F813,0,198024}O great Messiahs, please show{F801}us mercy…{F801}</source>
+    <target>{F812}Hoarse man\0{F87A,97}{F813,0,198024}O great Messiahs, please show{F801}us mercy…{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,198025}What say you? Shall we{F801}hear them out?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,198025}What say you? Shall we{F801}hear them out?{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400005}It seems like they're trying to tell{F801}you something.{F801}{F802}Well, Master {F843,0}? Do you want{F801}to listen to them?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400005}It seems like they're trying to tell{F801}you something.{F801}{F802}Well, Master {F843,0}? Do you want{F801}to listen to them?{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>Listen to them{F801}Don't listen to them{F801}</source>
+    <target>Listen to them{F801}Don't listen to them{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+</mbm>

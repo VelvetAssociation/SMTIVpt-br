@@ -1,0 +1,326 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,185001}What's this place?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,185001}What's this place?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,185002}Hm? What is that...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,185002}Hm? What is that...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Voice\0{F813,0,185003}Stay away from that.{F801}</source>
+    <target>{F812}Voice\0{F813,0,185003}Stay away from that.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,185004}Huh... Not as many of you this time.{F801}Well, makes no difference to me.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,185004}Huh... Not as many of you this time.{F801}Well, makes no difference to me.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,185005}Welcome to the Yamato Perpetual Reactor!{F801}{F802}{F813,0,185006}Is that the greeting you two expected?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,185005}Welcome to the Yamato Perpetual Reactor!{F801}{F802}{F813,0,185006}Is that the greeting you two expected?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,185007}So what's all this about, huh?{F801}{F802}{F813,0,185008}You forgot all I've done for you and{F801}went with Yuriko... or Lilith, I guess{F801}I should say.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,185007}So what's all this about, huh?{F801}{F802}{F813,0,185008}You forgot all I've done for you and{F801}went with Yuriko... or Lilith, I guess{F801}I should say.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,185009}...This what you're looking for?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,185009}...This what you're looking for?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Tayama walked up to {F843,0} and{F801}his fellow Samurai and flashed a small{F801}object to them.{F801}</source>
+    <target>〉 Tayama walked up to {F843,0} and{F801}his fellow Samurai and flashed a small{F801}object to them.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,185010}You only have to press this switch and{F801}the gate to the Expanse opens.{F801}{F802}{F813,0,185011}So... this remote is what that bitch{F801}Yuriko was after.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,185010}You only have to press this switch and{F801}the gate to the Expanse opens.{F801}{F802}{F813,0,185011}So... this remote is what that bitch{F801}Yuriko was after.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185012}If you know that much, then this{F801}needn't be difficult. Hand it here.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185012}If you know that much, then this{F801}needn't be difficult. Hand it here.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185013}Blow me, kid. This thing won't just{F801}screw up Tokyo, it'd throw the whole{F801}world into chaos.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185013}Blow me, kid. This thing won't just{F801}screw up Tokyo, it'd throw the whole{F801}world into chaos.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185014}Such concern, coming from the jackal{F801}who raises men solely to harvest them{F801}for red pills.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185014}Such concern, coming from the jackal{F801}who raises men solely to harvest them{F801}for red pills.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,185016}Do you understand? If the gate to the{F801}Expanse opens, Tokyo's gonna get a{F801}flood of demons comin' in.{F801}{F802}{F813,0,185017}More demons than our production lines{F801}of Reds can keep up with.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,185016}Do you understand? If the gate to the{F801}Expanse opens, Tokyo's gonna get a{F801}flood of demons comin' in.{F801}{F802}{F813,0,185017}More demons than our production lines{F801}of Reds can keep up with.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,185018}This city's gonna be stacked with{F801}mountains of stiffs ripped apart by{F801}the demons...{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,185018}This city's gonna be stacked with{F801}mountains of stiffs ripped apart by{F801}the demons...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185019}...You there.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185019}...You there.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 Tayama is looking at {F843,0}...{F801}</source>
+    <target>〉 Tayama is looking at {F843,0}...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185020}You'd march into a place that had it{F801}made and force them to change it all?{F801}{F802}{F813,0,185021}That's okay with you?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185020}You'd march into a place that had it{F801}made and force them to change it all?{F801}{F802}{F813,0,185021}That's okay with you?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>"I see no issue."{F801}"It is a bit vexing."{F801}</source>
+    <target>"I see no issue."{F801}"It is a bit vexing."{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,185022}...Alright, then. You're just another{F801}shithead, I see.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,185022}...Alright, then. You're just another{F801}shithead, I see.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185023}Right? How could I allow that? How{F801}could anyone?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185023}Right? How could I allow that? How{F801}could anyone?{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185024}...Let's not mince words.{F801}{F802}{F813,0,185025}If you intend to kill us, then let's{F801}have it. We'll overcome you and take{F801}the remote.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185024}...Let's not mince words.{F801}{F802}{F813,0,185025}If you intend to kill us, then let's{F801}have it. We'll overcome you and take{F801}the remote.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185026}*chuckle*{F801}{F802}{F813,0,185027}...That's too bad. If you'd just done{F801}what I told you to, I'd have let you{F801}into the Ashura-kai.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185026}*chuckle*{F801}{F802}{F813,0,185027}...That's too bad. If you'd just done{F801}what I told you to, I'd have let you{F801}into the Ashura-kai.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185028}But instead, I'll be making hay from{F801}the news of your deaths.{F801}{F802}{F813,0,185029}"The Ashura-kai won a stunning victory{F801}over the intruders from above the{F801}Firmament!"{F801}{F802}{F813,0,185030}"No one crosses the great Tayama and{F801}lives to tell about it." Sound good?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,185028}But instead, I'll be making hay from{F801}the news of your deaths.{F801}{F802}{F813,0,185029}"The Ashura-kai won a stunning victory{F801}over the intruders from above the{F801}Firmament!"{F801}{F802}{F813,0,185030}"No one crosses the great Tayama and{F801}lives to tell about it." Sound good?{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,185031}Tokyo is mine.{F801}{F802}{F813,0,185032}And I won't let anyone screw around{F801}with my utopia!{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,185031}Tokyo is mine.{F801}{F802}{F813,0,185032}And I won't let anyone screw around{F801}with my utopia!{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 The demon turned to stone...{F801}</source>
+    <target>〉 The demon turned to stone...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Walter\0{F87A,4}{F813,0,185035}Hoy, it's we you should be kicking.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,185035}Hoy, it's we you should be kicking.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,12,1,1}{F87B,4,12,1,1}{F813,0,185036}Urgh...!{F801}{F802}{F813,0,185037}Hey... What's gonna happen to me now...?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,12,1,1}{F87B,4,12,1,1}{F813,0,185036}Urgh...!{F801}{F802}{F813,0,185037}Hey... What's gonna happen to me now...?{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,185038}I don't know. Think for yourself.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,185038}I don't know. Think for yourself.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185040}You'll give us the remote now, yes?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185040}You'll give us the remote now, yes?{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,12,1,1}{F813,0,185041}Y...Yeah, alright... Here... Here...!{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,12,1,1}{F813,0,185041}Y...Yeah, alright... Here... Here...!{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>〉 Tayama handed the remote to Walter.{F801}</source>
+    <target>〉 Tayama handed the remote to Walter.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Walter\0{F87A,4}{F813,0,185042}...It's yours.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,185042}...It's yours.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>〉 Walter threw the remote to {F843,0}.{F801}{F802}〉 You obtained the remote.{F801}</source>
+    <target>〉 Walter threw the remote to {F843,0}.{F801}{F802}〉 You obtained the remote.{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Walter\0{F87A,4}</source>
+    <target>{F812}Walter\0{F87A,4}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,185043}You need only press this button?{F801}Mr. Tayama...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,185043}You need only press this button?{F801}Mr. Tayama...?{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,12,1,1}{F813,0,185044}W-Well... yeah, but...{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,12,1,1}{F813,0,185044}W-Well... yeah, but...{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,185045}Wh-Why don't you think this through{F801}again? These are demons we're talking{F801}about. A legion of demons in Tokyo...{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,185045}Wh-Why don't you think this through{F801}again? These are demons we're talking{F801}about. A legion of demons in Tokyo...{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185046}You should do it, {F843,0}...{F801}Press the button.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185046}You should do it, {F843,0}...{F801}Press the button.{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F813,3,185047}Press the button{F801}Don't press the button{F801}</source>
+    <target>{F813,3,185047}Press the button{F801}Don't press the button{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>〉 {F843,0} pressed the button.{F801}</source>
+    <target>〉 {F843,0} pressed the button.{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Walter\0{F87A,4}…さて [何/なに]が[起/お]こってくれるかね{F801}</source>
+    <target>{F812}Walter\0{F87A,4}…さて [何/なに]が[起/お]こってくれるかね{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,185048}Hoy, {F843,0}... are you scared?{F801}{F802}{F813,0,185049}In truth, so am I... but we have{F801}nowhere to go back to now, yes?{F801}{F802}{F87B,4,12,1,1}{F813,0,185050}Perhaps you'd like to go get some{F801}fresh air? I'll be waiting here. {F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,185048}Hoy, {F843,0}... are you scared?{F801}{F802}{F813,0,185049}In truth, so am I... but we have{F801}nowhere to go back to now, yes?{F801}{F802}{F87B,4,12,1,1}{F813,0,185050}Perhaps you'd like to go get some{F801}fresh air? I'll be waiting here. {F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Walter\0{F87A,4}{F87B,17,12,1,1}{F87B,4,12,1,1}{F813,0,185051}Ah, you're back, as I knew you'd be.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,17,12,1,1}{F87B,4,12,1,1}{F813,0,185051}Ah, you're back, as I knew you'd be.{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,12,1,1}{F87B,4,12,1,1}{F813,0,185052}Wh-Why don't you think this through{F801}again? These are demons we're talking{F801}about. A legion of demons in Tokyo...{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,12,1,1}{F87B,4,12,1,1}{F813,0,185052}Wh-Why don't you think this through{F801}again? These are demons we're talking{F801}about. A legion of demons in Tokyo...{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185053}You should do it, {F843,0}...{F801}Press the button.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,185053}You should do it, {F843,0}...{F801}Press the button.{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>〉 Yaizu's Flint started to glow in{F801}your hand...{F801}</source>
+    <target>〉 Yaizu's Flint started to glow in{F801}your hand...{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>{F812}Voice\0{F87A,2}{F813,1,459000}I am the Famed Yamato Takeru, one of{F801}the deadly National Defense Divinities.{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,459000}I am the Famed Yamato Takeru, one of{F801}the deadly National Defense Divinities.{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>{F812}Yamato Takeru\0{F87A,2}{F813,1,459003}My power is for my master to use. And{F801}if you are the one with my medium...{F801}{F802}{F813,1,459010}An honor to meet you, Master.{F801}</source>
+    <target>{F812}Yamato Takeru\0{F87A,2}{F813,1,459003}My power is for my master to use. And{F801}if you are the one with my medium...{F801}{F802}{F813,1,459010}An honor to meet you, Master.{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>〉 You can now fuse{F801}{F874,641} {F842,641}.{F801}</source>
+    <target>〉 You can now fuse{F801}{F874,641} {F842,641}.{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>〉 The Yamato Perpetual Reactor is{F801}here before you...{F801}</source>
+    <target>〉 The Yamato Perpetual Reactor is{F801}here before you...{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>〉 A stone that once was Yamato Takeru{F801}sits before you...{F801}</source>
+    <target>〉 A stone that once was Yamato Takeru{F801}sits before you...{F801}</target>
+  </entry>
+  <entry id="56">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400005}Oh... Master {F843,0}, the Yamato's{F801}remote control is here on the floor.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400005}Oh... Master {F843,0}, the Yamato's{F801}remote control is here on the floor.{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>Press the remote button{F801}Walk away{F801}</source>
+    <target>Press the remote button{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="58">
+    <source>〉 {F843,0} placed his finger on the{F801}button...{F801}</source>
+    <target>〉 {F843,0} placed his finger on the{F801}button...{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}Sorry, Master {F843,0}, but let me{F801}make sure of something...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}Sorry, Master {F843,0}, but let me{F801}make sure of something...{F801}</target>
+  </entry>
+  <entry id="60">
+    <source>{F812}Burroughs\0{F87A,2}Which are you going to: the Tokyo{F801}covered in desert or the Tokyo{F801}engulfed in flames?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Which are you going to: the Tokyo{F801}covered in desert or the Tokyo{F801}engulfed in flames?{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>"The Tokyo covered in desert."{F801}"The Tokyo engulfed in flames."{F801}"Neither, I think."{F801}</source>
+    <target>"The Tokyo covered in desert."{F801}"The Tokyo engulfed in flames."{F801}"Neither, I think."{F801}</target>
+  </entry>
+  <entry id="62">
+    <source>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>〉 {F843,0} pressed the button{F801}with the blasted Tokyo in mind...{F801}</source>
+    <target>〉 {F843,0} pressed the button{F801}with the blasted Tokyo in mind...{F801}</target>
+  </entry>
+  <entry id="64">
+    <source>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>〉 {F843,0} pressed the button{F801}with the infernal Tokyo in mind...{F801}</source>
+    <target>〉 {F843,0} pressed the button{F801}with the infernal Tokyo in mind...{F801}</target>
+  </entry>
+  <entry id="66">
+    <source>{F812}Burroughs\0{F87A,2}OK. I think that's a perfectly valid{F801}choice too.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}OK. I think that's a perfectly valid{F801}choice too.{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>〉 The Yamato Perpetual Reactor is{F801}here before you...{F801}</source>
+    <target>〉 The Yamato Perpetual Reactor is{F801}here before you...{F801}</target>
+  </entry>
+  <entry id="68">
+    <source>〉 The remote is lying on the floor...{F801}</source>
+    <target>〉 The remote is lying on the floor...{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>Press the button{F801}Talk to Akira{F801}Walk away{F801}</source>
+    <target>Press the button{F801}Talk to Akira{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="70">
+    <source>{F812}King Akira\0{F87A,85}......{F801}</source>
+    <target>{F812}King Akira\0{F87A,85}......{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>〉 Akira seems distracted.{F801}</source>
+    <target>〉 Akira seems distracted.{F801}</target>
+  </entry>
+  <entry id="72">
+    <source>Talk to him again{F801}Walk away{F801}</source>
+    <target>Talk to him again{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>{F812}King Akira\0{F87A,85}{F813,1,401701}...Oh, it's you, Boss. Sorry, I was...{F801}just doing some thinking.{F801}{F802}I finally realized something after I{F801}became the King of Tokyo. When it comes{F801}to who I should be looking out for...{F801}{F802}I need to put everyone else first,{F801}right? I mean, I'm the King of Tokyo,{F801}after all.{F801}{F802}Having to worry about more than{F801}yourself is harder than a punch to{F801}the gut...{F801}{F802}To be honest, I already want to ditch{F801}it all, but I already told my sis{F801}about it... so I gotta stand firm.{F801}</source>
+    <target>{F812}King Akira\0{F87A,85}{F813,1,401701}...Oh, it's you, Boss. Sorry, I was...{F801}just doing some thinking.{F801}{F802}I finally realized something after I{F801}became the King of Tokyo. When it comes{F801}to who I should be looking out for...{F801}{F802}I need to put everyone else first,{F801}right? I mean, I'm the King of Tokyo,{F801}after all.{F801}{F802}Having to worry about more than{F801}yourself is harder than a punch to{F801}the gut...{F801}{F802}To be honest, I already want to ditch{F801}it all, but I already told my sis{F801}about it... so I gotta stand firm.{F801}</target>
+  </entry>
+  <entry id="74">
+    <source>{F812}Burroughs\0{F87A,2}Which are you going to, the Tokyo{F801}below the ceiling or the Tokyo{F801}covered in desert?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Which are you going to, the Tokyo{F801}below the ceiling or the Tokyo{F801}covered in desert?{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>"The Tokyo below the ceiling."{F801}"The Tokyo covered in desert."{F801}"Neither, I think."{F801}</source>
+    <target>"The Tokyo below the ceiling."{F801}"The Tokyo covered in desert."{F801}"Neither, I think."{F801}</target>
+  </entry>
+  <entry id="76">
+    <source>〉 {F843,0} pressed the button with{F801}the Tokyo below the ceiling in mind...{F801}</source>
+    <target>〉 {F843,0} pressed the button with{F801}the Tokyo below the ceiling in mind...{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,185015}You goddamned brat...!{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,185015}You goddamned brat...!{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,185033}Hey, hey, hey, heyyyy!{F801}{F802}{F813,0,185034}What the shit!? How could you lose!?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,185033}Hey, hey, hey, heyyyy!{F801}{F802}{F813,0,185034}What the shit!? How could you lose!?{F801}</target>
+  </entry>
+  <entry id="127">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,185039}You son of a bitch...!{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,185039}You son of a bitch...!{F801}</target>
+  </entry>
+  <entry id="129">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,7,1,1}{F813,0,185039}Why you...!{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,7,1,1}{F813,0,185039}Why you...!{F801}</target>
+  </entry>
+  <entry id="139">
+    <source>〉 The hand holding the remote begins{F801}to sweat...{F801}</source>
+    <target>〉 The hand holding the remote begins{F801}to sweat...{F801}</target>
+  </entry>
+  <entry id="141">
+    <source>〉 Surprised by the sudden sound,{F801}{F843,0} dropped the remote...{F801}</source>
+    <target>〉 Surprised by the sudden sound,{F801}{F843,0} dropped the remote...{F801}</target>
+  </entry>
+  <entry id="146">
+    <source>〉 The hand holding the remote begins{F801}to sweat...{F801}</source>
+    <target>〉 The hand holding the remote begins{F801}to sweat...{F801}</target>
+  </entry>
+  <entry id="226">
+    <source>〉 Tayama keeps on kicking the rock that{F801}once was Yamato Takeru.{F801}</source>
+    <target>〉 Tayama keeps on kicking the rock that{F801}once was Yamato Takeru.{F801}</target>
+  </entry>
+  <entry id="1050">
+    <source>〉 A voice emanates from the stone in{F801}front of you...{F801}</source>
+    <target>〉 A voice emanates from the stone in{F801}front of you...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A vast, white space spreads as far{F801}as you can see...{F801}</source>
+    <target>〉 A vast, white space spreads as far{F801}as you can see...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Jonathan is nowhere to be seen...{F801}</source>
+    <target>〉 Jonathan is nowhere to be seen...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Walter is nowhere to be seen...{F801}</source>
+    <target>〉 Walter is nowhere to be seen...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Roaring voice\0{F813,0,190001}...The gate has opened.{F801}</source>
+    <target>{F812}Roaring voice\0{F813,0,190001}...The gate has opened.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}White shadow\0{F87A,77}{F813,0,190002}Upon receiving knowledge and wisdom,{F801}the atom that learned desire has{F801}opened the gate once more.{F801}</source>
+    <target>{F812}White shadow\0{F87A,77}{F813,0,190002}Upon receiving knowledge and wisdom,{F801}the atom that learned desire has{F801}opened the gate once more.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}White shadow\0{F87A,124}{F813,0,190003}We ask the mitochondria within you...{F801}</source>
+    <target>{F812}White shadow\0{F87A,124}{F813,0,190003}We ask the mitochondria within you...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}White shadow\0{F87A,124}{F813,0,190004}Have you ever given thought to why{F801}humans are born? Why the world exists?{F801}</source>
+    <target>{F812}White shadow\0{F87A,124}{F813,0,190004}Have you ever given thought to why{F801}humans are born? Why the world exists?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>"Yes, I have."{F801}"No, I haven't."{F801}</source>
+    <target>"Yes, I have."{F801}"No, I haven't."{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}White shadow\0{F87A,78}{F813,0,190006}A single atom's revolt will damage{F801}no more than a single cell...{F801}{F802}{F813,0,190007}The damaged cell will quickly be{F801}healed by the other cells.{F801}</source>
+    <target>{F812}White shadow\0{F87A,78}{F813,0,190006}A single atom's revolt will damage{F801}no more than a single cell...{F801}{F802}{F813,0,190007}The damaged cell will quickly be{F801}healed by the other cells.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}White shadow\0{F87A,75}{F813,0,190008}In order to sever this chain, there{F801}is a decision yet to be made.{F801}</source>
+    <target>{F812}White shadow\0{F87A,75}{F813,0,190008}In order to sever this chain, there{F801}is a decision yet to be made.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}White shadow\0{F87A,1}{F813,0,190009}We shall show you the guideposts for{F801}that decision.{F801}</source>
+    <target>{F812}White shadow\0{F87A,1}{F813,0,190009}We shall show you the guideposts for{F801}that decision.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}White shadow\0{F87A,124}{F813,0,190005}Hah...{F801}</source>
+    <target>{F812}White shadow\0{F87A,124}{F813,0,190005}Hah...{F801}</target>
+  </entry>
+</mbm>

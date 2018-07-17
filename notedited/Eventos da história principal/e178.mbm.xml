@@ -1,0 +1,78 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,178001}...Be careful, Master {F843,0}.{F801}I'm detecting a demon ahead.{F801}{F802}{F813,0,178002}It's that demon that was such a pain{F801}for you before.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,178001}...Be careful, Master {F843,0}.{F801}I'm detecting a demon ahead.{F801}{F802}{F813,0,178002}It's that demon that was such a pain{F801}for you before.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,178003}Going to get revenge? Or will you{F801}back out?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,178003}Going to get revenge? Or will you{F801}back out?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>"I'll have my satisfaction."{F801}"Perhaps not yet..."{F801}</source>
+    <target>"I'll have my satisfaction."{F801}"Perhaps not yet..."{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,178004}OK, but be careful, and good luck.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,178004}OK, but be careful, and good luck.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,178005}OK. It's up to you.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,178005}OK. It's up to you.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The demon turned into stone...{F801}</source>
+    <target>〉 The demon turned into stone...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Hades' Soil began to shine in your hand...{F801}</source>
+    <target>〉 Hades' Soil began to shine in your hand...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Voice\0{F87A,2}{F813,1,473000}Yaso Magatsuhi...{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,473000}Yaso Magatsuhi...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Writing suddenly appeared on the stone{F801}in front of you...{F801}</source>
+    <target>〉 Writing suddenly appeared on the stone{F801}in front of you...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 Something is written on the stone...{F801}{F802}"Deadly" "National Defense Deity"{F801}"Medium" "Master"{F801}</source>
+    <target>〉 Something is written on the stone...{F801}{F802}"Deadly" "National Defense Deity"{F801}"Medium" "Master"{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Yaso Magatsuhi\0{F87A,2}{F813,1,473002}Yaso Magatsuhi...{F801}</source>
+    <target>{F812}Yaso Magatsuhi\0{F87A,2}{F813,1,473002}Yaso Magatsuhi...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 More writing appeared on the stone...{F801}</source>
+    <target>〉 More writing appeared on the stone...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 It reads as follows...{F801}{F802}"I am in your care."{F801}</source>
+    <target>〉 It reads as follows...{F801}{F802}"I am in your care."{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 You can now fuse{F801}{F874,133} {F842,133}{F801}</source>
+    <target>〉 You can now fuse{F801}{F874,133} {F842,133}{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 Yaso Magatsuhi is no longer here...{F801}</source>
+    <target>〉 Yaso Magatsuhi is no longer here...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Voice\0{F87A,-133}{F813,1,473000}Yaso Magatsuhi...{F801}</source>
+    <target>{F812}Voice\0{F87A,-133}{F813,1,473000}Yaso Magatsuhi...{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>〉 The stone that was once Yaso Magatsuhi{F801}is sitting in front of you...{F801}</source>
+    <target>〉 The stone that was once Yaso Magatsuhi{F801}is sitting in front of you...{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>〉 A voice emanates from the stone in{F801}front of you...{F801}</source>
+    <target>〉 A voice emanates from the stone in{F801}front of you...{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Yaso Magatsuhi\0{F87A,211}{F813,1,473003}Yaso Magatsuhi...{F801}</source>
+    <target>{F812}Yaso Magatsuhi\0{F87A,211}{F813,1,473003}Yaso Magatsuhi...{F801}</target>
+  </entry>
+</mbm>

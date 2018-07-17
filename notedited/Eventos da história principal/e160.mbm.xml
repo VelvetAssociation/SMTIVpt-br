@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,160001}Where is Lilith...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,160001}Where is Lilith...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Man's voice\0{F813,0,160002}Pathetic fools who cannot comprehend{F801}Lady Yuriko's wisdom...{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,160002}Pathetic fools who cannot comprehend{F801}Lady Yuriko's wisdom...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Ring of Gaea man\0{F87A,53}{F813,0,160003}You are fighting the wrong people.{F801}</source>
+    <target>{F812}Ring of Gaea man\0{F87A,53}{F813,0,160003}You are fighting the wrong people.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The Domain's seal is still active...{F801}</source>
+    <target>〉 The Domain's seal is still active...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,160004}Lilith... Where has she gone...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,160004}Lilith... Where has she gone...?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 {F843,0} proceeded further in...{F801}</source>
+    <target>〉 {F843,0} proceeded further in...{F801}</target>
+  </entry>
+</mbm>

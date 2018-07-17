@@ -1,0 +1,102 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Lilith\0{F87A,-463}{F813,0,169001}...I have been waiting for you.{F801}</source>
+    <target>{F812}Lilith\0{F87A,-463}{F813,0,169001}...I have been waiting for you.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Lilith\0{F87A,206}{F813,0,169002}It seems you are the humans I thought{F801}you might be.{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F813,0,169002}It seems you are the humans I thought{F801}you might be.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}Error!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}Error!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,169003}Your world which the strong can shape{F801}as they see fit...{F801}{F802}{F813,0,169004}We've decided to stake all on that.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,169003}Your world which the strong can shape{F801}as they see fit...{F801}{F802}{F813,0,169004}We've decided to stake all on that.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169005}Hmhmhm... The knowledge and wisdom I{F801}gave you wasn't for nothing, then.{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169005}Hmhmhm... The knowledge and wisdom I{F801}gave you wasn't for nothing, then.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169006}Let us go to {F804,5}Camp Ichigaya{F804,0} together.{F801}{F802}{F813,0,169007}There, we shall take control of the{F801}Yamato Perpetual Reactor...{F801}{F802}{F813,0,169008}...And use it to open the gate to{F801}the Expanse.{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169006}Let us go to {F804,5}Camp Ichigaya{F804,0} together.{F801}{F802}{F813,0,169007}There, we shall take control of the{F801}Yamato Perpetual Reactor...{F801}{F802}{F813,0,169008}...And use it to open the gate to{F801}the Expanse.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,169009}What is this "Expanse"?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,169009}What is this "Expanse"?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169010}It is the home realm of the demons...{F801}{F802}{F813,0,169011}Our goal is to unleash demons--the{F801}incarnations of human desire--into{F801}this world.{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169010}It is the home realm of the demons...{F801}{F802}{F813,0,169011}Our goal is to unleash demons--the{F801}incarnations of human desire--into{F801}this world.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169012}When all the demons are unleashed,{F801}the current structures of authority{F801}will no longer apply.{F801}{F802}{F813,0,169013}Those who do not succumb to demons and{F801}survive...{F801}{F802}{F813,0,169014}They will be the ones with the strength{F801}to change the world...{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169012}When all the demons are unleashed,{F801}the current structures of authority{F801}will no longer apply.{F801}{F802}{F813,0,169013}Those who do not succumb to demons and{F801}survive...{F801}{F802}{F813,0,169014}They will be the ones with the strength{F801}to change the world...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169015}What do you think? Doesn't that sound{F801}ideal?{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169015}What do you think? Doesn't that sound{F801}ideal?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,169016}It does... But the thought of being{F801}present at the event is making me{F801}weak in the knees...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,169016}It does... But the thought of being{F801}present at the event is making me{F801}weak in the knees...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169017}But you're already in league with{F801}demons now.{F801}{F802}{F813,0,169018}And you have been since you began{F801}using the demon summoning program...{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169017}But you're already in league with{F801}demons now.{F801}{F802}{F813,0,169018}And you have been since you began{F801}using the demon summoning program...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169020}Tayama will have a few dangerous{F801}National Defense Divinities summoned{F801}at Camp Ichigaya.{F801}{F802}{F813,0,169021}I shall help you...{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169020}Tayama will have a few dangerous{F801}National Defense Divinities summoned{F801}at Camp Ichigaya.{F801}{F802}{F813,0,169021}I shall help you...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169022}This time, humans will build their own{F801}paradise.{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169022}This time, humans will build their own{F801}paradise.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169023}Now, let us go, Blessed Samurai...{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F87B,206,1,1,1}{F813,0,169023}Now, let us go, Blessed Samurai...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,169024}Humans building their own paradise...{F801}{F802}{F813,0,169025}...That has a certain ring to it.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,169024}Humans building their own paradise...{F801}{F802}{F813,0,169025}...That has a certain ring to it.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 You can now fuse{F801}{F804,5}{F874,463} {F842,463}.{F804,0}{F801}</source>
+    <target>〉 You can now fuse{F801}{F804,5}{F874,463} {F842,463}.{F804,0}{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 Where will you go?{F801}</source>
+    <target>〉 Where will you go?{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>The main hall entrance{F801}The exit outside{F801}</source>
+    <target>The main hall entrance{F801}The exit outside{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>The main hall entrance{F801}The exit outside{F801}The hall with the bench{F801}</source>
+    <target>The main hall entrance{F801}The exit outside{F801}The hall with the bench{F801}</target>
+  </entry>
+  <entry id="903">
+    <source>〉 You went to the main hall entrance.{F801}</source>
+    <target>〉 You went to the main hall entrance.{F801}</target>
+  </entry>
+  <entry id="904">
+    <source>〉 You went outside.{F801}</source>
+    <target>〉 You went outside.{F801}</target>
+  </entry>
+  <entry id="905">
+    <source>〉 You went to the hall with the bench.{F801}{F802}</source>
+    <target>〉 You went to the hall with the bench.{F801}{F802}</target>
+  </entry>
+  <entry id="906">
+    <source>〉 But the gate is tightly shut...{F801}</source>
+    <target>〉 But the gate is tightly shut...{F801}</target>
+  </entry>
+</mbm>

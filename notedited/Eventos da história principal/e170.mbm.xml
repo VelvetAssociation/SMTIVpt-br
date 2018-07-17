@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,170001}Y-You came! I had given up, thinking{F801}you'd forgotten about me...{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,170001}Y-You came! I had given up, thinking{F801}you'd forgotten about me...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,170002}Tayama and his men left. They said{F801}something about war at Ichigaya...{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,170002}Tayama and his men left. They said{F801}something about war at Ichigaya...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,170003}But enough of that, my brave fellows.{F801}{F802}{F813,0,170004}I shall give these to you. I took them{F801}while Tayama was away.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,170003}But enough of that, my brave fellows.{F801}{F802}{F813,0,170004}I shall give these to you. I took them{F801}while Tayama was away.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Obtained Card Keys 2, 3, and 4.{F801}</source>
+    <target>〉 Obtained Card Keys 2, 3, and 4.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,170005}Take them! They're a token of my gratitude.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,170005}Take them! They're a token of my gratitude.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,170006}I will... stay here a while more.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,170006}I will... stay here a while more.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,170007}Not to wait out the conflict, but to...{F801}find more mystic relics...{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,170007}Not to wait out the conflict, but to...{F801}find more mystic relics...{F801}</target>
+  </entry>
+</mbm>

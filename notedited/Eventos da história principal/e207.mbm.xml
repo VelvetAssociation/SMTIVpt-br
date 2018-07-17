@@ -1,0 +1,70 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,207001}You interested yet, Intruder buddies?{F801}{F802}{F813,0,207002}Will you take on Kenji with me?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,207001}You interested yet, Intruder buddies?{F801}{F802}{F813,0,207002}Will you take on Kenji with me?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Defeat Kenji with Akira{F801}Don't defeat Kenji{F801}</source>
+    <target>Defeat Kenji with Akira{F801}Don't defeat Kenji{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,207007}Heheh... hell yeah.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,207007}Heheh... hell yeah.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,207003}...I see.{F801}{F802}{F813,0,207004}And here I was ready to tell ya where{F801}the remote can be found.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,207003}...I see.{F801}{F802}{F813,0,207004}And here I was ready to tell ya where{F801}the remote can be found.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,207005}...Whoops, slip of the tongue there.{F801}{F802}{F813,0,207006}Well, talk to me if you change{F801}your mind.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,207005}...Whoops, slip of the tongue there.{F801}{F802}{F813,0,207006}Well, talk to me if you change{F801}your mind.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F87B,4,3,1,1}{F813,0,207008}So... where is this man Kenji?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F87B,4,3,1,1}{F813,0,207008}So... where is this man Kenji?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,207009}Don't rush me, goody-two-shoes.{F801}There's an order to everything.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,207009}Don't rush me, goody-two-shoes.{F801}There's an order to everything.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F87B,4,4,1,1}{F813,0,207010}"Goody-two-shoes"...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F87B,4,4,1,1}{F813,0,207010}"Goody-two-shoes"...?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,207011}Kenji's damn strong. We need weapons{F801}if we want to take him out.{F801}{F802}{F813,0,207012}Northwest of here, there's a town{F801}called Shinjuku.{F801}{F802}{F87B,85,12,1,1}{F813,0,207013}I plan to defeat the guys in charge{F801}there and take the town.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,207011}Kenji's damn strong. We need weapons{F801}if we want to take him out.{F801}{F802}{F813,0,207012}Northwest of here, there's a town{F801}called Shinjuku.{F801}{F802}{F87B,85,12,1,1}{F813,0,207013}I plan to defeat the guys in charge{F801}there and take the town.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,3,10,1,1}{F813,0,207014}We'll be pillaging the entire town?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,3,10,1,1}{F813,0,207014}We'll be pillaging the entire town?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,207015}Exactly, bad boy.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,207015}Exactly, bad boy.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,8,1,1}{F87B,3,1,1,1}{F813,0,207016}So I'm "bad boy," then...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,8,1,1}{F87B,3,1,1,1}{F813,0,207016}So I'm "bad boy," then...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,207018}Oh yeah... do you guys need a map{F801}of Tokyo?{F801}{F802}{F813,0,207019}I can hook you up.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,207018}Oh yeah... do you guys need a map{F801}of Tokyo?{F801}{F802}{F813,0,207019}I can hook you up.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 Akira awkwardly manipulated his{F801}smartphone...{F801}{F802}〉 A map of Tokyo has been uploaded to{F801}the Samurai's Gauntlets.{F801}</source>
+    <target>〉 Akira awkwardly manipulated his{F801}smartphone...{F801}{F802}〉 A map of Tokyo has been uploaded to{F801}the Samurai's Gauntlets.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,207020}Master {F843,0}, I've received{F801}the geographic data for this Tokyo.{F801}{F802}{F813,0,207021}The map functions are available now.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,207020}Master {F843,0}, I've received{F801}the geographic data for this Tokyo.{F801}{F802}{F813,0,207021}The map functions are available now.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,207022}Alright, let's go. You got me on your{F801}side now!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,207022}Alright, let's go. You got me on your{F801}side now!{F801}</target>
+  </entry>
+</mbm>

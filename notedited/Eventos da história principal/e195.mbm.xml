@@ -1,0 +1,78 @@
+<mbm>
+  <entry id="0">
+    <source>〉 {F843,0} and his fellow Samurai{F801}were locked inside a room...{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}were locked inside a room...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,195001}Hmph. No sooner do we meet someone{F801}who can give us answers than we're{F801}locked up.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,195001}Hmph. No sooner do we meet someone{F801}who can give us answers than we're{F801}locked up.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,195002}It was clear by their faces that they{F801}recognized our Gauntlets...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,195002}It was clear by their faces that they{F801}recognized our Gauntlets...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Simplehearted voice\0{F87A,1}{F813,0,195003}...You alive? You're alive, right?{F801}Hee hee hee...{F801}{F802}{F813,0,195004}Okay, tell me: Where did you get those{F801}Demonicas?{F801}</source>
+    <target>{F812}Simplehearted voice\0{F87A,1}{F813,0,195003}...You alive? You're alive, right?{F801}Hee hee hee...{F801}{F802}{F813,0,195004}Okay, tell me: Where did you get those{F801}Demonicas?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F813,0,195005}"Demonicas"...? Do you mean the{F801}Counter-Demon Force's...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,195005}"Demonicas"...? Do you mean the{F801}Counter-Demon Force's...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Simplehearted voice\0{F87A,1}{F813,0,195006}Oh sorry. Would it be easier to{F801}understand if I said "Demon Summoning{F801}Program"?{F801}{F802}{F813,0,195007}We scoured all of Tokyo for them.{F801}I didn't think there were any left!{F801}</source>
+    <target>{F812}Simplehearted voice\0{F87A,1}{F813,0,195006}Oh sorry. Would it be easier to{F801}understand if I said "Demon Summoning{F801}Program"?{F801}{F802}{F813,0,195007}We scoured all of Tokyo for them.{F801}I didn't think there were any left!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,4,10,1,1}{F813,0,195008}So this IS Tokyo...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,4,10,1,1}{F813,0,195008}So this IS Tokyo...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Simplehearted voice\0{F87A,1}{F813,0,195009}Hey, show me your Demon Summoning{F801}Program and I'll let you out, OK?{F801}</source>
+    <target>{F812}Simplehearted voice\0{F87A,1}{F813,0,195009}Hey, show me your Demon Summoning{F801}Program and I'll let you out, OK?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>Show him{F801}Don't show him{F801}</source>
+    <target>Show him{F801}Don't show him{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Simplehearted voice\0{F87A,1}{F813,0,195010}Yay!{F801}</source>
+    <target>{F812}Simplehearted voice\0{F87A,1}{F813,0,195010}Yay!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Simplehearted voice\0{F87A,1}{F813,0,195011}Come on! Don't be so stingy.{F801}{F802}{F813,0,195012}I'll come in to see it, then.{F801}</source>
+    <target>{F812}Simplehearted voice\0{F87A,1}{F813,0,195011}Come on! Don't be so stingy.{F801}{F802}{F813,0,195012}I'll come in to see it, then.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Armed man\0{F87A,99}{F813,0,195013}Kiyoharu, it's dangerous to get too{F801}close.{F801}</source>
+    <target>{F812}Armed man\0{F87A,99}{F813,0,195013}Kiyoharu, it's dangerous to get too{F801}close.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Kiyoharu\0{F87A,83}{F813,0,195014}...It IS! It's really a Demon{F801}Summoning Program!{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F813,0,195014}...It IS! It's really a Demon{F801}Summoning Program!{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Armed man\0{F87A,99}{F813,0,195016}Kiyoharu? What should we do with{F801}them...?{F801}</source>
+    <target>{F812}Armed man\0{F87A,99}{F813,0,195016}Kiyoharu? What should we do with{F801}them...?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Kiyoharu\0{F87A,83}{F813,0,195017}Why, they're my dear guests! You need{F801}to let them go, of course.{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F813,0,195017}Why, they're my dear guests! You need{F801}to let them go, of course.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Kiyoharu\0{F87A,83}{F813,0,195018}Ooooh, I haven't been this excited{F801}since I first saw the angels!{F801}{F802}{F813,0,195019}I should tell Akira!{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F813,0,195018}Ooooh, I haven't been this excited{F801}since I first saw the angels!{F801}{F802}{F813,0,195019}I should tell Akira!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 Kiyoharu walked away.{F801}</source>
+    <target>〉 Kiyoharu walked away.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Armed man\0{F87A,99}{F813,0,195020}Ummm... Well, you're free to walk{F801}around.{F801}</source>
+    <target>{F812}Armed man\0{F87A,99}{F813,0,195020}Ummm... Well, you're free to walk{F801}around.{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>{F812}Kiyoharu\0{F87A,83}{F813,0,195015}Ahahahaaaha! Finally, our prayers have{F801}been answered! Hee hee!{F801}</source>
+    <target>{F812}Kiyoharu\0{F87A,83}{F813,0,195015}Ahahahaaaha! Finally, our prayers have{F801}been answered! Hee hee!{F801}</target>
+  </entry>
+</mbm>

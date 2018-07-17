@@ -1,0 +1,154 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F813,0,158001}I knew you would come, {F843,0}.{F801}</source>
+    <target>{F812}Voice\0{F813,0,158001}I knew you would come, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F813,0,158002}May I say one thing...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,158002}May I say one thing...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,158003}This feeling of gloom I've had since{F801}I was a child is hard to put into{F801}words...{F801}{F802}{F813,0,158004}But thanks to the knowledge and wisdom{F801}Lilith has given me, I am now able to{F801}express it.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,158003}This feeling of gloom I've had since{F801}I was a child is hard to put into{F801}words...{F801}{F802}{F813,0,158004}But thanks to the knowledge and wisdom{F801}Lilith has given me, I am now able to{F801}express it.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,158005}Another man's rule is only that:{F801}his rules.{F801}{F802}{F813,0,158044}'Tis a mistake to believe that those{F801}rules will make your own life better.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,158005}Another man's rule is only that:{F801}his rules.{F801}{F802}{F813,0,158044}'Tis a mistake to believe that those{F801}rules will make your own life better.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,158006}Of course I realize that if I aid{F801}Lilith, it may cause the world harm.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,158006}Of course I realize that if I aid{F801}Lilith, it may cause the world harm.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,158007}But the world is in such a state now{F801}that I can see no option remaining to{F801}me than to change it.{F801}{F802}{F87B,4,2,1,1}{F813,0,158008}I'm willing to wager everything on{F801}that chance.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,158007}But the world is in such a state now{F801}that I can see no option remaining to{F801}me than to change it.{F801}{F802}{F87B,4,2,1,1}{F813,0,158008}I'm willing to wager everything on{F801}that chance.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,5,1,1}{F813,0,158009}...Will you come with me to see Lilith?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,5,1,1}{F813,0,158009}...Will you come with me to see Lilith?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>Go with Walter{F801}Beg off for now{F801}</source>
+    <target>Go with Walter{F801}Beg off for now{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F813,0,158015}Now we have both of us lost a place{F801}to call home, eh?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,158015}Now we have both of us lost a place{F801}to call home, eh?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,158019}I see...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,158019}I see...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,158020}I'll still be waiting here in the{F801}hopes that you change your mind.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,158020}I'll still be waiting here in the{F801}hopes that you change your mind.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 Walter has joined you.{F801}</source>
+    <target>〉 Walter has joined you.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87B,4,12,1,1}{F813,0,158021}I knew that you'd be back.{F801}</source>
+    <target>{F812}Walter\0{F87B,4,12,1,1}{F813,0,158021}I knew that you'd be back.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,158022}I'm being a nag, I realize, but I{F801}would like to know your answer.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,158022}I'm being a nag, I realize, but I{F801}would like to know your answer.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Voice\0{F813,0,158023}I had a feeling you'd come, {F843,0}.{F801}</source>
+    <target>{F812}Voice\0{F813,0,158023}I had a feeling you'd come, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,158024}I can understand how confusing these{F801}very different opinions can seem...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,158024}I can understand how confusing these{F801}very different opinions can seem...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Jonathan\0{F87A,171}{F87B,171,12,1,1}{F813,0,158025}But let us say a new world was to be{F801}forged. What do you think would result?{F801}{F802}{F813,0,158026}You believe that a leader with neither{F801}experience nor deeds backing him up{F801}could create a world for the people?{F801}{F802}{F813,0,158027}Do you not see how the people would{F801}descend into a state of chaos as you{F801}rebuilt everything from bedrock?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F87B,171,12,1,1}{F813,0,158025}But let us say a new world was to be{F801}forged. What do you think would result?{F801}{F802}{F813,0,158026}You believe that a leader with neither{F801}experience nor deeds backing him up{F801}could create a world for the people?{F801}{F802}{F813,0,158027}Do you not see how the people would{F801}descend into a state of chaos as you{F801}rebuilt everything from bedrock?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Jonathan\0{F87A,171}{F87B,171,2,1,1}{F813,0,158028}Does it not seem to you that Lilith{F801}spoke such tempting words...{F801}{F802}{F813,0,158029}Only to laugh at seeing us panic?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F87B,171,2,1,1}{F813,0,158028}Does it not seem to you that Lilith{F801}spoke such tempting words...{F801}{F802}{F813,0,158029}Only to laugh at seeing us panic?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Jonathan\0{F87A,171}{F87B,171,2,1,1}{F813,0,158030}Do not be so swayed by the concept of{F801}reform that you are blind to reality.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F87B,171,2,1,1}{F813,0,158030}Do not be so swayed by the concept of{F801}reform that you are blind to reality.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Jonathan\0{F87A,171}{F87B,171,11,1,1}{F813,0,158031}{F843,0}...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F87B,171,11,1,1}{F813,0,158031}{F843,0}...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Jonathan\0{F87A,171}{F87B,171,11,1,1}{F813,0,158032}Let us go together and destroy Lilith,{F801}the root of this evil.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F87B,171,11,1,1}{F813,0,158032}Let us go together and destroy Lilith,{F801}the root of this evil.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>Go with Jonathan{F801}Beg off for now{F801}</source>
+    <target>Go with Jonathan{F801}Beg off for now{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,158033}I see... So you have sided with{F801}Jonathan.{F801}{F802}{F813,0,158034}I saw you making for the entrance to{F801}Naraku, and I assumed...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,158033}I see... So you have sided with{F801}Jonathan.{F801}{F802}{F813,0,158034}I saw you making for the entrance to{F801}Naraku, and I assumed...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,158012}But I cannot go with you. There is{F801}still much that I must think about...{F801}{F802}{F87B,5,3,1,1}......{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,158012}But I cannot go with you. There is{F801}still much that I must think about...{F801}{F802}{F87B,5,3,1,1}......{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,12,1,1}{F813,0,158037}...I shall pray for your safety.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,12,1,1}{F813,0,158037}...I shall pray for your safety.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,5,1,1}{F813,0,158038}*sniff*...{F801}{F802}{F813,0,158039}How pathetic of me, weeping openly.{F801}I am not fit to be called a Samurai...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,5,1,1}{F813,0,158038}*sniff*...{F801}{F802}{F813,0,158039}How pathetic of me, weeping openly.{F801}I am not fit to be called a Samurai...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Jonathan\0{F87A,171}{F87B,171,10,1,1}{F813,0,158040}I see...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F87B,171,10,1,1}{F813,0,158040}I see...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Jonathan\0{F87A,171}{F87B,171,3,1,1}{F813,0,158041}I shall stay here a while longer in{F801}the hopes you have a change of heart.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F87B,171,3,1,1}{F813,0,158041}I shall stay here a while longer in{F801}the hopes you have a change of heart.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 Jonathan has joined you.{F801}</source>
+    <target>〉 Jonathan has joined you.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Voice\0{F87B,3,4,1,1}{F813,0,158042}So you are back.{F801}</source>
+    <target>{F812}Voice\0{F87B,3,4,1,1}{F813,0,158042}So you are back.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,158043}Let me ask you once more...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,158043}Let me ask you once more...{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,158010}I see... So you have sided with Walter.{F801}{F802}{F813,0,158011}I saw you making for the residence hall,{F801}and I assumed...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,158010}I see... So you have sided with Walter.{F801}{F802}{F813,0,158011}I saw you making for the residence hall,{F801}and I assumed...{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,158012}But I cannot go with you. There is{F801}still much that I must think about...{F801}{F802}......{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,158012}But I cannot go with you. There is{F801}still much that I must think about...{F801}{F802}......{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,12,1,1}{F813,0,158014}Take care, you two.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,12,1,1}{F813,0,158014}Take care, you two.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,158016}Master {F843,0}, hang on.{F801}{F802}{F813,0,158017}Factoring that decision into your{F801}quest log makes a few of them{F801}contradictory.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,158016}Master {F843,0}, hang on.{F801}{F802}{F813,0,158017}Factoring that decision into your{F801}quest log makes a few of them{F801}contradictory.{F801}</target>
+  </entry>
+  <entry id="125">
+    <source>〉 Isabeau walked away...{F801}</source>
+    <target>〉 Isabeau walked away...{F801}</target>
+  </entry>
+  <entry id="210">
+    <source>〉 Isabeau walked away...{F801}</source>
+    <target>〉 Isabeau walked away...{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>〉 Burroughs is discarding some quests{F801}from the Gauntlet's memory...{F801}</source>
+    <target>〉 Burroughs is discarding some quests{F801}from the Gauntlet's memory...{F801}</target>
+  </entry>
+</mbm>

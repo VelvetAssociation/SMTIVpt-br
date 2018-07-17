@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A vast, white space spreads as far{F801}as you can see...{F801}</source>
+    <target>〉 A vast, white space spreads as far{F801}as you can see...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Jonathan and Walter are nowhere to{F801}be seen...{F801}</source>
+    <target>〉 Jonathan and Walter are nowhere to{F801}be seen...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}The White\0{F87A,77}{F813,0,205001}Your atom has brushed against one{F801}possible world.{F801}{F802}{F813,0,205002}It is the possible world that he{F801}chooses to preserve.{F801}</source>
+    <target>{F812}The White\0{F87A,77}{F813,0,205001}Your atom has brushed against one{F801}possible world.{F801}{F802}{F813,0,205002}It is the possible world that he{F801}chooses to preserve.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}The White\0{F87A,124}{F813,0,205003}...You have sensed it.{F801}{F802}{F813,0,205004}You know that the future you chose to{F801}preserve was swallowed by an even{F801}higher power's will to preserve.{F801}</source>
+    <target>{F812}The White\0{F87A,124}{F813,0,205003}...You have sensed it.{F801}{F802}{F813,0,205004}You know that the future you chose to{F801}preserve was swallowed by an even{F801}higher power's will to preserve.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}The White\0{F87A,78}{F813,0,205005}However, you have the choice to{F801}not preserve.{F801}{F802}{F813,0,205006}We shall show you that possibility too.{F801}</source>
+    <target>{F812}The White\0{F87A,78}{F813,0,205005}However, you have the choice to{F801}not preserve.{F801}{F802}{F813,0,205006}We shall show you that possibility too.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}The White\0{F87A,75}{F813,0,205007}But do not forget...{F801}</source>
+    <target>{F812}The White\0{F87A,75}{F813,0,205007}But do not forget...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}The White\0{F813,0,205008}What lies in store for the future of{F801}humans is a wasteland of despair{F801}because they are mere tools.{F801}</source>
+    <target>{F812}The White\0{F813,0,205008}What lies in store for the future of{F801}humans is a wasteland of despair{F801}because they are mere tools.{F801}</target>
+  </entry>
+</mbm>

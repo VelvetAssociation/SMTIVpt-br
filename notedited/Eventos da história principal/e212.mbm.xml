@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-542}Whoa there, hold up.{F801}{F802}Open up those wallets. If you're going{F801}in, you need to pay the toll... Hm?{F801}</source>
+    <target>{F812}Demon\0{F87A,-542}Whoa there, hold up.{F801}{F802}Open up those wallets. If you're going{F801}in, you need to pay the toll... Hm?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-542}{F813,0,212001}Yo, Akira! Funny seeing you here.{F801}</source>
+    <target>{F812}Demon\0{F87A,-542}{F813,0,212001}Yo, Akira! Funny seeing you here.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Akira\0{F87A,85}{F813,0,212002}Oh, hey there. It must be hard work,{F801}standing guarding here.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,212002}Oh, hey there. It must be hard work,{F801}standing guarding here.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-542}{F813,0,212003}You brought some friends to go{F801}shopping? Guess scavenging trash{F801}is more profitable than I thought.{F801}</source>
+    <target>{F812}Demon\0{F87A,-542}{F813,0,212003}You brought some friends to go{F801}shopping? Guess scavenging trash{F801}is more profitable than I thought.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F813,0,212004}Scavenging trash...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,212004}Scavenging trash...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Akira\0{F87A,85}{F813,0,212007}We need to pay if we want to pass...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,212007}We need to pay if we want to pass...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Akira\0{F87A,85}{F813,0,212010}Shhhh...!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,212010}Shhhh...!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Demon\0{F87A,-542}{F813,0,212011}I heard that, Akira. Your neurishers{F801}are pretty ballsy, eh?{F801}</source>
+    <target>{F812}Demon\0{F87A,-542}{F813,0,212011}I heard that, Akira. Your neurishers{F801}are pretty ballsy, eh?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Akira\0{F87A,85}{F813,0,212012}So much for my great plan...{F801}F-Fine, whatever!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,212012}So much for my great plan...{F801}F-Fine, whatever!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 Akira threatened the demon from behind{F801}the Samurai...{F801}</source>
+    <target>〉 Akira threatened the demon from behind{F801}the Samurai...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,212014}Ah... Akira?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,212014}Ah... Akira?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Demon\0{F87A,-542}{F813,0,212017}Pretty bold for you, Akira...{F801}</source>
+    <target>{F812}Demon\0{F87A,-542}{F813,0,212017}Pretty bold for you, Akira...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Demon\0{F87A,-542}{F813,0,212018}Guess your neurishers haven't been{F801}disciplined right, so I'll teach 'em{F801}how things work here.{F801}</source>
+    <target>{F812}Demon\0{F87A,-542}{F813,0,212018}Guess your neurishers haven't been{F801}disciplined right, so I'll teach 'em{F801}how things work here.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Akira\0{F87A,85}{F813,0,212019}You shouldn't have stood up against{F801}the future king. Learn your place!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,212019}You shouldn't have stood up against{F801}the future king. Learn your place!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,212020}How full of braggadocio he is...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,212020}How full of braggadocio he is...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Akira\0{F87A,85}{F813,0,212021}Wow, you guys are good. Though I'd{F801}expect nothing less from my Intruders.{F801}{F802}{F813,0,212022}Now, let's just get rid of the leader{F801}here the same way, okay? Heheh...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,212021}Wow, you guys are good. Though I'd{F801}expect nothing less from my Intruders.{F801}{F802}{F813,0,212022}Now, let's just get rid of the leader{F801}here the same way, okay? Heheh...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Demon\0{F87A,-542}{F813,0,212005}You know the routine. Oh, and today,{F801}pass it to me in your teeth.{F801}</source>
+    <target>{F812}Demon\0{F87A,-542}{F813,0,212005}You know the routine. Oh, and today,{F801}pass it to me in your teeth.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Walter\0{F87A,4}{F813,0,212008}What? You're here as a conqueror of{F801}the city! Why allow THEM to condescend{F801}you?{F801}{F802}{F813,0,212009}Show some backbone and tell them{F801}straight, "I'm here to take Shinjuku."{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,212008}What? You're here as a conqueror of{F801}the city! Why allow THEM to condescend{F801}you?{F801}{F802}{F813,0,212009}Show some backbone and tell them{F801}straight, "I'm here to take Shinjuku."{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>〉 Akira quickly took shelter behind the{F801}young Samurai.{F801}</source>
+    <target>〉 Akira quickly took shelter behind the{F801}young Samurai.{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Akira\0{F87A,85}{F813,0,212015}You got a surprise comin'!{F801}{F802}{F813,0,212016}They'll show you!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,212015}You got a surprise comin'!{F801}{F802}{F813,0,212016}They'll show you!{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>{F812}Walter\0{F87A,4}{F813,0,212006}Hoy, Akira, what the devil is this{F801}thing talking about?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,212006}Hoy, Akira, what the devil is this{F801}thing talking about?{F801}</target>
+  </entry>
+  <entry id="208">
+    <source>{F812}Akira\0{F87A,85}{F813,0,212013}Hey! Y-You! Who do you think you're{F801}talking to!?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,212013}Hey! Y-You! Who do you think you're{F801}talking to!?{F801}</target>
+  </entry>
+</mbm>

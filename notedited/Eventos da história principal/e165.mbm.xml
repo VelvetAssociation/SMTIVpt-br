@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>〉 There is a pile of stones in front{F801}of you.{F801}</source>
+    <target>〉 There is a pile of stones in front{F801}of you.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 A man appears from the back of the{F801}pile...{F801}</source>
+    <target>〉 A man appears from the back of the{F801}pile...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Man in tears\0{F87A,137}{F813,0,165001}D-Don't hurt me, man... I surrender...{F801}I-I'll even lick your boo--huh?{F801}</source>
+    <target>{F812}Man in tears\0{F87A,137}{F813,0,165001}D-Don't hurt me, man... I surrender...{F801}I-I'll even lick your boo--huh?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F813,0,165002}{F812}Man in tears\0{F87A,137}Oh... Don't scare me like that.{F801}I thought that kid was back...{F801}</source>
+    <target>{F813,0,165002}{F812}Man in tears\0{F87A,137}Oh... Don't scare me like that.{F801}I thought that kid was back...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,165003}What happened?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,165003}What happened?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Man in tears\0{F87A,137}{F813,0,165004}Some kid came outta nowhere and then{F801}told me to get out of his way.{F801}{F802}{F813,0,165005}And I thought, hell no, I wasn't gonna{F801}let his punk ass through. S-So I went{F801}after him...{F801}</source>
+    <target>{F812}Man in tears\0{F87A,137}{F813,0,165004}Some kid came outta nowhere and then{F801}told me to get out of his way.{F801}{F802}{F813,0,165005}And I thought, hell no, I wasn't gonna{F801}let his punk ass through. S-So I went{F801}after him...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Man in tears\0{F87A,137}{F813,0,165006}But he killed all my demons! He went{F801}straight in without even looking at me.{F801}{F802}{F813,0,165007}He wa-He was about you guys' age... But from{F801}the look in his eyes, he was anything{F801}but a law-abiding citizen.{F801}</source>
+    <target>{F812}Man in tears\0{F87A,137}{F813,0,165006}But he killed all my demons! He went{F801}straight in without even looking at me.{F801}{F802}{F813,0,165007}He wa-He was about you guys' age... But from{F801}the look in his eyes, he was anything{F801}but a law-abiding citizen.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Man in tears\0{F87A,137}{F813,0,165008}Sorry, Mr. Tayama, but I'm done.{F801}See ya...{F801}</source>
+    <target>{F812}Man in tears\0{F87A,137}{F813,0,165008}Sorry, Mr. Tayama, but I'm done.{F801}See ya...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The man in tears walked away...{F801}</source>
+    <target>〉 The man in tears walked away...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 An unfriendly man is standing here...{F801}</source>
+    <target>〉 An unfriendly man is standing here...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,1,403013}Y-You're...!{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,1,403013}Y-You're...!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,3}{F813,1,400103}Those wounds are dreadful... Who did{F801}this to you?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,1,400103}Those wounds are dreadful... Who did{F801}this to you?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,1,151050}D... Don't give me that. It was{F801}YOUR buddy, dipshit...{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,1,151050}D... Don't give me that. It was{F801}YOUR buddy, dipshit...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Unfriendly man\0{F87A,46}Y... Yamato's... done for... Even{F801}Mr. Tayama... can't stop him...{F801}{F802}Yamato... Our... Perpetual...{F801}Reactor...{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}Y... Yamato's... done for... Even{F801}Mr. Tayama... can't stop him...{F801}{F802}Yamato... Our... Perpetual...{F801}Reactor...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 The unfriendly man collapsed, his eyes{F801}still open...{F801}</source>
+    <target>〉 The unfriendly man collapsed, his eyes{F801}still open...{F801}</target>
+  </entry>
+</mbm>

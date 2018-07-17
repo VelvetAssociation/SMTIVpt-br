@@ -1,0 +1,206 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,206001}...Ah, you've awakened.{F801}{F802}{F813,0,206002}It seems we're once again at the{F801}Counter-Demon Force base...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,206001}...Ah, you've awakened.{F801}{F802}{F813,0,206002}It seems we're once again at the{F801}Counter-Demon Force base...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F813,0,206003}Hoy, are you awake?{F801}{F802}{F813,0,206004}We're back at the Counter-Demon{F801}Force base...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,206003}Hoy, are you awake?{F801}{F802}{F813,0,206004}We're back at the Counter-Demon{F801}Force base...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 A bizarre-looking man entered the room.{F801}</source>
+    <target>〉 A bizarre-looking man entered the room.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,206005}Who's there!?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,206005}Who's there!?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Bizarre man\0{F87A,146}{F813,0,206006}That's my line. You just suddenly{F801}appeared at our hideout--{F801}{F802}{F813,0,206007}Huh...?{F801}</source>
+    <target>{F812}Bizarre man\0{F87A,146}{F813,0,206006}That's my line. You just suddenly{F801}appeared at our hideout--{F801}{F802}{F813,0,206007}Huh...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Bizarre man\0{F87A,146}{F813,0,206008}Those are Gauntlets...{F801}</source>
+    <target>{F812}Bizarre man\0{F87A,146}{F813,0,206008}Those are Gauntlets...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Bizarre man\0{F87A,146}{F813,0,206009}Oh, this is perfect. Akira! Hey, Akira!{F801}</source>
+    <target>{F812}Bizarre man\0{F87A,146}{F813,0,206009}Oh, this is perfect. Akira! Hey, Akira!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The bizarre man ran away shouting.{F801}</source>
+    <target>〉 The bizarre man ran away shouting.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F813,0,206010}Akira...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,206010}Akira...?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,206051}Gracious...!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,206051}Gracious...!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Walter\0{F87A,4}{F813,0,206052}Errr, it seems... unstable...!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,206052}Errr, it seems... unstable...!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Akira\0{F87A,85}{F813,0,206053}Always hilarious to see a country boy{F801}reacting to the big city for the{F801}first time.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,206053}Always hilarious to see a country boy{F801}reacting to the big city for the{F801}first time.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Akira\0{F87A,85}{F813,0,206054}It's like this everywhere. There's{F801}always a few gang wars going on.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,206054}It's like this everywhere. There's{F801}always a few gang wars going on.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87A,4}{F813,0,206055}This is very different from Kiyoharu's{F801}Tokyo, or ours...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,206055}This is very different from Kiyoharu's{F801}Tokyo, or ours...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Akira\0{F87A,85}{F813,0,206056}You can do whatever you want here,{F801}as long as you got the strength to{F801}back it up. That's the rule in Tokyo.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,206056}You can do whatever you want here,{F801}as long as you got the strength to{F801}back it up. That's the rule in Tokyo.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F813,0,206057}Nice and simple.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,206057}Nice and simple.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Akira\0{F87A,85}{F813,0,206058}Now's not the time to stand around{F801}and gawk, though. We're gonna be at{F801}war ourselves soon.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,206058}Now's not the time to stand around{F801}and gawk, though. We're gonna be at{F801}war ourselves soon.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,206059}Are you... using us to extend your{F801}influence?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,206059}Are you... using us to extend your{F801}influence?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Akira\0{F87A,85}{F813,0,206060}Don't sweat the details. Together,{F801}we're gonna be the new kings of Tokyo!{F801}{F802}{F813,0,206061}Alright, good boys and bad, it's time{F801}to get going to Shinjuku.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,206060}Don't sweat the details. Together,{F801}we're gonna be the new kings of Tokyo!{F801}{F802}{F813,0,206061}Alright, good boys and bad, it's time{F801}to get going to Shinjuku.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Smirking man\0{F87A,85}{F813,0,206016}...Who the hell are these guys?{F801}</source>
+    <target>{F812}Smirking man\0{F87A,85}{F813,0,206016}...Who the hell are these guys?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Bizarre man\0{F87A,146}{F813,0,206017}These are the guys I was talking{F801}about, Akira. See? Their arms,{F801}look at their arms.{F801}</source>
+    <target>{F812}Bizarre man\0{F87A,146}{F813,0,206017}These are the guys I was talking{F801}about, Akira. See? Their arms,{F801}look at their arms.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,206018}This man's also called Akira?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,206018}This man's also called Akira?{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,206019}The Intruders came to meet with me...?{F801}Lady Luck is on my side.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,206019}The Intruders came to meet with me...?{F801}Lady Luck is on my side.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,206020}"Intruders"...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,206020}"Intruders"...?{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F87B,85,1,1,1}{F813,0,206021}Alright, listen. You need to help{F801}me out.{F801}{F802}{F813,0,206022}We're gonna beat Kenji together.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F87B,85,1,1,1}{F813,0,206021}Alright, listen. You need to help{F801}me out.{F801}{F802}{F813,0,206022}We're gonna beat Kenji together.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,206023}Kenji...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,206023}Kenji...?{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,206024}Y'know, Kenji? As in, the King of Tokyo?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,206024}Y'know, Kenji? As in, the King of Tokyo?{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,206025}Hmm...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,206025}Hmm...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,206026}You guys are a little weird.{F801}{F802}{F813,0,206027}I wonder...{F801}{F802}{F813,0,206028}Lemme ask ya this: where'd you come{F801}from?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,206026}You guys are a little weird.{F801}{F802}{F813,0,206027}I wonder...{F801}{F802}{F813,0,206028}Lemme ask ya this: where'd you come{F801}from?{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 Jonathan whispered to {F843,0}{F801}and Walter.{F801}</source>
+    <target>〉 Jonathan whispered to {F843,0}{F801}and Walter.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,206029}We know nothing of this person or{F801}this world.{F801}{F802}{F813,0,206030}Perhaps we should simply say we're{F801}from Tokyo and see how he reacts?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,206029}We know nothing of this person or{F801}this world.{F801}{F802}{F813,0,206030}Perhaps we should simply say we're{F801}from Tokyo and see how he reacts?{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,206031}I think we should just say we're from{F801}the Eastern Kingdom of Mikado.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,206031}I think we should just say we're from{F801}the Eastern Kingdom of Mikado.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,206032}What are you whispering about?{F801}{F802}{F813,0,206033}I asked a simple question. Where'd{F801}you come from?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,206032}What are you whispering about?{F801}{F802}{F813,0,206033}I asked a simple question. Where'd{F801}you come from?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>"Tokyo."{F801}"The Eastern Kingdom of Mikado."{F801}</source>
+    <target>"Tokyo."{F801}"The Eastern Kingdom of Mikado."{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,7,1,2}{F87B,3,12,1,2}{F813,0,206034}Hoy, what are you saying...!?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,7,1,2}{F87B,3,12,1,2}{F813,0,206034}Hoy, what are you saying...!?{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,206035}That smells like a lie to me.{F801}It doesn't sound right...{F801}{F802}{F813,0,206036}You don't know enough to be from Tokyo.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,206035}That smells like a lie to me.{F801}It doesn't sound right...{F801}{F802}{F813,0,206036}You don't know enough to be from Tokyo.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F87B,4,12,1,1}{F813,0,206037}Ah! What are you saying...!?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F87B,4,12,1,1}{F813,0,206037}Ah! What are you saying...!?{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,206038}The Eastern Kingdom of Mikado...!?{F801}{F802}{F813,0,206039}Where's that? Russia? China?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,206038}The Eastern Kingdom of Mikado...!?{F801}{F802}{F813,0,206039}Where's that? Russia? China?{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,206040}Ha, I ask like it really matters.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,206040}Ha, I ask like it really matters.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,206041}Look, I don't care who you are.{F801}Let's work together, okay?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,206041}Look, I don't care who you are.{F801}Let's work together, okay?{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Akira\0{F87A,85}{F813,0,206042}Besides, if Kenji's men find you,{F801}you're dead.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,206042}Besides, if Kenji's men find you,{F801}you're dead.{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,4,3,1,1}{F813,0,206043}What do you mean...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,4,3,1,1}{F813,0,206043}What do you mean...?{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,206044}It seems Kenji's shaking in his boots{F801}after what the Prophets of the White{F801}World told him.{F801}{F802}{F813,0,206045}When the Intruders touch the remote,{F801}Kenji's gonna die.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,206044}It seems Kenji's shaking in his boots{F801}after what the Prophets of the White{F801}World told him.{F801}{F802}{F813,0,206045}When the Intruders touch the remote,{F801}Kenji's gonna die.{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F87B,3,7,1,2}{F813,0,206046}Remote...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F87B,3,7,1,2}{F813,0,206046}Remote...?{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,206047}You're interested in the remote, huh?{F801}{F802}{F813,0,206048}Well, I'll fill you in as we go.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,206047}You're interested in the remote, huh?{F801}{F802}{F813,0,206048}Well, I'll fill you in as we go.{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,206049}See, I think you guys are the{F801}Intruders from the prophecy.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,206049}See, I think you guys are the{F801}Intruders from the prophecy.{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,206050}If you join me, I won't let him kill{F801}ya. Let me know if you're interested.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,206050}If you join me, I won't let him kill{F801}ya. Let me know if you're interested.{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>{F812}Demonoid on guard\0{F87A,103}{F813,0,206011}...Nuh-uh. Keep away from the elevator.{F801}</source>
+    <target>{F812}Demonoid on guard\0{F87A,103}{F813,0,206011}...Nuh-uh. Keep away from the elevator.{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>{F812}Demonoid on guard\0{F87A,103}{F813,0,206012}Akira told me to not let anyone in or{F801}out right now.{F801}</source>
+    <target>{F812}Demonoid on guard\0{F87A,103}{F813,0,206012}Akira told me to not let anyone in or{F801}out right now.{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>{F812}Akira\0{F87A,85}{F813,0,206013}...And now Akira is telling you to{F801}let them use this elevator whenever{F801}they want.{F801}{F802}{F813,0,206014}These guys are my special guests.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,206013}...And now Akira is telling you to{F801}let them use this elevator whenever{F801}they want.{F801}{F802}{F813,0,206014}These guys are my special guests.{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>{F812}Demonoid on guard\0{F87A,103}{F813,0,206015}Oh? Oh...! Does that mean that the{F801}Intruders are finally here!?{F801}</source>
+    <target>{F812}Demonoid on guard\0{F87A,103}{F813,0,206015}Oh? Oh...! Does that mean that the{F801}Intruders are finally here!?{F801}</target>
+  </entry>
+</mbm>

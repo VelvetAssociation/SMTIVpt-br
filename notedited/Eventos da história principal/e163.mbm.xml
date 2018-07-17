@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Lilith\0{F87A,-463}{F813,0,163001}...You...{F801}{F802}{F813,0,163002}What do you want with me now?{F801}</source>
+    <target>{F812}Lilith\0{F87A,-463}{F813,0,163001}...You...{F801}{F802}{F813,0,163002}What do you want with me now?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Lilith\0{F87A,206}{F813,0,163003}I heard the story from your friend.{F801}You really couldn't accept my ideals?{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F813,0,163003}I heard the story from your friend.{F801}You really couldn't accept my ideals?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F813,0,163004}Lilith... the Black Samurai...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F813,0,163004}Lilith... the Black Samurai...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,163005}All the regrets of those you beguiled{F801}into abandoning their humanity...{F801}{F802}{F87B,3,10,1,2}{F813,0,163006}All the grief you have caused me by{F801}tearing our friendship asunder...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,163005}All the regrets of those you beguiled{F801}into abandoning their humanity...{F801}{F802}{F87B,3,10,1,2}{F813,0,163006}All the grief you have caused me by{F801}tearing our friendship asunder...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Lilith\0{F87A,206}{F813,0,163008}I showed you the unworthiness of your{F801}rulers... but it seems you'd rather{F801}live as their slave...{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F813,0,163008}I showed you the unworthiness of your{F801}rulers... but it seems you'd rather{F801}live as their slave...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Lilith\0{F87A,206}{F813,0,163009}You son of man, they who have debased{F801}themselves as the tools of an arrogant{F801}God...{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F813,0,163009}You son of man, they who have debased{F801}themselves as the tools of an arrogant{F801}God...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Lilith\0{F87A,206}{F813,0,163010}I shall show you the power of demons,{F801}the part of you that you deny...{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F813,0,163010}I shall show you the power of demons,{F801}the part of you that you deny...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Lilith\0{F87A,206}{F813,0,163011}Perish in my bosom.{F801}{F802}{F813,0,163012}I'll free your souls from pain...{F801}</source>
+    <target>{F812}Lilith\0{F87A,206}{F813,0,163011}Perish in my bosom.{F801}{F802}{F813,0,163012}I'll free your souls from pain...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,171}{F813,0,163016}We've defeated the Black Samurai{F801}at last...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F813,0,163016}We've defeated the Black Samurai{F801}at last...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,171}{F87B,171,10,1,1}{F813,0,163017}But... the victory rings hollow.{F801}Those last words she spoke...{F801}{F802}{F813,0,163018}"The gate to the Expanse"... And her{F801}mention of our "friend" gives me{F801}grave misgivings...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F87B,171,10,1,1}{F813,0,163017}But... the victory rings hollow.{F801}Those last words she spoke...{F801}{F802}{F813,0,163018}"The gate to the Expanse"... And her{F801}mention of our "friend" gives me{F801}grave misgivings...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,171}{F87B,171,6,1,1}{F813,0,163019}Tayama told us once that Yuriko{F801}coveted the generator...{F801}{F802}{F87B,171,8,1,1}{F813,0,163020}The Yamato Perpetual Reactor...{F801}{F802}{F87B,171,5,1,1}{F813,0,163021}What was Lilith's scheme?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F87B,171,6,1,1}{F813,0,163019}Tayama told us once that Yuriko{F801}coveted the generator...{F801}{F802}{F87B,171,8,1,1}{F813,0,163020}The Yamato Perpetual Reactor...{F801}{F802}{F87B,171,5,1,1}{F813,0,163021}What was Lilith's scheme?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>※10月ROM対応箇所です{F801}{F802}隠れ家にいるユíコとの戦闘になります{F801}戦闘に勝利すると次のÍäñトに進みます{F801}</source>
+    <target>※10月ROM対応箇所です{F801}{F802}隠れ家にいるユíコとの戦闘になります{F801}戦闘に勝利すると次のÍäñトに進みます{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,163007}I shall quell it all here! Prepare{F801}yourself, witch!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,163007}I shall quell it all here! Prepare{F801}yourself, witch!{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}{F802}{F813,0,163014}And two at once, at that.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}{F802}{F813,0,163014}And two at once, at that.{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,163015}Phew... It was a long, hard battle.{F801}Seeing it over brings a tear to my{F801}eye... So to speak.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,163015}Phew... It was a long, hard battle.{F801}Seeing it over brings a tear to my{F801}eye... So to speak.{F801}</target>
+  </entry>
+</mbm>

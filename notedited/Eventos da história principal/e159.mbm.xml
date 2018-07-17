@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>※10月ROM対応版です{F801}{F802}〉 Where will you go?{F801}</source>
+    <target>※10月ROM対応版です{F801}{F802}〉 Where will you go?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>The main hall entrance{F801}The exit outside{F801}</source>
+    <target>The main hall entrance{F801}The exit outside{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>The main hall entrance{F801}The exit outside{F801}The hall with the bench{F801}</source>
+    <target>The main hall entrance{F801}The exit outside{F801}The hall with the bench{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You went to the main hall entrance.{F801}</source>
+    <target>〉 You went to the main hall entrance.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 You went outside.{F801}</source>
+    <target>〉 You went outside.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 You went to the hall with the bench.{F801}{F802}</source>
+    <target>〉 You went to the hall with the bench.{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 But the gate is tightly shut...{F801}</source>
+    <target>〉 But the gate is tightly shut...{F801}</target>
+  </entry>
+</mbm>

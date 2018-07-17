@@ -1,0 +1,186 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A gigantic object is enshrined{F801}before you.{F801}</source>
+    <target>〉 A gigantic object is enshrined{F801}before you.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Error\0Dammy{F801}</source>
+    <target>{F812}Error\0Dammy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Error\0Dummy{F801}</source>
+    <target>{F812}Error\0Dummy{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Error\0Dummy{F801}</source>
+    <target>{F812}Error\0Dummy{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,202012}This is...{F801}{F802}{F87B,3,12,1,1}{F813,0,202013}He seems different from the rest.{F801}Burroughs, analyze him for us.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,202012}This is...{F801}{F802}{F87B,3,12,1,1}{F813,0,202013}He seems different from the rest.{F801}Burroughs, analyze him for us.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,202015}...We meet at last. That's Pluto the{F801}Tormentor.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,202015}...We meet at last. That's Pluto the{F801}Tormentor.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 You sense powerful pressure from{F801}Pluto...{F801}</source>
+    <target>〉 You sense powerful pressure from{F801}Pluto...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,3,12,1,1}{F813,0,202016}Trying to scare us? Nice try.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,3,12,1,1}{F813,0,202016}Trying to scare us? Nice try.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,202017}Fellows, are you ready?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,202017}Fellows, are you ready?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>"I'm ready."{F801}"Not yet..."{F801}</source>
+    <target>"I'm ready."{F801}"Not yet..."{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Error\0{F87A,4}{F87B,4,2,1,1}Dummy{F801}</source>
+    <target>{F812}Error\0{F87A,4}{F87B,4,2,1,1}Dummy{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The pressure from Pluto increased...{F801}</source>
+    <target>〉 The pressure from Pluto increased...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 Pluto remained still, waiting for your{F801}next move...{F801}</source>
+    <target>〉 Pluto remained still, waiting for your{F801}next move...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 Pluto sits before you.{F801}</source>
+    <target>〉 Pluto sits before you.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F87B,4,3,1,1}{F813,0,202019}Are you prepared now...?{F801} {F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,2}{F87B,4,3,1,1}{F813,0,202019}Are you prepared now...?{F801} {F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Walter\0{F87A,4}{F813,0,202021}Ahhhh...{F801}{F802}{F813,0,202022}Is it me, or does the air feel fresher{F801}already?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,202021}Ahhhh...{F801}{F802}{F813,0,202022}Is it me, or does the air feel fresher{F801}already?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,4,1,1}{F813,0,202023}You're quite enthusiastic, aren't you?{F801}{F802}{F87B,3,1,1,1}{F813,0,202024}I am glad to have freed Akira and{F801}his people from the poison.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,4,1,1}{F813,0,202023}You're quite enthusiastic, aren't you?{F801}{F802}{F87B,3,1,1,1}{F813,0,202024}I am glad to have freed Akira and{F801}his people from the poison.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 Unknown entities are barring your way.{F801}</source>
+    <target>〉 Unknown entities are barring your way.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,202005}These are called "Pluto Warriors."{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,202005}These are called "Pluto Warriors."{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 The Pluto Warriors suddenly rushed at{F801}{F843,0} and his fellows!{F801}</source>
+    <target>〉 The Pluto Warriors suddenly rushed at{F801}{F843,0} and his fellows!{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 A Pluto Warrior is barring your way.{F801}</source>
+    <target>〉 A Pluto Warrior is barring your way.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 The Pluto Warrior suddenly rushed at{F801}{F843,0} and his fellows!{F801}</source>
+    <target>〉 The Pluto Warrior suddenly rushed at{F801}{F843,0} and his fellows!{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 An unknown entity is barring your way.{F801}</source>
+    <target>〉 An unknown entity is barring your way.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,202011}This is called a "Pluto Giant."{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,202011}This is called a "Pluto Giant."{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 The Pluto Giants suddenly rushed at{F801}{F843,0} and his fellows!{F801}</source>
+    <target>〉 The Pluto Giants suddenly rushed at{F801}{F843,0} and his fellows!{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>〉 Unknown entities are barring your way.{F801}</source>
+    <target>〉 Unknown entities are barring your way.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,202001}What's this...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,202001}What's this...?{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Walter\0{F87A,4}Should we engage them?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Should we engage them?{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Jonathan\0{F87A,3}No... let's conserve our energy.{F801}We have no reason to fight them.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}No... let's conserve our energy.{F801}We have no reason to fight them.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Walter\0{F87A,4}Then let's go.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Then let's go.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,202004}There is something in the database{F801}Master Akira gave us that matches{F801}these runts.{F801}{F802}{F813,0,202009}They're called "Pluto Soldiers."{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,202004}There is something in the database{F801}Master Akira gave us that matches{F801}these runts.{F801}{F802}{F813,0,202009}They're called "Pluto Soldiers."{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>〉 The Pluto Soldiers suddenly attacked{F801}{F843,0} and his fellow Samurai.{F801}</source>
+    <target>〉 The Pluto Soldiers suddenly attacked{F801}{F843,0} and his fellow Samurai.{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,202018}Perhaps we'd best retreat for now.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,202018}Perhaps we'd best retreat for now.{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="123">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="128">
+    <source></source>
+    <target></target>
+  </entry>
+  <entry id="129">
+    <source>〉 The unknown entities continue to remain{F801}still...{F801}</source>
+    <target>〉 The unknown entities continue to remain{F801}still...{F801}</target>
+  </entry>
+  <entry id="133">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,202002}Hoy, Burroughs. Do you know what{F801}these are?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,202002}Hoy, Burroughs. Do you know what{F801}these are?{F801}</target>
+  </entry>
+  <entry id="134">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,202006}"Pluto"...? All of these are Pluto?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,202006}"Pluto"...? All of these are Pluto?{F801}</target>
+  </entry>
+  <entry id="135">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="234">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,202007}No, they're copies of him.{F801}Just common grunts.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,202007}No, they're copies of him.{F801}Just common grunts.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>ターミナúが壊れています{F801}</source>
+    <target>ターミナúが壊れています{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>砂漠の至る所にクéーターがあることを{F801}発見します{F801}</source>
+    <target>砂漠の至る所にクéーターがあることを{F801}発見します{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F813,0,193001}It's vacant to the point of being{F801}unsettling... The ground's pocked with{F801}holes, as if they'd been scooped out.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,193001}It's vacant to the point of being{F801}unsettling... The ground's pocked with{F801}holes, as if they'd been scooped out.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,171}{F87B,171,5,1,1}{F813,0,193002}In school, we learned that many of the{F801}lakes in the Eastern Kingdom of Mikado{F801}were once cavities such as these.{F801}{F802}{F813,0,193003}{F87B,171,10,1,1}I wonder if everyone in the Eastern{F801}Kingdom of Mikado is safe...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,171}{F87B,171,5,1,1}{F813,0,193002}In school, we learned that many of the{F801}lakes in the Eastern Kingdom of Mikado{F801}were once cavities such as these.{F801}{F802}{F813,0,193003}{F87B,171,10,1,1}I wonder if everyone in the Eastern{F801}Kingdom of Mikado is safe...?{F801}</target>
+  </entry>
+</mbm>
