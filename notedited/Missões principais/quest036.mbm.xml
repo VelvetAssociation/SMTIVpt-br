@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>It's possible that you can become a new hope for{F801}the {F804,5}goddess of Tokyo...{F804,0} So I'd like to help you{F801}get back to the Tokyo where you belong.{F801} {F801}You should try to {F804,5}defeat the four White{F804,0} who are{F801}skulking around this forest somewhere.{F801}</source>
+    <target>It's possible that you can become a new hope for{F801}the {F804,5}goddess of Tokyo...{F804,0} So I'd like to help you{F801}get back to the Tokyo where you belong.{F801} {F801}You should try to {F804,5}defeat the four White{F804,0} who are{F801}skulking around this forest somewhere.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Despair is the flip side of hope.{F801} {F801}Nicely done, defeating one of the White.{F801}There are only {F804,5}three{F804,0} left in this forest.{F801}Keep working hard and you'll get there.{F801}</source>
+    <target>Despair is the flip side of hope.{F801} {F801}Nicely done, defeating one of the White.{F801}There are only {F804,5}three{F804,0} left in this forest.{F801}Keep working hard and you'll get there.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>One of the virtues of being human is the ability{F801}to respect others' choices as much as your own.{F801} {F801}Nicely done, defeating one of the White.{F801}There are only {F804,5}two{F804,0} left in this forest.{F801}Keep working hard and you'll get there.{F801}</source>
+    <target>One of the virtues of being human is the ability{F801}to respect others' choices as much as your own.{F801} {F801}Nicely done, defeating one of the White.{F801}There are only {F804,5}two{F804,0} left in this forest.{F801}Keep working hard and you'll get there.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>The goddess of Tokyo's hopes rest on all humans,{F801}both those who live in Tokyo now and those who{F801}once did in the past.{F801} {F801}Nicely done. You're nearly there. Only {F804,5}one{F804,0} of{F801}the White is left in this forest. I know you{F801}can do it.{F801}</source>
+    <target>The goddess of Tokyo's hopes rest on all humans,{F801}both those who live in Tokyo now and those who{F801}once did in the past.{F801} {F801}Nicely done. You're nearly there. Only {F804,5}one{F804,0} of{F801}the White is left in this forest. I know you{F801}can do it.{F801}</target>
+  </entry>
+</mbm>

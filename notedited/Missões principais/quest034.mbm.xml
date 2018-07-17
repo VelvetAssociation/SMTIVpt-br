@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>The White are also embodiments of desire. Upon{F801}gaining knowledge and wisdom beyond their ken,{F801}they turned to a foolish despair. You need not{F801}waste time listening to their ravings. You must{F801}return to your own world and save the people.{F801}{F804,5}Slay the four White{F804,0} lurking within the forest.{F801}</source>
+    <target>The White are also embodiments of desire. Upon{F801}gaining knowledge and wisdom beyond their ken,{F801}they turned to a foolish despair. You need not{F801}waste time listening to their ravings. You must{F801}return to your own world and save the people.{F801}{F804,5}Slay the four White{F804,0} lurking within the forest.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Know that to cast aside one's will and descend into{F801}despair is an insult toward one's beloved neighbors.{F801}You have done well to slay one of the White. Only{F801}{F804,5}three{F804,0} remain in this forest. Keep up your untiring{F801}efforts.{F801}</source>
+    <target>Know that to cast aside one's will and descend into{F801}despair is an insult toward one's beloved neighbors.{F801}You have done well to slay one of the White. Only{F801}{F804,5}three{F804,0} remain in this forest. Keep up your untiring{F801}efforts.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Know that to cast aside one's will and descend into{F801}despair is folly that speaks of weakness and{F801}intolerance. You have done well to slay two of{F801}the White. Only {F804,5}two{F804,0} remain in this forest. Keep{F801}up your untiring efforts.{F801}</source>
+    <target>Know that to cast aside one's will and descend into{F801}despair is folly that speaks of weakness and{F801}intolerance. You have done well to slay two of{F801}the White. Only {F804,5}two{F804,0} remain in this forest. Keep{F801}up your untiring efforts.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>What merit is there for a human to cast aside its{F801}own will and descend into despair? You have done {F801}well to slay three of the White. Only {F804,5}one{F804,0} remains{F801}in this forest. I have faith that you, the warriors{F801}of light, will accomplish your task.{F801}</source>
+    <target>What merit is there for a human to cast aside its{F801}own will and descend into despair? You have done {F801}well to slay three of the White. Only {F804,5}one{F804,0} remains{F801}in this forest. I have faith that you, the warriors{F801}of light, will accomplish your task.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>I want you to {F804,5}kill Yuriko,{F804,0} that scary broad{F801}who's after the Ashura-kai's {F804,5}Yamato Reactor.{F804,0}{F801}She wants to put a lockdown on our electricity.{F801}You've offed plenty of demons up to now, so one{F801}woman shouldn't be so hard, right? The Ring of{F801}Gaea's temple is in Tsukiji. You can get there{F801}through Tokyo Station.{F801}</source>
+    <target>I want you to {F804,5}kill Yuriko,{F804,0} that scary broad{F801}who's after the Ashura-kai's {F804,5}Yamato Reactor.{F804,0}{F801}She wants to put a lockdown on our electricity.{F801}You've offed plenty of demons up to now, so one{F801}woman shouldn't be so hard, right? The Ring of{F801}Gaea's temple is in Tsukiji. You can get there{F801}through Tokyo Station.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>I've been keeping tabs on you through this{F801}Gauntlet thing your pal has. I'm impressed you{F801}beat some of those Gaea folks. I almost wish{F801}you were on my team. Keep going and {F804,5}take the{F801}entrance test,{F804,0} and say hi to Yuriko for me.{F801}</source>
+    <target>I've been keeping tabs on you through this{F801}Gauntlet thing your pal has. I'm impressed you{F801}beat some of those Gaea folks. I almost wish{F801}you were on my team. Keep going and {F804,5}take the{F801}entrance test,{F804,0} and say hi to Yuriko for me.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Burroughs' note:{F801} {F801}Yuriko seems like a shrewd woman. This isn't{F801}the best situation for us, but you definitely{F801}seem to be getting closer to your goal. Go on{F801}through the {F804,5}Passage of Ethics{F804,0} to see her.{F801}</source>
+    <target>Burroughs' note:{F801} {F801}Yuriko seems like a shrewd woman. This isn't{F801}the best situation for us, but you definitely{F801}seem to be getting closer to your goal. Go on{F801}through the {F804,5}Passage of Ethics{F804,0} to see her.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>I don't give a damn if Yuriko's this "Black{F801}Samurai" or not. She's a menace to both Tokyo{F801}and the Eastern Kingdom of Mikado. Hurry and{F801}bump her off already.{F801}</source>
+    <target>I don't give a damn if Yuriko's this "Black{F801}Samurai" or not. She's a menace to both Tokyo{F801}and the Eastern Kingdom of Mikado. Hurry and{F801}bump her off already.{F801}</target>
+  </entry>
+</mbm>

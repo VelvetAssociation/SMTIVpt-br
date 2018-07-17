@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>The more {F804,5}Terminals{F804,0} you {F804,5}activate,{F804,0} the easier you{F801}will find it to {F804,5}travel.{F804,0} I have asked that you{F801}activate them all, though I have no information{F801}on where or how many there are. Consider learning{F801}that information part of the quest.{F801}</source>
+    <target>The more {F804,5}Terminals{F804,0} you {F804,5}activate,{F804,0} the easier you{F801}will find it to {F804,5}travel.{F804,0} I have asked that you{F801}activate them all, though I have no information{F801}on where or how many there are. Consider learning{F801}that information part of the quest.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>It seems you've activated a Terminal.{F801}That makes {F804,5}one,{F804,0} by my count.{F801}Please keep up the hard work.{F801}</source>
+    <target>It seems you've activated a Terminal.{F801}That makes {F804,5}one,{F804,0} by my count.{F801}Please keep up the hard work.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>It seems you've activated a Terminal.{F801}That makes {F804,5}two,{F804,0} by my count.{F801}Please keep up the hard work.{F801}</source>
+    <target>It seems you've activated a Terminal.{F801}That makes {F804,5}two,{F804,0} by my count.{F801}Please keep up the hard work.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>It seems you've activated a Terminal.{F801}That makes {F804,5}three,{F804,0} by my count.{F801}Please keep up the hard work.{F801}</source>
+    <target>It seems you've activated a Terminal.{F801}That makes {F804,5}three,{F804,0} by my count.{F801}Please keep up the hard work.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>It seems you've activated a Terminal.{F801}That makes {F804,5}four,{F804,0} by my count.{F801}There may be many more... Please keep up{F801}the hard work.{F801}</source>
+    <target>It seems you've activated a Terminal.{F801}That makes {F804,5}four,{F804,0} by my count.{F801}There may be many more... Please keep up{F801}the hard work.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>It seems you've activated a Terminal.{F801}That makes {F804,5}five,{F804,0} by my count.{F801}Are you finding it easier to navigate Tokyo{F801}as a result? Please keep up the hard work.{F801}</source>
+    <target>It seems you've activated a Terminal.{F801}That makes {F804,5}five,{F804,0} by my count.{F801}Are you finding it easier to navigate Tokyo{F801}as a result? Please keep up the hard work.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>It seems you've activated a Terminal.{F801}That makes {F804,5}six,{F804,0} by my count.{F801}I find myself wondering how many Terminals{F801}there can be... In any case, please keep up{F801}the hard work.{F801}</source>
+    <target>It seems you've activated a Terminal.{F801}That makes {F804,5}six,{F804,0} by my count.{F801}I find myself wondering how many Terminals{F801}there can be... In any case, please keep up{F801}the hard work.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>You activated yet another Terminal? Do you{F801}realize that makes {F804,5}seven{F804,0} of them thus far?{F801}There cannot possibly be that many more...{F801}can there?{F801}</source>
+    <target>You activated yet another Terminal? Do you{F801}realize that makes {F804,5}seven{F804,0} of them thus far?{F801}There cannot possibly be that many more...{F801}can there?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>You activated yet another Terminal? Do you{F801}realize that makes {F804,5}eight{F804,0} of them thus far?{F801}Your tenacity in completing this quest is most{F801}impressive, but I personally am tiring of hearing{F801}the word "Terminal." Still, please keep up the{F801}hard work.{F801}</source>
+    <target>You activated yet another Terminal? Do you{F801}realize that makes {F804,5}eight{F804,0} of them thus far?{F801}Your tenacity in completing this quest is most{F801}impressive, but I personally am tiring of hearing{F801}the word "Terminal." Still, please keep up the{F801}hard work.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>You activated yet another Terminal? Do you{F801}realize that makes {F804,5}nine{F804,0} of them thus far?{F801}I'm at my wit's end... Pardon me for being abrupt,{F801}but {F804,5}when you find the next Terminal,{F804,0} I will{F801}consider {F804,5}this quest complete.{F804,0} We cannot while{F801}away all our time on finding Terminals, after all.{F801}</source>
+    <target>You activated yet another Terminal? Do you{F801}realize that makes {F804,5}nine{F804,0} of them thus far?{F801}I'm at my wit's end... Pardon me for being abrupt,{F801}but {F804,5}when you find the next Terminal,{F804,0} I will{F801}consider {F804,5}this quest complete.{F804,0} We cannot while{F801}away all our time on finding Terminals, after all.{F801}</target>
+  </entry>
+</mbm>

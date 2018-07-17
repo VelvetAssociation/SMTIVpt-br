@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F804,5}Search every nook and cranny of Kiccigiorgi Forest{F801}and find the survivors.{F804,0} Kiccigiorgi was raided{F801}by demons earlier, and you may be sure that some{F801}still lurk within the forest. Go about your task{F801}with the certainty that you will do battle.{F801}</source>
+    <target>{F804,5}Search every nook and cranny of Kiccigiorgi Forest{F801}and find the survivors.{F804,0} Kiccigiorgi was raided{F801}by demons earlier, and you may be sure that some{F801}still lurk within the forest. Go about your task{F801}with the certainty that you will do battle.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>ダミー{F801}</source>
+    <target>ダミー{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>First, well done thus far, my Samurai. I am{F801}contacting you all with new developments in this{F801}matter. It seems a {F804,5}Sabbath{F804,0} was being held in{F801}Kiccigiorgi Forest. There may be more survivors{F801}deeper inside. All Samurai are to {F804,5}search deeper{F801}within Kiccigiorgi Forest.{F804,0}{F801}</source>
+    <target>First, well done thus far, my Samurai. I am{F801}contacting you all with new developments in this{F801}matter. It seems a {F804,5}Sabbath{F804,0} was being held in{F801}Kiccigiorgi Forest. There may be more survivors{F801}deeper inside. All Samurai are to {F804,5}search deeper{F801}within Kiccigiorgi Forest.{F804,0}{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>I again thank all Samurai for their hard work{F801}in this mission. There have been new developments{F801}in this matter. A {F804,5}Black Samurai,{F804,0} appearing as {F804,5}a{F801}human clad in ebon armor,{F804,0} has been seen in the{F801}depths of Kiccigiorgi Forest. All Samurai are to{F801}make {F804,5}capturing this Black Samurai{F804,0} their highest{F801}priority.{F801}</source>
+    <target>I again thank all Samurai for their hard work{F801}in this mission. There have been new developments{F801}in this matter. A {F804,5}Black Samurai,{F804,0} appearing as {F804,5}a{F801}human clad in ebon armor,{F804,0} has been seen in the{F801}depths of Kiccigiorgi Forest. All Samurai are to{F801}make {F804,5}capturing this Black Samurai{F804,0} their highest{F801}priority.{F801}</target>
+  </entry>
+</mbm>

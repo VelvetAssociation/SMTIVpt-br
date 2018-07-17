@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F804,5}Pluto Castle{F804,0} is {F804,5}southeast from Shinjuku, near{F801}Kasumigaseki.{F804,0} {F804,5}You need to overthrow Pluto the{F801}Tormentor{F804,0} there. I used to be pretty hot at{F801}handling demons, but I don't have the strength{F801}to fight Pluto. I've got to trust in you{F801}Messiahs from another world.{F801}</source>
+    <target>{F804,5}Pluto Castle{F804,0} is {F804,5}southeast from Shinjuku, near{F801}Kasumigaseki.{F804,0} {F804,5}You need to overthrow Pluto the{F801}Tormentor{F804,0} there. I used to be pretty hot at{F801}handling demons, but I don't have the strength{F801}to fight Pluto. I've got to trust in you{F801}Messiahs from another world.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Burroughs' note:{F801} {F801}We've beaten Pluto the Tormentor, so let's go{F801}claim our prize. Master {F804,5}Akira{F804,0} in Shinjuku has{F801}it, right?{F801}</source>
+    <target>Burroughs' note:{F801} {F801}We've beaten Pluto the Tormentor, so let's go{F801}claim our prize. Master {F804,5}Akira{F804,0} in Shinjuku has{F801}it, right?{F801}</target>
+  </entry>
+</mbm>

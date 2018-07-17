@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F804,5}Go have a look at the facility beneath the Hills{F801}Building in Roppongi{F804,0} and Tayama's shameful secret{F801}will be laid bare. It won't be easy to get to for{F801}all sorts of reasons, but since you passed our{F801}entrance test, I'm sure you'll be fine.{F801}</source>
+    <target>{F804,5}Go have a look at the facility beneath the Hills{F801}Building in Roppongi{F804,0} and Tayama's shameful secret{F801}will be laid bare. It won't be easy to get to for{F801}all sorts of reasons, but since you passed our{F801}entrance test, I'm sure you'll be fine.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Burroughs' note:{F801}That Hikaru girl said that a man named {F804,5}Fujiwara{F801}in Shinjuku{F804,0} knows a lot about what's beneath{F801}Roppongi. It seems like {F804,5}Florida{F804,0} is a members-{F801}only cafe, but the {F804,5}matchbox{F804,0} she gave you should{F801}be {F804,5}proof of membership...?{F804,0}{F801}</source>
+    <target>Burroughs' note:{F801}That Hikaru girl said that a man named {F804,5}Fujiwara{F801}in Shinjuku{F804,0} knows a lot about what's beneath{F801}Roppongi. It seems like {F804,5}Florida{F804,0} is a members-{F801}only cafe, but the {F804,5}matchbox{F804,0} she gave you should{F801}be {F804,5}proof of membership...?{F804,0}{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Burroughs' note:{F801} {F801}According to Mastema, these things called {F804,5}Reds{F804,0}{F801}are important to what's under Roppongi. Looks like{F801}{F804,5}the barrier's gone, so you can move past it.{F804,0} I{F801}think we must be getting closer to this facility.{F801}</source>
+    <target>Burroughs' note:{F801} {F801}According to Mastema, these things called {F804,5}Reds{F804,0}{F801}are important to what's under Roppongi. Looks like{F801}{F804,5}the barrier's gone, so you can move past it.{F804,0} I{F801}think we must be getting closer to this facility.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+</mbm>

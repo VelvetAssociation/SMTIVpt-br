@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>I would have you {F804,5}rescue three of our allies, held{F801}prisoner at Shinjuku National Park.{F804,0} Tokyo is a land{F801}where the Lord's grace has no purchase; our allies{F801}were thus unable to wield their full might and{F801}easily overtaken by the culprits. Take care when{F801}attempting this rescue.{F801}</source>
+    <target>I would have you {F804,5}rescue three of our allies, held{F801}prisoner at Shinjuku National Park.{F804,0} Tokyo is a land{F801}where the Lord's grace has no purchase; our allies{F801}were thus unable to wield their full might and{F801}easily overtaken by the culprits. Take care when{F801}attempting this rescue.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Bless you for rescuing the {F804,5}first{F804,0} ally. {F804,5}Two{F804,0} more{F801}remain in captivity. I hope that you will continue{F801}your strenuous efforts on their behalf.{F801}</source>
+    <target>Bless you for rescuing the {F804,5}first{F804,0} ally. {F804,5}Two{F804,0} more{F801}remain in captivity. I hope that you will continue{F801}your strenuous efforts on their behalf.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>That was the {F804,5}second{F804,0} ally. Only {F804,5}one{F804,0} remains in{F801}captivity. I am certain that if you continue your{F801}strenuous effort, he shall shortly be freed.{F801}</source>
+    <target>That was the {F804,5}second{F804,0} ally. Only {F804,5}one{F804,0} remains in{F801}captivity. I am certain that if you continue your{F801}strenuous effort, he shall shortly be freed.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>You have now delivered all of our allies from{F801}bondage. I thank you on the Lord's behalf.{F801} {F801}I hesitate to ask this, as you must surely be{F801}tired, but I have another favor to ask of you.{F801}{F804,5}Please come to the Monastery.{F804,0}{F801}</source>
+    <target>You have now delivered all of our allies from{F801}bondage. I thank you on the Lord's behalf.{F801} {F801}I hesitate to ask this, as you must surely be{F801}tired, but I have another favor to ask of you.{F801}{F804,5}Please come to the Monastery.{F804,0}{F801}</target>
+  </entry>
+</mbm>

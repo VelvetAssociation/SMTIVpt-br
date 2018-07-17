@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>I appreciate the difficulties in searching for a{F801}single woman in a strange land. So I have issued{F801}a quest that may benefit you: {F804,5}find the base of{F801}this "Counter-Demon Force"{F804,0} somewhere in Tokyo. I{F801}suspect it is related to the Black Samurai... There{F801}ought to be {F804,5}useful data there,{F804,0} so I ask that{F801}you retrieve it as well.{F801}</source>
+    <target>I appreciate the difficulties in searching for a{F801}single woman in a strange land. So I have issued{F801}a quest that may benefit you: {F804,5}find the base of{F801}this "Counter-Demon Force"{F804,0} somewhere in Tokyo. I{F801}suspect it is related to the Black Samurai... There{F801}ought to be {F804,5}useful data there,{F804,0} so I ask that{F801}you retrieve it as well.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>I have reviewed Burroughs' log. It seems that you{F801}have learned important information from the Unclean{F801}Ones. Across the river from the place called {F804,5}Ueno{F804,0}{F801}is {F804,5}Kasumigaseki,{F804,0} where it would appear that{F801}the {F804,5}Counter-Demon Force Base{F804,0} is located. If you{F801}need to complete a quest in order to cross the river,{F801}then do so with my blessing.{F801}</source>
+    <target>I have reviewed Burroughs' log. It seems that you{F801}have learned important information from the Unclean{F801}Ones. Across the river from the place called {F804,5}Ueno{F804,0}{F801}is {F804,5}Kasumigaseki,{F804,0} where it would appear that{F801}the {F804,5}Counter-Demon Force Base{F804,0} is located. If you{F801}need to complete a quest in order to cross the river,{F801}then do so with my blessing.{F801}</target>
+  </entry>
+</mbm>

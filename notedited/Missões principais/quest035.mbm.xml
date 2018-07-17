@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>The reason that despair has been with you for{F801}generations is because your creator is an{F801}incompetent. But you seem capable enough, so{F801}I will lend a hand to you. {F804,5}Kill the four{F801}White{F804,0} who are lurking somewhere within this{F801}forest.{F801}</source>
+    <target>The reason that despair has been with you for{F801}generations is because your creator is an{F801}incompetent. But you seem capable enough, so{F801}I will lend a hand to you. {F804,5}Kill the four{F801}White{F804,0} who are lurking somewhere within this{F801}forest.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>To sink into despair is to admit your{F801}powerlessness. But you would never do that,{F801}yes? Well done in killing one of the White.{F801}Only {F804,5}three{F804,0} are left in this forest now.{F801}Keep showing me your strength...{F801}</source>
+    <target>To sink into despair is to admit your{F801}powerlessness. But you would never do that,{F801}yes? Well done in killing one of the White.{F801}Only {F804,5}three{F804,0} are left in this forest now.{F801}Keep showing me your strength...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Don't be taken in by the words of these{F801}"predecessors." You must stride boldly down{F801}your own path. Well done in killing one of{F801}the White. Only {F804,5}two{F804,0} are left in this forest{F801}now. Keep showing me your strength...{F801}</source>
+    <target>Don't be taken in by the words of these{F801}"predecessors." You must stride boldly down{F801}your own path. Well done in killing one of{F801}the White. Only {F804,5}two{F804,0} are left in this forest{F801}now. Keep showing me your strength...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Hearing those who repress their own will preach{F801}to humans is laughable indeed. Well done in killing{F801}one of the White. Only {F804,5}one{F804,0} is left in this forest{F801}now. You are almost at your goal.{F801}</source>
+    <target>Hearing those who repress their own will preach{F801}to humans is laughable indeed. Well done in killing{F801}one of the White. Only {F804,5}one{F804,0} is left in this forest{F801}now. You are almost at your goal.{F801}</target>
+  </entry>
+</mbm>

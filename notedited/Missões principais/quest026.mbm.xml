@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>I registered your exchange with your fellow Samurai{F801}as a quest. Looks like that {F804,5}Tayama{F804,0} guy is calling{F801}you out. It was a pretty simple message, though...{F801}Anyway, you just need to get to {F804,5}Shibuya.{F804,0}{F801}</source>
+    <target>I registered your exchange with your fellow Samurai{F801}as a quest. Looks like that {F804,5}Tayama{F804,0} guy is calling{F801}you out. It was a pretty simple message, though...{F801}Anyway, you just need to get to {F804,5}Shibuya.{F804,0}{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>I got a signal from a deep-voiced guy called Tayama,{F801}from the Ashura-kai. You're supposed to go to {F804,5}Club{F801}Milton{F804,0} in {F804,5}Shibuya,{F804,0} right? Apparently you need to{F801}{F804,5}meet with one of his "boys"{F804,0} there. I've heard of{F801}Club Milton before, but the data I had on it was{F801}corrupted. Sorry, but you'll have to find it on{F801}your own, Master {F843,0}.{F801}</source>
+    <target>I got a signal from a deep-voiced guy called Tayama,{F801}from the Ashura-kai. You're supposed to go to {F804,5}Club{F801}Milton{F804,0} in {F804,5}Shibuya,{F804,0} right? Apparently you need to{F801}{F804,5}meet with one of his "boys"{F804,0} there. I've heard of{F801}Club Milton before, but the data I had on it was{F801}corrupted. Sorry, but you'll have to find it on{F801}your own, Master {F843,0}.{F801}</target>
+  </entry>
+</mbm>

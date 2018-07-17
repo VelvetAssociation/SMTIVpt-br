@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F804,5}Offer the Great Spirit of Hope{F804,0} as a substitute{F801}for my lost powers. When the {F804,5}chalice{F804,0} is brimming{F801}with the hopes of the people of Tokyo, the Great{F801}Spirit of Hope shall appear.{F801}</source>
+    <target>{F804,5}Offer the Great Spirit of Hope{F804,0} as a substitute{F801}for my lost powers. When the {F804,5}chalice{F804,0} is brimming{F801}with the hopes of the people of Tokyo, the Great{F801}Spirit of Hope shall appear.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>A "champion," eh? Humans dream up such delightful{F801}things. If you truly wish to bring hope to the{F801}world of man, then it must be a man who delivers{F801}it, not any god or demon. Will you {F804,5}assume the{F801}throne of this "champion"?{F804,0}{F801}</source>
+    <target>A "champion," eh? Humans dream up such delightful{F801}things. If you truly wish to bring hope to the{F801}world of man, then it must be a man who delivers{F801}it, not any god or demon. Will you {F804,5}assume the{F801}throne of this "champion"?{F804,0}{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Your title of "champion" brings hope that elicits{F801}spontaneous hosannas from the people. Even my "new{F801}emperor" could not accomplish this. That is why{F801}hope will surge wherever you go. I suggest that{F801}you {F804,5}bring the people hope by showing your{F801}personage across the lands.{F804,0}{F801}</source>
+    <target>Your title of "champion" brings hope that elicits{F801}spontaneous hosannas from the people. Even my "new{F801}emperor" could not accomplish this. That is why{F801}hope will surge wherever you go. I suggest that{F801}you {F804,5}bring the people hope by showing your{F801}personage across the lands.{F804,0}{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>I see that you have in your possession the Great{F801}Spirit of Hope. The hopes of all Tokyo's peoples{F801}are within your hands. Hurry and {F804,5}bring the Great{F801}Spirit of Hope to me.{F804,0}{F801}</source>
+    <target>I see that you have in your possession the Great{F801}Spirit of Hope. The hopes of all Tokyo's peoples{F801}are within your hands. Hurry and {F804,5}bring the Great{F801}Spirit of Hope to me.{F804,0}{F801}</target>
+  </entry>
+</mbm>

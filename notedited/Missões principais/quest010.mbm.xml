@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>Capture the Black Samurai, who has disseminated{F801}{F804,5}Literature{F804,0} in the {F804,5}mystic script{F804,0} in our kingdom,{F801}causing the people to degenerate into demons.{F801}The Black Samurai may have ties with the {F804,5}Unclean{F801}Ones. You must {F804,5}investigate their country in the{F801}depths of Naraku,{F804,0} even though it violates this{F801}"Samurai code" you hold in such esteem.{F801}</source>
+    <target>Capture the Black Samurai, who has disseminated{F801}{F804,5}Literature{F804,0} in the {F804,5}mystic script{F804,0} in our kingdom,{F801}causing the people to degenerate into demons.{F801}The Black Samurai may have ties with the {F804,5}Unclean{F801}Ones. You must {F804,5}investigate their country in the{F801}depths of Naraku,{F804,0} even though it violates this{F801}"Samurai code" you hold in such esteem.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>I have reviewed Burroughs' log and the images{F801}contained therein. The battle attire called a{F801}{F804,5}Demonica{F804,0} is very similar to the portrait of the{F801}Black Samurai drawn from the people's testimony.{F801}It seems my judgement was correct... I must ask{F801}that you {F804,5}continue searching Tokyo for her.{F804,0}{F801}</source>
+    <target>I have reviewed Burroughs' log and the images{F801}contained therein. The battle attire called a{F801}{F804,5}Demonica{F804,0} is very similar to the portrait of the{F801}Black Samurai drawn from the people's testimony.{F801}It seems my judgement was correct... I must ask{F801}that you {F804,5}continue searching Tokyo for her.{F804,0}{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>I have reviewed Burroughs' log. It seems you{F801}have learned valuable information from the{F801}Unclean Ones. This {F804,5}Juraku Bookstore{F804,0} in the place{F801}called {F804,5}Ikebukuro{F804,0} may be the origin of the{F801}Literature the Black Samurai introduced into{F801}Mikado. Please, {F804,5}continue searching Tokyo for her.{F804,0}{F801}</source>
+    <target>I have reviewed Burroughs' log. It seems you{F801}have learned valuable information from the{F801}Unclean Ones. This {F804,5}Juraku Bookstore{F804,0} in the place{F801}called {F804,5}Ikebukuro{F804,0} may be the origin of the{F801}Literature the Black Samurai introduced into{F801}Mikado. Please, {F804,5}continue searching Tokyo for her.{F804,0}{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Burroughs' note:{F801}If you're going to search Tokyo, then you'll{F801}need access to everywhere... and it seems like{F801}this {F804,5}thing with the Corpses{F804,0} is keeping us from{F801}having that access. From what the heavily{F801}accented man said, it's probably a {F804,5}quest.{F804,0}{F801}</source>
+    <target>Burroughs' note:{F801}If you're going to search Tokyo, then you'll{F801}need access to everywhere... and it seems like{F801}this {F804,5}thing with the Corpses{F804,0} is keeping us from{F801}having that access. From what the heavily{F801}accented man said, it's probably a {F804,5}quest.{F804,0}{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>I have reviewed Burroughs' log. It seems you have{F801}assisted in an Unclean One's quest. Do remember{F801}that your ultimate goal is the capture of the{F801}Black Samurai. This {F804,5}Juraku Bookstore{F804,0} in the place{F801}called {F804,5}Ikebukuro{F804,0} seems suspicious, no? Then you{F801}know what must be done.{F801}</source>
+    <target>I have reviewed Burroughs' log. It seems you have{F801}assisted in an Unclean One's quest. Do remember{F801}that your ultimate goal is the capture of the{F801}Black Samurai. This {F804,5}Juraku Bookstore{F804,0} in the place{F801}called {F804,5}Ikebukuro{F804,0} seems suspicious, no? Then you{F801}know what must be done.{F801}</target>
+  </entry>
+</mbm>

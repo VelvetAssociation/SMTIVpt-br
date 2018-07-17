@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>A Samurai must keep up his strength, so I've made{F801}a quest of this too. 'Tis fine weather today, so{F801}we'll breakfast out of doors. I prefer rice porridge{F801}for breakfast, but I don't care for it without any{F801}fish in. Jonathan has waxed eloquent about a local{F801}{F804,5}bakery{F804,0} in the castle town; let's go there first to{F801}{F804,5}buy some bread.{F804,0}{F801}</source>
+    <target>A Samurai must keep up his strength, so I've made{F801}a quest of this too. 'Tis fine weather today, so{F801}we'll breakfast out of doors. I prefer rice porridge{F801}for breakfast, but I don't care for it without any{F801}fish in. Jonathan has waxed eloquent about a local{F801}{F804,5}bakery{F804,0} in the castle town; let's go there first to{F801}{F804,5}buy some bread.{F804,0}{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>We begged off of the baker's ravings and are{F801}making steady progress on the breakfast quest,{F801}having acquired three loaves of bread. As we're{F801}already out and about, I think we should go{F801}somewhere with a {F804,5}nice view{F804,0} to {F804,5}eat our breakfast.{F804,0}{F801}Have you any suggestions, {F843,0}?{F801}</source>
+    <target>We begged off of the baker's ravings and are{F801}making steady progress on the breakfast quest,{F801}having acquired three loaves of bread. As we're{F801}already out and about, I think we should go{F801}somewhere with a {F804,5}nice view{F804,0} to {F804,5}eat our breakfast.{F804,0}{F801}Have you any suggestions, {F843,0}?{F801}</target>
+  </entry>
+</mbm>
