@@ -1,0 +1,154 @@
+<mbm>
+  <entry id="0">
+    <source>〉 Voce nao pode mais proteger {F873,6}!{F801}{F802}</source>
+    <target>〉 Voce nao pode mais proteger {F873,6}!{F801}{F802}</target>
+  </entry>
+  <entry id="1">
+    <source>Escapando...{F801}{F802}</source>
+    <target>Escapando...{F801}{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>Voce nao conseguiu escapar!{F801}{F802}</source>
+    <target>Voce nao conseguiu escapar!{F801}{F802}</target>
+  </entry>
+  <entry id="3">
+    <source>Reforcos apareceram!{F801}{F802}</source>
+    <target>Reforcos apareceram!{F801}{F802}</target>
+  </entry>
+  <entry id="4">
+    <source>Voce foi aniquilado...{F801}{F802}</source>
+    <target>Voce foi aniquilado...{F801}{F802}</target>
+  </entry>
+  <entry id="5">
+    <source>Voce nao pode escapar desta batalha!{F801}{F802}</source>
+    <target>Voce nao pode escapar desta batalha!{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>Mudando para Batalha-Automatica. Cancele com o botao B.{F801}{F802}</source>
+    <target>Mudando para Batalha-Automatica. Cancele com o botao B.{F801}{F802}</target>
+  </entry>
+  <entry id="7">
+    <source>Mudando para Alvo-Automatico. Cancele com o botao B.{F801}{F802}</source>
+    <target>Mudando para Alvo-Automatico. Cancele com o botao B.{F801}{F802}</target>
+  </entry>
+  <entry id="8">
+    <source>Ataque surpresa bem-sucedido!{F801}{F802}</source>
+    <target>Ataque surpresa bem-sucedido!{F801}{F802}</target>
+  </entry>
+  <entry id="9">
+    <source>{F873,6} esta olhando pro nada.{F801}{F802}</source>
+    <target>{F873,6} esta olhando pro nada.{F801}{F802}</target>
+  </entry>
+  <entry id="10">
+    <source>{F873,6} perde o controle!{F801}{F802}</source>
+    <target>{F873,6} perde o controle!{F801}{F802}</target>
+  </entry>
+  <entry id="11">
+    <source>{F873,6} esta dormindo.{F801}{F802}</source>
+    <target>{F873,6} esta dormindo.{F801}{F802}</target>
+  </entry>
+  <entry id="12">
+    <source>{F873,6} nao pode se mover!{F801}{F802}</source>
+    <target>{F873,6} nao pode se mover!{F801}{F802}</target>
+  </entry>
+  <entry id="13">
+    <source>{F873,6} esta fofocando.{F801}{F802}</source>
+    <target>{F873,6} esta fofocando.{F801}{F802}</target>
+  </entry>
+  <entry id="14">
+    <source>{F873,6} esta falando sem parar.{F801}{F802}</source>
+    <target>{F873,6} esta falando sem parar.{F801}{F802}</target>
+  </entry>
+  <entry id="15">
+    <source>{F873,6} ainda esta falando.{F801}{F802}</source>
+    <target>{F873,6} ainda esta falando.{F801}{F802}</target>
+  </entry>
+  <entry id="16">
+    <source>A sorte de {F873,6} esta melhorando!{F801}{F802}</source>
+    <target>A sorte de {F873,6} esta melhorando!{F801}{F802}</target>
+  </entry>
+  <entry id="17">
+    <source>O desespero de {F873,6} fez com que ganhasse mais turnos!{F801}{F802}</source>
+    <target>O desespero de {F873,6} fez com que ganhasse mais turnos!{F801}{F802}</target>
+  </entry>
+  <entry id="18">
+    <source>A taxa de acerto/evasao de {F873,6} aumentou!{F801}{F802}</source>
+    <target>A taxa de acerto/evasao de {F873,6} aumentou!{F801}{F802}</target>
+  </entry>
+  <entry id="19">
+    <source>{F873,6} esta doente e esta com rigidez!{F801}{F802}</source>
+    <target>{F873,6} esta doente e esta com rigidez!{F801}{F802}</target>
+  </entry>
+  <entry id="20">
+    <source>{F873,6} esta envenenado(a)!{F801}{F802}</source>
+    <target>{F873,6} esta envenenado(a)!{F801}{F802}</target>
+  </entry>
+  <entry id="21">
+    <source>O resto da equipe esta dando seu melhor...{F801}{F802}</source>
+    <target>O resto da equipe esta dando seu melhor...{F801}{F802}</target>
+  </entry>
+  <entry id="22">
+    <source>{F873,6} foi jogado(a) para longe!{F801}{F802}</source>
+    <target>{F873,6} foi jogado(a) para longe!{F801}{F802}</target>
+  </entry>
+  <entry id="23">
+    <source>O demonio foi jogado(a) para longe!{F801}{F802}</source>
+    <target>O demonio foi jogado(a) para longe!{F801}{F802}</target>
+  </entry>
+  <entry id="24">
+    <source>{F843,0} foi derrubado(a)!{F801}{F802}</source>
+    <target>{F843,0} foi derrubado(a)!{F801}{F802}</target>
+  </entry>
+  <entry id="25">
+    <source>{F873,6} sorri...{F801}{F802}</source>
+    <target>{F873,6} sorri...{F801}{F802}</target>
+  </entry>
+  <entry id="26">
+    <source>{F873,6} aguentou o ataque!{F801}{F802}</source>
+    <target>{F873,6} aguentou o ataque!{F801}{F802}</target>
+  </entry>
+  <entry id="27">
+    <source>{F873,6} ressucitou com seu Enduring Soul!{F801}{F802}</source>
+    <target>{F873,6} ressucitou com seu Enduring Soul!{F801}{F802}</target>
+  </entry>
+  <entry id="28">
+    <source>{F873,6} adoeceu!{F801}{F802}</source>
+    <target>{F873,6} adoeceu!{F801}{F802}</target>
+  </entry>
+  <entry id="29">
+    <source>Nao teve efeito!{F801}{F802}</source>
+    <target>Nao teve efeito!{F801}{F802}</target>
+  </entry>
+  <entry id="30">
+    <source>Todos recuperaram a compostura!{F801}{F802}</source>
+    <target>Todos recuperaram a compostura!{F801}{F802}</target>
+  </entry>
+  <entry id="31">
+    <source>A magia de {F873,6} foi aumentada!{F801}{F802}</source>
+    <target>A magia de {F873,6} foi aumentada!{F801}{F802}</target>
+  </entry>
+  <entry id="32">
+    <source>A morte instantanea foi ativada!{F801}{F802}</source>
+    <target>A morte instantanea foi ativada!{F801}{F802}</target>
+  </entry>
+  <entry id="33">
+    <source>Todos sorriem...{F801}{F802}</source>
+    <target>Todos sorriem...{F801}{F802}</target>
+  </entry>
+  <entry id="34">
+    <source>A parede protetora foi anulada!{F801}{F802}</source>
+    <target>A parede protetora foi anulada!{F801}{F802}</target>
+  </entry>
+  <entry id="35">
+    <source>A parede protetora repeliu o ataque!{F801}{F802}</source>
+    <target>A parede protetora repeliu o ataque!{F801}{F802}</target>
+  </entry>
+  <entry id="36">
+    <source>{F873,6} esta marcado(a)...{F801}{F802}</source>
+    <target>{F873,6} esta marcado(a)...{F801}{F802}</target>
+  </entry>
+  <entry id="37">
+    <source>A resistencia foi atravessada!{F801}{F802}</source>
+    <target>A resistencia foi atravessada!{F801}{F802}</target>
+  </entry>
+</mbm>

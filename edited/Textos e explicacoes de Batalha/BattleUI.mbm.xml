@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F87D,3} ataque com o elemento {F87D,4}{F801}Alvo: {F87D,5} Adc: {F87D,6}{F801}</source>
+    <target>{F87D,3} ataque com o elemento {F87D,4}{F801}Alvo: {F87D,5} Adc: {F87D,6}{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F87D,3} ataque com o elemento {F87D,4}{F801}Alvo: {F87D,5} Adc: {F87D,6}{F801}</source>
+    <target>{F87D,3} ataque com o elemento {F87D,4}{F801}Alvo: {F87D,5} Adc: {F87D,6}{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F87D,3} ataque com o elemento {F87D,4}{F801}Alvo: {F87D,5} Adc: {F87D,6}{F801}</source>
+    <target>{F87D,3} ataque com o elemento {F87D,4}{F801}Alvo: {F87D,5} Adc: {F87D,6}{F801}</target>
+  </entry>
+</mbm>
