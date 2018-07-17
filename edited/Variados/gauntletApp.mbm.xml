@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,1}{F813,1,405600}Deseja comprar {F804,5}{F872,1}{F804,0}{F801}por {F804,5}{F878,1} ponto(s)?{F804,0}{F801}</source>
+    <target>{F812}Burroughs\0{F87A,1}{F813,1,405600}Deseja comprar {F804,5}{F872,1}{F804,0}{F801}por {F804,5}{F878,1} ponto(s)?{F804,0}{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Comprar{F801}Cancelar{F801}</source>
+    <target>Comprar{F801}Cancelar{F801}</target>
+  </entry>
+</mbm>

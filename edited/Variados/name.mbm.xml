@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>〉 Coloque um nome.{F801}</source>
+    <target>〉 Coloque um nome.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"{F811,50}", esta certo?{F801}</source>
+    <target>"{F811,50}", esta certo?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Sim{F801}Nao{F801}{F802}</source>
+    <target>Sim{F801}Nao{F801}{F802}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 O que deseja fazer?{F801}</source>
+    <target>〉 O que deseja fazer?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Cancelar colocar nome{F801}Continuar colocar nome{F801}Retornar para nome padrao{F801}{F802}</source>
+    <target>Cancelar colocar nome{F801}Continuar colocar nome{F801}Retornar para nome padrao{F801}{F802}</target>
+  </entry>
+  <entry id="5">
+    <source>Continuar colocar nome{F801}Retornar para nome padrao{F801}{F802}</source>
+    <target>Continuar colocar nome{F801}Retornar para nome padrao{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Este nome nao pode ser usado.{F801}</source>
+    <target>〉 Este nome nao pode ser usado.{F801}</target>
+  </entry>
+</mbm>

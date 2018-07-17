@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>O jogo sera configurado para a dificuldade{F801}selecionada. Deseja confirmar?{F801}</source>
+    <target>O jogo sera configurado para a dificuldade{F801}selecionada. Deseja confirmar?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Sim{F801}Nao{F801}</source>
+    <target>Sim{F801}Nao{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Por favor, selecione um nivel de dificuldade.{F801}</source>
+    <target>Por favor, selecione um nivel de dificuldade.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>O volume sera configurado para este nivel.{F801}Deseja confirmar?{F801}</source>
+    <target>O volume sera configurado para este nivel.{F801}Deseja confirmar?{F801}</target>
+  </entry>
+</mbm>

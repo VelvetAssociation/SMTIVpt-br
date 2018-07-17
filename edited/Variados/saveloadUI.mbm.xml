@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>Sobrescrevendo os dados salvos. Continuar?{F801}</source>
+    <target>Sobrescrevendo os dados salvos. Continuar?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Sim{F801}Nao{F801}</source>
+    <target>Sim{F801}Nao{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Nao desligue enquanto estiver salvando.{F801}</source>
+    <target>Nao desligue enquanto estiver salvando.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Dados salvos com sucesso.{F801}</source>
+    <target>Dados salvos com sucesso.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Nao desligue enquanto estiver carregando{F801}</source>
+    <target>Nao desligue enquanto estiver carregando{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>Carregamento realizado com sucesso.{F801}</source>
+    <target>Carregamento realizado com sucesso.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>Salvando dados. Continuar?{F801}</source>
+    <target>Salvando dados. Continuar?{F801}</target>
+  </entry>
+</mbm>
