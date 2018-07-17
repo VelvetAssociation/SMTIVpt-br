@@ -1,0 +1,86 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400005}Hm, are you tired? Would you like to{F801}take a nap?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400005}Hm, voce esta cansado? Voce gostaria{F801}de tirar uma soneca?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Rest your head{F801}Don't rest your head{F801}</source>
+    <target>Descancar{F801}Nao descancar{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,2}If the ceiling over Tokyo is going away,{F801}that means the Eastern Kingdom of{F801}Mikado's days are numbered.{F801}{F802}This could be the last time that you rest{F801}in this room.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Se o teto sob Tokyo ira sumir, isso significa{F801}que os dias do Reino Oriental de Mikado{F801}estao contados.{F801}{F802}Essa pode ser a ultima vez que voce ira{F801}descancar neste quarto.{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,405800}Bom dia, Mestre.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,405800}Bom dia, Mestre.{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,405800}Bom dia, Mestre.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,405800}Bom dia, Mestre.{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,405800}Bom dia, Mestre.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,405800}Bom dia, Mestre.{F801}</target>
+  </entry>
+  <entry id="130">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,405810}Voce se recuperou do cansaco?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,405810}Voce se recuperou do cansaco?{F801}</target>
+  </entry>
+  <entry id="131">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,405810}Voce se recuperou do cansaco?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,405810}Voce se recuperou do cansaco?{F801}</target>
+  </entry>
+  <entry id="132">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,405810}Voce se recuperou do cansaco?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,405810}Voce se recuperou do cansaco?{F801}</target>
+  </entry>
+  <entry id="140">
+    <source>{F812}Walter\0{F87A,4}{F813,0,405820}Vamos indo.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,405820}Vamos indo.{F801}</target>
+  </entry>
+  <entry id="141">
+    <source>{F812}Walter\0{F87A,4}{F813,0,405820}Vamos indo.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,405820}Vamos indo.{F801}</target>
+  </entry>
+  <entry id="142">
+    <source>{F812}Walter\0{F87A,4}{F813,0,405820}Vamos indo.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,405820}Vamos indo.{F801}</target>
+  </entry>
+  <entry id="150">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,405830}Voce esta acordado?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,405830}Voce esta acordado?{F801}</target>
+  </entry>
+  <entry id="151">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,405830}Voce esta acordado?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,405830}Voce esta acordado?{F801}</target>
+  </entry>
+  <entry id="152">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,405830}Voce esta acordado?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,405830}Voce esta acordado?{F801}</target>
+  </entry>
+  <entry id="920">
+    <source>{F812}Merkabah\0{F87A,92}{F813,0,405840}Partamos, Guerreiro da Luz.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,92}{F813,0,405840}Partamos, Guerreiro da Luz.{F801}</target>
+  </entry>
+  <entry id="921">
+    <source>{F812}Merkabah\0{F87A,92}{F813,0,405840}Partamos, Guerreiro da Luz.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,92}{F813,0,405840}Partamos, Guerreiro da Luz.{F801}</target>
+  </entry>
+  <entry id="922">
+    <source>{F812}Merkabah\0{F87A,92}{F813,0,405840}Partamos, Guerreiro da Luz.{F801}</source>
+    <target>{F812}Merkabah\0{F87A,92}{F813,0,405840}Partamos, Guerreiro da Luz.{F801}</target>
+  </entry>
+  <entry id="930">
+    <source>{F812}Demonio Lorde Lucifer\0{F87A,93}{F813,0,405850}Vamos, para o Armagedom.{F801}</source>
+    <target>{F812}Demonio Lorde Lucifer\0{F87A,93}{F813,0,405850}Vamos, para o Armagedom.{F801}</target>
+  </entry>
+  <entry id="931">
+    <source>{F812}Demonio Lorde Lucifer\0{F87A,93}{F813,0,405850}Vamos, para o Armagedom.{F801}</source>
+    <target>{F812}Demonio Lorde Lucifer\0{F87A,93}{F813,0,405850}Vamos, para o Armagedom.{F801}</target>
+  </entry>
+  <entry id="932">
+    <source>{F812}Demonio Lorde Lucifer\0{F87A,93}{F813,0,405850}Vamos, para o Armagedom.{F801}</source>
+    <target>{F812}Demonio Lorde Lucifer\0{F87A,93}{F813,0,405850}Vamos, para o Armagedom.{F801}</target>
+  </entry>
+</mbm>
