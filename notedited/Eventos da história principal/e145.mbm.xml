@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You felt something's presence...{F801}</source>
+    <target>〉 You felt something's presence...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F813,0,145001}...Who goes there?{F801}</source>
+    <target>{F812}Voice\0{F813,0,145001}...Who goes there?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-16}{F813,0,145002}I thought I told him to kill any vermin{F801}who scuttles in here.{F801}</source>
+    <target>{F812}Demon\0{F87A,-16}{F813,0,145002}I thought I told him to kill any vermin{F801}who scuttles in here.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,222}{F813,0,145003}Foolish sons of man...{F801}{F802}{F813,0,145004}I shall direct you to Hell.{F801}</source>
+    <target>{F812}Demon\0{F87A,222}{F813,0,145003}Foolish sons of man...{F801}{F802}{F813,0,145004}I shall direct you to Hell.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F87B,5,1,1,3}{F813,0,145005}Revered angel... It is a blessing{F801}to know that an ally such as yourself{F801}is here in Tokyo.{F801}{F802}{F813,0,145006}Can you accompany us?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F87B,5,1,1,3}{F813,0,145005}Revered angel... It is a blessing{F801}to know that an ally such as yourself{F801}is here in Tokyo.{F801}{F802}{F813,0,145006}Can you accompany us?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Mastema\0{F87A,222}{F813,0,145007}Alas, I cannot. I am not to leave my{F801}post here.{F801}{F802}{F813,0,145008}I must be vigilant for intruders from{F801}the Ring of Gaea and those who would{F801}steal the red pills.{F801}</source>
+    <target>{F812}Mastema\0{F87A,222}{F813,0,145007}Alas, I cannot. I am not to leave my{F801}post here.{F801}{F802}{F813,0,145008}I must be vigilant for intruders from{F801}the Ring of Gaea and those who would{F801}steal the red pills.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F87B,3,12,1,1}{F813,0,145009}Red pills...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F87B,3,12,1,1}{F813,0,145009}Red pills...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Mastema\0{F87A,222}{F813,0,145010}Yes. Your objective is deeper within,{F801}correct?{F801}{F802}{F813,0,145011}If the red pills are lost to us, all{F801}hope of order in Tokyo will be lost.{F801}</source>
+    <target>{F812}Mastema\0{F87A,222}{F813,0,145010}Yes. Your objective is deeper within,{F801}correct?{F801}{F802}{F813,0,145011}If the red pills are lost to us, all{F801}hope of order in Tokyo will be lost.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Mastema\0{F87A,222}{F813,0,145013}Hahaha...! You have already bested{F801}Tenkai. I have no desire to be struck{F801}down.{F801}{F802}{F813,0,145014}Besides which, if you raise havoc{F801}here, Tayama will know.{F801}</source>
+    <target>{F812}Mastema\0{F87A,222}{F813,0,145013}Hahaha...! You have already bested{F801}Tenkai. I have no desire to be struck{F801}down.{F801}{F802}{F813,0,145014}Besides which, if you raise havoc{F801}here, Tayama will know.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Mastema\0{F87A,222}{F813,0,145016}So you wish to go on ahead...?{F801}I shall remove the barrier.{F801}</source>
+    <target>{F812}Mastema\0{F87A,222}{F813,0,145016}So you wish to go on ahead...?{F801}I shall remove the barrier.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Mastema\0{F87A,-16}{F813,0,145017}Mrgh... nrgh... Hah!{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}{F813,0,145017}Mrgh... nrgh... Hah!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Mastema\0{F87A,222}{F813,0,145018}...Please do not let on about this{F801}to Tayama, my fellows.{F801}{F802}{F813,0,145019}I am carrying out the Lord's will in{F801}my own way...{F801}</source>
+    <target>{F812}Mastema\0{F87A,222}{F813,0,145018}...Please do not let on about this{F801}to Tayama, my fellows.{F801}{F802}{F813,0,145019}I am carrying out the Lord's will in{F801}my own way...{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,5,10,1,2}{F813,0,145012}And what would you do if we were dogs{F801}of the Ring of Gaea?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,5,10,1,2}{F813,0,145012}And what would you do if we were dogs{F801}of the Ring of Gaea?{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,5,8,1,1}{F813,0,145015}This is a rather shady character...{F801}I'd want to inspect the halo before{F801}I took him at his word.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,5,8,1,1}{F813,0,145015}This is a rather shady character...{F801}I'd want to inspect the halo before{F801}I took him at his word.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

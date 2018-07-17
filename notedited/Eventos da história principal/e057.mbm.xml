@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,57001}Well done, prentices.{F801}{F802}{F813,0,57002}I must ask that you report what{F801}happened right away.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,57001}Well done, prentices.{F801}{F802}{F813,0,57002}I must ask that you report what{F801}happened right away.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 {F843,0} made his report to Hope{F801}on what happened inside the forest.{F801}</source>
+    <target>〉 {F843,0} made his report to Hope{F801}on what happened inside the forest.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,57003}...I see. So the Black Samurai has{F801}some knowledge of demon summoning...{F801}{F802}{F813,0,57004}And those who read the Black Samurai's{F801}books turn into demons...{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,57003}...I see. So the Black Samurai has{F801}some knowledge of demon summoning...{F801}{F802}{F813,0,57004}And those who read the Black Samurai's{F801}books turn into demons...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,57005}Of late, we have heard more accounts{F801}of demons seen outside Naraku.{F801}{F802}{F813,0,57006}If this is the Black Samurai's doing,{F801}tonight's events make sense.{F801}{F802}{F813,0,57007}So, Abbot Hugo's surmise was{F801}correct...{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,57005}Of late, we have heard more accounts{F801}of demons seen outside Naraku.{F801}{F802}{F813,0,57006}If this is the Black Samurai's doing,{F801}tonight's events make sense.{F801}{F802}{F813,0,57007}So, Abbot Hugo's surmise was{F801}correct...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F813,0,57008}Hoy... If those who read the books{F801}became demons, then all those demons{F801}wandering within that forest...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,57008}Hoy... If those who read the books{F801}became demons, then all those demons{F801}wandering within that forest...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,57009}Shh, {F843,0}'ll hear you.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,57009}Shh, {F843,0}'ll hear you.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Master Samurai\0{F87A,29}{F813,0,57010}Commander.{F801}{F802}{F813,0,57011}We've searched every nook and cranny{F801}of the Kiccigiorgi Forest.{F801}{F802}{F813,0,57012}There is no sign there of the Black{F801}Samurai, or other survivors.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,29}{F813,0,57010}Commander.{F801}{F802}{F813,0,57011}We've searched every nook and cranny{F801}of the Kiccigiorgi Forest.{F801}{F802}{F813,0,57012}There is no sign there of the Black{F801}Samurai, or other survivors.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hope\0{F87A,8}{F813,0,57013}I see. Thank you.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,57013}I see. Thank you.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hope\0{F87A,8}{F813,0,57015}To all the Samurai here...{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,57015}To all the Samurai here...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hope\0{F87A,8}{F813,0,57016}Our healers will remain here to treat{F801}the survivors.{F801}{F802}{F813,0,57017}The rest of you are dismissed. Return{F801}to Mikado Castle.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,57016}Our healers will remain here to treat{F801}the survivors.{F801}{F802}{F813,0,57017}The rest of you are dismissed. Return{F801}to Mikado Castle.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hope\0{F87A,8}{F813,0,57018}Be certain that you all get plenty{F801}of rest. Especially you, {F843,0}...{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,57018}Be certain that you all get plenty{F801}of rest. Especially you, {F843,0}...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 {F843,0} and the other Samurai{F801}returned to Mikado Castle and retired{F801}to bed.{F801}{F802}〉 That night...{F801}</source>
+    <target>〉 {F843,0} and the other Samurai{F801}returned to Mikado Castle and retired{F801}to bed.{F801}{F802}〉 That night...{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>〉 You parted ways with Jonathan, Walter,{F801}and Isabeau.{F801}</source>
+    <target>〉 You parted ways with Jonathan, Walter,{F801}and Isabeau.{F801}</target>
+  </entry>
+</mbm>

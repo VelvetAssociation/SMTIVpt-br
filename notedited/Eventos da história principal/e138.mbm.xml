@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A huge goddess statue is lying in front of you...{F801}</source>
+    <target>〉 A huge goddess statue is lying in front of you...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}...We've been waiting for you. I'm glad to see you're safe.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}...We've been waiting for you. I'm glad to see you're safe.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}We're all acounted for now.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}We're all acounted for now.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}...Yo, you're late.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}...Yo, you're late.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}The chick at the end was pretty tough. I had fun.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}The chick at the end was pretty tough. I had fun.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}...You've arrived.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}...You've arrived.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}I wasn't worried; after all,{F801}it's {F843,0} we are talking about.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}I wasn't worried; after all,{F801}it's {F843,0} we are talking about.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Ring of Gaea monk\0{F87A,53}...The test is over. You don't need those candles any more.{F801}</source>
+    <target>{F812}Ring of Gaea monk\0{F87A,53}...The test is over. You don't need those candles any more.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 {F843,0} and his fellow Samurai returned the candles to the monk.{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai returned the candles to the monk.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Ring of Gaea monk\0{F87A,53}Your skills that you displayed were a marvel to watch.{F801}{F802}...Of course, we expect you to be that strong. You cannot even go near Mistress Yuriko otherwise.{F801}</source>
+    <target>{F812}Ring of Gaea monk\0{F87A,53}Your skills that you displayed were a marvel to watch.{F801}{F802}...Of course, we expect you to be that strong. You cannot even go near Mistress Yuriko otherwise.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Ring of Gaea monk\0{F87A,53}...You've been hired by Tayama, right?{F801}</source>
+    <target>{F812}Ring of Gaea monk\0{F87A,53}...You've been hired by Tayama, right?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}What...!?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}What...!?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>Suddenly, the floor you're standing has opened.(pitfall){F801}</source>
+    <target>Suddenly, the floor you're standing has opened.(pitfall){F801}</target>
+  </entry>
+</mbm>

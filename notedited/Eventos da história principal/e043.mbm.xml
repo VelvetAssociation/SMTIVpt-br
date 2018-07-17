@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>〉 {F843,0} and his fellow Samurai{F801}rode overnight to reach Kiccigiorgi{F801}at dawn.{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}rode overnight to reach Kiccigiorgi{F801}at dawn.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,1,400307}......{F801}{F802}{F813,0,43002}There are... no words...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,1,400307}......{F801}{F802}{F813,0,43002}There are... no words...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 An old man approached you.{F801}</source>
+    <target>〉 An old man approached you.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Old villager\0{F87A,38}{F813,0,43003}*shriek* Y-You...!? B-Be you demons!?{F801}</source>
+    <target>{F812}Old villager\0{F87A,38}{F813,0,43003}*shriek* Y-You...!? B-Be you demons!?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,5,10,1,2}{F87B,3,12,1,1}{F813,0,43004}Have no fear, sir. We Samurai are{F801}here to help.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,5,10,1,2}{F87B,3,12,1,1}{F813,0,43004}Have no fear, sir. We Samurai are{F801}here to help.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Old villager\0{F87A,38}{F813,0,43005}O God... You have not forsaken us...{F801}</source>
+    <target>{F812}Old villager\0{F87A,38}{F813,0,43005}O God... You have not forsaken us...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,43006}Sir, did I hear you right? Did you{F801}speak of demons...?{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,43006}Sir, did I hear you right? Did you{F801}speak of demons...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Old villager\0{F87A,38}{F813,0,43007}M-Monsters I've never seen before{F801}came... and they... they went setting{F801}fire to the village...{F801}{F802}{F813,0,43008}That dreadful visage... I know what{F801}I saw! The demons from the fairy-{F801}stories have appeared in our time!{F801}</source>
+    <target>{F812}Old villager\0{F87A,38}{F813,0,43007}M-Monsters I've never seen before{F801}came... and they... they went setting{F801}fire to the village...{F801}{F802}{F813,0,43008}That dreadful visage... I know what{F801}I saw! The demons from the fairy-{F801}stories have appeared in our time!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Old villager\0{F87A,38}{F813,0,43009}A few others escaped to Kiccigiorgi{F801}Forest. Blessed Samurai, I beg{F801}of you...{F801}{F802}{F813,0,43010}Please save them... Save the rest{F801}of the villagers...{F801}</source>
+    <target>{F812}Old villager\0{F87A,38}{F813,0,43009}A few others escaped to Kiccigiorgi{F801}Forest. Blessed Samurai, I beg{F801}of you...{F801}{F802}{F813,0,43010}Please save them... Save the rest{F801}of the villagers...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,43011}I shudder to think that the demons{F801}have encroached this far...{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,43011}I shudder to think that the demons{F801}have encroached this far...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,43012}Someone bring this elder a hot{F801}drink and show him to our healers.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,43012}Someone bring this elder a hot{F801}drink and show him to our healers.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,43013}My fellow Samurai, our destination{F801}now is Kiccigiorgi Forest.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,43013}My fellow Samurai, our destination{F801}now is Kiccigiorgi Forest.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 {F843,0} and his fellow Samurai{F801}followed Hope to the interior of{F801}Kiccigiorgi Forest...{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}followed Hope to the interior of{F801}Kiccigiorgi Forest...{F801}</target>
+  </entry>
+</mbm>

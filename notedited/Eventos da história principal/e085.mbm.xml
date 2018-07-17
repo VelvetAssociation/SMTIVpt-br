@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Host-like man\0{F87A,120}{F813,0,85001}Hey, kiddo, you shouldn't be in here.{F801}{F802}{F813,0,85002}Can't you tell by looking around? This{F801}is a Domain to keep guys who get too{F801}close from getting away.{F801}</source>
+    <target>{F812}Host-like man\0{F87A,120}{F813,0,85001}Hey, kiddo, you shouldn't be in here.{F801}{F802}{F813,0,85002}Can't you tell by looking around? This{F801}is a Domain to keep guys who get too{F801}close from getting away.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Host-like man\0{F87A,120}{F813,0,85003}It's been about twenty years since I{F801}started looking after the Terminals.{F801}They call me the Terminal Guardian.{F801}</source>
+    <target>{F812}Host-like man\0{F87A,120}{F813,0,85003}It's been about twenty years since I{F801}started looking after the Terminals.{F801}They call me the Terminal Guardian.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Host-like man\0{F87A,120}{F813,0,85004}They call me the--Wait, y-you're...{F801}You're that kiddo from before!{F801}{F802}{F813,0,85005}Ugh, this is gonna be a mess...{F801}But... I've got a job to do.{F801}</source>
+    <target>{F812}Host-like man\0{F87A,120}{F813,0,85004}They call me the--Wait, y-you're...{F801}You're that kiddo from before!{F801}{F802}{F813,0,85005}Ugh, this is gonna be a mess...{F801}But... I've got a job to do.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Host-like man\0{F87A,120}{F813,0,85006}Hm? You're that kid from before.{F801}You keep popping up like some problem{F801}customer.{F801}</source>
+    <target>{F812}Host-like man\0{F87A,120}{F813,0,85006}Hm? You're that kid from before.{F801}You keep popping up like some problem{F801}customer.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Host-like man\0{F87A,120}{F813,0,85007}I had a feeling it'd be you again...{F801}My pay as a guardian has plummeted{F801}since you started beating me.{F801}{F802}{F813,0,85008}It's not easy being the breadwinner{F801}for an entire family on a low wage.{F801}</source>
+    <target>{F812}Host-like man\0{F87A,120}{F813,0,85007}I had a feeling it'd be you again...{F801}My pay as a guardian has plummeted{F801}since you started beating me.{F801}{F802}{F813,0,85008}It's not easy being the breadwinner{F801}for an entire family on a low wage.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Host-like man\0{F87A,120}{F813,0,85009}Hey, kiddo. I had a feeling you'd{F801}show up here.{F801}{F802}{F813,0,85010}Some make fun of me because of my job,{F801}but I'm proud to be a guardian.{F801}{F802}{F813,0,85011}But of course, I have to make a living,{F801}too... so I've been taking on some side{F801}work as well.{F801}</source>
+    <target>{F812}Host-like man\0{F87A,120}{F813,0,85009}Hey, kiddo. I had a feeling you'd{F801}show up here.{F801}{F802}{F813,0,85010}Some make fun of me because of my job,{F801}but I'm proud to be a guardian.{F801}{F802}{F813,0,85011}But of course, I have to make a living,{F801}too... so I've been taking on some side{F801}work as well.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Host-like man\0{F87A,120}{F813,0,85012}Might as well take you with me and{F801}force you into my crew.{F801}{F802}{F813,0,85013}The time has come to show you what a{F801}man your senior can do! I'll bat you{F801}around 'til I'm ready to finish it!{F801}</source>
+    <target>{F812}Host-like man\0{F87A,120}{F813,0,85012}Might as well take you with me and{F801}force you into my crew.{F801}{F802}{F813,0,85013}The time has come to show you what a{F801}man your senior can do! I'll bat you{F801}around 'til I'm ready to finish it!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The demon's Domain has been lifted.{F801}</source>
+    <target>〉 The demon's Domain has been lifted.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405700}This is the Shinjuku Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405700}This is the Shinjuku Terminal.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+</mbm>

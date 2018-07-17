@@ -1,0 +1,130 @@
+<mbm>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-175}{F813,0,213001}...Who are you?{F801}</source>
+    <target>{F812}Demon\0{F87A,-175}{F813,0,213001}...Who are you?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-175}ここを{F801}マハーマユíの[間/ま]と[知/し]りながらの[狼藉/ろうぜき]か{F801}</source>
+    <target>{F812}Demon\0{F87A,-175}ここを{F801}マハーマユíの[間/ま]と[知/し]りながらの[狼藉/ろうぜき]か{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213002}A-Akira from Kasumigaseki and his men!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213002}A-Akira from Kasumigaseki and his men!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Mahamayuri\0{F87A,-175}{F813,0,213007}You have spoken unwisely, foolish one.{F801}Do not think you can leave here alive.{F801}</source>
+    <target>{F812}Mahamayuri\0{F87A,-175}{F813,0,213007}You have spoken unwisely, foolish one.{F801}Do not think you can leave here alive.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213008}W-Whoa, don't be so hasty. You'll be{F801}fighting these three, not me.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213008}W-Whoa, don't be so hasty. You'll be{F801}fighting these three, not me.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,213009}Alright guys, get him!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,213009}Alright guys, get him!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213010}Alright! Shinjuku's mine! Starting{F801}today, I'm the boss around here!{F801}{F802}{F813,0,213011}Now my gang will have a little more{F801}breathing room.{F801}{F802}{F813,0,213012}You guys can use this city whenever{F801}you want, got it?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213010}Alright! Shinjuku's mine! Starting{F801}today, I'm the boss around here!{F801}{F802}{F813,0,213011}Now my gang will have a little more{F801}breathing room.{F801}{F802}{F813,0,213012}You guys can use this city whenever{F801}you want, got it?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213016}You guys really are the Messiahs.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213016}You guys really are the Messiahs.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213017}I had a dream about this white world...{F801}{F802}{F813,0,213018}These all-white people had a message{F801}for me...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213017}I had a dream about this white world...{F801}{F802}{F813,0,213018}These all-white people had a message{F801}for me...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,213024}Akira, we are Samurai of the Eastern{F801}Kingdom of Mikado.{F801}{F802}{F813,0,213025}We are honor-bound to do what we can{F801}for the sake of our homeland. Even if{F801}it puts you at a disadvantage.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,213024}Akira, we are Samurai of the Eastern{F801}Kingdom of Mikado.{F801}{F802}{F813,0,213025}We are honor-bound to do what we can{F801}for the sake of our homeland. Even if{F801}it puts you at a disadvantage.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F813,0,213026}...I don't think this place is so bad.{F801}"Might makes right..." The simplicity{F801}of it appeals to me.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,213026}...I don't think this place is so bad.{F801}"Might makes right..." The simplicity{F801}of it appeals to me.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F813,0,213027}What about you, {F843,0}? Do you{F801}want to return to our world of origin?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,213027}What about you, {F843,0}? Do you{F801}want to return to our world of origin?{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>"I'd like to go home."{F801}"I'm comfortable here."{F801}</source>
+    <target>"I'd like to go home."{F801}"I'm comfortable here."{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213028}Yeah...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213028}Yeah...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213029}You don't have to pretend, man. If it{F801}was me, I'd wanna go back too.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213029}You don't have to pretend, man. If it{F801}was me, I'd wanna go back too.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213032}Alright, you ready to go? Let's kick{F801}that Kenji's ass!{F801}{F802}{F813,0,213033}Kenji hangs out at Camp Ichigaya.{F801}I hear he has the remote, too.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213032}Alright, you ready to go? Let's kick{F801}that Kenji's ass!{F801}{F802}{F813,0,213033}Kenji hangs out at Camp Ichigaya.{F801}I hear he has the remote, too.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213035}I'll go on ahead. Let's meet up at{F801}Ichigaya.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213035}I'll go on ahead. Let's meet up at{F801}Ichigaya.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 Akira walked away.{F801}</source>
+    <target>〉 Akira walked away.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Demon\0{F87A,-175}{F813,0,213003}Akira? Ahh...{F801}{F802}{F813,0,213004}Never heard of you.{F801}</source>
+    <target>{F812}Demon\0{F87A,-175}{F813,0,213003}Akira? Ahh...{F801}{F802}{F813,0,213004}Never heard of you.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213019}They said there'd be Messiahs coming{F801}from another world who wanted the{F801}remote.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213019}They said there'd be Messiahs coming{F801}from another world who wanted the{F801}remote.{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>{F812}Walter\0{F87A,4}{F813,0,213030}Alas, we do have to return. Our hands{F801}are full enough dealing with our own{F801}world's crises.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,213030}Alas, we do have to return. Our hands{F801}are full enough dealing with our own{F801}world's crises.{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Demon\0{F87A,-175}{F813,0,213005}Do you commit this outrage knowing that{F801}I am Mahamayuri?{F801}</source>
+    <target>{F812}Demon\0{F87A,-175}{F813,0,213005}Do you commit this outrage knowing that{F801}I am Mahamayuri?{F801}</target>
+  </entry>
+  <entry id="207">
+    <source>{F812}Walter\0{F87A,4}{F813,0,213014}Akira, you should deliver the good{F801}news to your friends in Kasumigaseki.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,213014}Akira, you should deliver the good{F801}news to your friends in Kasumigaseki.{F801}</target>
+  </entry>
+  <entry id="209">
+    <source>{F812}Walter\0{F87A,4}{F813,0,213020}The White...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,213020}The White...{F801}</target>
+  </entry>
+  <entry id="216">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213031}Fair enough... We still have a big{F801}fight ahead of us anyway.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213031}Fair enough... We still have a big{F801}fight ahead of us anyway.{F801}</target>
+  </entry>
+  <entry id="303">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213006}Hear me and tremble! I've come to take{F801}over Shinjuku!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213006}Hear me and tremble! I've come to take{F801}over Shinjuku!{F801}</target>
+  </entry>
+  <entry id="307">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213015}Sure thing!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213015}Sure thing!{F801}</target>
+  </entry>
+  <entry id="309">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213021}So uh, you... wanna go back to your{F801}own world, huh?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213021}So uh, you... wanna go back to your{F801}own world, huh?{F801}</target>
+  </entry>
+  <entry id="407">
+    <source>〉 Some time later...{F801}</source>
+    <target>〉 Some time later...{F801}</target>
+  </entry>
+  <entry id="409">
+    <source>{F812}Akira\0{F87A,85}{F813,0,213022}...*sigh*. You don't have to tell{F801}me... I know I don't have any power.{F801}{F802}{F813,0,213023}Once you're gone, I'll be killed off{F801}in no time...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,0,213022}...*sigh*. You don't have to tell{F801}me... I know I don't have any power.{F801}{F802}{F813,0,213023}Once you're gone, I'll be killed off{F801}in no time...{F801}</target>
+  </entry>
+</mbm>

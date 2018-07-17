@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>〉 Kaga is facing a group of demons.{F801}</source>
+    <target>〉 Kaga is facing a group of demons.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Kaga\0{F87A,140}{F813,0,112001}...Hm? You're here...?{F801}</source>
+    <target>{F812}Kaga\0{F87A,140}{F813,0,112001}...Hm? You're here...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Kaga\0{F87A,140}{F87B,140,12,1,1}{F813,0,112002}Well, good timing. Here, I'll let{F801}you take care of one of them!{F801}</source>
+    <target>{F812}Kaga\0{F87A,140}{F87B,140,12,1,1}{F813,0,112002}Well, good timing. Here, I'll let{F801}you take care of one of them!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Kaga turned to confront another of{F801}the demons.{F801}</source>
+    <target>〉 Kaga turned to confront another of{F801}the demons.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Kaga is fighting a demon...{F801}</source>
+    <target>〉 Kaga is fighting a demon...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Kaga\0{F87A,140}{F813,0,112003}Did you get yours too?{F801}</source>
+    <target>{F812}Kaga\0{F87A,140}{F813,0,112003}Did you get yours too?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F813,0,112004}You bested that demon on your own...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,112004}You bested that demon on your own...?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Kaga\0{F87A,140}{F813,0,112005}There are lots of folks in the Ring{F801}of Gaea as strong as me.{F801}</source>
+    <target>{F812}Kaga\0{F87A,140}{F813,0,112005}There are lots of folks in the Ring{F801}of Gaea as strong as me.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Kaga\0{F87A,140}{F813,0,112006}By the way, what were your names?{F801}</source>
+    <target>{F812}Kaga\0{F87A,140}{F813,0,112006}By the way, what were your names?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 {F843,0} and his fellow Samurai{F801}introduced themselves to Kaga.{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}introduced themselves to Kaga.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Kaga\0{F87A,140}{F87B,140,12,1,1}{F813,0,112007}Alright. I'll remember that.{F801}{F802}{F813,0,112008}Well... I hope we meet again somewhere{F801}other than the afterlife.{F801}</source>
+    <target>{F812}Kaga\0{F87A,140}{F87B,140,12,1,1}{F813,0,112007}Alright. I'll remember that.{F801}{F802}{F813,0,112008}Well... I hope we meet again somewhere{F801}other than the afterlife.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 Kaga proceeded into the depths of the{F801}Domain...{F801}</source>
+    <target>〉 Kaga proceeded into the depths of the{F801}Domain...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,106 @@
+<mbm>
+  <entry id="0">
+    <source>〉 It's sealed with a mystical spell.{F801}It seems you can't proceed past it...{F801}</source>
+    <target>〉 It's sealed with a mystical spell.{F801}It seems you can't proceed past it...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F813,0,108001}...I wouldn't, if I were you.{F801}</source>
+    <target>{F812}Voice\0{F813,0,108001}...I wouldn't, if I were you.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Gallant woman\0{F87A,140}{F813,0,108002}Past here is a Domain beyond the reach{F801}of ordinary Hunters.{F801}</source>
+    <target>{F812}Gallant woman\0{F87A,140}{F813,0,108002}Past here is a Domain beyond the reach{F801}of ordinary Hunters.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,172}{F813,0,108005}Ring of Gaea...?{F801}</source>
+    <target>{F812}Walter\0{F87A,172}{F813,0,108005}Ring of Gaea...?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Gallant woman\0{F87A,140}{F813,0,108006}Even we don't know what to do about{F801}this barrier. It's definitely out of{F801}your league.{F801}{F802}{F813,0,108007}If only we had the {F804,5}Jirae Talisman{F804,0}{F801}from a god of the land, we could{F801}break this foreign demon's spell...{F801}</source>
+    <target>{F812}Gallant woman\0{F87A,140}{F813,0,108006}Even we don't know what to do about{F801}this barrier. It's definitely out of{F801}your league.{F801}{F802}{F813,0,108007}If only we had the {F804,5}Jirae Talisman{F804,0}{F801}from a god of the land, we could{F801}break this foreign demon's spell...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Walter\0{F87A,4}{F813,0,108008}The Jirae Talisman... Wasn't that{F801}what we were given in Shinjuku?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,108008}The Jirae Talisman... Wasn't that{F801}what we were given in Shinjuku?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,108009}You still have it, don't you,{F801}{F843,0}? Should we try it...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,108009}You still have it, don't you,{F801}{F843,0}? Should we try it...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>Use the Jirae Talisman{F801}Walk away{F801}</source>
+    <target>Use the Jirae Talisman{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 {F843,0} held the Jirae Talisman{F801}up to the seal in front of him...{F801}</source>
+    <target>〉 {F843,0} held the Jirae Talisman{F801}up to the seal in front of him...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Gallant woman\0{F87A,140}{F813,0,108021}Wise move. Take my advice and go{F801}back to the underground districts.{F801}</source>
+    <target>{F812}Gallant woman\0{F87A,140}{F813,0,108021}Wise move. Take my advice and go{F801}back to the underground districts.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Gallant woman\0{F87A,140}{F813,0,108010}Huh... Not bad for a common Hunter.{F801}</source>
+    <target>{F812}Gallant woman\0{F87A,140}{F813,0,108010}Huh... Not bad for a common Hunter.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Gallant woman\0{F87A,140}{F813,0,108011}Hmmm...{F801}</source>
+    <target>{F812}Gallant woman\0{F87A,140}{F813,0,108011}Hmmm...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The gallant woman removed something{F801}from her cleavage and fiddled with it...{F801}</source>
+    <target>〉 The gallant woman removed something{F801}from her cleavage and fiddled with it...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Gallant woman\0{F87A,140}{F813,0,108012}It's Kaga.{F801}</source>
+    <target>{F812}Gallant woman\0{F87A,140}{F813,0,108012}It's Kaga.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Kaga\0{F87A,140}{F813,0,108013}There's a way through that barrier.{F801}That's right... We'll go on ahead and{F801}make a sneak attack.{F801}{F802}{F813,0,108014}Once we kill Xi Wangmu, the whole{F801}barrier around Ikebukuro should{F801}disappear.{F801}{F802}{F813,0,108015}Right... I'll be counting on you.{F801}</source>
+    <target>{F812}Kaga\0{F87A,140}{F813,0,108013}There's a way through that barrier.{F801}That's right... We'll go on ahead and{F801}make a sneak attack.{F801}{F802}{F813,0,108014}Once we kill Xi Wangmu, the whole{F801}barrier around Ikebukuro should{F801}disappear.{F801}{F802}{F813,0,108015}Right... I'll be counting on you.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Kaga\0{F87A,140}{F813,0,108016}Very impressive, what you did with{F801}the Jirae Talisman.{F801}{F802}{F813,0,108017}But that's as far as you'll be poking{F801}your noses into this.{F801}{F802}{F813,0,108018}The rest is a job for us in the{F801}Ring of Gaea.{F801}{F802}{F813,0,108019}Well then...{F801}</source>
+    <target>{F812}Kaga\0{F87A,140}{F813,0,108016}Very impressive, what you did with{F801}the Jirae Talisman.{F801}{F802}{F813,0,108017}But that's as far as you'll be poking{F801}your noses into this.{F801}{F802}{F813,0,108018}The rest is a job for us in the{F801}Ring of Gaea.{F801}{F802}{F813,0,108019}Well then...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 Kaga went on her way.{F801}</source>
+    <target>〉 Kaga went on her way.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Gallant woman\0{F87A,140}{F87B,140,12,1,1}{F813,0,108022}I think you've heard enough. Get out{F801}of here before you make me mad.{F801}</source>
+    <target>{F812}Gallant woman\0{F87A,140}{F87B,140,12,1,1}{F813,0,108022}I think you've heard enough. Get out{F801}of here before you make me mad.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 It's sealed magically. You can't{F801}proceed any further...{F801}</source>
+    <target>〉 It's sealed magically. You can't{F801}proceed any further...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Voice\0{F813,0,108023}Didn't I tell you to leave Xi Wangmu{F801}to the Ring of Gaea and go back to{F801}your underground districts?{F801}</source>
+    <target>{F812}Voice\0{F813,0,108023}Didn't I tell you to leave Xi Wangmu{F801}to the Ring of Gaea and go back to{F801}your underground districts?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Gallant woman\0{F87A,140}{F813,0,108007}If only we had the {F804,5}Jirae Talisman{F804,0}{F801}from a god of the land, we could{F801}break this foreign demon's spell...{F801}</source>
+    <target>{F812}Gallant woman\0{F87A,140}{F813,0,108007}If only we had the {F804,5}Jirae Talisman{F804,0}{F801}from a god of the land, we could{F801}break this foreign demon's spell...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,108020}What a formidable woman... But yes,{F801}we should go.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,108020}What a formidable woman... But yes,{F801}we should go.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Gallant woman\0{F87A,140}{F813,0,108003}I assume you're here to claim{F801}Xi Wangmu's head and make a fortune{F801}off it...{F801}{F802}{F813,0,108004}But leave this to the Ring of Gaea and{F801}scurry back to whatever underground{F801}district you came from.{F801}</source>
+    <target>{F812}Gallant woman\0{F87A,140}{F813,0,108003}I assume you're here to claim{F801}Xi Wangmu's head and make a fortune{F801}off it...{F801}{F802}{F813,0,108004}But leave this to the Ring of Gaea and{F801}scurry back to whatever underground{F801}district you came from.{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>〉 The Jirae Talisman burst into a pale,{F801}bluish-white fire that diminished the{F801}seal's power.{F801}</source>
+    <target>〉 The Jirae Talisman burst into a pale,{F801}bluish-white fire that diminished the{F801}seal's power.{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="209">
+    <source>〉 The Jirae Talisman burned out.{F801}</source>
+    <target>〉 The Jirae Talisman burned out.{F801}</target>
+  </entry>
+</mbm>

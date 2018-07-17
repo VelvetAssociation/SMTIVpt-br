@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="1">
+    <source>{F812}Shopkeeper\0{F87A,25}{F813,0,75001}If you have relics, please let me know.{F801}{F802}{F813,0,75002}I will buy them from you with a{F801}wholehearted price.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,25}{F813,0,75001}If you have relics, please let me know.{F801}{F802}{F813,0,75002}I will buy them from you with a{F801}wholehearted price.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Shopkeeper\0{F87A,26}{F813,0,75003}If you have relics, please feel free to{F801}let me know.{F801}{F802}{F813,0,75004}I will buy them from you with a{F801}wholehearted price.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,26}{F813,0,75003}If you have relics, please feel free to{F801}let me know.{F801}{F802}{F813,0,75004}I will buy them from you with a{F801}wholehearted price.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Shopkeeper\0{F87A,25}{F813,0,75005}You're Hunters, right?{F801}{F802}{F813,0,75006}Ah, don't bother answering. I can{F801}tell. I've been at this business for{F801}a while now.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,25}{F813,0,75005}You're Hunters, right?{F801}{F802}{F813,0,75006}Ah, don't bother answering. I can{F801}tell. I've been at this business for{F801}a while now.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Shopkeeper\0{F87A,25}{F813,0,75007}If you find stuff that you don't know{F801}what it is, just bring them to a{F801}nearby shop.{F801}{F802}{F813,0,75008}We'll appraise them and buy them off{F801}you in exchange for Macca.{F801}{F802}{F813,0,75009}...What? "Relics"?{F801}{F802}{F813,0,75010}Well... that's not what we call them,{F801}but that's probably it, yeah.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,25}{F813,0,75007}If you find stuff that you don't know{F801}what it is, just bring them to a{F801}nearby shop.{F801}{F802}{F813,0,75008}We'll appraise them and buy them off{F801}you in exchange for Macca.{F801}{F802}{F813,0,75009}...What? "Relics"?{F801}{F802}{F813,0,75010}Well... that's not what we call them,{F801}but that's probably it, yeah.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Shopkeeper\0{F87A,26}{F813,0,75011}Hm? I've never seen your face before.{F801}{F802}{F813,0,75012}Is this your first time coming to{F801}a shop like mine? Then, I'll let you{F801}in on a little tip.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,26}{F813,0,75011}Hm? I've never seen your face before.{F801}{F802}{F813,0,75012}Is this your first time coming to{F801}a shop like mine? Then, I'll let you{F801}in on a little tip.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Shopkeeper\0{F87A,26}{F813,0,75013}If you find something and you're not{F801}sure what it is, just bring it by{F801}your local shop.{F801}{F802}{F813,0,75014}We can appraise it for you and pay{F801}you Macca if you're willing to sell.{F801}{F802}{F813,0,75015}Huh? What's this about "relics"?{F801}{F802}{F813,0,75016}Oh, okay... We don't call them that,{F801}but it's probably the same thing.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,26}{F813,0,75013}If you find something and you're not{F801}sure what it is, just bring it by{F801}your local shop.{F801}{F802}{F813,0,75014}We can appraise it for you and pay{F801}you Macca if you're willing to sell.{F801}{F802}{F813,0,75015}Huh? What's this about "relics"?{F801}{F802}{F813,0,75016}Oh, okay... We don't call them that,{F801}but it's probably the same thing.{F801}</target>
+  </entry>
+</mbm>

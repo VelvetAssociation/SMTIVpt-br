@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,2}{F87B,4,12,1,1}{F813,0,121001}I thought that you might be summoned{F801}as well, {F843,0}.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,2}{F87B,4,12,1,1}{F813,0,121001}I thought that you might be summoned{F801}as well, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,121002}You do recall what we saw yesterday,{F801}yes? To what extent can we trust{F801}Gabby...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,121002}You do recall what we saw yesterday,{F801}yes? To what extent can we trust{F801}Gabby...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,2}{F813,0,121003}In all honesty, that has been weighing{F801}heavy on my mind as well.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,2}{F813,0,121003}In all honesty, that has been weighing{F801}heavy on my mind as well.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121005}You have come, Blessed Samurai...{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121005}You have come, Blessed Samurai...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121006}I have a favor to ask of you, to be{F801}carried out without delay.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121006}I have a favor to ask of you, to be{F801}carried out without delay.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121007}I would have you rescue three of your{F801}fellows who have been taken prisoner{F801}at Shinjuku National Park in Tokyo.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121007}I would have you rescue three of your{F801}fellows who have been taken prisoner{F801}at Shinjuku National Park in Tokyo.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F87B,4,3,1,1}{F813,0,121008}Our fellows...? Then these people are{F801}from the Eastern Kingdom of Mikado?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F87B,4,3,1,1}{F813,0,121008}Our fellows...? Then these people are{F801}from the Eastern Kingdom of Mikado?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121009}...No, they are not.{F801}{F802}{F813,0,121010}But they are vital to this kingdom's{F801}future.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121009}...No, they are not.{F801}{F802}{F813,0,121010}But they are vital to this kingdom's{F801}future.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121011}Shinjuku National Park... was once{F801}holy ground.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121011}Shinjuku National Park... was once{F801}holy ground.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,3,12,1,1}{F813,0,121013}I say, she seems to know quite a bit{F801}about Tokyo...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,3,12,1,1}{F813,0,121013}I say, she seems to know quite a bit{F801}about Tokyo...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,121014}'Tis only natural. The Monastery{F801}had a keen interest in Tokyo. {F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,121014}'Tis only natural. The Monastery{F801}had a keen interest in Tokyo. {F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121015}This is a dangerous request, but I{F801}believe I can trust you with it.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121015}This is a dangerous request, but I{F801}believe I can trust you with it.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121017}Please extend a helping hand to{F801}your fellows...{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121017}Please extend a helping hand to{F801}your fellows...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,7,1,1}{F813,0,121018}For the sake of this kingdom's new{F801}millennium...{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,7,1,1}{F813,0,121018}For the sake of this kingdom's new{F801}millennium...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 Jonathan, Walter, and Isabeau have{F801}joined you.{F801}</source>
+    <target>〉 Jonathan, Walter, and Isabeau have{F801}joined you.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,121004}But the resemblance could be{F801}coincidental. Let us not make too{F801}much of it for the nonce.{F801}{F87B,4,6,1,1}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,121004}But the resemblance could be{F801}coincidental. Let us not make too{F801}much of it for the nonce.{F801}{F87B,4,6,1,1}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121012}But its virtue has now been lost.{F801}It is little more than a nest for{F801}powerful demons today.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,121012}But its virtue has now been lost.{F801}It is little more than a nest for{F801}powerful demons today.{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>〉 Gabby handed something to {F843,0}...{F801}</source>
+    <target>〉 Gabby handed something to {F843,0}...{F801}</target>
+  </entry>
+  <entry id="213">
+    <source>〉 Obtained Hexagram Rosary.{F801}</source>
+    <target>〉 Obtained Hexagram Rosary.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,130 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,82001}There's a PC here that still works.{F801}{F802}{F813,0,82002}I think you can use it to get some{F801}information about Tokyo. Do you want{F801}to try?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,82001}There's a PC here that still works.{F801}{F802}{F813,0,82002}I think you can use it to get some{F801}information about Tokyo. Do you want{F801}to try?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Try it{F801}Not now{F801}</source>
+    <target>Try it{F801}Not now{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,82003}There are a few different files you{F801}can view from here. Which one do you{F801}want to look into?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,82003}There are a few different files you{F801}can view from here. Which one do you{F801}want to look into?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}Éáーです {F843,0}[様/さま]{F801}{F813,0,82004}An error has occurred, Master {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Éáーです {F843,0}[様/さま]{F801}{F813,0,82004}An error has occurred, Master {F843,0}.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>"The Counter-Demon Force one."{F801}"The log of 25 years ago."{F801}"The demon summoning program rumor."{F801}"None of them."{F801}</source>
+    <target>"The Counter-Demon Force one."{F801}"The log of 25 years ago."{F801}"The demon summoning program rumor."{F801}"None of them."{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,82004}Touch the file "2013W" displayed on{F801}the panel to open it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,82004}Touch the file "2013W" displayed on{F801}the panel to open it.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 {F843,0} touched the panel that{F801}said "2013W"...{F801}{F802}〉 The screen displayed the requested{F801}file...{F801}{F802}Special news bulletin! The full story{F801}on the mysterious Counter-Demon Force!{F801}{F802}The Counter-Demon Force is a special ops{F801}group trained in anti-demon warfare.{F801}{F802}It was formed under the command of{F801}Defense Minister Tamagami.{F801}{F802}Their chief advantage is the Demonica{F801}Suit made in Country A, specifically the{F801}smart terminal embedded in the left arm.{F801}{F802}The force primarily consists of former{F801}SDF troops and police officers, with a{F801}few civilians in the ranks as well.{F801}{F802}After Country A's supremacy, Japan's{F801}combat efficiency in demon warfare is{F801}the second best in the world.{F801}</source>
+    <target>〉 {F843,0} touched the panel that{F801}said "2013W"...{F801}{F802}〉 The screen displayed the requested{F801}file...{F801}{F802}Special news bulletin! The full story{F801}on the mysterious Counter-Demon Force!{F801}{F802}The Counter-Demon Force is a special ops{F801}group trained in anti-demon warfare.{F801}{F802}It was formed under the command of{F801}Defense Minister Tamagami.{F801}{F802}Their chief advantage is the Demonica{F801}Suit made in Country A, specifically the{F801}smart terminal embedded in the left arm.{F801}{F802}The force primarily consists of former{F801}SDF troops and police officers, with a{F801}few civilians in the ranks as well.{F801}{F802}After Country A's supremacy, Japan's{F801}combat efficiency in demon warfare is{F801}the second best in the world.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,82007}Anything else you want to look into?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,82007}Anything else you want to look into?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,82005}Touch the file "2013G" displayed on{F801}the panel to open it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,82005}Touch the file "2013G" displayed on{F801}the panel to open it.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 {F843,0} touched the panel that{F801}said "2013G"...{F801}{F802}〉 The screen displayed the requested{F801}file...{F801}{F802}〉 It is a log of posts to a bulletin{F801}board from 25 years ago.{F801}{F802}"The train stopped! What happened!?"{F801}"Hey, it's my GF's birthday tomorrow..."{F801}{F802}"Did you see the news!? They were talking{F801}about demons!" "The Demon Summoning{F801}Program, huh? That sounds... bad..."{F801}{F802}"How could the government try to cover{F801}this up!?" "Japan is finished..."{F801}{F802}"Anyone who's still standing, come to{F801}the underground district!" "If I'm gonna{F801}die, it'll be doing the things I love."{F801}{F802}"The gates of Hell have opened." "If you{F801}want to survive, run the program and..."{F801}{F802}〉 The old log ends here.{F801}</source>
+    <target>〉 {F843,0} touched the panel that{F801}said "2013G"...{F801}{F802}〉 The screen displayed the requested{F801}file...{F801}{F802}〉 It is a log of posts to a bulletin{F801}board from 25 years ago.{F801}{F802}"The train stopped! What happened!?"{F801}"Hey, it's my GF's birthday tomorrow..."{F801}{F802}"Did you see the news!? They were talking{F801}about demons!" "The Demon Summoning{F801}Program, huh? That sounds... bad..."{F801}{F802}"How could the government try to cover{F801}this up!?" "Japan is finished..."{F801}{F802}"Anyone who's still standing, come to{F801}the underground district!" "If I'm gonna{F801}die, it'll be doing the things I love."{F801}{F802}"The gates of Hell have opened." "If you{F801}want to survive, run the program and..."{F801}{F802}〉 The old log ends here.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,82007}Anything else you want to look into?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,82007}Anything else you want to look into?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,82006}Touch the file "2013H" displayed on{F801}the panel to open it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,82006}Touch the file "2013H" displayed on{F801}the panel to open it.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 {F843,0} touched the panel that{F801}said "2013H"...{F801}{F802}〉 The screen displayed the requested{F801}file...{F801}{F802}〉 It is a summary of the Demon Summoning{F801}Program.{F801}{F802}The "Demon Summoning Program" became{F801}famous among netizens in 2012.{F801}{F802}In most cases, it was installed in the{F801}user's PC or smartphone.{F801}{F802}Once the application is run, the boot-up{F801}screen shows a message that says "Your{F801}life has just changed forever."{F801}{F802}Rumor has it that some users of the{F801}Demon Summoning Program actually{F801}succeeded in summoning demons...{F801}{F802}Some of those even managed to converse{F801}with them.{F801}{F802}But no one really knows why the Demon{F801}Summoning Program was created.{F801}{F802}Let alone who created it and distributed{F801}it worldwide. Many unsolved mysteries{F801}surround the Demon Summoning Program...{F801}</source>
+    <target>〉 {F843,0} touched the panel that{F801}said "2013H"...{F801}{F802}〉 The screen displayed the requested{F801}file...{F801}{F802}〉 It is a summary of the Demon Summoning{F801}Program.{F801}{F802}The "Demon Summoning Program" became{F801}famous among netizens in 2012.{F801}{F802}In most cases, it was installed in the{F801}user's PC or smartphone.{F801}{F802}Once the application is run, the boot-up{F801}screen shows a message that says "Your{F801}life has just changed forever."{F801}{F802}Rumor has it that some users of the{F801}Demon Summoning Program actually{F801}succeeded in summoning demons...{F801}{F802}Some of those even managed to converse{F801}with them.{F801}{F802}But no one really knows why the Demon{F801}Summoning Program was created.{F801}{F802}Let alone who created it and distributed{F801}it worldwide. Many unsolved mysteries{F801}surround the Demon Summoning Program...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,82007}Anything else you want to look into?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,82007}Anything else you want to look into?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Burroughs\0{F87A,2}Until next time, Master {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Until next time, Master {F843,0}.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>仮Íäñト{F801}デモニカがある武器庫でのÍäñトを{F801}見るまで侵入不可{F801}</source>
+    <target>仮Íäñト{F801}デモニカがある武器庫でのÍäñトを{F801}見るまで侵入不可{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 The door is shut tightly...{F801}</source>
+    <target>〉 The door is shut tightly...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>仮Íäñト{F801}デモニカがある武器庫でのÍäñトを{F801}見たので侵入可能{F801}</source>
+    <target>仮Íäñト{F801}デモニカがある武器庫でのÍäñトを{F801}見たので侵入可能{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 {F843,0} held out his ID Card Lv1{F801}and the door unlocked.{F801}</source>
+    <target>〉 {F843,0} held out his ID Card Lv1{F801}and the door unlocked.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 The door is locked...{F801}</source>
+    <target>〉 The door is locked...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,1,400105}This seems to be a door without a{F801}keyhole... How does one open it?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,1,400105}This seems to be a door without a{F801}keyhole... How does one open it?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,1,400205}I see no keyhole for this door.{F801}How is it meant to be opened...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,1,400205}I see no keyhole for this door.{F801}How is it meant to be opened...?{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,1,400305}I cannot find a keyhole for this door.{F801}Is there some means to open it...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,1,400305}I cannot find a keyhole for this door.{F801}Is there some means to open it...?{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 The door is locked...{F801}</source>
+    <target>〉 The door is locked...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>Use the ID Card Lv1{F801}Walk away{F801}</source>
+    <target>Use the ID Card Lv1{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 {F843,0} took the ID Card Lv1{F801}from his pocket.{F801}</source>
+    <target>〉 {F843,0} took the ID Card Lv1{F801}from his pocket.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400004}Okay. The door should be open now.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400004}Okay. The door should be open now.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,1,400102}Without even laying a hand on the{F801}door... More of the Unclean Ones'{F801}magic, I expect...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,1,400102}Without even laying a hand on the{F801}door... More of the Unclean Ones'{F801}magic, I expect...{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,1,400204}Hell's bells! How did that work?{F801}'Tis truly worthy of being called{F801}a mystic relic...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,1,400204}Hell's bells! How did that work?{F801}'Tis truly worthy of being called{F801}a mystic relic...{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,1,400302}Is such absurdity the norm here in{F801}Tokyo? These mystic relics are such{F801}enigmas...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,1,400302}Is such absurdity the norm here in{F801}Tokyo? These mystic relics are such{F801}enigmas...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 The file ends there...{F801}</source>
+    <target>〉 The file ends there...{F801}</target>
+  </entry>
+</mbm>

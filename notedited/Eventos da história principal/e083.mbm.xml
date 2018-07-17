@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Guard-like man\0{F87A,60}{F813,0,83001}Hey, you can't come in here!{F801}{F802}{F813,0,83002}Can't you see there's a Domain set{F801}up, kid? That's to keep intruders like{F801}you out!{F801}</source>
+    <target>{F812}Guard-like man\0{F87A,60}{F813,0,83001}Hey, you can't come in here!{F801}{F802}{F813,0,83002}Can't you see there's a Domain set{F801}up, kid? That's to keep intruders like{F801}you out!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Guard-like man\0{F87A,60}{F813,0,83003}I've been looking after the Terminals{F801}for twenty years now. People call me{F801}the Terminal Guardian.{F801}</source>
+    <target>{F812}Guard-like man\0{F87A,60}{F813,0,83003}I've been looking after the Terminals{F801}for twenty years now. People call me{F801}the Terminal Guardian.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Guard-like man\0{F87A,60}{F813,0,83004}People call me the... Wait, what the!?{F801}Ugh, you again!{F801}{F802}{F813,0,83005}You just had to come and cause more{F801}trouble... You're definitely on my{F801}watch list!{F801}</source>
+    <target>{F812}Guard-like man\0{F87A,60}{F813,0,83004}People call me the... Wait, what the!?{F801}Ugh, you again!{F801}{F802}{F813,0,83005}You just had to come and cause more{F801}trouble... You're definitely on my{F801}watch list!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Guard-like man\0{F87A,60}{F813,0,83006}I knew you'd come... You're that{F801}rotten kid who's been raiding the{F801}Terminals. I know your face!{F801}</source>
+    <target>{F812}Guard-like man\0{F87A,60}{F813,0,83006}I knew you'd come... You're that{F801}rotten kid who's been raiding the{F801}Terminals. I know your face!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Guard-like man\0{F87A,60}{F813,0,83007}You again...? Sheesh...{F801}{F802}{F813,0,83008}I've been in Dutch ever since you{F801}started showing up, and they cut my pay.{F801}{F802}{F813,0,83009}It's not like I can back down! I got{F801}a family to feed!{F801}</source>
+    <target>{F812}Guard-like man\0{F87A,60}{F813,0,83007}You again...? Sheesh...{F801}{F802}{F813,0,83008}I've been in Dutch ever since you{F801}started showing up, and they cut my pay.{F801}{F802}{F813,0,83009}It's not like I can back down! I got{F801}a family to feed!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Guard-like man\0{F87A,60}{F813,0,83010}Congrats on getting this far, you{F801}lousy kid.{F801}{F802}{F813,0,83011}You might think I'm an idiot to keep{F801}doing this, but it doesn't matter.{F801}{F802}{F813,0,83012}I got my pride. I've been a guardian{F801}for the last twenty years.{F801}</source>
+    <target>{F812}Guard-like man\0{F87A,60}{F813,0,83010}Congrats on getting this far, you{F801}lousy kid.{F801}{F802}{F813,0,83011}You might think I'm an idiot to keep{F801}doing this, but it doesn't matter.{F801}{F802}{F813,0,83012}I got my pride. I've been a guardian{F801}for the last twenty years.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Guard-like man\0{F87A,60}{F813,0,83013}And you've gotta have brass balls to{F801}mess with a Terminal under my{F801}protection.{F801}{F802}{F813,0,83014}I'll bury you in the dark alleys of{F801}Nagatacho without anyone knowing{F801}you're here!{F801}</source>
+    <target>{F812}Guard-like man\0{F87A,60}{F813,0,83013}And you've gotta have brass balls to{F801}mess with a Terminal under my{F801}protection.{F801}{F802}{F813,0,83014}I'll bury you in the dark alleys of{F801}Nagatacho without anyone knowing{F801}you're here!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The demon's Domain has been lifted.{F801}</source>
+    <target>〉 The demon's Domain has been lifted.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405702}This is the Kasumigaseki Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405702}This is the Kasumigaseki Terminal.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+</mbm>

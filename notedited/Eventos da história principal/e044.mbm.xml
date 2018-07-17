@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>〉 {F843,0} and his fellow Samurai{F801}arrived at the entrance to{F801}Kiccigiorgi Forest.{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}arrived at the entrance to{F801}Kiccigiorgi Forest.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hope\0{F87A,8}{F813,0,44001}Our task here is to search for any{F801}fortunate enough to survive.{F801}{F802}{F813,0,44002}Each of you will comb the forest and{F801}{F804,5}look for survivors.{F804,0}{F801}{F802}{F813,0,44003}I will remain here with the healers{F801}and relay instructions to you via the{F801}Gauntlet.{F801}{F802}{F813,0,44004}Return here directly should you find{F801}any survivors.{F801}{F802}{F813,0,44005}That also goes for if you sustain any{F801}injuries. The healers will treat{F801}your wounds.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,44001}Our task here is to search for any{F801}fortunate enough to survive.{F801}{F802}{F813,0,44002}Each of you will comb the forest and{F801}{F804,5}look for survivors.{F804,0}{F801}{F802}{F813,0,44003}I will remain here with the healers{F801}and relay instructions to you via the{F801}Gauntlet.{F801}{F802}{F813,0,44004}Return here directly should you find{F801}any survivors.{F801}{F802}{F813,0,44005}That also goes for if you sustain any{F801}injuries. The healers will treat{F801}your wounds.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hope\0{F87A,8}{F813,0,44007}As for you prentices... this is a{F801}personal matter for {F843,0}.{F801}Give him your full support.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,44007}As for you prentices... this is a{F801}personal matter for {F843,0}.{F801}Give him your full support.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,44008}We will gladly cooperate with him.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,44008}We will gladly cooperate with him.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Jonathan, Walter, and Isabeau are{F801}traveling at your side.{F801}</source>
+    <target>〉 Jonathan, Walter, and Isabeau are{F801}traveling at your side.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,1,400103}Was that not a human voice...?{F801}I heard it from up ahead!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,1,400103}Was that not a human voice...?{F801}I heard it from up ahead!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,1,400306}Was that not a human's cry...?{F801}I believe it came from up ahead...!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,1,400306}Was that not a human's cry...?{F801}I believe it came from up ahead...!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,1,400203}Wasn't that a human voice...? It{F801}sounded like it came from up ahead...!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,1,400203}Wasn't that a human voice...? It{F801}sounded like it came from up ahead...!{F801}</target>
+  </entry>
+</mbm>

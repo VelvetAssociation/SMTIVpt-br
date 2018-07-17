@@ -1,0 +1,118 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-639}{F813,0,144001}Hum...{F801}{F802}{F813,0,144002}...Hm?{F801}</source>
+    <target>{F812}Demon\0{F87A,-639}{F813,0,144001}Hum...{F801}{F802}{F813,0,144002}...Hm?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,210}{F813,0,144003}The Magnetite you bear points toward{F801}the star of destruction...{F801}{F802}{F813,0,144004}At last... One has come whose karma{F801}is worthy of a duel to the death.{F801}</source>
+    <target>{F812}Demon\0{F87A,210}{F813,0,144003}The Magnetite you bear points toward{F801}the star of destruction...{F801}{F802}{F813,0,144004}At last... One has come whose karma{F801}is worthy of a duel to the death.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,210}{F813,0,144005}In the human world, there is a saying:{F801}"Ignorance is bliss."{F801}{F802}{F813,0,144006}To distance the people of my country{F801}from the cruel truth... That is the{F801}part I play in defending this land.{F801}</source>
+    <target>{F812}Demon\0{F87A,210}{F813,0,144005}In the human world, there is a saying:{F801}"Ignorance is bliss."{F801}{F802}{F813,0,144006}To distance the people of my country{F801}from the cruel truth... That is the{F801}part I play in defending this land.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,210}{F813,0,144007}But you would go beyond... The stars{F801}tell me so.{F801}{F802}{F813,0,144008}Then we are fated to duel to the death.{F801}Let us see if you can bring Tenkai{F801}to his knees!{F801}</source>
+    <target>{F812}Demon\0{F87A,210}{F813,0,144007}But you would go beyond... The stars{F801}tell me so.{F801}{F802}{F813,0,144008}Then we are fated to duel to the death.{F801}Let us see if you can bring Tenkai{F801}to his knees!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Fight him{F801}Retreat for now{F801}</source>
+    <target>Fight him{F801}Retreat for now{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Tenkai\0{F87A,210}{F813,0,144009}It begins!{F801}</source>
+    <target>{F812}Tenkai\0{F87A,210}{F813,0,144009}It begins!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Tenkai\0{F87A,210}{F813,0,144010}If you wish to pass, you must fight{F801}me to the death. There is no other way.{F801}</source>
+    <target>{F812}Tenkai\0{F87A,210}{F813,0,144010}If you wish to pass, you must fight{F801}me to the death. There is no other way.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Tenkai\0{F87A,210}{F813,0,144011}You have come, those bound to{F801}destruction...{F801}{F802}{F813,0,144012}If you wish to pass, you must fight{F801}me to the death.{F801}</source>
+    <target>{F812}Tenkai\0{F87A,210}{F813,0,144011}You have come, those bound to{F801}destruction...{F801}{F802}{F813,0,144012}If you wish to pass, you must fight{F801}me to the death.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Demon\0{F87A,-639}{F813,0,144013}Hum...{F801}</source>
+    <target>{F812}Demon\0{F87A,-639}{F813,0,144013}Hum...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The demon turned into a huge slab{F801}of stone...{F801}</source>
+    <target>〉 The demon turned into a huge slab{F801}of stone...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,144014}What were those last words he spoke...?{F801}He sounded... grateful.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,144014}What were those last words he spoke...?{F801}He sounded... grateful.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,144015}It's just as I was unable to choose{F801}the sort of family I was born into.{F801}{F802}{F813,0,144016}Once summoned, demons can't pick{F801}their master...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,144015}It's just as I was unable to choose{F801}the sort of family I was born into.{F801}{F802}{F813,0,144016}Once summoned, demons can't pick{F801}their master...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,144017}"Humans and demons are the same,"{F801}eh...? That may have been aptly put.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,144017}"Humans and demons are the same,"{F801}eh...? That may have been aptly put.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,144018}You are being taken in by Lilith.{F801}That is the only reason her words{F801}seem to you to have merit.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,144018}You are being taken in by Lilith.{F801}That is the only reason her words{F801}seem to you to have merit.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,144019}You wouldn't understand. You're a{F801}Luxuror...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,144019}You wouldn't understand. You're a{F801}Luxuror...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,5,1,1}{F813,0,144020}But you know of which I speak, yes?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,5,1,1}{F813,0,144020}But you know of which I speak, yes?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>"I do indeed."{F801}"We differ on this."{F801}</source>
+    <target>"I do indeed."{F801}"We differ on this."{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,144021}Y-You see?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,144021}Y-You see?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,144022}I see...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,144022}I see...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,144023}......{F801}{F802}{F813,0,144024}I am sorry for all of this.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,144023}......{F801}{F802}{F813,0,144024}I am sorry for all of this.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 Myoko's Disk began to shine in your hand...{F801}</source>
+    <target>〉 Myoko's Disk began to shine in your hand...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Voice\0{F87A,2}{F813,1,456004}I am the Famed Tenkai, one of the{F801}deadly National Defense Divinities.{F801}</source>
+    <target>{F812}Voice\0{F87A,2}{F813,1,456004}I am the Famed Tenkai, one of the{F801}deadly National Defense Divinities.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Tenkai\0{F87A,2}{F813,1,456002}It matters not who you are. So long as{F801}you hold my medium, it is fate that{F801}you are my master.{F801}{F802}{F813,1,456010}I am honored to meet you.{F801}</source>
+    <target>{F812}Tenkai\0{F87A,2}{F813,1,456002}It matters not who you are. So long as{F801}you hold my medium, it is fate that{F801}you are my master.{F801}{F802}{F813,1,456010}I am honored to meet you.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>〉 You can now fuse {F804,5}{F874,639} {F842,639}.{F804,0}{F801}</source>
+    <target>〉 You can now fuse {F804,5}{F874,639} {F842,639}.{F804,0}{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 A demon is meditating...{F801}</source>
+    <target>〉 A demon is meditating...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>〉 The demon opened his eyes.{F801}</source>
+    <target>〉 The demon opened his eyes.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>〉 A demon is meditating...{F801}</source>
+    <target>〉 A demon is meditating...{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>〉 The stone that was once Tenkai is{F801}sitting in front of you...{F801}</source>
+    <target>〉 The stone that was once Tenkai is{F801}sitting in front of you...{F801}</target>
+  </entry>
+  <entry id="1022">
+    <source>〉 You hear a voice from the stone in{F801}front of you...{F801}</source>
+    <target>〉 You hear a voice from the stone in{F801}front of you...{F801}</target>
+  </entry>
+</mbm>

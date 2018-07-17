@@ -1,0 +1,142 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A Demon Hunter appeared.{F801}</source>
+    <target>〉 A Demon Hunter appeared.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302401}Are you the ones that killed all the{F801}Corpses?{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302401}Are you the ones that killed all the{F801}Corpses?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,302402}Could he be a reinforcement Hunter?{F801}He's a little late for that.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,302402}Could he be a reinforcement Hunter?{F801}He's a little late for that.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302403}That was uncalled for, you twerps!{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302403}That was uncalled for, you twerps!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,302404}Oh dear... I think you'd better be{F801}careful around this one.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,302404}Oh dear... I think you'd better be{F801}careful around this one.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302405}With things this messed up, I'm better{F801}off becoming a demon...{F801}{F802}{F813,0,302406}That's why I handed out Reds to{F801}everyone!{F801}{F802}{F813,0,302407}We got no hope, trapped here in{F801}Tokyo...{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302405}With things this messed up, I'm better{F801}off becoming a demon...{F801}{F802}{F813,0,302406}That's why I handed out Reds to{F801}everyone!{F801}{F802}{F813,0,302407}We got no hope, trapped here in{F801}Tokyo...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302408}Damn that Tayama... him and his{F801}Ashura-kai. He's betrayed us all!{F801}{F802}{F813,0,302409}He babbles about some law to coexist{F801}with demons and locks us up in those{F801}underground districts...!{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302408}Damn that Tayama... him and his{F801}Ashura-kai. He's betrayed us all!{F801}{F802}{F813,0,302409}He babbles about some law to coexist{F801}with demons and locks us up in those{F801}underground districts...!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302410}I won't let him make everyone in Tokyo{F801}into cowards, blind to the truth!{F801}{F802}{F813,0,302411}I'm going to release them all from{F801}Tayama's slavery...!{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302410}I won't let him make everyone in Tokyo{F801}into cowards, blind to the truth!{F801}{F802}{F813,0,302411}I'm going to release them all from{F801}Tayama's slavery...!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The Furious Hunter takes out a Red{F801}from his pocket.{F801}</source>
+    <target>〉 The Furious Hunter takes out a Red{F801}from his pocket.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302412}And I'll kill anyone who gets in my{F801}way! I'll show you how a real Hunter{F801}handles things...!{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302412}And I'll kill anyone who gets in my{F801}way! I'll show you how a real Hunter{F801}handles things...!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The furious Hunter swallowed the red{F801}pill...{F801}</source>
+    <target>〉 The furious Hunter swallowed the red{F801}pill...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Dullahan\0{F87A,207}{F813,0,302413}Ahahaha, how d'ya like me now?{F801}I'm not human anymore.{F801}{F802}{F813,0,302414}Ahhh, this rush of demonic power...{F801}I've left all those fears and{F801}anxieties behind...!{F801}</source>
+    <target>{F812}Dullahan\0{F87A,207}{F813,0,302413}Ahahaha, how d'ya like me now?{F801}I'm not human anymore.{F801}{F802}{F813,0,302414}Ahhh, this rush of demonic power...{F801}I've left all those fears and{F801}anxieties behind...!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Voice\0{F87A,3}{F813,0,302415}...Go no further.{F801}</source>
+    <target>{F812}Voice\0{F87A,3}{F813,0,302415}...Go no further.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,5,10,1,2}{F813,0,302416}We've seen everything. Please allow{F801}us to aid you.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,5,10,1,2}{F813,0,302416}We've seen everything. Please allow{F801}us to aid you.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,302417}I cannot believe he elected to become{F801}a demon of his own free will...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,302417}I cannot believe he elected to become{F801}a demon of his own free will...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,302418}Regardless, it hardly absolves him{F801}from turning others into demons.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,302418}Regardless, it hardly absolves him{F801}from turning others into demons.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Dullahan\0{F87A,207}{F813,0,302419}No matter how many of you come at me,{F801}it'll turn out the same. You can't{F801}beat a human turned demon!{F801}</source>
+    <target>{F812}Dullahan\0{F87A,207}{F813,0,302419}No matter how many of you come at me,{F801}it'll turn out the same. You can't{F801}beat a human turned demon!{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Dullahan\0{F87A,207}{F813,0,302420}That's right, Tayama...! You know{F801}your precious Tokyo?{F801}{F802}{F813,0,302421}I'm going to smash it all up!{F801}</source>
+    <target>{F812}Dullahan\0{F87A,207}{F813,0,302420}That's right, Tayama...! You know{F801}your precious Tokyo?{F801}{F802}{F813,0,302421}I'm going to smash it all up!{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,94001}Unclean Ones suffer as well, I see.{F801}They have their own troubles...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,94001}Unclean Ones suffer as well, I see.{F801}They have their own troubles...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Walter\0{F87A,4}{F813,0,94002}Just as we do...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,94002}Just as we do...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,94003}I wonder how they came to be called{F801}the "Unclean Ones"...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,94003}I wonder how they came to be called{F801}the "Unclean Ones"...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Heavily accented man\0{F87A,47}{F813,0,94004}Huh? What's that? Ya want me to let{F801}ya past here?{F801}{F802}{F813,0,94005}Sorry, ain't happenin'. I do that,{F801}and the demons on the other{F801}side'll get through.{F801}</source>
+    <target>{F812}Heavily accented man\0{F87A,47}{F813,0,94004}Huh? What's that? Ya want me to let{F801}ya past here?{F801}{F802}{F813,0,94005}Sorry, ain't happenin'. I do that,{F801}and the demons on the other{F801}side'll get through.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Heavily accented man\0{F87A,47}{F813,0,94006}That thing with the Corpses ain't{F801}over yet either. I don't got time to{F801}worry about the west side right now.{F801}</source>
+    <target>{F812}Heavily accented man\0{F87A,47}{F813,0,94006}That thing with the Corpses ain't{F801}over yet either. I don't got time to{F801}worry about the west side right now.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Heavily accented man\0{F87A,47}{F813,0,94007}Huh? What's that? Ya want me to let{F801}ya past here?{F801}{F802}{F813,0,94008}Sorry, ain't happenin'. I do that,{F801}and the demons out on the other{F801}side'll get through.{F801}</source>
+    <target>{F812}Heavily accented man\0{F87A,47}{F813,0,94007}Huh? What's that? Ya want me to let{F801}ya past here?{F801}{F802}{F813,0,94008}Sorry, ain't happenin'. I do that,{F801}and the demons out on the other{F801}side'll get through.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Heavily accented man\0{F87A,47}{F813,0,94009}That is, unless you help out with{F801}defeatin' that monster at the{F801}Metropolitan Government Office... Huh?{F801}{F802}{F813,0,94010}Some Jirae demon's occupied the place{F801}and it's givin' us a huge headache.{F801}{F802}{F813,0,94011}We'll give ya the {F804,5}Jirae Talisman{F804,0} we{F801}stole from it as a reward. Whaddaya{F801}say? Will ya off it for us?{F801}</source>
+    <target>{F812}Heavily accented man\0{F87A,47}{F813,0,94009}That is, unless you help out with{F801}defeatin' that monster at the{F801}Metropolitan Government Office... Huh?{F801}{F802}{F813,0,94010}Some Jirae demon's occupied the place{F801}and it's givin' us a huge headache.{F801}{F802}{F813,0,94011}We'll give ya the {F804,5}Jirae Talisman{F804,0} we{F801}stole from it as a reward. Whaddaya{F801}say? Will ya off it for us?{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>"We'll slay the demon."{F801}"We'll do no such thing."{F801}</source>
+    <target>"We'll slay the demon."{F801}"We'll do no such thing."{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Heavily accented man\0{F87A,47}{F813,0,94012}Heh, that'd be nice.{F801}{F802}{F813,0,94013}One of our boys went on ahead with{F801}some hired Hunters. The more the{F801}better, they say.{F801}</source>
+    <target>{F812}Heavily accented man\0{F87A,47}{F813,0,94012}Heh, that'd be nice.{F801}{F802}{F813,0,94013}One of our boys went on ahead with{F801}some hired Hunters. The more the{F801}better, they say.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Heavily accented man\0{F87A,47}{F813,0,94015}You're free to pass now, so I'll be{F801}countin' on you to deal with that demon{F801}at the Metropolitan Government Office.{F801}</source>
+    <target>{F812}Heavily accented man\0{F87A,47}{F813,0,94015}You're free to pass now, so I'll be{F801}countin' on you to deal with that demon{F801}at the Metropolitan Government Office.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Heavily accented man\0{F87A,47}{F813,0,94016}Geez, what a stiff. All of us here in{F801}Shinjuku are havin' a hard time 'cause{F801}of that thing, ya know.{F801}{F802}{F813,0,94017}Alright, I got no business with{F801}ya, then. Take a hike.{F801}</source>
+    <target>{F812}Heavily accented man\0{F87A,47}{F813,0,94016}Geez, what a stiff. All of us here in{F801}Shinjuku are havin' a hard time 'cause{F801}of that thing, ya know.{F801}{F802}{F813,0,94017}Alright, I got no business with{F801}ya, then. Take a hike.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source></source>
+    <target></target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Accented voice\0Things are tough in Shinjuku right{F801}now because of that demon in the{F801}Metropolitan Government Office...{F801}{F802}Right now, you should be workin' for{F801}the people of Shinjuku insteada tryin'{F801}to make bank for yourself, no?{F801}</source>
+    <target>{F812}Accented voice\0Things are tough in Shinjuku right{F801}now because of that demon in the{F801}Metropolitan Government Office...{F801}{F802}Right now, you should be workin' for{F801}the people of Shinjuku insteada tryin'{F801}to make bank for yourself, no?{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Accented voice\0We're always on the lookout in this{F801}area, so we'll keep buggin' ya about{F801}this no matter where ya go.{F801}</source>
+    <target>{F812}Accented voice\0We're always on the lookout in this{F801}area, so we'll keep buggin' ya about{F801}this no matter where ya go.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Accented voice\0So hurry it up and kill that demon.{F801}</source>
+    <target>{F812}Accented voice\0So hurry it up and kill that demon.{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

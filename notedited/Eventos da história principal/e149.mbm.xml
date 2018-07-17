@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The elevator is locked down.{F801}</source>
+    <target>〉 The elevator is locked down.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source></source>
+    <target></target>
+  </entry>
+  <entry id="2">
+    <source>〉 The elevator is locked down.{F801}{F802}〉 Use the ID Card?{F801}</source>
+    <target>〉 The elevator is locked down.{F801}{F802}〉 Use the ID Card?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Use the ID Card{F801}Leave it alone{F801}</source>
+    <target>Use the ID Card{F801}Leave it alone{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 {F843,0} held the ID Card Lv2 up{F801}to the door...{F801}</source>
+    <target>〉 {F843,0} held the ID Card Lv2 up{F801}to the door...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The elevator has been unlocked.{F801}</source>
+    <target>〉 The elevator has been unlocked.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source></source>
+    <target></target>
+  </entry>
+  <entry id="7">
+    <source>〉 The elevator is locked down.{F801}</source>
+    <target>〉 The elevator is locked down.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>Use the Card Key 2{F801}Walk away{F801}</source>
+    <target>Use the Card Key 2{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 {F843,0} used the Card Key 2.{F801}</source>
+    <target>〉 {F843,0} used the Card Key 2.{F801}</target>
+  </entry>
+</mbm>

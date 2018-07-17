@@ -1,0 +1,42 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,62001}Now then... Where is this legendary{F801}demon?{F801}{F802}{F813,0,62002}Perhaps it's wasted away lo these{F801}many years...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,62001}Now then... Where is this legendary{F801}demon?{F801}{F802}{F813,0,62002}Perhaps it's wasted away lo these{F801}many years...?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F87A,200}{F813,0,62003}For humans to have the gall to step{F801}into the Hall of the Minotaur...{F801}</source>
+    <target>{F812}Voice\0{F87A,200}{F813,0,62003}For humans to have the gall to step{F801}into the Hall of the Minotaur...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,5,10,1,1}{F813,0,62004}What in blazes...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,5,10,1,1}{F813,0,62004}What in blazes...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,62005}Everyone, look!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,62005}Everyone, look!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Minotaur\0{F87A,200}{F813,0,62006}Over a thousand and five hundred years{F801}have passed since I formed the pact{F801}with my master...{F801}{F802}{F813,0,62007}You are either truly skilled or fools{F801}indeed to ignore his warning.{F801}</source>
+    <target>{F812}Minotaur\0{F87A,200}{F813,0,62006}Over a thousand and five hundred years{F801}have passed since I formed the pact{F801}with my master...{F801}{F802}{F813,0,62007}You are either truly skilled or fools{F801}indeed to ignore his warning.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Minotaur\0{F87A,200}{F813,0,62008}I will dine on your blood that wishes{F801}to mingle with the Unclean!{F801}</source>
+    <target>{F812}Minotaur\0{F87A,200}{F813,0,62008}I will dine on your blood that wishes{F801}to mingle with the Unclean!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,62010}Beyond this door is unknown territory{F801}for we, the people of the Eastern{F801}Kingdom of Mikado.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,62010}Beyond this door is unknown territory{F801}for we, the people of the Eastern{F801}Kingdom of Mikado.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,62011}This is... a tremendous violation of{F801}the Samurai code.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,62011}This is... a tremendous violation of{F801}the Samurai code.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F813,0,62012}But it is necessary if a new path{F801}will be opened.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,62012}But it is necessary if a new path{F801}will be opened.{F801}</target>
+  </entry>
+</mbm>

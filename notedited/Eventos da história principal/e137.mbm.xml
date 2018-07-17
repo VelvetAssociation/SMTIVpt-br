@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The place is almost deserted. There{F801}aren't many monks in training.{F801}{F802}〉 Where do you want to go?{F801}</source>
+    <target>〉 The place is almost deserted. There{F801}aren't many monks in training.{F801}{F802}〉 Where do you want to go?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>To Hongwanji's main building{F801}To the hidden passage{F801}</source>
+    <target>To Hongwanji's main building{F801}To the hidden passage{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 You enter the main hall of Tsukiji{F801}Hongwanji.{F801}</source>
+    <target>〉 You enter the main hall of Tsukiji{F801}Hongwanji.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You jump into the hole connected to{F801}the underground.{F801}</source>
+    <target>〉 You jump into the hole connected to{F801}the underground.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 You head for the hidden passage{F801}leading to the surface.{F801}</source>
+    <target>〉 You head for the hidden passage{F801}leading to the surface.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>Enter the main hall{F801}Go underground{F801}Go to the surface{F801}</source>
+    <target>Enter the main hall{F801}Go underground{F801}Go to the surface{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>〉 There are many monks in training here.{F801}{F802}〉 Where do you want to go?{F801}</source>
+    <target>〉 There are many monks in training here.{F801}{F802}〉 Where do you want to go?{F801}</target>
+  </entry>
+</mbm>

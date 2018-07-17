@@ -1,0 +1,74 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Questioning monk\0{F87A,42}{F813,0,153001}It has stopped at the boot screen.{F801}What should I do now...?{F801}</source>
+    <target>{F812}Questioning monk\0{F87A,42}{F813,0,153001}It has stopped at the boot screen.{F801}What should I do now...?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,153002}I explained this to you once before...{F801}You simply enter the password.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,153002}I explained this to you once before...{F801}You simply enter the password.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 The questioning monk bowed to Hugo{F801}and walked away.{F801}</source>
+    <target>〉 The questioning monk bowed to Hugo{F801}and walked away.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Questioning monk\0{F87A,42}{F813,0,153003}Er... pardon me again...{F801}{F802}{F813,0,153004}How do I enter "ぢ"?{F801}</source>
+    <target>{F812}Questioning monk\0{F87A,42}{F813,0,153003}Er... pardon me again...{F801}{F802}{F813,0,153004}How do I enter "ぢ"?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,153005}"ぢ" is "D" and then "I", remember?{F801}How many times must I tell you...?{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,153005}"ぢ" is "D" and then "I", remember?{F801}How many times must I tell you...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The monk asking the questions bows to{F801}Hugo and leaves...{F801}</source>
+    <target>〉 The monk asking the questions bows to{F801}Hugo and leaves...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,153006}You seem busy, Abbot Hugo.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,153006}You seem busy, Abbot Hugo.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>Talk to him{F801}Walk away{F801}</source>
+    <target>Talk to him{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,153007}Ah, you've come...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,153007}Ah, you've come...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,153008}The PC that our Samurai recovered in{F801}Tokyo IS quite useful, but...{F801}{F802}{F813,0,153009}Well, we have received orders to{F801}transcribe all of our scriptures{F801}into the PC.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,153008}The PC that our Samurai recovered in{F801}Tokyo IS quite useful, but...{F801}{F802}{F813,0,153009}Well, we have received orders to{F801}transcribe all of our scriptures{F801}into the PC.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,153010}Our new leaders are quite a stern lot...{F801}{F802}{F813,0,153011}None of us are accustomed to this {F801}process. And I could not even fathom{F801}how much scripture our records hold.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,153010}Our new leaders are quite a stern lot...{F801}{F802}{F813,0,153011}None of us are accustomed to this {F801}process. And I could not even fathom{F801}how much scripture our records hold.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,153012}Would the new leaders have us labor{F801}day and night, without rest?{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,153012}Would the new leaders have us labor{F801}day and night, without rest?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,153013}Ah, but enough of that...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,153013}Ah, but enough of that...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,153014}I did relay the message to you,{F801}did I not?{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,153014}I did relay the message to you,{F801}did I not?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,153015}Go to Shene Duque! Else I shall be the{F801}one punished...!{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,153015}Go to Shene Duque! Else I shall be the{F801}one punished...!{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Questioning monk\0{F87A,42}{F813,0,153016}Uhh... I am dreadfully sorry to{F801}intrude, but...{F801}</source>
+    <target>{F812}Questioning monk\0{F87A,42}{F813,0,153016}Uhh... I am dreadfully sorry to{F801}intrude, but...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,7,1,1}{F813,0,153017}Ugh! Will this never end...!?{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,7,1,1}{F813,0,153017}Ugh! Will this never end...!?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 Hugo is barking answers to the monk's{F801}questions...{F801}</source>
+    <target>〉 Hugo is barking answers to the monk's{F801}questions...{F801}</target>
+  </entry>
+</mbm>

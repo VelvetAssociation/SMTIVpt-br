@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,219001}I've been waiting for ya.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,219001}I've been waiting for ya.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,219002}I hear Kenji's somewhere in here.{F801}{F802}{F813,0,219003}In my dream, it was this giant room,{F801}kinda like a dome...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,219002}I hear Kenji's somewhere in here.{F801}{F802}{F813,0,219003}In my dream, it was this giant room,{F801}kinda like a dome...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,3,12,1,1}{F813,0,219004}...Ah, I understand.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,3,12,1,1}{F813,0,219004}...Ah, I understand.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,219005}If Kenji dies, I'll finally be King{F801}of Tokyo...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,219005}If Kenji dies, I'll finally be King{F801}of Tokyo...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,4,10,1,1}{F813,0,219006}Akira, I'm curious. What do you plan{F801}on doing once you become king...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,4,10,1,1}{F813,0,219006}Akira, I'm curious. What do you plan{F801}on doing once you become king...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,219007}Promise you won't laugh?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,219007}Promise you won't laugh?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,219008}Rules have never been my thing.{F801}{F802}{F813,0,219009}Frankly, I wanna make Tokyo a place{F801}where we can all be equal.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,1,1,1}{F813,0,219008}Rules have never been my thing.{F801}{F802}{F813,0,219009}Frankly, I wanna make Tokyo a place{F801}where we can all be equal.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,3,12,1,2}{F813,0,219010}You mean to have the strong and weak{F801}both be treated alike?{F801}{F802}{F813,0,219011}Is that truly equality?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,3,12,1,2}{F813,0,219010}You mean to have the strong and weak{F801}both be treated alike?{F801}{F802}{F813,0,219011}Is that truly equality?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,219012}What do you think, {F843,0}?{F801}'Tis strange, no...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,219012}What do you think, {F843,0}?{F801}'Tis strange, no...?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>"It is strange."{F801}"It's not strange at all."{F801}</source>
+    <target>"It is strange."{F801}"It's not strange at all."{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,219013}I... I see...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,3,1,1}{F813,0,219013}I... I see...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F87B,4,10,1,1}{F813,0,219014}You have my respect for your stance.{F801}{F802}{F813,0,219015}Your concern for the well-being of the{F801}people over your own selfishness is{F801}the mark of a true king.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F87B,4,10,1,1}{F813,0,219014}You have my respect for your stance.{F801}{F802}{F813,0,219015}Your concern for the well-being of the{F801}people over your own selfishness is{F801}the mark of a true king.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,4,1,1}{F813,0,219016}I wish you the best, King Akira...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,4,1,1}{F813,0,219016}I wish you the best, King Akira...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,219017}Y... You think...?{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,219017}Y... You think...?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F87B,3,1,1,1}{F813,0,219018}I can't say I agree...{F801}{F802}{F87B,4,12,1,1}{F813,0,219019}But every man is entitled to his own{F801}opinion.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F87B,3,1,1,1}{F813,0,219018}I can't say I agree...{F801}{F802}{F87B,4,12,1,1}{F813,0,219019}But every man is entitled to his own{F801}opinion.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,219020}You're staking your own life for the{F801}benefit of others, yes?{F801}{F802}{F87B,4,4,1,1}{F813,0,219021}Then you'll need to be stronger...{F801}King Akira.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,219020}You're staking your own life for the{F801}benefit of others, yes?{F801}{F802}{F87B,4,4,1,1}{F813,0,219021}Then you'll need to be stronger...{F801}King Akira.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,219022}...Alright, enough small talk.{F801}{F802}{F813,0,219024}The rest is up to you.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,219022}...Alright, enough small talk.{F801}{F802}{F813,0,219024}The rest is up to you.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 Akira walked away.{F801}</source>
+    <target>〉 Akira walked away.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Akira\0{F87A,85}{F813,1,401702}Uh... well, this IS northwest of{F801}Kasumigaseki, but... this is Camp{F801}Ichigaya.{F801}{F802}Shinjuku's more to the west. Listen,{F801}because it's important: you gotta go{F801}further west.{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,1,401702}Uh... well, this IS northwest of{F801}Kasumigaseki, but... this is Camp{F801}Ichigaya.{F801}{F802}Shinjuku's more to the west. Listen,{F801}because it's important: you gotta go{F801}further west.{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,401704}Heheh...{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F87B,85,12,1,1}{F813,0,401704}Heheh...{F801}</target>
+  </entry>
+</mbm>

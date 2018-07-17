@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You hear a voice coming from the other{F801}side of the wall...{F801}</source>
+    <target>〉 You hear a voice coming from the other{F801}side of the wall...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F813,1,403221}It wasn't supposed to be like this...{F801}</source>
+    <target>{F812}Voice\0{F813,1,403221}It wasn't supposed to be like this...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Voice\0I cooperated with Xi Wangmu because{F801}she said she'd drive out the{F801}Ashura-kai!{F801}{F802}But it turned out the Ashura-kai was{F801}the only thing stopping her from eating{F801}us humans whenever she pleased...{F801}</source>
+    <target>{F812}Voice\0I cooperated with Xi Wangmu because{F801}she said she'd drive out the{F801}Ashura-kai!{F801}{F802}But it turned out the Ashura-kai was{F801}the only thing stopping her from eating{F801}us humans whenever she pleased...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Voice\0This is the Ashura-kai's fault too!{F801}They never told anybody how important{F801}they were...!{F801}</source>
+    <target>{F812}Voice\0This is the Ashura-kai's fault too!{F801}They never told anybody how important{F801}they were...!{F801}</target>
+  </entry>
+</mbm>

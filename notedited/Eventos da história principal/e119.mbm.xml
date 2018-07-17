@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>主人公は皆と別れて自室で休みます{F801}</source>
+    <target>主人公は皆と別れて自室で休みます{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Jonathan parted ways with you.{F801}{F802}〉 Walter parted ways with you.{F801}{F802}〉 Isabeau parted ways with you.{F801}</source>
+    <target>〉 Jonathan parted ways with you.{F801}{F802}〉 Walter parted ways with you.{F801}{F802}〉 Isabeau parted ways with you.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,71001}This is a {F804,5}relic.{F804,0} It's one of the{F801}things the Monastery is searching for.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,71001}This is a {F804,5}relic.{F804,0} It's one of the{F801}things the Monastery is searching for.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Mystic relics can be found in various{F801}places on the map. They are rare and{F801}precious both in Tokyo and Mikado.{F801}{F802}Mystic relics can be sold at shops in{F801}exchange for Macca.{F801}</source>
+    <target>Mystic relics can be found in various{F801}places on the map. They are rare and{F801}precious both in Tokyo and Mikado.{F801}{F802}Mystic relics can be sold at shops in{F801}exchange for Macca.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,71002}Let's search high and low for them!{F801}I'll be your guide.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,71002}Let's search high and low for them!{F801}I'll be your guide.{F801}</target>
+  </entry>
+</mbm>

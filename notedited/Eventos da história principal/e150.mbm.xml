@@ -1,0 +1,610 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150001}Alright, let's try again from that{F801}last part...{F801}{F802}{F813,0,150002}And... go.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150001}Alright, let's try again from that{F801}last part...{F801}{F802}{F813,0,150002}And... go.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Smiling boy\0{F87A,71}{F813,0,150003}I'm going to study hard and make{F801}Tokyo great!{F801}</source>
+    <target>{F812}Smiling boy\0{F87A,71}{F813,0,150003}I'm going to study hard and make{F801}Tokyo great!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Smiling girl\0{F87A,72}{F813,0,150004}There are so many books and movies{F801}here... It's like a wonderland...{F801}</source>
+    <target>{F812}Smiling girl\0{F87A,72}{F813,0,150004}There are so many books and movies{F801}here... It's like a wonderland...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150005}Good, very good. You're all so smart.{F801}I'll give you some candy later.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150005}Good, very good. You're all so smart.{F801}I'll give you some candy later.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150006}Huh...?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150006}Huh...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150007}Oh, is the shift up already? I love{F801}working with these kids. The time{F801}just flies on by.{F801}{F802}{F813,0,150008}Here's key #3.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150007}Oh, is the shift up already? I love{F801}working with these kids. The time{F801}just flies on by.{F801}{F802}{F813,0,150008}Here's key #3.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Obtained Card Key 3.{F801}</source>
+    <target>〉 Obtained Card Key 3.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150009}Remember to give the kids their snacks.{F801}Oh, and don't forget to sprinkle sugar{F801}on them...{F801}{F802}{F813,0,150010}See ya.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150009}Remember to give the kids their snacks.{F801}Oh, and don't forget to sprinkle sugar{F801}on them...{F801}{F802}{F813,0,150010}See ya.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Gas masked man\0{F87A,48}Remember to give the kids their snacks.{F801}Oh, and don't forget to sprinkle sugar{F801}on them...{F801}See ya.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}Remember to give the kids their snacks.{F801}Oh, and don't forget to sprinkle sugar{F801}on them...{F801}See ya.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The gas masked man walked away...{F801}</source>
+    <target>〉 The gas masked man walked away...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,150011}Why are there children here...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,150011}Why are there children here...?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Smiling boy\0{F87A,71}{F813,0,150012}I'm going to study hard...{F801}</source>
+    <target>{F812}Smiling boy\0{F87A,71}{F813,0,150012}I'm going to study hard...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Smiling girl\0{F87A,72}{F813,0,150013}There are so many books and movies...{F801}</source>
+    <target>{F812}Smiling girl\0{F87A,72}{F813,0,150013}There are so many books and movies...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150014}Errr...{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150014}Errr...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 The gas masked man is inserting{F801}something into the lying man's head.{F801}</source>
+    <target>〉 The gas masked man is inserting{F801}something into the lying man's head.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,150015}Drat the luck! A guard here too...!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,150015}Drat the luck! A guard here too...!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150016}Argh! You're not supposed to talk to{F801}me when I'm harvesting! Didn't you{F801}read the rules!?{F801}{F802}{F813,0,150017}If the syringe accidently pierces the{F801}brain, the seedbed we spent all this{F801}time raising will be gone like that!{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150016}Argh! You're not supposed to talk to{F801}me when I'm harvesting! Didn't you{F801}read the rules!?{F801}{F802}{F813,0,150017}If the syringe accidently pierces the{F801}brain, the seedbed we spent all this{F801}time raising will be gone like that!{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150019}......{F801}{F802}{F813,0,150020}...Hey! Who are you!?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150019}......{F801}{F802}{F813,0,150020}...Hey! Who are you!?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150021}You're from the Ring of Gaea, aren't{F801}you...!?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150021}You're from the Ring of Gaea, aren't{F801}you...!?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150022}N... No way...{F801}{F802}{F813,0,150023}P-P-Please... D-D-Don't kill me...{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150022}N... No way...{F801}{F802}{F813,0,150023}P-P-Please... D-D-Don't kill me...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150024}I... I'll give you this!{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150024}I... I'll give you this!{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 The gas masked man handed {F843,0}{F801}a brown-colored bottle.{F801}</source>
+    <target>〉 The gas masked man handed {F843,0}{F801}a brown-colored bottle.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 Obtained Brown Bottle.{F801}</source>
+    <target>〉 Obtained Brown Bottle.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150025}H-Help me...!{F801}{F802}{F813,0,150026}Urgh...!{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150025}H-Help me...!{F801}{F802}{F813,0,150026}Urgh...!{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 The gas masked man collapsed...{F801}</source>
+    <target>〉 The gas masked man collapsed...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,8,1,1}{F813,0,150027}He's keeled over...{F801}{F802}{F87B,4,10,1,1}{F813,0,150028}...Hm?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,8,1,1}{F813,0,150027}He's keeled over...{F801}{F802}{F87B,4,10,1,1}{F813,0,150028}...Hm?{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 Walter picked up something from the{F801}prone gas masked man.{F801}</source>
+    <target>〉 Walter picked up something from the{F801}prone gas masked man.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,150029}It's a card key. This one says "4"{F801}on it.{F801}{F802}{F813,0,150030}We'll be taking that...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,150029}It's a card key. This one says "4"{F801}on it.{F801}{F802}{F813,0,150030}We'll be taking that...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>〉 Obtained Card Key 4.{F801}</source>
+    <target>〉 Obtained Card Key 4.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,150031}What was the masked man doing to the{F801}man sleeping there...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,150031}What was the masked man doing to the{F801}man sleeping there...?{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Sleeping man\0{F87A,105}{F813,0,150032}I'm going to study hard... I'm going...{F801}to study... hard...{F801}</source>
+    <target>{F812}Sleeping man\0{F87A,105}{F813,0,150032}I'm going to study hard... I'm going...{F801}to study... hard...{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,150033}He is clearly a grown man, yet he{F801}sounds a trifle naive, don't you think?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,150033}He is clearly a grown man, yet he{F801}sounds a trifle naive, don't you think?{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,150053}Hm...?{F801}{F802}{F813,0,150054}That sweet scent... Is it only my{F801}imagination, or is it growing more{F801}pungent?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,150053}Hm...?{F801}{F802}{F813,0,150054}That sweet scent... Is it only my{F801}imagination, or is it growing more{F801}pungent?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,150055}Come to mention it...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,150055}Come to mention it...{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,150057}A demon...!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,150057}A demon...!{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,150058}That sweet smell is the product of{F801}this demon!{F801}{F802}{F813,0,150059}Quickly, prepare yourselves for bat--{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,150058}That sweet smell is the product of{F801}this demon!{F801}{F802}{F813,0,150059}Quickly, prepare yourselves for bat--{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,150060}......{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,150060}......{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,150061}Walter?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,150061}Walter?{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,11,1,1}{F813,0,150062}Yeah... I'm Walter. I'm the son of a{F801}fisherman...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,11,1,1}{F813,0,150062}Yeah... I'm Walter. I'm the son of a{F801}fisherman...{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Walter\0{F87A,4}{F813,0,150063}But I'm scared of fish! I must go{F801}tell everyone...!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,150063}But I'm scared of fish! I must go{F801}tell everyone...!{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>〉 Walter ran off somewhere...{F801}</source>
+    <target>〉 Walter ran off somewhere...{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,150064}...What...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,150064}...What...?{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,150065}How cowardly of you, dashing off{F801}without me!{F801}{F802}{F813,0,150066}Then I'll admit something as well...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,150065}How cowardly of you, dashing off{F801}without me!{F801}{F802}{F813,0,150066}Then I'll admit something as well...{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,9,1,1}{F813,0,150067}In all candor...{F801}{F802}{F87B,3,11,1,1}{F813,0,150068}I am a cat! Meee-owwww! This floor{F801}is so deliciously warm!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,9,1,1}{F813,0,150067}In all candor...{F801}{F802}{F87B,3,11,1,1}{F813,0,150068}I am a cat! Meee-owwww! This floor{F801}is so deliciously warm!{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>〉 Jonathan suddenly laid on the ground...{F801}</source>
+    <target>〉 Jonathan suddenly laid on the ground...{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,9,1,1}{F813,0,150069}Wh... What is happening? Is this the{F801}work of that demon...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,9,1,1}{F813,0,150069}Wh... What is happening? Is this the{F801}work of that demon...?{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,11,1,1}{F813,0,150070}Ugh... it's always like this! Demons{F801}here, demons there, demons, demons,{F801}demons...! It's all so...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,11,1,1}{F813,0,150070}Ugh... it's always like this! Demons{F801}here, demons there, demons, demons,{F801}demons...! It's all so...{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,150071}...demoning...!{F801}{F802}{F813,1,400308}......{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,150071}...demoning...!{F801}{F802}{F813,1,400308}......{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>〉 Isabeau bowed to {F843,0} and{F801}ran away to somewhere...{F801}</source>
+    <target>〉 Isabeau bowed to {F843,0} and{F801}ran away to somewhere...{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>〉 Your consciousness is slipping away...{F801}</source>
+    <target>〉 Your consciousness is slipping away...{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150034}Huh? You're here already? I thought{F801}the next shipment wasn't due until{F801}a little later...{F801}{F802}{F813,0,150035}Whatever. You performed the harvest{F801}properly, right?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150034}Huh? You're here already? I thought{F801}the next shipment wasn't due until{F801}a little later...{F801}{F802}{F813,0,150035}Whatever. You performed the harvest{F801}properly, right?{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>〉 The gas masked man took the brown-{F801}colored bottle from {F843,0}.{F801}</source>
+    <target>〉 The gas masked man took the brown-{F801}colored bottle from {F843,0}.{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,150036}What do you intend to do with that?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,150036}What do you intend to do with that?{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150037}Turn it into red pills, duh. Don't{F801}bother me.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150037}Turn it into red pills, duh. Don't{F801}bother me.{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,150039}Brains...?{F801}{F802}{F87B,4,2,1,1}{F813,0,150040}Are those brains?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,150039}Brains...?{F801}{F802}{F87B,4,2,1,1}{F813,0,150040}Are those brains?{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150041}Weren't you paying attention during{F801}orientation?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150041}Weren't you paying attention during{F801}orientation?{F801}</target>
+  </entry>
+  <entry id="56">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150042}We raise the people we take from the{F801}underground cities here, and when the{F801}time comes, we harvest their brains...{F801}{F802}{F813,0,150043}Specifically, their neurotransmitters.{F801}We suck 'em out every day at the{F801}scheduled time.{F801}{F802}{F813,0,150044}That's the stuff we make the food for{F801}the demons with. You know, those{F801}red pills.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150042}We raise the people we take from the{F801}underground cities here, and when the{F801}time comes, we harvest their brains...{F801}{F802}{F813,0,150043}Specifically, their neurotransmitters.{F801}We suck 'em out every day at the{F801}scheduled time.{F801}{F802}{F813,0,150044}That's the stuff we make the food for{F801}the demons with. You know, those{F801}red pills.{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150045}That's what this whole human farm{F801}is for. Get it?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150045}That's what this whole human farm{F801}is for. Get it?{F801}</target>
+  </entry>
+  <entry id="58">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,150046}That's nauseating...{F801}{F802}{F813,0,150047}I cannot believe you can be so casually{F801}inhumane...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,150046}That's nauseating...{F801}{F802}{F813,0,150047}I cannot believe you can be so casually{F801}inhumane...{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150048}Ugh, this is why I hate newcomers.{F801}{F802}{F813,0,150049}Get used to it and get to work.{F801}If we're late, Mr. Tayama will be{F801}on our asses.{F801}{F802}{F813,0,150050}It's getting about time to clean up the{F801}feces of the seedbeds. Don't slack off.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150048}Ugh, this is why I hate newcomers.{F801}{F802}{F813,0,150049}Get used to it and get to work.{F801}If we're late, Mr. Tayama will be{F801}on our asses.{F801}{F802}{F813,0,150050}It's getting about time to clean up the{F801}feces of the seedbeds. Don't slack off.{F801}</target>
+  </entry>
+  <entry id="60">
+    <source>〉 The gas masked man walked away...{F801}</source>
+    <target>〉 The gas masked man walked away...{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,150051}This, then, is what Lilith wished for{F801}us to see...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,150051}This, then, is what Lilith wished for{F801}us to see...{F801}</target>
+  </entry>
+  <entry id="62">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,1,400203}......{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,1,400203}......{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>〉 The door will not open...{F801}</source>
+    <target>〉 The door will not open...{F801}</target>
+  </entry>
+  <entry id="64">
+    <source>{F812}Walter\0{F87A,4}Let me do it this time. Here, I'm going{F801}to borrow your keycard.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Let me do it this time. Here, I'm going{F801}to borrow your keycard.{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>〉 Walter has taken Card Key 2 from{F801}{F843,0}.{F801}</source>
+    <target>〉 Walter has taken Card Key 2 from{F801}{F843,0}.{F801}</target>
+  </entry>
+  <entry id="66">
+    <source>〉 Walter inserted Card Key 2 into the{F801}door's card slot...{F801}</source>
+    <target>〉 Walter inserted Card Key 2 into the{F801}door's card slot...{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>{F812}Walter\0{F87A,4}Hm? Nothing's happening. That's funny...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Hm? Nothing's happening. That's funny...{F801}</target>
+  </entry>
+  <entry id="68">
+    <source>〉 The elevator has been locked down.{F801}</source>
+    <target>〉 The elevator has been locked down.{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>Use Card Key 2{F801}Walk away{F801}</source>
+    <target>Use Card Key 2{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="70">
+    <source>〉 {F843,0} used Card Key 2.{F801}{F802}〉 Nothing happened...{F801}</source>
+    <target>〉 {F843,0} used Card Key 2.{F801}{F802}〉 Nothing happened...{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>{F812}Walter\0{F87A,4}What the hell? It didn't work with me...{F801}Is there some magic that chooses who{F801}gets to use it...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}What the hell? It didn't work with me...{F801}Is there some magic that chooses who{F801}gets to use it...?{F801}</target>
+  </entry>
+  <entry id="72">
+    <source>〉 {F843,0} used Card Key 3.{F801}</source>
+    <target>〉 {F843,0} used Card Key 3.{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>〉 The elevator has been unlocked.{F801}</source>
+    <target>〉 The elevator has been unlocked.{F801}</target>
+  </entry>
+  <entry id="74">
+    <source>〉 The elevator has been locked down.{F801}</source>
+    <target>〉 The elevator has been locked down.{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>〉 The elevator has been locked down.{F801}</source>
+    <target>〉 The elevator has been locked down.{F801}</target>
+  </entry>
+  <entry id="76">
+    <source>Use Card Key 2{F801}Use Card Key 3{F801}Use Card Key 4{F801}Walk away{F801}</source>
+    <target>Use Card Key 2{F801}Use Card Key 3{F801}Use Card Key 4{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>〉 The elevator has been unlocked.{F801}</source>
+    <target>〉 The elevator has been unlocked.{F801}</target>
+  </entry>
+  <entry id="78">
+    <source>〉 {F843,0} holds the card keys{F801}up to the door, one after another...{F801}</source>
+    <target>〉 {F843,0} holds the card keys{F801}up to the door, one after another...{F801}</target>
+  </entry>
+  <entry id="79">
+    <source>{F812}Walter\0{F87A,4}Nothing's happening...{F801}{F802}Even you can't open it? This is one{F801}tough magic...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Nothing's happening...{F801}{F802}Even you can't open it? This is one{F801}tough magic...{F801}</target>
+  </entry>
+  <entry id="80">
+    <source>〉 {F843,0} held Card Key 4 up to{F801}the door...{F801}</source>
+    <target>〉 {F843,0} held Card Key 4 up to{F801}the door...{F801}</target>
+  </entry>
+  <entry id="81">
+    <source>{F812}Walter\0{F87A,4}...It seems you're way better than me{F801}when it comes to this kind of magic.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}...It seems you're way better than me{F801}when it comes to this kind of magic.{F801}</target>
+  </entry>
+  <entry id="82">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404723}I was ecstatic to hear I was being{F801}transferred to Roppongi, but ugh, the{F801}"underground" of all places...{F801}{F802}Well, I don't work on B51F, so at least{F801}I won't run into "him."{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404723}I was ecstatic to hear I was being{F801}transferred to Roppongi, but ugh, the{F801}"underground" of all places...{F801}{F802}Well, I don't work on B51F, so at least{F801}I won't run into "him."{F801}</target>
+  </entry>
+  <entry id="83">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404711}I was ecstatic to hear I was being{F801}transferred to Roppongi, but ugh, the{F801}"underground" of all places...{F801}{F802}You've been transferred here, too?{F801}Sucks, huh. Just don't go near B51F.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404711}I was ecstatic to hear I was being{F801}transferred to Roppongi, but ugh, the{F801}"underground" of all places...{F801}{F802}You've been transferred here, too?{F801}Sucks, huh. Just don't go near B51F.{F801}</target>
+  </entry>
+  <entry id="84">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404712}I was so bummed when I found out I was{F801}working underground...{F801}{F802}But now I'm thankful. With the surface{F801}flooded with demons and all...{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404712}I was so bummed when I found out I was{F801}working underground...{F801}{F802}But now I'm thankful. With the surface{F801}flooded with demons and all...{F801}</target>
+  </entry>
+  <entry id="85">
+    <source>〉 {F843,0} walked away...{F801}</source>
+    <target>〉 {F843,0} walked away...{F801}</target>
+  </entry>
+  <entry id="86">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404712}Mr. Tayama is always so strict with{F801}quotas...{F801}{F802}Our breeders can only produce so{F801}much...{F801}{F802}It's about time we started bringing in{F801}the kids from the underground cities...{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404712}Mr. Tayama is always so strict with{F801}quotas...{F801}{F802}Our breeders can only produce so{F801}much...{F801}{F802}It's about time we started bringing in{F801}the kids from the underground cities...{F801}</target>
+  </entry>
+  <entry id="87">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404721}Talks about getting new breeding{F801}stock from Ikebukuro fell through.{F801}{F802}Mr. Tayama's still as strict about{F801}the quotas as ever, though.{F801}{F802}The quality of the Reds will drop,{F801}but maybe we should use the kids{F801}as seedbeds...{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404721}Talks about getting new breeding{F801}stock from Ikebukuro fell through.{F801}{F802}Mr. Tayama's still as strict about{F801}the quotas as ever, though.{F801}{F802}The quality of the Reds will drop,{F801}but maybe we should use the kids{F801}as seedbeds...{F801}</target>
+  </entry>
+  <entry id="88">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404712}I haven't heard from Mr. Tayama yet{F801}about next month's quotas...{F801}{F802}Maybe I'll take it easy this month and{F801}not mention that he forgot to send them{F801}to me...{F801}{F802}That'll be a nice little vacation for{F801}me.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404712}I haven't heard from Mr. Tayama yet{F801}about next month's quotas...{F801}{F802}Maybe I'll take it easy this month and{F801}not mention that he forgot to send them{F801}to me...{F801}{F802}That'll be a nice little vacation for{F801}me.{F801}</target>
+  </entry>
+  <entry id="89">
+    <source>{F812}Man\0{F813,1,403222}Talking takes energy... Just leave{F801}me alone...{F801}</source>
+    <target>{F812}Man\0{F813,1,403222}Talking takes energy... Just leave{F801}me alone...{F801}</target>
+  </entry>
+  <entry id="90">
+    <source>〉 {F843,0} walked away...{F801}</source>
+    <target>〉 {F843,0} walked away...{F801}</target>
+  </entry>
+  <entry id="91">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404712}You guys want to get to the "sprout{F801}area"? They didn't give me the key.{F801}{F802}It's probably with someone else on{F801}this floor. Look for him yourself.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404712}You guys want to get to the "sprout{F801}area"? They didn't give me the key.{F801}{F802}It's probably with someone else on{F801}this floor. Look for him yourself.{F801}</target>
+  </entry>
+  <entry id="92">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404723}Red quality has been dropping, year{F801}after year. We're getting complaints{F801}from our demon customers.{F801}{F802}Well, no shit, Sherlock! With Tokyo{F801}like this, how the hell are we supposed{F801}to make people experience "fun"?{F801}{F802}Hell, those demons are the ones who{F801}made everything this bad in the first{F801}place.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404723}Red quality has been dropping, year{F801}after year. We're getting complaints{F801}from our demon customers.{F801}{F802}Well, no shit, Sherlock! With Tokyo{F801}like this, how the hell are we supposed{F801}to make people experience "fun"?{F801}{F802}Hell, those demons are the ones who{F801}made everything this bad in the first{F801}place.{F801}</target>
+  </entry>
+  <entry id="93">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,1,404723}The regular demons returned to Shibuya?{F801}...I can't wait to hear more complaints{F801}about the Reds' quality.{F801}{F802}What the hell do they expect? How are{F801}we supposed to come up with the{F801}emotion "hope" in a world like this?{F801}{F802}Hell, those demons are the ones who{F801}made everything this bad in the first{F801}place.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,1,404723}The regular demons returned to Shibuya?{F801}...I can't wait to hear more complaints{F801}about the Reds' quality.{F801}{F802}What the hell do they expect? How are{F801}we supposed to come up with the{F801}emotion "hope" in a world like this?{F801}{F802}Hell, those demons are the ones who{F801}made everything this bad in the first{F801}place.{F801}</target>
+  </entry>
+  <entry id="94">
+    <source>{F812}Woman\0{F813,1,403111}Y... You another bug...? Get lost...{F801}I don't want to see you...!{F801}</source>
+    <target>{F812}Woman\0{F813,1,403111}Y... You another bug...? Get lost...{F801}I don't want to see you...!{F801}</target>
+  </entry>
+  <entry id="95">
+    <source>〉 {F843,0} walked away...{F801}</source>
+    <target>〉 {F843,0} walked away...{F801}</target>
+  </entry>
+  <entry id="96">
+    <source>{F812}Gaptoothed boy\0{F87A,71}{F813,1,404031}Mister, look! I went potty!{F801}{F802}See? I didn't spill the bucket.{F801}I did good!{F801}</source>
+    <target>{F812}Gaptoothed boy\0{F87A,71}{F813,1,404031}Mister, look! I went potty!{F801}{F802}See? I didn't spill the bucket.{F801}I did good!{F801}</target>
+  </entry>
+  <entry id="97">
+    <source>{F812}Gaptoothed boy\0{F87A,71}{F813,1,404031}Mister, listen! We studied what "fun"{F801}is today!{F801}{F802}"Fun" is how it feels when you eat{F801}sweets!{F801}</source>
+    <target>{F812}Gaptoothed boy\0{F87A,71}{F813,1,404031}Mister, listen! We studied what "fun"{F801}is today!{F801}{F802}"Fun" is how it feels when you eat{F801}sweets!{F801}</target>
+  </entry>
+  <entry id="98">
+    <source>{F812}Gaptoothed boy\0{F87A,71}{F813,1,404031}Mister, listen! We learned about "hope"{F801}today!{F801}{F802}Tokyo has no "hope."{F801}{F802}So our teacher said he can't teach us{F801}what it feels like.{F801}</source>
+    <target>{F812}Gaptoothed boy\0{F87A,71}{F813,1,404031}Mister, listen! We learned about "hope"{F801}today!{F801}{F802}Tokyo has no "hope."{F801}{F802}So our teacher said he can't teach us{F801}what it feels like.{F801}</target>
+  </entry>
+  <entry id="99">
+    <source>{F812}Man\0{F813,1,403412}I'm pissed right now... Get outta my{F801}face...{F801}</source>
+    <target>{F812}Man\0{F813,1,403412}I'm pissed right now... Get outta my{F801}face...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 {F843,0} walked away...{F801}</source>
+    <target>〉 {F843,0} walked away...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Energetic boy\0{F87A,71}{F813,1,404011}I heard Mom and Dad are in a different{F801}building.{F801}{F802}They're busy taking care of my sisters{F801}and brothers. I have a lot of them.{F801}{F802}I'm the oldest brother, so I can{F801}handle being by myself.{F801}</source>
+    <target>{F812}Energetic boy\0{F87A,71}{F813,1,404011}I heard Mom and Dad are in a different{F801}building.{F801}{F802}They're busy taking care of my sisters{F801}and brothers. I have a lot of them.{F801}{F802}I'm the oldest brother, so I can{F801}handle being by myself.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Energetic boy\0{F87A,71}{F813,1,404011}Mom and Dad are in a different{F801}building.{F801}{F802}I'm getting a new sister.{F801}{F802}I'm the oldest brother, so I can{F801}handle being by myself.{F801}</source>
+    <target>{F812}Energetic boy\0{F87A,71}{F813,1,404011}Mom and Dad are in a different{F801}building.{F801}{F802}I'm getting a new sister.{F801}{F802}I'm the oldest brother, so I can{F801}handle being by myself.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Energetic boy\0{F87A,71}{F813,1,404011}I thought Mom and Dad were in a{F801}different building.{F801}{F802}But the Ashura-kai guy told me they{F801}left on a long trip a while back.{F801}{F802}They went to this place called{F801}"Heaven."{F801}</source>
+    <target>{F812}Energetic boy\0{F87A,71}{F813,1,404011}I thought Mom and Dad were in a{F801}different building.{F801}{F802}But the Ashura-kai guy told me they{F801}left on a long trip a while back.{F801}{F802}They went to this place called{F801}"Heaven."{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>〉 The man stares up vacantly, a thin{F801}stream of saliva dribbling from his{F801}mouth...{F801}</source>
+    <target>〉 The man stares up vacantly, a thin{F801}stream of saliva dribbling from his{F801}mouth...{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>〉 {F843,0} walked away...{F801}</source>
+    <target>〉 {F843,0} walked away...{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Pig-tailed girl\0{F87A,72}{F813,1,404102}My mommy and I came to Roppongi from{F801}Ueno.{F801}{F802}She told me she had "some business"{F801}and left. I'm waiting for her here.{F801}</source>
+    <target>{F812}Pig-tailed girl\0{F87A,72}{F813,1,404102}My mommy and I came to Roppongi from{F801}Ueno.{F801}{F802}She told me she had "some business"{F801}and left. I'm waiting for her here.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Pig-tailed girl\0{F87A,72}{F813,1,404102}My mommy and I came to Roppongi from{F801}Ueno.{F801}{F802}She told me she had "some business"{F801}and left. I'm waiting for her here.{F801}{F802}...Mister, do you know when her{F801}"business" will be done...?{F801}</source>
+    <target>{F812}Pig-tailed girl\0{F87A,72}{F813,1,404102}My mommy and I came to Roppongi from{F801}Ueno.{F801}{F802}She told me she had "some business"{F801}and left. I'm waiting for her here.{F801}{F802}...Mister, do you know when her{F801}"business" will be done...?{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>Talk{F801}Leave{F801}</source>
+    <target>Talk{F801}Leave{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>{F812}Man\0{F813,1,403231}I'm five years old!{F801}I'm a good boy, huh?{F801}{F802}Ahahahaha, bye-bye!{F801}</source>
+    <target>{F812}Man\0{F813,1,403231}I'm five years old!{F801}I'm a good boy, huh?{F801}{F802}Ahahahaha, bye-bye!{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>〉 {F843,0} walked away...{F801}</source>
+    <target>〉 {F843,0} walked away...{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Spoiled boy\0{F87A,71}{F813,1,404012}Hey, I'm not gonna take a nap until{F801}you turn on a movie!{F801}{F802}An' if I don't take a nap, Mr. Tayama's{F801}gonna yell at you!{F801}</source>
+    <target>{F812}Spoiled boy\0{F87A,71}{F813,1,404012}Hey, I'm not gonna take a nap until{F801}you turn on a movie!{F801}{F802}An' if I don't take a nap, Mr. Tayama's{F801}gonna yell at you!{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>{F812}Spoiled boy\0{F87A,71}{F813,1,404012}Hey, I'm not gonna take a nap until{F801}you read me a story!{F801}{F802}An' if I don't take a nap, Mr. Tayama's{F801}gonna yell at you!{F801}</source>
+    <target>{F812}Spoiled boy\0{F87A,71}{F813,1,404012}Hey, I'm not gonna take a nap until{F801}you read me a story!{F801}{F802}An' if I don't take a nap, Mr. Tayama's{F801}gonna yell at you!{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Spoiled boy\0{F87A,71}{F813,1,404012}Hey, I'm not gonna take a nap until{F801}you read me a Grimoire!{F801}{F802}An' if I don't take a nap, Mr. Tayama's{F801}gonna yell at you!{F801}</source>
+    <target>{F812}Spoiled boy\0{F87A,71}{F813,1,404012}Hey, I'm not gonna take a nap until{F801}you read me a Grimoire!{F801}{F802}An' if I don't take a nap, Mr. Tayama's{F801}gonna yell at you!{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Woman\0{F813,1,404421}Wh-What...? There's a strange man here!{F801}Mr. Tayama...! Save me...!{F801}</source>
+    <target>{F812}Woman\0{F813,1,404421}Wh-What...? There's a strange man here!{F801}Mr. Tayama...! Save me...!{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>〉 {F843,0} walked away...{F801}</source>
+    <target>〉 {F843,0} walked away...{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,150018}Seedbed...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,150018}Seedbed...?{F801}</target>
+  </entry>
+  <entry id="117">
+    <source>{F812}Pig-tailed girl\0{F87A,72}{F813,1,404131}When I grow up, I'm going to marry{F801}Mr. Tayama!{F801}{F802}Mr. Tayama said that he's okay with{F801}me being Number Five!{F801}</source>
+    <target>{F812}Pig-tailed girl\0{F87A,72}{F813,1,404131}When I grow up, I'm going to marry{F801}Mr. Tayama!{F801}{F802}Mr. Tayama said that he's okay with{F801}me being Number Five!{F801}</target>
+  </entry>
+  <entry id="118">
+    <source>{F812}Pig-tailed girl\0{F87A,72}{F813,1,404131}When I grow up, I'm going to marry{F801}Mr. Tayama!{F801}{F802}Mr. Tayama hasn't come to visit me{F801}lately. Is he busy with work...?{F801}</source>
+    <target>{F812}Pig-tailed girl\0{F87A,72}{F813,1,404131}When I grow up, I'm going to marry{F801}Mr. Tayama!{F801}{F802}Mr. Tayama hasn't come to visit me{F801}lately. Is he busy with work...?{F801}</target>
+  </entry>
+  <entry id="119">
+    <source>〉 The woman stares upwards, drooling{F801}emptily...{F801}</source>
+    <target>〉 The woman stares upwards, drooling{F801}emptily...{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>〉 {F843,0} walked away...{F801}</source>
+    <target>〉 {F843,0} walked away...{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>〉 There is a sleeping man tied down to{F801}the bed...{F801}</source>
+    <target>〉 There is a sleeping man tied down to{F801}the bed...{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>〉 A plate is attached to the bed. Will{F801}you read what's written there?{F801}</source>
+    <target>〉 A plate is attached to the bed. Will{F801}you read what's written there?{F801}</target>
+  </entry>
+  <entry id="123">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="124">
+    <source>"Extract History: 3 Years, 10 months{F801}Brain condition: B (minor damage in{F801}frontal lobe)"{F801}{F802}〉 ...This is written in mystic script on{F801}the plate.{F801}</source>
+    <target>"Extract History: 3 Years, 10 months{F801}Brain condition: B (minor damage in{F801}frontal lobe)"{F801}{F802}〉 ...This is written in mystic script on{F801}the plate.{F801}</target>
+  </entry>
+  <entry id="125">
+    <source>〉 {F843,0} walked away...{F801}</source>
+    <target>〉 {F843,0} walked away...{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>〉 A woman is tied to the bed...{F801}</source>
+    <target>〉 A woman is tied to the bed...{F801}</target>
+  </entry>
+  <entry id="127">
+    <source>〉 A plate is attached to the bed. Will{F801}you read what's written there?{F801}</source>
+    <target>〉 A plate is attached to the bed. Will{F801}you read what's written there?{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>Talk to her{F801}Walk away{F801}</source>
+    <target>Talk to her{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="129">
+    <source>〉 There is no response. The woman is{F801}looking up at the ceiling as a stream{F801}of saliva dribbles from her mouth...{F801}</source>
+    <target>〉 There is no response. The woman is{F801}looking up at the ceiling as a stream{F801}of saliva dribbles from her mouth...{F801}</target>
+  </entry>
+  <entry id="130">
+    <source>〉 {F843,0} walked away...{F801}</source>
+    <target>〉 {F843,0} walked away...{F801}</target>
+  </entry>
+  <entry id="133">
+    <source>{F812}Demon\0{F87A,-133}{F813,1,473000}Yaso Magatsuhi...{F801}</source>
+    <target>{F812}Demon\0{F87A,-133}{F813,1,473000}Yaso Magatsuhi...{F801}</target>
+  </entry>
+  <entry id="148">
+    <source>{F812}Demon\0{F87A,-133}{F813,1,473000}Yaso Magatsuhi...{F801}</source>
+    <target>{F812}Demon\0{F87A,-133}{F813,1,473000}Yaso Magatsuhi...{F801}</target>
+  </entry>
+  <entry id="153">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,150038}Hey... You weren't slacking off,{F801}were you? Is this all the brains you{F801}got today?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,150038}Hey... You weren't slacking off,{F801}were you? Is this all the brains you{F801}got today?{F801}</target>
+  </entry>
+  <entry id="154">
+    <source>〉 The gas masked man shook the brown-{F801}colored bottle in his hand.{F801}</source>
+    <target>〉 The gas masked man shook the brown-{F801}colored bottle in his hand.{F801}</target>
+  </entry>
+  <entry id="162">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="163">
+    <source>〉 The elevator has been locked down.{F801}</source>
+    <target>〉 The elevator has been locked down.{F801}</target>
+  </entry>
+  <entry id="169">
+    <source>Use Card Key 2{F801}Use Card Key 3{F801}Walk away{F801}</source>
+    <target>Use Card Key 2{F801}Use Card Key 3{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="170">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}I checked the lock's specs against{F801}your possessions and found a way{F801}to unlock it.{F801}{F802}What will you do, Master {F843,0}?{F801}</target>
+  </entry>
+  <entry id="171">
+    <source>〉 {F843,0} used Card Key 2.{F801}{F802}〉 Nothing happened...{F801}</source>
+    <target>〉 {F843,0} used Card Key 2.{F801}{F802}〉 Nothing happened...{F801}</target>
+  </entry>
+  <entry id="172">
+    <source>〉 {F843,0} used Card Key 3.{F801}{F802}〉 Nothing happened...{F801}</source>
+    <target>〉 {F843,0} used Card Key 3.{F801}{F802}〉 Nothing happened...{F801}</target>
+  </entry>
+  <entry id="173">
+    <source>〉 There is an elevator here.{F801}</source>
+    <target>〉 There is an elevator here.{F801}</target>
+  </entry>
+  <entry id="174">
+    <source>〉 {F843,0} used Card Key 4.{F801}</source>
+    <target>〉 {F843,0} used Card Key 4.{F801}</target>
+  </entry>
+  <entry id="176">
+    <source>Use Card Key 2{F801}Use Card Key 3{F801}Walk away{F801}</source>
+    <target>Use Card Key 2{F801}Use Card Key 3{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="184">
+    <source>{F812}Man\0{F813,1,403213}Hey, Mister! You're here to take my{F801}food, huh?{F801}{F802}Stop it! Get out of here!{F801}</source>
+    <target>{F812}Man\0{F813,1,403213}Hey, Mister! You're here to take my{F801}food, huh?{F801}{F802}Stop it! Get out of here!{F801}</target>
+  </entry>
+  <entry id="216">
+    <source>{F812}Pig-tailed girl\0{F87A,72}{F813,1,404131}When I grow up, I'm going to marry{F801}Mr. Tayama!{F801}{F802}Mr. Tayama said that age doesn't{F801}matter when there's love!{F801}</source>
+    <target>{F812}Pig-tailed girl\0{F87A,72}{F813,1,404131}When I grow up, I'm going to marry{F801}Mr. Tayama!{F801}{F802}Mr. Tayama said that age doesn't{F801}matter when there's love!{F801}</target>
+  </entry>
+  <entry id="224">
+    <source>"Extract History: 3 Years, 10 months{F801}       (at time of examination){F801}Brain condition: D"{F801}{F802}"Brain condition is evaluated at sub-{F801}standard levels."{F801}{F802}〉 ...This is written in mystic script on{F801}the plate.{F801}</source>
+    <target>"Extract History: 3 Years, 10 months{F801}       (at time of examination){F801}Brain condition: D"{F801}{F802}"Brain condition is evaluated at sub-{F801}standard levels."{F801}{F802}〉 ...This is written in mystic script on{F801}the plate.{F801}</target>
+  </entry>
+  <entry id="229">
+    <source>〉 There is no response.{F801}{F802}〉 You see no life in her eyes...{F801}</source>
+    <target>〉 There is no response.{F801}{F802}〉 You see no life in her eyes...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>※10月ROM対応箇所です{F801}{F802}óックを外しÉéäーターに{F801}乗れるようになります{F801}{F802}下の階へ移動します{F801}</source>
+    <target>※10月ROM対応箇所です{F801}{F802}óックを外しÉéäーターに{F801}乗れるようになります{F801}{F802}下の階へ移動します{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>※10月ROM対応箇所です{F801}{F802}óックを外しÉéäーターに{F801}乗れるようになります{F801}{F802}下の階へ移動します{F801}</source>
+    <target>※10月ROM対応箇所です{F801}{F802}óックを外しÉéäーターに{F801}乗れるようになります{F801}{F802}下の階へ移動します{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>※10月ROM対応箇所です{F801}{F802}部屋に入ると赤玉の製造装置があります{F801}しばらくすると何者かの気配を感じます{F801}</source>
+    <target>※10月ROM対応箇所です{F801}{F802}部屋に入ると赤玉の製造装置があります{F801}しばらくすると何者かの気配を感じます{F801}</target>
+  </entry>
+  <entry id="903">
+    <source>ヤソマガツが現れ{F801}主人公たちは気を失ってしまいます{F801}</source>
+    <target>ヤソマガツが現れ{F801}主人公たちは気を失ってしまいます{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,42 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You see many human-shaped statues...{F801}</source>
+    <target>〉 You see many human-shaped statues...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F813,0,67001}What is this place? Some sort of{F801}hall for an Unclean One sculptor...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,67001}What is this place? Some sort of{F801}hall for an Unclean One sculptor...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,67002}Their expressions are quite vivid.{F801}Look at the terror on this one's face...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,67002}Their expressions are quite vivid.{F801}Look at the terror on this one's face...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,67003}I heard something.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,67003}I heard something.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Voice\0{F87A,1}{F813,0,67004}Magnificent... You're definitely the{F801}most magnificent specimens of human{F801}to come here so far...{F801}{F802}{F813,0,67005}That young body overflowing with life...{F801}{F802}{F813,0,67006}You're truly the embodiment of the{F801}art that I seek.{F801}</source>
+    <target>{F812}Voice\0{F87A,1}{F813,0,67004}Magnificent... You're definitely the{F801}most magnificent specimens of human{F801}to come here so far...{F801}{F802}{F813,0,67005}That young body overflowing with life...{F801}{F802}{F813,0,67006}You're truly the embodiment of the{F801}art that I seek.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Medusa\0{F87A,201}{F813,0,67007}Humans have climbed up here many{F801}times, but I think you'll be the{F801}finest addition to my collection.{F801}{F802}{F813,0,67008}Now, let us spend an eternity together{F801}in beauty...{F801}</source>
+    <target>{F812}Medusa\0{F87A,201}{F813,0,67007}Humans have climbed up here many{F801}times, but I think you'll be the{F801}finest addition to my collection.{F801}{F802}{F813,0,67008}Now, let us spend an eternity together{F801}in beauty...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,67009}What a horrible demon she was. She{F801}took such a diseased thrill from{F801}turning people to stone...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,67009}What a horrible demon she was. She{F801}took such a diseased thrill from{F801}turning people to stone...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,67010}I'm curious...{F801}{F802}{F813,0,67011}If the Black Samurai comes from the{F801}Unclean Ones' country...{F801}{F802}{F813,0,67012}Then how would she have made it{F801}past the Minotaur and Medusa?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,67010}I'm curious...{F801}{F802}{F813,0,67011}If the Black Samurai comes from the{F801}Unclean Ones' country...{F801}{F802}{F813,0,67012}Then how would she have made it{F801}past the Minotaur and Medusa?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,67013}Either she's a hardy enough combatant{F801}to tame them... or, seen another way,{F801}perhaps...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,67013}Either she's a hardy enough combatant{F801}to tame them... or, seen another way,{F801}perhaps...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,67014}This mission may prove thornier than{F801}we thought.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,67014}This mission may prove thornier than{F801}we thought.{F801}</target>
+  </entry>
+</mbm>

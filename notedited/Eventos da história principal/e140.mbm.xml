@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You hear a voice coming from further{F801}down the passage...{F801}</source>
+    <target>〉 You hear a voice coming from further{F801}down the passage...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Woman's voice\0{F813,0,140001}You who wish to pass. Answer our{F801}question.{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,140001}You who wish to pass. Answer our{F801}question.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Man's voice\0{F813,0,140002}You will have two choices. The answer{F801}will reveal your inner self.{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,140002}You will have two choices. The answer{F801}will reveal your inner self.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Woman's voice\0{F813,0,140003}Now, for the question...{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,140003}Now, for the question...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Woman's voice\0{F813,0,140004}You are the ruler of a country. You{F801}have called upon your people to gather{F801}en masse for a game.{F801}{F802}{F813,0,140005}Among those who attend, one is{F801}extraordinarily tall...{F801}{F802}{F813,0,140006}What would you do...?{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,140004}You are the ruler of a country. You{F801}have called upon your people to gather{F801}en masse for a game.{F801}{F802}{F813,0,140005}Among those who attend, one is{F801}extraordinarily tall...{F801}{F802}{F813,0,140006}What would you do...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Woman's voice\0{F813,0,140007}If you would exclude this person for{F801}the sake of fairness, go right.{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,140007}If you would exclude this person for{F801}the sake of fairness, go right.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Man's voice\0{F813,0,140008}If you accept that one's height is{F801}merely a part of their individuality{F801}and include this person, go left.{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,140008}If you accept that one's height is{F801}merely a part of their individuality{F801}and include this person, go left.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,140009}But that's dead simple.{F801}{F802}{F813,0,140010}A man can't help being tall. Of{F801}course you'd have to accept it.{F801}{F802}{F813,0,140011}I'm going left.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,140009}But that's dead simple.{F801}{F802}{F813,0,140010}A man can't help being tall. Of{F801}course you'd have to accept it.{F801}{F802}{F813,0,140011}I'm going left.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,140012}But then... It would be unsporting to{F801}the others for the heights to be so{F801}grossly uneven.{F801}{F802}{F87B,3,6,1,1}{F813,0,140013}I would go right.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,140012}But then... It would be unsporting to{F801}the others for the heights to be so{F801}grossly uneven.{F801}{F802}{F87B,3,6,1,1}{F813,0,140013}I would go right.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,140014}...It's not an easy decision.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,140014}...It's not an easy decision.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,12,1,1}{F813,0,140015}Which would you choose, {F843,0}...?{F801}{F802}{F813,0,140016}Would you go left and accept the person{F801}for who they are? Or go right and{F801}disqualify them for the good of all?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,12,1,1}{F813,0,140015}Which would you choose, {F843,0}...?{F801}{F802}{F813,0,140016}Would you go left and accept the person{F801}for who they are? Or go right and{F801}disqualify them for the good of all?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Woman's voice\0{F813,0,140017}You would disallow the tall person{F801}for the sake of the game?{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,140017}You would disallow the tall person{F801}for the sake of the game?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>"Yes, I would."{F801}Reconsider{F801}</source>
+    <target>"Yes, I would."{F801}Reconsider{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Man's voice\0{F813,0,140018}You would allow this person to{F801}participate, regardless of their{F801}individual height?{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,140018}You would allow this person to{F801}participate, regardless of their{F801}individual height?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>"Yes, I would."{F801}Reconsider{F801}</source>
+    <target>"Yes, I would."{F801}Reconsider{F801}</target>
+  </entry>
+  <entry id="999">
+    <source>つなぎ用仮Íäñトです{F801}</source>
+    <target>つなぎ用仮Íäñトです{F801}</target>
+  </entry>
+</mbm>

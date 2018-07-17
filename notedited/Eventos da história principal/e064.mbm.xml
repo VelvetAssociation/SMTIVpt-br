@@ -1,0 +1,158 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isabeau\0{F87A,170}{F813,0,64001}...Hm. Does it seem to you that the{F801}room up ahead has some importance?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F813,0,64001}...Hm. Does it seem to you that the{F801}room up ahead has some importance?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,64002}With luck, we'll find more useful{F801}mystic relics such as those guns.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,64002}With luck, we'll find more useful{F801}mystic relics such as those guns.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F813,0,64003}I feel like a proper adventurer now.{F801}I'm starting to enjoy myself...!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,64003}I feel like a proper adventurer now.{F801}I'm starting to enjoy myself...!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 {F843,0} and his fellow Samurai{F801}entered the small room.{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}entered the small room.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Walter\0{F87A,4}{F87B,3,12,1,1}{F87B,4,10,1,1}{F813,0,64004}What is this room...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,3,12,1,1}{F87B,4,10,1,1}{F813,0,64004}What is this room...?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,64005}This is the Sky Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,64005}This is the Sky Terminal.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Error\0Not used{F801}</source>
+    <target>{F812}Error\0Not used{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,64006}"Sky Terminal"?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,64006}"Sky Terminal"?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,64007}Well done, my Samurai. I have seen{F801}Burroughs' logs.{F801}{F802}{F813,0,64008}It would seem you discovered a{F801}Terminal Room.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,64007}Well done, my Samurai. I have seen{F801}Burroughs' logs.{F801}{F802}{F813,0,64008}It would seem you discovered a{F801}Terminal Room.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,64009}What's a Terminal?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,64009}What's a Terminal?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,64010}It's a matter transportation device.{F801}{F802}{F813,0,64011}It's built to move things instantly{F801}between different Terminals.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,64010}It's a matter transportation device.{F801}{F802}{F813,0,64011}It's built to move things instantly{F801}between different Terminals.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,7,1,1}{F87B,3,7,1,2}{F813,0,64012}Instantly!? Th-That's some advanced{F801}magic...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,7,1,1}{F87B,3,7,1,2}{F813,0,64012}Instantly!? Th-That's some advanced{F801}magic...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,64013}Oh, no, no. There has been another{F801}such Terminal in Aquila Plaza since{F801}days of old.{F801}{F802}{F813,0,64014}But without a second Terminal to{F801}connect to, it was not active...{F801}Until now, that is.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,64013}Oh, no, no. There has been another{F801}such Terminal in Aquila Plaza since{F801}days of old.{F801}{F802}{F813,0,64014}But without a second Terminal to{F801}connect to, it was not active...{F801}Until now, that is.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,4,10,1,1}{F813,0,64015}Then does this mean we can now travel{F801}instantly between Naraku and the{F801}Aquila Plaza?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,4,10,1,1}{F813,0,64015}Then does this mean we can now travel{F801}instantly between Naraku and the{F801}Aquila Plaza?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,64016}Yes... that is correct.{F801}{F802}{F813,0,64017}However, the name of the Terminal{F801}in Aquila Plaza has not yet been{F801}established.{F801}{F802}{F813,0,64018}That is a necessary step before the{F801}Terminals can be linked.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,64016}Yes... that is correct.{F801}{F802}{F813,0,64017}However, the name of the Terminal{F801}in Aquila Plaza has not yet been{F801}established.{F801}{F802}{F813,0,64018}That is a necessary step before the{F801}Terminals can be linked.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,64019}Hence...{F801}{F802}{F813,0,64020}In honor of your achievement in{F801}discovering a Terminal Room, I shall{F801}allow you the honor of naming it.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,64019}Hence...{F801}{F802}{F813,0,64020}In honor of your achievement in{F801}discovering a Terminal Room, I shall{F801}allow you the honor of naming it.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,3,1,1}{F87B,4,8,1,1}{F813,0,64021}My, this is quite sudden... Hmmm.{F801}I can't think of anything...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,3,1,1}{F87B,4,8,1,1}{F813,0,64021}My, this is quite sudden... Hmmm.{F801}I can't think of anything...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,1}{F813,0,64022}Anything is suitable, I think, so{F801}long as it isn't perverse.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,1}{F813,0,64022}Anything is suitable, I think, so{F801}long as it isn't perverse.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,64023}He says "allowing us the honor of{F801}naming it", but I'll wager he simply{F801}can't come up with one himself.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,64023}He says "allowing us the honor of{F801}naming it", but I'll wager he simply{F801}can't come up with one himself.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,64024}Can you think of anything,{F801}{F843,0}...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,64024}Can you think of anything,{F801}{F843,0}...?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,64025}I've accessed the "NO NAME" Terminal.{F801}{F802}{F813,0,64026}Please give it a name, Master {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,64025}I've accessed the "NO NAME" Terminal.{F801}{F802}{F813,0,64026}Please give it a name, Master {F843,0}.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,64027}The link with the {F811,51} Terminal{F801}is complete.{F801}{F802}{F813,0,64028}You can go between them now.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,64027}The link with the {F811,51} Terminal{F801}is complete.{F801}{F802}{F813,0,64028}You can go between them now.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,64029}Naming a Terminal has never happened{F801}in any history I've read. It's a{F801}brilliant accomplishment.{F801}{F802}{F813,0,64030}I'm honored to accompany a Samurai{F801}like you, {F843,0}.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,64029}Naming a Terminal has never happened{F801}in any history I've read. It's a{F801}brilliant accomplishment.{F801}{F802}{F813,0,64030}I'm honored to accompany a Samurai{F801}like you, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Walter\0{F87A,4}{F813,0,64031}You're like Aquila now. Your name,{F801}too, will be passed down to future{F801}generations.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,64031}You're like Aquila now. Your name,{F801}too, will be passed down to future{F801}generations.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Isabeau\0{F87A,170}{F813,0,64033}From now on, we'll be making use of{F801}the transporter that you named...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F813,0,64033}From now on, we'll be making use of{F801}the transporter that you named...{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,64035}Ah, one more thing...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,64035}Ah, one more thing...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,64036}There would seem to be numerous other{F801}Terminals in the Unclean Ones' country.{F801}{F802}{F813,0,64037}You may as well try and find them all.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,64036}There would seem to be numerous other{F801}Terminals in the Unclean Ones' country.{F801}{F802}{F813,0,64037}You may as well try and find them all.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,64039}I shall be counting on you, Samurai.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,64039}I shall be counting on you, Samurai.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,8,1,1}{F813,0,64040}I do wish he wouldn't saddle us with{F801}more work with little more than a{F801}"may as well"...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,8,1,1}{F813,0,64040}I do wish he wouldn't saddle us with{F801}more work with little more than a{F801}"may as well"...{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>〉 A strange altar has been placed in{F801}the middle of the room...{F801}</source>
+    <target>〉 A strange altar has been placed in{F801}the middle of the room...{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="124">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,64032}...Damn, now I'm jealous.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,64032}...Damn, now I'm jealous.{F801}</target>
+  </entry>
+  <entry id="125">
+    <source>{F812}Isabeau\0{F87A,170}{F87B,170,6,1,1}{F813,0,64034}I fear your face will come unavoidably{F801}to mind each time we do so. It's a bit{F801}embarrassing...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,170}{F87B,170,6,1,1}{F813,0,64034}I fear your face will come unavoidably{F801}to mind each time we do so. It's a bit{F801}embarrassing...{F801}</target>
+  </entry>
+  <entry id="133">
+    <source>〉 Depending on your selection attributes,{F801}you will have different events.{F801}</source>
+    <target>〉 Depending on your selection attributes,{F801}you will have different events.{F801}</target>
+  </entry>
+  <entry id="134">
+    <source>LAW{F801}CHAOS{F801}NEUTRAL{F801}</source>
+    <target>LAW{F801}CHAOS{F801}NEUTRAL{F801}</target>
+  </entry>
+  <entry id="135">
+    <source>〉 LAW route will be available.{F801}</source>
+    <target>〉 LAW route will be available.{F801}</target>
+  </entry>
+  <entry id="136">
+    <source>〉 CHAOS route will be available.{F801}</source>
+    <target>〉 CHAOS route will be available.{F801}</target>
+  </entry>
+  <entry id="137">
+    <source>〉 NEUTRAL route will be available.{F801}</source>
+    <target>〉 NEUTRAL route will be available.{F801}</target>
+  </entry>
+</mbm>

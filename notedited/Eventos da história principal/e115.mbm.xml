@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,115001}Those demons...!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F813,0,115001}Those demons...!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,115002}There's a familiar sight...{F801}{F802}{F87B,3,7,1,2}{F813,0,115003}The hour has come to repay in kind{F801}the humiliation we suffered at{F801}Kiccigiorgi Forest!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,115002}There's a familiar sight...{F801}{F802}{F87B,3,7,1,2}{F813,0,115003}The hour has come to repay in kind{F801}the humiliation we suffered at{F801}Kiccigiorgi Forest!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,115004}You men won't be dispatched so easily{F801}this time, I hope...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,115004}You men won't be dispatched so easily{F801}this time, I hope...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,115005}We should be fine... I think.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,115005}We should be fine... I think.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,9,1,1}Error{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,9,1,1}Error{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,115006}Y-Yes...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,115006}Y-Yes...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,115007}I wonder...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,115007}I wonder...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Fight the demonic horde?{F801}</source>
+    <target>〉 Fight the demonic horde?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>Fight them{F801}Retreat for now{F801}</source>
+    <target>Fight them{F801}Retreat for now{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,115008}Th-That's unfortunate, but we'll{F801}abide by your opinion.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,115008}Th-That's unfortunate, but we'll{F801}abide by your opinion.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 A horde of demons is awaiting...{F801}</source>
+    <target>〉 A horde of demons is awaiting...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,115009}Wh-What should we do? Ah... I presume{F801}we must fight them?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,115009}Wh-What should we do? Ah... I presume{F801}we must fight them?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,115010}Don't expect us to act the lovestruck{F801}buffoons over you twice!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,115010}Don't expect us to act the lovestruck{F801}buffoons over you twice!{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87A,4}{F813,0,115011}If those demon girls are here, then{F801}could she be far behind...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,115011}If those demon girls are here, then{F801}could she be far behind...?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,115012}Yes... the Black Samurai may very{F801}likely be near...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,115012}Yes... the Black Samurai may very{F801}likely be near...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 A horde of demons appeared from the{F801}back of the corridor.{F801}</source>
+    <target>〉 A horde of demons appeared from the{F801}back of the corridor.{F801}</target>
+  </entry>
+</mbm>

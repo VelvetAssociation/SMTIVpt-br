@@ -1,0 +1,114 @@
+<mbm>
+  <entry id="0">
+    <source>〉 There is a naked man wearing a mask{F801}inside the birdcage...{F801}</source>
+    <target>〉 There is a naked man wearing a mask{F801}inside the birdcage...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Voice\0{F813,0,125001}...I smell humans.{F801}</source>
+    <target>{F812}Voice\0{F813,0,125001}...I smell humans.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-497}{F813,0,125002}I am the Tyrant Asmodeus.{F801}</source>
+    <target>{F812}Demon\0{F87A,-497}{F813,0,125002}I am the Tyrant Asmodeus.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125003}I will not allow you to touch the{F801}prisoner of this birdcage.{F801}{F802}{F813,0,125004}If he is released, doom will be upon{F801}this world once more.{F801}</source>
+    <target>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125003}I will not allow you to touch the{F801}prisoner of this birdcage.{F801}{F802}{F813,0,125004}If he is released, doom will be upon{F801}this world once more.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,125005}Doom...? Your words carry little{F801}meaning for me.{F801}{F802}{F813,0,125006}Unless you should like to explain{F801}who this man you have trapped is?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,125005}Doom...? Your words carry little{F801}meaning for me.{F801}{F802}{F813,0,125006}Unless you should like to explain{F801}who this man you have trapped is?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125007}That is not for humans to know.{F801}{F802}{F813,0,125008}Besides, if I speak the prisoner's{F801}name, he will come to himself again.{F801}{F802}{F813,0,125009}We have gone to great lengths to fit{F801}them with these masks, which blot{F801}out their identities...{F801}</source>
+    <target>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125007}That is not for humans to know.{F801}{F802}{F813,0,125008}Besides, if I speak the prisoner's{F801}name, he will come to himself again.{F801}{F802}{F813,0,125009}We have gone to great lengths to fit{F801}them with these masks, which blot{F801}out their identities...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125010}Now leave, young ones, and I shall{F801}not take your lives.{F801}</source>
+    <target>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125010}Now leave, young ones, and I shall{F801}not take your lives.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 What will you do?{F801}</source>
+    <target>〉 What will you do?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>Retreat{F801}Rescue the masked man{F801}</source>
+    <target>Retreat{F801}Rescue the masked man{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125011}Very good. That is the wisest course{F801}for you humans to take.{F801}</source>
+    <target>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125011}Very good. That is the wisest course{F801}for you humans to take.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125014}You have come again? Have you learned{F801}nothing...?{F801}{F802}{F813,0,125015}Leave here, and I shall not take{F801}your lives.{F801}</source>
+    <target>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125014}You have come again? Have you learned{F801}nothing...?{F801}{F802}{F813,0,125015}Leave here, and I shall not take{F801}your lives.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 What will you do?{F801}</source>
+    <target>〉 What will you do?{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125012}Gwehehehehehehhhh...{F801}{F802}{F813,0,125013}Then I shall crush the man betwixt{F801}my hands and take the woman for a{F801}bride...!{F801}</source>
+    <target>{F812}Asmodeus\0{F87A,209}{F87B,209,1,1,1}{F813,0,125012}Gwehehehehehehhhh...{F801}{F802}{F813,0,125013}Then I shall crush the man betwixt{F801}my hands and take the woman for a{F801}bride...!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Masked man\0{F813,0,125016}...Who is there?{F801}</source>
+    <target>{F812}Masked man\0{F813,0,125016}...Who is there?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 Isabeau rushed to open the birdcage.{F801}</source>
+    <target>〉 Isabeau rushed to open the birdcage.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,125017}I can hardly bear to look upon him...{F801}{F802}{F813,0,125018}Is this man one of those whom Sister{F801}Gabby spoke of?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,125017}I can hardly bear to look upon him...{F801}{F802}{F813,0,125018}Is this man one of those whom Sister{F801}Gabby spoke of?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,125019}Be at peace. We have come to rescue{F801}you.{F801}{F802}{F813,0,125020}He is terribly exhausted... We must{F801}bring him to a healer at once.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,125019}Be at peace. We have come to rescue{F801}you.{F801}{F802}{F813,0,125020}He is terribly exhausted... We must{F801}bring him to a healer at once.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Masked man\0{F87A,28}{F813,0,125021}Who has come to see me?{F801}</source>
+    <target>{F812}Masked man\0{F87A,28}{F813,0,125021}Who has come to see me?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,125022}We from the Eastern Kingdom of Mikado,{F801}sir. Sister Gabby put it to us to{F801}rescue you.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,125022}We from the Eastern Kingdom of Mikado,{F801}sir. Sister Gabby put it to us to{F801}rescue you.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Masked man\0{F87A,28}{F813,0,125023}Ohh... "Gabby," you say?{F801}{F802}{F813,0,125024}Ugh. This damned mask makes it{F801}impossible to remember even who{F801}I am...{F801}</source>
+    <target>{F812}Masked man\0{F87A,28}{F813,0,125023}Ohh... "Gabby," you say?{F801}{F802}{F813,0,125024}Ugh. This damned mask makes it{F801}impossible to remember even who{F801}I am...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,125025}Please, allow me to remove it for you...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,125025}Please, allow me to remove it for you...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Masked man\0{F87A,28}{F813,0,125026}No, it's useless. Only a kindred{F801}spirit to me can do that...{F801}{F802}{F813,0,125027}But I am no longer sure who that is.{F801}Such is the curse of this mask...{F801}</source>
+    <target>{F812}Masked man\0{F87A,28}{F813,0,125026}No, it's useless. Only a kindred{F801}spirit to me can do that...{F801}{F802}{F813,0,125027}But I am no longer sure who that is.{F801}Such is the curse of this mask...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,125028}Poor thing...{F801}{F802}{F813,0,125029}I shall take it upon myself to see{F801}him back to the Monastery safely.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,125028}Poor thing...{F801}{F802}{F813,0,125029}I shall take it upon myself to see{F801}him back to the Monastery safely.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,125030}What remains is in your hands.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,125030}What remains is in your hands.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,125028}Poor thing...{F801}{F802}{F813,0,125032}At least we know he is the last of{F801}those who suffer so.{F801}{F802}{F813,0,125033}I shall take it upon myself to see{F801}him back to the Monastery safely.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,125028}Poor thing...{F801}{F802}{F813,0,125032}At least we know he is the last of{F801}those who suffer so.{F801}{F802}{F813,0,125033}I shall take it upon myself to see{F801}him back to the Monastery safely.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 Isabeau carried the man on her back and{F801}headed for the tower's exit.{F801}</source>
+    <target>〉 Isabeau carried the man on her back and{F801}headed for the tower's exit.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>〉 Isabeau parted ways with you.{F801}</source>
+    <target>〉 Isabeau parted ways with you.{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

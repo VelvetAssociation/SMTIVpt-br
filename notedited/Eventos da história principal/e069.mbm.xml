@@ -1,0 +1,74 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isabeau\0{F87A,5}This is a dummy, you know?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}This is a dummy, you know?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}I said, THIS IS A DUMMY!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}I said, THIS IS A DUMMY!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,69004}Master {F843,0}, I have an incoming{F801}communication from Abbot Hugo.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,69004}Master {F843,0}, I have an incoming{F801}communication from Abbot Hugo.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,69005}Hello, everyone. This is Hugo speaking.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,69005}Hello, everyone. This is Hugo speaking.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,69006}It seems you've safely reached the{F801}Unclean Ones' country... {F804,5}Tokyo.{F804,0}{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,69006}It seems you've safely reached the{F801}Unclean Ones' country... {F804,5}Tokyo.{F804,0}{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,69007}Tokyo?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,69007}Tokyo?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,69008}Precisely. That is the name the{F801}Unclean Ones have given their land.{F801}{F802}{F813,0,69009}We at the Monastery have some fruits{F801}of our research to share with you.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,69008}Precisely. That is the name the{F801}Unclean Ones have given their land.{F801}{F802}{F813,0,69009}We at the Monastery have some fruits{F801}of our research to share with you.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,69010}I've received map images of Tokyo{F801}from the Monastery.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,69010}I've received map images of Tokyo{F801}from the Monastery.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,69011}You may refer to them in order to{F801}accomplish your mission. I have great{F801}expectations of you.{F801}{F802}{F813,0,69012}But you must know that there will be{F801}no special treatment until you have{F801}produced results.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,69011}You may refer to them in order to{F801}accomplish your mission. I have great{F801}expectations of you.{F801}{F802}{F813,0,69012}But you must know that there will be{F801}no special treatment until you have{F801}produced results.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F813,0,69013}{F812}Burroughs\0{F87A,2}...Hm? Looks like the communication{F801}got cut off.{F801}</source>
+    <target>{F813,0,69013}{F812}Burroughs\0{F87A,2}...Hm? Looks like the communication{F801}got cut off.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Walter\0{F87A,4}{F813,0,69014}The devil take that Abbot...! Why must{F801}he spoil the mood so unfailingly?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,69014}The devil take that Abbot...! Why must{F801}he spoil the mood so unfailingly?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,69015}Well then, what do you suggest we{F801}do now?{F801}{F802}{F813,0,69016}Tokyo is vast. I doubt we'll turn up{F801}the Black Samurai by wandering{F801}aimlessly about.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,69015}Well then, what do you suggest we{F801}do now?{F801}{F802}{F813,0,69016}Tokyo is vast. I doubt we'll turn up{F801}the Black Samurai by wandering{F801}aimlessly about.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,69018}Our first order of business must be{F801}to learn what sort of place Tokyo is.{F801}{F802}{F813,0,69019}But we shouldn't go in blindly.{F801}We'll want an objective of some kind.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,69018}Our first order of business must be{F801}to learn what sort of place Tokyo is.{F801}{F802}{F813,0,69019}But we shouldn't go in blindly.{F801}We'll want an objective of some kind.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87A,4}{F813,0,69020}...Well, how about this quest?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,69020}...Well, how about this quest?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,69021}Hmm... What could this "Counter-Demon{F801}Force" be...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,69021}Hmm... What could this "Counter-Demon{F801}Force" be...?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,69022}Finding the answer to that question{F801}will be part of our duty as Samurai.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,69022}Finding the answer to that question{F801}will be part of our duty as Samurai.{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>ここで通信演出が行われ{F801}下画面にマッ¿が表示されるようになります{F801}</source>
+    <target>ここで通信演出が行われ{F801}下画面にマッ¿が表示されるようになります{F801}</target>
+  </entry>
+</mbm>

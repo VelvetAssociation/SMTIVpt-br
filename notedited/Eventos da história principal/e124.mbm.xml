@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>〉 There is a naked man wearing a mask{F801}inside the birdcage...{F801}</source>
+    <target>〉 There is a naked man wearing a mask{F801}inside the birdcage...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F813,0,124001}...Stop right there.{F801}</source>
+    <target>{F812}Voice\0{F813,0,124001}...Stop right there.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-416}{F813,0,124002}I am Gemori, the guardian of this{F801}birdcage.{F801}</source>
+    <target>{F812}Demon\0{F87A,-416}{F813,0,124002}I am Gemori, the guardian of this{F801}birdcage.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Gemori\0{F87A,-416}{F813,0,124004}Come now... forget about the cage and{F801}let us make love together.{F801}{F802}{F813,0,124005}I'll show you amazing love which{F801}anyone would die for...!{F801}</source>
+    <target>{F812}Gemori\0{F87A,-416}{F813,0,124004}Come now... forget about the cage and{F801}let us make love together.{F801}{F802}{F813,0,124005}I'll show you amazing love which{F801}anyone would die for...!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Masked man\0{F813,0,124006}...Is someone there?{F801}</source>
+    <target>{F812}Masked man\0{F813,0,124006}...Is someone there?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Walter rushed to open the birdcage.{F801}</source>
+    <target>〉 Walter rushed to open the birdcage.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F813,0,124007}One of the fellows Gabby told us to{F801}rescue, I take it.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,124007}One of the fellows Gabby told us to{F801}rescue, I take it.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Walter\0{F87A,4}{F813,0,124008}Don't worry, we mean you no harm.{F801}We're here on a rescue.{F801}{F802}{F813,0,124009}He's dreadfully emaciated... I don't{F801}think we should leave him this way.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,124008}Don't worry, we mean you no harm.{F801}We're here on a rescue.{F801}{F802}{F813,0,124009}He's dreadfully emaciated... I don't{F801}think we should leave him this way.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Masked man\0{F87A,28}{F813,0,124010}Who are you...?{F801}</source>
+    <target>{F812}Masked man\0{F87A,28}{F813,0,124010}Who are you...?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F813,0,124011}A woman named Gabby of the Eastern{F801}Kingdom of Mikado asked us to come{F801}to your aid.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,124011}A woman named Gabby of the Eastern{F801}Kingdom of Mikado asked us to come{F801}to your aid.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Masked man\0{F87A,28}{F813,0,124012}Gabby, eh...?{F801}{F802}{F813,0,124013}I feel as if I recall that name,{F801}but this mask makes it so hard to{F801}be sure of anything.{F801}</source>
+    <target>{F812}Masked man\0{F87A,28}{F813,0,124012}Gabby, eh...?{F801}{F802}{F813,0,124013}I feel as if I recall that name,{F801}but this mask makes it so hard to{F801}be sure of anything.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}{F813,0,124014}Then I'll have it off of you in{F801}but a moment.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,124014}Then I'll have it off of you in{F801}but a moment.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Masked man\0{F87A,28}{F813,0,124015}No, there is no point in trying...{F801}This mask can only be removed by a{F801}kindred spirit.{F801}{F802}{F813,0,124016}But I can't even think who that{F801}kindred spirit would be...{F801}</source>
+    <target>{F812}Masked man\0{F87A,28}{F813,0,124015}No, there is no point in trying...{F801}This mask can only be removed by a{F801}kindred spirit.{F801}{F802}{F813,0,124016}But I can't even think who that{F801}kindred spirit would be...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Walter\0{F87A,4}{F813,0,124017}...Ah well.{F801}{F802}{F813,0,124018}I'll see him safe on his way back{F801}to the Monastery.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,124017}...Ah well.{F801}{F802}{F813,0,124018}I'll see him safe on his way back{F801}to the Monastery.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Walter\0{F87A,4}{F813,0,124019}The rest will be up to you!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,124019}The rest will be up to you!{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Walter\0{F87A,4}{F813,0,124017}...Ah well.{F801}{F802}{F813,0,124021}This is the last of them, then.{F801}{F802}{F813,0,124022}I'll see him safe on his way back{F801}to the Monastery.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,124017}...Ah well.{F801}{F802}{F813,0,124021}This is the last of them, then.{F801}{F802}{F813,0,124022}I'll see him safe on his way back{F801}to the Monastery.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 Walter carried the man on his back and{F801}headed for the tower's exit.{F801}</source>
+    <target>〉 Walter carried the man on his back and{F801}headed for the tower's exit.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 Walter parted ways with you.{F801}</source>
+    <target>〉 Walter parted ways with you.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Gemori\0{F87A,-416}{F813,0,124003}I knew of your coming. I know{F801}everything, after all.{F801}</source>
+    <target>{F812}Gemori\0{F87A,-416}{F813,0,124003}I knew of your coming. I know{F801}everything, after all.{F801}</target>
+  </entry>
+  <entry id="117">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

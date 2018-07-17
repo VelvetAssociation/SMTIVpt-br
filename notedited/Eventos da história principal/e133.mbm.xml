@@ -1,0 +1,214 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,133001}Y-You came...! I... I expected no less{F801}of my brave fellows!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,133001}Y-You came...! I... I expected no less{F801}of my brave fellows!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,133002}Ahh, welcome. It's an honor to meet{F801}you in person.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,133002}Ahh, welcome. It's an honor to meet{F801}you in person.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133003}I was extremely impressed by your work{F801}with Koga Saburo. You're certainly{F801}some fearsome customers.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133003}I was extremely impressed by your work{F801}with Koga Saburo. You're certainly{F801}some fearsome customers.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F87B,5,10,1,2}{F813,0,133004}You are Tayama, correct? We demand{F801}the release of our fellow Samurai.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F87B,5,10,1,2}{F813,0,133004}You are Tayama, correct? We demand{F801}the release of our fellow Samurai.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Glaring man\0{F87A,47}{F813,0,133005}Hey, that's MISTER Tayama to you!{F801}</source>
+    <target>{F812}Glaring man\0{F87A,47}{F813,0,133005}Hey, that's MISTER Tayama to you!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,0,133006}Watch your mouth, punk. You want I{F801}should sell your girl to the{F801}whorehouse!?{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,0,133006}Watch your mouth, punk. You want I{F801}should sell your girl to the{F801}whorehouse!?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133007}...Please excuse my men. They can be a{F801}bit hot-blooded. If they lose their{F801}heads, even I can't rein them in.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133007}...Please excuse my men. They can be a{F801}bit hot-blooded. If they lose their{F801}heads, even I can't rein them in.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F87B,4,3,1,1}{F813,0,133008}We do not intend to dally here long.{F801}Release our fellow and we will go.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F87B,4,3,1,1}{F813,0,133008}We do not intend to dally here long.{F801}Release our fellow and we will go.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133009}Sure, that can be arranged. But first,{F801}you'll need to do me one more favor.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133009}Sure, that can be arranged. But first,{F801}you'll need to do me one more favor.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,133010}What!?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,133010}What!?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,133011}Yeah... I've been hearing you were{F801}marching through my Tokyo like you{F801}own the joint.{F801}{F802}{F813,0,133012}And you busted up a bunch of my boys{F801}in the process.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,133011}Yeah... I've been hearing you were{F801}marching through my Tokyo like you{F801}own the joint.{F801}{F802}{F813,0,133012}And you busted up a bunch of my boys{F801}in the process.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133013}But we'll call it even with this...{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133013}But we'll call it even with this...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Glaring man\0{F87A,47}{F813,0,133014}...Hrngh.{F801}</source>
+    <target>{F812}Glaring man\0{F87A,47}{F813,0,133014}...Hrngh.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,133015}Ouch... Wait... My arm...! Stop it!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,133015}Ouch... Wait... My arm...! Stop it!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F87B,5,10,1,2}{F813,0,133016}They were the aggressors in this{F801}instance... What utter villains!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F87B,5,10,1,2}{F813,0,133016}They were the aggressors in this{F801}instance... What utter villains!{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,133017}That master's to blame for allowing{F801}himself to be captured. Yet it falls{F801}to we prentices to make amends...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,133017}That master's to blame for allowing{F801}himself to be captured. Yet it falls{F801}to we prentices to make amends...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,0}Error{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,0}Error{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,133018}...What say you, {F843,0}? Are we to{F801}stoop to favors for the likes of him?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,133018}...What say you, {F843,0}? Are we to{F801}stoop to favors for the likes of him?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>Accept the mission{F801}Refuse{F801}</source>
+    <target>Accept the mission{F801}Refuse{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,133022}Then it's a done deal.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,133022}Then it's a done deal.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,133019}I see. That's too bad... Well, come{F801}back if ya change your mind.{F801}{F802}{F813,0,133020}We'll be waiting right here with{F801}your buddy.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,133019}I see. That's too bad... Well, come{F801}back if ya change your mind.{F801}{F802}{F813,0,133020}We'll be waiting right here with{F801}your buddy.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,133021}Y-You're kidding, right? You're{F801}leaving...!? Hoy! Hoy...!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,133021}Y-You're kidding, right? You're{F801}leaving...!? Hoy! Hoy...!{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,133056}Oh? Changed your mind about taking{F801}the job, have you?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,133056}Oh? Changed your mind about taking{F801}the job, have you?{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133023}I want ya to do a little charity work{F801}on behalf of the people of Tokyo.{F801}{F802}{F813,0,133024}...Kill Yuriko, from the Ring of Gaea.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133023}I want ya to do a little charity work{F801}on behalf of the people of Tokyo.{F801}{F802}{F813,0,133024}...Kill Yuriko, from the Ring of Gaea.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,5,10,1,2}{F813,0,133025}The Ring of Gaea... That's Kaga's...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,5,10,1,2}{F813,0,133025}The Ring of Gaea... That's Kaga's...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133026}Oh, you know them? Great, saves me the{F801}trouble of explaining. Yuriko's in{F801}charge of the Ring of Gaea.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133026}Oh, you know them? Great, saves me the{F801}trouble of explaining. Yuriko's in{F801}charge of the Ring of Gaea.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133027}Yuriko's trying to steal our generator{F801}so she can hog all the electricity to{F801}herself.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133027}Yuriko's trying to steal our generator{F801}so she can hog all the electricity to{F801}herself.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,133029}Generator...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,133029}Generator...?{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133030}The Yamato Perpetual Reactor.{F801}{F802}{F813,0,133031}It generates all the electricity{F801}in Tokyo.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133030}The Yamato Perpetual Reactor.{F801}{F802}{F813,0,133031}It generates all the electricity{F801}in Tokyo.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 The unfriendly man switched on a{F801}monitor behind him.{F801}{F802}〉 The monitor showed a large group of{F801}children...{F801}</source>
+    <target>〉 The unfriendly man switched on a{F801}monitor behind him.{F801}{F802}〉 The monitor showed a large group of{F801}children...{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Smiling boy\0{F813,0,133033}I'm going to study hard and make{F801}Tokyo great!{F801}</source>
+    <target>{F812}Smiling boy\0{F813,0,133033}I'm going to study hard and make{F801}Tokyo great!{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Smiling girl\0{F813,0,133034}There are so many books and movies{F801}here... It's like a wonderland...{F801}</source>
+    <target>{F812}Smiling girl\0{F813,0,133034}There are so many books and movies{F801}here... It's like a wonderland...{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F87B,4,3,1,1}{F813,0,133035}You take even innocent children as{F801}hostages...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F87B,4,3,1,1}{F813,0,133035}You take even innocent children as{F801}hostages...?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133036}Whoa, whoa, hold on there.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133036}Whoa, whoa, hold on there.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133038}You've seen how Tokyo is, right? The{F801}way things are goin', humans will{F801}kill themselves off.{F801}{F802}{F813,0,133039}That's why I've stepped up as{F801}leader, to build a utopia.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133038}You've seen how Tokyo is, right? The{F801}way things are goin', humans will{F801}kill themselves off.{F801}{F802}{F813,0,133039}That's why I've stepped up as{F801}leader, to build a utopia.{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,5,10,1,2}{F813,0,133040}A utopia?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,5,10,1,2}{F813,0,133040}A utopia?{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133041}But if the electricity goes, Tokyo's{F801}future goes with it.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133041}But if the electricity goes, Tokyo's{F801}future goes with it.{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,5,10,1,2}{F813,0,133042}...I'm sorry for that, but we have{F801}our own pressing concerns. There's no{F801}time to aid in your "utopia" project.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,5,10,1,2}{F813,0,133042}...I'm sorry for that, but we have{F801}our own pressing concerns. There's no{F801}time to aid in your "utopia" project.{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133043}Yeah, I heard from this guy here{F801}that you're looking for the Black{F801}Samurai?{F801}{F802}{F813,0,133044}Then that's another good reason to{F801}check out the Ring of Gaea.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133043}Yeah, I heard from this guy here{F801}that you're looking for the Black{F801}Samurai?{F801}{F802}{F813,0,133044}Then that's another good reason to{F801}check out the Ring of Gaea.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,133045}What do you mean by that?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,133045}What do you mean by that?{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,133046}The Black Samurai's a woman who{F801}uses demons, right?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,133046}The Black Samurai's a woman who{F801}uses demons, right?{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,133047}So if she ain't one of us, and she{F801}ain't one of you...{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,133047}So if she ain't one of us, and she{F801}ain't one of you...{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F87B,3,12,1,1}{F813,0,133050}Do you think it safe for us to trust{F801}the Ashura-kai?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F87B,3,12,1,1}{F813,0,133050}Do you think it safe for us to trust{F801}the Ashura-kai?{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,133051}I can see no other way so long as{F801}they hold their hostage.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,133051}I can see no other way so long as{F801}they hold their hostage.{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,133052}I must confess, I'm intrigued by this{F801}Ring of Gaea. Investigating them{F801}suits me perfectly.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,133052}I must confess, I'm intrigued by this{F801}Ring of Gaea. Investigating them{F801}suits me perfectly.{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133053}The Ring of Gaea's strict about who{F801}they let into their headquarters.{F801}{F802}{F813,0,133054}You should pose as new applicants.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,133053}The Ring of Gaea's strict about who{F801}they let into their headquarters.{F801}{F802}{F813,0,133054}You should pose as new applicants.{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133055}And say hi to Yuriko for me...{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133055}And say hi to Yuriko for me...{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133028}What a bitch, am I right?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133028}What a bitch, am I right?{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133032}Hey, show 'em the video.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133032}Hey, show 'em the video.{F801}</target>
+  </entry>
+  <entry id="133">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133037}We're raising these kids, the future{F801}of Tokyo, right here in this building.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133037}We're raising these kids, the future{F801}of Tokyo, right here in this building.{F801}</target>
+  </entry>
+  <entry id="141">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133048}The Ring of Gaea seems like a pretty{F801}good suspect, huh?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,133048}The Ring of Gaea seems like a pretty{F801}good suspect, huh?{F801}</target>
+  </entry>
+</mbm>

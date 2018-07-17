@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,120001}I speak unto the Blessed Samurai{F801}{F843,0}.{F801}{F802}{F813,0,120002}I ask that you come to the Monastery{F801}at once.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,120001}I speak unto the Blessed Samurai{F801}{F843,0}.{F801}{F802}{F813,0,120002}I ask that you come to the Monastery{F801}at once.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,120003}This is a personal matter. As such,{F801}I forbid you to speak of it to others.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,120003}This is a personal matter. As such,{F801}I forbid you to speak of it to others.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,120004}I shall be waiting.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,120004}I shall be waiting.{F801}</target>
+  </entry>
+</mbm>

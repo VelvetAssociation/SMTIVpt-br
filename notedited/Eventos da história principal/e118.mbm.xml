@@ -1,0 +1,122 @@
+<mbm>
+  <entry id="0">
+    <source>〉 Obelisk Plaza is filled with people{F801}buzzing with curious excitement...{F801}</source>
+    <target>〉 Obelisk Plaza is filled with people{F801}buzzing with curious excitement...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F87B,4,10,1,1}{F813,0,118001}...Ah, you've come.{F801}{F802}{F813,0,118002}The ceremony will commence shortly.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F87B,4,10,1,1}{F813,0,118001}...Ah, you've come.{F801}{F802}{F813,0,118002}The ceremony will commence shortly.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,118003}It was we who caught her, but they{F801}group us with the common spectators?{F801}Shameful...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,118003}It was we who caught her, but they{F801}group us with the common spectators?{F801}Shameful...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You watch as they prepare to crucify{F801}the Black Samurai.{F801}</source>
+    <target>〉 You watch as they prepare to crucify{F801}the Black Samurai.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The people hurl abuse at her, filling{F801}the plaza with their roars...{F801}</source>
+    <target>〉 The people hurl abuse at her, filling{F801}the plaza with their roars...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Voice\0{F87A,5}{F813,0,118004}It's sobering to see that there are{F801}some amongst the crowd who still voice{F801}their support for the Black Samurai.{F801}</source>
+    <target>{F812}Voice\0{F87A,5}{F813,0,118004}It's sobering to see that there are{F801}some amongst the crowd who still voice{F801}their support for the Black Samurai.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Isabeau pushed through the crowds to{F801}approach {F843,0}.{F801}</source>
+    <target>〉 Isabeau pushed through the crowds to{F801}approach {F843,0}.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,118005}The Monastery must have arranged this{F801}public ceremony in the hopes of{F801}uniting the people's hearts.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,118005}The Monastery must have arranged this{F801}public ceremony in the hopes of{F801}uniting the people's hearts.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,118006}All who have gathered, let us please{F801}have silence.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,118006}All who have gathered, let us please{F801}have silence.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,118007}We will now begin the execution of{F801}the Black Samurai...{F801}{F802}{F813,0,118008}The great villain who deceived you{F801}all with books written in the mystic{F801}script.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,118007}We will now begin the execution of{F801}the Black Samurai...{F801}{F802}{F813,0,118008}The great villain who deceived you{F801}all with books written in the mystic{F801}script.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,118009}The people of this kingdom exist by{F801}dint of our Father in Heaven's love.{F801}{F802}{F813,0,118010}Now, subjects of the Eastern Kingdom{F801}of Mikado...{F801}{F802}{F813,0,118011}Let us vow an oath together in His{F801}loving sight that this peace shall{F801}be everlasting.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,118009}The people of this kingdom exist by{F801}dint of our Father in Heaven's love.{F801}{F802}{F813,0,118010}Now, subjects of the Eastern Kingdom{F801}of Mikado...{F801}{F802}{F813,0,118011}Let us vow an oath together in His{F801}loving sight that this peace shall{F801}be everlasting.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,12,1,1}{F813,0,118012}...There is no vice that appears as{F801}is in this world.{F801}{F802}{F813,0,118013}It will always go cloaked in a shroud{F801}of virtue...{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,12,1,1}{F813,0,118012}...There is no vice that appears as{F801}is in this world.{F801}{F802}{F813,0,118013}It will always go cloaked in a shroud{F801}of virtue...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,118014}Even after all you have done, your{F801}tongue is as impertinent as ever...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,118014}Even after all you have done, your{F801}tongue is as impertinent as ever...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,118015}So be it. By God's mercy, you may{F801}speak your last words.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,118015}So be it. By God's mercy, you may{F801}speak your last words.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,12,1,1}{F813,0,118016}Adam did not eat the apple because{F801}he desired it.{F801}{F802}{F813,0,118017}He ate it because it was forbidden.{F801}{F802}{F813,0,118018}Now, the apple has been set before{F801}all of you. Eat well.{F801}{F802}{F813,0,118019}For just as your friends who became{F801}demons by reading books discovered,{F801}you will find no love from God...{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,12,1,1}{F813,0,118016}Adam did not eat the apple because{F801}he desired it.{F801}{F802}{F813,0,118017}He ate it because it was forbidden.{F801}{F802}{F813,0,118018}Now, the apple has been set before{F801}all of you. Eat well.{F801}{F802}{F813,0,118019}For just as your friends who became{F801}demons by reading books discovered,{F801}you will find no love from God...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,7,1,1}{F813,0,118020}How dare you insult our God, you{F801}heathen...!{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,7,1,1}{F813,0,118020}How dare you insult our God, you{F801}heathen...!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,118021}Carry out the execution and{F801}silence this witch.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,118021}Carry out the execution and{F801}silence this witch.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,118022}Of course, sir. Hoy...{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,118022}Of course, sir. Hoy...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 Hope ordered the Executioner to carry{F801}out the task at hand.{F801}{F802}〉 The Executioner removed the mask from{F801}the Black Samurai's face...{F801}</source>
+    <target>〉 Hope ordered the Executioner to carry{F801}out the task at hand.{F801}{F802}〉 The Executioner removed the mask from{F801}the Black Samurai's face...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,11,1,1}{F813,0,118023}......{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,11,1,1}{F813,0,118023}......{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,1}{F87B,4,7,1,1}{F813,0,118024}Th-That's...!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,1}{F87B,4,7,1,1}{F813,0,118024}Th-That's...!{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,7,1,1}{F813,0,118025}Hoy, her face...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,7,1,1}{F813,0,118025}Hoy, her face...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,118026}It cannot be... She is the spitting{F801}image of Sister Gabby...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,118026}It cannot be... She is the spitting{F801}image of Sister Gabby...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,7,1,1}{F813,1,400802}......{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,7,1,1}{F813,1,400802}......{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,11,1,1}{F813,0,118028}Your kingdom is distorted and biased.{F801}{F802}{F813,0,118029}The Samurai who have been to Tokyo{F801}have already realized it...{F801}{F802}{F813,0,118030}But it should be dawning on even you{F801}who live above ground by now.{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,11,1,1}{F813,0,118028}Your kingdom is distorted and biased.{F801}{F802}{F813,0,118029}The Samurai who have been to Tokyo{F801}have already realized it...{F801}{F802}{F813,0,118030}But it should be dawning on even you{F801}who live above ground by now.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,7,1,1}{F87B,11,7,1,1}{F813,0,118031}What are the executioners doing!?{F801}Silence that witch!{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,7,1,1}{F87B,11,7,1,1}{F813,0,118031}What are the executioners doing!?{F801}Silence that witch!{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,11,1,1}{F813,0,118032}Everything is already in motion...{F801}{F802}{F813,0,118033}What you need now is more knowledge{F801}and wisdom.{F801}{F802}{F813,0,118034}For that, I'll resurrect as many{F801}times as I am needed...{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,11,1,1}{F813,0,118032}Everything is already in motion...{F801}{F802}{F813,0,118033}What you need now is more knowledge{F801}and wisdom.{F801}{F802}{F813,0,118034}For that, I'll resurrect as many{F801}times as I am needed...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Crowd's voice\0{F87A,2}{F813,0,118035}"More knowledge and wisdom"?{F801}</source>
+    <target>{F812}Crowd's voice\0{F87A,2}{F813,0,118035}"More knowledge and wisdom"?{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Crowd's voice\0{F87A,2}{F813,0,118036}She'll resurrect...?{F801}</source>
+    <target>{F812}Crowd's voice\0{F87A,2}{F813,0,118036}She'll resurrect...?{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 The Black Samurai was executed.{F801}{F802}〉 Later, a celebration was held at the{F801}castle. But there was no excitement in{F801}it, and it was soon brought to a close.{F801}{F802}〉 Everyone was troubled by the Black{F801}Samurai's words...{F801}{F802}〉 And on the next morning...{F801}</source>
+    <target>〉 The Black Samurai was executed.{F801}{F802}〉 Later, a celebration was held at the{F801}castle. But there was no excitement in{F801}it, and it was soon brought to a close.{F801}{F802}〉 Everyone was troubled by the Black{F801}Samurai's words...{F801}{F802}〉 And on the next morning...{F801}</target>
+  </entry>
+</mbm>

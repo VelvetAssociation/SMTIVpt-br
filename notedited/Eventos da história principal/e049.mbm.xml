@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hope\0{F87A,8}{F813,0,49001}To all Samurai, this is Hope speaking.{F801}{F802}{F813,0,49002}I have information from one of our{F801}fellows who was making inquiries{F801}nearby.{F801}{F802}{F813,0,49003}It seems a Sabbath was underway not{F801}long ago in the Kiccigiorgi Forest.{F801}{F802}{F813,0,49004}These are apparently gatherings where{F801}people meet to discuss the Literature{F801}distributed by the Black Samurai.{F801}{F802}{F813,0,49005}There may be other survivors further{F801}within the forest.{F801}{F802}{F813,0,49006}Go {F804,5}deeper in the forest{F804,0} and resume{F801}your search.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,49001}To all Samurai, this is Hope speaking.{F801}{F802}{F813,0,49002}I have information from one of our{F801}fellows who was making inquiries{F801}nearby.{F801}{F802}{F813,0,49003}It seems a Sabbath was underway not{F801}long ago in the Kiccigiorgi Forest.{F801}{F802}{F813,0,49004}These are apparently gatherings where{F801}people meet to discuss the Literature{F801}distributed by the Black Samurai.{F801}{F802}{F813,0,49005}There may be other survivors further{F801}within the forest.{F801}{F802}{F813,0,49006}Go {F804,5}deeper in the forest{F804,0} and resume{F801}your search.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

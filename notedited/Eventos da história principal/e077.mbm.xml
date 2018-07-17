@@ -1,0 +1,70 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Creepy voice\0{F87A,20}{F813,0,77001}Whooooohhhh... More Hunters I need{F801}to mop up?{F801}</source>
+    <target>{F812}Creepy voice\0{F87A,20}{F813,0,77001}Whooooohhhh... More Hunters I need{F801}to mop up?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 A demon appeared from the pond.{F801}</source>
+    <target>〉 A demon appeared from the pond.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-811}{F813,0,77002}How many times do I hafta kill ya{F801}until you're satisfied?{F801}{F802}{F813,0,77003}I ain't leaving this lake. I'll eat{F801}and eat and shit it up all I want.{F801}</source>
+    <target>{F812}Demon\0{F87A,-811}{F813,0,77002}How many times do I hafta kill ya{F801}until you're satisfied?{F801}{F802}{F813,0,77003}I ain't leaving this lake. I'll eat{F801}and eat and shit it up all I want.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-811}{F813,0,77004}Want me to fill ya with sludge all the{F801}way down to your bones, Hunter bro?{F801}</source>
+    <target>{F812}Demon\0{F87A,-811}{F813,0,77004}Want me to fill ya with sludge all the{F801}way down to your bones, Hunter bro?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,77006}Nngh... What is this? It's positively{F801}revolting...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,0,77006}Nngh... What is this? It's positively{F801}revolting...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Isabeau obtained Peallaidh's head.{F801}</source>
+    <target>〉 Isabeau obtained Peallaidh's head.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,77007}You take it, Jonathan.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,77007}You take it, Jonathan.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Jonathan obtained Peallaidh's head.{F801}</source>
+    <target>〉 Jonathan obtained Peallaidh's head.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,8,1,1}{F813,0,77008}Wh-What an indescribable stench.{F801}It's positively dizzying...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,8,1,1}{F813,0,77008}Wh-What an indescribable stench.{F801}It's positively dizzying...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 Walter obtained Peallaidh's head.{F801}</source>
+    <target>〉 Walter obtained Peallaidh's head.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,77010}It worries me that our Luxurors{F801}can't keep their meals down in times{F801}like this.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,77010}It worries me that our Luxurors{F801}can't keep their meals down in times{F801}like this.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 {F843,0} obtained Peallaidh's head.{F801}</source>
+    <target>〉 {F843,0} obtained Peallaidh's head.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,77011}Why, this head is a trophy of our{F801}victory! I'd hoist it with--{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,77011}Why, this head is a trophy of our{F801}victory! I'd hoist it with--{F801}</target>
+  </entry>
+  <entry id="209">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F87B,4,6,1,1}{F813,0,77009}I'm sorry, Walter. It's too much for{F801}me to bear...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F87B,4,6,1,1}{F813,0,77009}I'm sorry, Walter. It's too much for{F801}me to bear...{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,8,1,1}{F813,0,77012}...Hrgh...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,8,1,1}{F813,0,77012}...Hrgh...{F801}</target>
+  </entry>
+  <entry id="311">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,8,1,1}{F813,0,77013}{F843,0}... I'll let you handle{F801}this one.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,8,1,1}{F813,0,77013}{F843,0}... I'll let you handle{F801}this one.{F801}</target>
+  </entry>
+</mbm>

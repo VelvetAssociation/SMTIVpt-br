@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F813,0,66004}Hoy, that's no starlit sky. I can{F801}faintly make out bedrock on the{F801}ceiling...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,66004}Hoy, that's no starlit sky. I can{F801}faintly make out bedrock on the{F801}ceiling...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,66005}Ah, that must be the magic of the{F801}Unclean Ones. I've read about their{F801}power to light buildings...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,66005}Ah, that must be the magic of the{F801}Unclean Ones. I've read about their{F801}power to light buildings...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,66006}Then... that is the Unclean Ones'{F801}country. Quite a startling sight.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,66006}Then... that is the Unclean Ones'{F801}country. Quite a startling sight.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,66008}This metal door here... Could it be{F801}the entrance to this hall?{F801}{F802}{F813,0,66009}But I don't see a knob... How is one{F801}meant to open it?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,66008}This metal door here... Could it be{F801}the entrance to this hall?{F801}{F802}{F813,0,66009}But I don't see a knob... How is one{F801}meant to open it?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,66010}I can field this one. It's a transport{F801}device called an elevator.{F801}{F802}{F813,0,66011}It lets people go easily up or down{F801}between each floor.{F801}{F802}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,66010}I can field this one. It's a transport{F801}device called an elevator.{F801}{F802}{F813,0,66011}It lets people go easily up or down{F801}between each floor.{F801}{F802}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,66012}The electricity is definitely on,{F801}so you should be able to ride it{F801}by pushing the button near the door.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,66012}The electricity is definitely on,{F801}so you should be able to ride it{F801}by pushing the button near the door.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,66013}Illuminating buildings and vertical{F801}transports... The Unclean Ones have{F801}some very interesting magic.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,66013}Illuminating buildings and vertical{F801}transports... The Unclean Ones have{F801}some very interesting magic.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Walter pressed the elevator switch.{F801}{F802}〉 {F843,0} and his fellow Samurai{F801}headed for the lower floors via elevator.{F801}</source>
+    <target>〉 Walter pressed the elevator switch.{F801}{F802}〉 {F843,0} and his fellow Samurai{F801}headed for the lower floors via elevator.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 {F843,0} and his fellow Samurai{F801}headed for the lower floors via{F801}the stairs.{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}headed for the lower floors via{F801}the stairs.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,6,1,1}{F813,0,66007}Hm?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,6,1,1}{F813,0,66007}Hm?{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>〉 Jonathan stared at the corner of{F801}the hall.{F801}</source>
+    <target>〉 Jonathan stared at the corner of{F801}the hall.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>解析モードが入ります{F801}</source>
+    <target>解析モードが入ります{F801}</target>
+  </entry>
+</mbm>

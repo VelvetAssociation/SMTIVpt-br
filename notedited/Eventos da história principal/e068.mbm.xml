@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Glaring man\0{F87A,47}{F813,0,68001}...Huh?{F801}</source>
+    <target>{F812}Glaring man\0{F87A,47}{F813,0,68001}...Huh?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 A man with sharp eyes and a man with{F801}an unsociable look stared at{F801}{F843,0} and his fellows.{F801}</source>
+    <target>〉 A man with sharp eyes and a man with{F801}an unsociable look stared at{F801}{F843,0} and his fellows.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Glaring man\0{F87A,47}{F813,0,68002}Who the hell are you? How come people{F801}are comin' out of Sky?{F801}</source>
+    <target>{F812}Glaring man\0{F87A,47}{F813,0,68002}Who the hell are you? How come people{F801}are comin' out of Sky?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,0,68003}You bastards... Which city are you{F801}Hunters from, huh?{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,0,68003}You bastards... Which city are you{F801}Hunters from, huh?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,5,1,1,3}{F813,0,68004}Could these be Unclean Ones?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,5,1,1,3}{F813,0,68004}Could these be Unclean Ones?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,68005}They speak in the same mystic tongue{F801}as that on our Gauntlets.{F801}{F802}{F813,0,68006}I think your guess of Unclean Ones is{F801}on the mark. Though their accent makes{F801}them barely intelligible...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,68005}They speak in the same mystic tongue{F801}as that on our Gauntlets.{F801}{F802}{F813,0,68006}I think your guess of Unclean Ones is{F801}on the mark. Though their accent makes{F801}them barely intelligible...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,0,68007}You ignorin' us? We're askin' how ya{F801}got in here!{F801}{F802}{F813,0,68008}You actin' like ya don't know who{F801}we are or somethin'?{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,0,68007}You ignorin' us? We're askin' how ya{F801}got in here!{F801}{F802}{F813,0,68008}You actin' like ya don't know who{F801}we are or somethin'?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,5,1,1,3}{F813,0,68009}And how would we know that?{F801}{F802}{F813,0,68010}We came from above.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,5,1,1,3}{F813,0,68009}And how would we know that?{F801}{F802}{F813,0,68010}We came from above.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,0,68011}Wait... "above"...?{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,0,68011}Wait... "above"...?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,0,68013}A-Are you angels from the ceiling!?{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,0,68013}A-Are you angels from the ceiling!?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,68014}Hardly, sir. We hail from the Eastern{F801}Kingdom of Mikado...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,68014}Hardly, sir. We hail from the Eastern{F801}Kingdom of Mikado...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Glaring man\0{F87A,47}{F813,0,68015}D-Don't ya dare get any closer!{F801}</source>
+    <target>{F812}Glaring man\0{F87A,47}{F813,0,68015}D-Don't ya dare get any closer!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,0,68016}Th-The Angels are comin' down!{F801}We're all gonna diiiiie!{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,0,68016}Th-The Angels are comin' down!{F801}We're all gonna diiiiie!{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 The glaring man and the unfriendly{F801}man run away.{F801}</source>
+    <target>〉 The glaring man and the unfriendly{F801}man run away.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,68017}...We appear to have frightened them{F801}away.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F813,0,68017}...We appear to have frightened them{F801}away.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,68020}They looked no different from us.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,68020}They looked no different from us.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,68021}Moreover, they called us angels...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,68021}Moreover, they called us angels...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 {F843,0} and his fellow Samurai{F801}took their first steps outside the{F801}building...{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}took their first steps outside the{F801}building...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 {F843,0} and his fellow Samurai{F801}arrived at 1F in the elevator.{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}arrived at 1F in the elevator.{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>〉 Walter pointed to Sky Tower and the{F801}lands above.{F801}</source>
+    <target>〉 Walter pointed to Sky Tower and the{F801}lands above.{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,68018}Were those truly the Unclean Ones{F801}of legend...?{F801}{F802}{F813,0,68019}They are typically characterized as{F801}legendary magicians, so I thought them{F801}to be more like monsters, but...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,68018}Were those truly the Unclean Ones{F801}of legend...?{F801}{F802}{F813,0,68019}They are typically characterized as{F801}legendary magicians, so I thought them{F801}to be more like monsters, but...{F801}</target>
+  </entry>
+  <entry id="208">
+    <source>{F812}Glaring man\0{F87A,47}{F813,0,68012}H-Hold the phone... Are you...!?{F801}</source>
+    <target>{F812}Glaring man\0{F87A,47}{F813,0,68012}H-Hold the phone... Are you...!?{F801}</target>
+  </entry>
+</mbm>

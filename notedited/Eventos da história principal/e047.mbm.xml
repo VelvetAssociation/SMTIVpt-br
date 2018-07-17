@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Familiar man\0{F87A,34}{F813,0,47001}You... Could you be here to save us?{F801}Ah, you truly are a Samurai at heart.{F801}{F802}{F813,0,47002}That Issachar, on the other hand...!{F801}</source>
+    <target>{F812}Familiar man\0{F87A,34}{F813,0,47001}You... Could you be here to save us?{F801}Ah, you truly are a Samurai at heart.{F801}{F802}{F813,0,47002}That Issachar, on the other hand...!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Familiar woman\0{F87A,36}{F813,0,47003}Indeed! He'd always been like an older{F801}brother to you when you were still here...{F801}{F802}{F813,0,47004}But now the village is in terrible{F801}danger, and he's nowhere to be seen.{F801}{F802}{F813,0,47005}I haven't seen hide nor hair of him{F801}since he left for the Gauntlet Rite.{F801}</source>
+    <target>{F812}Familiar woman\0{F87A,36}{F813,0,47003}Indeed! He'd always been like an older{F801}brother to you when you were still here...{F801}{F802}{F813,0,47004}But now the village is in terrible{F801}danger, and he's nowhere to be seen.{F801}{F802}{F813,0,47005}I haven't seen hide nor hair of him{F801}since he left for the Gauntlet Rite.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F813,0,47006}All right, give your mouths a rest{F801}and move your legs instead.{F801}{F802}{F813,0,47007}The Samurai are stationed at the{F801}forest's entrance. Be sure you{F801}don't delay in reaching them.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,47006}All right, give your mouths a rest{F801}and move your legs instead.{F801}{F802}{F813,0,47007}The Samurai are stationed at the{F801}forest's entrance. Be sure you{F801}don't delay in reaching them.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The familiar man and woman rushed to{F801}the forest's entrance...{F801}</source>
+    <target>〉 The familiar man and woman rushed to{F801}the forest's entrance...{F801}</target>
+  </entry>
+</mbm>

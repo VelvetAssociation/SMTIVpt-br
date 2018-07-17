@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Sloppy man\0{F87A,63}{F813,0,114001}Holy son of a...! Sheesh, you came{F801}outta nowhere!{F801}{F802}{F813,0,114002}Good thing I set up a Domain to deal{F801}with crap like this...{F801}</source>
+    <target>{F812}Sloppy man\0{F87A,63}{F813,0,114001}Holy son of a...! Sheesh, you came{F801}outta nowhere!{F801}{F802}{F813,0,114002}Good thing I set up a Domain to deal{F801}with crap like this...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Sloppy man\0{F87A,63}{F813,0,114003}I-It's been twenty years since I took{F801}up watching over the Terminals. They{F801}call me the Terminal Guardian.{F801}</source>
+    <target>{F812}Sloppy man\0{F87A,63}{F813,0,114003}I-It's been twenty years since I took{F801}up watching over the Terminals. They{F801}call me the Terminal Guardian.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Sloppy man\0{F87A,63}{F813,0,114004}They call me... Uh... Hold the phone...{F801}You're that kid who attacked me{F801}earlier!{F801}{F802}{F813,0,114005}You ain't bad for a tyke. Does this{F801}mean you wanna fight me again?{F801}</source>
+    <target>{F812}Sloppy man\0{F87A,63}{F813,0,114004}They call me... Uh... Hold the phone...{F801}You're that kid who attacked me{F801}earlier!{F801}{F802}{F813,0,114005}You ain't bad for a tyke. Does this{F801}mean you wanna fight me again?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Sloppy man\0{F87A,63}{F813,0,114006}You're one rambunctious kid... Are you{F801}out to deliberately wind me up?{F801}</source>
+    <target>{F812}Sloppy man\0{F87A,63}{F813,0,114006}You're one rambunctious kid... Are you{F801}out to deliberately wind me up?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Sloppy man\0{F87A,63}{F813,0,114007}I don't know if you're trying to get{F801}my goat with this, but I already have{F801}something ready for you.{F801}{F802}{F813,0,114008}Whether it's my family's livelihood{F801}or the Terminal, there's nothing{F801}this guardian can't protect!{F801}</source>
+    <target>{F812}Sloppy man\0{F87A,63}{F813,0,114007}I don't know if you're trying to get{F801}my goat with this, but I already have{F801}something ready for you.{F801}{F802}{F813,0,114008}Whether it's my family's livelihood{F801}or the Terminal, there's nothing{F801}this guardian can't protect!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Sloppy man\0{F87A,63}{F813,0,114009}Your plan's failed since I made it{F801}here in time.{F801}{F802}{F813,0,114010}People make fun of me since I have{F801}this low-down job as a guardian...{F801}but I really like this work.{F801}</source>
+    <target>{F812}Sloppy man\0{F87A,63}{F813,0,114009}Your plan's failed since I made it{F801}here in time.{F801}{F802}{F813,0,114010}People make fun of me since I have{F801}this low-down job as a guardian...{F801}but I really like this work.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Sloppy man\0{F87A,63}{F813,0,114011}Maybe you think you can outwit me,{F801}but I won't make it easy on you.{F801}{F802}{F813,0,114012}I hang low-down dirty tricksters like{F801}you in front of the station!{F801}</source>
+    <target>{F812}Sloppy man\0{F87A,63}{F813,0,114011}Maybe you think you can outwit me,{F801}but I won't make it easy on you.{F801}{F802}{F813,0,114012}I hang low-down dirty tricksters like{F801}you in front of the station!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The demon's Domain has been lifted.{F801}</source>
+    <target>〉 The demon's Domain has been lifted.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405703}This is the Ikebukuro Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405703}This is the Ikebukuro Terminal.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+</mbm>

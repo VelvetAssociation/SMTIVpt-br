@@ -1,0 +1,102 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,128001}Master {F843,0}, I have a dispatch{F801}for you from another Samurai.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,128001}Master {F843,0}, I have a dispatch{F801}for you from another Samurai.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Man\0{F87A,17}{F813,0,128002}...You're late. I'm tired of waiting.{F801}{F802}{F813,0,128003}{F843,0} of the Eastern Kingdom{F801}of Mikado... It's nice to meet you.{F801}{F802}{F813,0,128004}I'm Tayama of the Ashura-kai.{F801}</source>
+    <target>{F812}Man\0{F87A,17}{F813,0,128002}...You're late. I'm tired of waiting.{F801}{F802}{F813,0,128003}{F843,0} of the Eastern Kingdom{F801}of Mikado... It's nice to meet you.{F801}{F802}{F813,0,128004}I'm Tayama of the Ashura-kai.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,128005}You should do as I say. Because if{F801}you try to pull anything...{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,128005}You should do as I say. Because if{F801}you try to pull anything...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Voice\0{F87A,154}{F813,0,128006}C-Can you hear me? My fellows...!{F801}{F802}{F813,0,128007}Save me! The Ashura-kai caught me--{F801}</source>
+    <target>{F812}Voice\0{F87A,154}{F813,0,128006}C-Can you hear me? My fellows...!{F801}{F802}{F813,0,128007}Save me! The Ashura-kai caught me--{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,128008}...Capiche?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,128008}...Capiche?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,128009}Go to Club Milton here in town.{F801}One of my boys there will explain{F801}things to you.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,128009}Go to Club Milton here in town.{F801}One of my boys there will explain{F801}things to you.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,128010}Make me proud, kiddos.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,128010}Make me proud, kiddos.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Voice\0{F87A,154}{F813,0,128011}H... Help me, please--{F801}</source>
+    <target>{F812}Voice\0{F87A,154}{F813,0,128011}H... Help me, please--{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,128012}Damnation! We've been had!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,128012}Damnation! We've been had!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,128013}The coward, bargaining with the life{F801}of one of our fellows...!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,128013}The coward, bargaining with the life{F801}of one of our fellows...!{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,128014}"Club Milton," did he say? We seem{F801}to have little choice but to do as{F801}he demands.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,128014}"Club Milton," did he say? We seem{F801}to have little choice but to do as{F801}he demands.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,86020}This seems like important evidence.{F801}I'll make a note of it in the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,86020}This seems like important evidence.{F801}I'll make a note of it in the quest.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128020}Hey, dude.{F801}{F802}{F813,0,128021}Couldn't you see this was a Domain?{F801}Like, a "you'll be majorly boned if{F801}you get too close" Domain?{F801}</source>
+    <target>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128020}Hey, dude.{F801}{F802}{F813,0,128021}Couldn't you see this was a Domain?{F801}Like, a "you'll be majorly boned if{F801}you get too close" Domain?{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128022}I like, totally don't get you. How{F801}could you not scope me out guarding{F801}this Terminal here?{F801}{F802}{F813,0,128023}Seriously, what is wrong with you?{F801}Will you cut it out with that creepy{F801}stare?{F801}</source>
+    <target>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128022}I like, totally don't get you. How{F801}could you not scope me out guarding{F801}this Terminal here?{F801}{F802}{F813,0,128023}Seriously, what is wrong with you?{F801}Will you cut it out with that creepy{F801}stare?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128024}I'm like, the guardian of the... Oh{F801}wait a second. You're like, that{F801}Terminal troll from before.{F801}{F802}{F813,0,128025}I-I like, don't remember you saying{F801}you'd be back. It's rude to show up{F801}without texting first and junk.{F801}</source>
+    <target>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128024}I'm like, the guardian of the... Oh{F801}wait a second. You're like, that{F801}Terminal troll from before.{F801}{F802}{F813,0,128025}I-I like, don't remember you saying{F801}you'd be back. It's rude to show up{F801}without texting first and junk.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128026}Huh...? Ughhh, you again? I like,{F801}rilly don't wanna deal with you,{F801}but I have to cuz it's my job.{F801}{F802}{F813,0,128027}Ohhh, I get it! You're hitting on me,{F801}huh?{F801}</source>
+    <target>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128026}Huh...? Ughhh, you again? I like,{F801}rilly don't wanna deal with you,{F801}but I have to cuz it's my job.{F801}{F802}{F813,0,128027}Ohhh, I get it! You're hitting on me,{F801}huh?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128028}...Like, just kidding? Were you all{F801}surprised and junk? Because I totally{F801}knew you'd be coming.{F801}{F802}{F813,0,128029}My S.O. gets rilly excited about{F801}twists like this too.{F801}{F802}{F813,0,128030}You know, like, how a dude and a chick{F801}who are enemies keep running into each{F801}other, and eventually fall in love?{F801}</source>
+    <target>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128028}...Like, just kidding? Were you all{F801}surprised and junk? Because I totally{F801}knew you'd be coming.{F801}{F802}{F813,0,128029}My S.O. gets rilly excited about{F801}twists like this too.{F801}{F802}{F813,0,128030}You know, like, how a dude and a chick{F801}who are enemies keep running into each{F801}other, and eventually fall in love?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128031}Like, rilly? You don't know who I am?{F801}Is there, like, any way you think I'd{F801}fall for that after all this time?{F801}{F802}{F813,0,128032}I mean, this is my job and stuff. Are{F801}you making fun of me when I'm totally{F801}serious about this to the max?{F801}{F802}{F813,0,128033}Do you think it's like, fate or some{F801}junk that we keep getting into it?{F801}</source>
+    <target>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128031}Like, rilly? You don't know who I am?{F801}Is there, like, any way you think I'd{F801}fall for that after all this time?{F801}{F802}{F813,0,128032}I mean, this is my job and stuff. Are{F801}you making fun of me when I'm totally{F801}serious about this to the max?{F801}{F802}{F813,0,128033}Do you think it's like, fate or some{F801}junk that we keep getting into it?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128034}Anyway, sorry, but like, you're just{F801}not my type.{F801}{F802}{F813,0,128035}And like, I guess there's no nice way{F801}to say it, but I'm gonna kill you.{F801}</source>
+    <target>{F812}Heavily made-up girl\0{F87A,123}{F813,0,128034}Anyway, sorry, but like, you're just{F801}not my type.{F801}{F802}{F813,0,128035}And like, I guess there's no nice way{F801}to say it, but I'm gonna kill you.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 The demon's Domain has been lifted.{F801}</source>
+    <target>〉 The demon's Domain has been lifted.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405701}This is the Shibuya Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405701}This is the Shibuya Terminal.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+</mbm>

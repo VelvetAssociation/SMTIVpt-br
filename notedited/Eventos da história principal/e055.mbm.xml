@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Girl\0{F87A,15}{F813,0,55001}You came.{F801}</source>
+    <target>{F812}Girl\0{F87A,15}{F813,0,55001}You came.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Girl\0{F87A,15}{F813,0,55002}But I'm not complete yet. It's because{F801}everyone has forgotten about me.{F801}{F802}{F813,0,55003}I need to be revived for the sake{F801}of them all.{F801}</source>
+    <target>{F812}Girl\0{F87A,15}{F813,0,55002}But I'm not complete yet. It's because{F801}everyone has forgotten about me.{F801}{F802}{F813,0,55003}I need to be revived for the sake{F801}of them all.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Girl\0{F87A,15}{F87B,15,1,1,1}{F813,0,55004}Please {F843,0}, won't you revive me...?{F801}</source>
+    <target>{F812}Girl\0{F87A,15}{F87B,15,1,1,1}{F813,0,55004}Please {F843,0}, won't you revive me...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Voice\0{F87A,1}{F813,0,54002}That girl would like to see you.{F801}She's to the east from here.{F801}</source>
+    <target>{F812}Voice\0{F87A,1}{F813,0,54002}That girl would like to see you.{F801}She's to the east from here.{F801}</target>
+  </entry>
+</mbm>

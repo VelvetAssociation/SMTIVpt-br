@@ -1,0 +1,70 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,99001}Hm? You're...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,99001}Hm? You're...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,99002}I have heard that you easily retrieved{F801}each mystic relic that I requested.{F801}{F802}{F813,0,99003}I greatly admire your initiative.{F801}In God's name, I offer you words of{F801}gratitude.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,99002}I have heard that you easily retrieved{F801}each mystic relic that I requested.{F801}{F802}{F813,0,99003}I greatly admire your initiative.{F801}In God's name, I offer you words of{F801}gratitude.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,99004}{F87B,10,1,1,1}By the by...{F801}{F802}{F813,0,99005}I expect that in your delvings, you{F801}have grown familiar with the lay{F801}of Tokyo.{F801}{F802}{F813,0,99006}It is for that reason that I should{F801}like to place a particular burden on{F801}your shoulders.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,99004}{F87B,10,1,1,1}By the by...{F801}{F802}{F813,0,99005}I expect that in your delvings, you{F801}have grown familiar with the lay{F801}of Tokyo.{F801}{F802}{F813,0,99006}It is for that reason that I should{F801}like to place a particular burden on{F801}your shoulders.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,99007}It is on behalf of a certain man{F801}I am acquainted with...{F801}{F802}{F813,0,99008}It seems his wife craves a kind of{F801}mystic relic known as "wine."{F801}{F802}{F813,0,99009}Wine is an alcoholic beverage that{F801}was once widespread in Tokyo.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,99007}It is on behalf of a certain man{F801}I am acquainted with...{F801}{F802}{F813,0,99008}It seems his wife craves a kind of{F801}mystic relic known as "wine."{F801}{F802}{F813,0,99009}Wine is an alcoholic beverage that{F801}was once widespread in Tokyo.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,99010}{F87B,10,12,1,1}The poor man's wife is not shy to{F801}make demands... and worse, she is{F801}a woman of violent temper.{F801}{F802}{F813,0,99011}Day after day, she presses down like{F801}an anvil upon me... Er, upon my{F801}acquaintance, causing terrible grief.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,99010}{F87B,10,12,1,1}The poor man's wife is not shy to{F801}make demands... and worse, she is{F801}a woman of violent temper.{F801}{F802}{F813,0,99011}Day after day, she presses down like{F801}an anvil upon me... Er, upon my{F801}acquaintance, causing terrible grief.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,99012}Please, for his sake, I charge you{F801}with retrieving a bottle of wine from{F801}somewhere in Tokyo.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,99012}Please, for his sake, I charge you{F801}with retrieving a bottle of wine from{F801}somewhere in Tokyo.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,99014}Ah, and as this is a personal request{F801}from myself, there is no need to go{F801}through K's Tavern.{F801}{F802}{F813,0,99015}Please consult me directly once you{F801}have the wine.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,99014}Ah, and as this is a personal request{F801}from myself, there is no need to go{F801}through K's Tavern.{F801}{F802}{F813,0,99015}Please consult me directly once you{F801}have the wine.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,99016}{F87B,10,4,1,1}I have the utmost faith in you...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,99016}{F87B,10,4,1,1}I have the utmost faith in you...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,100002}Hm? That's...!{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,100002}Hm? That's...!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 As soon as Hugo noticed the wine in{F801}{F843,0}'s hands, he snatched{F801}the bottle away.{F801}</source>
+    <target>〉 As soon as Hugo noticed the wine in{F801}{F843,0}'s hands, he snatched{F801}the bottle away.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F813,0,100004}{F812}Hugo\0{F87A,10}Now I'll not have to endure my wife's{F801}endless nagging as to her wine...{F801}</source>
+    <target>{F813,0,100004}{F812}Hugo\0{F87A,10}Now I'll not have to endure my wife's{F801}endless nagging as to her wine...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,100005}I am sure my troubled acquaintance{F801}will be most relieved.{F801}{F802}{F813,0,100006}Permit me to leave you with a token{F801}of gratitude in his stead.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,100005}I am sure my troubled acquaintance{F801}will be most relieved.{F801}{F802}{F813,0,100006}Permit me to leave you with a token{F801}of gratitude in his stead.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,100007}Be certain that you breathe not{F801}a word of this to anyone...{F801}Is that understood?{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,100007}Be certain that you breathe not{F801}a word of this to anyone...{F801}Is that understood?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,100008}...Well then, you are free to leave.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,100008}...Well then, you are free to leave.{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>〉 Obtained a Bead Chain.{F801}</source>
+    <target>〉 Obtained a Bead Chain.{F801}</target>
+  </entry>
+</mbm>

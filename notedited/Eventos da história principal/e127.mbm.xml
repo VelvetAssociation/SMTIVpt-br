@@ -1,0 +1,150 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,127001}Hello there, {F843,0}. Returned safe,{F801}I see?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,127001}Hello there, {F843,0}. Returned safe,{F801}I see?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,127002}Damn, but my shoulders are stiff!{F801}That masked man was quite the burden.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,127002}Damn, but my shoulders are stiff!{F801}That masked man was quite the burden.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,9,1,1}{F813,0,127003}I looked upon a man who was not{F801}my father in his nakedness...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,9,1,1}{F813,0,127003}I looked upon a man who was not{F801}my father in his nakedness...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Jonathan, Walter, and Isabeau have{F801}joined you.{F801}</source>
+    <target>〉 Jonathan, Walter, and Isabeau have{F801}joined you.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,127004}Glory be to you Blessed Samurai who{F801}have gathered here.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,127004}Glory be to you Blessed Samurai who{F801}have gathered here.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,127005}I thank you for your works. The three{F801}men shall recover in time.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,127005}I thank you for your works. The three{F801}men shall recover in time.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,3,12,1,2}{F813,0,127007}Indulge me... Who were those masked men?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,3,12,1,2}{F813,0,127007}Indulge me... Who were those masked men?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,127008}Persons who are inconvenient to the{F801}demons.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,127008}Persons who are inconvenient to the{F801}demons.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}Error{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Error{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,127009}However, the demons cannot kill them.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,127009}However, the demons cannot kill them.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,127010}{F87B,3,12,1,2}Ah, hence the cages...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,127010}{F87B,3,12,1,2}Ah, hence the cages...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,127011}Once they recover, this kingdom will{F801}have no more need to fear the demons.{F801}{F802}{F813,0,127012}You have done a great service for{F801}this kingdom's future.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,127011}Once they recover, this kingdom will{F801}have no more need to fear the demons.{F801}{F802}{F813,0,127012}You have done a great service for{F801}this kingdom's future.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,3,1,1,1}{F813,0,127013}I'll not decline the praise, but...{F801}I still don't understand.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,3,1,1,1}{F813,0,127013}I'll not decline the praise, but...{F801}I still don't understand.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,127014}By the by... While you were away,{F801}there was an incident.{F801}{F802}{F87B,11,7,1,1}{F813,0,127015}The Black Samurai's body has{F801}disappeared.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,127014}By the by... While you were away,{F801}there was an incident.{F801}{F802}{F87B,11,7,1,1}{F813,0,127015}The Black Samurai's body has{F801}disappeared.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,7,1,2}{F87B,3,7,1,2}{F813,0,127016}Wh-What!? There's a jolting bit{F801}of news...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,7,1,2}{F87B,3,7,1,2}{F813,0,127016}Wh-What!? There's a jolting bit{F801}of news...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,127017}What do you mean by that?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,127017}What do you mean by that?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,127018}One of the two guards guarding the{F801}corpse was killed...{F801}{F802}{F813,0,127019}The surviving guard reported thusly:{F801}{F802}{F813,0,127020}"The Black Samurai resurrected and{F801}fled to Tokyo..."{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,127018}One of the two guards guarding the{F801}corpse was killed...{F801}{F802}{F813,0,127019}The surviving guard reported thusly:{F801}{F802}{F813,0,127020}"The Black Samurai resurrected and{F801}fled to Tokyo..."{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F87B,4,3,1,1}{F813,0,127021}That's not possible... Did she truly{F801}revive from the dead?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,7,1,1}{F87B,4,3,1,1}{F813,0,127021}That's not possible... Did she truly{F801}revive from the dead?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,127022}Suffice to say that public knowledge{F801}of this would cause an uproar.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,127022}Suffice to say that public knowledge{F801}of this would cause an uproar.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,127023}Sir Hope is currently scouring the{F801}Eastern Kingdom of Mikado for her.{F801}{F802}{F813,0,127024}This is where you, who are learned{F801}in the lay of Tokyo, have a role{F801}to play...{F801}{F802}{F813,0,127025}I want you to return there.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,127023}Sir Hope is currently scouring the{F801}Eastern Kingdom of Mikado for her.{F801}{F802}{F813,0,127024}This is where you, who are learned{F801}in the lay of Tokyo, have a role{F801}to play...{F801}{F802}{F813,0,127025}I want you to return there.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,5,3,1,1}{F813,0,127026}Another long trip? I recall a time{F801}when the word "holiday" had a meaning{F801}to we Samurai...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F87B,5,3,1,1}{F813,0,127026}Another long trip? I recall a time{F801}when the word "holiday" had a meaning{F801}to we Samurai...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,127027}This time, my request is not to{F801}capture her alive.{F801}{F802}{F87B,11,7,1,1}{F813,0,127028}You are to kill her.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,127027}This time, my request is not to{F801}capture her alive.{F801}{F802}{F87B,11,7,1,1}{F813,0,127028}You are to kill her.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F87B,4,3,1,1}{F813,0,127029}What...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F87B,4,3,1,1}{F813,0,127029}What...?{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>〉 {F843,0} and his fellow Samurai{F801}left the Monastery...{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}left the Monastery...{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Walter\0{F87A,4}{F813,0,127031}{F87B,4,10,1,1}'Tis a bit eerie to receive orders to{F801}kill a woman who's been executed once.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,127031}{F87B,4,10,1,1}'Tis a bit eerie to receive orders to{F801}kill a woman who's been executed once.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,127032}{F87B,5,3,1,1}The Samurai code is to protect the{F801}people. To be sent on a mission of{F801}murder is...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,127032}{F87B,5,3,1,1}The Samurai code is to protect the{F801}people. To be sent on a mission of{F801}murder is...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,127033}{F87B,3,12,1,1}It is what we are given.{F801}{F802}{F813,0,127034}If the Black Samurai returns, the{F801}people will panic, and chaos will{F801}reign over our kingdom.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,127033}{F87B,3,12,1,1}It is what we are given.{F801}{F802}{F813,0,127034}If the Black Samurai returns, the{F801}people will panic, and chaos will{F801}reign over our kingdom.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 A Samurai walked up to {F843,0}.{F801}</source>
+    <target>〉 A Samurai walked up to {F843,0}.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Master Samurai\0{F87A,117}{F813,0,127035}Ah, {F843,0}, there you are.{F801}{F802}{F813,0,127036}I have a message from the Association{F801}in Tokyo.{F801}{F802}{F813,0,127037}An Unclean One called "Tayama" requests{F801}an audience with you in Shibuya.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,117}{F813,0,127035}Ah, {F843,0}, there you are.{F801}{F802}{F813,0,127036}I have a message from the Association{F801}in Tokyo.{F801}{F802}{F813,0,127037}An Unclean One called "Tayama" requests{F801}an audience with you in Shibuya.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Walter\0{F87A,4}{F813,0,127038}{F87B,4,10,1,1}What...? Tayama, as in the{F801}Ashura-kai's...?{F801}{F802}{F813,0,127039}Hoy, is this your doing, {F843,0}?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,127038}{F87B,4,10,1,1}What...? Tayama, as in the{F801}Ashura-kai's...?{F801}{F802}{F813,0,127039}Hoy, is this your doing, {F843,0}?{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>"In truth..."{F801}"I plead ignorance."{F801}</source>
+    <target>"In truth..."{F801}"I plead ignorance."{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,7,1,1}{F813,0,127040}Truly!?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,7,1,1}{F813,0,127040}Truly!?{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Walter\0{F87A,4}{F813,0,127041}{F87B,4,12,1,1}I thought as much... It's unexpected,{F801}to say the least.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,127041}{F87B,4,12,1,1}I thought as much... It's unexpected,{F801}to say the least.{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,127042}{F87B,3,12,1,1}This may be a blessing in disguise...{F801}{F802}{F813,0,127043}We can inquire after the Black Samurai{F801}when we meet Tayama.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,127042}{F87B,3,12,1,1}This may be a blessing in disguise...{F801}{F802}{F813,0,127043}We can inquire after the Black Samurai{F801}when we meet Tayama.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400050}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400050}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,147001}...May I have a word?{F801}{F802}{F87B,5,3,1,1}{F813,0,147002}Do you smell something...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,147001}...May I have a word?{F801}{F802}{F87B,5,3,1,1}{F813,0,147002}Do you smell something...?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,6,1,1}{F813,0,147003}Now that you mention it... there is a{F801}sweet scent in the air.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,6,1,1}{F813,0,147003}Now that you mention it... there is a{F801}sweet scent in the air.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,147004}I know we'll be in severe trouble if{F801}we're caught, but I feel oddly{F801}lighthearted in spite of myself...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,147004}I know we'll be in severe trouble if{F801}we're caught, but I feel oddly{F801}lighthearted in spite of myself...{F801}</target>
+  </entry>
+  <entry id="999">
+    <source>つなぎ用仮Íäñトです{F801}</source>
+    <target>つなぎ用仮Íäñトです{F801}</target>
+  </entry>
+</mbm>

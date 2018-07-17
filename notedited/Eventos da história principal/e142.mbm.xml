@@ -1,0 +1,70 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You hear a voice coming from further{F801}down the passage...{F801}</source>
+    <target>〉 You hear a voice coming from further{F801}down the passage...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Woman's voice\0{F87A,2}{F813,0,142001}You who wish to pass. Answer our{F801}question.{F801}</source>
+    <target>{F812}Woman's voice\0{F87A,2}{F813,0,142001}You who wish to pass. Answer our{F801}question.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Man's voice\0{F87A,2}{F813,0,142002}You will have two choices. The answer{F801}will reveal your inner self.{F801}{F802}{F813,0,142003}This is the final inquiry.{F801}</source>
+    <target>{F812}Man's voice\0{F87A,2}{F813,0,142002}You will have two choices. The answer{F801}will reveal your inner self.{F801}{F802}{F813,0,142003}This is the final inquiry.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Woman's voice\0{F87A,2}{F813,0,142004}Now, for the question...{F801}</source>
+    <target>{F812}Woman's voice\0{F87A,2}{F813,0,142004}Now, for the question...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Woman's voice\0{F87A,2}{F813,0,142005}The love of your life lies in front{F801}of you, unconscious.{F801}{F802}{F813,0,142006}There is no hope that they will ever{F801}wake again. You have already tried{F801}many things, to no avail...{F801}{F802}{F813,0,142007}What would you do?{F801}</source>
+    <target>{F812}Woman's voice\0{F87A,2}{F813,0,142005}The love of your life lies in front{F801}of you, unconscious.{F801}{F802}{F813,0,142006}There is no hope that they will ever{F801}wake again. You have already tried{F801}many things, to no avail...{F801}{F802}{F813,0,142007}What would you do?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Woman's voice\0{F87A,2}{F813,0,142009}If you would stop all treatment and{F801}allow this person to perish naturally,{F801}go left.{F801}</source>
+    <target>{F812}Woman's voice\0{F87A,2}{F813,0,142009}If you would stop all treatment and{F801}allow this person to perish naturally,{F801}go left.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Man's voice\0{F87A,2}Walk toward the Error!{F801}</source>
+    <target>{F812}Man's voice\0{F87A,2}Walk toward the Error!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,142010}I think it would be best to let them{F801}die... but on the other hand, it's{F801}someone very dear to you, isn't it...?{F801}{F802}{F87B,4,10,1,1}{F813,0,142011}Damn! That's a choice I can't make.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,142010}I think it would be best to let them{F801}die... but on the other hand, it's{F801}someone very dear to you, isn't it...?{F801}{F802}{F87B,4,10,1,1}{F813,0,142011}Damn! That's a choice I can't make.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,3,1,1}{F813,0,142012}We are in agreement on that point,{F801}Walter. I can't decide either...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,3,1,1}{F813,0,142012}We are in agreement on that point,{F801}Walter. I can't decide either...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,142013}These questions are all so unpleasant...{F801}{F802}{F813,0,142014}{F87B,5,12,1,1}Which would you choose, {F843,0}...?{F801}{F802}{F813,0,142015}Left, letting your beloved die? Or{F801}right, committing to staying at their{F801}side for the rest of your life?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,142013}These questions are all so unpleasant...{F801}{F802}{F813,0,142014}{F87B,5,12,1,1}Which would you choose, {F843,0}...?{F801}{F802}{F813,0,142015}Left, letting your beloved die? Or{F801}right, committing to staying at their{F801}side for the rest of your life?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Man's voice\0{F813,0,142016}You would spend the rest of your life{F801}trying to keep that person alive?{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,142016}You would spend the rest of your life{F801}trying to keep that person alive?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>"Yes, I would."{F801}Reconsider{F801}</source>
+    <target>"Yes, I would."{F801}Reconsider{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Woman's voice\0{F813,0,142017}You would let your dearest beloved{F801}die a natural death?{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,142017}You would let your dearest beloved{F801}die a natural death?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>"Yes, I would."{F801}Reconsider{F801}</source>
+    <target>"Yes, I would."{F801}Reconsider{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Man's voice\0{F87A,2}{F813,0,142008}If you would care for this person for{F801}the rest of your life, go right.{F801}</source>
+    <target>{F812}Man's voice\0{F87A,2}{F813,0,142008}If you would care for this person for{F801}the rest of your life, go right.{F801}</target>
+  </entry>
+  <entry id="999">
+    <source>つなぎ用仮Íäñトです{F801}</source>
+    <target>つなぎ用仮Íäñトです{F801}</target>
+  </entry>
+</mbm>

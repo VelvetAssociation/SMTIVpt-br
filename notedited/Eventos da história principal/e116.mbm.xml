@@ -1,0 +1,142 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F87B,4,3,1,1}{F813,0,116001}No matter where we go, we are still{F801}within the Domain...{F801}{F802}{F87B,5,8,1,2}{F813,0,116002}I had high hopes of this place. I heard{F801}there would be books to be found here...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F87B,4,3,1,1}{F813,0,116001}No matter where we go, we are still{F801}within the Domain...{F801}{F802}{F87B,5,8,1,2}{F813,0,116002}I had high hopes of this place. I heard{F801}there would be books to be found here...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,116003}Eh? What were these "high hopes" in{F801}expectation of...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,116003}Eh? What were these "high hopes" in{F801}expectation of...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,11,1,1}{F813,0,116004}Oh... Ahh, you see... I had thought...{F801}I might be able to finish...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,11,1,1}{F813,0,116004}Oh... Ahh, you see... I had thought...{F801}I might be able to finish...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,116005}I haven't the faintest what you're{F801}on about...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,116005}I haven't the faintest what you're{F801}on about...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,7,1,1}{F87B,5,7,1,1}{F813,0,116006}...Hell's bells!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,7,1,1}{F87B,5,7,1,1}{F813,0,116006}...Hell's bells!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F87B,4,3,1,1}{F813,0,116007}We meet again at last, Black Samurai!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F87B,4,3,1,1}{F813,0,116007}We meet again at last, Black Samurai!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116008}As I knew we would.{F801}{F802}{F813,0,116009}Welcome to Tokyo... Samurai of the{F801}Eastern Kingdom of Mikado.{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116008}As I knew we would.{F801}{F802}{F813,0,116009}Welcome to Tokyo... Samurai of the{F801}Eastern Kingdom of Mikado.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116010}You, girl... It's a shame you won't{F801}ever find out how your manga ends.{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116010}You, girl... It's a shame you won't{F801}ever find out how your manga ends.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,9,1,1}{F813,0,116011}...Wh-What?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,9,1,1}{F813,0,116011}...Wh-What?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116035}After your last volume...{F801}Oscar finally reunites one evening{F801}with her childhood friend and...{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116035}After your last volume...{F801}Oscar finally reunites one evening{F801}with her childhood friend and...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,4,8,1,1}{F87B,5,7,1,1}{F813,0,116012}Tralaalaa! I'm afraid I can't hear you!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,4,8,1,1}{F87B,5,7,1,1}{F813,0,116012}Tralaalaa! I'm afraid I can't hear you!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116013}Hahaha...{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116013}Hahaha...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116014}So, how are you liking Tokyo? Are you{F801}used to things here yet?{F801}{F802}{F813,0,116015}Since, after all, Tokyo mirrors the{F801}Eastern Kingdom of Mikado.{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116014}So, how are you liking Tokyo? Are you{F801}used to things here yet?{F801}{F802}{F813,0,116015}Since, after all, Tokyo mirrors the{F801}Eastern Kingdom of Mikado.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,116016}What an insult...! How dare you utter{F801}such nonsense!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,116016}What an insult...! How dare you utter{F801}such nonsense!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116017}You're slow to understand as ever.{F801}{F802}{F813,0,116018}What about you there?{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116017}You're slow to understand as ever.{F801}{F802}{F813,0,116018}What about you there?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 The Black Samurai approached{F801}{F843,0} and his fellow Samurai.{F801}</source>
+    <target>〉 The Black Samurai approached{F801}{F843,0} and his fellow Samurai.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116019}If you were told that you must live{F801}here in Tokyo, do you think that you{F801}could...?{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116019}If you were told that you must live{F801}here in Tokyo, do you think that you{F801}could...?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>"I could manage it."{F801}"I could never."{F801}"I don't know."{F801}</source>
+    <target>"I could manage it."{F801}"I could never."{F801}"I don't know."{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116020}So, that's where you stand now...{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116020}So, that's where you stand now...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116021}So, that's where you stand now...{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116021}So, that's where you stand now...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116022}So you can't even form an opinion{F801}when asked a question... Pitiful.{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116022}So you can't even form an opinion{F801}when asked a question... Pitiful.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F87B,4,12,1,2}{F813,0,116023}I think this is enough idle chatter.{F801}{F802}{F813,0,116024}You will surrender to us calmly and{F801}quietly this time!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F87B,4,12,1,2}{F813,0,116023}I think this is enough idle chatter.{F801}{F802}{F813,0,116024}You will surrender to us calmly and{F801}quietly this time!{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116025}Very well... do as you will.{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116025}Very well... do as you will.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 The Black Samurai tossed aside her{F801}weapon.{F801}</source>
+    <target>〉 The Black Samurai tossed aside her{F801}weapon.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116026}You have much to learn about the world.{F801}{F802}{F813,0,116027}I'll teach you plenty...{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116026}You have much to learn about the world.{F801}{F802}{F813,0,116027}I'll teach you plenty...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>〉 What will you do?{F801}</source>
+    <target>〉 What will you do?{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>Arrest her{F801}Refuse{F801}</source>
+    <target>Arrest her{F801}Refuse{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 {F843,0} tied the Black Samurai's{F801}hands behind her back.{F801}</source>
+    <target>〉 {F843,0} tied the Black Samurai's{F801}hands behind her back.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116028}You're surprisingly cowardly.{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,116028}You're surprisingly cowardly.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,116029}...Then I shall do it.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,116029}...Then I shall do it.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>〉 Jonathan tied the Black Samurai's hands{F801}behind her back.{F801}</source>
+    <target>〉 Jonathan tied the Black Samurai's hands{F801}behind her back.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,116030}It took a while, but you finally{F801}did it.{F801}{F802}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,116030}It took a while, but you finally{F801}did it.{F801}{F802}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Walter\0{F87A,4}{F813,0,116032}{F87B,4,6,1,1}{F87B,5,1,1,3}......{F801}{F802}{F813,0,116033}{F87B,4,10,1,1}Have we truly captured the infamous{F801}Black Samurai?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,116032}{F87B,4,6,1,1}{F87B,5,1,1,3}......{F801}{F802}{F813,0,116033}{F87B,4,10,1,1}Have we truly captured the infamous{F801}Black Samurai?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,2}{F813,0,116034}Now that she is actually in our{F801}custody, it seems to be over far{F801}too soon...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,2}{F813,0,116034}Now that she is actually in our{F801}custody, it seems to be over far{F801}too soon...{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>〉 {F843,0} and his fellow Samurai{F801}took the Black Samurai to Mikado Castle.{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}took the Black Samurai to Mikado Castle.{F801}</target>
+  </entry>
+</mbm>

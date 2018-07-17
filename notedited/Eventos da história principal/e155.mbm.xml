@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,155001}Hoy, look...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,155001}Hoy, look...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Before you is an enormous cocoon-{F801}shaped object...{F801}</source>
+    <target>〉 Before you is an enormous cocoon-{F801}shaped object...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,155002}So that is the holy land... I've heard{F801}tell of it, but this is the first time{F801}looking upon it with my own eyes...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,155002}So that is the holy land... I've heard{F801}tell of it, but this is the first time{F801}looking upon it with my own eyes...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Voice\0{F813,0,155003}It has been some time, Blessed Samurai.{F801}</source>
+    <target>{F812}Voice\0{F813,0,155003}It has been some time, Blessed Samurai.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,155004}I would like to introduce you to{F801}someone.{F801}{F802}{F813,0,155005}You will soon be in the presence of the{F801}new leaders of this kingdom.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,155004}I would like to introduce you to{F801}someone.{F801}{F802}{F813,0,155005}You will soon be in the presence of the{F801}new leaders of this kingdom.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,155006}Come, let us hence.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F87B,11,1,1,1}{F813,0,155006}Come, let us hence.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,155007}Introduce us...? What's going on?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,155007}Introduce us...? What's going on?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F813,0,155008}Are we to go inside that sort of{F801}cocoon thing?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,155008}Are we to go inside that sort of{F801}cocoon thing?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 {F843,0} followed Gabby inside{F801}the enormous cocoon...{F801}</source>
+    <target>〉 {F843,0} followed Gabby inside{F801}the enormous cocoon...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,156001}My goodness...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,156001}My goodness...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Walter\0{F87A,4}{F813,0,156002}It's like a beehive in here...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,156002}It's like a beehive in here...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,1}There...!{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,1}There...!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Man in tears\0{F87A,34}{F813,0,46001}No...! S-Someone... Help...!{F801}</source>
+    <target>{F812}Man in tears\0{F87A,34}{F813,0,46001}No...! S-Someone... Help...!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Strix\0{F87A,-455}{F813,0,46002}There's no sense running...{F801}</source>
+    <target>{F812}Strix\0{F87A,-455}{F813,0,46002}There's no sense running...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 A demon approached the man...{F801}</source>
+    <target>〉 A demon approached the man...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Strix\0{F87A,-455}{F813,0,46003}You don't like how those Luxuror{F801}bastards do things, no? Let's pick up{F801}where we left off and... Hm?{F801}</source>
+    <target>{F812}Strix\0{F87A,-455}{F813,0,46003}You don't like how those Luxuror{F801}bastards do things, no? Let's pick up{F801}where we left off and... Hm?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Strix\0{F87A,0}{F813,0,46004}Speak of the devil... I'll need to{F801}give us some privacy before we can{F801}chat!{F801}</source>
+    <target>{F812}Strix\0{F87A,0}{F813,0,46004}Speak of the devil... I'll need to{F801}give us some privacy before we can{F801}chat!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Man in tears\0{F87A,34}{F813,0,46005}I-I see... You became a Samurai,{F801}{F843,0}...{F801}{F802}{F813,0,46006}I had thought it strange not to see{F801}you in the village lately. I noticed{F801}your absence tonight, too...{F801}</source>
+    <target>{F812}Man in tears\0{F87A,34}{F813,0,46005}I-I see... You became a Samurai,{F801}{F843,0}...{F801}{F802}{F813,0,46006}I had thought it strange not to see{F801}you in the village lately. I noticed{F801}your absence tonight, too...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,46007}By heaven, what happened...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,46007}By heaven, what happened...?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Man in tears\0{F87A,34}{F813,0,46008}There was a villager who brought back{F801}books from the castle town.{F801}{F802}{F813,0,46009}The younger ones of the village{F801}gathered in this forest and decided{F801}to hold a Sabbath.{F801}</source>
+    <target>{F812}Man in tears\0{F87A,34}{F813,0,46008}There was a villager who brought back{F801}books from the castle town.{F801}{F802}{F813,0,46009}The younger ones of the village{F801}gathered in this forest and decided{F801}to hold a Sabbath.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Man in tears\0{F87A,34}{F813,0,46010}...Really, of course, it was an excuse{F801}to denigrate the Luxurors. They chafed{F801}under the rules handed down...{F801}{F802}{F813,0,46011}It held little interest for me, so I{F801}decided to leave. That's when a number{F801}of them suddenly...{F801}{F802}{F813,0,46012}Th-They suddenly... Their bodies{F801}began to twist and warp...!{F801}</source>
+    <target>{F812}Man in tears\0{F87A,34}{F813,0,46010}...Really, of course, it was an excuse{F801}to denigrate the Luxurors. They chafed{F801}under the rules handed down...{F801}{F802}{F813,0,46011}It held little interest for me, so I{F801}decided to leave. That's when a number{F801}of them suddenly...{F801}{F802}{F813,0,46012}Th-They suddenly... Their bodies{F801}began to twist and warp...!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The man's breathing grew more ragged...{F801}</source>
+    <target>〉 The man's breathing grew more ragged...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,46013}...Thank you. You did well in telling{F801}us of this. Your part is finished here.{F801}{F802}{F813,0,46014}You should remove yourself to the{F801}forest entrance. The Samurai there{F801}will take you into their care.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,46013}...Thank you. You did well in telling{F801}us of this. Your part is finished here.{F801}{F802}{F813,0,46014}You should remove yourself to the{F801}forest entrance. The Samurai there{F801}will take you into their care.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The man walked away, wiping tears{F801}from his face.{F801}</source>
+    <target>〉 The man walked away, wiping tears{F801}from his face.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You hear a voice coming from further{F801}down the passage...{F801}</source>
+    <target>〉 You hear a voice coming from further{F801}down the passage...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Woman's voice\0{F87A,1}{F813,0,141001}You who wish to pass. Answer our{F801}question.{F801}</source>
+    <target>{F812}Woman's voice\0{F87A,1}{F813,0,141001}You who wish to pass. Answer our{F801}question.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Man's voice\0{F87A,1}{F813,0,141002}You will have two choices. The answer{F801}will reveal your inner self.{F801}</source>
+    <target>{F812}Man's voice\0{F87A,1}{F813,0,141002}You will have two choices. The answer{F801}will reveal your inner self.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Man's voice\0{F87A,1}{F813,0,141003}Now, for the question...{F801}</source>
+    <target>{F812}Man's voice\0{F87A,1}{F813,0,141003}Now, for the question...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Man's voice\0{F87A,1}{F813,0,141004}You are the chief of a village which{F801}has lived the same way for 1,000 years.{F801}{F802}{F813,0,141005}One day, a man visits your village,{F801}carrying with him revolutionary{F801}technology.{F801}{F802}{F813,0,141006}This technology would greatly ease{F801}your people's lives, but would also{F801}do away with their current lifestyle.{F801}{F802}{F813,0,141007}What would you do?{F801}</source>
+    <target>{F812}Man's voice\0{F87A,1}{F813,0,141004}You are the chief of a village which{F801}has lived the same way for 1,000 years.{F801}{F802}{F813,0,141005}One day, a man visits your village,{F801}carrying with him revolutionary{F801}technology.{F801}{F802}{F813,0,141006}This technology would greatly ease{F801}your people's lives, but would also{F801}do away with their current lifestyle.{F801}{F802}{F813,0,141007}What would you do?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Woman's voice\0{F87A,1}{F813,0,141008}Go right if you would expel the{F801}visitor in order to preserve the{F801}lifestyle you have always known.{F801}</source>
+    <target>{F812}Woman's voice\0{F87A,1}{F813,0,141008}Go right if you would expel the{F801}visitor in order to preserve the{F801}lifestyle you have always known.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Man's voice\0{F87A,1}{F813,0,141009}Go left if you would welcome the{F801}visitor in order to adopt his{F801}technology for your village.{F801}</source>
+    <target>{F812}Man's voice\0{F87A,1}{F813,0,141009}Go left if you would welcome the{F801}visitor in order to adopt his{F801}technology for your village.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,3,1,1}{F813,0,141010}...New technology is quite tempting.{F801}{F802}{F813,0,141011}But I do not think it worth upending{F801}the stability of a culture and causing{F801}confusion amongst the people.{F801}{F802}{F87B,3,1,1,1}{F813,0,141012}I shall go right.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,3,1,1}{F813,0,141010}...New technology is quite tempting.{F801}{F802}{F813,0,141011}But I do not think it worth upending{F801}the stability of a culture and causing{F801}confusion amongst the people.{F801}{F802}{F87B,3,1,1,1}{F813,0,141012}I shall go right.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,141013}Don't be so hasty, Jonathan. Give the{F801}matter more thought. Life for all the{F801}villagers would be improved.{F801}{F802}{F813,0,141014}{F87B,4,1,1,1}One must take risks in order for one{F801}to see progress.{F801}{F802}{F813,0,141015}Were it up to me, I'd go left.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,141013}Don't be so hasty, Jonathan. Give the{F801}matter more thought. Life for all the{F801}villagers would be improved.{F801}{F802}{F813,0,141014}{F87B,4,1,1,1}One must take risks in order for one{F801}to see progress.{F801}{F802}{F813,0,141015}Were it up to me, I'd go left.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,141016}Another difference of opinion.{F801}{F802}{F813,0,141017}{F87B,5,2,1,1}Is Yuriko attempting to drive a wedge{F801}between our band...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,141016}Another difference of opinion.{F801}{F802}{F813,0,141017}{F87B,5,2,1,1}Is Yuriko attempting to drive a wedge{F801}between our band...?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,141018}I hesitate to be the one to decide{F801}this time either.{F801}{F802}{F87B,5,12,1,1}{F813,0,141019}Which would you choose, {F843,0}...?{F801}{F802}{F813,0,141020}Right, to protect the traditional{F801}way of life? Or left to welcome the{F801}new technology?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,141018}I hesitate to be the one to decide{F801}this time either.{F801}{F802}{F87B,5,12,1,1}{F813,0,141019}Which would you choose, {F843,0}...?{F801}{F802}{F813,0,141020}Right, to protect the traditional{F801}way of life? Or left to welcome the{F801}new technology?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Woman's voice\0{F813,0,141021}You would expel the visitor to protect{F801}the village's way of life?{F801}</source>
+    <target>{F812}Woman's voice\0{F813,0,141021}You would expel the visitor to protect{F801}the village's way of life?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>"Yes, I would."{F801}Reconsider{F801}</source>
+    <target>"Yes, I would."{F801}Reconsider{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Man's voice\0{F813,0,141022}You would welcome the visitor to usher{F801}in the new technology?{F801}</source>
+    <target>{F812}Man's voice\0{F813,0,141022}You would welcome the visitor to usher{F801}in the new technology?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>"Yes, I would."{F801}Reconsider{F801}</source>
+    <target>"Yes, I would."{F801}Reconsider{F801}</target>
+  </entry>
+  <entry id="999">
+    <source>つなぎ用仮Íäñトです{F801}</source>
+    <target>つなぎ用仮Íäñトです{F801}</target>
+  </entry>
+</mbm>

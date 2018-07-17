@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,7,1,1}{F813,0,50001}{F843,0}... You're here.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,7,1,1}{F813,0,50001}{F843,0}... You're here.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87B,4,3,1,1}{F87A,4}{F813,0,50002}He's the one from that morning...{F801}</source>
+    <target>{F812}Walter\0{F87B,4,3,1,1}{F87A,4}{F813,0,50002}He's the one from that morning...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87B,3,4,1,1}{F87A,3}{F813,0,50003}It's quite a relief to see you unharmed.{F801}You must hurry and join the others at{F801}the forest entrance where it's safe.{F801}</source>
+    <target>{F812}Jonathan\0{F87B,3,4,1,1}{F87A,3}{F813,0,50003}It's quite a relief to see you unharmed.{F801}You must hurry and join the others at{F801}the forest entrance where it's safe.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,2,1,1}{F813,0,50004}So... you rushed to save your hometown{F801}in crisis. You've certainly risen to{F801}greatness, haven't you?{F801}{F802}{F813,0,50005}You, who couldn't even bait a fishhook.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,2,1,1}{F813,0,50004}So... you rushed to save your hometown{F801}in crisis. You've certainly risen to{F801}greatness, haven't you?{F801}{F802}{F813,0,50005}You, who couldn't even bait a fishhook.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,3,1,1}{F813,0,50006}I, on the contrary, will forever be{F801}a Casualry in a remote village.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,3,1,1}{F813,0,50006}I, on the contrary, will forever be{F801}a Casualry in a remote village.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,50007}Though it must be said, I'm not who I{F801}once was either. The Black Samurai's{F801}books have opened my eyes.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,50007}Though it must be said, I'm not who I{F801}once was either. The Black Samurai's{F801}books have opened my eyes.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,50008}Who is this "Black Samurai"...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,50008}Who is this "Black Samurai"...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,2,1,1}{F813,0,50009}Unfortunately, the Eastern Kingdom of{F801}Mikado belongs to the Luxuror toads.{F801}{F802}{F813,0,50010}They establish practices convenient{F801}for themselves while starving us of{F801}any knowledge or learning...{F801}{F802}{F813,0,50011}They use our innocence to drive us{F801}hard to work.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,2,1,1}{F813,0,50009}Unfortunately, the Eastern Kingdom of{F801}Mikado belongs to the Luxuror toads.{F801}{F802}{F813,0,50010}They establish practices convenient{F801}for themselves while starving us of{F801}any knowledge or learning...{F801}{F802}{F813,0,50011}They use our innocence to drive us{F801}hard to work.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,50012}But we don't need the Luxurors, no?{F801}After all, it's our backbreaking labor{F801}that turns society's wheel.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,50012}But we don't need the Luxurors, no?{F801}After all, it's our backbreaking labor{F801}that turns society's wheel.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,50013}Sorry to interrupt the conversation...{F801}{F802}{F813,0,50014}But I'm detecting a demon extremely{F801}close by. Watch out.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,50013}Sorry to interrupt the conversation...{F801}{F802}{F813,0,50014}But I'm detecting a demon extremely{F801}close by. Watch out.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,50015}No...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,50015}No...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,50016}I'm telling you this, {F843,0},{F801}because you're you. Now that I've{F801}seen the light...{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,50016}I'm telling you this, {F843,0},{F801}because you're you. Now that I've{F801}seen the light...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,50018}Ngh... Was there no other way to{F801}ease his pain...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,50018}Ngh... Was there no other way to{F801}ease his pain...?{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87A,4}{F813,0,50019}What you did was correct.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,50019}What you did was correct.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}{F813,0,50021}You... How could you dither so{F801}uselessly in ending his pain!?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,50021}You... How could you dither so{F801}uselessly in ending his pain!?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,50024}How can you be so cruel, Walter?{F801}Try and show {F843,0} some empathy.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,50024}How can you be so cruel, Walter?{F801}Try and show {F843,0} some empathy.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,1,400302}......{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F813,1,400302}......{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Hope\0{F87A,8}{F813,0,50028}To all Samurai within the forest,{F801}this is Hope speaking.{F801}{F802}{F813,0,50029}We have testimony that the Black{F801}Samurai was witnessed in the innermost{F801}region of the Kiccigiorgi Forest.{F801}{F802}{F813,0,50030}Those who receive this message must{F801}make {F804,5}the Black Samurai's capture{F804,0}{F801}their utmost priority.{F801}{F802}{F813,0,50031}The Black Samurai appears as a human{F801}clad in ebon armor.{F801}{F802}{F813,0,50032}I repeat, for the benefit of those{F801}receiving this message late: make {F804,5}the{F801}Black Samurai's capture{F804,0} your priority.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,50028}To all Samurai within the forest,{F801}this is Hope speaking.{F801}{F802}{F813,0,50029}We have testimony that the Black{F801}Samurai was witnessed in the innermost{F801}region of the Kiccigiorgi Forest.{F801}{F802}{F813,0,50030}Those who receive this message must{F801}make {F804,5}the Black Samurai's capture{F804,0}{F801}their utmost priority.{F801}{F802}{F813,0,50031}The Black Samurai appears as a human{F801}clad in ebon armor.{F801}{F802}{F813,0,50032}I repeat, for the benefit of those{F801}receiving this message late: make {F804,5}the{F801}Black Samurai's capture{F804,0} your priority.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,11,1,1}{F813,0,50017}I've embraced the demonic.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,11,1,1}{F813,0,50017}I've embraced the demonic.{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,5,1,1}{F813,0,50020}Given the man's torment, I believe{F801}it was the most realistic choice.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,5,1,1}{F813,0,50020}Given the man's torment, I believe{F801}it was the most realistic choice.{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Walter\0{F87A,4}{F813,0,50022}{F87B,4,3,1,1}I know his suffering too damn well.{F801}I was Casualry too, after all.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,50022}{F87B,4,3,1,1}I know his suffering too damn well.{F801}I was Casualry too, after all.{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,50025}{F87B,3,12,1,1}I think that {F843,0}'s choice{F801}was the right one.{F801}{F802}{F813,0,50026}A man who loses the ability to be kind{F801}is little different than a demon.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,50025}{F87B,3,12,1,1}I think that {F843,0}'s choice{F801}was the right one.{F801}{F802}{F813,0,50026}A man who loses the ability to be kind{F801}is little different than a demon.{F801}</target>
+  </entry>
+  <entry id="214">
+    <source>{F812}Walter\0{F87A,4}{F813,0,50023}{F87B,4,2,1,1}But mark me when I say your clumsy{F801}"kindness" will be the death of us all!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,50023}{F87B,4,2,1,1}But mark me when I say your clumsy{F801}"kindness" will be the death of us all!{F801}</target>
+  </entry>
+</mbm>

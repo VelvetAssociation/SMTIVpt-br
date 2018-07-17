@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Frightened man\0{F87A,34}{F813,0,45001}{F843,0}...!{F801}{F802}{F813,0,45002}Forgive us, lad. Our hands were full...{F801}Our child is still young...{F801}{F802}{F813,0,45003}We owed your parents a great debt and{F801}I wanted to do something, but...!{F801}</source>
+    <target>{F812}Frightened man\0{F87A,34}{F813,0,45001}{F843,0}...!{F801}{F802}{F813,0,45002}Forgive us, lad. Our hands were full...{F801}Our child is still young...{F801}{F802}{F813,0,45003}We owed your parents a great debt and{F801}I wanted to do something, but...!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Frightened woman\0{F87A,36}{F813,0,45004}Many of the villagers are slain...{F801}Kiccigiorgi... is probably finished.{F801}{F802}{F813,0,45005}Where are we supposed to go? If we{F801}survive the night, what are we to do{F801}in the morning...?{F801}</source>
+    <target>{F812}Frightened woman\0{F87A,36}{F813,0,45004}Many of the villagers are slain...{F801}Kiccigiorgi... is probably finished.{F801}{F802}{F813,0,45005}Where are we supposed to go? If we{F801}survive the night, what are we to do{F801}in the morning...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Escaped boy\0{F87A,32}{F813,0,45006}Sir...? Father said that I'd die if{F801}I was caught by a "demon."{F801}{F802}{F813,0,45007}Your mother and father haven't been{F801}caught by demons, have they...?{F801}</source>
+    <target>{F812}Escaped boy\0{F87A,32}{F813,0,45006}Sir...? Father said that I'd die if{F801}I was caught by a "demon."{F801}{F802}{F813,0,45007}Your mother and father haven't been{F801}caught by demons, have they...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,45008}...You've a very strong boy not to{F801}cry. Now, run along to the forest{F801}entrance.{F801}{F802}{F813,0,45009}Powerful Samurai are waiting there{F801}for you.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,45008}...You've a very strong boy not to{F801}cry. Now, run along to the forest{F801}entrance.{F801}{F802}{F813,0,45009}Powerful Samurai are waiting there{F801}for you.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The villagers bowed and headed for{F801}the forest's entrance.{F801}</source>
+    <target>〉 The villagers bowed and headed for{F801}the forest's entrance.{F801}</target>
+  </entry>
+</mbm>

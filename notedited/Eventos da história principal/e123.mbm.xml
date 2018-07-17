@@ -1,0 +1,78 @@
+<mbm>
+  <entry id="0">
+    <source>〉 There is a naked man wearing a mask{F801}inside the birdcage...{F801}</source>
+    <target>〉 There is a naked man wearing a mask{F801}inside the birdcage...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F87A,-1}{F813,0,123001}...Halt.{F801}</source>
+    <target>{F812}Voice\0{F87A,-1}{F813,0,123001}...Halt.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-415}{F813,0,123002}I am the guardian of this birdcage...{F801}{F802}{F813,0,123003}I am Murmur, once famed as the Great{F801}Duke of the Thrones.{F801}</source>
+    <target>{F812}Demon\0{F87A,-415}{F813,0,123002}I am the guardian of this birdcage...{F801}{F802}{F813,0,123003}I am Murmur, once famed as the Great{F801}Duke of the Thrones.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Murmur\0{F87A,-415}{F813,0,123004}Scoundrels who approach the birdcage,{F801}I will pluck the spirits from your{F801}shells and make them dance eternally!{F801}</source>
+    <target>{F812}Murmur\0{F87A,-415}{F813,0,123004}Scoundrels who approach the birdcage,{F801}I will pluck the spirits from your{F801}shells and make them dance eternally!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Masked man\0{F813,0,123005}...Is someone there?{F801}</source>
+    <target>{F812}Masked man\0{F813,0,123005}...Is someone there?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Jonathan rushed to open the birdcage.{F801}</source>
+    <target>〉 Jonathan rushed to open the birdcage.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,123006}This must be the fellow Sister Gabby{F801}spoke of...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,123006}This must be the fellow Sister Gabby{F801}spoke of...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,123007}Rest easy, friend! We have come{F801}to rescue you.{F801}{F802}{F813,0,123008}...He's quite enervated.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,123007}Rest easy, friend! We have come{F801}to rescue you.{F801}{F802}{F813,0,123008}...He's quite enervated.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Masked man\0{F87A,28}{F813,0,123009}Who are you...?{F801}</source>
+    <target>{F812}Masked man\0{F87A,28}{F813,0,123009}Who are you...?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,123010}We are Samurai of the Eastern Kingdom{F801}of Mikado. Sister Gabby charged us{F801}with your rescue.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,123010}We are Samurai of the Eastern Kingdom{F801}of Mikado. Sister Gabby charged us{F801}with your rescue.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Masked man\0{F87A,28}{F813,0,123011}Gabby, you say...?{F801}{F802}{F813,0,123012}...Ah, how vexing. I cannot even{F801}remember who I am... It's because{F801}of this mask.{F801}</source>
+    <target>{F812}Masked man\0{F87A,28}{F813,0,123011}Gabby, you say...?{F801}{F802}{F813,0,123012}...Ah, how vexing. I cannot even{F801}remember who I am... It's because{F801}of this mask.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,123013}Then shall I remove it for you?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,123013}Then shall I remove it for you?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Masked man\0{F87A,28}{F813,0,123014}It's no use... This mask can only be{F801}removed by a kindred spirit.{F801}{F802}{F813,0,123015}And alas... I do not even know who{F801}that kindred spirit might be...{F801}</source>
+    <target>{F812}Masked man\0{F87A,28}{F813,0,123014}It's no use... This mask can only be{F801}removed by a kindred spirit.{F801}{F802}{F813,0,123015}And alas... I do not even know who{F801}that kindred spirit might be...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,123016}Dear me...{F801}{F802}{F813,0,123017}I think I'd best escort this man to{F801}the Monastery right away.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,123016}Dear me...{F801}{F802}{F813,0,123017}I think I'd best escort this man to{F801}the Monastery right away.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,123018}I leave the rest to you.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,123018}I leave the rest to you.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,123016}Dear me...{F801}{F802}{F813,0,123020}Regardless, this is the last of{F801}the kidnap victims.{F801}{F802}{F813,0,123021}I shall escort the poor man back to{F801}the Monastery straight away.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,123016}Dear me...{F801}{F802}{F813,0,123020}Regardless, this is the last of{F801}the kidnap victims.{F801}{F802}{F813,0,123021}I shall escort the poor man back to{F801}the Monastery straight away.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 Jonathan carried the man on his back{F801}and headed for the exit.{F801}</source>
+    <target>〉 Jonathan carried the man on his back{F801}and headed for the exit.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 Jonathan parted ways with you.{F801}</source>
+    <target>〉 Jonathan parted ways with you.{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+</mbm>

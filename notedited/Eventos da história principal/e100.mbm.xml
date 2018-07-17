@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,100001}Ah, you're...{F801}{F802}{F813,0,100002}Hm? That's...!{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,100001}Ah, you're...{F801}{F802}{F813,0,100002}Hm? That's...!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,100003}Yes... that's it exactly! You've{F801}found a bottle of wine!{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,100003}Yes... that's it exactly! You've{F801}found a bottle of wine!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Hugo snatched the Corked Bottle away{F801}from {F843,0}.{F801}</source>
+    <target>〉 Hugo snatched the Corked Bottle away{F801}from {F843,0}.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F813,0,100004}{F812}Hugo\0{F87A,10}{F87B,10,5,1,1}Now I'll not have to endure my wife's{F801}endless nagging as to her wine...{F801}</source>
+    <target>{F813,0,100004}{F812}Hugo\0{F87A,10}{F87B,10,5,1,1}Now I'll not have to endure my wife's{F801}endless nagging as to her wine...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,5,1,1}{F813,0,100005}I am sure my troubled acquaintance{F801}will be most relieved.{F801}{F802}{F813,0,100006}Permit me to leave you with a token{F801}of gratitude in his stead.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,5,1,1}{F813,0,100005}I am sure my troubled acquaintance{F801}will be most relieved.{F801}{F802}{F813,0,100006}Permit me to leave you with a token{F801}of gratitude in his stead.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Obtained a Bead Chain.{F801}</source>
+    <target>〉 Obtained a Bead Chain.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,100007}{F87B,10,12,1,1}Be certain that you breathe not{F801}a word of this to anyone...{F801}Is that understood?{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,100007}{F87B,10,12,1,1}Be certain that you breathe not{F801}a word of this to anyone...{F801}Is that understood?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hugo\0{F87A,10}{F813,0,100008}{F87B,10,4,1,1}...Well then, you are free to leave.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F813,0,100008}{F87B,10,4,1,1}...Well then, you are free to leave.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Burroughs\0{F87A,2}I think that's my cue, Master {F843,0}.{F801}{F802}I've confirmed that you've completed{F801}the quest, "Obtain wine."{F801}{F802}Well done.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}I think that's my cue, Master {F843,0}.{F801}{F802}I've confirmed that you've completed{F801}the quest, "Obtain wine."{F801}{F802}Well done.{F801}</target>
+  </entry>
+</mbm>

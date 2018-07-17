@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You hear a voice coming from the other{F801}side of the wall...{F801}</source>
+    <target>〉 You hear a voice coming from the other{F801}side of the wall...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Accented voice\0{F813,1,404321}What're ya prickin' up ya ears for?{F801}Have some chump demons come here to{F801}kill time?{F801}</source>
+    <target>{F812}Accented voice\0{F813,1,404321}What're ya prickin' up ya ears for?{F801}Have some chump demons come here to{F801}kill time?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Accented voice\0C'mon... Just eat us all and be done{F801}with it. The people of this city{F801}brought this on themselves.{F801}{F802}They don't even know how much trouble{F801}us guys in the Ashura-kai go through{F801}to keep order around Tokyo.{F801}{F802}But they'll be sorry once they're{F801}in your bellies, heheh.{F801}</source>
+    <target>{F812}Accented voice\0C'mon... Just eat us all and be done{F801}with it. The people of this city{F801}brought this on themselves.{F801}{F802}They don't even know how much trouble{F801}us guys in the Ashura-kai go through{F801}to keep order around Tokyo.{F801}{F802}But they'll be sorry once they're{F801}in your bellies, heheh.{F801}</target>
+  </entry>
+</mbm>

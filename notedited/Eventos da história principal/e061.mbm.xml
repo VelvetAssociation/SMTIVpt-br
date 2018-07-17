@@ -1,0 +1,42 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A phrase is carved into the door.{F801}</source>
+    <target>〉 A phrase is carved into the door.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,61001}"Those who serve God Almighty:{F801}Thou shalt not proceed beyond{F801}this door."{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,61001}"Those who serve God Almighty:{F801}Thou shalt not proceed beyond{F801}this door."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,61003}I'm detecting a strong demon ahead.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,61003}I'm detecting a strong demon ahead.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,61004}Do you want to go on?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,61004}Do you want to go on?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>"We will proceed."{F801}"Not as yet."{F801}</source>
+    <target>"We will proceed."{F801}"Not as yet."{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,61005}Okay, but be careful.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,61005}Okay, but be careful.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,61006}Okay. It's up to you.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,61006}Okay. It's up to you.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F813,0,61007}Is something the matter? If you have{F801}preparations to make, make them{F801}quickly.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,61007}Is something the matter? If you have{F801}preparations to make, make them{F801}quickly.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 It is a large, solid-seeming door...{F801}</source>
+    <target>〉 It is a large, solid-seeming door...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,61002}Is this not a warning from Aquila?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,61002}Is this not a warning from Aquila?{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You find an unfamiliar landscape{F801}before your eyes...{F801}</source>
+    <target>〉 You find an unfamiliar landscape{F801}before your eyes...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F813,0,54001}Ah, you're awake.{F801}</source>
+    <target>{F812}Voice\0{F813,0,54001}Ah, you're awake.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Stephen\0{F87A,14}{F813,0,54002}That girl would like to see you.{F801}She's to the east from here.{F801}</source>
+    <target>{F812}Stephen\0{F87A,14}{F813,0,54002}That girl would like to see you.{F801}She's to the east from here.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You hear a voice coming from the other{F801}side of the wall...{F801}</source>
+    <target>〉 You hear a voice coming from the other{F801}side of the wall...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F813,1,403103}Is someone there...?{F801}{F802}I'm bored. Humor me and let's talk{F801}a while. That is what I do for a{F801}living, after all...{F801}</source>
+    <target>{F812}Voice\0{F813,1,403103}Is someone there...?{F801}{F802}I'm bored. Humor me and let's talk{F801}a while. That is what I do for a{F801}living, after all...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Voice\0Now don't get me wrong, I hated the{F801}Ashura-kai for the way they'd take{F801}their "payment" in trade...{F801}{F802}But it's better that than the{F801}alternative, you know? Those demons{F801}only want to devour us...{F801}</source>
+    <target>{F812}Voice\0Now don't get me wrong, I hated the{F801}Ashura-kai for the way they'd take{F801}their "payment" in trade...{F801}{F802}But it's better that than the{F801}alternative, you know? Those demons{F801}only want to devour us...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Voice\0I can understand that people are{F801}desperate for change...{F801}{F802}But they really screwed everyone over{F801}in the name of "justice"!{F801}</source>
+    <target>{F812}Voice\0I can understand that people are{F801}desperate for change...{F801}{F802}But they really screwed everyone over{F801}in the name of "justice"!{F801}</target>
+  </entry>
+</mbm>

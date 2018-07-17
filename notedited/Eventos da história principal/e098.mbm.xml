@@ -1,0 +1,182 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98001}We ain't on no kid's errand either.{F801}Can't ya understand?{F801}{F802}{F813,0,98002}We wouldn't mind settin' ya up{F801}someplace else, ya know. Maybe in{F801}Toyosu or somethin'...{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98001}We ain't on no kid's errand either.{F801}Can't ya understand?{F801}{F802}{F813,0,98002}We wouldn't mind settin' ya up{F801}someplace else, ya know. Maybe in{F801}Toyosu or somethin'...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,208}{F813,0,98003}I am under no obligation to take{F801}orders from you.{F801}</source>
+    <target>{F812}Demon\0{F87A,208}{F813,0,98003}I am under no obligation to take{F801}orders from you.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 A demon is talking to a group of men.{F801}</source>
+    <target>〉 A demon is talking to a group of men.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,98004}{F87B,3,12,1,1}Is that the demon that has seized the{F801}Metropolitan Government Office...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,98004}{F87B,3,12,1,1}Is that the demon that has seized the{F801}Metropolitan Government Office...?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98005}Oh, good timing. You must be the{F801}ones who volunteered for the quest.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98005}Oh, good timing. You must be the{F801}ones who volunteered for the quest.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98006}There, you see? We got numbers on{F801}our side. I know you're not that{F801}stupid.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98006}There, you see? We got numbers on{F801}our side. I know you're not that{F801}stupid.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98007}C'mon, we'll make it worth your while.{F801}How 'bout we throw in some Reds?{F801}{F802}{F813,0,98008}Ya got enough of those red pills, ya{F801}don't gotta eat humans. Plus, they{F801}give you a pretty good buzz...{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98007}C'mon, we'll make it worth your while.{F801}How 'bout we throw in some Reds?{F801}{F802}{F813,0,98008}Ya got enough of those red pills, ya{F801}don't gotta eat humans. Plus, they{F801}give you a pretty good buzz...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hired Hunter\0{F87A,67}{F813,0,98009}Th-The city belongs to us humans!{F801}It's the demons who should leave...!{F801}</source>
+    <target>{F812}Hired Hunter\0{F87A,67}{F813,0,98009}Th-The city belongs to us humans!{F801}It's the demons who should leave...!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Part-time Hunter\0{F87A,69}{F813,0,98010}You ate all of my friends...!{F801}</source>
+    <target>{F812}Part-time Hunter\0{F87A,69}{F813,0,98010}You ate all of my friends...!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Demon\0{F87A,208}{F813,0,98011}Devouring others to live is the way{F801}of nature.{F801}{F802}{F813,0,98012}You humans who make their living by{F801}hunting demons have no cause to{F801}protest such things.{F801}</source>
+    <target>{F812}Demon\0{F87A,208}{F813,0,98011}Devouring others to live is the way{F801}of nature.{F801}{F802}{F813,0,98012}You humans who make their living by{F801}hunting demons have no cause to{F801}protest such things.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Demon\0{F87A,208}{F813,0,98013}And I would remind you that we have{F801}lived here in this "Shinjuku" from{F801}the beginning.{F801}{F802}{F813,0,98014}For you who came afterward to pose as{F801}the lords of this land and "mercifully{F801}allow" us to leave is ludicrous.{F801}</source>
+    <target>{F812}Demon\0{F87A,208}{F813,0,98013}And I would remind you that we have{F801}lived here in this "Shinjuku" from{F801}the beginning.{F801}{F802}{F813,0,98014}For you who came afterward to pose as{F801}the lords of this land and "mercifully{F801}allow" us to leave is ludicrous.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,98015}{F87B,5,3,1,1}This seems quite a complex situation...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,98015}{F87B,5,3,1,1}This seems quite a complex situation...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F813,1,400202}{F87B,4,10,1,1}Mmm...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,400202}{F87B,4,10,1,1}Mmm...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Demon\0{F87A,208}{F813,0,98017}We would never ingest these unnaturally{F801}manufactured Red Pills you speak of.{F801}{F802}{F813,0,98018}Particularly not when devouring all of{F801}you here would do quite nicely.{F801}</source>
+    <target>{F812}Demon\0{F87A,208}{F813,0,98017}We would never ingest these unnaturally{F801}manufactured Red Pills you speak of.{F801}{F802}{F813,0,98018}Particularly not when devouring all of{F801}you here would do quite nicely.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Part-time Hunter\0{F87A,69}{F813,0,98019}D-Devour...?{F801}{F802}{F813,0,98020}N-No... I don't wanna be eaten...!{F801}</source>
+    <target>{F812}Part-time Hunter\0{F87A,69}{F813,0,98019}D-Devour...?{F801}{F802}{F813,0,98020}N-No... I don't wanna be eaten...!{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Hired Hunter\0{F87A,67}{F813,0,98021}Y-You can say that again...!{F801}</source>
+    <target>{F812}Hired Hunter\0{F87A,67}{F813,0,98021}Y-You can say that again...!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 The hired Hunter and the part-time{F801}Hunter ran off...{F801}</source>
+    <target>〉 The hired Hunter and the part-time{F801}Hunter ran off...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98022}Those good-for-nothing Hunters!{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98022}Those good-for-nothing Hunters!{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98023}Guess our negotiations have broken{F801}down, huh?{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98023}Guess our negotiations have broken{F801}down, huh?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98024}Hey, you four there. Kill this demon{F801}for the sake of Shinjuku!{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98024}Hey, you four there. Kill this demon{F801}for the sake of Shinjuku!{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>Kill it{F801}Don't kill it{F801}</source>
+    <target>Kill it{F801}Don't kill it{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Demon\0{F87A,208}{F813,0,98025}Humans always wish to quarrel...{F801}{F802}{F813,0,98026}But if you will come with force,{F801}there is no avoiding it.{F801}</source>
+    <target>{F812}Demon\0{F87A,208}{F813,0,98025}Humans always wish to quarrel...{F801}{F802}{F813,0,98026}But if you will come with force,{F801}there is no avoiding it.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98027}...What? Did I just hear ya say{F801}ya won't kill it!?{F801}{F802}{F813,0,98028}I musta misheard that, right...?{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98027}...What? Did I just hear ya say{F801}ya won't kill it!?{F801}{F802}{F813,0,98028}I musta misheard that, right...?{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>"Yes, you're right."{F801}"No, you heard correctly."{F801}</source>
+    <target>"Yes, you're right."{F801}"No, you heard correctly."{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98029}Talk about confusin'... Don't mumble{F801}so much, kid.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98029}Talk about confusin'... Don't mumble{F801}so much, kid.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98030}What!?{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98030}What!?{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98031}Alright, that was the last straw!{F801}{F802}{F813,0,98032}That demon's dead, but you're gonna{F801}go first!{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98031}Alright, that was the last straw!{F801}{F802}{F813,0,98032}That demon's dead, but you're gonna{F801}go first!{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98033}Serves him right. He wouldn'ta had to{F801}die if he didn't pick a fight with us.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98033}Serves him right. He wouldn'ta had to{F801}die if he didn't pick a fight with us.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Ashura-kai man\0{F87A,47}{F813,0,98034}Well then! I got a party to prepare.{F801}It's to celebrate us takin' back the{F801}west exit.{F801}{F802}{F813,0,98035}You kids did good. Take this, get{F801}yourself somethin' nice.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,47}{F813,0,98034}Well then! I got a party to prepare.{F801}It's to celebrate us takin' back the{F801}west exit.{F801}{F802}{F813,0,98035}You kids did good. Take this, get{F801}yourself somethin' nice.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 {F843,0} obtained 4000 Macca.{F801}</source>
+    <target>〉 {F843,0} obtained 4000 Macca.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>〉 The Ashura-kai man walked away{F801}triumphantly...{F801}</source>
+    <target>〉 The Ashura-kai man walked away{F801}triumphantly...{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Walter\0{F87A,4}{F813,0,98036}......{F801}{F802}{F813,0,98037}{F87B,4,3,1,1}Was our decision to slay Kuebiko{F801}truly the best one...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,98036}......{F801}{F802}{F813,0,98037}{F87B,4,3,1,1}Was our decision to slay Kuebiko{F801}truly the best one...?{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Demon\0{F87A,208}{F813,0,98039}It seems there are yet some humans{F801}who will listen to reason. I thank you.{F801}</source>
+    <target>{F812}Demon\0{F87A,208}{F813,0,98039}It seems there are yet some humans{F801}who will listen to reason. I thank you.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Demon\0{F87A,208}{F813,0,98040}But we cannot live on this land any{F801}longer. It has been tainted by{F801}unclean blood.{F801}</source>
+    <target>{F812}Demon\0{F87A,208}{F813,0,98040}But we cannot live on this land any{F801}longer. It has been tainted by{F801}unclean blood.{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,98041}{F87B,5,1,1,3}{F87B,3,12,1,1}Unclean...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,98041}{F87B,5,1,1,3}{F87B,3,12,1,1}Unclean...?{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Demon\0{F87A,208}{F813,0,98042}There once was no superiority or{F801}inferiority between the earth and{F801}your kind.{F801}{F802}{F813,0,98043}...Farewell.{F801}</source>
+    <target>{F812}Demon\0{F87A,208}{F813,0,98042}There once was no superiority or{F801}inferiority between the earth and{F801}your kind.{F801}{F802}{F813,0,98043}...Farewell.{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>〉 The demon retreated, taking his family{F801}along with him...{F801}</source>
+    <target>〉 The demon retreated, taking his family{F801}along with him...{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,98044}Hm...{F801}{F802}{F813,0,98045}{F87B,3,10,1,1}{F87B,5,3,1,1}Did we err in electing not to defeat{F801}Kuebiko...?{F801}{F802}{F813,0,98046}Are we not merely worsening matters{F801}in this world through such actions?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,98044}Hm...{F801}{F802}{F813,0,98045}{F87B,3,10,1,1}{F87B,5,3,1,1}Did we err in electing not to defeat{F801}Kuebiko...?{F801}{F802}{F813,0,98046}Are we not merely worsening matters{F801}in this world through such actions?{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,98047}Umm...{F801}{F802}{F813,0,98048}Either way, the demon's gone, so I{F801}can put a lid on this one, right?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,98047}Umm...{F801}{F802}{F813,0,98048}Either way, the demon's gone, so I{F801}can put a lid on this one, right?{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="132">
+    <source>〉 Obtained the Jirae Talisman.{F801}</source>
+    <target>〉 Obtained the Jirae Talisman.{F801}</target>
+  </entry>
+  <entry id="140">
+    <source>〉 Obtained the Jirae Talisman.{F801}</source>
+    <target>〉 Obtained the Jirae Talisman.{F801}</target>
+  </entry>
+  <entry id="232">
+    <source>〉 The atmosphere in the area is changing...{F801}</source>
+    <target>〉 The atmosphere in the area is changing...{F801}</target>
+  </entry>
+  <entry id="240">
+    <source>〉 The atmosphere in the area is changing...{F801}</source>
+    <target>〉 The atmosphere in the area is changing...{F801}</target>
+  </entry>
+</mbm>

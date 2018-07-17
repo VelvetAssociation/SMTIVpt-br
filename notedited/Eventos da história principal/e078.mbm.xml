@@ -1,0 +1,10 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Squinting man\0{F87A,59}Ah, it's you.{F801}{F802}Seems you managed to kill Peallaidh.{F801}Everyone's been buzzing about it here.{F801}</source>
+    <target>{F812}Squinting man\0{F87A,59}Ah, it's you.{F801}{F802}Seems you managed to kill Peallaidh.{F801}Everyone's been buzzing about it here.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Squiting man\0{F87A,59}Oh, right, the Counter-Demon Force{F801}Base...{F801}{F802}It's in Nagata-cho. Just cross the{F801}river and head west.{F801}</source>
+    <target>{F812}Squiting man\0{F87A,59}Oh, right, the Counter-Demon Force{F801}Base...{F801}{F802}It's in Nagata-cho. Just cross the{F801}river and head west.{F801}</target>
+  </entry>
+</mbm>

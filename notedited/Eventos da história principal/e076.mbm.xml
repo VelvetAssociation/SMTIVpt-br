@@ -1,0 +1,166 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Squinting man\0{F87A,59}{F813,0,76022}......{F801}</source>
+    <target>{F812}Squinting man\0{F87A,59}{F813,0,76022}......{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 The squinting man stared at{F801}{F843,0}'s Gauntlet.{F801}</source>
+    <target>〉 The squinting man stared at{F801}{F843,0}'s Gauntlet.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Squinting man\0{F87A,59}{F813,0,76023}...I haven't seen you around here.{F801}</source>
+    <target>{F812}Squinting man\0{F87A,59}{F813,0,76023}...I haven't seen you around here.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Squinting man\0{F87A,59}{F813,0,76024}If you don't mind, tell me where{F801}you're from and why you came to Tokyo.{F801}</source>
+    <target>{F812}Squinting man\0{F87A,59}{F813,0,76024}If you don't mind, tell me where{F801}you're from and why you came to Tokyo.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Tell him{F801}Don't tell him{F801}</source>
+    <target>Tell him{F801}Don't tell him{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 {F843,0} told him they hailed from{F801}the Eastern Kingdom of Mikado, and had{F801}come in search of the Black Samurai.{F801}</source>
+    <target>〉 {F843,0} told him they hailed from{F801}the Eastern Kingdom of Mikado, and had{F801}come in search of the Black Samurai.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Squinting man\0{F87A,59}{F813,0,76030}Alright then. No, I'm sorry to have{F801}bothered you.{F801}</source>
+    <target>{F812}Squinting man\0{F87A,59}{F813,0,76030}Alright then. No, I'm sorry to have{F801}bothered you.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Squinting man\0{F87A,59}{F813,0,76025}Alright... So in other words, you're{F801}trying to get to the Counter-Demon{F801}Force Base, right?{F801}</source>
+    <target>{F812}Squinting man\0{F87A,59}{F813,0,76025}Alright... So in other words, you're{F801}trying to get to the Counter-Demon{F801}Force Base, right?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Squinting man\0{F87A,59}{F813,0,76026}That base is across the river south{F801}of here, in Kasumigaseki.{F801}</source>
+    <target>{F812}Squinting man\0{F87A,59}{F813,0,76026}That base is across the river south{F801}of here, in Kasumigaseki.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Squinting man\0{F87A,59}{F813,0,76028}All you gotta do is take a look at{F801}the bulletin board.{F801}</source>
+    <target>{F812}Squinting man\0{F87A,59}{F813,0,76028}All you gotta do is take a look at{F801}the bulletin board.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Squinting man\0{F87A,59}{F813,0,76031}Once the quest's done, go see the{F801}Kelpies near the river at Ryogoku,{F801}southeast of here.{F801}{F802}{F813,0,76032}You do that, and you just might make{F801}it to Kasumigaseki...{F801}{F802}{F813,0,76033}Heh, the Counter-Demon Force...{F801}There's something I haven't heard{F801}about in a long time.{F801}</source>
+    <target>{F812}Squinting man\0{F87A,59}{F813,0,76031}Once the quest's done, go see the{F801}Kelpies near the river at Ryogoku,{F801}southeast of here.{F801}{F802}{F813,0,76032}You do that, and you just might make{F801}it to Kasumigaseki...{F801}{F802}{F813,0,76033}Heh, the Counter-Demon Force...{F801}There's something I haven't heard{F801}about in a long time.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,76001}Eek...! What a ratty establishment!{F801}And the din...!{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,76001}Eek...! What a ratty establishment!{F801}And the din...!{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87A,4}{F813,0,76002}All the Unclean Ones I see here seem{F801}like they'd be confident in their{F801}abilities.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,76002}All the Unclean Ones I see here seem{F801}like they'd be confident in their{F801}abilities.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Bartender\0{F87A,23}{F813,0,76003}You four there! Willya quit lounging{F801}around the entrance?{F801}</source>
+    <target>{F812}Bartender\0{F87A,23}{F813,0,76003}You four there! Willya quit lounging{F801}around the entrance?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Bartender\0{F87A,23}{F813,0,76004}So, what's it gonna be today?{F801}Booze? Or are you here for work?{F801}</source>
+    <target>{F812}Bartender\0{F87A,23}{F813,0,76004}So, what's it gonna be today?{F801}Booze? Or are you here for work?{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,76005}No, we're, ah...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,76005}No, we're, ah...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Bartender\0{F87A,23}{F813,0,76006}Oh, you're rookies.{F801}{F802}{F813,0,76007}In that case, the bulletin board's up{F801}there. I got no time for Hunters if{F801}they're not working on quests.{F801}</source>
+    <target>{F812}Bartender\0{F87A,23}{F813,0,76006}Oh, you're rookies.{F801}{F802}{F813,0,76007}In that case, the bulletin board's up{F801}there. I got no time for Hunters if{F801}they're not working on quests.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,76008}Uh, excuse me, but what are "Hunters"...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,76008}Uh, excuse me, but what are "Hunters"...?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Bartender\0{F87A,23}{F813,0,76009}You know... Demon Hunters. Is this{F801}some kinda joke?{F801}</source>
+    <target>{F812}Bartender\0{F87A,23}{F813,0,76009}You know... Demon Hunters. Is this{F801}some kinda joke?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,76010}N-No... I didn't mean to offend...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,76010}N-No... I didn't mean to offend...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Bartender\0{F87A,23}{F813,0,76011}Hunters are reckless jack-of-all-{F801}trades.{F801}{F802}{F813,0,76012}They take on work from clients and{F801}bum around Tokyo, trying to finish{F801}the job.{F801}{F802}{F813,0,76013}If you're gonna be a Hunter, you{F801}gotta know at least that much.{F801}</source>
+    <target>{F812}Bartender\0{F87A,23}{F813,0,76011}Hunters are reckless jack-of-all-{F801}trades.{F801}{F802}{F813,0,76012}They take on work from clients and{F801}bum around Tokyo, trying to finish{F801}the job.{F801}{F802}{F813,0,76013}If you're gonna be a Hunter, you{F801}gotta know at least that much.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,76014}Please, sir, pardon my ignorance...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,76014}Please, sir, pardon my ignorance...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Walter\0{F87A,4}{F813,0,76015}Hoy, look at that bulletin board thing.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,76015}Hoy, look at that bulletin board thing.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>〉 {F843,0} examines the bulletin{F801}board above the counter.{F801}</source>
+    <target>〉 {F843,0} examines the bulletin{F801}board above the counter.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,76016}Oh! It's just the same as the{F801}blackboard in K's Tavern.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,76016}Oh! It's just the same as the{F801}blackboard in K's Tavern.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Walter\0{F87A,4}{F813,0,76017}Sounds as though these "Hunters" are{F801}the Samurai of the Unclean Ones.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,76017}Sounds as though these "Hunters" are{F801}the Samurai of the Unclean Ones.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,76018}I can automatically register quests{F801}for you, even in Tokyo.{F801}{F802}{F813,0,76019}There are new quests on the bulletin{F801}board. I'll register them to the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,76018}I can automatically register quests{F801}for you, even in Tokyo.{F801}{F802}{F813,0,76019}There are new quests on the bulletin{F801}board. I'll register them to the list.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 From now on, you can also accept quests{F801}in Hunter Associations in Tokyo.{F801}</source>
+    <target>〉 From now on, you can also accept quests{F801}in Hunter Associations in Tokyo.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Bartender\0{F87A,23}{F813,0,76020}Hey, rookies. Make yourselves pros{F801}right quick, got it?{F801}{F802}{F813,0,76021}No matter how many humans we got{F801}fighting the demons here in Tokyo,{F801}it isn't enough.{F801}</source>
+    <target>{F812}Bartender\0{F87A,23}{F813,0,76020}Hey, rookies. Make yourselves pros{F801}right quick, got it?{F801}{F802}{F813,0,76021}No matter how many humans we got{F801}fighting the demons here in Tokyo,{F801}it isn't enough.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,76034}...Master {F843,0}, look out.{F801}I'm detecting a strong demon nearby.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,76034}...Master {F843,0}, look out.{F801}I'm detecting a strong demon nearby.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,76035}I'm detecting a demon's Domain.{F801}Do you want to go on?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,76035}I'm detecting a demon's Domain.{F801}Do you want to go on?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source></source>
+    <target></target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,86020}This seems like important evidence.{F801}I'll make a note of it in the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,86020}This seems like important evidence.{F801}I'll make a note of it in the quest.{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>〉 The bartender started to talk to you{F801}without looking at you.{F801}</source>
+    <target>〉 The bartender started to talk to you{F801}without looking at you.{F801}</target>
+  </entry>
+  <entry id="208">
+    <source>{F812}Squinting man\0{F87A,59}{F813,0,76027}But the Ashura-kai has destroyed most{F801}of the bridges across Tokyo. Getting{F801}across the river won't be so simple.{F801}{F802}{F813,0,76029}There is this quest, though, called{F801}"Peallaidh Extermination." Why not{F801}give that one a try?{F801}</source>
+    <target>{F812}Squinting man\0{F87A,59}{F813,0,76027}But the Ashura-kai has destroyed most{F801}of the bridges across Tokyo. Getting{F801}across the river won't be so simple.{F801}{F802}{F813,0,76029}There is this quest, though, called{F801}"Peallaidh Extermination." Why not{F801}give that one a try?{F801}</target>
+  </entry>
+  <entry id="308">
+    <source>〉 The squinting man took something from{F801}his pocket and handed it to {F843,0}.{F801}</source>
+    <target>〉 The squinting man took something from{F801}his pocket and handed it to {F843,0}.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>初めて商会に入った時に{F801}店主から商会について聞きます{F801}このÍäñト以降 サブクÉの登録受注が{F801}可能になります{F801}</source>
+    <target>初めて商会に入った時に{F801}店主から商会について聞きます{F801}このÍäñト以降 サブクÉの登録受注が{F801}可能になります{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>仮処理{F801}本来は黒板を調べてクÉストを受注しますが{F801}現状は準備が整っていないため{F801}従来通り自動的にクÉストを受注します{F801}</source>
+    <target>仮処理{F801}本来は黒板を調べてクÉストを受注しますが{F801}現状は準備が整っていないため{F801}従来通り自動的にクÉストを受注します{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>不要と思われるÍäñトなので{F801}新宿人外ハñターへへ復帰します{F801}</source>
+    <target>不要と思われるÍäñトなので{F801}新宿人外ハñターへへ復帰します{F801}</target>
+  </entry>
+</mbm>

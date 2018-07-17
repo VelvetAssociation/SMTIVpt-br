@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,139001}Ugggh... Damnation, I think I've{F801}fractured my bottom...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,139001}Ugggh... Damnation, I think I've{F801}fractured my bottom...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,139002}Ugh... Are the rest of you unhurt?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,139002}Ugh... Are the rest of you unhurt?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,139003}Ouch... Yes, I'm still in one piece...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F813,0,139003}Ouch... Yes, I'm still in one piece...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The voice of the monk echoes from{F801}above...{F801}</source>
+    <target>〉 The voice of the monk echoes from{F801}above...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Voice\0{F813,0,139004}Normally, those who threaten the Ring{F801}of Gaea are put down by force.{F801}{F802}{F813,0,139005}You have Lady Yuriko to thank for{F801}this mercy.{F801}</source>
+    <target>{F812}Voice\0{F813,0,139004}Normally, those who threaten the Ring{F801}of Gaea are put down by force.{F801}{F802}{F813,0,139005}You have Lady Yuriko to thank for{F801}this mercy.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Voice\0{F813,0,139006}Now, travel through the the Passage{F801}of Ethics and meet Lady Yuriko.{F801}</source>
+    <target>{F812}Voice\0{F813,0,139006}Now, travel through the the Passage{F801}of Ethics and meet Lady Yuriko.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Walter\0{F87A,4}{F813,0,139007}She knew our motives, yet she still{F801}invited us in...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,139007}She knew our motives, yet she still{F801}invited us in...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,139008}But will we be allowed to leave?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,139008}But will we be allowed to leave?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,139009}Have faith, Isabeau. All shall{F801}be well.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,139009}Have faith, Isabeau. All shall{F801}be well.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 Jonathan, Walter, and Isabeau have {F801}joined you.{F801}</source>
+    <target>〉 Jonathan, Walter, and Isabeau have {F801}joined you.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,86020}This seems like important evidence.{F801}I'll make a note of it in the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,86020}This seems like important evidence.{F801}I'll make a note of it in the quest.{F801}</target>
+  </entry>
+</mbm>

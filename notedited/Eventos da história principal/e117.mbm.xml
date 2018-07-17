@@ -1,0 +1,138 @@
+<mbm>
+  <entry id="0">
+    <source>〉 News of the Black Samurai's capture{F801}spread quickly across the country...{F801}</source>
+    <target>〉 News of the Black Samurai's capture{F801}spread quickly across the country...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 King Ahazuya of Mikado recognized the{F801}achievement of {F843,0} and his{F801}fellows as well...{F801}{F802}〉 The award ceremony for the Third Order{F801}of Merit was conducted in high style.{F801}{F802}〉 Afterward...{F801}</source>
+    <target>〉 King Ahazuya of Mikado recognized the{F801}achievement of {F843,0} and his{F801}fellows as well...{F801}{F802}〉 The award ceremony for the Third Order{F801}of Merit was conducted in high style.{F801}{F802}〉 Afterward...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117001}You're all looking splendid.{F801}{F802}{F813,0,117002}'Twas very worth the time I set aside{F801}to make a suggestion to King Ahazuya{F801}of Mikado regarding this ceremony.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117001}You're all looking splendid.{F801}{F802}{F813,0,117002}'Twas very worth the time I set aside{F801}to make a suggestion to King Ahazuya{F801}of Mikado regarding this ceremony.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,117003}Your thoughtfulness is very much{F801}appreciated, Abbot Hugo.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,117003}Your thoughtfulness is very much{F801}appreciated, Abbot Hugo.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,117005}Now that the Black Samurai has been{F801}apprehended...{F801}{F802}{F813,0,117006}I expect no more instances of the{F801}people of Mikado succumbing to{F801}temptation and becoming demons.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,1,1,1}{F813,0,117005}Now that the Black Samurai has been{F801}apprehended...{F801}{F802}{F813,0,117006}I expect no more instances of the{F801}people of Mikado succumbing to{F801}temptation and becoming demons.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,3,7,1,2}{F813,0,117008}We have the Black Samurai in hand,{F801}and yet you still wish us to enter{F801}Tokyo...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,3,7,1,2}{F813,0,117008}We have the Black Samurai in hand,{F801}and yet you still wish us to enter{F801}Tokyo...?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,117009}Hmm... 'twould appear some uncouth{F801}behavior rubbed off on you in Tokyo.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,12,1,1}{F813,0,117009}Hmm... 'twould appear some uncouth{F801}behavior rubbed off on you in Tokyo.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117010}It's all due to your guidance, Hope,{F801}that this ill-mannered boy has been{F801}awarded the Third Order of Merit...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117010}It's all due to your guidance, Hope,{F801}that this ill-mannered boy has been{F801}awarded the Third Order of Merit...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,12,1,1}{F813,0,117011}...My apologies, sir, for this{F801}prentice's discourtesy.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,12,1,1}{F813,0,117011}...My apologies, sir, for this{F801}prentice's discourtesy.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,117012}Commander...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F813,0,117012}Commander...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,4,1,1}{F813,0,117013}Don't trouble yourself about it,{F801}Walter. I share your feelings.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,4,1,1}{F813,0,117013}Don't trouble yourself about it,{F801}Walter. I share your feelings.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117014}Pardon, but I'm a busy man, and I must{F801}cut matters short here.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117014}Pardon, but I'm a busy man, and I must{F801}cut matters short here.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117015}The time for the ceremony is nigh.{F801}Gabby should be finishing the{F801}preparations for it now...{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117015}The time for the ceremony is nigh.{F801}Gabby should be finishing the{F801}preparations for it now...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F87B,3,1,1,2}{F813,0,117016}A ceremony, you say?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F87B,3,1,1,2}{F813,0,117016}A ceremony, you say?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117017}Ah, did you not receive the notice?{F801}{F802}{F87B,10,5,1,1}{F813,0,117018}We are to hold a public execution{F801}of the Black Samurai.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117017}Ah, did you not receive the notice?{F801}{F802}{F87B,10,5,1,1}{F813,0,117018}We are to hold a public execution{F801}of the Black Samurai.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117020}'Twill be a grand event, held in{F801}the Obelisk Plaza.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117020}'Twill be a grand event, held in{F801}the Obelisk Plaza.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117021}Now then, Hope, I must ask that you{F801}accompany me on my way.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117021}Now then, Hope, I must ask that you{F801}accompany me on my way.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,117022}...Understood.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,117022}...Understood.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 Hugo walked away, with Hope following{F801}closely behind...{F801}</source>
+    <target>〉 Hugo walked away, with Hope following{F801}closely behind...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F87B,3,12,1,1}{F813,0,117023}Hark at his attitude! He preens about{F801}as if he'd brought her in himself!{F801}{F802}{F813,0,117024}Excuse me, but I'm feeling an{F801}overabundance of yellow bile that{F801}must be relieved. I'll see you hence.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F87B,3,12,1,1}{F813,0,117023}Hark at his attitude! He preens about{F801}as if he'd brought her in himself!{F801}{F802}{F813,0,117024}Excuse me, but I'm feeling an{F801}overabundance of yellow bile that{F801}must be relieved. I'll see you hence.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}error{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}error{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 Walter stormed off...{F801}</source>
+    <target>〉 Walter stormed off...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,1}{F813,0,117025}I think this may be the time for me{F801}to draw a long bath and reflect on{F801}all that's happened over our journey.{F801}{F802}{F87B,5,6,1,2}{F813,0,117026}If you'll excuse me...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,1}{F813,0,117025}I think this may be the time for me{F801}to draw a long bath and reflect on{F801}all that's happened over our journey.{F801}{F802}{F87B,5,6,1,2}{F813,0,117026}If you'll excuse me...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}error{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}error{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 Isabeau walked away...{F801}</source>
+    <target>〉 Isabeau walked away...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,117027}I shall be present at the ceremony{F801}once I finish repairing my blade.{F801}{F802}{F813,0,117028}Shall I see you at the Obelisk Plaza,{F801}then, {F843,0}?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,117027}I shall be present at the ceremony{F801}once I finish repairing my blade.{F801}{F802}{F813,0,117028}Shall I see you at the Obelisk Plaza,{F801}then, {F843,0}?{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,117029}By your leave...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,117029}By your leave...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 Jonathan walked away...{F801}</source>
+    <target>〉 Jonathan walked away...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>〉 You have parted ways with Jonathan,{F801}Walter, and Isabeau.{F801}</source>
+    <target>〉 You have parted ways with Jonathan,{F801}Walter, and Isabeau.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 The people hailed {F843,0} and his{F801}fellows upon their triumphant return...{F801}</source>
+    <target>〉 The people hailed {F843,0} and his{F801}fellows upon their triumphant return...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,117004}"Worth the time I set aside"?{F801}What a heroic effort...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,117004}"Worth the time I set aside"?{F801}What a heroic effort...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117007}Which in turn will leave you Samurai{F801}free to concentrate on the retrieval{F801}of mystic relics.{F801}</source>
+    <target>{F812}Hugo\0{F87A,10}{F87B,10,4,1,1}{F813,0,117007}Which in turn will leave you Samurai{F801}free to concentrate on the retrieval{F801}of mystic relics.{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F87B,3,12,1,1}{F813,0,117019}An execution...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F87B,3,12,1,1}{F813,0,117019}An execution...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>黒きサムáÍを発見した主人公らは{F801}遺物回収も含めてその功績が認められます{F801}{F802}ミカド国へ戻った主人公たちは{F801}王の間で勲章を与えられ表彰されます{F801}</source>
+    <target>黒きサムáÍを発見した主人公らは{F801}遺物回収も含めてその功績が認められます{F801}{F802}ミカド国へ戻った主人公たちは{F801}王の間で勲章を与えられ表彰されます{F801}</target>
+  </entry>
+</mbm>

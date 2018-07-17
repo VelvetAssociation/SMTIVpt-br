@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Man on watch\0{F87A,46}{F813,0,122001}What the...? You kids foreign Hunters?{F801}{F802}{F813,0,122002}Then remember this: Past here's off{F801}limits to ya.{F801}</source>
+    <target>{F812}Man on watch\0{F87A,46}{F813,0,122001}What the...? You kids foreign Hunters?{F801}{F802}{F813,0,122002}Then remember this: Past here's off{F801}limits to ya.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Man on watch\0{F87A,46}{F813,0,122001}What the...? You kids foreign Hunters?{F801}{F802}{F813,0,122002}Then remember this: Past here's off{F801}limits to ya.{F801}</source>
+    <target>{F812}Man on watch\0{F87A,46}{F813,0,122001}What the...? You kids foreign Hunters?{F801}{F802}{F813,0,122002}Then remember this: Past here's off{F801}limits to ya.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Man on watch\0{F87A,46}{F813,0,122003}I highly doubt it, but... ya came{F801}here knowin' what's up ahead?{F801}</source>
+    <target>{F812}Man on watch\0{F87A,46}{F813,0,122003}I highly doubt it, but... ya came{F801}here knowin' what's up ahead?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>"Certainly."{F801}"No..."{F801}</source>
+    <target>"Certainly."{F801}"No..."{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Man on watch\0{F87A,46}{F813,0,122004}Ugh... What a pain.{F801}{F802}{F813,0,122005}Sometimes we get guys like ya who{F801}don't follow the rules.{F801}{F802}{F813,0,122006}When that happens, I gotta lay down{F801}the law.{F801}</source>
+    <target>{F812}Man on watch\0{F87A,46}{F813,0,122004}Ugh... What a pain.{F801}{F802}{F813,0,122005}Sometimes we get guys like ya who{F801}don't follow the rules.{F801}{F802}{F813,0,122006}When that happens, I gotta lay down{F801}the law.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Man on watch\0{F87A,46}{F813,0,122007}...Figures. Sorry, but rules is rules.{F801}</source>
+    <target>{F812}Man on watch\0{F87A,46}{F813,0,122007}...Figures. Sorry, but rules is rules.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}They went to the trouble of{F801}posting a guard to bar entry by{F801}any trespassers...{F801}{F802}I take that to mean there's something{F801}worth protecting further in.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}They went to the trouble of{F801}posting a guard to bar entry by{F801}any trespassers...{F801}{F802}I take that to mean there's something{F801}worth protecting further in.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}They went so far as to post a guard{F801}to bar our path.{F801}{F802}Which can only mean there's something{F801}critically important ahead!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}They went so far as to post a guard{F801}to bar our path.{F801}{F802}Which can only mean there's something{F801}critically important ahead!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}The presence of a guard here rather{F801}tips their hand, doesn't it?{F801}{F802}It's quite likely that there is{F801}something of importance further in.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}The presence of a guard here rather{F801}tips their hand, doesn't it?{F801}{F802}It's quite likely that there is{F801}something of importance further in.{F801}</target>
+  </entry>
+</mbm>

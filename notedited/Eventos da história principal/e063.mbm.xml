@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,63001}Oho, perfect timing. That room over{F801}there looks like a fine place to take{F801}a rest.{F801}{F802}{F87B,4,10,1,1}{F813,0,63002}My demons have been pestering me to{F801}let them heal themselves.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,63001}Oho, perfect timing. That room over{F801}there looks like a fine place to take{F801}a rest.{F801}{F802}{F87B,4,10,1,1}{F813,0,63002}My demons have been pestering me to{F801}let them heal themselves.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 {F843,0} and his fellow Samurai{F801}entered a small room.{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}entered a small room.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,63003}Hm...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,63003}Hm...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,63004}What is it, Walter?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,63004}What is it, Walter?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,63005}Have a look at this.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,63005}Have a look at this.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F87B,3,1,1,2}{F813,0,63006}I've never seen anything of its like{F801}in the Eastern Kingdom of Mikado.{F801}What could its purpose be...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F87B,3,1,1,2}{F813,0,63006}I've never seen anything of its like{F801}in the Eastern Kingdom of Mikado.{F801}What could its purpose be...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,63007}It's times like these that I come in{F801}handy.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,63007}It's times like these that I come in{F801}handy.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,63009}Scanning...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,63009}Scanning...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,63010}This is a weapon called a "gun."{F801}It fires projectiles called "bullets"{F801}to kill enemies at a distance.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,63010}This is a weapon called a "gun."{F801}It fires projectiles called "bullets"{F801}to kill enemies at a distance.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F87B,5,10,1,2}{F813,0,63011}Oh... Another mystic relic...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F87B,5,10,1,2}{F813,0,63011}Oh... Another mystic relic...?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,63013}You don't have to worry about that.{F801}{F802}{F813,0,63014}I'll automatically send data on the{F801}relics you find to the Monastery.{F801}{F802}{F813,0,63015}That frees you up to keep your focus{F801}on the mission.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,63013}You don't have to worry about that.{F801}{F802}{F813,0,63014}I'll automatically send data on the{F801}relics you find to the Monastery.{F801}{F802}{F813,0,63015}That frees you up to keep your focus{F801}on the mission.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,2}{F813,0,63016}I need hardly mention it now, but{F801}you're quite clever, Burroughs.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,6,1,2}{F813,0,63016}I need hardly mention it now, but{F801}you're quite clever, Burroughs.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,63017}These guns could come in useful.{F801}Let's take them along.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,63017}These guns could come in useful.{F801}Let's take them along.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 {F843,0} equipped the Bruce Gun{F801}and loaded it with FMJ Rounds.{F801}</source>
+    <target>〉 {F843,0} equipped the Bruce Gun{F801}and loaded it with FMJ Rounds.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>〉 The room is filled with strange{F801}artifacts...{F801}</source>
+    <target>〉 The room is filled with strange{F801}artifacts...{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F87B,3,1,1,2}〉 Walter picked up an object crafted{F801}out of metal...{F801}</source>
+    <target>{F87B,3,1,1,2}〉 Walter picked up an object crafted{F801}out of metal...{F801}</target>
+  </entry>
+  <entry id="107">
+    <source> {F801} {F801}    解析モード演出(※詳細未決){F801}</source>
+    <target> {F801} {F801}    解析モード演出(※詳細未決){F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,63008}Do you know what it is, Burroughs?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,63008}Do you know what it is, Burroughs?{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,63012}If so, then we must bring it to{F801}Abbot Hugo's attention.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,63012}If so, then we must bring it to{F801}Abbot Hugo's attention.{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>〉 {F843,0} obtained the Bruce Gun{F801}and the FMJ Rounds.{F801}</source>
+    <target>〉 {F843,0} obtained the Bruce Gun{F801}and the FMJ Rounds.{F801}</target>
+  </entry>
+</mbm>

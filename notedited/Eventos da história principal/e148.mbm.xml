@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,148001}Hm? Who are you guys?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,148001}Hm? Who are you guys?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,148002}We're for it now...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,10,1,1}{F813,0,148002}We're for it now...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,148003}Oh, you're the next shift. Is it{F801}harvest time already?{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,148003}Oh, you're the next shift. Is it{F801}harvest time already?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,148004}So, are you guys new? I know it's{F801}tough at first.{F801}{F802}{F813,0,148005}Here's key #2. Don't lose it, or else{F801}you'll get buried in paperwork.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,148004}So, are you guys new? I know it's{F801}tough at first.{F801}{F802}{F813,0,148005}Here's key #2. Don't lose it, or else{F801}you'll get buried in paperwork.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Obtained Card Key 2.{F801}</source>
+    <target>〉 Obtained Card Key 2.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source></source>
+    <target></target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Gas masked man\0{F87A,48}</source>
+    <target>{F812}Gas masked man\0{F87A,48}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Gas masked man\0{F87A,48}{F813,0,148006}Whew... I can finally take off{F801}this mask!{F801}{F802}{F813,0,148007}Alright, the rest is yours.{F801}</source>
+    <target>{F812}Gas masked man\0{F87A,48}{F813,0,148006}Whew... I can finally take off{F801}this mask!{F801}{F802}{F813,0,148007}Alright, the rest is yours.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The gas masked man walked away...{F801}</source>
+    <target>〉 The gas masked man walked away...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,1}{F813,0,148008}Fortunately for us, the guard was{F801}a simpleton.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,1}{F813,0,148008}Fortunately for us, the guard was{F801}a simpleton.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,6,1,1}{F813,0,148009}What is this "harvest" he spoke of...?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,6,1,1}{F813,0,148009}What is this "harvest" he spoke of...?{F801}</target>
+  </entry>
+</mbm>

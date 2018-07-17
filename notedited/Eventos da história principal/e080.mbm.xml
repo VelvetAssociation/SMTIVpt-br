@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Underling\0{F87A,46}{F813,0,80001}Hey, what're ya doin', comin' here?{F801}</source>
+    <target>{F812}Underling\0{F87A,46}{F813,0,80001}Hey, what're ya doin', comin' here?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,80002}It's another Unclean One with an accent{F801}equally as thick as the last.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,80002}It's another Unclean One with an accent{F801}equally as thick as the last.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Underling\0{F87A,46}{F813,0,80003}Ya hearin' me, kids?{F801}{F802}{F813,0,80004}This ain't a playground. You get what{F801}I'm sayin', right...?{F801}</source>
+    <target>{F812}Underling\0{F87A,46}{F813,0,80003}Ya hearin' me, kids?{F801}{F802}{F813,0,80004}This ain't a playground. You get what{F801}I'm sayin', right...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>"But of course."{F801}"No, I don't 'get' it."{F801}</source>
+    <target>"But of course."{F801}"No, I don't 'get' it."{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Underling\0{F87A,46}{F813,0,80005}Good boy. Go back to the underground{F801}district like the good kid you are.{F801}</source>
+    <target>{F812}Underling\0{F87A,46}{F813,0,80005}Good boy. Go back to the underground{F801}district like the good kid you are.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Underling\0{F87A,46}{F813,0,80006}Ya don't, huh? See, this here's why{F801}I hate dealin' with dumb punks...{F801}{F802}{F813,0,80007}Ain't that right, bro?{F801}</source>
+    <target>{F812}Underling\0{F87A,46}{F813,0,80006}Ya don't, huh? See, this here's why{F801}I hate dealin' with dumb punks...{F801}{F802}{F813,0,80007}Ain't that right, bro?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Underling\0{F87A,46}{F813,0,80001}Hey, what're ya doin', comin' here?{F801}{F802}{F813,0,80004}This ain't a playground. You get what{F801}I'm sayin', right...?{F801}</source>
+    <target>{F812}Underling\0{F87A,46}{F813,0,80001}Hey, what're ya doin', comin' here?{F801}{F802}{F813,0,80004}This ain't a playground. You get what{F801}I'm sayin', right...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Menacing man\0{F87A,47}{F813,0,80008}Ah, give it up, man. You know how{F801}Mr. Tayama likes things around here.{F801}</source>
+    <target>{F812}Menacing man\0{F87A,47}{F813,0,80008}Ah, give it up, man. You know how{F801}Mr. Tayama likes things around here.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,80009}Please, sir, we do understand your{F801}words. It's merely that your accent{F801}is a bit on the thick side...{F801}{F802}{F813,0,80010}We're seeeking the Counter-Demon{F801}Force Base. Is it nearby?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,80009}Please, sir, we do understand your{F801}words. It's merely that your accent{F801}is a bit on the thick side...{F801}{F802}{F813,0,80010}We're seeeking the Counter-Demon{F801}Force Base. Is it nearby?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Underling\0{F87A,46}{F813,0,80011}Wh-Why d'ya wanna know about that?{F801}Who're you guys with?{F801}</source>
+    <target>{F812}Underling\0{F87A,46}{F813,0,80011}Wh-Why d'ya wanna know about that?{F801}Who're you guys with?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Menacing man\0{F87A,47}{F813,0,80012}Ya know, that reminds me... The boys{F801}at Sky said somethin' about angels{F801}comin' down.{F801}</source>
+    <target>{F812}Menacing man\0{F87A,47}{F813,0,80012}Ya know, that reminds me... The boys{F801}at Sky said somethin' about angels{F801}comin' down.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F813,0,80013}You're quite stubborn on that point,{F801}aren't you? Yes, we came from{F801}the surface, but we're no angels.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,80013}You're quite stubborn on that point,{F801}aren't you? Yes, we came from{F801}the surface, but we're no angels.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Underling\0{F87A,46}{F813,0,80014}B-Bro, it's really them!{F801}</source>
+    <target>{F812}Underling\0{F87A,46}{F813,0,80014}B-Bro, it's really them!{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Menacing man\0{F87A,47}{F813,0,80015}Well, ain't that fine? Let's kill{F801}'em before we wind up dead!{F801}</source>
+    <target>{F812}Menacing man\0{F87A,47}{F813,0,80015}Well, ain't that fine? Let's kill{F801}'em before we wind up dead!{F801}</target>
+  </entry>
+</mbm>

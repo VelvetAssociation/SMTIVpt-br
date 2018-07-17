@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Fierce-looking man\0{F87A,138}{F813,0,131001}Youse them, huh? The Samurai what{F801}handled Shibuya.{F801}{F802}{F813,0,131002}How do ya like this building, huh?{F801}Home of the rich and famous... An'{F801}all owned by the Ashura-kai.{F801}</source>
+    <target>{F812}Fierce-looking man\0{F87A,138}{F813,0,131001}Youse them, huh? The Samurai what{F801}handled Shibuya.{F801}{F802}{F813,0,131002}How do ya like this building, huh?{F801}Home of the rich and famous... An'{F801}all owned by the Ashura-kai.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Fierce-looking man\0{F87A,138}{F813,0,131003}Not impressed, are ya? Eh, fine.{F801}Take the elevator to the 52nd floor.{F801}{F802}{F813,0,131004}Mr. Tayama's waiting there with{F801}your friend.{F801}</source>
+    <target>{F812}Fierce-looking man\0{F87A,138}{F813,0,131003}Not impressed, are ya? Eh, fine.{F801}Take the elevator to the 52nd floor.{F801}{F802}{F813,0,131004}Mr. Tayama's waiting there with{F801}your friend.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 {F843,0} and his fellow Samurai{F801}entered the huge building...{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}entered the huge building...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Fierce-looking man\0{F87A,138}{F813,0,131005}Mr. Tayama said to me you're free to{F801}come and go.{F801}</source>
+    <target>{F812}Fierce-looking man\0{F87A,138}{F813,0,131005}Mr. Tayama said to me you're free to{F801}come and go.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 {F843,0} and his fellow Samurai{F801}entered the huge building...{F801}</source>
+    <target>〉 {F843,0} and his fellow Samurai{F801}entered the huge building...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+</mbm>

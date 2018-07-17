@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F87A,1}{F813,0,73001}Yo, yo, yo! Hold it right there,{F801}young man!{F801}{F802}{F813,0,73002}You jumped right into this Domain like{F801}a moth bein' drawn to the fire.{F801}</source>
+    <target>{F812}Voice\0{F87A,1}{F813,0,73001}Yo, yo, yo! Hold it right there,{F801}young man!{F801}{F802}{F813,0,73002}You jumped right into this Domain like{F801}a moth bein' drawn to the fire.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Earthy man\0{F87A,59}{F813,0,73003}It's been twenty years since I started{F801}looking after the Terminals. Folks{F801}call me the Terminal Guardian.{F801}</source>
+    <target>{F812}Earthy man\0{F87A,59}{F813,0,73003}It's been twenty years since I started{F801}looking after the Terminals. Folks{F801}call me the Terminal Guardian.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Earthy man\0{F87A,59}{F813,0,73004}People call me the... Wait, you again!?{F801}{F802}{F813,0,73005}Well, don't matter none... Just 'cause{F801}you got some skills don't mean you{F801}should let it go to your head!{F801}</source>
+    <target>{F812}Earthy man\0{F87A,59}{F813,0,73004}People call me the... Wait, you again!?{F801}{F802}{F813,0,73005}Well, don't matter none... Just 'cause{F801}you got some skills don't mean you{F801}should let it go to your head!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Earthy man\0{F87A,59}{F813,0,73006}I knew you'd come, kid. There's no way{F801}I'd forget my number one enemy's face.{F801}</source>
+    <target>{F812}Earthy man\0{F87A,59}{F813,0,73006}I knew you'd come, kid. There's no way{F801}I'd forget my number one enemy's face.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Earthy man\0{F87A,59}{F813,0,73007}There you are... Ever since you started{F801}showin' your face, my business has{F801}gone to pot!{F801}{F802}{F813,0,73008}You listen here! Puttin' food on the{F801}table for my family's no easy thing{F801}in this day and age!{F801}</source>
+    <target>{F812}Earthy man\0{F87A,59}{F813,0,73007}There you are... Ever since you started{F801}showin' your face, my business has{F801}gone to pot!{F801}{F802}{F813,0,73008}You listen here! Puttin' food on the{F801}table for my family's no easy thing{F801}in this day and age!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Earthy man\0{F87A,59}{F813,0,73009}Yo, did I surprise ya? I knew you'd{F801}come around here!{F801}{F802}{F813,0,73010}I still love this job, and I've always{F801}been proud of the work I do.{F801}{F802}{F813,0,73011}Don't no matter how much you get the best{F801}of me, I know I can take it.{F801}</source>
+    <target>{F812}Earthy man\0{F87A,59}{F813,0,73009}Yo, did I surprise ya? I knew you'd{F801}come around here!{F801}{F802}{F813,0,73010}I still love this job, and I've always{F801}been proud of the work I do.{F801}{F802}{F813,0,73011}Don't no matter how much you get the best{F801}of me, I know I can take it.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Earthy man\0{F87A,59}{F813,0,73012}Seein' as how I've found you here,{F801}you'd better get fixin' to die.{F801}{F802}{F813,0,73013}Least you'll be fertilizer for the{F801}famous cherry trees here!{F801}</source>
+    <target>{F812}Earthy man\0{F87A,59}{F813,0,73012}Seein' as how I've found you here,{F801}you'd better get fixin' to die.{F801}{F802}{F813,0,73013}Least you'll be fertilizer for the{F801}famous cherry trees here!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The demon's Domain has been lifted.{F801}</source>
+    <target>〉 The demon's Domain has been lifted.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400063}Looks like the quest is going well.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400062}Activating scan mode...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,405705}This is the Ueno Terminal.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,405705}This is the Ueno Terminal.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74001}I'm going to run the Terminal{F801}activation program.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,74002}Activation complete.{F801}{F802}{F813,0,74003}A link with other Terminals is{F801}established now. You can travel to{F801}them from here.{F801}</target>
+  </entry>
+</mbm>

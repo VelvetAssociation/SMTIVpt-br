@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F87B,3,12,1,2}{F813,0,52001}Ebon attire... I think that this can{F801}be none other than the Black Samurai.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F87B,3,12,1,2}{F813,0,52001}Ebon attire... I think that this can{F801}be none other than the Black Samurai.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,52002}What an unearthly appearance, though.{F801}I've never seen armor nor helmets{F801}the like of those.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,52002}What an unearthly appearance, though.{F801}I've never seen armor nor helmets{F801}the like of those.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,52003}Don't glare at me like that. I won't{F801}refuse those who yearn for me.{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,52003}Don't glare at me like that. I won't{F801}refuse those who yearn for me.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,3,12,1,2}{F813,0,52004}That voice... You're a woman.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,3,12,1,2}{F813,0,52004}That voice... You're a woman.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,52005}What kind of books do you prefer?{F801}I'll give you knowledge and wisdom.{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,52005}What kind of books do you prefer?{F801}I'll give you knowledge and wisdom.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F87B,3,12,1,2}{F813,0,52006}We have been ordered to restrain you.{F801}Resistance would be unwise.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F87B,3,12,1,2}{F813,0,52006}We have been ordered to restrain you.{F801}Resistance would be unwise.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,52007}But don't you want to know why I am{F801}distributing books?{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,52007}But don't you want to know why I am{F801}distributing books?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,52008}There will be time for you to justify{F801}yourself at Mikado Castle.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F813,0,52008}There will be time for you to justify{F801}yourself at Mikado Castle.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,52009}Oh... What pitiful children.{F801}{F802}{F813,0,52010}You aren't even allowed to realize how{F801}distorted and biased this kingdom is.{F801}{F802}{F813,0,52011}That's why I distribute books; to spread{F801}knowledge and wisdom to everyone.{F801}{F802}{F813,0,52012}Is that such a sin?{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,52009}Oh... What pitiful children.{F801}{F802}{F813,0,52010}You aren't even allowed to realize how{F801}distorted and biased this kingdom is.{F801}{F802}{F813,0,52011}That's why I distribute books; to spread{F801}knowledge and wisdom to everyone.{F801}{F802}{F813,0,52012}Is that such a sin?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F87B,3,12,1,2}{F813,0,52013}Enough boasts from you. You're in{F801}our custody now and that's that.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F87B,3,12,1,2}{F813,0,52013}Enough boasts from you. You're in{F801}our custody now and that's that.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,52014}I see. Your lack of knowledge and{F801}wisdom prevents you from understanding.{F801}{F802}{F813,0,52015}Come to the {F804,5}underground...{F804,0}{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F87B,12,1,1,1}{F813,0,52014}I see. Your lack of knowledge and{F801}wisdom prevents you from understanding.{F801}{F802}{F813,0,52015}Come to the {F804,5}underground...{F804,0}{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,52016}Underground? What are you talking{F801}about now?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,52016}Underground? What are you talking{F801}about now?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Black Samurai\0{F87A,12}{F813,0,52017}I must go, but I'll leave these girls{F801}to keep you company.{F801}</source>
+    <target>{F812}Black Samurai\0{F87A,12}{F813,0,52017}I must go, but I'll leave these girls{F801}to keep you company.{F801}</target>
+  </entry>
+</mbm>

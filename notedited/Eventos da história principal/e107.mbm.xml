@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0...Hello.{F801}</source>
+    <target>{F812}Voice\0...Hello.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hikaru\0{F87A,20}We meet again.{F801}</source>
+    <target>{F812}Hikaru\0{F87A,20}We meet again.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}Hikaru...? Why are you here...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Hikaru...? Why are you here...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hikaru\0{F87A,20}...That's what I was gonna ask you.{F801}{F802}I'm surprised you came to Ikebukuro{F801}on your own. I mean, It's not like{F801}she told you to.{F801}</source>
+    <target>{F812}Hikaru\0{F87A,20}...That's what I was gonna ask you.{F801}{F802}I'm surprised you came to Ikebukuro{F801}on your own. I mean, It's not like{F801}she told you to.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hikaru\0{F87A,20}Ikebukuro is a bad place for people{F801}who live in Tokyo. It's crawling with{F801}foreign demons!{F801}{F802}But it's funny...{F801}</source>
+    <target>{F812}Hikaru\0{F87A,20}Ikebukuro is a bad place for people{F801}who live in Tokyo. It's crawling with{F801}foreign demons!{F801}{F802}But it's funny...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hikaru\0{F87A,20}It was the reign of demons, who devour{F801}humans, which protected books from{F801}that man.{F801}</source>
+    <target>{F812}Hikaru\0{F87A,20}It was the reign of demons, who devour{F801}humans, which protected books from{F801}that man.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}Are you implying that there are books{F801}here...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}Are you implying that there are books{F801}here...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isabeau\0{F87A,5}Then I might finally read the rest of{F801}that manga...! Oh, ah... pardon me.{F801}{F802}The Black Samurai who smuggled books{F801}into our kingdom may be supplying{F801}them here as well.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}Then I might finally read the rest of{F801}that manga...! Oh, ah... pardon me.{F801}{F802}The Black Samurai who smuggled books{F801}into our kingdom may be supplying{F801}them here as well.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}You traveled all this way only to{F801}tell us that much?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}You traveled all this way only to{F801}tell us that much?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hikaru\0{F87A,20}That's right!{F801}{F802}I said I was interested in you guys,{F801}didn't I?{F801}</source>
+    <target>{F812}Hikaru\0{F87A,20}That's right!{F801}{F802}I said I was interested in you guys,{F801}didn't I?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hikaru\0{F87A,20}Okay, I'll be going now. I hope we{F801}meet again!{F801}</source>
+    <target>{F812}Hikaru\0{F87A,20}Okay, I'll be going now. I hope we{F801}meet again!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Hikaru walked away...{F801}</source>
+    <target>〉 Hikaru walked away...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}Hmph...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}Hmph...{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Burroughs\0{F87A,2}That sounds like my cue, Master.{F801}{F802}The quest to "Capture the Black{F801}Samurai"...{F801}{F802}Looks like it's going well.{F801}I'll keep rooting for you.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}That sounds like my cue, Master.{F801}{F802}The quest to "Capture the Black{F801}Samurai"...{F801}{F802}Looks like it's going well.{F801}I'll keep rooting for you.{F801}</target>
+  </entry>
+</mbm>

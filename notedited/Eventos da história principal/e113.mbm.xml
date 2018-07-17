@@ -1,0 +1,34 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-880}{F813,0,113001}...Hm? What is it? I only finished{F801}my dinner a moment ago.{F801}</source>
+    <target>{F812}Demon\0{F87A,-880}{F813,0,113001}...Hm? What is it? I only finished{F801}my dinner a moment ago.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-880}{F813,0,113002}But then, I find the people of this{F801}city to be very bland and unfilling...{F801}Is it perhaps their weak will?{F801}</source>
+    <target>{F812}Demon\0{F87A,-880}{F813,0,113002}But then, I find the people of this{F801}city to be very bland and unfilling...{F801}Is it perhaps their weak will?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-880}{F813,0,113003}I hope that when I devour you that you{F801}will be more pleasing to the palate...{F801}</source>
+    <target>{F812}Demon\0{F87A,-880}{F813,0,113003}I hope that when I devour you that you{F801}will be more pleasing to the palate...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The atmosphere in the area is changing...{F801}</source>
+    <target>〉 The atmosphere in the area is changing...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,113004}We'd have perished if not for the{F801}Ring of Gaea and that Kaga woman.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,113004}We'd have perished if not for the{F801}Ring of Gaea and that Kaga woman.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Walter\0{F87A,4}{F813,0,113005}Did you hear her words regarding...{F801}"Struggling," was it? The humans of{F801}Tokyo aren't altogether without merit.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,113005}Did you hear her words regarding...{F801}"Struggling," was it? The humans of{F801}Tokyo aren't altogether without merit.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,113006}"Humans"... You have the right of it.{F801}They are humans, just as we are.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,113006}"Humans"... You have the right of it.{F801}They are humans, just as we are.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400051}Congratulations on completing the quest.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You hear a voice coming from the other{F801}side of the wall...{F801}</source>
+    <target>〉 You hear a voice coming from the other{F801}side of the wall...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Voice\0{F813,1,403002}Is someone there...?{F801}</source>
+    <target>{F812}Voice\0{F813,1,403002}Is someone there...?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Voice\0Oh, I see. You're one of us. Looks{F801}like the Hunters have become the{F801}hunted.{F801}{F802}Welcome to the man-eating city of{F801}Ikebukuro.{F801}</source>
+    <target>{F812}Voice\0Oh, I see. You're one of us. Looks{F801}like the Hunters have become the{F801}hunted.{F801}{F802}Welcome to the man-eating city of{F801}Ikebukuro.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Voice\0There's no way anyone can take on{F801}Xi Wangmu... We've both come to the{F801}end of the line as Hunters...{F801}</source>
+    <target>{F812}Voice\0There's no way anyone can take on{F801}Xi Wangmu... We've both come to the{F801}end of the line as Hunters...{F801}</target>
+  </entry>
+</mbm>

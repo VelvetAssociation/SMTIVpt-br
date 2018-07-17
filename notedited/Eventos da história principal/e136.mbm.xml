@@ -1,0 +1,42 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Female voice\0Oh ho... I see you've come this far{F801}with the flame intact.{F801}</source>
+    <target>{F812}Female voice\0Oh ho... I see you've come this far{F801}with the flame intact.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 A woman from the Ring of Gaea stands{F801}in your way...{F801}</source>
+    <target>〉 A woman from the Ring of Gaea stands{F801}in your way...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}The main temple you're looking for is{F801}right in front of you.{F801}{F802}But if you want to pass... you must{F801}prove your strength to me.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}The main temple you're looking for is{F801}right in front of you.{F801}{F802}But if you want to pass... you must{F801}prove your strength to me.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Are you ready?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Are you ready?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>"Let us begin."{F801}"Not as yet..."{F801}</source>
+    <target>"Let us begin."{F801}"Not as yet..."{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Then I will summon my strongest demon.{F801}Fight for your life...!{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Then I will summon my strongest demon.{F801}Fight for your life...!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}...Then leave.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}...Then leave.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}...You're back?{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}...You're back?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}That makes four of you...{F801}{F802}Samurai from the Firmament... It seems{F801}you are a force to be reckoned with.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}That makes four of you...{F801}{F802}Samurai from the Firmament... It seems{F801}you are a force to be reckoned with.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}Now proceed.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}Now proceed.{F801}</target>
+  </entry>
+</mbm>

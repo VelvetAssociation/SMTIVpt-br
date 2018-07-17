@@ -1,0 +1,150 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Jonathan\0{F87A,1}{F813,0,151001}{F87B,3,12,1,1}{F87B,5,10,1,2}{F843,0}?{F801}Are you awake?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,1}{F813,0,151001}{F87B,3,12,1,1}{F87B,5,10,1,2}{F843,0}?{F801}Are you awake?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,5,10,1,2}{F813,0,151002}Thank heaven... Your madness was{F801}quite the sight to see.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F87B,5,10,1,2}{F813,0,151002}Thank heaven... Your madness was{F801}quite the sight to see.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F87B,4,11,1,1}{F813,0,151003}Doffing your pants and then doing{F801}that thing with your nose--{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F87B,4,11,1,1}{F813,0,151003}Doffing your pants and then doing{F801}that thing with your nose--{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,11,1,1}{F813,0,151004}That's quite enough...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,11,1,1}{F813,0,151004}That's quite enough...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,151005}Good morning, Samurai.{F801}{F802}{F813,0,151006}I see you enjoyed the scent of my{F801}Yaso Magatsuhi.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,151005}Good morning, Samurai.{F801}{F802}{F813,0,151006}I see you enjoyed the scent of my{F801}Yaso Magatsuhi.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Tayama shook Card Keys 2 through 4{F801}at {F843,0}.{F801}</source>
+    <target>〉 Tayama shook Card Keys 2 through 4{F801}at {F843,0}.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,151007}Oh, and I'll be taking these back.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,151007}Oh, and I'll be taking these back.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Tayama\0{F87A,17}{F813,0,151008}What were you doing down there?{F801}Yuriko's still alive and kicking.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,0,151008}What were you doing down there?{F801}Yuriko's still alive and kicking.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,5,10,1,2}{F813,0,151009}That Yuriko told us a curious thing.{F801}She said that you're the true evil...{F801}{F802}{F813,0,151010}And I understand what she meant after{F801}paying your utopia a visit.{F801}{F802}{F87B,4,12,1,2}{F813,0,151011}Being labeled a "true evil" by a{F801}demon; quite an honor, wouldn't you{F801}say, Mr. Tayama?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F87B,5,10,1,2}{F813,0,151009}That Yuriko told us a curious thing.{F801}She said that you're the true evil...{F801}{F802}{F813,0,151010}And I understand what she meant after{F801}paying your utopia a visit.{F801}{F802}{F87B,4,12,1,2}{F813,0,151011}Being labeled a "true evil" by a{F801}demon; quite an honor, wouldn't you{F801}say, Mr. Tayama?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Glaring man\0{F87A,47}{F813,0,151012}"By a demon"...?{F801}{F802}{F813,0,151013}Y-You mean that Yuriko's a demon?{F801}</source>
+    <target>{F812}Glaring man\0{F87A,47}{F813,0,151012}"By a demon"...?{F801}{F802}{F813,0,151013}Y-You mean that Yuriko's a demon?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,0,151014}What group's she from? What the hell{F801}is Mastema doing?{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,0,151014}What group's she from? What the hell{F801}is Mastema doing?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,151015}I see... That bitch...{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,151015}I see... That bitch...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,151016}You don't know...{F801}{F802}{F813,0,151017}You didn't see how horrible it was in{F801}Tokyo when the Firmament appeared out{F801}of nowhere.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,151016}You don't know...{F801}{F802}{F813,0,151017}You didn't see how horrible it was in{F801}Tokyo when the Firmament appeared out{F801}of nowhere.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151018}You seen the busted-up buildings all{F801}over the place? That wasn't all demons{F801}who did that, you know.{F801}{F802}{F813,0,151019}Most of it was humans fighting over{F801}food and electricity.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151018}You seen the busted-up buildings all{F801}over the place? That wasn't all demons{F801}who did that, you know.{F801}{F802}{F813,0,151019}Most of it was humans fighting over{F801}food and electricity.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151020}When people get backed into a corner,{F801}they stop thinkin' about the{F801}consequences.{F801}{F802}{F813,0,151021}They don't think twice about their{F801}fellow man when their own lives are{F801}on the line.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151020}When people get backed into a corner,{F801}they stop thinkin' about the{F801}consequences.{F801}{F802}{F813,0,151021}They don't think twice about their{F801}fellow man when their own lives are{F801}on the line.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F87B,4,3,1,1}{F813,0,151022}The Unclean Ones... They're like demons.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,2,1,1}{F87B,4,3,1,1}{F813,0,151022}The Unclean Ones... They're like demons.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151023}That's a good example, kid.{F801}{F802}{F813,0,151024}Humans who think of nothing but{F801}themselves are exactly like demons.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151023}That's a good example, kid.{F801}{F802}{F813,0,151024}Humans who think of nothing but{F801}themselves are exactly like demons.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151025}You're right... humans are weak.{F801}{F802}{F813,0,151026}That's why I built my utopia, why I'm{F801}protecting them from the demons.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151025}You're right... humans are weak.{F801}{F802}{F813,0,151026}That's why I built my utopia, why I'm{F801}protecting them from the demons.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,3,1,1}{F87B,5,10,1,2}{F813,0,151027}Humans are weak...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,3,1,1}{F87B,5,10,1,2}{F813,0,151027}Humans are weak...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151028}Face the facts.{F801}{F802}{F813,0,151029}We have to live with the demons.{F801}We can't move to anywhere else.{F801}{F802}{F813,0,151030}So if we're going to survive here in{F801}Tokyo, we need to help each other out.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151028}Face the facts.{F801}{F802}{F813,0,151029}We have to live with the demons.{F801}We can't move to anywhere else.{F801}{F802}{F813,0,151030}So if we're going to survive here in{F801}Tokyo, we need to help each other out.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,151031}I keep the demons sweet with red pills{F801}for the sake of everyone living in{F801}Tokyo.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,151031}I keep the demons sweet with red pills{F801}for the sake of everyone living in{F801}Tokyo.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,151032}We give demons food--the red pills--and{F801}they promise not to eat humans...{F801}{F802}{F87B,17,4,1,1}{F813,0,151033}It's a reasonable system, wouldn't{F801}you say?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,2,1,1}{F813,0,151032}We give demons food--the red pills--and{F801}they promise not to eat humans...{F801}{F802}{F87B,17,4,1,1}{F813,0,151033}It's a reasonable system, wouldn't{F801}you say?{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Glaring man\0{F87A,47}{F813,0,151034}We patrol the streets so the demons{F801}don't get into the underground cities.{F801}</source>
+    <target>{F812}Glaring man\0{F87A,47}{F813,0,151034}We patrol the streets so the demons{F801}don't get into the underground cities.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Unfriendly man\0{F87A,46}{F813,0,151035}The people underground don't know{F801}anything about it, so all they do{F801}is complain to us.{F801}</source>
+    <target>{F812}Unfriendly man\0{F87A,46}{F813,0,151035}The people underground don't know{F801}anything about it, so all they do{F801}is complain to us.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151036}If everyone had humanity's best{F801}interests in mind like I do, maybe{F801}we wouldn't need the red pills.{F801}{F802}{F813,0,151037}Sadly, there are people in this world{F801}who can't do that.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151036}If everyone had humanity's best{F801}interests in mind like I do, maybe{F801}we wouldn't need the red pills.{F801}{F802}{F813,0,151037}Sadly, there are people in this world{F801}who can't do that.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151038}So we need to get those people to make{F801}their contributions to Tokyo some way,{F801}right...?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151038}So we need to get those people to make{F801}their contributions to Tokyo some way,{F801}right...?{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F87B,5,2,1,1}{F813,0,151039}And thus the people of the underground{F801}cities become fodder for your red{F801}pills...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F87B,5,2,1,1}{F813,0,151039}And thus the people of the underground{F801}cities become fodder for your red{F801}pills...?{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151040}We make sure to set 'em up with the{F801}kind of life they couldn't dream of{F801}down underground.{F801}{F802}{F813,0,151041}And we always hold the highest respect{F801}and appreciation for their noble{F801}sacrifices.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151040}We make sure to set 'em up with the{F801}kind of life they couldn't dream of{F801}down underground.{F801}{F802}{F813,0,151041}And we always hold the highest respect{F801}and appreciation for their noble{F801}sacrifices.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,151042}...Was that intended as a joke?{F801}{F802}{F813,0,151043}So the masses live on the backs of the{F801}minority? That's quite the utopia{F801}you've built.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,2}{F813,0,151042}...Was that intended as a joke?{F801}{F802}{F813,0,151043}So the masses live on the backs of the{F801}minority? That's quite the utopia{F801}you've built.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,151044}Have you ever considered how your{F801}sacrifices feel about this...!?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,2,1,1}{F813,0,151044}Have you ever considered how your{F801}sacrifices feel about this...!?{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151045}......{F801}{F802}{F87B,17,2,1,1}{F813,0,151046}If you don't got the guts to get your{F801}hands dirty, you don't get to say{F801}shit about it.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151045}......{F801}{F802}{F87B,17,2,1,1}{F813,0,151046}If you don't got the guts to get your{F801}hands dirty, you don't get to say{F801}shit about it.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151047}I'll let you go today...{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151047}I'll let you go today...{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151048}But don't forget to kill Yuriko.{F801}Nobody's going to protect the human{F801}world but humans.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,1,1,1}{F813,0,151048}But don't forget to kill Yuriko.{F801}Nobody's going to protect the human{F801}world but humans.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Glaring man\0{F87A,47}{F813,0,151050}......{F801}</source>
+    <target>{F812}Glaring man\0{F87A,47}{F813,0,151050}......{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,0,151051}...Gah! Hold on... My neck...{F801}Stop it...!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,0,151051}...Gah! Hold on... My neck...{F801}Stop it...!{F801}</target>
+  </entry>
+  <entry id="132">
+    <source>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151049}You got that? I won't go easy on your{F801}asses next time.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F87B,17,4,1,1}{F813,0,151049}You got that? I won't go easy on your{F801}asses next time.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>※10月ROM対応箇所です{F801}{F802}タヤマの部屋で目を覚まします{F801}{F802}ここでクÉスト達成処理が入ります{F801}『六本木に隠された真実を調査せよ』 達成{F801}</source>
+    <target>※10月ROM対応箇所です{F801}{F802}タヤマの部屋で目を覚まします{F801}{F802}ここでクÉスト達成処理が入ります{F801}『六本木に隠された真実を調査せよ』 達成{F801}</target>
+  </entry>
+</mbm>

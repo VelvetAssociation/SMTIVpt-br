@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hope\0{F87A,8}{F813,0,58009}All Samurai, this is Hope speaking.{F801}{F802}{F813,0,58010}Assemble in Aquila Plaza at once.{F801}There will be an important announcement.{F801}{F802}{F813,0,58011}Once more: assemble in Aquila Plaza{F801}immediately.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,58009}All Samurai, this is Hope speaking.{F801}{F802}{F813,0,58010}Assemble in Aquila Plaza at once.{F801}There will be an important announcement.{F801}{F802}{F813,0,58011}Once more: assemble in Aquila Plaza{F801}immediately.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F813,0,58001}...We meet again.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,58001}...We meet again.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,4}{F813,0,58002}Have you begun to notice yet? How{F801}this world is beyond salvation...{F801}{F802}{F813,0,58003}Let us wipe the slate clean and create{F801}a new one together!{F801}{F802}{F813,0,58004}Hurry to the underground...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,58002}Have you begun to notice yet? How{F801}this world is beyond salvation...{F801}{F802}{F813,0,58003}Let us wipe the slate clean and create{F801}a new one together!{F801}{F802}{F813,0,58004}Hurry to the underground...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,58005}You cannot let suspicion fester into{F801}idle fear.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,58005}You cannot let suspicion fester into{F801}idle fear.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,58006}Would you destroy what our forebears{F801}have wrought over a passing delusion?{F801}{F802}{F813,0,58007}We are charged with keeping the peace{F801}we know today for the children of{F801}tomorrow.{F801}{F802}{F813,0,58008}You musn't go to the underground...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,58006}Would you destroy what our forebears{F801}have wrought over a passing delusion?{F801}{F802}{F813,0,58007}We are charged with keeping the peace{F801}we know today for the children of{F801}tomorrow.{F801}{F802}{F813,0,58008}You musn't go to the underground...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 The next day...{F801}</source>
+    <target>〉 The next day...{F801}</target>
+  </entry>
+</mbm>

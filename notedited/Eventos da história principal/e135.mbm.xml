@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>〉 There's a huge temple in front of you...{F801}</source>
+    <target>〉 There's a huge temple in front of you...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Enter{F801}Walk away{F801}</source>
+    <target>Enter{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135001}...You have come, my brother. Lady{F801}Yuriko knows all.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135001}...You have come, my brother. Lady{F801}Yuriko knows all.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135002}We caught an intruder... Some punk{F801}from the Ashura-kai.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135002}We caught an intruder... Some punk{F801}from the Ashura-kai.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135003}I'm on patrol, so I can't escort you,{F801}but don't keep Lady Yuriko waiting.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135003}I'm on patrol, so I can't escort you,{F801}but don't keep Lady Yuriko waiting.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The brawny man walked away...{F801}</source>
+    <target>〉 The brawny man walked away...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Glaring man\0{F87A,46}{F813,0,135004}Oh... You came...?{F801}</source>
+    <target>{F812}Glaring man\0{F87A,46}{F813,0,135004}Oh... You came...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Glaring man\0{F87A,46}{F813,0,135005}Because you took so long... Mr. Tayama{F801}sent us instead...{F801}</source>
+    <target>{F812}Glaring man\0{F87A,46}{F813,0,135005}Because you took so long... Mr. Tayama{F801}sent us instead...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Glaring man\0{F87A,46}{F813,0,135006}Y... You can't get in from the front.{F801}But under... the bench...{F801}{F802}{F813,0,135007}There's... a manhole... Open it...{F801}and a hidden pa...{F801}</source>
+    <target>{F812}Glaring man\0{F87A,46}{F813,0,135006}Y... You can't get in from the front.{F801}But under... the bench...{F801}{F802}{F813,0,135007}There's... a manhole... Open it...{F801}and a hidden pa...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The man died, a glare in his eyes{F801}to the last...{F801}</source>
+    <target>〉 The man died, a glare in his eyes{F801}to the last...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>Enter{F801}Head for the bench{F801}Walk away{F801}</source>
+    <target>Enter{F801}Head for the bench{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 The gate is tightly shut. You can't{F801}proceed any further...{F801}</source>
+    <target>〉 The gate is tightly shut. You can't{F801}proceed any further...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 {F843,0} opened the manhole lid{F801}hidden under the bench...{F801}{F802}〉 {F843,0} climbed down the ladder{F801}and entered Tsukiji Hongwanji.{F801}</source>
+    <target>〉 {F843,0} opened the manhole lid{F801}hidden under the bench...{F801}{F802}〉 {F843,0} climbed down the ladder{F801}and entered Tsukiji Hongwanji.{F801}</target>
+  </entry>
+</mbm>

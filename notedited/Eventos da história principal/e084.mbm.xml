@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>〉 An array of machines is lined up{F801}before you.{F801}{F802}〉 Burroughs scanned the room.{F801}</source>
+    <target>〉 An array of machines is lined up{F801}before you.{F801}{F802}〉 Burroughs scanned the room.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,84001}This is the Counter-Demon Force's{F801}briefing room.{F801}{F802}{F813,0,84002}Huh... It feels familiar for some{F801}reason...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,84001}This is the Counter-Demon Force's{F801}briefing room.{F801}{F802}{F813,0,84002}Huh... It feels familiar for some{F801}reason...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,84003}What's the matter, Burroughs?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,84003}What's the matter, Burroughs?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,84004}Who knows? I don't have emotions in{F801}the first place...{F801}{F802}{F813,0,84005}Okay then, I'll start retrieving the{F801}data here.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,84004}Who knows? I don't have emotions in{F801}the first place...{F801}{F802}{F813,0,84005}Okay then, I'll start retrieving the{F801}data here.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Burroughs accessed the terminal and{F801}retrieved data from the briefing room.{F801}</source>
+    <target>〉 Burroughs accessed the terminal and{F801}retrieved data from the briefing room.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,84006}Master {F843,0}, I've forwarded the{F801}important data to the Monastery.{F801}{F802}{F813,0,84007}Congratulations on completing the quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,84006}Master {F843,0}, I've forwarded the{F801}important data to the Monastery.{F801}{F802}{F813,0,84007}Congratulations on completing the quest.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,84008}Glory be to you Blessed Samurai.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,84008}Glory be to you Blessed Samurai.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,84009}Ah... Remind me who this woman is?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,84009}Ah... Remind me who this woman is?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,84010}W-Walter! How terribly rude! She's{F801}Sister Gabby of the Monastery.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,84010}W-Walter! How terribly rude! She's{F801}Sister Gabby of the Monastery.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,84011}Burroughs has made me aware of your{F801}discovery of the Counter-Demon{F801}Force Base.{F801}{F802}{F813,0,84012}I shall continue to look forward to{F801}your meritorious service.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,84011}Burroughs has made me aware of your{F801}discovery of the Counter-Demon{F801}Force Base.{F801}{F802}{F813,0,84012}I shall continue to look forward to{F801}your meritorious service.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,84013}But I come to you with a message{F801}from Abbot Hugo.{F801}{F802}{F813,0,84014}He asks that you retrieve certain{F801}mystic relics.{F801}{F802}{F813,0,84015}On the occasion that you return to the{F801}Eastern Kingdom of Mikado, please{F801}consult the blackboard in K's Tavern.{F801}{F802}{F813,0,84016}That is all. Until we speak next,{F801}Blessed Samurai...{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,84013}But I come to you with a message{F801}from Abbot Hugo.{F801}{F802}{F813,0,84014}He asks that you retrieve certain{F801}mystic relics.{F801}{F802}{F813,0,84015}On the occasion that you return to the{F801}Eastern Kingdom of Mikado, please{F801}consult the blackboard in K's Tavern.{F801}{F802}{F813,0,84016}That is all. Until we speak next,{F801}Blessed Samurai...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,84017}Aren't we meant to be hunting the{F801}Black Samurai? That Hugo...{F801}{F802}{F813,0,84018}Now he's outright telling us to find{F801}him mystic relics. Perhaps it really{F801}was them he was after all along...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,84017}Aren't we meant to be hunting the{F801}Black Samurai? That Hugo...{F801}{F802}{F813,0,84018}Now he's outright telling us to find{F801}him mystic relics. Perhaps it really{F801}was them he was after all along...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,84019}Don't be that way, Walter.{F801}{F802}{F813,0,84020}Think of it this way: bringing back{F801}mystic relics can only enrich the{F801}lives of the people of Mikado.{F801}{F802}{F813,0,84021}I'm certain Abbot Hugo only issues{F801}such orders because he has the{F801}people's happiness at heart.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,84019}Don't be that way, Walter.{F801}{F802}{F813,0,84020}Think of it this way: bringing back{F801}mystic relics can only enrich the{F801}lives of the people of Mikado.{F801}{F802}{F813,0,84021}I'm certain Abbot Hugo only issues{F801}such orders because he has the{F801}people's happiness at heart.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>"I share your view of it."{F801}"I am not so certain..."{F801}</source>
+    <target>"I share your view of it."{F801}"I am not so certain..."{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,84023}So quick to obey, aren't you,{F801}{F843,0}?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,6,1,1}{F813,0,84023}So quick to obey, aren't you,{F801}{F843,0}?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,84024}Walter, what profit would it be if{F801}we, the Samurai who serve the court,{F801}lost faith in our kingdom?{F801}{F802}{F813,0,84025}At the least, we have the King and the{F801}Monastery to thank for the tranquil{F801}lives we've always known thus far.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,84024}Walter, what profit would it be if{F801}we, the Samurai who serve the court,{F801}lost faith in our kingdom?{F801}{F802}{F813,0,84025}At the least, we have the King and the{F801}Monastery to thank for the tranquil{F801}lives we've always known thus far.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,84026}I'll grant that, but...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,9,1,1}{F813,0,84026}I'll grant that, but...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,84027}Do you hear that, Jonathan?{F801}{F802}{F813,0,84028}Trust the kingdom too much, and they'll{F801}eventually play you for a rube.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,84027}Do you hear that, Jonathan?{F801}{F802}{F813,0,84028}Trust the kingdom too much, and they'll{F801}eventually play you for a rube.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,84029}I don't believe that at all, Walter.{F801}{F802}{F813,0,84030}Why, I'd say we have the King and the{F801}Monastery to thank for the tranquil{F801}lives we've always known thus far.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,12,1,1}{F813,0,84029}I don't believe that at all, Walter.{F801}{F802}{F813,0,84030}Why, I'd say we have the King and the{F801}Monastery to thank for the tranquil{F801}lives we've always known thus far.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,84031}That's quite enough, I think...{F801}{F802}{F813,0,84032}The Black Samurai has ties to Tokyo,{F801}this much is certain. At least we've{F801}made progress in learning that.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,84031}That's quite enough, I think...{F801}{F802}{F813,0,84032}The Black Samurai has ties to Tokyo,{F801}this much is certain. At least we've{F801}made progress in learning that.{F801}</target>
+  </entry>
+  <entry id="119">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,84033}There's still more we don't know.{F801}{F802}{F813,0,84034}If only there was a large town where{F801}the Unclean Ones gathered...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,1}{F813,0,84033}There's still more we don't know.{F801}{F802}{F813,0,84034}If only there was a large town where{F801}the Unclean Ones gathered...{F801}</target>
+  </entry>
+  <entry id="212">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,84022}Wouldn't you say so, {F843,0}?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,84022}Wouldn't you say so, {F843,0}?{F801}</target>
+  </entry>
+</mbm>
