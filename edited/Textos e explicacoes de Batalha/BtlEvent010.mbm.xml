@@ -1,0 +1,46 @@
+﻿<mbm>
+  <entry id="0">
+    <source>〉 Would you like to hear an{F801}explanation of the battle system?{F801}{F802}</source>
+    <target>〉 Voce gostaria de ouvir uma explicacao sobre{F801}o sistema de batalha?{F801}{F802}</target>
+  </entry>
+  <entry id="1">
+    <source>Escutar{F801}Don't listen to it{F801}</source>
+    <target>Ouvir{F801}Nao ouvir{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Your team's turn will now begin.{F801}First, look at the upper right corner.{F801}{F802}The green icon displayed here shows the{F801}{F804,5}number of times you can act this turn.{F804,0}{F801}These icons are called {F804,5}Press Turn Icons.{F804,0}{F801}{F802}There is currently {F804,5}1{F804,0} icon, showing that{F801}you can {F804,5}act once{F804,0} this turn. Select{F801}{F804,5}Attack{F804,0} from the command list to attack{F801}the enemy.{F801}</source>
+    <target>O turno do seu time ira comecar agora.{F801}Primeiro, olhe para o canto superior direito.{F801}{F802}O icone verde mostra o numero de vezes{F801}{F804,5}que voce pode agir neste turno.{F804,0}{F801}Estes icones sao chamados de {F804,5}Icones de Turno.{F804,0}{F801}{F802}Atualmente tem {F804,5}1{F804,0} icone, mostrando-lhe que voce{F801}pode {F804,5}agir uma vez{F804,0} neste turno. Selecione{F801}{F804,5}Atacar{F804,0} da lista de comando para{F801}atacar o inimigo.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>You succeeded in damaging the enemy.{F801}{F802}Look at the Press Turn Icon. The icon{F801}that was there before has disappeared.{F801}{F802}One icon equates to one action, so using{F801}that attack expended one icon.{F801}</source>
+    <target>Voce conseguiu dar dano ao inimigo.{F801}{F802}Olhe para o Icone de Turno. O icone que{F801}estava ali antes dessapareceu.{F801}{F802}Um icone significa uma acao, entao em fazer{F801}aquele ataque foi gasto um icone.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>[先/さき]ほどスáÍムに[攻撃/こうげき]したときとは[違/ちが]い{F801}[緑/みどり]のÁÍコñが1[回/かい]の[攻撃/こうげき]で1[個/こ]{F801}[消費/しょうひ]されました{F801}{F802}[緑/みどり]のÁÍコñの[数/かず]が0になりましたので{F801}[味方/みかた]が[行動/こうどう]できる[回数/かいすう]は[増/ふ]えることなく{F801}[敵/てき]の[行動/こうどう]ターñが[開始/かいし]されます{F801}</source>
+    <target>[先/さき]ほどスáÍムに[攻撃/こうげき]したときとは[違/ちが]い{F801}[緑/みどり]のÁÍコñが1[回/かい]の[攻撃/こうげき]で1[個/こ]{F801}[消費/しょうひ]されました{F801}{F802}[緑/みどり]のÁÍコñの[数/かず]が0になりましたので{F801}[味方/みかた]が[行動/こうどう]できる[回数/かいすう]は[増/ふ]えることなく{F801}[敵/てき]の[行動/こうどう]ターñが[開始/かいし]されます{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>You damaged the enemy and struck its{F801}weakness as well.{F801}{F802}Look at the Press Turn Icon. It should{F801}be shining brightly, indicating that{F801}{F804,5}you can act once more.{F804,0}{F801}{F802}By attacking with {F804,5}an element the enemy{F801}is weak against,{F804,0} a normal icon will begin{F801}to shine and you can act once more.{F801}{F802}In this case, because {F804,5}the Slime was weak{F801}to the Phys element{F804,0} of {F843,0}'s{F801}normal attack, the icon shined and {F804,5}you{F801}can act once more.{F804,0}{F801}{F802}</source>
+    <target>Voce feriu o inimigo e tambem acertou a{F801}sua fraqueza.{F801}{F802}Olhe para o Icone de Turno. Ele deve estar{F801}brilhando fortemente, indicando que{F801}{F804,5}voce pode agir mais uma vez.{F804,0}{F801}{F802}Em atacar com {F804,5}um elemento que o inimigo{F801}seja fraco contra,{F804,0} um icone normal ira comecar a{F801}brilhar e voce podera agir novamente.{F801}{F802}Neste caso, ja que a {F804,5}Gosma e fraca contra{F801}o elemento Fis{F804,0} do ataque normal de {F843,0}{F801}o icone brilhou e {F804,5}voce pode agir mais{F801}uma vez.{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>The number of Press Turn Icons has been{F801}reduced to 0.{F801}{F802}You have no more icons showing your{F801}number of actions, which ends your turn.{F801}The enemy's turn will begin now.{F801}</source>
+    <target>O numero de Icones de Turno foi reduzido{F801}para 0.{F801}{F802}Voce nao tem mais icones mostrando seu{F801}numero de acoes, o que significa o fim de{F801}seu turno. O turno do inimigo comecara agora.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>Attacking the Slime was different from{F801}attacking Lham Dearg in that you struck{F801}its weakness and the Press Turn Icon{F801}shined, allowing you to act again.{F801}{F802}{F804,5}Striking enemy weaknesses to increase{F801}the number of times you can act{F804,0} will be{F801}the key to gaining the advantage in{F801}battle.{F801}{F802}You struck a weakness with a normal{F801}attack this time, but by gaining new{F801}skills such as ice and electric attacks,{F801}you can strike other weaknesses as well.{F801}{F802}Also, your actions can not only increase,{F801}but {F804,5}decrease{F804,0} as well.{F801}{F802}When an {F804,5}attack misses or is nulled,{F804,0}{F801}it will use more icons than normal,{F801}decreasing your number of actions.{F801}{F802}This rule applies to the enemy's actions{F801}as well.{F801}{F802}If the enemy strikes your weakness, {F804,5}it{F801}will gain actions,{F804,0} while if the enemy's{F801}attack is evaded or nulled, {F804,5}you can{F801}cause the enemy to lose actions.{F804,0}{F801}{F802}That sums up the basic flow of battle.{F801}Concentrate on {F804,5}both sides' weaknesses and{F801}remaining Press Turns{F804,0} to take control of{F801}the tide of battle.{F801}{F802}</source>
+    <target>Atacar a Gosma foi diferente de atacar{F801}Lham Dearg pois voce atingiu seu ponto fraco{F801}e o Icone de Turno brilhou, permitindo que voce{F801}agisse novamente.{F801}{F802}{F804,5}Atingir a fraqueza do inimigo e aumentar{F801}o numero de vezes que voce pode agir{F804,0} sera{F801}a chave de ganhar a vantagem em batalhas.{F801}{F802}Voce havia atingido a fraqueza com um ataque{F801}normal, mas enquanto voce for ganhando novas{F801}habilidades como ataques de gelo e eletricidade,{F801}voce tambem podera atingir outras fraquezas.{F801}{F802}Inclusive, suas acoes alem de aumentar, tambem{F801}podem {F804,5}diminuir{F804,0}.{F801}{F802}Quando um {F804,5}ataque falha ou e anulado,{F804,0}{F801}ele ira usar mais icones que o normal,{F801}diminuindo seu numero de acoes.{F801}{F802}Esta regra tambem se aplica as{F801}acoes de seu inimigo.{F801}{F802}Se o inimigo acertar a sua fraqueza, {F804,5}ele{F801}ira ganhar acoes,{F804,0} enquanto que se o ataque do{F801}inimigo for evadido ou anulado, {F804,5}voce pode{F801}fazer o inimigo perder acoes.{F804,0}{F801}{F802}Isso resume o fluxo basico de uma batalha.{F801}Concentre-se nas {F804,5}fraquezas de ambos os lados e{F801}Icones de Turno restantes{F804,0} para ter o controle{F801}da lideranca da batalha.{F801}{F802}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Demon\0{F813,1,413204}A human... A human is here!{F801}{F802}You never learn. You were a fool to{F801}venture into our nest of evil.{F801}{F802}I hope you are prepared to die at{F801}the hands of a demon!{F801}</source>
+    <target>{F812}Demon\0{F813,1,413204}Um humano... Um humano esta aqui!{F801}{F802}Voces nunca aprendem. Voce foi tolo de{F801}se aventurar em nosso ninho de perversidade.{F801}{F802}Espero que voce esteja preparado para{F801}morrer pelas maos de um demonio!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 End the explanation and continue{F801}the battle?{F801}</source>
+    <target>〉 Finalizar a explicacao e continuar{F801}a batalha?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>Continue the battle{F801}Hear the explanation again{F801}</source>
+    <target>Continuar a batalha{F801}Ouvir a explicacao novamente{F801}</target>
+  </entry>
+</mbm>

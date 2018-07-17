@@ -1,0 +1,14 @@
+﻿<mbm>
+  <entry id="0">
+    <source>Try and befriend a demon by talking{F801}to it.{F801}{F802}Select {F804,5}Talk{F804,0} from the command list and{F801}then {F804,5}Scout.{F804,0} This will invite the demon{F801}to join you.{F801}{F802}Before they do so, demons will ask you{F801}questions and make demands, so answer{F801}them well for a successful conversation.{F801}{F802}</source>
+    <target>Tente fazer um vinculo com um demonio{F801}falando com ele.{F801}{F802}Selecione {F804,5}Conversar{F804,0} da lista de comando e{F801}entao {F804,5}Negociar.{F804,0} Isso ira convidar o demonio{F801}a se juntar a voce.{F801}{F802}Antes que eles cheguem a tal ponto, demonios{F801}irao fazer pergunas e demandas, entao{F801}os responda bem para ter uma conversa bem{F801}sucedida.{F801}{F802}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Finalizar a explicacao e continuar{F801}a batalha?{F801}</source>
+    <target>〉 Finalizar a explicacao e continuar{F801}a batalha?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Continue the battle{F801}Hear the explanation again{F801}</source>
+    <target>Continuar a batalha{F801}Ouvir a explicacao novamente{F801}</target>
+  </entry>
+</mbm>
