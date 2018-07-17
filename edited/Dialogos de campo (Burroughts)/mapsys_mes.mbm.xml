@@ -1,0 +1,318 @@
+﻿<mbm>
+  <entry id="100">
+    <source>〉 There's an elevator here.{P801}Which floor will you go to?{P801}</source>
+    <target>〉 Tem um elevador aqui.{P801}Para qual andar voce quer ir?{P801}</target>
+  </entry>
+  <entry id="101">
+    <source>2nd Observation Platform{P801}Cancelar{P801}</source>
+    <target>2ª Plataforma de Observacao{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="102">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="103">
+    <source>B1P{P801}Cancelar{P801}</source>
+    <target>B1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="104">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="105">
+    <source>B1P{P801}Cancelar{P801}</source>
+    <target>B1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="106">
+    <source>B1P{P801}Cancelar{P801}</source>
+    <target>B1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="107">
+    <source>B3P{P801}Cancelar{P801}</source>
+    <target>B3P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="108">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="109">
+    <source>B2P{P801}Cancelar{P801}</source>
+    <target>B2P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="110">
+    <source>B1P{P801}Cancelar{P801}</source>
+    <target>B1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="111">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="112">
+    <source>B3P{P801}Cancelar{P801}</source>
+    <target>B3P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="113">
+    <source>B2P{P801}Cancelar{P801}</source>
+    <target>B2P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="114">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="115">
+    <source>33P{P801}Cancelar{P801}</source>
+    <target>33P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="116">
+    <source>54P{P801}Cancelar{P801}</source>
+    <target>54P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="117">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="118">
+    <source>43P{P801}Cancelar{P801}</source>
+    <target>43P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="119">
+    <source>33P{P801}Cancelar{P801}</source>
+    <target>33P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="120">
+    <source>54P{P801}Cancelar{P801}</source>
+    <target>54P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="121">
+    <source>43P{P801}Cancelar{P801}</source>
+    <target>43P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="122">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="123">
+    <source>B8P{P801}B9P{P801}Cancelar{P801}</source>
+    <target>B8P{P801}B9P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="124">
+    <source>B51P{P801}Cancelar{P801}</source>
+    <target>B51P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="125">
+    <source>B7P{P801}B9P{P801}Cancelar{P801}</source>
+    <target>B7P{P801}B9P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="126">
+    <source>B7P{P801}B8P{P801}Cancelar{P801}</source>
+    <target>B7P{P801}B8P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="127">
+    <source>B51P{P801}Cancelar{P801}</source>
+    <target>B51P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="128">
+    <source>B9P{P801}Cancelar{P801}</source>
+    <target>B9P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="129">
+    <source>B51P{P801}Cancelar{P801}</source>
+    <target>B51P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="130">
+    <source>B51P{P801}Cancelar{P801}</source>
+    <target>B51P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="131">
+    <source>B7P{P801}Cancelar{P801}</source>
+    <target>B7P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="132">
+    <source>〉 O elevador esta trancado.{P801}</source>
+    <target>〉 O elevador esta trancado.{P801}</target>
+  </entry>
+  <entry id="133">
+    <source>〉 O elevador esta trancado.{P801}</source>
+    <target>〉 O elevador esta trancado.{P801}</target>
+  </entry>
+  <entry id="134">
+    <source>B1P{P801}Cancelar{P801}</source>
+    <target>B1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="135">
+    <source>B2P{P801}Cancelar{P801}</source>
+    <target>B2P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="136">
+    <source>B3P{P801}Cancelar{P801}</source>
+    <target>B3P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="137">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="138">
+    <source>B1P{P801}Cancelar{P801}</source>
+    <target>B1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="139">
+    <source>B2P{P801}Cancelar{P801}</source>
+    <target>B2P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="140">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="141">
+    <source>B1P{P801}Cancelar{P801}</source>
+    <target>B1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="142">
+    <source>B3P{P801}Cancelar{P801}</source>
+    <target>B3P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="143">
+    <source>2P{P801}Cancelar{P801}</source>
+    <target>2P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="144">
+    <source>〉 O elevador esta trancado.{P801}</source>
+    <target>〉 O elevador esta trancado.{P801}</target>
+  </entry>
+  <entry id="145">
+    <source>〉 It's locked down.{P801}</source>
+    <target>〉 Esta trancado.{P801}</target>
+  </entry>
+  <entry id="146">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="147">
+    <source>1P{P801}Cancelar{P801}</source>
+    <target>1P{P801}Cancelar{P801}</target>
+  </entry>
+  <entry id="600">
+    <source>{P812}Burroughs\0{P87A,2}{P813,1,76035}I'm detecting a demon's Dominio.{P801}Do you want to go on?{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}{P813,1,76035}Estou detectando o Dominio de um{P801}demonio. Voce quer continuar?{P801}</target>
+  </entry>
+  <entry id="601">
+    <source>Sim{P801}Nao{P801}</source>
+    <target>Sim{P801}Nao{P801}</target>
+  </entry>
+  <entry id="602">
+    <source>{P812}Burroughs\0{P87A,2}{P813,1,76036}I'm detecting a strong demon ahead.{P801}Do you want to go on?{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}{P813,1,76036}Estou detectando um demonio forte a frente.{P801}Voce quer continuar{P801}</target>
+  </entry>
+  <entry id="603">
+    <source>Sim{P801}Nao{P801}</source>
+    <target>Sim{P801}Nao{P801}</target>
+  </entry>
+  <entry id="604">
+    <source>{P812}Burroughs\0{P87A,2}{P813,1,306010}...Mestre {P843,0}, look out.{P801}I'm detecting a strong demon nearby.{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}{P813,1,306010}...Mestre {P843,0}, cuidado.{P801}Estou detectando um demonio forte por perto.{P801}</target>
+  </entry>
+  <entry id="605">
+    <source>〉 You sense an ominous presence from{P801}within... Enter?{P801}</source>
+    <target>〉 Voce sente uma presenca sinistra de{P801}dentro... Entrar?{P801}</target>
+  </entry>
+  <entry id="606">
+    <source>Sim{P801}Nao{P801}</source>
+    <target>Sim{P801}Nao{P801}</target>
+  </entry>
+  <entry id="900">
+    <source>{P812}Burroughs\0{P87A,2}{P813,1,400005}There's an exit here.{P801}{P802}Do you want to give up investigating{P801}this Dominio and escape from here?{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}{P813,1,400005}Tem uma saida aqui.{P801}{P802}Voce quer desistir de investigar este{P801}Dominio e escapar daqui?{P801}</target>
+  </entry>
+  <entry id="901">
+    <source>Sim{P801}Nao{P801}</source>
+    <target>Sim{P801}Nao{P801}</target>
+  </entry>
+  <entry id="902">
+    <source>〉 There is no relic reading right now...{P801}</source>
+    <target>〉 Nao ha reliquias sendo detectadas agora...{P801}</target>
+  </entry>
+  <entry id="903">
+    <source>〉 The Dominio has dissipou-se.{P801}{P802}〉 {P843,0} obtained {P811,0}...{P801}</source>
+    <target>〉 O Dominio dissipou-se e voce agora{P801}pode ter a reliquia.{P801}{P802}〉 {P843,0} obteve {P811,0}...{P801}</target>
+  </entry>
+  <entry id="910">
+    <source>{P811,0}{P801}〉 The door is tightly sealed...{P801}</source>
+    <target>{P811,0}{P801}〉 A porta esta duramente fechada...{P801}</target>
+  </entry>
+  <entry id="911">
+    <source>〉 The door is sealed with a mysterious{P801}power...{P801}</source>
+    <target>〉 A porta eh fechada por um poder{P801}misterioso...{P801}</target>
+  </entry>
+  <entry id="912">
+    <source>〉 There is nothing here anymore.{P801}</source>
+    <target>〉 Nao ha mais nada aqui.{P801}</target>
+  </entry>
+  <entry id="913">
+    <source>〉 It's sealed with demonic powers...{P801}</source>
+    <target>〉 Esta selado por poderes demoniacos...{P801}</target>
+  </entry>
+  <entry id="920">
+    <source>{P812}Burroughs\0You have all the items you need now.{P801}You should go drop them off at{P801}K's Tavern.{P801}</source>
+    <target>{P812}Burroughs\0Agora voce tem todos os items que precisa.{P801}Voce deveria ir deixa-los na Taverna{P801}do K.{P801}</target>
+  </entry>
+  <entry id="921">
+    <source>{P812}Burroughs\0You have all the items you need now.{P801}You should go drop them off at{P801}the Hunter Association.{P801}</source>
+    <target>{P812}Burroughs\0YAgora voce tem todos os items que precisa.{P801}Voce deveria ir deixa-los na{P801}Associacao de Cacadores.{P801}</target>
+  </entry>
+  <entry id="922">
+    <source>{P812}Burroughs\0You have all the items you need now.{P801}You should go drop them off at{P801}the specified location.{P801}</source>
+    <target>{P812}Burroughs\0Agora voce tem todos os items que precisa.{P801}Voce deveria ir deixa-los na{P801}localizacao especificada.{P801}</target>
+  </entry>
+  <entry id="932">
+    <source>{P812}Burroughs\0{P87A,2}{P813,1,502033}That was too bad. Let's give it{P801}another try sometime.{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}{P813,1,502033}Mas que pena. Vamos tentar novamente{P801}outra vez.{P801}</target>
+  </entry>
+  <entry id="935">
+    <source>{P812}Burroughs\0{P87A,2}{P813,1,400005}Wait a second. You've already accepted{P801}another quest. Are you sure?{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}{P813,1,400005}Espere um secundo. Voce ja aceitou outra{P801}missao. Voce tem certeza?{P801}</target>
+  </entry>
+  <entry id="936">
+    <source>If you wish to proceed with the main{P801}quest, you must either abandon the{P801}Challenge Quest or complete it to{P801}release the pause on the main quest.{P801}</source>
+    <target>Se voce deseja prosseguir com a missao{P801}principal, ou voce deve abandonar a{P801}Missao Desafio ou completa-la{P801}para liberar a pausa da missao principal.{P801}</target>
+  </entry>
+  <entry id="940">
+    <source>{P812}Burroughs\0{P87A,2}Ei, posso te dar uma dica?{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}Ei, posso te dar uma dica?{P801}</target>
+  </entry>
+  <entry id="941">
+    <source>{P812}Burroughs\0{P87A,2}Ei, posso te dar uma dica?{P801}{P802}It's a combat training quest that makes{P801}use of virtual reality functions.{P801}{P802}If you want, I can explain it to you{P801}in detail.{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}Ei, posso te dar uma dica?{P801}{P802}E uma missao de treino de combate que{P801}usa as funcoes da realidade virtual.{P801}{P802}Se voce quiser, posso explica-la para{P801}voce detalhadamente.{P801}</target>
+  </entry>
+  <entry id="942">
+    <source>Listen to the explanation{P801}Don't listen to the explanation{P801}</source>
+    <target>Escutar a explicacao{P801}Nao escutar a explicacao{P801}</target>
+  </entry>
+  <entry id="943">
+    <source>A new type of Challenge Quest has been{P801}unlocked.{P801}{P802}These Challenge Quests involve winning{P801}a battle while meeting certain{P801}conditions.{P801}{P802}There is no penalty for failing them,{P801}and they can be challenged as many{P801}times as you like.{P801}{P802}More of these quests will be added{P801}periodically, so feel free to take{P801}them on.{P801}</source>
+    <target>Um novo tipo de Missao Desafio foi{P801}desbloqueado.{P801}{P802}Estas Missoes Desafio envolvem ganhar uma{P801}batalha enquanto atende certas{P801}condicoes.{P801}{P802}Nao ha penalidade em falha-las, e{P801}elas podem ser feitas quantas vezes{P801}voce quiser.{P801}{P802}Mais dessas missoes irao ser{P801}adicionadas periodicamente, entao sinta-se{P801}a vontade em tenta-las.{P801}</target>
+  </entry>
+  <entry id="944">
+    <source>{P812}Burroughs\0{P87A,2}{P813,0,502039}I'll register a few of them to the{P801}Challenge Quest list.{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}{P813,0,502039}Eu irei registrar algumas delas na{P801}lista de Missoes Dessafio.{P801}</target>
+  </entry>
+  <entry id="945">
+    <source>{P812}Burroughs\0{P87A,2}...That should do it for now. Try{P801}them out whenever you feel like it.{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}...Por hora, isso deve bastar. Tente-as{P801}novamente sempre que sentir vontade.{P801}</target>
+  </entry>
+  <entry id="946">
+    <source>{P812}Burroughs\0{P87A,2}{P813,0,502041}All right, I'll skip the explanation.{P801}{P802}{P813,0,502035}I'll register a few of them to the{P801}Challenge Quest list. Try them out{P801}whenever you feel like it.{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}{P813,0,502041}Certo, eu irei pular a explicacao.{P801}{P802}{P813,0,502035}Eu irei registrar algumas delas na{P801}Lista de Missoes Desafio. Tente-as{P801}sempre que sentir vontade.{P801}</target>
+  </entry>
+  <entry id="947">
+    <source>{P812}Burroughs\0{P87A,2}{P813,0,502034}Guess what? I found more quests you{P801}can do in virtual reality.{P801}{P802}{P813,0,502035}I'll register a few of them to the{P801}Challenge Quest list. Try them out{P801}whenever you feel like it.{P801}</source>
+    <target>{P812}Burroughs\0{P87A,2}{P813,0,502034}Adivinha? Eu encontrei mais missoes que{P801}voce pode realizar na realidade virtual.{P801}{P802}{P813,0,502035}Eu irei registrar algumas delas na{P801}Lista de Missoes Desafio. Tente-as{P801}sempre que sentir vontade.{P801}</target>
+  </entry>
+  <entry id="950">
+    <source>〉 The Estoma Sword's effect wore off.{P801}</source>
+    <target>〉 O efeito da Espada de Estoma acabou.{P801}</target>
+  </entry>
+  <entry id="951">
+    <source>〉 You found a {P811,0}, but you{P801}were carrying too many of them already.{P801}</source>
+    <target>〉 Voce encontrou um(a) {P811,0}, mas voce{P801}ja estava carregando muitos dele(a).{P801}</target>
+  </entry>
+</mbm>

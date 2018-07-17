@@ -1,0 +1,18 @@
+﻿<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0Activating scan mode...{F801}</source>
+    <target>{F812}Burroughs\0Ativando modo de escaneamento...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 There is no relic reading right now...{F801}</source>
+    <target>〉 Nao ha reliquias sendo detectadas agora...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,76035}I'm detecting a demon's Domain.{F801}Do you want to go on?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,76035}Estou detectando o dominio de um{F801}demonio. Voce quer continuar?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Yes{F801}No{F801}</source>
+    <target>Sim{F801}Nao{F801}</target>
+  </entry>
+</mbm>
