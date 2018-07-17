@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,16001}Look, Master {F843,0}!{F801}{F802}{F813,0,16002}You've found something interesting.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,16001}Olha, Mestre {F843,0}!{F801}{F802}{F813,0,16002}Voce encontrou algo interessante.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hope\0{F87A,8}{F813,0,16003}All prentices, this is Hope speaking.{F801}{F802}{F813,0,16004}Your training session has come to{F801}an end.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,16003}Todos os aprendizes, aqui eh Hope falando.{F801}{F802}{F813,0,16004}Sua secao de treinamento chegou{F801}ao fim.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,16005}It would seem someone has beaten me{F801}to the finish line.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,16005}Parece que alguem me derrotou em alcancar{F801}a linha de chegada.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,4}{F813,0,16006}Aww... I was so close, too.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,16006}Aww... E eu tava tao perto.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hope\0{F87A,8}{F813,0,16007}Return to Aquila Plaza at once.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,16007}Retornem para a Praca Aquila imediatamente.{F801}</target>
+  </entry>
+</mbm>

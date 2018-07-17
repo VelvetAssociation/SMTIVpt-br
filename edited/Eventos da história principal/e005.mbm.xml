@@ -1,0 +1,46 @@
+﻿<mbm>
+  <entry id="0">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,5001}...Finalmente chegamos. Eh realmente bem longe{F801}do vilarejo.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,5001}...Finalmente chegamos. Eh realmente bem longe{F801}do vilarejo.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,7,1,1}{F813,0,5002}A cidade eh tao grande, nao consigo nem{F801}supor onde o Rito deve acontecer...{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,7,1,1}{F813,0,5002}A cidade eh tao grande, nao consigo nem{F801}supor onde o Rito deve acontecer...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,5003}Ah, senhor! Com licenca!{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,5003}Ah, senhor! Com licenca!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Homem Elegante\0{F87A,40}{F813,0,5004}...O que eh?{F801}</source>
+    <target>{F812}Homem Elegante\0{F87A,40}{F813,0,5004}...O que eh?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,7,1,1}{F813,0,5005}Bem... Nos dois... Viemos para{F801}participar do Rito e...{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,7,1,1}{F813,0,5005}Bem... Nos dois... Viemos para{F801}participar do Rito e...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Homem Elegante\0{F87A,40}{F813,0,5006}Hmph... Um pirralho Casualry.{F801}</source>
+    <target>{F812}Homem Elegante\0{F87A,40}{F813,0,5006}Hmph... Um pirralho Casualry.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Homem Elegante\0{F87A,40}{F813,0,5007}O Rito da Manopla, voce diz...?{F801}{F802}{F813,0,5008}Procure voce mesmo.{F801}{F802}{F813,0,5009}Inclusive, ja pode ir se preparando para sua{F801}jornada de volta para casa, hahaha...{F801}</source>
+    <target>{F812}Homem Elegante\0{F87A,40}{F813,0,5007}O Rito da Manopla, voce diz...?{F801}{F802}{F813,0,5008}Procure voce mesmo.{F801}{F802}{F813,0,5009}Inclusive, ja pode ir se preparando para sua{F801}jornada de volta para casa, hahaha...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,2,1,1}{F813,0,5010}Err... Obrigado...?{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,2,1,1}{F813,0,5010}Err... Obrigado...?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,2,1,1}{F813,0,5011}Parece que os rumores que ouvi sobre a{F801}esnobeza dos Luxurors ainda foram leves...{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,2,1,1}{F813,0,5011}Parece que os rumores que ouvi sobre a{F801}esnobeza dos Luxurors ainda foram leves...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,5012}Mas nao importa, iremos encontrar{F801}outra pessoa para perguntar.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,5012}Mas nao importa, iremos encontrar{F801}outra pessoa para perguntar.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 {F843,0} chegou na cidade{F801}do castelo com Issachar.{F801}</source>
+    <target>〉 {F843,0} chegou na cidade{F801}do castelo com Issachar.{F801}</target>
+  </entry>
+</mbm>

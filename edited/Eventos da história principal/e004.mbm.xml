@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voz\0{F813,0,4001}Ei...Ei, acorda.{F801}{F802}{F813,0,4002}Se nos nao fomos logo,{F801}vamos nos atrasar.{F801}</source>
+    <target>{F812}Voz\0{F813,0,4001}Ei...Ei, acorda.{F801}{F802}{F813,0,4002}Se nos nao fomos logo,{F801}vamos nos atrasar.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jovem\0{F87A,7}{F813,0,4003}Voce acordou? Tenho que admitir, eu tambem{F801}dormi...{F801}</source>
+    <target>{F812}Jovem\0{F87A,7}{F813,0,4003}Voce acordou? Tenho que admitir, eu tambem{F801}dormi...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jovem\0{F87A,7}{F813,0,4004}Faz tantos dias que estamos aqui no{F801}Lago Mikado, afinal de contas...{F801}</source>
+    <target>{F812}Jovem\0{F87A,7}{F813,0,4004}Faz tantos dias que estamos aqui no{F801}Lago Mikado, afinal de contas...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,4007}Droga, agora nao eh hora pra isso. Temos que nos{F801}apressar e ir para o Rito da Manopla.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,1,1,1}{F813,0,4007}Droga, agora nao eh hora pra isso. Temos que nos{F801}apressar e ir para o Rito da Manopla.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Jovem\0{F87A,7}{F87B,7,3,1,1}{F813,0,4005}Quando percebi que este seria nosso ultimo{F801}cochilo aqui, nao consegui ter forcas para{F801}acordar.{F801}{F802}{F813,0,4006}Entao nao quero ouvir, "Voce prometeu me{F801}acordar, Issachar!" viu?{F801}</source>
+    <target>{F812}Jovem\0{F87A,7}{F87B,7,3,1,1}{F813,0,4005}Quando percebi que este seria nosso ultimo{F801}cochilo aqui, nao consegui ter forcas para{F801}acordar.{F801}{F802}{F813,0,4006}Entao nao quero ouvir, "Voce prometeu me{F801}acordar, Issachar!" viu?{F801}</target>
+  </entry>
+</mbm>

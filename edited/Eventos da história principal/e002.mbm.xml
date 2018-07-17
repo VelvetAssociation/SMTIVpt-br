@@ -1,0 +1,30 @@
+﻿<mbm>
+  <entry id="0">
+    <source>{F812}Voz\0{F87A,112}{F813,0,2004}...Voce finalmente chegou. Agora eu tambem{F801}posso ter uma forma...{F801}</source>
+    <target>{F812}Voz\0{F87A,112}{F813,0,2004}...Voce finalmente chegou. Agora eu tambem{F801}posso ter uma forma...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jovem Rapaz\0{F87A,27}{F813,0,2005}Eu estive lutando pra caramba enquanto{F801}esperava voce aparecer.</source>
+    <target>{F812}Jovem Rapaz\0{F87A,27}{F813,0,2005}Eu estive lutando pra caramba enquanto{F801}esperava voce aparecer.</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jovem Rapaz\0{F87A,27}{F813,0,2006}Voce se lembra de mim, certo?{F801}{F802}{F813,0,2007}Isso mesmo... {F801}{F802}{F813,0,2097}Eu sou o Walter.{F801}</source>
+    <target>{F812}Jovem Rapaz\0{F87A,27}{F813,0,2006}Voce se lembra de mim, certo?{F801}{F802}{F813,0,2007}Isso mesmo... {F801}{F802}{F813,0,2097}Eu sou o Walter.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Walter\0{F87A,27}{F813,0,2008}Nao importa o que venha a acontecer,e melhor{F801}voce nao esquecer de mim.{F801}{F802}{F813,0,2009}Pois eu e voce iremos criar um mundo em que{F801}tudo pode ser mudado se voce tiver a vontade...{F801}</source>
+    <target>{F812}Walter\0{F87A,27}{F813,0,2008}Nao importa o que venha a acontecer,e melhor{F801}voce nao esquecer de mim.{F801}{F802}{F813,0,2009}Pois eu e voce iremos criar um mundo em que{F801}tudo pode ser mudado se voce tiver a vontade...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Voz\0{F813,0,2001}Ah, entao ai esta voce.{F801}{F802}{F813,0,2002}Ei. Por aqui.{F801}</source>
+    <target>{F812}Voz\0{F813,0,2001}Ah, entao ai esta voce.{F801}{F802}{F813,0,2002}Ei. Por aqui.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Voce encontra-se com uma visao{F801}de uma cidade em chamas...{F801}</source>
+    <target>〉 Voce encontra-se com uma visao{F801}de uma cidade em chamas...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Voz\0{F813,0,2003}Nao, nao ai. Por aqui!{F801}</source>
+    <target>{F812}Voz\0{F813,0,2003}Nao, nao ai. Por aqui!{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,154 @@
+﻿<mbm>
+  <entry id="0">
+    <source>{F812}Jovem\0{F87A,6}{F87B,6,1,1,1}{F813,0,9001}O que eh isso que vejo? Voce tambem e{F801}um Samurai aprendiz?{F801}</source>
+    <target>{F812}Jovem\0{F87A,6}{F87B,6,1,1,1}{F813,0,9001}O que eh isso que vejo? Voce tambem e{F801}um Samurai aprendiz?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,9002}Sim, mas olha quem esta falando...{F801}Inclusive, quem eh voce?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,9002}Sim, mas olha quem esta falando...{F801}Inclusive, quem eh voce?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F813,0,9003}Eu sou Navarre! NAVARRE! Essa eh a{F801}terceira vez que repito-me!{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F813,0,9003}Eu sou Navarre! NAVARRE! Essa eh a{F801}terceira vez que repito-me!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,8,1,1}{F813,0,9004}Vamos ver... Walter, eu assumo?{F801}Voces dois sao os ultimos a chegar.{F801}{F802}{F813,0,9005}Aparentemente Casualries tendem a{F801}ser preguicosos.{F801}{F802}{F813,0,9006}Eu acho isso motivo para preocupacao.{F801}Voce nao concorda, Jonathan?{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,8,1,1}{F813,0,9004}Vamos ver... Walter, eu assumo?{F801}Voces dois sao os ultimos a chegar.{F801}{F802}{F813,0,9005}Aparentemente Casualries tendem a{F801}ser preguicosos.{F801}{F802}{F813,0,9006}Eu acho isso motivo para preocupacao.{F801}Voce nao concorda, Jonathan?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,9007}Navarre... acho que ja eh o suficiente.{F801}Aqui somos todos aprendizes, afinal de contas.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,9007}Navarre... acho que ja eh o suficiente.{F801}Aqui somos todos aprendizes, afinal de contas.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jovem garota\0{F87A,5}{F87B,5,8,1,1}{F813,0,9008}Voce vai dar a ele uma ma{F801}impressao of us Luxurors.{F801}</source>
+    <target>{F812}Jovem garota\0{F87A,5}{F87B,5,8,1,1}{F813,0,9008}Voce vai dar a ele uma ma{F801}impressao of us Luxurors.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F813,0,9009}O que!? Isso eh bastante incisivo de voce,{F801}nao acha, Isabeau!?{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F813,0,9009}O que!? Isso eh bastante incisivo de voce,{F801}nao acha, Isabeau!?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,9010}Hm. Voce pode ser Luxuror, masa cho{F801}que vamos nos dar bem.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,9010}Hm. Voce pode ser Luxuror, masa cho{F801}que vamos nos dar bem.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,1}{F813,0,9011}Eu nao tenho tanta certeza....{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,1}{F813,0,9011}Eu nao tenho tanta certeza....{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 Isabeau olha para {F843,0}.{F801}</source>
+    <target>〉 Isabeau olha para {F843,0}.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,9013}Meu nome eh Isabeau. Qual o seu?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F813,0,9013}Meu nome eh Isabeau. Qual o seu?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>Apresentar-se{F801}Continuar em silencio{F801}</source>
+    <target>Apresentar-se{F801}Continuar em silencio{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,9014}Eu te disse, Navarre. Gracas a voce,{F801}comecamos com o pe errado.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,9014}Eu te disse, Navarre. Gracas a voce,{F801}comecamos com o pe errado.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,12,1,1}{F813,0,9015}O qu... Hrrgh...{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,12,1,1}{F813,0,9015}O qu... Hrrgh...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F87B,5,1,1,3}{F813,0,9016}Calma, {F843,0}...{F801}Me deixe falar por ele.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F87B,5,1,1,3}{F813,0,9016}Calma, {F843,0}...{F801}Me deixe falar por ele.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 Walter apresentou {F843,0} para os{F801}outros.{F801}</source>
+    <target>〉 Walter apresentou {F843,0} para os{F801}outros.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,4,12,1,1}{F813,0,9017}Hm...? {F843,0}...?{F801}Esse eh o nome de meu sonho...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,7,1,2}{F87B,4,12,1,1}{F813,0,9017}Hm...? {F843,0}...?{F801}Esse eh o nome de meu sonho...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,9018}...Perdao, nao me de importancia.{F801}{F802}{F87B,3,1,1,1}{F813,0,9019}Interessante... Eu sou Jonathan{F801}Estou ansioso para trabalhar ao{F801}seu lado, meu companheiro aprendiz.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,10,1,1}{F813,0,9018}...Perdao, nao me de importancia.{F801}{F802}{F87B,3,1,1,1}{F813,0,9019}Interessante... Eu sou Jonathan{F801}Estou ansioso para trabalhar ao{F801}seu lado, meu companheiro aprendiz.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9020}...Entao estao todos aqui.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9020}...Entao estao todos aqui.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,3,1,1}{F813,0,9021}A-Ah, o comandante esta aqui...{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,3,1,1}{F813,0,9021}A-Ah, o comandante esta aqui...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F87B,6,3,1,1}{F813,0,9022}Voces cinco sao os candidatos bem sucedidos{F801}do Rito da Manopla deste ano.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F87B,6,3,1,1}{F813,0,9022}Voces cinco sao os candidatos bem sucedidos{F801}do Rito da Manopla deste ano.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F813,0,9024}Voce esta verdadeiramente surpreso?{F801}Cinco eh um numero bem maior que o normal!{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F813,0,9024}Voce esta verdadeiramente surpreso?{F801}Cinco eh um numero bem maior que o normal!{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,7,1,1}{F813,0,9026}O que!? Eu nao fui somente o unico--!{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,7,1,1}{F813,0,9026}O que!? Eu nao fui somente o unico--!{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9027}Nos vamos agora comecar com o seu{F801}treino pratico.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9027}Nos vamos agora comecar com o seu{F801}treino pratico.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9028}De agora em diante, todos voces terao{F801}que fazer incursoes em Naraku.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9028}De agora em diante, todos voces terao{F801}que fazer incursoes em Naraku.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,9029}Naraku...? Se me lembro corretamente,{F801}e este supostamente o local aonde{F801}demonios...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,9029}Naraku...? Se me lembro corretamente,{F801}e este supostamente o local aonde{F801}demonios...{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9031}Voce eh Jonathan, sim? Voce parece muito{F801}bem informado.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9031}Voce eh Jonathan, sim? Voce parece muito{F801}bem informado.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9034}Hoje, voce ira entrar no Naraku e{F801}receber treinamento Samurai basico{F801}enquanto batalha contra demonios.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9034}Hoje, voce ira entrar no Naraku e{F801}receber treinamento Samurai basico{F801}enquanto batalha contra demonios.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9035}Sera dado a voces uma pequena quantia{F801}para se prepararem, como tambem{F801}alguns suprimentos.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9035}Sera dado a voces uma pequena quantia{F801}para se prepararem, como tambem{F801}alguns suprimentos.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>〉 Voce recebeu 300 Macca.{F801}{F802}〉 Voce recebeu {F841,20} x5.{F801}</source>
+    <target>〉 Voce recebeu 300 Macca.{F801}{F802}〉 Voce recebeu {F841,20} x5.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9036}Tem lojas aqui na praca que tem o que{F801}vao precisar.{F801}{F802}{F813,0,9037}Cada um ira adentrar Naraku assim que{F801}estiverem prontos.{F801}{F802}{F813,0,9038}Eu irei me comunicar de vez em quando{F801}com os detalhes do exercicio.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9036}Tem lojas aqui na praca que tem o que{F801}vao precisar.{F801}{F802}{F813,0,9037}Cada um ira adentrar Naraku assim que{F801}estiverem prontos.{F801}{F802}{F813,0,9038}Eu irei me comunicar de vez em quando{F801}com os detalhes do exercicio.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,9039}Estao todos dispensados. Vao e se{F801}preparem para o treinamento.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,9039}Estao todos dispensados. Vao e se{F801}preparem para o treinamento.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 Outros Samurai recrutas estao{F801}reunidos na Praca da Estatua de Aquila.{F801}</source>
+    <target>〉 Outros Samurai recrutas estao{F801}reunidos na Praca da Estatua de Aquila.{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F87B,4,10,1,1}{F813,0,9012}Voce esteve quieto.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F87B,4,10,1,1}{F813,0,9012}Voce esteve quieto.{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,9023}Cinco...? Pessoas vieram de todo o{F801}Reino e somente cinco foram escolhidos?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,9023}Cinco...? Pessoas vieram de todo o{F801}Reino e somente cinco foram escolhidos?{F801}</target>
+  </entry>
+  <entry id="123">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9025}Chega de conversinha, Navarre.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,9025}Chega de conversinha, Navarre.{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,9030}Demonios?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,9030}Demonios?{F801}</target>
+  </entry>
+  <entry id="129">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F87B,4,10,1,1}{F813,0,9032}Meu pai nunca revelou para mim{F801}a verdadeira missao de um Samurai...{F801}{F802}{F813,0,9033}Entao ela involve neutralizar demonios...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,3,1,1}{F87B,4,10,1,1}{F813,0,9032}Meu pai nunca revelou para mim{F801}a verdadeira missao de um Samurai...{F801}{F802}{F813,0,9033}Entao ela involve neutralizar demonios...{F801}</target>
+  </entry>
+</mbm>

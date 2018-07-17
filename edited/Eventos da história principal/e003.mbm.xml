@@ -1,0 +1,42 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F87A,112}{F813,0,3004}Ainda bem, voce veio. Agora{F801}tambem posso tomar forma...{F801}</source>
+    <target>{F812}Voice\0{F87A,112}{F813,0,3004}Ainda bem, voce veio. Agora{F801}tambem posso tomar forma...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jovem rapaz\0{F87A,9}{F813,0,3005}Eu rezei e esperei...{F801}Ansioso pelo dia que voce chegaria.{F801}</source>
+    <target>{F812}Jovem rapaz\0{F87A,9}{F813,0,3005}Eu rezei e esperei...{F801}Ansioso pelo dia que voce chegaria.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Jovem rapaz\0{F87A,9}{F813,0,3006}Voce se lembra de mim, nao lembra?{F801}{F802}{F813,0,3007}Sim, isso mesmo...{F801}{F802}{F813,0,3097}Meu nome e Jonathan.{F801}</source>
+    <target>{F812}Jovem rapaz\0{F87A,9}{F813,0,3006}Voce se lembra de mim, nao lembra?{F801}{F802}{F813,0,3007}Sim, isso mesmo...{F801}{F802}{F813,0,3097}Meu nome e Jonathan.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jonathan\0{F87A,9}{F813,0,3008}Nao deves esquecer que meu futuro{F801}e junto a ti.{F801}{F802}{F813,0,3009}Nos dois iremos criar um mundo{F801}no qual a paz que conhecemos hoje{F801}seja eterna...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,9}{F813,0,3008}Nao deves esquecer que meu futuro{F801}e junto a ti.{F801}{F802}{F813,0,3009}Nos dois iremos criar um mundo{F801}no qual a paz que conhecemos hoje{F801}seja eterna...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Voz\0{F813,0,3001}...Gracas a Deus que voce esta aqui.{F801}{F802}{F813,0,3002}Por favor, venha rapido.{F801}</source>
+    <target>{F812}Voz\0{F813,0,3001}...Gracas a Deus que voce esta aqui.{F801}{F802}{F813,0,3002}Por favor, venha rapido.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Voce se encontra com a visao{F801}de um deserto interminavel...{F801}</source>
+    <target>〉 Voce se encontra com a visao{F801}de um deserto interminavel...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Voz\0{F813,0,3003}Por ai nao. Eu estou aqui.{F801}</source>
+    <target>{F812}Voz\0{F813,0,3003}Por ai nao. Eu estou aqui.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Garota\0{F87A,153}{F813,0,3010}Eu... reviver... pelo bem... tudo...{F801}</source>
+    <target>{F812}Garota\0{F87A,153}{F813,0,3010}Eu... reviver... pelo bem... tudo...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Garota\0{F87A,153}{F813,0,3011}Eu... devo... por... todos...{F801}</source>
+    <target>{F812}Garota\0{F87A,153}{F813,0,3011}Eu... devo... por... todos...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Garota\0{F87A,153}{F813,0,3012}Por favor {F843,0}, voce nao poderia me reviver?{F801}</source>
+    <target>{F812}Garota\0{F87A,153}{F813,0,3012}Por favor {F843,0}, voce nao poderia me reviver?{F801}</target>
+  </entry>
+</mbm>

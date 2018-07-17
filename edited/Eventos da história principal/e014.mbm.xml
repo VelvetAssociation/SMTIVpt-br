@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hope\0{F87A,8}{F813,0,14001}This is Hope speaking.{F801}{F802}{F813,0,14002}So, you've completed the next quest.{F801}A decent effort so far.{F801}{F802}{F813,0,14003}But it's too early to celebrate now.{F801}I have the details of your next quest.{F801}{F802}{F813,0,14004}This will be your final training{F801}exercise.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,14001}Aqui e Hope falando.{F801}{F802}{F813,0,14002}Entao, voce completou mais uma missao.{F801}Um esforco decente ate agora.{F801}{F802}{F813,0,14003}Mas e cedo demais para celebrar.{F801}Eu tenho os detalhes de sua proxima missao.{F801}{F802}{F813,0,14004}Este vai ser o seu ultimo exercicio{F801}de treinamento.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hope\0{F87A,8}{F813,0,14005}You must learn the basics of{F801}exploring labyrinths.{F801}{F802}{F813,0,14006}A solid grasp of your surroundings{F801}is necessary for a Samurai.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,14005}Voce dever aprender o basico de{F801}explorar labirintos.{F801}{F802}{F813,0,14006}Uma nocao solida de seus arredores e{F801}necessario para um Samurai.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hope\0{F87A,8}{F813,0,14007}I have hidden a certain item of value{F801}somewhere in Naraku.{F801}{F802}{F813,0,14008}Your task is to find and retrieve it.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,14007}Eu escondi um certo item de valor em{F801}algum lugar de Naraku.{F801}{F802}{F813,0,14008}Sua tarefa e encontra-lo e traze-lo de volta.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hope\0{F87A,8}{F813,0,14009}Moreover, for this exercise, you will{F801}all be competing against each other.{F801}{F802}{F813,0,14010}As soon as one of you acquires the{F801}item of value, the exercise will end.{F801}{F802}{F813,0,14011}That is all.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,14009}Inclusive, neste exercicio, voes estarao{F801}todos competindo uns contra os outros.{F801}{F802}{F813,0,14010}Assim que um de voces encontrar o item{F801}de valor, o exercicio terminara.{F801}{F802}{F813,0,14011}Isso e tudo.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}Eu irei registrar isso na lista como uma{F801}nova missao.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}Eu irei registrar isso na lista como uma{F801}nova missao.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,14013}Hey, Master {F843,0}?{F801}{F802}{F813,0,14014}If you're going to do the next quest,{F801}I recommend using the {F804,5}Mapper{F804,0} app.{F801}{F802}{F813,0,14015}Want to me to explain Mapper to you?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,14013}Ei, Mestre {F843,0}?{F801}{F802}{F813,0,14014}Se voce for fazer a proxima missao,{F801}eu recomendo usar o App {F804,5}Mapper{F804,0}.{F801}{F802}{F813,0,14015}Quer que eu explique o Mapper para voce?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"Por favor."{F801}"Nao precisa."{F801}</source>
+    <target>"Por favor."{F801}"Nao precisa."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,14016}So does that mean you already know{F801}about it? You're a real whiz kid,{F801}aren't you, Master {F843,0}?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,14016}Entao isso significa que voce ja sabe{F801}sobre isso? Voce eh realmente um genio,{F801}nao e, Mestre {F843,0}?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>"Mapper" has been added to the list of{F801}unlockable apps in Burroughs. By using{F801}Mapper, you can see a map of the area{F801}on the lower screen.{F801}{F802}In addition to your location, Mapper{F801}shows the direction you are facing and{F801}the direction the camera is pointing.{F801}It also shows which direction north is.{F801}{F802}Use the stylus to slide the Mapper view{F801}on the lower screen or view the other{F801}levels of the map.{F801}</source>
+    <target>"Mapper" foi adicionado a lista de apps{F801}desbloqueaveis de Burroughs. Quando Mapper{F801}e usado, voce pode ver um mapa da area{F801}na tela inferior.{F801}{F802}Alem da sua localizacao, o Mapper mostra{F801}a direcao para onde voce esta virado e{F801}a direcao que a camera esta apontando.{F801}Ele tambem mostra que direcao eh o norte.{F801}{F802}Use a stylus para navegar a visualizacao do{F801}Mapper na tela inferior ou para visualizar{F801}outros niveis do mapa.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400055}Deu para entender tudo?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400055}Deu para entender tudo?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>"Eu entendi."{F801}"Diga-me novamente."{F801}</source>
+    <target>"Eu entendi."{F801}"Diga-me novamente."{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400056}Certo. Eu irei repetir as informacoes{F801}mais uma vez.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400056}Certo. Eu irei repetir as informacoes{F801}mais uma vez.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,14019}Ate a proxima, Mestre {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,14019}Ate a proxima, Mestre {F843,0}.{F801}</target>
+  </entry>
+</mbm>

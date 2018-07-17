@@ -1,0 +1,74 @@
+﻿<mbm>
+  <entry id="0">
+    <source>{F812}Hope\0{F87A,8}{F813,0,8001}Eu sou Hope, lider dos Samurai.{F801}{F802}{F813,0,8002}De hoje em diante, voce ira morar{F801}neste quarto.{F801}{F802}{F813,0,8003}Como membro de nossa equipe, voce{F801}ira trabalhar por este reino junto{F801}do resto dos Samurai.{F801}{F802}{F813,0,8004}Apesar de voce ter acabado de ser{F801}introduzido, seu treino pratico comeca{F801}amanha de manha.{F801}{F802}{F813,0,8005}Eu sugiro que va dormir cedo hoje a noite{F801}para recuperar-se de sua jornada.{F801}Voce recebera mais detalhes amanha.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,8001}Eu sou Hope, lider dos Samurai.{F801}{F802}{F813,0,8002}De hoje em diante, voce ira morar{F801}neste quarto.{F801}{F802}{F813,0,8003}Como membro de nossa equipe, voce{F801}ira trabalhar por este reino junto{F801}do resto dos Samurai.{F801}{F802}{F813,0,8004}Apesar de voce ter acabado de ser{F801}introduzido, seu treino pratico comeca{F801}amanha de manha.{F801}{F802}{F813,0,8005}Eu sugiro que va dormir cedo hoje a noite{F801}para recuperar-se de sua jornada.{F801}Voce recebera mais detalhes amanha.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Hope deixa seu quarto.{F801}</source>
+    <target>〉 Hope deixa seu quarto.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 {F843,0} decidiu ir para a cama{F801}cedo.{F801}{F802}〉 Sua mente era um redemoinho de{F801}pensamentos...{F801}{F802}〉 Sobre sua vida ate agora...{F801}Sua familia e amigos...{F801}{F802}〉 A incerteza de uma nova vida{F801}subitamente forcada nele... As expectativas{F801}altas...{F801}{F802}〉 Mas logo, {F843,0} cede ao{F801}sono...{F801} {F801}</source>
+    <target>〉 {F843,0} decidiu ir para a cama{F801}cedo.{F801}{F802}〉 Sua mente era um redemoinho de{F801}pensamentos...{F801}{F802}〉 Sobre sua vida ate agora...{F801}Sua familia e amigos...{F801}{F802}〉 A incerteza de uma nova vida{F801}subitamente forcada nele... As expectativas{F801}altas...{F801}{F802}〉 Mas logo, {F843,0} cede ao{F801}sono...{F801} {F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Jovem rapaz\0{F87A,4}{F813,0,8006}Oh, voce ainda estava dormindo? Nao ligue{F801}para mim entrando assim sem avisar.{F801}</source>
+    <target>{F812}Jovem rapaz\0{F87A,4}{F813,0,8006}Oh, voce ainda estava dormindo? Nao ligue{F801}para mim entrando assim sem avisar.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jovem rapaz\0{F87A,4}{F87B,4,12,1,1}{F813,0,8009}Meu nome eh Walter.{F801}</source>
+    <target>{F812}Jovem rapaz\0{F87A,4}{F87B,4,12,1,1}{F813,0,8009}Meu nome eh Walter.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,8010}Eu ouvi dizer que voce tambem{F801}veio dos Casualries.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,8010}Eu ouvi dizer que voce tambem{F801}veio dos Casualries.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"Provavelmente..."{F801}"Eu acho que nao."{F801}</source>
+    <target>"Provavelmente..."{F801}"Eu acho que nao."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,8013}...Nao, eh claro que nao.{F801}{F802}{F813,0,8014}Aquilo foi somente um sonho... Eu estou{F801}imaginando coisas. Nao ligue pra mim.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,8013}...Nao, eh claro que nao.{F801}{F802}{F813,0,8014}Aquilo foi somente um sonho... Eu estou{F801}imaginando coisas. Nao ligue pra mim.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,8015}Hahahaha... Uma questao estupida, nao{F801}foi? Desculpe por perguntar algo tao estranho.{F801}{F802}{F813,0,8016}Mas sabe, eh que eu tive esse sonho{F801}estranho dois dias atras... Ah,mas{F801}la vou eu de novo.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,8015}Hahahaha... Uma questao estupida, nao{F801}foi? Desculpe por perguntar algo tao estranho.{F801}{F802}{F813,0,8016}Mas sabe, eh que eu tive esse sonho{F801}estranho dois dias atras... Ah,mas{F801}la vou eu de novo.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,8017}Voce esta indo pro treino pratico{F801}tambem, nao e?{F801}{F802}{F813,0,8018}Eu vou na frente, entao, e te vejo{F801}na entrada do Naraku.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,8017}Voce esta indo pro treino pratico{F801}tambem, nao e?{F801}{F802}{F813,0,8018}Eu vou na frente, entao, e te vejo{F801}na entrada do Naraku.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Voz\0{F813,1,400201}Mas que... Voce ainda esta aqui?{F801}</source>
+    <target>{F812}Voz\0{F813,1,400201}Mas que... Voce ainda esta aqui?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Walter\0{F87A,4}{F813,1,405820}Voce eh do tipo metodico e devagar,{F801}nao e? Eu digo que fiz a escolha{F801}certa em vir te dar uma checada.{F801}{F802}Voce esta indo pro treino pratico{F801}tambem, nao e? Vamos nos encontrar{F801}na entrada do Naraku. Te vejo la.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,405820}Voce eh do tipo metodico e devagar,{F801}nao e? Eu digo que fiz a escolha{F801}certa em vir te dar uma checada.{F801}{F802}Voce esta indo pro treino pratico{F801}tambem, nao e? Vamos nos encontrar{F801}na entrada do Naraku. Te vejo la.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Walter\0{F87A,4}{F813,1,405820}Voce eh do tipo metodico e devagar,{F801}nao e? Eu digo que fiz a escolha{F801}certa em vir te dar uma checada.{F801}{F802}Todo mundo ja foi na frente. Fique{F801}pronto e venha para o Naraku,{F801}rapidinho.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,1,405820}Voce eh do tipo metodico e devagar,{F801}nao e? Eu digo que fiz a escolha{F801}certa em vir te dar uma checada.{F801}{F802}Todo mundo ja foi na frente. Fique{F801}pronto e venha para o Naraku,{F801}rapidinho.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 Na manha seguinte...{F801}</source>
+    <target>〉 Na manha seguinte...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Jovem rapaz\0{F87A,4}{F813,0,8007}{F87B,4,12,1,1}Hah, eu nao sou um ladrao, se e{F801}o que esta pensando. Eu sou um{F801}Samurai, de carteirinha e tudo.{F801}</source>
+    <target>{F812}Jovem rapaz\0{F87A,4}{F813,0,8007}{F87B,4,12,1,1}Hah, eu nao sou um ladrao, se e{F801}o que esta pensando. Eu sou um{F801}Samurai, de carteirinha e tudo.{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,8011}Por isso que vim me apresentar.{F801}E bom te conhecer, {F843,0}.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,8011}Por isso que vim me apresentar.{F801}E bom te conhecer, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>{F812}Jovem rapaz\0{F87A,4}{F813,0,8008}{F87B,4,4,1,1}Eu me tornei um ontem, que{F801}nem voce, heh.{F801}</source>
+    <target>{F812}Jovem rapaz\0{F87A,4}{F813,0,8008}{F87B,4,4,1,1}Eu me tornei um ontem, que{F801}nem voce, heh.{F801}</target>
+  </entry>
+  <entry id="205">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,8012}A proposito... Nos ja nos encontramos{F801}antes?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}{F813,0,8012}A proposito... Nos ja nos encontramos{F801}antes?{F801}</target>
+  </entry>
+</mbm>

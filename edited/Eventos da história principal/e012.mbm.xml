@@ -1,0 +1,138 @@
+﻿<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12001}That was so impressive that I would{F801}swear it wasn't your first battle.{F801}You're hot stuff, Master {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12001}Isso foi tao impressionante que eu poderia{F801}jurar que nao foi sua primeira luta.{F801}Voce eh impressionante, Mestre {F843,0}.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12002}I also have good news for you.{F801}You've earned some App Points.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12002}Eu tambem tenho boas noticias para voce.{F801}Voce ganhou alguns Pontos de App.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12003}Do you want an explanation of{F801}how App Points work?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12003}Voce quer uma explicacao de como{F801}Pontos de App funcionam?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Yes{F801}No{F801}</source>
+    <target>Sim{F801}Nao{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12004}You don't let anything slow you down.{F801}But I like that.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12004}Voce nao deixa que nada lhe atrase.{F801}Mas eu gosto disso.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>As you gain levels, you will receive{F801}App Points. These allow you to enhance{F801}Burroughs' capabilities.{F801}{F802}App Points are used to unlock various{F801}features pre-programmed into Burroughs.{F801}{F802}The "App" menu has been added to{F801}{F804,5}Burroughs{F804,0} in the Main Menu. You can{F801}purchase new Apps there.{F801}{F802}Unlocking Apps will confer many kinds{F801}of benefits on your journey.{F801}</source>
+    <target>Na medida em que voce ganha niveis, recebe{F801}Pontos de App. Eles permitem que voce melhore{F801}as capacidades de Burroughs.{F801}{F802}Pontos de App sao usados para desbloquear{F801}varias funcionalidades pre-programadas em{F801}Burroughs.{F801}{F802}O menu "App" foi adicionado a {F804,5}Burroughs{F804,0} no{F801}Menu Principal. Voce pode comprar{F801}novos Apps nele.{F801}{F802}Desbloquear Apps ira lhe garantir diversos tipos{F801}de beneficios em sua jornada.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hope\0{F87A,8}{F813,0,12005}Aqui e Hope falando.{F801}{F802}{F813,0,12006}{F843,0}, voce completou sua tarefa,{F801}eu vejo. Muito bem em sobreviver aquilo.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,12005}Aqui eh Hope falando.{F801}{F802}{F813,0,12006}{F843,0}, voce completou sua tarefa,{F801}eu vejo. Muito bem em sobreviver aquilo.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12007}Parabens por completar a missao.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12007}Parabens por completar a missao.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hope\0{F87A,8}{F813,0,12008}But it's too early to celebrate now.{F801}I have the details of your next quest.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,12008}Mas eh cedo demais para celebrar.{F801}Eu tenho os detalhes de sua proxima missao.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hope\0{F87A,8}{F813,0,12009}You must learn the basics of communing{F801}with demons.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,12009}Voce deve aprender o basico de comunicacao{F801}com demonios.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hope\0{F87A,8}{F813,0,12010}A Samurai must know more than combat.{F801}{F802}{F813,0,12011}At times, he must treaty with demons{F801}to recruit them to his side and{F801}strengthen his forces.{F801}{F802}{F813,0,12012}You must {F804,5}acquire demon allies.{F804,0}{F801}The types of demon don't matter.{F801}{F802}{F813,0,12013}That's all for now. Get back to{F801}your training.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,12010}Um Samurai deve saber mais que lutar.{F801}{F802}{F813,0,12011}As vezes, ele tem que negociar com{F801}demonios para recruta-los para o seu lado e{F801}fortalecer suas forcas.{F801}{F802}{F813,0,12012}Voce deve {F804,5}adquirir demonios aliados.{F804,0}{F801}O tipo de demonio nao importa.{F801}{F802}{F813,0,12013}Por hora, isso eh tudo. Volte{F801}para seu treinamento.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}Eu irei registrar isso na lista como uma{F801}nova missao.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}Eu irei registrar isso na lista como uma{F801}nova missao.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12015}Hey, Master {F843,0}?{F801}{F802}{F813,0,12016}There's an App that you'll definitely{F801}need for your next quest. It's{F801}called {F804,5}Scout.{F804,0}{F801}{F802}{F813,0,12017}Want me to explain how Scout works?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12015}Ei, Mestre {F843,0}?{F801}{F802}{F813,0,12016}Tem um App que voce definitivamente ira{F801}precisar para a sua proxima missao.{F801}E chamado {F804,5}Negociar.{F804,0}{F801}{F802}{F813,0,12017}Quer que eu explique como Negociar funciona?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>Yes{F801}No{F801}</source>
+    <target>Sim{F801}Nao{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F804,5}Scout{F804,0} has been added to Burroughs'{F801}App list.{F801}{F802}If you use Scout, you can talk with{F801}demons during battle and persuade them{F801}to become your allies.{F801}{F802}Once they are your allies, the demons{F801}will be at your command in battle.{F801}</source>
+    <target>{F804,5}Negociar{F804,0} foi adicionado a lista de Apps de{F801}Burroughs.{F801}{F802}Se voce usar Negociar, voce pode conversar com{F801}demonios durante a batalha e os persuadir{F801}para se tornarem seus aliados.{F801}{F802}Assim que forem seus aliados, os demonios{F801}estarao ao seu comando em batalha.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12019}Deu para entender tudo?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12019}Deu para entender tudo?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>"Yes, I understand."{F801}"Diga-me novamente."{F801}</source>
+    <target>"Sim, eu entendi."{F801}"Diga-me novamente."{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12020}All right. I'll display the{F801}information one more time.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12020}Certo. Eu irei mostrar as{F801}informacoes mais uma vez.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400054}You don't let anything slow you down.{F801}But I like that.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400054}Voce nao deixa que nada lhe atrase.{F801}Mas eu gosto disso.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12021}I'll leave the details of acquiring{F801}new Burroughs Apps with you, in case.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12021}Eu irei deixar os detalhes em adquirir novos{F801}Burroughs Apps com voce, caso precise.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12023}Oh, one more thing...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12023}Oh, so mais uma coisa...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12024}There's an App I really think you{F801}should try out, Master.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12024}Tem um App que eu realmente acho queF801}voce deveria testar, Master.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12025}It's called "AR." Do you want me to{F801}explain how it works?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12025}E chamado "RA." Voce quer que eu{F801}explique como funciona?{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>"Por favor."{F801}"Nao precisa."{F801}</source>
+    <target>"Sim, por favor."{F801}"Nao precisa."{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Burroughs\0{F87A,2}未使用{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}未使用{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400053}Okay. We'll skip over that.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400053}Certo. Vamos pular essa parte.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>"AR" has been added to the list of{F801}unlockable Apps.{F801}{F802}AR is a short for Augmented Reality.{F801}{F802}When using AR, information on shops,{F801}stairways, entrances, and exits will be{F801}projected before you.{F801}</source>
+    <target>"RA" foi adiciondo a lista de Apps{F801}desbloqueaveis.{F801}{F802}RA eh abreviacao de Realidade Aumentada.{F801}{F802}Quando RA eh usada, informacoes de lojas,{F801}escadas, entradas e saidas serao{F801}projetadas em sua frente.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400055}Deu para entender tudo?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400055}Deu para entender tudo?{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>"Yes, I understand."{F801}"Diga-me novamente."{F801}</source>
+    <target>"Sim, eu entendi."{F801}"Diga-me novamente."{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Burroughs\0{F87A,2}未使用{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}未使用{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12028}All right. I'll display the{F801}info for you again.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12028}Certo. Eu irei mostrar as informacoes{F801}para voce mais uma vez.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12029}If you intend to use AR guidance,{F801}don't forget to pick up that app.{F801}{F802}{F813,0,12030}Ate a proxima, Mestre {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12029}Se voce pretende usar a orientacao da RA,{F801}nao esqueca de pegar esse App.{F801}{F802}{F813,0,12030}Ate a proxima, Mestre {F843,0}.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>Open the Burroughs section of the{F801}Main Menu and select "App."{F801}</source>
+    <target>Abra a secao Burroughs do Menu Principal{F801}e escolha "App."{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,12022}Ate a proxima, Mestre {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,12022}Ate a proxima, Mestre {F843,0}.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,11001}Tenha cuidado, Mestre. {F801}Estou detectando um demonio logo a frente.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,11001}Tenha cuidado, Mestre. {F801}Estou detectando um demonio logo a frente.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,11002}Precisa que eu explique sobre demonios?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,11002}Precisa que eu explique sobre demonios?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Sim{F801}Nao{F801}</source>
+    <target>Sim{F801}Nao{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400053}Certo. Vamos pular essa parte.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400053}Certo. Vamos pular essa parte.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Se voce tocar um inimigo em campo,{F801}voce entrara uma batalha contra ele.{F801}{F802}Se voce acertar o inimigo com o{F801}Botao X antes que ele toque voce...{F801}{F802}Voce pode comecar a batalha com um{F801}ataque surpresa.{F801}{F802}Porem, algumas batalhas importantes{F801}nao permitem que voce tenha um ataque surpresa.{F801}</source>
+    <target>Se voce tocar um inimigo em campo,{F801}voce entrara uma batalha contra ele.{F801}{F802}Se voce acertar o inimigo com o{F801}Botao X antes que ele toque voce...{F801}{F802}Voce pode comecar a batalha com um{F801}ataque surpresa.{F801}{F802}Porem, algumas batalhas importantes{F801}nao permitem que voce tenha um ataque surpresa.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400055}Deu para entender tudo?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400055}Deu para entender tudo?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"Entendi."{F801}"Diga-me novamente."{F801}</source>
+    <target>"Entendi."{F801}"Diga-me novamente."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400056}Certo. Irei repetir as informacoes{F801}mais uma vez.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400056}Certo. Irei repetir as informacoes{F801}mais uma vez.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,11006}...Oh.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,11006}...Oh.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,11007}Desculpe-me, Mestre, mas eu esqueci{F801}completamente.{F801}{F802}{F813,0,11008}Mestre Hope mencionou um detalhe importante{F801}deste exercicio de treinamento...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,11007}Desculpe-me, Mestre, mas eu esqueci{F801}completamente.{F801}{F802}{F813,0,11008}Mestre Hope mencionou um detalhe importante{F801}deste exercicio de treinamento...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,11009}Irei registrar isso com uma missao para{F801}"Derrotar um demonio."{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,11009}Irei registrar isso com uma missao para{F801}"Derrotar um demonio."{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,11010}Voce gostaria que eu providencie uma{F801}explicacao sobre missoes?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,11010}Voce gostaria que eu providencie uma{F801}explicacao sobre missoes?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>Sim{F801}Nao{F801}</source>
+    <target>Sim{F801}Nao{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400053}Certo. Vamos pular essa parte.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400053}Certo. Vamos pular essa parte.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>O icone de {F804,5}Missoes{F804,0} foi adicionado ao menu{F801}na tela inferior. Voce agora pode ver{F801}os detalhes de suas missoes nele.{F801}{F802}Burroughs ira automaticamente registrar{F801}objetivos importantes ai.{F801}{F802}Quanto mais essas missoes forem completas,{F801}mais a historia ira prosseguir.{F801}</source>
+    <target>O icone de {F804,5}Missoes{F804,0} foi adicionado ao menu{F801}na tela inferior. Voce agora pode ver{F801}os detalhes de suas missoes nele.{F801}{F802}Burroughs ira automaticamente registrar{F801}objetivos importantes ai.{F801}{F802}Quanto mais essas missoes forem completas,{F801}mais a historia ira prosseguir.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400055}Deu para entender tudo?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400055}Deu para entender tudo?{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>"Entendi."{F801}"Diga-me novamente."{F801}</source>
+    <target>"Entendi."{F801}"Diga-me novamente."{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400056}Certo. Irei repetir as informacoes{F801}mais uma vez.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400056}Certo. Irei repetir as informacoes{F801}mais uma vez.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400057}Ate a proxima, Mestre {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400057}Ate a proxima, Mestre {F843,0}.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,11015}Espere um minuto, Mestre {F843,0}.{F801}Tem um demonio por perto.{F801}{F802}{F813,0,11016}Esta eh a sua chance de completar a{F801}missao. Seria uma pena ir embora.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,11015}Espere um minuto, Mestre {F843,0}.{F801}Tem um demonio por perto.{F801}{F802}{F813,0,11016}Esta eh a sua chance de completar a{F801}missao. Seria uma pena ir embora.{F801}</target>
+  </entry>
+</mbm>

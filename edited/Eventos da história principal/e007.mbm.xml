@@ -1,0 +1,186 @@
+﻿<mbm>
+  <entry id="0">
+    <source>〉 Os jovens estao formando uma fila...{F801}</source>
+    <target>〉 Os jovens estao formando uma fila...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Samurai responsavel\0{F87A,29}{F813,0,7001}Aqueles que vieram para o Rito{F801}da Manopla, organizem-se aqui.{F801}{F802}{F813,0,7002}Voce deve esperar chegar a sua vez.{F801}</source>
+    <target>{F812}Samurai responsavel\0{F87A,29}{F813,0,7001}Aqueles que vieram para o Rito{F801}da Manopla, organizem-se aqui.{F801}{F802}{F813,0,7002}Voce deve esperar chegar a sua vez.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Issachar\0{F87A,7}{F813,0,7003}Eh agora... Finalmente estamos aqui.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F813,0,7003}Eh agora... Finalmente estamos aqui.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Issachar\0{F87A,7}{F813,0,7004}...Sabe, eu ouvi algo curioso dos{F801}senhores do nosso vilarejo.{F801}{F802}{F813,0,7005}Aqueles que passarem o Rito e tornarem-se{F801}Samurai tem que viver no Castelo Mikado.{F801}{F802}{F813,0,7006}Pelo que ouvi, eles nao podem nem ao menos{F801}voltar para de onde vieram, a nao ser que{F801}seja para uma missao.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F813,0,7004}...Sabe, eu ouvi algo curioso dos{F801}senhores do nosso vilarejo.{F801}{F802}{F813,0,7005}Aqueles que passarem o Rito e tornarem-se{F801}Samurai tem que viver no Castelo Mikado.{F801}{F802}{F813,0,7006}Pelo que ouvi, eles nao podem nem ao menos{F801}voltar para de onde vieram, a nao ser que{F801}seja para uma missao.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,3,1,1}{F813,0,7007}Isso pode ser adeus para a gente,{F801}{F843,0}...{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,3,1,1}{F813,0,7007}Isso pode ser adeus para a gente,{F801}{F843,0}...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Um jovem rapaz caminha para fora da{F801}praca, ja tendo completado o rito.{F801}</source>
+    <target>〉 Um jovem rapaz caminha para fora da{F801}praca, ja tendo completado o rito.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Samurai responsavel\0{F87A,29}{F813,0,7008}Aqueles que falharem terao que sair{F801}imediatamente.{F801}</source>
+    <target>{F812}Samurai responsavel\0{F87A,29}{F813,0,7008}Aqueles que falharem terao que sair{F801}imediatamente.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 O jovem rapaz desconsolado deixa{F801}a Praca Da Estatua de Aquila.{F801}</source>
+    <target>〉 O jovem rapaz desconsolado deixa{F801}a Praca Da Estatua de Aquila.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Issachar\0{F87A,7}{F813,0,7011}Eu vou me tornar um Samurai... Eu{F801}definitivamente vou me tornar um Samurai...{F801}{F802}{F813,0,7012}Um Samurai e tambem um Luxuror...{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F813,0,7011}Eu vou me tornar um Samurai... Eu{F801}definitivamente vou me tornar um Samurai...{F801}{F802}{F813,0,7012}Um Samurai e tambem um Luxuror...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Samurai responsavel\0{F87A,29}{F813,0,7013}Proximo candidato, de um passo a frente.{F801}</source>
+    <target>{F812}Samurai responsavel\0{F87A,29}{F813,0,7013}Proximo candidato, de um passo a frente.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Issachar\0{F87A,7}{F813,0,7014}Ai esta minha deixa. Aqui vou eu{F801}me tornar um Samurai!{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F813,0,7014}Ai esta minha deixa. Aqui vou eu{F801}me tornar um Samurai!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Samurai responsavel\0{F87A,29}Dummy{F801}</source>
+    <target>{F812}Samurai responsavel\0{F87A,29}Dummy{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,7,1,1}{F813,0,7018}Oh...{F801}{F802}{F87B,7,3,1,1}{F813,0,7019}......{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,7,1,1}{F813,0,7018}Oh...{F801}{F802}{F87B,7,3,1,1}{F813,0,7019}......{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Error\0This dialogue doesn''t exist.{F801}</source>
+    <target>{F812}Error\0This dialogue doesn''t exist.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 Issachar foi embora melancolicamente...{F801}</source>
+    <target>〉 Issachar foi embora melancolicamente...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Samurai afiado\0{F87B,8,7,1,1}{F813,0,7020}Qual o problema? Voce eh o proximo,{F801}nao e?{F801}{F802}{F813,0,7021}Siga adiante.{F801}</source>
+    <target>{F812}Samurai afiado\0{F87B,8,7,1,1}{F813,0,7020}Qual o problema? Voce eh o proximo,{F801}nao e?{F801}{F802}{F813,0,7021}Siga adiante.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Error\0No dialogue{F801}</source>
+    <target>{F812}Error\0No dialogue{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Monge\0{F87A,42}{F813,0,7022}Bem vindo, jovem rapaz.{F801}{F802}{F813,0,7023}Sera que a Manopla ira escolhe-lo{F801}para ser um Samurai...?{F801}</source>
+    <target>{F812}Monge\0{F87A,42}{F813,0,7022}Bem vindo, jovem rapaz.{F801}{F802}{F813,0,7023}Sera que a Manopla ira escolhe-lo{F801}para ser um Samurai...?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Error\0No dialogue{F801}</source>
+    <target>{F812}Error\0No dialogue{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Monge\0{F87A,42}{F813,0,7024}Comecemos o Rito.{F801}</source>
+    <target>{F812}Monge\0{F87A,42}{F813,0,7024}Comecemos o Rito.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Monge\0{F87A,42}{F813,0,7025}Me apresente seu braco esquerdo.{F801}</source>
+    <target>{F812}Monge\0{F87A,42}{F813,0,7025}Me apresente seu braco esquerdo.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 O monge encaixou gentilmente uma Manopla no{F801}braco de {F843,0}...{F801}</source>
+    <target>〉 O monge encaixou gentilmente uma Manopla no{F801}braco de {F843,0}...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Error\0No dialogue{F801}</source>
+    <target>{F812}Error\0No dialogue{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Monge\0{F87A,42}......{F801}{F802}{F813,0,7027}Tch, o que esta fazendo!? Voce pode ser um{F801}desocupado, mas eu sou um homem atarefado!{F801}</source>
+    <target>{F812}Monge\0{F87A,42}......{F801}{F802}{F813,0,7027}Tch, o que esta fazendo!? Voce pode ser um{F801}desocupado, mas eu sou um homem atarefado!{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 O monge pegou o braco de {F843,0}{F801}e descuidadamente encaixou a Manopla...{F801}</source>
+    <target>〉 O monge pegou o braco de {F843,0}{F801}e descuidadamente encaixou a Manopla...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Monge\0{F87A,42}{F813,0,7038}Meus parabens, {F843,0}.{F801}voce agora eh um Samurai.{F801}</source>
+    <target>{F812}Monge\0{F87A,42}{F813,0,7038}Meus parabens, {F843,0}.{F801}voce agora eh um Samurai.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Monge\0{F87A,42}{F813,0,7039}Senhor Hope, por favor leve {F843,0}{F801}ate o salao de residencia.{F801}</source>
+    <target>{F812}Monge\0{F87A,42}{F813,0,7039}Senhor Hope, por favor leve {F843,0}{F801}ate o salao de residencia.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Monge\0{F87A,42}{F813,0,7040}...Perdao? Voce nao compreende que{F801}estou aqui em nome do Abade Hugo?{F801}</source>
+    <target>{F812}Monge\0{F87A,42}{F813,0,7040}...Perdao? Voce nao compreende que{F801}estou aqui em nome do Abade Hugo?{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,7041}Nao ha motivo para ficar alterado. Eu{F801}escutei voce.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,7041}Nao ha motivo para ficar alterado. Eu{F801}escutei voce.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,7042}Siga-me.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,7,1,1}{F813,0,7042}Siga-me.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>〉 {F843,0} seguiu Hope para fora{F801}da praca...{F801}</source>
+    <target>〉 {F843,0} seguiu Hope para fora{F801}da praca...{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Monge\0{F87A,42}{F813,0,7028}......{F801}{F802}{F813,0,7029}Deus todo poderoso..{F801}</source>
+    <target>{F812}Monge\0{F87A,42}{F813,0,7028}......{F801}{F802}{F813,0,7029}Deus todo poderoso..{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Monge\0{F87A,42}{F813,0,7030}Se este jovem rapaz que vejo ira{F801}receber o presente de tornar-se{F801}um Samurai...{F801}{F802}{F813,0,7031}Por favor derrama a tua luz nesta{F801}Manopla mistica.{F801}</source>
+    <target>{F812}Monge\0{F87A,42}{F813,0,7030}Se este jovem rapaz que vejo ira{F801}receber o presente de tornar-se{F801}um Samurai...{F801}{F802}{F813,0,7031}Por favor derrama a tua luz nesta{F801}Manopla mistica.{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Monge\0{F87A,42}{F813,0,7032}Agora, jovem rapaz, toque a Manopla.{F801}</source>
+    <target>{F812}Monge\0{F87A,42}{F813,0,7032}Agora, jovem rapaz, toque a Manopla.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Monge\0{F87A,42}{F813,0,7033}A-as escritas misticas apareceram{F801}na Manopla...{F801}{F802}{F813,0,7034}A Manopla aceitou este homem como{F801}seu dono...!{F801}</source>
+    <target>{F812}Monge\0{F87A,42}{F813,0,7033}A-as escritas misticas apareceram{F801}na Manopla...{F801}{F802}{F813,0,7034}A Manopla aceitou este homem como{F801}seu dono...!{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Samurai convidado\0{F813,0,7035}Isso faz dele o quinto!?{F801}</source>
+    <target>{F812}Samurai convidado\0{F813,0,7035}Isso faz dele o quinto!?{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Samurai convidado\0{F813,0,7036}Ahh... o nascer de um novo Samurai.{F801}</source>
+    <target>{F812}Samurai convidado\0{F813,0,7036}Ahh... o nascer de um novo Samurai.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Issachar\0{F87A,7}{F813,0,7037}Por que...!?{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F813,0,7037}Por que...!?{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Jovem rapaz\0{F87A,113}{F813,0,7009}A Manopla nao brilhou para mim.{F801}{F802}{F813,0,7010}Eu sei que este Rito eh um showzinho{F801}arranjado, mas o Reino diz que tenho que{F801}fazer, entao eu faco.{F801}</source>
+    <target>{F812}Jovem rapaz\0{F87A,113}{F813,0,7009}A Manopla nao brilhou para mim.{F801}{F802}{F813,0,7010}Eu sei que este Rito eh um showzinho{F801}arranjado, mas o Reino diz que tenho que{F801}fazer, entao eu faco.{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>{F812}Issachar\0{F87A,7}{F87B,7,3,1,1}{F813,0,7015}So saiba, {F843,0}... que voce{F801}sempre sera meu amigo.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F87B,7,3,1,1}{F813,0,7015}So saiba, {F843,0}... que voce{F801}sempre sera meu amigo.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>〉 Issachar Prosseguiu para o centro{F801}da praca.{F801}</source>
+    <target>〉 Issachar Prosseguiu para o centro{F801}da praca.{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>〉 Depois de algum tempo...{F801}</source>
+    <target>〉 Depois de algum tempo...{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>{F812}Samurai responsavel\0{F87A,29}{F813,0,7016}Proximo candidato, venha adiante!{F801}{F802}{F813,0,7017}Eu estou falando com voce. Apresse-se{F801}e va para o centro.{F801}</source>
+    <target>{F812}Samurai responsavel\0{F87A,29}{F813,0,7016}Proximo candidato, venha adiante!{F801}{F802}{F813,0,7017}Eu estou falando com voce. Apresse-se{F801}e va para o centro.{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>〉 {F843,0} caminhou ate o centro{F801}da praca...{F801}</source>
+    <target>〉 {F843,0} caminhou ate o centro{F801}da praca...{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>Estender seu braco{F801}Nao estender seu braco{F801}</source>
+    <target>Estender seu braco{F801}Nao estender seu braco{F801}</target>
+  </entry>
+</mbm>

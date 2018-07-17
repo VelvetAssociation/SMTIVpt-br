@@ -1,0 +1,90 @@
+﻿<mbm>
+  <entry id="0">
+    <source>〉 A Manopla subitamente comecou a emitir{F801}uma luz.{F801}{F802}〉 Algo apareceu no monitor LCD{F801}da Manopla...{F801}</source>
+    <target>〉 A Manopla subitamente comecou a emitir{F801}uma luz.{F801}{F802}〉 Algo apareceu no monitor LCD{F801}da Manopla...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Figura\0{F87A,2}......{F801}{F802}{F813,0,10002}Ola, humano.{F801}{F802}{F813,0,10003}Eu sou Burroughs, uma IA de navegacao.{F801}</source>
+    <target>{F812}Figura\0{F87A,2}......{F801}{F802}{F813,0,10002}Ola, humano.{F801}{F802}{F813,0,10003}Eu sou Burroughs, uma IA de navegacao.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10004}Eu reconheci voce como meu usuario.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10004}Eu reconheci voce como meu usuario.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hope\0{F87A,8}{F813,0,10006}Aqui eh Hope falando.{F801}{F802}{F813,0,10007}Eu estou vigiando as posicoes de voces{F801}atravez de Burroughs.{F801}{F802}{F813,0,10008}Vejo que estao todos em Naraku.{F801}Deixe-me explicar seu primeiro exercicio{F801}de treinamento.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,10006}Aqui eh Hope falando.{F801}{F802}{F813,0,10007}Eu estou vigiando as posicoes de voces{F801}atravez de Burroughs.{F801}{F802}{F813,0,10008}Vejo que estao todos em Naraku.{F801}Deixe-me explicar seu primeiro exercicio{F801}de treinamento.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hope\0{F87A,8}{F813,0,10009}Voces devem comecar com aprendendo o basico{F801}de combate atravez de batalhas contra demonios.{F801}{F802}{F813,0,10010}Lutar contra demonios eh uma habilidade{F801}necessaria para um Samurai.{F801}{F802}{F813,0,10011}Seu objetivo eh derrotar um demonio dentro{F801}de Naraku. Qualquer um serve.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,10009}Voces devem comecar com aprendendo o basico{F801}de combate atravez de batalhas contra demonios.{F801}{F802}{F813,0,10010}Lutar contra demonios eh uma habilidade{F801}necessaria para um Samurai.{F801}{F802}{F813,0,10011}Seu objetivo eh derrotar um demonio dentro{F801}de Naraku. Qualquer um serve.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hope\0{F87A,8}{F813,0,10012}Burroughs, o avatar que reside na{F801}Manopla, ira lhe fornecer suporte.{F801}{F802}{F813,0,10013}Por enquanto isso eh tudo. Voces devem{F801}comecar o treinamento de imediato.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F813,0,10012}Burroughs, o avatar que reside na{F801}Manopla, ira lhe fornecer suporte.{F801}{F802}{F813,0,10013}Por enquanto isso eh tudo. Voces devem{F801}comecar o treinamento de imediato.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10014}Eu posso explicar como a minha interface{F801}funciona. Voce gostaria de ouvir?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10014}Eu posso explicar como a minha interface{F801}funciona. Voce gostaria de ouvir?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>"Prossiga"{F801}"Nao, nao precisa."{F801}</source>
+    <target>"Prossiga"{F801}"Nao, nao precisa."{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10015}Certo. Vamos pular essa parte.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10015}Certo. Vamos pular essa parte.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>O {F804,5}Menu{F804,0} esta agora habilitado na tela{F801}inferior. Nele, voce pode ver seu status,{F801}usar itens, e outras funcoes importantes.{F801}{F802}Enquanto estiver em campo, voce pode acessar o{F801}Menu pressionando o botao Y.{F801}{F802}Enquanto faz progresso, mais funcionalidades{F801}do Menu serao desbloqueadas.{F801}</source>
+    <target>O {F804,5}Menu{F804,0} esta agora habilitado na tela{F801}inferior. Nele, voce pode ver seu status,{F801}usar itens, e outras funcoes importantes.{F801}{F802}Enquanto estiver em campo, voce pode acessar o{F801}Menu pressionando o botao Y.{F801}{F802}Enquanto faz progresso, mais funcionalidades{F801}do Menu serao desbloqueadas.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10016}Deu para entender tudo?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10016}Deu para entender tudo?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>"Eu certamente entendi."{F801}"Explique-me novamente."{F801}</source>
+    <target>"Eu certamente entendi."{F801}"Explique-me novamente."{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10020}Certo. Mostrarei as{F801}informacoes mais uma vez.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10020}Certo. Mostrarei as{F801}informacoes mais uma vez.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10018}Certifique-se de salvar, por precaucao.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10018}Certifique-se de salvar, por precaucao.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>Voce pode Salvar ou Carregar seus dados na{F801}tela do Menu.{F801}{F802}Para Salvar ou Carregar, selecione Burroughs na{F801}tela do Menu e entao escolha Salvar{F801}ou Carregar.{F801}</source>
+    <target>Voce pode Salvar ou Carregar seus dados na{F801}tela do Menu.{F801}{F802}Para Salvar ou Carregar, selecione Burroughs na{F801}tela do Menu e entao escolha Salvar{F801}ou Carregar.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10019}Deu para entender tudo?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10019}Deu para entender tudo?{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>"Eu certamente entendi."{F801}"Explique-me novamente."{F801}</source>
+    <target>"Eu certamente entendi."{F801}"Explique-me novamente."{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10020}Certo. Mostrarei as{F801}informacoes mais uma vez.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10020}Certo. Mostrarei as{F801}informacoes mais uma vez.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10022}Este eh todo o suporte que tenho por hora.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10022}Este eh todo o suporte que tenho por hora.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10021}Ate a proxima, Mestre {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10021}Ate a proxima, Mestre {F843,0}.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 A atmosfera aqui eh diferente de tudo{F801}que voce ja sentiu em sua vida...{F801}{F802}〉  Voce sente um calafrio lentamente{F801}descendo sua espinha....{F801}</source>
+    <target>〉 A atmosfera aqui eh diferente de tudo{F801}que voce ja sentiu em sua vida...{F801}{F802}〉  Voce sente um calafrio lentamente{F801}descendo sua espinha....{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,10005}E um prazer conhece-lo.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,10005}E um prazer conhece-lo.{F801}</target>
+  </entry>
+</mbm>

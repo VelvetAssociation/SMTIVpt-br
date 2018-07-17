@@ -1,0 +1,42 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,13001}Hey Master, you want to hear{F801}something useful?{F801}{F802}{F813,0,13002}There's a certain App that's a must{F801}for anyone who fights demons.{F801}{F802}{F813,0,13003}It's called the "Demon Fusion" App.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,13001}Ei Mestre, voce gostaria de ouvir{F801}algo util?{F801}{F802}{F813,0,13002}Tem um certo App que eh indispensavel para{F801}qualquer um que luta contra demonios.{F801}{F802}{F813,0,13003}O App eh chamado de "Fusao Demoniaca".{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,13004}Want to me to go over how demon{F801}fusion works with you?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,13004}Deseja que eu explique para voce como{F801}a fusao demoniaca funciona?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>"Por favor."{F801}"Nao precisa."{F801}</source>
+    <target>"Por favor."{F801}"Nao precisa."{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,13005}If you say so... But will you be all{F801}right without it? I'm a little anxious.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,13005}Se voce diz... Mas voce vai ficar bem{F801}sem uma explicacao? Estou um pouco ansiosa.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>"Fusao" foi adiciondo a lista de Apps{F801}desbloqueaveis de Burroughs.{F801}{F802}By using Fusion, you can fuse demons{F801}at any time through the Main Menu.{F801}</source>
+    <target>"Fusao" foi adiciondo a lista de Apps{F801}desbloqueaveis de Burroughs.{F801}{F802}Em usar Fusao, voce podera fundir demonios a{F801}qualquer hora atravez do Menu Principal.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,13006}You can ask the AI inside the Demon{F801}Fusion App for more details.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,13006}Voce pode pedir detalher a IA dentro do App{F801}de Fusao Demoniaca.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,13007}Ate a proxima, Mestre {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,13007}Ate a proxima, Mestre {F843,0}.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400055}Deu para entender tudo?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400055}Deu para entender tudo?{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>"Eu entendi."{F801}"Diga-me novamente."{F801}</source>
+    <target>"Eu entendi."{F801}"Diga-me novamente."{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400056}Certo. Eu irei repetir as informacoes{F801}mais uma vez.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400056}Certo. Eu irei repetir as informacoes{F801}mais uma vez.{F801}</target>
+  </entry>
+</mbm>

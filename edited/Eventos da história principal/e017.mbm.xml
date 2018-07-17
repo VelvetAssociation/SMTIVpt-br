@@ -1,0 +1,138 @@
+﻿<mbm>
+  <entry id="0">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,17001}So... you all came back alive.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,17001}Entao... todos voces voltaram com vida.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,17002}Commander, shall I assume that your{F801}order to return means someone has{F801}completed the quest?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,2}{F813,0,17002}Commandante, devo assumir que sua ordem de{F801}retornar significa que alguem{F801}completou a missao?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,1,1,1}{F813,0,17003}Regardless of what you are no doubt{F801}thinking, I was not the victor.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,1,1,1}{F813,0,17003}Apesar do que voces certamente estao{F801}pensando, eu nao fui o ganhador.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,17004}First place was {F843,0}.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,17004}O primeiro lugar foi {F843,0}.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F87B,3,4,1,1}{F813,0,17005}Oho!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F87B,3,4,1,1}{F813,0,17005}Oho!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F87B,6,12,1,1}{F813,0,17006}I'll be needing that ring back,{F801}{F843,0}.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F87B,6,12,1,1}{F813,0,17006}Eu vou precisar do anel de volta,{F801}{F843,0}.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 {F843,0} returned the Woman's Ring{F801}to Hope.{F801}</source>
+    <target>〉 {F843,0} retornou o Anel Feminino{F801}para Hope.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,4,1,1}{F87B,6,12,1,1}{F813,0,17007}It seems you've got the makings of{F801}a real Samurai.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,4,1,1}{F87B,6,12,1,1}{F813,0,17007}Parece que voce tem a aptidao de um{F801}verdadeiro Samurai.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,17008}Congratulations on completing the quest.{F801}{F802}{F813,0,17009}My Master got first place! Wait 'til{F801}I tell the other Burroughs!{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,17008}Parabens por completar a missao.{F801}{F802}{F813,0,17009}Meu Mestre conseguiu o primeiro lugar! Espere{F801}so ate eu contar as outras Burroughs!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F87B,4,1,1,1}{F813,0,17010}Hm, it seems you have hidden reserves.{F801}I underestimated you.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,3}{F87B,4,1,1,1}{F813,0,17010}Hm, parece que voce tem reservas escondidas.{F801}Eu subestimei voce.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F87B,6,1,1,1}{F813,0,17011}Alright then, today's training is over.{F801}Make sure that you all get enough rest.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F87B,6,1,1,1}{F813,0,17011}Muito bem, o treino de hoje acabou.{F801}Certifiquem-se de descansar o suficiente.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,17012}Dismissed.{F801}</source>
+    <target>{F812}Hope\0{F87A,8}{F87B,8,1,1,1}{F813,0,17012}Dispensados.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Navarre\0{F87A,6}{F813,0,17013}...You there. {F843,0}.{F801}{F802}{F813,0,17014}I'll deign to congratulate you, but I'd{F801}warn against getting a swelled head{F801}over this.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F813,0,17013}...Voce ai. {F843,0}.{F801}{F802}{F813,0,17014}Irei me condescender e parabenizá-lo, mas{F801}irei avisar que eh melhor que nao fique{F801}se achando por conta disso.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,17015}Navarre, I know you're disappointed,{F801}but let's not go casting false{F801}aspersions.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,2,1,1}{F813,0,17015}Navarre, eu sei que voce esta dessapontado,{F801}mas nao vamos semeiar difamacoes.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,3,1,1}{F813,0,17016}Indeed not... a Casualry isn't worth{F801}the headache.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,3,1,1}{F813,0,17016}Realmente... um Casualry nao vale a dor{F801}de cabeca.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F87B,3,12,1,1}{F813,0,17017}Pardon...!?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,2}{F87B,3,12,1,1}{F813,0,17017}Perdao...!?{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F813,0,17018}I won't soon forget today's humiliation.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F813,0,17018}Nao irei esquecer a humilhacao de hoje nem{F801}tao cedo.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 Navarre leaves.{F801}</source>
+    <target>〉 Navarre vai embora.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,17020}I have an idea. Why don't we go up to{F801}the castle rooftop for a change of{F801}pace? The wind is quite bracing there.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,17020}Eu tenho uma ideia. Porque nao vamos para{F801}a cobertura do castelo para uma mudanca{F801}de ares? O vento de la eh bastante estimulante.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,17021}Ah, now there's an idea, Jonathan!{F801}I'd been meaning to take in the view.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,17021}Ah, ta ai uma ideia, Jonathan!{F801}Eu estive pensando em admirar a vista.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,17022}Sorry, but I'll be retiring to my room.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,1,1,2}{F813,0,17022}Desculpe, mas irei me retirar para meu quarto.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Walter\0{F87A,4}{F813,0,17023}What a priss. Eu aposto que ela poderia{F801}an iron helmet and you wouldn't notice{F801}the difference.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,17023}Que rigida. Eu aposto que ela poderia{F801}colocar um capacete de ferro e ninguem{F801}notaria a diferenca.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,4,1,1}{F813,0,17024}Why don't you come too, {F843,0}?{F801}The rooftop view of the Eastern{F801}Kingdom of Mikado is breathtaking.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,4,1,1}{F813,0,17024}Porque voce tambem nao vem, {F843,0}?{F801}A vista da cobertura do Reino Oriental{F801}de Mikado eh de tirar o folego.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,17025}Let me know when you feel up for it.{F801}I'll be waiting here.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,17025}Deixe-me saber quando voce quiser ir.{F801}Estarei esperando aqui.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,17026}Let's all go there together.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,17026}Vamos todos juntos.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,17027}I'll be fighting in Naraku until{F801}{F843,0} feels up for it.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,17027}Eu estarei lutando em Naraku ate{F801}{F843,0} sentir vontade de ir.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,4,1,1}{F813,0,17028}Hello there, {F843,0}. Do you feel{F801}like going to the rooftop now?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,4,1,1}{F813,0,17028}Ola, {F843,0}. Voce sente que quer ir para{F801}a cobertura agora?{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>"Now is the time."{F801}"Not as yet..."{F801}</source>
+    <target>"Agora eh a hora."{F801}"Ainda nao..."{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,17029}I had a feeling you'd be game,{F801}{F843,0}... It appears I was right.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,17029}Eu tive a sensacao que voce estaria afim{F801}de ir, {F843,0}... Parece que eu estava certo.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,17030}We promised we'd all go together.{F801}There's no chance you're leaving me{F801}out of this!{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,4,1,1}{F813,0,17030}Nos prometemos que iriamos juntos.{F801}Sem chances que eu ficaria de fora!{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>〉 {F843,0} and company headed for{F801}the roof of Mikado Castle.{F801}</source>
+    <target>〉 {F843,0} e companhia dirigiram-se{F801}para a cobertura do Castelo Mikado.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,17031}I'll remain here. Just let me know{F801}when you feel up to it.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F813,0,17031}Eu irei permanecer aqui. Avise-me quando{F801}sentir vontade de ir.{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,1,1,1}{F813,0,17019}Now, if you'll all excuse me.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,1,1,1}{F813,0,17019}Agora, se me deem licenca.{F801}</target>
+  </entry>
+  <entry id="125">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400050}Eu irei registrar isso na lista como uma{F801}nova missao.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400050}Eu irei registrar isso na lista como uma{F801}nova missao.{F801}</target>
+  </entry>
+</mbm>
