@@ -19,6 +19,8 @@ Bajie
 
 Diamantino
 
+Novais
+
 
 Tradutores: A pasta "notedited" possui as pastas com textos ainda não traduzidos, e a pasta "edited" possui as pastas com textos já traduzidos. Quando acabar a tradução de algum arquivo, coloque-o na subpasta de "edited" correspondente a de onde ele foi retirado.
 
@@ -26,9 +28,6 @@ Quando escolher algum arquivo para traduzir, você ou pode editar o arquivo dire
 
 Não esqueça de avisar no grupo de tradução quando escolher algum arquivo para traduzir.
 -
-           
-
-Os arquivos do texto da história principal ainda não foram colocados pois, como eu, RitsuLaw, estou traduzindo essa parte, ainda devo separar as partes.
 
 Qualquer dúvida entrar em contato com a página Velvet Association no facebook.
 
