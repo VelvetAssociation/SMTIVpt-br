@@ -1,0 +1,126 @@
+<mbm>
+  <entry id="0">
+    <source>〉 It seems that there is no one here,{F801}but you feel as if you are being{F801}watched...{F801}</source>
+    <target>〉 It seems that there is no one here,{F801}but you feel as if you are being{F801}watched...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Sharp-Eyed man\0{F87A,38}......{F801}</source>
+    <target>{F812}Sharp-Eyed man\0{F87A,38}......{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 The man stares down at you...{F801}{F802}〉 Do you want to ask him about the{F801}quest?{F801}</source>
+    <target>〉 The man stares down at you...{F801}{F802}〉 Do you want to ask him about the{F801}quest?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 {F843,0} asks about the quest that{F801}he had accepted earlier.{F801}</source>
+    <target>〉 {F843,0} asks about the quest that{F801}he had accepted earlier.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 {F843,0} gives what he believes to{F801}be the password...{F801}{F802}......{F801}{F802}〉 It would seem that this password{F801}is incorrect.{F801}{F802}......{F801}{F802}〉 {F843,0} leaves the area...{F801}</source>
+    <target>〉 {F843,0} gives what he believes to{F801}be the password...{F801}{F802}......{F801}{F802}〉 It would seem that this password{F801}is incorrect.{F801}{F802}......{F801}{F802}〉 {F843,0} leaves the area...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 {F843,0} leaves the area...{F801}</source>
+    <target>〉 {F843,0} leaves the area...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Sharp-Eyed man\0{F87A,38}{F813,1,403241}I see that you've accepted my{F801}request, Samurai.{F801}{F802}......!{F801}{F802}Wait a moment... Aren't you{F801}{F843,0}? You were formerly a{F801}Casualry, isn't that right?{F801}{F802}{F813,1,403242}I see...{F801}{F802}My name is Rodolfo, a stonemason{F801}from O'Gickbough.{F801}{F802}{F812}Rodolfo\0{F87A,38}You come from the Casualry class...{F801}I suppose I can trust you.{F801}{F802}...Of course, it's not as if I'm{F801}asking for something strange.{F801}{F802}I mean, it is the sort of thing that{F801}I need to request assistance from a{F801}Samurai for...{F801}{F802}But, you see, the things I want to{F801}ask for are, well...{F801}{F802}Let's just say that there's a good{F801}chance the Monastery won't approve{F801}of it.{F801}{F802}That's why I want to directly make{F801}my request to a Samurai I can trust.{F801}{F802}We've read the books. We know a{F801}little about the world below us.{F801}{F802}There are Casualries that need those{F801}relics that come from the world below.{F801}{F802}I want you to help these people out.{F801}{F802}I'll leave it to you, {F843,0},{F801}as to whether or not you will accept{F801}the request.{F801}{F802}If you do feel like fulfilling my{F801}requests, just come talk to me here.{F801}{F802}That's all I have to say for now.{F801}{F802}There aren't too many Samurai that{F801}I can trust, so I'm counting on you.{F801}</source>
+    <target>{F812}Sharp-Eyed man\0{F87A,38}{F813,1,403241}I see that you've accepted my{F801}request, Samurai.{F801}{F802}......!{F801}{F802}Wait a moment... Aren't you{F801}{F843,0}? You were formerly a{F801}Casualry, isn't that right?{F801}{F802}{F813,1,403242}I see...{F801}{F802}My name is Rodolfo, a stonemason{F801}from O'Gickbough.{F801}{F802}{F812}Rodolfo\0{F87A,38}You come from the Casualry class...{F801}I suppose I can trust you.{F801}{F802}...Of course, it's not as if I'm{F801}asking for something strange.{F801}{F802}I mean, it is the sort of thing that{F801}I need to request assistance from a{F801}Samurai for...{F801}{F802}But, you see, the things I want to{F801}ask for are, well...{F801}{F802}Let's just say that there's a good{F801}chance the Monastery won't approve{F801}of it.{F801}{F802}That's why I want to directly make{F801}my request to a Samurai I can trust.{F801}{F802}We've read the books. We know a{F801}little about the world below us.{F801}{F802}There are Casualries that need those{F801}relics that come from the world below.{F801}{F802}I want you to help these people out.{F801}{F802}I'll leave it to you, {F843,0},{F801}as to whether or not you will accept{F801}the request.{F801}{F802}If you do feel like fulfilling my{F801}requests, just come talk to me here.{F801}{F802}That's all I have to say for now.{F801}{F802}There aren't too many Samurai that{F801}I can trust, so I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403202}Ah, {F843,0}.{F801}Thanks for coming.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403202}Ah, {F843,0}.{F801}Thanks for coming.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>"How can I help you?"{F801}"Just seeing if you're still here."{F801}</source>
+    <target>"How can I help you?"{F801}"Just seeing if you're still here."{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403203}I... I see. Well, do come by again{F801}if you have time.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403203}I... I see. Well, do come by again{F801}if you have time.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403242}You're going to take on one of my{F801}requests? Thank you.{F801}{F802}I have just the task in mind for{F801}you, {F843,0}.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403242}You're going to take on one of my{F801}requests? Thank you.{F801}{F802}I have just the task in mind for{F801}you, {F843,0}.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403242}You're going to take on one of my{F801}requests? Thank you.{F801}{F802}I have two requests that I would{F801}like to give to you at the moment.{F801}{F802}Here is the first one...{F801}{F802}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403242}You're going to take on one of my{F801}requests? Thank you.{F801}{F802}I have two requests that I would{F801}like to give to you at the moment.{F801}{F802}Here is the first one...{F801}{F802}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403242}You're going to take on one of my{F801}requests? Thank you.{F801}{F802}I have three requests that I would{F801}like to give to you at the moment.{F801}{F802}Here is the first one...{F801}{F802}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403242}You're going to take on one of my{F801}requests? Thank you.{F801}{F802}I have three requests that I would{F801}like to give to you at the moment.{F801}{F802}Here is the first one...{F801}{F802}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Rodolfo\0{F87A,38}A certain group of young men has{F801}requested your assistance. I cannot{F801}talk about the details.{F801}{F802}They will tell you more about this{F801}request in person.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}A certain group of young men has{F801}requested your assistance. I cannot{F801}talk about the details.{F801}{F802}They will tell you more about this{F801}request in person.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Rodolfo\0{F87A,38}This request comes from two brothers{F801}seeking to save their ill sister.{F801}{F802}I want you to help them, but...{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}This request comes from two brothers{F801}seeking to save their ill sister.{F801}{F802}I want you to help them, but...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Rodolfo\0{F87A,38}There's a certain man who needs an{F801}escort.{F801}{F802}This man was once a member of the{F801}Luxuror caste...{F801}{F802}I'm not sure what he's done, but{F801}someone's after his life.{F801}{F802}I don't fully agree with this{F801}request, but I cannot in good{F801}conscience ignore it.{F801}{F802}What I would ask of you, Samurai,{F801}is for you to take him to the world{F801}below.{F801}{F802}There is nowhere left in the Eastern{F801}Kingdom of Mikado where this man can{F801}live in peace.{F801}{F802}I have heard from other Samurai{F801}that a man named Fujiwara can be{F801}trusted with such matters.{F801}{F802}Could you escort this man to{F801}Fujiwara?{F801}{F802}A note, if you do plan to carry out{F801}this request...{F801}{F802}Try going to the back of the forest{F801}after accepting it.{F801}{F802}I'm sure he's determined that{F801}nobody finds him.{F801}{F802}I leave him in your care.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}There's a certain man who needs an{F801}escort.{F801}{F802}This man was once a member of the{F801}Luxuror caste...{F801}{F802}I'm not sure what he's done, but{F801}someone's after his life.{F801}{F802}I don't fully agree with this{F801}request, but I cannot in good{F801}conscience ignore it.{F801}{F802}What I would ask of you, Samurai,{F801}is for you to take him to the world{F801}below.{F801}{F802}There is nowhere left in the Eastern{F801}Kingdom of Mikado where this man can{F801}live in peace.{F801}{F802}I have heard from other Samurai{F801}that a man named Fujiwara can be{F801}trusted with such matters.{F801}{F802}Could you escort this man to{F801}Fujiwara?{F801}{F802}A note, if you do plan to carry out{F801}this request...{F801}{F802}Try going to the back of the forest{F801}after accepting it.{F801}{F802}I'm sure he's determined that{F801}nobody finds him.{F801}{F802}I leave him in your care.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403242}This is the other request I wanted{F801}to ask you about.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403242}This is the other request I wanted{F801}to ask you about.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Rodolfo\0{F87A,38}Do you want to hear the details{F801}from the client?{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}Do you want to hear the details{F801}from the client?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403242}Thanks. Let's go get the client.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403242}Thanks. Let's go get the client.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403243}...I see. Well, if you ever change{F801}your mind, I'll be waiting.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403243}...I see. Well, if you ever change{F801}your mind, I'll be waiting.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403203}I appreciate your efforts, but you{F801}have already helped everyone who{F801}has requested your assistance.{F801}{F802}All the requests you have carried{F801}out are things that we Casualries{F801}could never do on our own.{F801}{F802}I am most grateful for your help.{F801}If anything new comes up, I will{F801}be sure to let you know.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403203}I appreciate your efforts, but you{F801}have already helped everyone who{F801}has requested your assistance.{F801}{F802}All the requests you have carried{F801}out are things that we Casualries{F801}could never do on our own.{F801}{F802}I am most grateful for your help.{F801}If anything new comes up, I will{F801}be sure to let you know.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403242}It looks like everyone's problems{F801}have been solved thanks to you,{F801}{F843,0}.{F801}{F802}Thank you for all the help you have{F801}given us. You have my gratitude.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403242}It looks like everyone's problems{F801}have been solved thanks to you,{F801}{F843,0}.{F801}{F802}Thank you for all the help you have{F801}given us. You have my gratitude.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403241}Ah, so you've brought the goods{F801}that were asked for.{F801}{F802}Do you want to give them to the{F801}client right now?{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403241}Ah, so you've brought the goods{F801}that were asked for.{F801}{F802}Do you want to give them to the{F801}client right now?{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403241}...Hm? Looks like you've got the{F801}medicine in question.{F801}{F802}Do you want to give it to the{F801}brothers right now?{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403241}...Hm? Looks like you've got the{F801}medicine in question.{F801}{F802}Do you want to give it to the{F801}brothers right now?{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403242}Let me go get the clients, then.{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403242}Let me go get the clients, then.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 What will you say to him?{F801}</source>
+    <target>〉 What will you say to him?{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Rodolfo\0{F87A,38}{F813,1,403241}...Hm? Looks like you've got the{F801}medicine in question.{F801}{F802}Do you want to give it to the{F801}brothers right now?{F801}</source>
+    <target>{F812}Rodolfo\0{F87A,38}{F813,1,403241}...Hm? Looks like you've got the{F801}medicine in question.{F801}{F802}Do you want to give it to the{F801}brothers right now?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register the new quest in{F801}the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register the new quest in{F801}the list.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

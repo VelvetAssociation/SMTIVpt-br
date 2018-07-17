@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A demon is standing at the back{F801}of the room...{F801}</source>
+    <target>〉 A demon is standing at the back{F801}of the room...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-394}{F813,1,418004}Welcome, human.{F801}My name is Marici.{F801}{F802}{F812}Marici\0{F87A,-394}I have the honor to have been{F801}worshipped by the samurai of old.{F801}{F802}Personally, I do not find much joy{F801}in battle...{F801}{F802}But, to be worshipped is an{F801}invigorating experience. So, I accept{F801}and appreciate their devotion.{F801}{F802}{F813,1,418003}And now that a new, modern Samurai{F801}has appeared, this city has become{F801}much more comfortable to me.{F801}{F802}That is why I would like to lend a{F801}hand to the Samurai.{F801}{F802}If you wish, I shall give you a{F801}lesson on the art of battle.{F801}Would you like to spar with me?{F801}</source>
+    <target>{F812}Demon\0{F87A,-394}{F813,1,418004}Welcome, human.{F801}My name is Marici.{F801}{F802}{F812}Marici\0{F87A,-394}I have the honor to have been{F801}worshipped by the samurai of old.{F801}{F802}Personally, I do not find much joy{F801}in battle...{F801}{F802}But, to be worshipped is an{F801}invigorating experience. So, I accept{F801}and appreciate their devotion.{F801}{F802}{F813,1,418003}And now that a new, modern Samurai{F801}has appeared, this city has become{F801}much more comfortable to me.{F801}{F802}That is why I would like to lend a{F801}hand to the Samurai.{F801}{F802}If you wish, I shall give you a{F801}lesson on the art of battle.{F801}Would you like to spar with me?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>"It would be an honor."{F801}"I must refuse for now."{F801}</source>
+    <target>"It would be an honor."{F801}"I must refuse for now."{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Marici\0{F87A,-394}{F813,1,418001}Very well.{F801}Then let us get started.{F801}{F802}En garde!{F801}</source>
+    <target>{F812}Marici\0{F87A,-394}{F813,1,418001}Very well.{F801}Then let us get started.{F801}{F802}En garde!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Marici\0{F87A,-394}{F813,1,418002}I see.{F801}Very well.{F801}{F802}Come back when you are ready. I will{F801}be willing to train you any time.{F801}</source>
+    <target>{F812}Marici\0{F87A,-394}{F813,1,418002}I see.{F801}Very well.{F801}{F802}Come back when you are ready. I will{F801}be willing to train you any time.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Marici\0{F87A,-394}{F813,1,418004}Welcome, human.{F801}{F802}If you wish, I shall give you a{F801}lesson on the art of battle.{F801}Would you like to spar with me?{F801}</source>
+    <target>{F812}Marici\0{F87A,-394}{F813,1,418004}Welcome, human.{F801}{F802}If you wish, I shall give you a{F801}lesson on the art of battle.{F801}Would you like to spar with me?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Marici\0{F87A,-394}{F813,1,418003}I see. I have taken measure of your{F801}skill...{F801}{F802}If there are more humans like you,{F801}who wield such great power...{F801}{F802}...then I suppose there is little{F801}need for me to train them.{F801}{F802}Now, then, I suppose I will return to{F801}the palace of my master, Lord Surya.{F801}{F802}If you desire my aid, all you have{F801}to do is call for me.{F801}{F802}I shall come immediately to your{F801}side.{F801}</source>
+    <target>{F812}Marici\0{F87A,-394}{F813,1,418003}I see. I have taken measure of your{F801}skill...{F801}{F802}If there are more humans like you,{F801}who wield such great power...{F801}{F802}...then I suppose there is little{F801}need for me to train them.{F801}{F802}Now, then, I suppose I will return to{F801}the palace of my master, Lord Surya.{F801}{F802}If you desire my aid, all you have{F801}to do is call for me.{F801}{F802}I shall come immediately to your{F801}side.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The demon vanishes...{F801}</source>
+    <target>〉 The demon vanishes...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 According to the navigation map,{F801}this place is called the "Nakano{F801}Sun Plaza."{F801}</source>
+    <target>〉 According to the navigation map,{F801}this place is called the "Nakano{F801}Sun Plaza."{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Old Man\0{F87A,0}{F813,1,403831}Well, hello, lad. How's it going?{F801}Me? Oh, I'm just looking for someone.{F801}{F802}There's a rumor that there's a{F801}gorgeous woman who appears around{F801}here.{F801}{F802}If these rumors are true, then I just{F801}have to lay my eyes on her beauty.{F801}Otherwise, I'll never die happy.{F801}</source>
+    <target>{F812}Old Man\0{F87A,0}{F813,1,403831}Well, hello, lad. How's it going?{F801}Me? Oh, I'm just looking for someone.{F801}{F802}There's a rumor that there's a{F801}gorgeous woman who appears around{F801}here.{F801}{F802}If these rumors are true, then I just{F801}have to lay my eyes on her beauty.{F801}Otherwise, I'll never die happy.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 You have no business here...{F801}</source>
+    <target>〉 You have no business here...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,166 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Tayama\0{F87A,17}{F813,1,401101}Oh, I thought you'd be out looking for{F801}Yuriko. You're sure you want to be{F801}wasting time here?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,1,401101}Oh, I thought you'd be out looking for{F801}Yuriko. You're sure you want to be{F801}wasting time here?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Mean-looking man\0{F87A,47}{F813,0,133014}...Hah!{F801}</source>
+    <target>{F812}Mean-looking man\0{F87A,47}{F813,0,133014}...Hah!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,1,403023}Ow! Wait... my arm! Stop that, I say...!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,1,403023}Ow! Wait... my arm! Stop that, I say...!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Tayama\0{F87A,17}{F813,1,401102}...Both me and your friend here are{F801}looking forward to hearing good news.{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,1,401102}...Both me and your friend here are{F801}looking forward to hearing good news.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Tayama\0{F87A,17}{F813,1,415105}{F813,1,401102}Hm? Didn't I warn you enough yet? Why{F801}aren't you out looking for Yuriko...?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,1,415105}{F813,1,401102}Hm? Didn't I warn you enough yet? Why{F801}aren't you out looking for Yuriko...?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Mean-looking man\0{F87A,47}{F813,0,151050}...Hah!{F801}</source>
+    <target>{F812}Mean-looking man\0{F87A,47}{F813,0,151050}...Hah!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Master Samurai\0{F87A,116}{F813,1,403023}Ouch! What are you... my neck!{F801}Stop that, I say...!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}{F813,1,403023}Ouch! What are you... my neck!{F801}Stop that, I say...!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Tayama\0{F87A,17}{F813,1,401102}I'm not a patient man. You should bring{F801}me results soon, don't you think?{F801}</source>
+    <target>{F812}Tayama\0{F87A,17}{F813,1,401102}I'm not a patient man. You should bring{F801}me results soon, don't you think?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Master Samurai\0{F87A,116}Oh... You came again! How considerate{F801}of your master Samurai you are!{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}Oh... You came again! How considerate{F801}of your master Samurai you are!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Master Samurai\0{F87A,116}But you have your own duty to fulfill,{F801}no? I shall endure here. Now, go...{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,116}But you have your own duty to fulfill,{F801}no? I shall endure here. Now, go...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Voice\0{F87A,29}{F813,1,404301}...Alright, stop right there.{F801}</source>
+    <target>{F812}Voice\0{F87A,29}{F813,1,404301}...Alright, stop right there.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Ashura-kai man\0{F87A,137}That bitch didn't send you, did she?{F801}Then you really got no business here.{F801}{F802}Just turn on around and go home...{F801}Forget what happened here.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,137}That bitch didn't send you, did she?{F801}Then you really got no business here.{F801}{F802}Just turn on around and go home...{F801}Forget what happened here.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Scary-faced man\0{F87A,138}{F813,1,68001}Who're you? Ya came to join the{F801}Ashura-kai?{F801}{F802}...Didn't ya read the conditions? Bring{F801}us a recommendation from a member or{F801}three fresh kids.{F801}{F802}No exceptions. Now turn around and{F801}go on home.{F801}</source>
+    <target>{F812}Scary-faced man\0{F87A,138}{F813,1,68001}Who're you? Ya came to join the{F801}Ashura-kai?{F801}{F802}...Didn't ya read the conditions? Bring{F801}us a recommendation from a member or{F801}three fresh kids.{F801}{F802}No exceptions. Now turn around and{F801}go on home.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Ashura-kai man\0{F87A,46}{F813,1,404311}Mr. Tayama told me to not let anyone{F801}near Shibuya.{F801}{F802}...So there ya have it. Scram.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,46}{F813,1,404311}Mr. Tayama told me to not let anyone{F801}near Shibuya.{F801}{F802}...So there ya have it. Scram.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Ashura-kai man\0{F87A,46}{F813,1,404321}Mr. Tayama said you Samurai can pass.{F801}{F802}...So there ya have it. Have fun.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,46}{F813,1,404321}Mr. Tayama said you Samurai can pass.{F801}{F802}...So there ya have it. Have fun.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Ashura-kai man\0{F87A,46}{F813,1,404311}This way leads all sorts of places:{F801}Toyosu, Tennozu... other stuff...{F801}{F802}But Mr. Tayama said not to let anyone{F801}pass.{F801}{F802}So long as our Ashura-kai's still{F801}around, just assume you're not getting{F801}through here.{F801}</source>
+    <target>{F812}Ashura-kai man\0{F87A,46}{F813,1,404311}This way leads all sorts of places:{F801}Toyosu, Tennozu... other stuff...{F801}{F802}But Mr. Tayama said not to let anyone{F801}pass.{F801}{F802}So long as our Ashura-kai's still{F801}around, just assume you're not getting{F801}through here.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,79023}Hehehe... I'll let you cross the river.{F801}And the Ashura-kai doesn't have to{F801}know...{F801}{F802}{F813,0,79024}Or at least that was the plan...{F801}{F802}{F813,0,79025}But there aren't any open boats right{F801}now, what with the big group of{F801}customers going to Ikebukuro.{F801}{F802}{F813,0,79026}Sorry about that. You'll have to go{F801}kill some time somewhere.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,79023}Hehehe... I'll let you cross the river.{F801}And the Ashura-kai doesn't have to{F801}know...{F801}{F802}{F813,0,79024}Or at least that was the plan...{F801}{F802}{F813,0,79025}But there aren't any open boats right{F801}now, what with the big group of{F801}customers going to Ikebukuro.{F801}{F802}{F813,0,79026}Sorry about that. You'll have to go{F801}kill some time somewhere.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,79027}Hehehe... I'll let you cross the river.{F801}And the Ashura-kai doesn't have to{F801}know...{F801}{F802}{F813,0,79028}You want to head over to Chiyoda?{F801}It'll cost you 500 Macca...{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,79027}Hehehe... I'll let you cross the river.{F801}And the Ashura-kai doesn't have to{F801}know...{F801}{F802}{F813,0,79028}You want to head over to Chiyoda?{F801}It'll cost you 500 Macca...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,79027}Hehehe... I'll let you cross the river.{F801}And the Ashura-kai doesn't have to{F801}know...{F801}{F802}{F813,0,79028}You want to head to Ouji and Minami Senju?{F801}It'll cost you 500 Macca...{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,79027}Hehehe... I'll let you cross the river.{F801}And the Ashura-kai doesn't have to{F801}know...{F801}{F802}{F813,0,79028}You want to head to Ouji and Minami Senju?{F801}It'll cost you 500 Macca...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,79027}Hehehe... I'll let you cross the river.{F801}And the Ashura-kai doesn't have to{F801}know...{F801}{F802}{F813,0,79028}You want to head over to Ueno?{F801}It'll cost you 200 Macca...{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,79027}Hehehe... I'll let you cross the river.{F801}And the Ashura-kai doesn't have to{F801}know...{F801}{F802}{F813,0,79028}You want to head over to Ueno?{F801}It'll cost you 200 Macca...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>Cross{F801}Don't cross{F801}</source>
+    <target>Cross{F801}Don't cross{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,79029}Hehehe... Thanks for the business.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,79029}Hehehe... Thanks for the business.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,79030}Then come back when you want to{F801}cross the river.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,79030}Then come back when you want to{F801}cross the river.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,79031}Hey, you don't have the money{F801}for that!{F801}{F802}{F813,0,79032}Go raise some Macca somewhere and{F801}come back.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,79031}Hey, you don't have the money{F801}for that!{F801}{F802}{F813,0,79032}Go raise some Macca somewhere and{F801}come back.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Demon\0{F87A,-240}{F813,0,79022}Ah, it's you. Would you like to{F801}cross the river?{F801}</source>
+    <target>{F812}Demon\0{F87A,-240}{F813,0,79022}Ah, it's you. Would you like to{F801}cross the river?{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>Cross{F801}Don't cross{F801}</source>
+    <target>Cross{F801}Don't cross{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Demon\0{F87A,-240}{F813,0,79018}Hey guys, it's Formation B time.{F801}We're going with B!{F801}</source>
+    <target>{F812}Demon\0{F87A,-240}{F813,0,79018}Hey guys, it's Formation B time.{F801}We're going with B!{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Demon\0{F87A,-240}{F813,0,79019}We owe our lives to you. We'll gladly{F801}act as your bridge whenever you need.{F801}</source>
+    <target>{F812}Demon\0{F87A,-240}{F813,0,79019}We owe our lives to you. We'll gladly{F801}act as your bridge whenever you need.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>〉 The old underground railway is now an{F801}underground tunnel...{F801}{F802}〉 According to the map, this leads to{F801}the Roppongi region.{F801}</source>
+    <target>〉 The old underground railway is now an{F801}underground tunnel...{F801}{F802}〉 According to the map, this leads to{F801}the Roppongi region.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 The old underground railway is now an{F801}underground tunnel...{F801}{F802}〉 According to the map, this leads to{F801}the Bay area.{F801}</source>
+    <target>〉 The old underground railway is now an{F801}underground tunnel...{F801}{F802}〉 According to the map, this leads to{F801}the Bay area.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>〉 The old underground railway is now an{F801}underground tunnel...{F801}{F802}〉 According to the map, this leads to{F801}the Shinjuku region.{F801}</source>
+    <target>〉 The old underground railway is now an{F801}underground tunnel...{F801}{F802}〉 According to the map, this leads to{F801}the Shinjuku region.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>〉 The old underground railway is now an{F801}underground tunnel...{F801}{F802}〉 According to the map, this leads to{F801}the Ikebukuro region.{F801}</source>
+    <target>〉 The old underground railway is now an{F801}underground tunnel...{F801}{F802}〉 According to the map, this leads to{F801}the Ikebukuro region.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>Take the tunnel{F801}Leave{F801}</source>
+    <target>Take the tunnel{F801}Leave{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>〉 There is a large temple in front of you.{F801}</source>
+    <target>〉 There is a large temple in front of you.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>Enter{F801}Leave{F801}</source>
+    <target>Enter{F801}Leave{F801}</target>
+  </entry>
+  <entry id="117">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,404331}Hehehe... I'll let you cross the river.{F801}{F802}{F813,0,79028}You want to head over to Chiyoda?{F801}It'll cost you 500 Macca...{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,404331}Hehehe... I'll let you cross the river.{F801}{F802}{F813,0,79028}You want to head over to Chiyoda?{F801}It'll cost you 500 Macca...{F801}</target>
+  </entry>
+  <entry id="118">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,404331}Hehehe... I'll let you cross the river.{F801}{F802}{F813,0,79028}You want to head to Ouji and Minami Senju?{F801}It'll cost you 500 Macca...{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,404331}Hehehe... I'll let you cross the river.{F801}{F802}{F813,0,79028}You want to head to Ouji and Minami Senju?{F801}It'll cost you 500 Macca...{F801}</target>
+  </entry>
+  <entry id="119">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,404331}Hehehe... I'll let you cross the river.{F801}{F802}{F813,0,79028}You want to head over to Ueno?{F801}It'll cost you 200 Macca...{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,404331}Hehehe... I'll let you cross the river.{F801}{F802}{F813,0,79028}You want to head over to Ueno?{F801}It'll cost you 200 Macca...{F801}</target>
+  </entry>
+  <entry id="123">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,404321}Hey, you don't have the money{F801}for that!{F801}{F802}Fine... we're both Hunters, after all.{F801}Make sure you've raised some Macca{F801}by the time you come back.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,404321}Hey, you don't have the money{F801}for that!{F801}{F802}Fine... we're both Hunters, after all.{F801}Make sure you've raised some Macca{F801}by the time you come back.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,118 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isis\0{F87A,-375}{F813,1,418004}Thank you for coming, {F843,0}.{F801}It pleases me to meet you again.{F801}{F802}I had faith that you would once again{F801}come to my aid in my hour of need.{F801}{F802}My current situation is related to{F801}your retrieving the coffin of my{F801}husband, Osiris.{F801}{F802}Thanks to you, I was able to make{F801}the necessary preparations for his{F801}resurrection.{F801}{F802}{F813,1,418006}However, Seth caught wind of my goal,{F801}and attacked us once again.{F801}{F802}This time, he has dismembered the{F801}body of my husband, and scattered the{F801}parts in different areas of Tokyo...{F801}{F802}As you can probably guess, I ask of{F801}you to collect the pieces of Osiris'{F801}body and bring them back to me.{F801}{F802}I am sorry that I must always ask{F801}you to undertake these troublesome{F801}tasks...{F801}{F802}Please, help my bring back my{F801}husband.{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}{F813,1,418004}Thank you for coming, {F843,0}.{F801}It pleases me to meet you again.{F801}{F802}I had faith that you would once again{F801}come to my aid in my hour of need.{F801}{F802}My current situation is related to{F801}your retrieving the coffin of my{F801}husband, Osiris.{F801}{F802}Thanks to you, I was able to make{F801}the necessary preparations for his{F801}resurrection.{F801}{F802}{F813,1,418006}However, Seth caught wind of my goal,{F801}and attacked us once again.{F801}{F802}This time, he has dismembered the{F801}body of my husband, and scattered the{F801}parts in different areas of Tokyo...{F801}{F802}As you can probably guess, I ask of{F801}you to collect the pieces of Osiris'{F801}body and bring them back to me.{F801}{F802}I am sorry that I must always ask{F801}you to undertake these troublesome{F801}tasks...{F801}{F802}Please, help my bring back my{F801}husband.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Isis\0{F87A,-375}{F813,1,418003}Once you have collected all of the{F801}body parts, please bring them back{F801}to me.{F801}{F802}The continual sacrilege to Osiris'{F801}body is causing his anger to build.{F801}{F802}At this rate, there may be some{F801}negative effects in the areas where{F801}the parts of his body are hidden.{F801}{F802}I am counting on you.{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}{F813,1,418003}Once you have collected all of the{F801}body parts, please bring them back{F801}to me.{F801}{F802}The continual sacrilege to Osiris'{F801}body is causing his anger to build.{F801}{F802}At this rate, there may be some{F801}negative effects in the areas where{F801}the parts of his body are hidden.{F801}{F802}I am counting on you.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Isis\0{F87A,-375}{F813,1,418004}Could it be... Have you found all of{F801}my husband's body?{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}{F813,1,418004}Could it be... Have you found all of{F801}my husband's body?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You try to give Osiris' body to{F801}Isis...{F801}</source>
+    <target>〉 You try to give Osiris' body to{F801}Isis...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon's voice\0{F87A,-125}{F813,1,494205}I will not allow the resurrection of{F801}Osiris...{F801}</source>
+    <target>{F812}Demon's voice\0{F87A,-125}{F813,1,494205}I will not allow the resurrection of{F801}Osiris...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isis\0{F87A,-375}{F813,1,418007}As I expected, Seth was waiting for{F801}us to collect all the parts...{F801}{F802}But you defeated Seth, {F843,0}.{F801}{F802}I am finally able to conduct the{F801}ritual necessary to resurrect Osiris.{F801}{F802}Now, {F843,0}.{F801}Place Osiris' body here.{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}{F813,1,418007}As I expected, Seth was waiting for{F801}us to collect all the parts...{F801}{F802}But you defeated Seth, {F843,0}.{F801}{F802}I am finally able to conduct the{F801}ritual necessary to resurrect Osiris.{F801}{F802}Now, {F843,0}.{F801}Place Osiris' body here.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Isis\0{F87A,-375}{F813,1,418003}What is the matter? You're being{F801}quite the tease, you know.{F801}{F802}I suppose I am getting a little too{F801}worked up from the joy of being able{F801}to see my husband again.{F801}{F802}Very well. I shall wait a little{F801}longer.{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}{F813,1,418003}What is the matter? You're being{F801}quite the tease, you know.{F801}{F802}I suppose I am getting a little too{F801}worked up from the joy of being able{F801}to see my husband again.{F801}{F802}Very well. I shall wait a little{F801}longer.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Isis\0{F87A,-375}{F813,1,418000}Now, {F843,0}.{F801}Place Osiris' body here.{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}{F813,1,418000}Now, {F843,0}.{F801}Place Osiris' body here.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Isis\0{F87A,-375}{F813,1,418001}Thank you. Now I can finally{F801}resurrect my husband.{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}{F813,1,418001}Thank you. Now I can finally{F801}resurrect my husband.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 Isis places her hand over Osiris'{F801}body...{F801}</source>
+    <target>〉 Isis places her hand over Osiris'{F801}body...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Osiris\0{F87A,0}{F813,1,412201}Ah, Isis, my lovely wife, you have{F801}finally restored me to life.{F801}</source>
+    <target>{F812}Osiris\0{F87A,0}{F813,1,412201}Ah, Isis, my lovely wife, you have{F801}finally restored me to life.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Isis\0{F87A,0}{F813,1,418002}Yes. And it is all thanks to this{F801}human... {F843,0}.{F801}{F802}He ran all over the place for you,{F801}and even defeated Seth.{F801}</source>
+    <target>{F812}Isis\0{F87A,0}{F813,1,418002}Yes. And it is all thanks to this{F801}human... {F843,0}.{F801}{F802}He ran all over the place for you,{F801}and even defeated Seth.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Osiris\0{F87A,0}{F813,1,412200}Is that so? Then you have my thanks,{F801}{F843,0}.{F801}{F802}If I were to not do anything for you{F801}in return, it would reflect badly on{F801}my dignity as a king.{F801}{F802}I shall go with you on your journey,{F801}{F843,0}, and aid you.{F801}{F802}Is that all right, Isis?{F801}</source>
+    <target>{F812}Osiris\0{F87A,0}{F813,1,412200}Is that so? Then you have my thanks,{F801}{F843,0}.{F801}{F802}If I were to not do anything for you{F801}in return, it would reflect badly on{F801}my dignity as a king.{F801}{F802}I shall go with you on your journey,{F801}{F843,0}, and aid you.{F801}{F802}Is that all right, Isis?{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Isis\0{F87A,0}{F813,1,418003}Very well.{F801}{F802}I shall return to our palace and wait{F801}for your return.{F801}{F802}I will prepare a banquet to celebrate{F801}the return of our king.{F801}</source>
+    <target>{F812}Isis\0{F87A,0}{F813,1,418003}Very well.{F801}{F802}I shall return to our palace and wait{F801}for your return.{F801}{F802}I will prepare a banquet to celebrate{F801}the return of our king.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 Isis bows and leaves, looking much{F801}happier than before...{F801}</source>
+    <target>〉 Isis bows and leaves, looking much{F801}happier than before...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Osiris\0{F87A,0}{F813,1,412200}A banquet... I will have to look{F801}forward to it.{F801}{F802}Now then, {F843,0}.{F801}Let us go.{F801}</source>
+    <target>{F812}Osiris\0{F87A,0}{F813,1,412200}A banquet... I will have to look{F801}forward to it.{F801}{F802}Now then, {F843,0}.{F801}Let us go.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Osiris\0{F87A,0}{F813,1,412203}Just between you and me...{F801}I'm still missing part of my body.{F801}{F802}I'm hoping that I will be able to{F801}find it if I remain in this world.{F801}{F802}{F813,1,412201}Aha... My wife can never hear of{F801}this, though. Do you understand?{F801}{F802}Now then...{F801}{F802}{F813,1,412210}I am the Deity Osiris, at your{F801}service.{F801}</source>
+    <target>{F812}Osiris\0{F87A,0}{F813,1,412203}Just between you and me...{F801}I'm still missing part of my body.{F801}{F802}I'm hoping that I will be able to{F801}find it if I remain in this world.{F801}{F802}{F813,1,412201}Aha... My wife can never hear of{F801}this, though. Do you understand?{F801}{F802}Now then...{F801}{F802}{F813,1,412210}I am the Deity Osiris, at your{F801}service.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 Osiris has joined you.{F801}</source>
+    <target>〉 Osiris has joined you.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Osiris\0{F87A,0}{F813,1,412209}Oh, it seems as though there is not{F801}enough space for me on your machine.{F801}{F802}Very well, I shall wait here.{F801}</source>
+    <target>{F812}Osiris\0{F87A,0}{F813,1,412209}Oh, it seems as though there is not{F801}enough space for me on your machine.{F801}{F802}Very well, I shall wait here.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Osiris\0{F87A,0}{F813,1,412203}Are you prepared for me to join you?{F801}</source>
+    <target>{F812}Osiris\0{F87A,0}{F813,1,412203}Are you prepared for me to join you?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 A demon's voice speaks from{F801}somewhere...{F801}</source>
+    <target>〉 A demon's voice speaks from{F801}somewhere...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Osiris\0{F87A,0}{F813,1,412202}Ah, good. It would appear that{F801}everything is in order.{F801}</source>
+    <target>{F812}Osiris\0{F87A,0}{F813,1,412202}Ah, good. It would appear that{F801}everything is in order.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 You give Osiris' body to Isis...{F801}</source>
+    <target>〉 You give Osiris' body to Isis...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 According to the map, this place{F801}is called the "Zojoji Temple."{F801}{F802}〉 It is in ruins, but the air in the{F801}area is pure and fresh...{F801}</source>
+    <target>〉 According to the map, this place{F801}is called the "Zojoji Temple."{F801}{F802}〉 It is in ruins, but the air in the{F801}area is pure and fresh...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 You no longer have any business{F801}here...{F801}</source>
+    <target>〉 You no longer have any business{F801}here...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Osiris\0{F87A,0}{F813,1,412209}Oh? It seems that a portion of my{F801}spirit already travels with you.{F801}{F802}In that case, I shall let that portion{F801}of me do the work of assisting you.{F801}{F802}{F813,1,412203}Just between you and me...{F801}I'm still missing part of my body.{F801}{F802}I'm hoping that I will be able to{F801}find it if I remain in this world.{F801}{F802}{F813,1,412201}Haha... But, I shall let this spirit{F801}double of mine look for that as well.{F801}</source>
+    <target>{F812}Osiris\0{F87A,0}{F813,1,412209}Oh? It seems that a portion of my{F801}spirit already travels with you.{F801}{F802}In that case, I shall let that portion{F801}of me do the work of assisting you.{F801}{F802}{F813,1,412203}Just between you and me...{F801}I'm still missing part of my body.{F801}{F802}I'm hoping that I will be able to{F801}find it if I remain in this world.{F801}{F802}{F813,1,412201}Haha... But, I shall let this spirit{F801}double of mine look for that as well.{F801}</target>
+  </entry>
+  <entry id="800">
+    <source>{F812}Megami Isis\0{F87A,-375}Is there no one who will help me find{F801}my husband's body parts, after Seth{F801}scattered them all about the city?{F801}{F802}</source>
+    <target>{F812}Megami Isis\0{F87A,-375}Is there no one who will help me find{F801}my husband's body parts, after Seth{F801}scattered them all about the city?{F801}{F802}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>〉 The goddess Isis stands here.{F801}She appears to be desperate...{F801}</source>
+    <target>〉 The goddess Isis stands here.{F801}She appears to be desperate...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,118 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-40}{F813,1,417007}Who are you?{F801}Are you... after me?{F801}</source>
+    <target>{F812}Demon\0{F87A,-40}{F813,1,417007}Who are you?{F801}Are you... after me?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 {F843,0} explains the reason he{F801}came here.{F801}</source>
+    <target>〉 {F843,0} explains the reason he{F801}came here.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-40}{F813,1,417001}Brigid sent you?{F801}Whew, I'm saved!{F801}{F802}My name's Fortuna.{F801}I'm an old friend of Brigid.{F801}{F802}{F812}Fortuna\0{F87A,-40}It'd be bad if an angel caught us{F801}here, so I'll be quick and tell you{F801}what's going on.{F801}{F802}This is {F804,5}Dagda's Cauldron.{F804,0}{F801}Some people mistakenly call it the{F801}Holy Grail.{F801}{F802}We snuck into their main stronghold{F801}to take back the Cauldron, which had{F801}been stolen from us, but...{F801}{F802}Everyone was killed by the angels...{F801}Everyone but me, that is...{F801}{F802}I have to get the Cauldron back,{F801}but I'm too hurt to go any further.{F801}{F802}But now that you're here, I get the{F801}feeling that our plan may yet succeed.{F801}{F802}Please, take Dagda's Cauldron to{F801}Brigid before the angels find you!{F801}</source>
+    <target>{F812}Demon\0{F87A,-40}{F813,1,417001}Brigid sent you?{F801}Whew, I'm saved!{F801}{F802}My name's Fortuna.{F801}I'm an old friend of Brigid.{F801}{F802}{F812}Fortuna\0{F87A,-40}It'd be bad if an angel caught us{F801}here, so I'll be quick and tell you{F801}what's going on.{F801}{F802}This is {F804,5}Dagda's Cauldron.{F804,0}{F801}Some people mistakenly call it the{F801}Holy Grail.{F801}{F802}We snuck into their main stronghold{F801}to take back the Cauldron, which had{F801}been stolen from us, but...{F801}{F802}Everyone was killed by the angels...{F801}Everyone but me, that is...{F801}{F802}I have to get the Cauldron back,{F801}but I'm too hurt to go any further.{F801}{F802}But now that you're here, I get the{F801}feeling that our plan may yet succeed.{F801}{F802}Please, take Dagda's Cauldron to{F801}Brigid before the angels find you!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Fortuna presses Dagda's Cauldron{F801}into {F843,0}'s hands...{F801}</source>
+    <target>〉 Fortuna presses Dagda's Cauldron{F801}into {F843,0}'s hands...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Fortuna\0{F87A,-40}Dagda's Cauldron is old and somewhat{F801}fragile.{F801}{F802}If it breaks, bring it back to me{F801}and I will repair it for you.{F801}{F802}I still have the power to do that...{F801}</source>
+    <target>{F812}Fortuna\0{F87A,-40}Dagda's Cauldron is old and somewhat{F801}fragile.{F801}{F802}If it breaks, bring it back to me{F801}and I will repair it for you.{F801}{F802}I still have the power to do that...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 {F843,0} will now carry Dagda's{F801}Cauldron.{F801}</source>
+    <target>〉 {F843,0} will now carry Dagda's{F801}Cauldron.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 While carrying the Cauldron,{F801}{F843,0} can only perform the Run{F801}and Next actions in battle.{F801}{F802}〉 In addition, if {F843,0} is hurt,{F801}Dagda's Cauldron will also take{F801}damage.{F801}</source>
+    <target>〉 While carrying the Cauldron,{F801}{F843,0} can only perform the Run{F801}and Next actions in battle.{F801}{F802}〉 In addition, if {F843,0} is hurt,{F801}Dagda's Cauldron will also take{F801}damage.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Fortuna\0{F87A,-40}{F813,1,417008}Did you break Dagda's Cauldron?{F801}Fine, let me see it.{F801}</source>
+    <target>{F812}Fortuna\0{F87A,-40}{F813,1,417008}Did you break Dagda's Cauldron?{F801}Fine, let me see it.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Fortuna's magic has returned Dagda's{F801}Cauldron to its original state.{F801}</source>
+    <target>〉 Fortuna's magic has returned Dagda's{F801}Cauldron to its original state.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Fortuna\0{F87A,-40}I'm sure it'll work out this time.{F801}You can do it!{F801}</source>
+    <target>{F812}Fortuna\0{F87A,-40}I'm sure it'll work out this time.{F801}You can do it!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Fortuna\0{F87A,-40}{F813,1,417007}I tried to do this task for my{F801}friend, it ended kind of pathetically.{F801}{F802}It's killing me to admit it, but{F801}you're the only one I can count on{F801}now. Please get it to Brigid.{F801}</source>
+    <target>{F812}Fortuna\0{F87A,-40}{F813,1,417007}I tried to do this task for my{F801}friend, it ended kind of pathetically.{F801}{F802}It's killing me to admit it, but{F801}you're the only one I can count on{F801}now. Please get it to Brigid.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Dagda's Cauldron has broken.{F801}{F802}〉 You must go back to Fortuna to have{F801}it repaired.{F801}</source>
+    <target>〉 Dagda's Cauldron has broken.{F801}{F802}〉 You must go back to Fortuna to have{F801}it repaired.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Demon\0{F87A,-42}{F813,1,418003}Thank you for accepting the quest.{F801}My name is Brigid.{F801}{F802}{F812}Brigid\0{F87A,-42}My task for you is to bring me{F801}Dagda's Cauldron.{F801}{F802}My kin have risked their lives in{F801}order to recover the Cauldron, which{F801}was stolen from us...{F801}{F802}While those who went to retrieve it{F801}could not bring it here, they were{F801}able to bring it to Naraku.{F801}{F802}I believe that the goddess {F804,5}Fortuna{F804,0}{F801}is currently in possession of the{F801}Cauldron at the moment.{F801}{F802}There's not much time left. I will{F801}explain my reasons later. For now, I{F801}want you to bring me Dagda's Cauldron.{F801}</source>
+    <target>{F812}Demon\0{F87A,-42}{F813,1,418003}Thank you for accepting the quest.{F801}My name is Brigid.{F801}{F802}{F812}Brigid\0{F87A,-42}My task for you is to bring me{F801}Dagda's Cauldron.{F801}{F802}My kin have risked their lives in{F801}order to recover the Cauldron, which{F801}was stolen from us...{F801}{F802}While those who went to retrieve it{F801}could not bring it here, they were{F801}able to bring it to Naraku.{F801}{F802}I believe that the goddess {F804,5}Fortuna{F804,0}{F801}is currently in possession of the{F801}Cauldron at the moment.{F801}{F802}There's not much time left. I will{F801}explain my reasons later. For now, I{F801}want you to bring me Dagda's Cauldron.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Brigid\0{F87A,-42}{F813,1,418003}Megami Fortuna should be somewhere{F801}in the cavern known as Naraku.{F801}{F802}Please obtain Dagda's Cauldron from her,{F801}and bring it here.{F801}</source>
+    <target>{F812}Brigid\0{F87A,-42}{F813,1,418003}Megami Fortuna should be somewhere{F801}in the cavern known as Naraku.{F801}{F802}Please obtain Dagda's Cauldron from her,{F801}and bring it here.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Demon\0{F87A,-42}{F813,1,418004}That is Dagda's Cauldron!{F801}{F802}So you saw the quest, and brought me{F801}the Cauldron? Thank you so much.{F801}{F802}My name is Brigid, a member of the{F801}Tuatha De Danann.{F801}{F802}{F812}Brigid\0{F87A,-42}Excuse me, but do you know if the{F801}others are still alive...?{F801}</source>
+    <target>{F812}Demon\0{F87A,-42}{F813,1,418004}That is Dagda's Cauldron!{F801}{F802}So you saw the quest, and brought me{F801}the Cauldron? Thank you so much.{F801}{F802}My name is Brigid, a member of the{F801}Tuatha De Danann.{F801}{F802}{F812}Brigid\0{F87A,-42}Excuse me, but do you know if the{F801}others are still alive...?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Brigid\0{F87A,-42}{F813,1,418004}That is Dagda's Cauldron!{F801}{F802}So you retrieved it from Fortuna{F801}and brought it here.{F801}{F802}Excuse me, but... Do you know if the{F801}others are still alive...?{F801}</source>
+    <target>{F812}Brigid\0{F87A,-42}{F813,1,418004}That is Dagda's Cauldron!{F801}{F802}So you retrieved it from Fortuna{F801}and brought it here.{F801}{F802}Excuse me, but... Do you know if the{F801}others are still alive...?{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 {F843,0} explains what he had been{F801}told by Fortuna...{F801}</source>
+    <target>〉 {F843,0} explains what he had been{F801}told by Fortuna...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Brigid\0{F87A,-42}{F813,1,418007}I see... Everyone but Fortuna...{F801}{F802}......{F801}{F802}We were all prepared for this. Now I{F801}must finish the task that we all set{F801}out to accomplish.{F801}{F802}I will take Dagda's Cauldron from{F801}here.{F801}</source>
+    <target>{F812}Brigid\0{F87A,-42}{F813,1,418007}I see... Everyone but Fortuna...{F801}{F802}......{F801}{F802}We were all prepared for this. Now I{F801}must finish the task that we all set{F801}out to accomplish.{F801}{F802}I will take Dagda's Cauldron from{F801}here.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 {F843,0} hands Dagda's Cauldron{F801}to Brigid...{F801}</source>
+    <target>〉 {F843,0} hands Dagda's Cauldron{F801}to Brigid...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Brigid\0{F87A,-42}{F813,1,418001}Thank you. {F801}</source>
+    <target>{F812}Brigid\0{F87A,-42}{F813,1,418001}Thank you. {F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 Brigid places Dagda's Cauldron{F801}atop an altar in the atrium hall.{F801}{F802}......{F801}{F802}......{F801}{F802}......{F801}</source>
+    <target>〉 Brigid places Dagda's Cauldron{F801}atop an altar in the atrium hall.{F801}{F802}......{F801}{F802}......{F801}{F802}......{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Brigid\0{F87A,-42}{F813,1,418003}Thank you, human.{F801}{F802}Now, my only goal is to protect the{F801}Cauldron until the resurrection of{F801}our mother, Danu.{F801}{F802}The Lady Danu shall soon return to{F801}us... I have seen the signs.{F801}{F802}Once the Cauldron is in Lady Danu's{F801}possession, our race will flourish{F801}once again.{F801}{F802}Soon our fallen will be resurrected,{F801}and we will once again be able to{F801}live in peace.{F801}{F802}This is all thanks to your aid...{F801}{F802}Thank you so much.{F801}</source>
+    <target>{F812}Brigid\0{F87A,-42}{F813,1,418003}Thank you, human.{F801}{F802}Now, my only goal is to protect the{F801}Cauldron until the resurrection of{F801}our mother, Danu.{F801}{F802}The Lady Danu shall soon return to{F801}us... I have seen the signs.{F801}{F802}Once the Cauldron is in Lady Danu's{F801}possession, our race will flourish{F801}once again.{F801}{F802}Soon our fallen will be resurrected,{F801}and we will once again be able to{F801}live in peace.{F801}{F802}This is all thanks to your aid...{F801}{F802}Thank you so much.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Brigid\0{F87A,-42}{F813,1,418002}I shall protect the Cauldron until{F801}the return of our mother, Lady Danu.{F801}{F802}On that day, our race, the Tuatha De{F801}Danann, shall flourish once more...{F801}</source>
+    <target>{F812}Brigid\0{F87A,-42}{F813,1,418002}I shall protect the Cauldron until{F801}the return of our mother, Lady Danu.{F801}{F802}On that day, our race, the Tuatha De{F801}Danann, shall flourish once more...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Brigid\0{F87A,-42}{F813,1,418006}What is the matter?{F801}</source>
+    <target>{F812}Brigid\0{F87A,-42}{F813,1,418006}What is the matter?{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 {F843,0} decides to step outside{F801}for now...{F801}</source>
+    <target>〉 {F843,0} decides to step outside{F801}for now...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Brigid\0{F87A,-42}{F813,1,418003}I shall take Dagda's Cauldron from{F801}your care.{F801}</source>
+    <target>{F812}Brigid\0{F87A,-42}{F813,1,418003}I shall take Dagda's Cauldron from{F801}your care.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 Brigid has returned...{F801}</source>
+    <target>〉 Brigid has returned...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 According to the map, this place{F801}is called the International{F801}Convention Center.{F801}{F802}〉 The enormous empty space is{F801}filled with silence...{F801}</source>
+    <target>〉 According to the map, this place{F801}is called the International{F801}Convention Center.{F801}{F802}〉 The enormous empty space is{F801}filled with silence...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

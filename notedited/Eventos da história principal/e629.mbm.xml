@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Isis\0{F87A,-375}{F813,1,418003}So, you are the one who has come to{F801}hear my request.{F801}{F802}As I said, the coffin of my husband,{F801}Osiris, has drifted all the way to{F801}Naraku.{F801}{F802}If you return the coffin to me, I{F801}shall reward you.{F801}{F802}Unfortunately... I do have ill news{F801}in that regard.{F801}{F802}The Vile Seth, who threw the coffin{F801}into the river in the first place,{F801}will be in Naraku as well.{F801}{F802}If you try to leave with Osiris'{F801}coffin, Seth is certain to come{F801}after you.{F801}{F802}No human can stand against him.{F801}My advice to you is to run as fast{F801}as you can, before he catches you.{F801}{F802}It will be an onerous task, but I{F801}have faith in you. I wish you good{F801}fortune.{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}{F813,1,418003}So, you are the one who has come to{F801}hear my request.{F801}{F802}As I said, the coffin of my husband,{F801}Osiris, has drifted all the way to{F801}Naraku.{F801}{F802}If you return the coffin to me, I{F801}shall reward you.{F801}{F802}Unfortunately... I do have ill news{F801}in that regard.{F801}{F802}The Vile Seth, who threw the coffin{F801}into the river in the first place,{F801}will be in Naraku as well.{F801}{F802}If you try to leave with Osiris'{F801}coffin, Seth is certain to come{F801}after you.{F801}{F802}No human can stand against him.{F801}My advice to you is to run as fast{F801}as you can, before he catches you.{F801}{F802}It will be an onerous task, but I{F801}have faith in you. I wish you good{F801}fortune.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 You have found a beautifully{F801}decorated sarcophagus. This must be{F801}the coffin of Isis' husband, Osiris.{F801}</source>
+    <target>〉 You have found a beautifully{F801}decorated sarcophagus. This must be{F801}the coffin of Isis' husband, Osiris.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 You have decided to carry Osiris'{F801}coffin along with you.{F801}</source>
+    <target>〉 You have decided to carry Osiris'{F801}coffin along with you.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Isis\0{F87A,-375}{F813,1,418004}Oh... Osiris! You found him...{F801}Thank you so much.{F801}{F802}As long as I have his remains in my{F801}possession, I'm sure I can protect{F801}him from Seth's grasp.{F801}{F802}I doubt that Seth will give up that{F801}easily, though. I must stay on my{F801}toes for a while.{F801}{F802}But, now then... Allow me to reward{F801}you for your service. You have my{F801}gratitude.{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}{F813,1,418004}Oh... Osiris! You found him...{F801}Thank you so much.{F801}{F802}As long as I have his remains in my{F801}possession, I'm sure I can protect{F801}him from Seth's grasp.{F801}{F802}I doubt that Seth will give up that{F801}easily, though. I must stay on my{F801}toes for a while.{F801}{F802}But, now then... Allow me to reward{F801}you for your service. You have my{F801}gratitude.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Isis thanks {F843,0} and{F801}leaves...{F801}</source>
+    <target>〉 Isis thanks {F843,0} and{F801}leaves...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 While carrying the coffin, only{F801}the "Run" and "Next" commands will{F801}be available to {F843,0} in battle.{F801}{F802}〉 If {F843,0} takes damage, the{F801}coffin will take damage as well.{F801}</source>
+    <target>〉 While carrying the coffin, only{F801}the "Run" and "Next" commands will{F801}be available to {F843,0} in battle.{F801}{F802}〉 If {F843,0} takes damage, the{F801}coffin will take damage as well.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Isis\0{F87A,-375}{F813,1,418003}Osiris' coffin should have drifted{F801}along a river to somewhere within{F801}Naraku.{F801}{F802}Please, beware of Seth. You cannot{F801}possibly stand a chance against him.{F801}{F802}It will be an onerous task, but I{F801}have faith in you. I wish you good{F801}fortune.{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}{F813,1,418003}Osiris' coffin should have drifted{F801}along a river to somewhere within{F801}Naraku.{F801}{F802}Please, beware of Seth. You cannot{F801}possibly stand a chance against him.{F801}{F802}It will be an onerous task, but I{F801}have faith in you. I wish you good{F801}fortune.{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}Isis\0{F87A,-375}It will be an onerous task, but I{F801}have faith in you. I wish you good{F801}fortune.{F801}</source>
+    <target>{F812}Isis\0{F87A,-375}It will be an onerous task, but I{F801}have faith in you. I wish you good{F801}fortune.{F801}</target>
+  </entry>
+  <entry id="400">
+    <source>〉 {F843,0} let go of Osiris'{F801}sarcophagus during the intense{F801}battle...{F801}{F802}〉 The coffin has likely returned by{F801}the power of Osiris to where it had{F801}been found before.{F801}</source>
+    <target>〉 {F843,0} let go of Osiris'{F801}sarcophagus during the intense{F801}battle...{F801}{F802}〉 The coffin has likely returned by{F801}the power of Osiris to where it had{F801}been found before.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>〉 Lady Isis stands here, grieving...{F801}</source>
+    <target>〉 Lady Isis stands here, grieving...{F801}</target>
+  </entry>
+</mbm>

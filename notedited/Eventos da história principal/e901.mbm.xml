@@ -1,0 +1,110 @@
+<mbm>
+  <entry id="0">
+    <source>テスト{F801}</source>
+    <target>テスト{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}バóÚズ\0{F87A,2}休みますか?{F801}</source>
+    <target>{F812}バóÚズ\0{F87A,2}休みますか?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>はい{F801}いいえ{F801}</source>
+    <target>はい{F801}いいえ{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F843,0}たちは回復した{F801}</source>
+    <target>{F843,0}たちは回復した{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}バóÚズ\0{F87A,2}スタッフóーúを再生します{F801}</source>
+    <target>{F812}バóÚズ\0{F87A,2}スタッフóーúを再生します{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>カóñが現れた{F801}</source>
+    <target>カóñが現れた{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}カóñ\0{F87A,1}では、約束の渡し賃は頂くぞ…{F801}</source>
+    <target>{F812}カóñ\0{F87A,1}では、約束の渡し賃は頂くぞ…{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F878,1}マッカが消え去った{F801}</source>
+    <target>{F878,1}マッカが消え去った{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>なんとÓヌシ文無しか!{F801}金が用意出来た頃にまた来るとしよう{F801}</source>
+    <target>なんとÓヌシ文無しか!{F801}金が用意出来た頃にまた来るとしよう{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>{F812}バóÚズ\0{F87A,2}バóÚズíÁクショñ1{F801}</source>
+    <target>{F812}バóÚズ\0{F87A,2}バóÚズíÁクショñ1{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>{F812}バóÚズ\0{F87A,2}バóÚズíÁクショñ2{F801}</source>
+    <target>{F812}バóÚズ\0{F87A,2}バóÚズíÁクショñ2{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>{F812}バóÚズ\0{F87A,2}バóÚズíÁクショñ3{F801}</source>
+    <target>{F812}バóÚズ\0{F87A,2}バóÚズíÁクショñ3{F801}</target>
+  </entry>
+  <entry id="130">
+    <source>{F812}ヨナタñ\0{F87A,3}ヨナタñíÁクショñ1{F801}</source>
+    <target>{F812}ヨナタñ\0{F87A,3}ヨナタñíÁクショñ1{F801}</target>
+  </entry>
+  <entry id="131">
+    <source>{F812}ヨナタñ\0{F87A,3}ヨナタñíÁクショñ2{F801}</source>
+    <target>{F812}ヨナタñ\0{F87A,3}ヨナタñíÁクショñ2{F801}</target>
+  </entry>
+  <entry id="132">
+    <source>{F812}ヨナタñ\0{F87A,3}ヨナタñíÁクショñ3{F801}</source>
+    <target>{F812}ヨナタñ\0{F87A,3}ヨナタñíÁクショñ3{F801}</target>
+  </entry>
+  <entry id="140">
+    <source>{F812}ワúター\0{F87A,4}ワúターíÁクショñ1{F801}</source>
+    <target>{F812}ワúター\0{F87A,4}ワúターíÁクショñ1{F801}</target>
+  </entry>
+  <entry id="141">
+    <source>{F812}ワúター\0{F87A,4}ワúターíÁクショñ2{F801}</source>
+    <target>{F812}ワúター\0{F87A,4}ワúターíÁクショñ2{F801}</target>
+  </entry>
+  <entry id="142">
+    <source>{F812}ワúター\0{F87A,4}ワúターíÁクショñ3{F801}</source>
+    <target>{F812}ワúター\0{F87A,4}ワúターíÁクショñ3{F801}</target>
+  </entry>
+  <entry id="150">
+    <source>{F812}Íザëー\0{F87A,5}ÍザëーíÁクショñ1{F801}</source>
+    <target>{F812}Íザëー\0{F87A,5}ÍザëーíÁクショñ1{F801}</target>
+  </entry>
+  <entry id="151">
+    <source>{F812}Íザëー\0{F87A,5}ÍザëーíÁクショñ2{F801}</source>
+    <target>{F812}Íザëー\0{F87A,5}ÍザëーíÁクショñ2{F801}</target>
+  </entry>
+  <entry id="152">
+    <source>{F812}Íザëー\0{F87A,5}ÍザëーíÁクショñ3{F801}</source>
+    <target>{F812}Íザëー\0{F87A,5}ÍザëーíÁクショñ3{F801}</target>
+  </entry>
+  <entry id="920">
+    <source>{F812}メúカバー\0{F87A,92}メúカバーíÁクショñ1{F801}</source>
+    <target>{F812}メúカバー\0{F87A,92}メúカバーíÁクショñ1{F801}</target>
+  </entry>
+  <entry id="921">
+    <source>{F812}メúカバー\0{F87A,92}メúカバーíÁクショñ2{F801}</source>
+    <target>{F812}メúカバー\0{F87A,92}メúカバーíÁクショñ2{F801}</target>
+  </entry>
+  <entry id="922">
+    <source>{F812}メúカバー\0{F87A,92}メúカバーíÁクショñ3{F801}</source>
+    <target>{F812}メúカバー\0{F87A,92}メúカバーíÁクショñ3{F801}</target>
+  </entry>
+  <entry id="930">
+    <source>{F812}úシフÄー\0{F87A,93}úシフÄーíÁクショñ1{F801}</source>
+    <target>{F812}úシフÄー\0{F87A,93}úシフÄーíÁクショñ1{F801}</target>
+  </entry>
+  <entry id="931">
+    <source>{F812}úシフÄー\0{F87A,93}úシフÄーíÁクショñ2{F801}</source>
+    <target>{F812}úシフÄー\0{F87A,93}úシフÄーíÁクショñ2{F801}</target>
+  </entry>
+  <entry id="932">
+    <source>{F812}úシフÄー\0{F87A,93}úシフÄーíÁクショñ3{F801}</source>
+    <target>{F812}úシフÄー\0{F87A,93}úシフÄーíÁクショñ3{F801}</target>
+  </entry>
+</mbm>

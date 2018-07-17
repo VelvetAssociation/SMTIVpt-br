@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Cheerful demonoid\0{F87A,146}{F813,1,415105}...Huh? Didn't think I'd run into a{F801}neurisher here. That's something you{F801}don't see every day.{F801}{F802}I could use someone to talk to. I won't{F801}snack on you, so come and talk to me.{F801}</source>
+    <target>{F812}Cheerful demonoid\0{F87A,146}{F813,1,415105}...Huh? Didn't think I'd run into a{F801}neurisher here. That's something you{F801}don't see every day.{F801}{F802}I could use someone to talk to. I won't{F801}snack on you, so come and talk to me.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"Very well."{F801}"I think not."{F801}</source>
+    <target>"Very well."{F801}"I think not."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Cheerful demonoid\0{F87A,146}{F813,1,415101}...Thanks.{F801}</source>
+    <target>{F812}Cheerful demonoid\0{F87A,146}{F813,1,415101}...Thanks.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Cheerful demonoid\0{F87A,146}{F813,1,415108}Huh... Hey, don't worry about it. I can{F801}just hang around here a while longer.{F801}</source>
+    <target>{F812}Cheerful demonoid\0{F87A,146}{F813,1,415108}Huh... Hey, don't worry about it. I can{F801}just hang around here a while longer.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Cheerful demonoid\0{F87A,146}You see that giant cocoon behind me?{F801}</source>
+    <target>{F812}Cheerful demonoid\0{F87A,146}You see that giant cocoon behind me?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Cheerful demonoid\0{F87A,146}It's hard to picture it now, but a long{F801}time ago, Shinjuku was the angels' turf.{F801}{F802}They kidnapped a bunch of kids and locked{F801}'em up in that cocoon.{F801}{F802}They said they were going to take them{F801}to a "new millennium."{F801}</source>
+    <target>{F812}Cheerful demonoid\0{F87A,146}It's hard to picture it now, but a long{F801}time ago, Shinjuku was the angels' turf.{F801}{F802}They kidnapped a bunch of kids and locked{F801}'em up in that cocoon.{F801}{F802}They said they were going to take them{F801}to a "new millennium."{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Cheerful demonoid\0{F87A,146}In the end, Kenji--who was a human at{F801}the time--and his crowd killed them all.{F801}{F802}Since then, the cocoon hasn't been{F801}touched... They let out the kids who{F801}were inside, of course.{F801}</source>
+    <target>{F812}Cheerful demonoid\0{F87A,146}In the end, Kenji--who was a human at{F801}the time--and his crowd killed them all.{F801}{F802}Since then, the cocoon hasn't been{F801}touched... They let out the kids who{F801}were inside, of course.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Cheerful demonoid\0{F87A,146}I thought I'd forget about it when I gave{F801}up being human, but maybe my sharp new{F801}sense of smell reminds me a lot...{F801}{F802}The smell of my rotting daughter, with{F801}the flies buzzing around her, coming{F801}from that cocoon...{F801}</source>
+    <target>{F812}Cheerful demonoid\0{F87A,146}I thought I'd forget about it when I gave{F801}up being human, but maybe my sharp new{F801}sense of smell reminds me a lot...{F801}{F802}The smell of my rotting daughter, with{F801}the flies buzzing around her, coming{F801}from that cocoon...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The shutter is tightly closed.{F801}</source>
+    <target>〉 The shutter is tightly closed.{F801}</target>
+  </entry>
+</mbm>

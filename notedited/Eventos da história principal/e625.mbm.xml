@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Female Hunter\0{F87A,82}{F813,1,403103}Hey, you're {F843,0}, right?{F801}You've got great timing.{F801}{F802}I'm friends with Nozomi. I usually{F801}ask her to take some pictures for me.{F801}{F802}But it's kind of hard to ask her now,{F801}since there are so many people asking{F801}for her help right now.{F801}{F802}I hear that you have a camera too, right?{F801}{F802}I've got a favor to ask.{F801}Could you do a little job that{F801}involves taking pictures for me?{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,82}{F813,1,403103}Hey, you're {F843,0}, right?{F801}You've got great timing.{F801}{F802}I'm friends with Nozomi. I usually{F801}ask her to take some pictures for me.{F801}{F802}But it's kind of hard to ask her now,{F801}since there are so many people asking{F801}for her help right now.{F801}{F802}I hear that you have a camera too, right?{F801}{F802}I've got a favor to ask.{F801}Could you do a little job that{F801}involves taking pictures for me?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Accept it{F801}Refuse{F801}</source>
+    <target>Accept it{F801}Refuse{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Female Hunter\0{F87A,82}{F813,1,403133}You're a life saver. So the job I want you{F801}to do is to go take pictures that{F801}I can use as reference material.{F801}{F802}You know the shelter in {F804,5}Kasumigaseki{F804,0}'s{F801}underground? My job is to do periodic{F801}inspections of that place.{F801}{F802}So when I give my client, Mr. Fujiwara,{F801}the report, it's easier for me to have a {F801}picture on hand to help explain things.{F801}{F802}So could you go to the underground shelter,{F801}and take a picture of the place for me?{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,82}{F813,1,403133}You're a life saver. So the job I want you{F801}to do is to go take pictures that{F801}I can use as reference material.{F801}{F802}You know the shelter in {F804,5}Kasumigaseki{F804,0}'s{F801}underground? My job is to do periodic{F801}inspections of that place.{F801}{F802}So when I give my client, Mr. Fujiwara,{F801}the report, it's easier for me to have a {F801}picture on hand to help explain things.{F801}{F802}So could you go to the underground shelter,{F801}and take a picture of the place for me?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502043}We've got another new quest.{F801}I'll register it on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502043}We've got another new quest.{F801}I'll register it on the list.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Female Hunter\0{F87A,82}{F813,1,403143}Well I guess it can't be helped.{F801}I guess I'll ask Nozomi then.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,82}{F813,1,403143}Well I guess it can't be helped.{F801}I guess I'll ask Nozomi then.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 This is the Counter-Demon Force Base located{F801}within the shelter.{F801}</source>
+    <target>〉 This is the Counter-Demon Force Base located{F801}within the shelter.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Will you take a picture?{F801}</source>
+    <target>〉 Will you take a picture?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 You've obtained a picture of the shelter.{F801}</source>
+    <target>〉 You've obtained a picture of the shelter.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 {F843,0} has left the place.{F801}</source>
+    <target>〉 {F843,0} has left the place.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Female Hunter\0{F87A,82}{F813,1,403102}Oh hey, it's you.{F801}Did you take the picture for me?{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,82}{F813,1,403102}Oh hey, it's you.{F801}Did you take the picture for me?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The woman is looking at the picture{F801}of the shelter...{F801}</source>
+    <target>〉 The woman is looking at the picture{F801}of the shelter...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Female Hunter\0{F87A,82}{F813,1,403131}Yeah, this is perfect.{F801}This should complete my report now.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,82}{F813,1,403131}Yeah, this is perfect.{F801}This should complete my report now.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 {F843,0} has received a reward.{F801}</source>
+    <target>〉 {F843,0} has received a reward.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Female Hunter\0{F87A,82}{F813,1,403133}Thanks for the help {F843,0}.{F801}As expected of a photographer in training.{F801}{F802}What, you're not?{F801}*sigh* I guess Nozomi's tricked me again.{F801}{F802}Well thanks anyways.{F801}Say hi to Nozomi for me if you see her.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,82}{F813,1,403133}Thanks for the help {F843,0}.{F801}As expected of a photographer in training.{F801}{F802}What, you're not?{F801}*sigh* I guess Nozomi's tricked me again.{F801}{F802}Well thanks anyways.{F801}Say hi to Nozomi for me if you see her.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Female Hunter\0{F87A,82}{F813,1,403141}My report's pretty much done,{F801}so all I need now is the photograph to finish it.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,82}{F813,1,403141}My report's pretty much done,{F801}so all I need now is the photograph to finish it.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Female Hunter\0{F87A,82}{F813,1,403131}Once you take the picture,{F801}just bring it over to me.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,82}{F813,1,403131}Once you take the picture,{F801}just bring it over to me.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Female Hunter\0{F87A,82}{F813,1,403122}What am I going to do?{F801}I can't get a picture if Nozomi isn't around.{F801}{F802}I guess I'll just have to tell{F801}Mr. Fujiwara to wait a little while...{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,82}{F813,1,403122}What am I going to do?{F801}I can't get a picture if Nozomi isn't around.{F801}{F802}I guess I'll just have to tell{F801}Mr. Fujiwara to wait a little while...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 Nobody's here...{F801}</source>
+    <target>〉 Nobody's here...{F801}</target>
+  </entry>
+</mbm>

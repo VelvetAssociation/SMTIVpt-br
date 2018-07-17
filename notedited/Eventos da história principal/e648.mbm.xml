@@ -1,0 +1,86 @@
+<mbm>
+  <entry id="0">
+    <source>〉 There is a statue of a dog here...{F801}{F802}〉 Some kind of power makes it look{F801}as if the statue has three heads...{F801}{F802}〉 Do you want to call upon Cerberus?{F801}</source>
+    <target>〉 There is a statue of a dog here...{F801}{F802}〉 Some kind of power makes it look{F801}as if the statue has three heads...{F801}{F802}〉 Do you want to call upon Cerberus?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 {F843,0} called Cerberus.{F801}</source>
+    <target>〉 {F843,0} called Cerberus.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon's voice\0{F87A,-254}{F813,1,494000}WHERE YOU LOOK!?{F801}ME OVER HERE!{F801}</source>
+    <target>{F812}Demon's voice\0{F87A,-254}{F813,1,494000}WHERE YOU LOOK!?{F801}ME OVER HERE!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Cerberus has appeared.{F801}</source>
+    <target>〉 Cerberus has appeared.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Cerberus\0{F87A,-254}{F813,1,494000}WHAT YOU WANT, HUMAN?{F801}{F802}IF YOU BORING, I EAT YOU WHOLE.{F801}ME WARN YOU.{F801}</source>
+    <target>{F812}Cerberus\0{F87A,-254}{F813,1,494000}WHAT YOU WANT, HUMAN?{F801}{F802}IF YOU BORING, I EAT YOU WHOLE.{F801}ME WARN YOU.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 {F843,0} asked Cerberus not to{F801}come near the city anymore.{F801}</source>
+    <target>〉 {F843,0} asked Cerberus not to{F801}come near the city anymore.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Cerberus\0{F87A,-254}{F813,1,494005}WHAT!? YOU SAY WE BROTHERS TOO HOT{F801}YOU TO HANDLE, YOU WANT... US LEAVE?{F801}{F802}RUDE! WE GO WHERE WE PLEASE!{F801}{F802}IF HUMANS DIE, IT BECAUSE THEY WEAK.{F801}NO MATTER TO US.{F801}</source>
+    <target>{F812}Cerberus\0{F87A,-254}{F813,1,494005}WHAT!? YOU SAY WE BROTHERS TOO HOT{F801}YOU TO HANDLE, YOU WANT... US LEAVE?{F801}{F802}RUDE! WE GO WHERE WE PLEASE!{F801}{F802}IF HUMANS DIE, IT BECAUSE THEY WEAK.{F801}NO MATTER TO US.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>Force them to obey{F801}Try to talk some more{F801}</source>
+    <target>Force them to obey{F801}Try to talk some more{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Cerberus\0{F87A,-254}{F813,1,494000}GWAHAHAHAHA! VERY GOOD.{F801}LET ME SEE YOU TRY!{F801}</source>
+    <target>{F812}Cerberus\0{F87A,-254}{F813,1,494000}GWAHAHAHAHA! VERY GOOD.{F801}LET ME SEE YOU TRY!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Cerberus\0{F87A,-254}{F813,1,494000}NO TALKS!{F801}</source>
+    <target>{F812}Cerberus\0{F87A,-254}{F813,1,494000}NO TALKS!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 {F843,0} left the area...{F801}</source>
+    <target>〉 {F843,0} left the area...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 Would you like to call Cerberus?{F801}</source>
+    <target>〉 Would you like to call Cerberus?{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 The area has been sealed off by the{F801}demon's Domain.{F801}</source>
+    <target>〉 The area has been sealed off by the{F801}demon's Domain.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}I have located the signal of the{F801}escaped demon.{F801}{F802}I'll display it on the navigation map.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}I have located the signal of the{F801}escaped demon.{F801}{F802}I'll display it on the navigation map.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}I still have a lock on the demon's{F801}signal.{F801}{F802}If you want to defeat this demon,{F801}I suggest you remain on the defensive{F801}while pursuing it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}I still have a lock on the demon's{F801}signal.{F801}{F802}If you want to defeat this demon,{F801}I suggest you remain on the defensive{F801}while pursuing it.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}I still have a lock on the demon's{F801}signal.{F801}{F802}If you want to defeat this demon,{F801}I suggest you remain on the defensive{F801}while pursuing it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}I still have a lock on the demon's{F801}signal.{F801}{F802}If you want to defeat this demon,{F801}I suggest you remain on the defensive{F801}while pursuing it.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Cerberus\0{F87A,-254}{F813,1,494000}ERF...{F801}YOU CATCH ME.{F801}{F802}YOU PRETTY STRONG. SO WILD.{F801}ME LIKE THAT.{F801}{F802}AS PROMISE, I STOP RUNNING AROUND{F801}HERE.{F801}{F802}GOODBYE, WILD HUMAN.{F801}</source>
+    <target>{F812}Cerberus\0{F87A,-254}{F813,1,494000}ERF...{F801}YOU CATCH ME.{F801}{F802}YOU PRETTY STRONG. SO WILD.{F801}ME LIKE THAT.{F801}{F802}AS PROMISE, I STOP RUNNING AROUND{F801}HERE.{F801}{F802}GOODBYE, WILD HUMAN.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 The demon leaves...{F801}</source>
+    <target>〉 The demon leaves...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 It's the statue of Hachiko...{F801}</source>
+    <target>〉 It's the statue of Hachiko...{F801}</target>
+  </entry>
+</mbm>

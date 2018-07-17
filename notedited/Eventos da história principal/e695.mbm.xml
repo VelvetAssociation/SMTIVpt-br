@@ -1,0 +1,70 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Messenger\0{F87A,31}{F813,0,695000}Ah, the hunter {F843,0}. I was awaiting{F801}your arrival.{F801}{F802}{F813,0,695001}I would like to begin the trial of the{F801}Four Devas now.{F801}{F802}{F813,0,695002}First, let me give you the Orb of the{F801}Four Gates.{F801}{F802}{F813,0,695003}Defeat the Four Devas without breaking{F801}the Orb.{F801}{F802}{F813,0,695004}That is the condition of this trial.{F801}{F802}{F813,0,695005}The Orb of the Four Gates is designed{F801}to store the memories of battle.{F801}{F802}{F813,0,695006}But, if it absorbs too many, then it{F801}will break.{F801}{F802}{F813,0,695007}In other words, you must avoid battle{F801}as much as possible in order to{F801}prevent the orb from breaking.{F801}{F802}{F813,0,695008}Take it, and defeat the Four Devas{F801}located in four different areas of{F801}Tokyo.{F801}{F802}{F813,0,695009}That is all the explanation you will{F801}get for this trial.{F801}{F802}{F813,0,695010}Now then, are you ready to begin the{F801}trial?{F801}</source>
+    <target>{F812}Messenger\0{F87A,31}{F813,0,695000}Ah, the hunter {F843,0}. I was awaiting{F801}your arrival.{F801}{F802}{F813,0,695001}I would like to begin the trial of the{F801}Four Devas now.{F801}{F802}{F813,0,695002}First, let me give you the Orb of the{F801}Four Gates.{F801}{F802}{F813,0,695003}Defeat the Four Devas without breaking{F801}the Orb.{F801}{F802}{F813,0,695004}That is the condition of this trial.{F801}{F802}{F813,0,695005}The Orb of the Four Gates is designed{F801}to store the memories of battle.{F801}{F802}{F813,0,695006}But, if it absorbs too many, then it{F801}will break.{F801}{F802}{F813,0,695007}In other words, you must avoid battle{F801}as much as possible in order to{F801}prevent the orb from breaking.{F801}{F802}{F813,0,695008}Take it, and defeat the Four Devas{F801}located in four different areas of{F801}Tokyo.{F801}{F802}{F813,0,695009}That is all the explanation you will{F801}get for this trial.{F801}{F802}{F813,0,695010}Now then, are you ready to begin the{F801}trial?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Messenger\0{F87A,31}{F813,0,695011}Very well.{F801}The trial will now begin.{F801}</source>
+    <target>{F812}Messenger\0{F87A,31}{F813,0,695011}Very well.{F801}The trial will now begin.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You are now carrying the Orb of{F801}the Four Gates.{F801}</source>
+    <target>〉 You are now carrying the Orb of{F801}the Four Gates.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Messenger\0{F87A,31}{F813,0,695012}Very well. Once you are ready, come{F801}back to this place.{F801}</source>
+    <target>{F812}Messenger\0{F87A,31}{F813,0,695012}Very well. Once you are ready, come{F801}back to this place.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Messenger\0{F87A,31}{F813,0,695016}If you are planning to go through with{F801}the trial, then I shall hand you the{F801}Orb of the Four Gates.{F801}{F802}{F813,0,695017}Do you want to begin the trial?{F801}</source>
+    <target>{F812}Messenger\0{F87A,31}{F813,0,695016}If you are planning to go through with{F801}the trial, then I shall hand you the{F801}Orb of the Four Gates.{F801}{F802}{F813,0,695017}Do you want to begin the trial?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Messenger\0{F87A,31}{F813,0,695013}This trial requires that you avoid{F801}battle as much as possible.{F801}{F802}{F813,0,695014}Take the Orb, and defeat the Four{F801}Devas located in four different areas{F801}of Tokyo.{F801}{F802}{F813,0,695015}Do you wish to begin the trial?{F801}</source>
+    <target>{F812}Messenger\0{F87A,31}{F813,0,695013}This trial requires that you avoid{F801}battle as much as possible.{F801}{F802}{F813,0,695014}Take the Orb, and defeat the Four{F801}Devas located in four different areas{F801}of Tokyo.{F801}{F802}{F813,0,695015}Do you wish to begin the trial?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Messenger\0{F87A,31}{F813,0,695018}This trial requires that you find and{F801}defeat the Four Devas in Tokyo.{F801}{F802}{F813,0,695019}If you have any battles on the way,{F801}the Orb of the Four Gates will store{F801}the memories of those battles.{F801}{F802}{F813,0,695020}Please, be careful.{F801}</source>
+    <target>{F812}Messenger\0{F87A,31}{F813,0,695018}This trial requires that you find and{F801}defeat the Four Devas in Tokyo.{F801}{F802}{F813,0,695019}If you have any battles on the way,{F801}the Orb of the Four Gates will store{F801}the memories of those battles.{F801}{F802}{F813,0,695020}Please, be careful.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The Orb of the Four Gates has{F801}shattered...{F801}{F802}〉 You must return to the Messenger{F801}for a new orb and start over.{F801}</source>
+    <target>〉 The Orb of the Four Gates has{F801}shattered...{F801}{F802}〉 You must return to the Messenger{F801}for a new orb and start over.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Zouchouten\0{F87A,0}{F813,0,695021}Splendid.{F801}</source>
+    <target>{F812}Zouchouten\0{F87A,0}{F813,0,695021}Splendid.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Koumokuten\0{F87A,0}{F813,0,695022}You were the first to be able to{F801}defeat all four of us without the{F801}Orb of the Four Gates breaking.{F801}</source>
+    <target>{F812}Koumokuten\0{F87A,0}{F813,0,695022}You were the first to be able to{F801}defeat all four of us without the{F801}Orb of the Four Gates breaking.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Jikokuten\0{F87A,0}{F813,0,695023}Here is the reward we promised.{F801}Take it, you deserve it.{F801}</source>
+    <target>{F812}Jikokuten\0{F87A,0}{F813,0,695023}Here is the reward we promised.{F801}Take it, you deserve it.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Bishamonten\0{F87A,-394}{F813,0,695024}You must be the one...{F801}{F802}{F813,0,695025}The reincarnation of the man who{F801}saved Tokyo from destruction.{F801}{F802}{F813,0,695026}Though you may tread a path of{F801}hardship, the future you strive for{F801}will never waver, young one.{F801}{F802}{F813,0,695027}I look forward to seeing what feats{F801}you will accomplish.{F801}{F802}{F813,0,695028}Now, go. Hold true to your ideals, and{F801}keep moving forward.{F801}</source>
+    <target>{F812}Bishamonten\0{F87A,-394}{F813,0,695024}You must be the one...{F801}{F802}{F813,0,695025}The reincarnation of the man who{F801}saved Tokyo from destruction.{F801}{F802}{F813,0,695026}Though you may tread a path of{F801}hardship, the future you strive for{F801}will never waver, young one.{F801}{F802}{F813,0,695027}I look forward to seeing what feats{F801}you will accomplish.{F801}{F802}{F813,0,695028}Now, go. Hold true to your ideals, and{F801}keep moving forward.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 The Four Devas leave...{F801}</source>
+    <target>〉 The Four Devas leave...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 According to the map, this place{F801}is called Gokoku-ji.{F801}{F802}〉 This area is surrounded with a{F801}mysterious and powerful energy...{F801}</source>
+    <target>〉 According to the map, this place{F801}is called Gokoku-ji.{F801}{F802}〉 This area is surrounded with a{F801}mysterious and powerful energy...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 You have no more business here...{F801}</source>
+    <target>〉 You have no more business here...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

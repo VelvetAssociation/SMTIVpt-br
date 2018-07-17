@@ -1,0 +1,94 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The people here are praying with{F801}great fervor...{F801}</source>
+    <target>〉 The people here are praying with{F801}great fervor...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Male inhabitant\0{F87A,59}{F813,0,685000}Oh, Lord Gozutennou.{F801}Please forgive my sins.{F801}</source>
+    <target>{F812}Male inhabitant\0{F87A,59}{F813,0,685000}Oh, Lord Gozutennou.{F801}Please forgive my sins.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Male inhabitant\0{F87A,120}{F813,0,685001}Oh, Lord Gozutennou, please come{F801}before us and give us our salvation.{F801}</source>
+    <target>{F812}Male inhabitant\0{F87A,120}{F813,0,685001}Oh, Lord Gozutennou, please come{F801}before us and give us our salvation.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Red Knight\0{F87A,135}{F813,0,685002}Yes, pray. Keep praying.{F801}{F802}{F813,0,685003}Your prayers shall be carried on{F801}through my summoning spell.{F801}{F802}{F813,0,685004}Hm? Who might you lot be?{F801}{F802}{F813,0,685005}Could it be that you are here to{F801}interrupt our ritual?{F801}</source>
+    <target>{F812}Red Knight\0{F87A,135}{F813,0,685002}Yes, pray. Keep praying.{F801}{F802}{F813,0,685003}Your prayers shall be carried on{F801}through my summoning spell.{F801}{F802}{F813,0,685004}Hm? Who might you lot be?{F801}{F802}{F813,0,685005}Could it be that you are here to{F801}interrupt our ritual?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>"Yes, I am."{F801}"No."{F801}</source>
+    <target>"Yes, I am."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Red Knight\0{F87A,135}{F813,0,685006}I see. You seem to be a skilled{F801}fighter.{F801}{F802}{F813,0,685007}Very well. Fight me, then.{F801}Everyone else, continue the ritual!{F801}</source>
+    <target>{F812}Red Knight\0{F87A,135}{F813,0,685006}I see. You seem to be a skilled{F801}fighter.{F801}{F802}{F813,0,685007}Very well. Fight me, then.{F801}Everyone else, continue the ritual!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Red Knight\0{F87A,135}{F813,0,685008}Then leave at once. This has nothing{F801}to do with you.{F801}</source>
+    <target>{F812}Red Knight\0{F87A,135}{F813,0,685008}Then leave at once. This has nothing{F801}to do with you.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Some strong men forcefully "escort"{F801}you from the building...{F801}</source>
+    <target>〉 Some strong men forcefully "escort"{F801}you from the building...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Male inhabitant\0{F87A,59}{F813,0,685009}Master, are you all right!?{F801}</source>
+    <target>{F812}Male inhabitant\0{F87A,59}{F813,0,685009}Master, are you all right!?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Male inhabitant\0{F87A,120}{F813,0,685010}What's wrong with you!? All we want{F801}to do is meet Gozutennou!{F801}{F802}{F813,0,685011}Don't interfere!{F801}</source>
+    <target>{F812}Male inhabitant\0{F87A,120}{F813,0,685010}What's wrong with you!? All we want{F801}to do is meet Gozutennou!{F801}{F802}{F813,0,685011}Don't interfere!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Red Knight\0{F87A,135}{F813,0,685012}There is nothing to worry about, my{F801}children.{F801}{F802}{F813,0,685013}The demon you seek is right here.{F801}{F802}{F813,0,685014}All that is required before he can{F801}take physical form is an offering.{F801}</source>
+    <target>{F812}Red Knight\0{F87A,135}{F813,0,685012}There is nothing to worry about, my{F801}children.{F801}{F802}{F813,0,685013}The demon you seek is right here.{F801}{F802}{F813,0,685014}All that is required before he can{F801}take physical form is an offering.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Male inhabitant\0{F87A,59}{F813,0,685015}Wait... What kind of offering?{F801}</source>
+    <target>{F812}Male inhabitant\0{F87A,59}{F813,0,685015}Wait... What kind of offering?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 Some kind of invisible creature{F801}begins devouring the worshippers...{F801}</source>
+    <target>〉 Some kind of invisible creature{F801}begins devouring the worshippers...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Demon's voice\0{F87A,-167}{F813,0,685017}Hahaha...{F801}{F802}{F813,0,685018}The inhabitants of this city were only{F801}able to survive due to what I offered{F801}them.{F801}{F802}{F813,0,685019}It's only fair that you return the{F801}favor.{F801}{F802}{F813,0,685020}I give you the chance to become the{F801}Gozutennou. Or, rather... the {F804,5}Demon{F801}Lord Baal{F804,0}'s flesh and blood!{F801}</source>
+    <target>{F812}Demon's voice\0{F87A,-167}{F813,0,685017}Hahaha...{F801}{F802}{F813,0,685018}The inhabitants of this city were only{F801}able to survive due to what I offered{F801}them.{F801}{F802}{F813,0,685019}It's only fair that you return the{F801}favor.{F801}{F802}{F813,0,685020}I give you the chance to become the{F801}Gozutennou. Or, rather... the {F804,5}Demon{F801}Lord Baal{F804,0}'s flesh and blood!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 The demon has disappeared...{F801}{F802}〉 The Red Knight seems to have{F801}escaped as well...{F801}</source>
+    <target>〉 The demon has disappeared...{F801}{F802}〉 The Red Knight seems to have{F801}escaped as well...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Old man\0{F87A,63}{F813,0,685021}...Oh, woe is upon us.{F801}They have all been devoured.{F801}{F802}{F813,0,685022}Lord Gozutennou has punished us{F801}all...{F801}{F802}{F813,0,685023}Ahh, please forgive us...{F801}</source>
+    <target>{F812}Old man\0{F87A,63}{F813,0,685021}...Oh, woe is upon us.{F801}They have all been devoured.{F801}{F802}{F813,0,685022}Lord Gozutennou has punished us{F801}all...{F801}{F802}{F813,0,685023}Ahh, please forgive us...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 The remaining worshippers slowly{F801}disperse...{F801}</source>
+    <target>〉 The remaining worshippers slowly{F801}disperse...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Red Knight\0{F87A,135}{F813,0,685004}Hm? Who might you lot be?{F801}{F802}{F813,0,685005}Could it be that you are here to{F801}interrupt our ritual?{F801}</source>
+    <target>{F812}Red Knight\0{F87A,135}{F813,0,685004}Hm? Who might you lot be?{F801}{F802}{F813,0,685005}Could it be that you are here to{F801}interrupt our ritual?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Male inhabitant\0{F87A,59}Oh, Lord Gozutennou,{F801}please forgive my sins...{F801}{F802}What are you doing here?{F801}No outsiders are allowed inside!{F801}</source>
+    <target>{F812}Male inhabitant\0{F87A,59}Oh, Lord Gozutennou,{F801}please forgive my sins...{F801}{F802}What are you doing here?{F801}No outsiders are allowed inside!{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Male inhabitant\0{F87A,1}{F813,0,685016}Wha--AHHHHHHH!{F801}</source>
+    <target>{F812}Male inhabitant\0{F87A,1}{F813,0,685016}Wha--AHHHHHHH!{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

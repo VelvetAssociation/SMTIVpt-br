@@ -1,0 +1,146 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Director\0{F87A,47}{F813,1,403241}From the looks of you... I'd say{F801}you must be human. You're a Hunter,{F801}then?{F801}{F802}...Which means that you're here to{F801}be on the show, right?{F801}</source>
+    <target>{F812}Director\0{F87A,47}{F813,1,403241}From the looks of you... I'd say{F801}you must be human. You're a Hunter,{F801}then?{F801}{F802}...Which means that you're here to{F801}be on the show, right?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Director\0{F87A,47}{F813,1,403211}Great. We're ready to begin shooting{F801}right away. Are you ready?{F801}</source>
+    <target>{F812}Director\0{F87A,47}{F813,1,403211}Great. We're ready to begin shooting{F801}right away. Are you ready?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Director\0{F87A,47}{F813,1,403212}Then scram.{F801}</source>
+    <target>{F812}Director\0{F87A,47}{F813,1,403212}Then scram.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Director\0{F87A,47}{F813,1,403242}All right! Everybody who's going to{F801}be involved in this episode, gather{F801}'round!{F801}</source>
+    <target>{F812}Director\0{F87A,47}{F813,1,403242}All right! Everybody who's going to{F801}be involved in this episode, gather{F801}'round!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Director\0{F87A,47}{F813,1,403242}Well, you'd better get ready, and{F801}quick. We're going to be starting{F801}pretty soon.{F801}</source>
+    <target>{F812}Director\0{F87A,47}{F813,1,403242}Well, you'd better get ready, and{F801}quick. We're going to be starting{F801}pretty soon.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 A number of Hunters crowd around to{F801}hear the Director speak.{F801}</source>
+    <target>〉 A number of Hunters crowd around to{F801}hear the Director speak.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Director\0{F87A,47}{F813,1,403221}Right, let me explain the rules.{F801}{F802}The show's named "RedxWhite Punchdown{F801}Smacktacular!" Team Red and Team White{F801}are going to fight to the death.{F801}{F802}Now, I'm not asking you guys to kill{F801}each other. We're all humans here.{F801}{F802}The humans are all on Team White, and{F801}Team Red is all demons. So you should{F801}be used to this sort of thing, right?{F801}{F802}The only difference is that you're{F801}gonna be doing it on camera.{F801}{F802}Oh, and no rigging the show with your{F801}opponent! Show our viewers the reality{F801}of a Hunter taking down demons!{F801}{F802}...I ought to mention that in the last{F801}episode, Team White was obliterated{F801}almost instantly.{F801}{F802}I hope I get a better show out of{F801}you guys this time around!{F801}{F802}Okay, cameras are rollin'.{F801}{F802}The arena for these battles will be{F801}the streets here in east Shinjuku.{F801}{F802}We've got the streets locked down{F801}during filming, so don't even think{F801}of running. Fight to the bitter end!{F801}{F802}Now get out there and give us some{F801}awesome fights to get our ratings up.{F801}We're live in three... two... one...{F801}</source>
+    <target>{F812}Director\0{F87A,47}{F813,1,403221}Right, let me explain the rules.{F801}{F802}The show's named "RedxWhite Punchdown{F801}Smacktacular!" Team Red and Team White{F801}are going to fight to the death.{F801}{F802}Now, I'm not asking you guys to kill{F801}each other. We're all humans here.{F801}{F802}The humans are all on Team White, and{F801}Team Red is all demons. So you should{F801}be used to this sort of thing, right?{F801}{F802}The only difference is that you're{F801}gonna be doing it on camera.{F801}{F802}Oh, and no rigging the show with your{F801}opponent! Show our viewers the reality{F801}of a Hunter taking down demons!{F801}{F802}...I ought to mention that in the last{F801}episode, Team White was obliterated{F801}almost instantly.{F801}{F802}I hope I get a better show out of{F801}you guys this time around!{F801}{F802}Okay, cameras are rollin'.{F801}{F802}The arena for these battles will be{F801}the streets here in east Shinjuku.{F801}{F802}We've got the streets locked down{F801}during filming, so don't even think{F801}of running. Fight to the bitter end!{F801}{F802}Now get out there and give us some{F801}awesome fights to get our ratings up.{F801}We're live in three... two... one...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403041}Wow, that was something else!{F801}You took on that horde of demons all{F801}on your own!{F801}{F802}...Looks like a good portion of us{F801}Hunters have been killed, though...{F801}{F802}Still, I'm gonna survive and get my{F801}hands on that prize money!{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403041}Wow, that was something else!{F801}You took on that horde of demons all{F801}on your own!{F801}{F802}...Looks like a good portion of us{F801}Hunters have been killed, though...{F801}{F802}Still, I'm gonna survive and get my{F801}hands on that prize money!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hunter\0{F87A,69}.........{F801}{F802}.........{F801}{F802}{F813,1,403013}...Huh!?{F801}{F802}I don't remember anything after that{F801}demon started singing.{F801}{F802}This lady came into my dreams...{F801}She was so beautiful...{F801}{F802}...Uh, wait. Was I in some deep shit{F801}just now?{F801}{F802}Well, thanks for killing that demon,{F801}then. You really saved my ass.{F801}</source>
+    <target>{F812}Hunter\0{F87A,69}.........{F801}{F802}.........{F801}{F802}{F813,1,403013}...Huh!?{F801}{F802}I don't remember anything after that{F801}demon started singing.{F801}{F802}This lady came into my dreams...{F801}She was so beautiful...{F801}{F802}...Uh, wait. Was I in some deep shit{F801}just now?{F801}{F802}Well, thanks for killing that demon,{F801}then. You really saved my ass.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hunter\0{F87A,69}{F813,1,403021}Dammit! We screwed up!{F801}{F802}That demon was so sweet and cute,{F801}everybody underestimated her.{F801}{F802}Almost all the Hunters who fell for{F801}her lost their lives.{F801}{F802}You managed to keep your cool, though.{F801}</source>
+    <target>{F812}Hunter\0{F87A,69}{F813,1,403021}Dammit! We screwed up!{F801}{F802}That demon was so sweet and cute,{F801}everybody underestimated her.{F801}{F802}Almost all the Hunters who fell for{F801}her lost their lives.{F801}{F802}You managed to keep your cool, though.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>"Yeah."{F801}"Actually, I didn't."{F801}"I feel sorry."{F801}</source>
+    <target>"Yeah."{F801}"Actually, I didn't."{F801}"I feel sorry."{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hunter\0{F87A,69}{F813,1,403031}You're a true Hunter, buddy!{F801}{F802}Let's hunt down the rest of these{F801}demons and get the prize!{F801}</source>
+    <target>{F812}Hunter\0{F87A,69}{F813,1,403031}You're a true Hunter, buddy!{F801}{F802}Let's hunt down the rest of these{F801}demons and get the prize!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Hunter\0{F87A,69}{F813,1,403042}I see your point. Yeah, huh.{F801}{F802}I would've liked to make that demon{F801}my ally, too.{F801}</source>
+    <target>{F812}Hunter\0{F87A,69}{F813,1,403042}I see your point. Yeah, huh.{F801}{F802}I would've liked to make that demon{F801}my ally, too.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Hunter\0{F87A,69}{F813,1,403041}You feel sorry... for the demon?{F801}{F802}After all those Hunters she killed,{F801}you must be something special to be{F801}able to say that.{F801}{F802}I do think you've got a soft heart,{F801}but there's something scary about you.{F801}</source>
+    <target>{F812}Hunter\0{F87A,69}{F813,1,403041}You feel sorry... for the demon?{F801}{F802}After all those Hunters she killed,{F801}you must be something special to be{F801}able to say that.{F801}{F802}I do think you've got a soft heart,{F801}but there's something scary about you.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403042}You're strong, man.{F801}Beating that demon.{F801}{F802}.........{F801}{F802}Y'know, everybody squished by that{F801}demon all had these looks on their{F801}faces right before they died...{F801}{F802}It was like... they were incredibly{F801}happy, or caught in a perfect dream,{F801}or something...{F801}{F802}Would you be willing to die, if it meant{F801}being able to feel like that?{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403042}You're strong, man.{F801}Beating that demon.{F801}{F802}.........{F801}{F802}Y'know, everybody squished by that{F801}demon all had these looks on their{F801}faces right before they died...{F801}{F802}It was like... they were incredibly{F801}happy, or caught in a perfect dream,{F801}or something...{F801}{F802}Would you be willing to die, if it meant{F801}being able to feel like that?{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>"I would love it."{F801}"You'd die."{F801}"What the hell are you saying?"{F801}</source>
+    <target>"I would love it."{F801}"You'd die."{F801}"What the hell are you saying?"{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403031}Yeah, I think you and me are gonna{F801}get along just fine.{F801}{F802}Still, we'd be dead. But maybe I{F801}wanna be squished...{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403031}Yeah, I think you and me are gonna{F801}get along just fine.{F801}{F802}Still, we'd be dead. But maybe I{F801}wanna be squished...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403042}Yeah, huh...{F801}{F802}Still, I get the feeling like those{F801}people figured it was a fair price{F801}to pay for the experience.{F801}{F802}I could tell.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403042}Yeah, huh...{F801}{F802}Still, I get the feeling like those{F801}people figured it was a fair price{F801}to pay for the experience.{F801}{F802}I could tell.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403042}Y-Yeah. What was I thinking?{F801}{F802}Sorry, I was just wonderin'.{F801}Forget I mentioned it.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403042}Y-Yeah. What was I thinking?{F801}{F802}Sorry, I was just wonderin'.{F801}Forget I mentioned it.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Hunter\0{F87A,69}{F813,1,403002}Man, I can't believe it. You beat{F801}most of the demons yourself.{F801}{F802}It's thanks to you that me and a couple{F801}of the other Hunters have been able to{F801}survive this long.{F801}{F802}We're almost there! The money is so{F801}close I can almost taste it!{F801}</source>
+    <target>{F812}Hunter\0{F87A,69}{F813,1,403002}Man, I can't believe it. You beat{F801}most of the demons yourself.{F801}{F802}It's thanks to you that me and a couple{F801}of the other Hunters have been able to{F801}survive this long.{F801}{F802}We're almost there! The money is so{F801}close I can almost taste it!{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Hunter\0{F87A,69}{F813,1,403013}What the--{F801}...Something's coming!{F801}</source>
+    <target>{F812}Hunter\0{F87A,69}{F813,1,403013}What the--{F801}...Something's coming!{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Announcer\0{F87A,138}{F813,1,406001}Sorry to keep you waiting! It's the{F801}ultimate climax of RedxWhite Punchdown{F801}Smacktacular XIII!{F801}{F802}The final demon, the leader of{F801}Team Red, is a god among gods!{F801}{F802}One of the primordial goddesses,{F801}Tiamaaaaaaat!{F801}</source>
+    <target>{F812}Announcer\0{F87A,138}{F813,1,406001}Sorry to keep you waiting! It's the{F801}ultimate climax of RedxWhite Punchdown{F801}Smacktacular XIII!{F801}{F802}The final demon, the leader of{F801}Team Red, is a god among gods!{F801}{F802}One of the primordial goddesses,{F801}Tiamaaaaaaat!{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Announcer\0{F87A,138}{F813,1,406003}We have a winner!{F801}{F802}The champion of RedxWhite Punchdown{F801}Smacktacular XIII is.........{F801}{F802}Team White!{F801}The Hunters are victorious!{F801}</source>
+    <target>{F812}Announcer\0{F87A,138}{F813,1,406003}We have a winner!{F801}{F802}The champion of RedxWhite Punchdown{F801}Smacktacular XIII is.........{F801}{F802}Team White!{F801}The Hunters are victorious!{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Announcer\0{F87A,138}{F813,1,406001}That was a heated match!{F801}{F802}It was a fight to the death! You'd{F801}better believe we're gonna be digging{F801}plenty of highlights from this one!{F801}{F802}Until our next Smacktacular...{F801}So long, everyone!{F801}</source>
+    <target>{F812}Announcer\0{F87A,138}{F813,1,406001}That was a heated match!{F801}{F802}It was a fight to the death! You'd{F801}better believe we're gonna be digging{F801}plenty of highlights from this one!{F801}{F802}Until our next Smacktacular...{F801}So long, everyone!{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Director\0{F87A,47}{F813,1,403231}Good job, good job!{F801}{F802}{F843,0}, buddy, you were great out{F801}there! We should go drinking some time,{F801}on me!{F801}{F802}It's good to see Team White win once{F801}in a while, you know? It keeps viewer{F801}numbers up. Great show today!{F801}{F802}Everybody else, you did great, too.{F801}Let's all get together for a wrap{F801}party sometime later!{F801}{F802}What? Who said that?{F801}...I know I just heard somebody say{F801}"Give us the prize already, asshole!"{F801}{F802}{F813,1,403211}Fine, you ungrateful little shits.{F801}I was in a good mood and everything.{F801}{F802}Here.{F801}</source>
+    <target>{F812}Director\0{F87A,47}{F813,1,403231}Good job, good job!{F801}{F802}{F843,0}, buddy, you were great out{F801}there! We should go drinking some time,{F801}on me!{F801}{F802}It's good to see Team White win once{F801}in a while, you know? It keeps viewer{F801}numbers up. Great show today!{F801}{F802}Everybody else, you did great, too.{F801}Let's all get together for a wrap{F801}party sometime later!{F801}{F802}What? Who said that?{F801}...I know I just heard somebody say{F801}"Give us the prize already, asshole!"{F801}{F802}{F813,1,403211}Fine, you ungrateful little shits.{F801}I was in a good mood and everything.{F801}{F802}Here.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 The surviving Hunters take their{F801}share of the rewards...{F801}</source>
+    <target>〉 The surviving Hunters take their{F801}share of the rewards...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Hunter\0{F87A,69}{F813,1,403031}It's thanks to you that we survived{F801}long enough to get this money.{F801}{F802}I appreciate it. See you around.{F801}</source>
+    <target>{F812}Hunter\0{F87A,69}{F813,1,403031}It's thanks to you that we survived{F801}long enough to get this money.{F801}{F802}I appreciate it. See you around.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>〉 The other Hunters pay their respects{F801}to {F843,0} and leave...{F801}</source>
+    <target>〉 The other Hunters pay their respects{F801}to {F843,0} and leave...{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Director\0{F87A,47}{F813,1,403212}Action!{F801}What are you doing!? Go!{F801}I want to see blood!{F801}</source>
+    <target>{F812}Director\0{F87A,47}{F813,1,403212}Action!{F801}What are you doing!? Go!{F801}I want to see blood!{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403002}Man, I can't believe it. You beat{F801}most of the demons yourself.{F801}{F802}It's thanks to you that me and a couple{F801}of the other Hunters have been able to{F801}survive this long.{F801}{F802}We're almost there! The money is so{F801}close I can almost taste it!{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403002}Man, I can't believe it. You beat{F801}most of the demons yourself.{F801}{F802}It's thanks to you that me and a couple{F801}of the other Hunters have been able to{F801}survive this long.{F801}{F802}We're almost there! The money is so{F801}close I can almost taste it!{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403013}What the--{F801}...Something's coming!{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403013}What the--{F801}...Something's coming!{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Staffer\0{F87A,59}{F813,1,403002}Sir, you can't go this way!{F801}We've already started recording!{F801}{F802}</source>
+    <target>{F812}Staffer\0{F87A,59}{F813,1,403002}Sir, you can't go this way!{F801}We've already started recording!{F801}{F802}</target>
+  </entry>
+  <entry id="34">
+    <source>〉 You cannot use this passage. Before{F801}you may leave, you must either complete{F801}or cancel the current quest.{F801}</source>
+    <target>〉 You cannot use this passage. Before{F801}you may leave, you must either complete{F801}or cancel the current quest.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

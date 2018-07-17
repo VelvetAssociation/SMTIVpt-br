@@ -1,0 +1,254 @@
+<mbm>
+  <entry id="0">
+    <source>どのクÉストを受けますか?{F801}</source>
+    <target>どのクÉストを受けますか?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>1 敵を1体倒せ{F801}2 敵を3体仲魔にせよ{F801}その他{F801}やっぱりうけない{F801}</source>
+    <target>1 敵を1体倒せ{F801}2 敵を3体仲魔にせよ{F801}その他{F801}やっぱりうけない{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>3 貴重品を手に入れよ{F801}4 ナバーúを捜してほしい{F801}その他{F801}やっぱり受けない{F801}</source>
+    <target>3 貴重品を手に入れよ{F801}4 ナバーúを捜してほしい{F801}その他{F801}やっぱり受けない{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>5キチジョージの森にいる生存者を発見せよ{F801}6ミノタÚóスを討伐せよ{F801}その他{F801}やっぱり受けない{F801}</source>
+    <target>5キチジョージの森にいる生存者を発見せよ{F801}6ミノタÚóスを討伐せよ{F801}その他{F801}やっぱり受けない{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>1 敵を1体倒せ{F801}2 敵を3体仲魔にせよ{F801}3 貴重品を手に入れよ{F801}4 ナバーúを捜してほしい{F801}5キチジョージの森にいる生存者を発見せよ{F801}6ミノタÚóスを討伐せよ{F801}やっぱり受けない{F801}</source>
+    <target>1 敵を1体倒せ{F801}2 敵を3体仲魔にせよ{F801}3 貴重品を手に入れよ{F801}4 ナバーúを捜してほしい{F801}5キチジョージの森にいる生存者を発見せよ{F801}6ミノタÚóスを討伐せよ{F801}やっぱり受けない{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>属性はCHAOSです{F801}</source>
+    <target>属性はCHAOSです{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>属性はNEUTRALです{F801}</source>
+    <target>属性はNEUTRALです{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>属性はLAWです{F801}</source>
+    <target>属性はLAWです{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>どうしますか?{F801}</source>
+    <target>どうしますか?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>加算してLAWに寄せる{F801}減算してCHAOSに寄せる{F801}なにもしない{F801}</source>
+    <target>加算してLAWに寄せる{F801}減算してCHAOSに寄せる{F801}なにもしない{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>いくつ加算する?{F801}</source>
+    <target>いくつ加算する?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>いくつ減算する?{F801}</source>
+    <target>いくつ減算する?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>1{F801}5{F801}10{F801}15{F801}</source>
+    <target>1{F801}5{F801}10{F801}15{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>しかも極CHAOSです{F801}</source>
+    <target>しかも極CHAOSです{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>しかも極LAWです{F801}</source>
+    <target>しかも極LAWです{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>クÉストを受注しますか?{F801}</source>
+    <target>クÉストを受注しますか?{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>受注したいクÉストの{F801}番号を入力してください{F801}</source>
+    <target>受注したいクÉストの{F801}番号を入力してください{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>今 受注したクÉストを{F801}達成しますか?{F801}</source>
+    <target>今 受注したクÉストを{F801}達成しますか?{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>達成したいクÉストの番号を入力してください{F801}</source>
+    <target>達成したいクÉストの番号を入力してください{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>100の位は?{F801}</source>
+    <target>100の位は?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>10の位は?{F801}</source>
+    <target>10の位は?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>1の位は?{F801}</source>
+    <target>1の位は?{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>0{F801}1{F801}2{F801}3{F801}</source>
+    <target>0{F801}1{F801}2{F801}3{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>0{F801}1{F801}2{F801}次へ{F801}</source>
+    <target>0{F801}1{F801}2{F801}次へ{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>3{F801}4{F801}5{F801}次へ{F801}</source>
+    <target>3{F801}4{F801}5{F801}次へ{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>6{F801}7{F801}8{F801}次へ{F801}</source>
+    <target>6{F801}7{F801}8{F801}次へ{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>9{F801}次へ{F801}やめる{F801}</source>
+    <target>9{F801}次へ{F801}やめる{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>はい{F801}いいえ{F801}</source>
+    <target>はい{F801}いいえ{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>既に1度クíÁしています{F801}</source>
+    <target>既に1度クíÁしています{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>クíÁできませんでした{F801}</source>
+    <target>クíÁできませんでした{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>どのÁÍテムの量を調整する?{F801}</source>
+    <target>どのÁÍテムの量を調整する?{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>深緑の苔{F801}グíフÖñの爪{F801}その他{F801}やっぱりやめる{F801}</source>
+    <target>深緑の苔{F801}グíフÖñの爪{F801}その他{F801}やっぱりやめる{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>増やす?{F801}減らす?{F801}</source>
+    <target>増やす?{F801}減らす?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>増やす{F801}減らす{F801}</source>
+    <target>増やす{F801}減らす{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>いくつ?{F801}</source>
+    <target>いくつ?{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>1個{F801}2個{F801}3個{F801}やっぱりやめる{F801}</source>
+    <target>1個{F801}2個{F801}3個{F801}やっぱりやめる{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>トナテÏÚの血{F801}マカミの血{F801}その他{F801}やっぱりやめる{F801}</source>
+    <target>トナテÏÚの血{F801}マカミの血{F801}その他{F801}やっぱりやめる{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>マサカドを仲魔に加えますか?{F801}</source>
+    <target>マサカドを仲魔に加えますか?{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>加える{F801}加えない{F801}</source>
+    <target>加える{F801}加えない{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>マサカドが仲魔に加わりました{F801}</source>
+    <target>マサカドが仲魔に加わりました{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>ストックがいっぱいです{F801}</source>
+    <target>ストックがいっぱいです{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>メÍñゲストを調整します{F801}どうしますか?{F801}</source>
+    <target>メÍñゲストを調整します{F801}どうしますか?{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>メÍñゲストをクíÁーする{F801}3人をメÍñゲストに加える{F801}その他{F801}やっぱりやめる{F801}</source>
+    <target>メÍñゲストをクíÁーする{F801}3人をメÍñゲストに加える{F801}その他{F801}やっぱりやめる{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>ヨナタñだけ{F801}ワúターだけ{F801}Íザëーだけ{F801}その他{F801}</source>
+    <target>ヨナタñだけ{F801}ワúターだけ{F801}Íザëーだけ{F801}その他{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>ヨナタñとワúター{F801}ワúターとÍザëー{F801}Íザëーとヨナタñ{F801}やっぱりやめる{F801}</source>
+    <target>ヨナタñとワúター{F801}ワúターとÍザëー{F801}Íザëーとヨナタñ{F801}やっぱりやめる{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>éäú帯はどうしますか?{F801}</source>
+    <target>éäú帯はどうしますか?{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>1{F801}2{F801}3{F801}その他{F801}</source>
+    <target>1{F801}2{F801}3{F801}その他{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>4{F801}5{F801}6{F801}その他{F801}</source>
+    <target>4{F801}5{F801}6{F801}その他{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>7{F801}8{F801}9{F801}10{F801}</source>
+    <target>7{F801}8{F801}9{F801}10{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>メÍñゲストをクíÁーしました{F801}</source>
+    <target>メÍñゲストをクíÁーしました{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>ヨナタñがゲストに加入しました{F801}</source>
+    <target>ヨナタñがゲストに加入しました{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>ワúターがゲストに加入しました{F801}</source>
+    <target>ワúターがゲストに加入しました{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>Íザëーがゲストに加入しました{F801}</source>
+    <target>Íザëーがゲストに加入しました{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>ヨナタñとワúターが{F801}ゲストに加入しました{F801}</source>
+    <target>ヨナタñとワúターが{F801}ゲストに加入しました{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>ワúターとÍザëーが{F801}ゲストに加入しました{F801}</source>
+    <target>ワúターとÍザëーが{F801}ゲストに加入しました{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>Íザëーとヨナタñが{F801}ゲストに加入しました{F801}</source>
+    <target>Íザëーとヨナタñが{F801}ゲストに加入しました{F801}</target>
+  </entry>
+  <entry id="56">
+    <source>ヨナタñ ワúター Íザëーが{F801}ゲストに加入しました{F801}</source>
+    <target>ヨナタñ ワúター Íザëーが{F801}ゲストに加入しました{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>20%未満{F801}20%以上{F801}50%未満{F801}次へ{F801}</source>
+    <target>20%未満{F801}20%以上{F801}50%未満{F801}次へ{F801}</target>
+  </entry>
+  <entry id="58">
+    <source>50%以上{F801}80%未満{F801}80%以上{F801}次へ{F801}</source>
+    <target>50%以上{F801}80%未満{F801}80%以上{F801}次へ{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>100%未満{F801}100%{F801}</source>
+    <target>100%未満{F801}100%{F801}</target>
+  </entry>
+  <entry id="60">
+    <source>テストです{F801}</source>
+    <target>テストです{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>テストですよ{F801}</source>
+    <target>テストですよ{F801}</target>
+  </entry>
+  <entry id="62">
+    <source>{F812}Íザëー\0{F87A,5}[戦力増強/せんりょくぞうきょう]{F801}[戦力/せんりょく][増強/ぞうきょう]{F801}{F802}[抽出/ちゅうしゅつ]に[協力/きょうりょく]{F801}[昔話/むかしばなし]の[少年/しょうねん]{F801}{F802}[抽出に協力し/ちゅうしゅつきょうりょく]ていただきたい{F801}[昔話の/むかしばなし][少年た/しょうねん]ちです{F801}</source>
+    <target>{F812}Íザëー\0{F87A,5}[戦力増強/せんりょくぞうきょう]{F801}[戦力/せんりょく][増強/ぞうきょう]{F801}{F802}[抽出/ちゅうしゅつ]に[協力/きょうりょく]{F801}[昔話/むかしばなし]の[少年/しょうねん]{F801}{F802}[抽出に協力し/ちゅうしゅつきょうりょく]ていただきたい{F801}[昔話の/むかしばなし][少年た/しょうねん]ちです{F801}</target>
+  </entry>
+</mbm>

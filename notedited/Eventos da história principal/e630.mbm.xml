@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Setanta\0{F87A,-243}{F813,1,411100}Huh...? Hey, you!{F801}My master sent you, didn't he?{F801}</source>
+    <target>{F812}Setanta\0{F87A,-243}{F813,1,411100}Huh...? Hey, you!{F801}My master sent you, didn't he?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Setanta\0{F87A,-243}{F813,1,411106}Finally! You should know that I'm{F801}in a really bad mood right now.{F801}{F802}Why the hell do I have to be turned{F801}into a kid again just to teach me{F801}the "way of the warrior"?{F801}{F802}And who the hell wants to bother to{F801}learn how humans fight, anyway!? I'll{F801}show you how a true warrior kills!{F801}</source>
+    <target>{F812}Setanta\0{F87A,-243}{F813,1,411106}Finally! You should know that I'm{F801}in a really bad mood right now.{F801}{F802}Why the hell do I have to be turned{F801}into a kid again just to teach me{F801}the "way of the warrior"?{F801}{F802}And who the hell wants to bother to{F801}learn how humans fight, anyway!? I'll{F801}show you how a true warrior kills!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Setanta\0{F87A,-243}{F813,1,411107}What the--!? Now you're just{F801}confusing me. Get out of here!{F801}</source>
+    <target>{F812}Setanta\0{F87A,-243}{F813,1,411107}What the--!? Now you're just{F801}confusing me. Get out of here!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Setanta\0{F87A,-243}{F813,1,411103}Damn! I was not expecting that.{F801}You kept your cool, even in an{F801}intense battle like that.{F801}{F802}I guess that's what my master was{F801}trying to teach me. Never lose{F801}yourself in battle.{F801}</source>
+    <target>{F812}Setanta\0{F87A,-243}{F813,1,411103}Damn! I was not expecting that.{F801}You kept your cool, even in an{F801}intense battle like that.{F801}{F802}I guess that's what my master was{F801}trying to teach me. Never lose{F801}yourself in battle.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Scathach\0{F87A,-37}{F813,1,419305}Well... You've finally figured it{F801}out. You're one troublesome student,{F801}you know.{F801}{F802}Ah, you would be {F843,0}.{F801}Thank you for helping us.{F801}{F802}It would seem that my disciple{F801}realized what he was missing, thanks{F801}to your little fight here.{F801}{F802}I'm sure that Cu Chulainn will stop{F801}losing himself in bloodlust now.{F801}</source>
+    <target>{F812}Scathach\0{F87A,-37}{F813,1,419305}Well... You've finally figured it{F801}out. You're one troublesome student,{F801}you know.{F801}{F802}Ah, you would be {F843,0}.{F801}Thank you for helping us.{F801}{F802}It would seem that my disciple{F801}realized what he was missing, thanks{F801}to your little fight here.{F801}{F802}I'm sure that Cu Chulainn will stop{F801}losing himself in bloodlust now.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Cu Chulainn\0{F87A,-221}{F813,1,412003}I am sorry for causing you such{F801}trouble, Master. I was acting{F801}immature...{F801}{F802}{F843,0}...{F801}{F802}It is all thanks to you that I have{F801}been able to rethink my ways.{F801}{F802}I shall train myself in the true ways{F801}of the warrior, and obtain even{F801}greater power.{F801}</source>
+    <target>{F812}Cu Chulainn\0{F87A,-221}{F813,1,412003}I am sorry for causing you such{F801}trouble, Master. I was acting{F801}immature...{F801}{F802}{F843,0}...{F801}{F802}It is all thanks to you that I have{F801}been able to rethink my ways.{F801}{F802}I shall train myself in the true ways{F801}of the warrior, and obtain even{F801}greater power.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Scathach\0{F87A,-37}{F813,1,419304}Well, I've got a little something{F801}for you as a reward. I'm sure it{F801}will come in handy.{F801}</source>
+    <target>{F812}Scathach\0{F87A,-37}{F813,1,419304}Well, I've got a little something{F801}for you as a reward. I'm sure it{F801}will come in handy.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Scathach used her powers to return{F801}Setanta to his true form as{F801}Cu Chulainn.{F801}</source>
+    <target>〉 Scathach used her powers to return{F801}Setanta to his true form as{F801}Cu Chulainn.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 According to the map, this place{F801}is called "Bugeikan."{F801}{F802}〉 The air is filled with the scent{F801}of blood...{F801}</source>
+    <target>〉 According to the map, this place{F801}is called "Bugeikan."{F801}{F802}〉 The air is filled with the scent{F801}of blood...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 You no longer have any business{F801}in this place.{F801}</source>
+    <target>〉 You no longer have any business{F801}in this place.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Setanta\0{F87A,-243}{F813,1,411108}What the hell... It's you!{F801}You're the guy my master sent, right?{F801}</source>
+    <target>{F812}Setanta\0{F87A,-243}{F813,1,411108}What the hell... It's you!{F801}You're the guy my master sent, right?{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 Speak to Setanta to begin the{F801}battle.{F801}</source>
+    <target>〉 Speak to Setanta to begin the{F801}battle.{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>When Setanta loses the battle, he{F801}becomes humble. Scathach appears{F801}and returns Setanta to Cu Chulainn.{F801}</source>
+    <target>When Setanta loses the battle, he{F801}becomes humble. Scathach appears{F801}and returns Setanta to Cu Chulainn.{F801}</target>
+  </entry>
+  <entry id="999">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+</mbm>

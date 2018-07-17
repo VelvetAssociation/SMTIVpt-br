@@ -1,0 +1,42 @@
+<mbm>
+  <entry id="0">
+    <source>〉 Wu Kong has escaped...{F801}</source>
+    <target>〉 Wu Kong has escaped...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}It seems the demon's run off to a{F801}different floor.{F801}{F802}I've locked onto the demon's signal.{F801}I'll display its location on the{F801}navigation map.{F801}{F802}You can use the navigation map to{F801}see the other floors.{F801}{F802}Try using it now to find where that{F801}demon is now.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}It seems the demon's run off to a{F801}different floor.{F801}{F802}I've locked onto the demon's signal.{F801}I'll display its location on the{F801}navigation map.{F801}{F802}You can use the navigation map to{F801}see the other floors.{F801}{F802}Try using it now to find where that{F801}demon is now.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 α2ROM will not display the demon's{F801}signal.{F801}{F802}〉 In the final game, the demon's{F801}location will be marked on your map.{F801}{F802}〉 But, for now, go to B4 of Naraku,{F801}because that's where the demon is.{F801}Trust us!{F801}</source>
+    <target>〉 α2ROM will not display the demon's{F801}signal.{F801}{F802}〉 In the final game, the demon's{F801}location will be marked on your map.{F801}{F802}〉 But, for now, go to B4 of Naraku,{F801}because that's where the demon is.{F801}Trust us!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}I still have a lock on the demon's{F801}signal.{F801}{F802}Let us be sure to defeat it this time.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}I still have a lock on the demon's{F801}signal.{F801}{F802}Let us be sure to defeat it this time.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The demon's marker has moved to {F804,5}B7.{F804,0}{F801}{F802}〉 Proceed to {F804,5}B7{F804,0} of Naraku.{F801}{F802}〉 By the way, in the full version,{F801}the marker will randomly move around{F801}the area.{F801}{F802}〉 Defeat the demon before it moves{F801}again.{F801}</source>
+    <target>〉 The demon's marker has moved to {F804,5}B7.{F804,0}{F801}{F802}〉 Proceed to {F804,5}B7{F804,0} of Naraku.{F801}{F802}〉 By the way, in the full version,{F801}the marker will randomly move around{F801}the area.{F801}{F802}〉 Defeat the demon before it moves{F801}again.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Wu Kong\0{F87A,-355}{F813,1,411008}Alright! Alright! I give up!{F801}I'll go quietly.{F801}{F802}Pfah... I was expecting a god to come{F801}down from the heavens and come after{F801}me. I never thought a human would...{F801}{F802}Not even Buddha would have expected{F801}this.{F801}{F802}Are you sure you're not under some{F801}sort of divine protection or something?{F801}{F802}...Well, I guess it really doesn't{F801}matter to me.{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,-355}{F813,1,411008}Alright! Alright! I give up!{F801}I'll go quietly.{F801}{F802}Pfah... I was expecting a god to come{F801}down from the heavens and come after{F801}me. I never thought a human would...{F801}{F802}Not even Buddha would have expected{F801}this.{F801}{F802}Are you sure you're not under some{F801}sort of divine protection or something?{F801}{F802}...Well, I guess it really doesn't{F801}matter to me.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 A majestic voice speaks forth from{F801}the heavens above...{F801}</source>
+    <target>〉 A majestic voice speaks forth from{F801}the heavens above...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Majestic voice\0{F813,1,413200}So, you have caught Wu Kong.{F801}{F802}I am Erlang Shen. I praise you on the{F801}splendid work you have done.{F801}{F802}{F812}Erlang Shen\0Not only is the Jade Emperor pleased,{F801}but so are the rest of the gods of{F801}the heavens.{F801}</source>
+    <target>{F812}Majestic voice\0{F813,1,413200}So, you have caught Wu Kong.{F801}{F802}I am Erlang Shen. I praise you on the{F801}splendid work you have done.{F801}{F802}{F812}Erlang Shen\0Not only is the Jade Emperor pleased,{F801}but so are the rest of the gods of{F801}the heavens.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Wu Kong\0{F87A,-355}{F813,1,411011}Damn. Well, you caught me. Looks like{F801}it's time for me to go back.{F801}{F802}After all, I am the famous Wu Kong!{F801}{F802}I still have my honor. I'm not going{F801}to cry about losing to a human.{F801}That sort of thing is beneath me.{F801}{F802}Well, I'll see you around.{F801}Don't let yourself loose too much.{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,-355}{F813,1,411011}Damn. Well, you caught me. Looks like{F801}it's time for me to go back.{F801}{F802}After all, I am the famous Wu Kong!{F801}{F802}I still have my honor. I'm not going{F801}to cry about losing to a human.{F801}That sort of thing is beneath me.{F801}{F802}Well, I'll see you around.{F801}Don't let yourself loose too much.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The demon leaves.{F801}</source>
+    <target>〉 The demon leaves.{F801}</target>
+  </entry>
+</mbm>

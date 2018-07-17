@@ -1,0 +1,150 @@
+<mbm>
+  <entry id="0">
+    <source>〉 An old man stands at the end of{F801}an overpass...{F801}{F802}〉 Will you talk to him?{F801}</source>
+    <target>〉 An old man stands at the end of{F801}an overpass...{F801}{F802}〉 Will you talk to him?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 You leave the area...{F801}</source>
+    <target>〉 You leave the area...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You decide to talk to the old{F801}man...{F801}</source>
+    <target>〉 You decide to talk to the old{F801}man...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Old Man\0{F87A,63}{F813,1,403802}Huh? You got some business with me,{F801}boy?{F801}{F802}Oh, I get it. You've come to listen{F801}to my story.{F801}{F802}Then let me tell you the story of the{F801}King of Heroes, Wodan, and his search{F801}for the secret of the ancient runes.{F801}</source>
+    <target>{F812}Old Man\0{F87A,63}{F813,1,403802}Huh? You got some business with me,{F801}boy?{F801}{F802}Oh, I get it. You've come to listen{F801}to my story.{F801}{F802}Then let me tell you the story of the{F801}King of Heroes, Wodan, and his search{F801}for the secret of the ancient runes.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The old man begins his story...{F801}</source>
+    <target>〉 The old man begins his story...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Voice from afar\0{F87A,69}{F813,1,403021}Hold it right there, asshole!{F801}</source>
+    <target>{F812}Voice from afar\0{F87A,69}{F813,1,403021}Hold it right there, asshole!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Rowdy Hunter\0{F87A,69}{F813,1,403011}I knew you'd show up!{F801}</source>
+    <target>{F812}Rowdy Hunter\0{F87A,69}{F813,1,403011}I knew you'd show up!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The Hunter attacks you without{F801}any further explanation...{F801}</source>
+    <target>〉 The Hunter attacks you without{F801}any further explanation...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Old Man\0{F87A,63}{F813,1,403831}Ha ha ha!{F801}Good, good!{F801}{F802}You're pretty strong, boy. It's the{F801}second coming of the King of Heroes,{F801}ha ha ha!{F801}</source>
+    <target>{F812}Old Man\0{F87A,63}{F813,1,403831}Ha ha ha!{F801}Good, good!{F801}{F802}You're pretty strong, boy. It's the{F801}second coming of the King of Heroes,{F801}ha ha ha!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Woman's voice\0{F87A,70}{F813,1,403123}Stop right there!{F801}</source>
+    <target>{F812}Woman's voice\0{F87A,70}{F813,1,403123}Stop right there!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Female Hunter\0{F87A,70}You showed up, just as that Hunter{F801}Kyuzou said you would.{F801}{F802}I guess slaughtering demons isn't{F801}enough for you? Now you're hunting{F801}down humans? That's a new kind of low.{F801}{F802}Stay back, old man! I'll protect you!{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}You showed up, just as that Hunter{F801}Kyuzou said you would.{F801}{F802}I guess slaughtering demons isn't{F801}enough for you? Now you're hunting{F801}down humans? That's a new kind of low.{F801}{F802}Stay back, old man! I'll protect you!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>"Wait just a moment!"{F801}"You have the wrong man!"{F801}</source>
+    <target>"Wait just a moment!"{F801}"You have the wrong man!"{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403111}I won't show any mercy!{F801}Prepare yourself!{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403111}I won't show any mercy!{F801}Prepare yourself!{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 It appears that she is refusing{F801}to listen...{F801}{F802}〉 The female Hunter moves to attack!{F801}</source>
+    <target>〉 It appears that she is refusing{F801}to listen...{F801}{F802}〉 The female Hunter moves to attack!{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Old Man\0{F87A,63}{F813,1,403832}Ahahaha!{F801}Very nice!{F801}{F802}You're pretty good, boy. You too,{F801}missy. You remind me of a Valkyrie!{F801}Ha ha ha!{F801}{F802}Oh, I'm getting all fired up now.{F801}It makes me want to dance!{F801}</source>
+    <target>{F812}Old Man\0{F87A,63}{F813,1,403832}Ahahaha!{F801}Very nice!{F801}{F802}You're pretty good, boy. You too,{F801}missy. You remind me of a Valkyrie!{F801}Ha ha ha!{F801}{F802}Oh, I'm getting all fired up now.{F801}It makes me want to dance!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403121}Argh, dammit...{F801}He's too strong.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403121}Argh, dammit...{F801}He's too strong.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Rowdy Hunter\0{F87A,69}{F813,1,403022}Shit, I didn't expect this guy to{F801}be so tough...{F801}{F802}It's all over for me now, isn't it?{F801}{F802}What the hell was I thinking even{F801}accepting this job...{F801}</source>
+    <target>{F812}Rowdy Hunter\0{F87A,69}{F813,1,403022}Shit, I didn't expect this guy to{F801}be so tough...{F801}{F802}It's all over for me now, isn't it?{F801}{F802}What the hell was I thinking even{F801}accepting this job...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 It seems that these people had{F801}taken jobs to protect the old man...{F801}{F802}〉 You explain the situation to the{F801}other Hunters...{F801}</source>
+    <target>〉 It seems that these people had{F801}taken jobs to protect the old man...{F801}{F802}〉 You explain the situation to the{F801}other Hunters...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403142}What...? You took the job to protect{F801}this old guy, too?{F801}{F802}...So this whole thing was just a{F801}misunderstanding? Oh, I get it now!{F801}{F802}That other guy was going to attack{F801}the old man, and you stopped him!{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403142}What...? You took the job to protect{F801}this old guy, too?{F801}{F802}...So this whole thing was just a{F801}misunderstanding? Oh, I get it now!{F801}{F802}That other guy was going to attack{F801}the old man, and you stopped him!{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Rowdy Hunter\0{F87A,69}{F813,1,403012}Me!? What the hell are you talking{F801}about!? I already said that I came{F801}here because I took the job too!{F801}{F802}I know I kind of jumped the gun here,{F801}but you came along and made the same{F801}mistake!{F801}{F802}So... Wait, I'm confused.{F801}{F802}Does this mean we were supposed to{F801}be allies, fighting somebody else?{F801}{F802}Then what the hell are we supposed{F801}to be fighting...?{F801}</source>
+    <target>{F812}Rowdy Hunter\0{F87A,69}{F813,1,403012}Me!? What the hell are you talking{F801}about!? I already said that I came{F801}here because I took the job too!{F801}{F802}I know I kind of jumped the gun here,{F801}but you came along and made the same{F801}mistake!{F801}{F802}So... Wait, I'm confused.{F801}{F802}Does this mean we were supposed to{F801}be allies, fighting somebody else?{F801}{F802}Then what the hell are we supposed{F801}to be fighting...?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Powerful voice\0{F87A,31}{F813,1,413204}Splendid battles... More than enough{F801}to keep me entertained.{F801}{F802}I did not expect things to go this{F801}well... You have exceeded my{F801}expectations.{F801}</source>
+    <target>{F812}Powerful voice\0{F87A,31}{F813,1,413204}Splendid battles... More than enough{F801}to keep me entertained.{F801}{F802}I did not expect things to go this{F801}well... You have exceeded my{F801}expectations.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Mysterious Man\0{F87A,31}{F813,1,413208}It seems we've got some powerful{F801}warriors here.{F801}{F802}Especially you, victorious one.{F801}Your skills are almost wasted on a{F801}human.{F801}</source>
+    <target>{F812}Mysterious Man\0{F87A,31}{F813,1,413208}It seems we've got some powerful{F801}warriors here.{F801}{F802}Especially you, victorious one.{F801}Your skills are almost wasted on a{F801}human.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Rowdy Hunter\0{F87A,69}{F813,1,403011}Huh? Who the hell are you?{F801}{F802}Wait a minute! You're the Hunter{F801}that's after the old guy, aren't you!{F801}</source>
+    <target>{F812}Rowdy Hunter\0{F87A,69}{F813,1,403011}Huh? Who the hell are you?{F801}{F802}Wait a minute! You're the Hunter{F801}that's after the old guy, aren't you!{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Mysterious Man\0{F87A,31}{F813,1,413208}And if I am?{F801}{F802}Would you defeat me?{F801}{F802}Even if...{F801}</source>
+    <target>{F812}Mysterious Man\0{F87A,31}{F813,1,413208}And if I am?{F801}{F802}Would you defeat me?{F801}{F802}Even if...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Demon\0{F87A,-393}{F813,1,413204}I am... the Kishin Thor.{F801}{F802}{F812}Thor\0{F87A,-393}Now, to put the finishing touches on{F801}this amusement, I will slaughter you{F801}all.{F801}{F802}Your souls will be offered to my{F801}king!{F801}</source>
+    <target>{F812}Demon\0{F87A,-393}{F813,1,413204}I am... the Kishin Thor.{F801}{F802}{F812}Thor\0{F87A,-393}Now, to put the finishing touches on{F801}this amusement, I will slaughter you{F801}all.{F801}{F802}Your souls will be offered to my{F801}king!{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 Something about the old man seems{F801}to be wrong...{F801}</source>
+    <target>〉 Something about the old man seems{F801}to be wrong...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 The old man has turned into a{F801}demon named Odin.{F801}</source>
+    <target>〉 The old man has turned into a{F801}demon named Odin.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Thor\0{F87A,-393}{F813,1,413202}Ah, King Odin has been resurrected...{F801}My wishes have finally been granted.{F801}{F802}Yes, humans... Resurrecting King Odin{F801}was my true intention.{F801}{F802}My king was turned into an old man,{F801}stripped of his memories, and forced{F801}to wander the world.{F801}{F802}I finally found my king, and thought{F801}of a way to help him regain his{F801}memories.{F801}{F802}That is why I took the form of the{F801}Hunter Kyuzou to commission this{F801}fake assignment.{F801}{F802}{F813,1,413201}You Hunters have displayed your{F801}skills in battle among yourselves.{F801}{F802}You have also proven your skill by{F801}besting me in battle.{F801}{F802}Thanks to these battles, the king's{F801}memories were reawakened by the{F801}excitement he felt.{F801}{F802}I thank you all. The reward I have{F801}for you cannot compare to the{F801}gratitude I have for you Hunters.{F801}{F802}First, I will reward the one who{F801}defeated me in battle.{F801}</source>
+    <target>{F812}Thor\0{F87A,-393}{F813,1,413202}Ah, King Odin has been resurrected...{F801}My wishes have finally been granted.{F801}{F802}Yes, humans... Resurrecting King Odin{F801}was my true intention.{F801}{F802}My king was turned into an old man,{F801}stripped of his memories, and forced{F801}to wander the world.{F801}{F802}I finally found my king, and thought{F801}of a way to help him regain his{F801}memories.{F801}{F802}That is why I took the form of the{F801}Hunter Kyuzou to commission this{F801}fake assignment.{F801}{F802}{F813,1,413201}You Hunters have displayed your{F801}skills in battle among yourselves.{F801}{F802}You have also proven your skill by{F801}besting me in battle.{F801}{F802}Thanks to these battles, the king's{F801}memories were reawakened by the{F801}excitement he felt.{F801}{F802}I thank you all. The reward I have{F801}for you cannot compare to the{F801}gratitude I have for you Hunters.{F801}{F802}First, I will reward the one who{F801}defeated me in battle.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Thor\0{F87A,-393}{F813,1,413201}Let us return to Asgard, King Odin.{F801}</source>
+    <target>{F812}Thor\0{F87A,-393}{F813,1,413201}Let us return to Asgard, King Odin.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Odin\0{F87A,-168}{F813,1,413003}I have taken a liking to the humans{F801}here.{F801}{F802}I shall give you all the right to{F801}enter Valhalla.{F801}{F802}Do not hesitate to come to me when{F801}you die. I shall send a Valkyrie to{F801}you as a messenger.{F801}{F802}Farewell.{F801}</source>
+    <target>{F812}Odin\0{F87A,-168}{F813,1,413003}I have taken a liking to the humans{F801}here.{F801}{F802}I shall give you all the right to{F801}enter Valhalla.{F801}{F802}Do not hesitate to come to me when{F801}you die. I shall send a Valkyrie to{F801}you as a messenger.{F801}{F802}Farewell.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>〉 Odin and Thor leave...{F801}</source>
+    <target>〉 Odin and Thor leave...{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403121}Are you telling me that we were all{F801}tricked by demons?{F801}{F802}All they think about is themselves...{F801}What do they think we humans are?{F801}{F802}Augh, I've had it up to here with{F801}these demons!{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403121}Are you telling me that we were all{F801}tricked by demons?{F801}{F802}All they think about is themselves...{F801}What do they think we humans are?{F801}{F802}Augh, I've had it up to here with{F801}these demons!{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Rowdy Hunter\0{F87A,69}{F813,1,403043}I did receive a reward for this,{F801}but I did almost lose my life, too.{F801}{F802}One step in the wrong direction, and{F801}I'd probably have ended up in{F801}Valhalla. No joke...{F801}{F802}Well, it's thanks to you that we were{F801}able to survive all this.{F801}{F802}So thanks.{F801}</source>
+    <target>{F812}Rowdy Hunter\0{F87A,69}{F813,1,403043}I did receive a reward for this,{F801}but I did almost lose my life, too.{F801}{F802}One step in the wrong direction, and{F801}I'd probably have ended up in{F801}Valhalla. No joke...{F801}{F802}Well, it's thanks to you that we were{F801}able to survive all this.{F801}{F802}So thanks.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>〉 The Hunters leave...{F801}</source>
+    <target>〉 The Hunters leave...{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Odin\0{F87A,-168}{F813,1,413001}Hm...{F801}</source>
+    <target>{F812}Odin\0{F87A,-168}{F813,1,413001}Hm...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 Nobody's here...{F801}</source>
+    <target>〉 Nobody's here...{F801}</target>
+  </entry>
+</mbm>

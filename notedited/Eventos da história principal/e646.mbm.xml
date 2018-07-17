@@ -1,0 +1,222 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Entry Receptionist\0{F87A,120}{F813,1,404303}This is where the finals for the{F801}Hunter Tournament will be held.{F801}{F802}Will you be participating in the{F801}Tournament?{F801}</source>
+    <target>{F812}Entry Receptionist\0{F87A,120}{F813,1,404303}This is where the finals for the{F801}Hunter Tournament will be held.{F801}{F802}Will you be participating in the{F801}Tournament?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 {F843,0} hands the receptionist{F801}the entry form for the finals.{F801}</source>
+    <target>〉 {F843,0} hands the receptionist{F801}the entry form for the finals.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Entry Receptionist\0{F87A,120}{F813,1,404342}Ah, yes... {F843,0} from Ueno,{F801}right? We've been waiting for you.{F801}{F802}The Tournament is going to begin soon.{F801}{F802}I'm sure you've heard this before:{F801}"Winning and losing is the difference{F801}between Heaven and Hell here."{F801}{F802}Are you ready?{F801}</source>
+    <target>{F812}Entry Receptionist\0{F87A,120}{F813,1,404342}Ah, yes... {F843,0} from Ueno,{F801}right? We've been waiting for you.{F801}{F802}The Tournament is going to begin soon.{F801}{F802}I'm sure you've heard this before:{F801}"Winning and losing is the difference{F801}between Heaven and Hell here."{F801}{F802}Are you ready?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Entry Receptionist\0{F87A,120}{F813,1,404303}You're not going to be allowed to{F801}quit once this thing starts. Are{F801}you sure you're ready?{F801}</source>
+    <target>{F812}Entry Receptionist\0{F87A,120}{F813,1,404303}You're not going to be allowed to{F801}quit once this thing starts. Are{F801}you sure you're ready?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Entry Receptionist\0{F87A,120}{F813,1,404341}Well, come speak with me when you{F801}are ready, then.{F801}</source>
+    <target>{F812}Entry Receptionist\0{F87A,120}{F813,1,404341}Well, come speak with me when you{F801}are ready, then.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Entry Receptionist\0{F87A,120}{F813,1,404331}Very well. If you'll follow me, I'll{F801}take you to the arena.{F801}</source>
+    <target>{F812}Entry Receptionist\0{F87A,120}{F813,1,404331}Very well. If you'll follow me, I'll{F801}take you to the arena.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Entry Receptionist\0{F87A,120}{F813,1,404311}What's this? Cold feet already...{F801}Tsk, tsk.{F801}{F802}I'll pretend I didn't hear that.{F801}{F802}Come talk with me once you're ready{F801}to begin.{F801}</source>
+    <target>{F812}Entry Receptionist\0{F87A,120}{F813,1,404311}What's this? Cold feet already...{F801}Tsk, tsk.{F801}{F802}I'll pretend I didn't hear that.{F801}{F802}Come talk with me once you're ready{F801}to begin.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Announcer\0{F813,1,406001}Thank you for your patience,{F801}ladies and gentlemen!{F801}{F802}The Fifteenth Grand Tokyo Hunter{F801}Tournament shall now commence!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406001}Thank you for your patience,{F801}ladies and gentlemen!{F801}{F802}The Fifteenth Grand Tokyo Hunter{F801}Tournament shall now commence!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Announcer\0And now, for the first match of the{F801}night, here is the first challenger.{F801}{F802}The Ueno district's representative,{F801}the Hunter Samurai, {F843,0}!{F801}</source>
+    <target>{F812}Announcer\0And now, for the first match of the{F801}night, here is the first challenger.{F801}{F802}The Ueno district's representative,{F801}the Hunter Samurai, {F843,0}!{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Announcer\0And here is his opponent!{F801}{F802}Uh-oh, he's going up against one of{F801}our most legendarily bloodthirsty{F801}Hunters in the first round!{F801}{F802}The representative from the{F801}Ikebukuro district, Prisoner Yokota!{F801}</source>
+    <target>{F812}Announcer\0And here is his opponent!{F801}{F802}Uh-oh, he's going up against one of{F801}our most legendarily bloodthirsty{F801}Hunters in the first round!{F801}{F802}The representative from the{F801}Ikebukuro district, Prisoner Yokota!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Announcer\0{F813,1,406004}Will both contestants please move{F801}to their designated areas!{F801}{F802}{F813,1,406005}Hunters, prepare for battle...{F801}{F802}{F813,1,406006}Ready... Go!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406004}Will both contestants please move{F801}to their designated areas!{F801}{F802}{F813,1,406005}Hunters, prepare for battle...{F801}{F802}{F813,1,406006}Ready... Go!{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Announcer\0The audience is holding its breath,{F801}waiting for {F843,0}'s next move!{F801}What will he do next!?{F801}</source>
+    <target>{F812}Announcer\0The audience is holding its breath,{F801}waiting for {F843,0}'s next move!{F801}What will he do next!?{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>Spare your foe{F801}Finish him{F801}</source>
+    <target>Spare your foe{F801}Finish him{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Furious spectator\0What!? Mercy in the very first{F801}round!? What a load of shit!{F801}Let's see some blood, assholes!{F801}</source>
+    <target>{F812}Furious spectator\0What!? Mercy in the very first{F801}round!? What a load of shit!{F801}Let's see some blood, assholes!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Announcer\0{F813,1,406002}What's this!? {F843,0} has sheathed{F801}his sword!{F801}{F802}And you can tell what the crowd{F801}thinks of this display of generosity!{F801}Take it easy, everybody!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406002}What's this!? {F843,0} has sheathed{F801}his sword!{F801}{F802}And you can tell what the crowd{F801}thinks of this display of generosity!{F801}Take it easy, everybody!{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Announcer\0{F813,1,406003}And the crowd goes wild!{F801}This is what we've all come to see!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406003}And the crowd goes wild!{F801}This is what we've all come to see!{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Announcer\0{F813,1,406001}The Ueno representative is just as{F801}formidable as the rumors say! He{F801}moves on to the next bracket!{F801}{F802}Here is the young Samurai's next{F801}opponent...{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406001}The Ueno representative is just as{F801}formidable as the rumors say! He{F801}moves on to the next bracket!{F801}{F802}Here is the young Samurai's next{F801}opponent...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Announcer\0The cannons salvaged from the JGSDF{F801}roar with the fury of Hell itself!{F801}{F802}The representative from the Odaiba{F801}district in Toyosu: Fusou "3K" Fujio!{F801}</source>
+    <target>{F812}Announcer\0The cannons salvaged from the JGSDF{F801}roar with the fury of Hell itself!{F801}{F802}The representative from the Odaiba{F801}district in Toyosu: Fusou "3K" Fujio!{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Announcer\0{F813,1,406004}Will both contestants please move{F801}to their designated areas!{F801}{F802}{F813,1,406005}Hunters, prepare for battle...{F801}{F802}{F813,1,406006}Ready... Go!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406004}Will both contestants please move{F801}to their designated areas!{F801}{F802}{F813,1,406005}Hunters, prepare for battle...{F801}{F802}{F813,1,406006}Ready... Go!{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Announcer\0The entire audience is in suspense!{F801}What will the Hunter Samurai do next?{F801}</source>
+    <target>{F812}Announcer\0The entire audience is in suspense!{F801}What will the Hunter Samurai do next?{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>Spare your foe{F801}Finish him{F801}</source>
+    <target>Spare your foe{F801}Finish him{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Splenetic spectator\0Aw, hell no! You goddamn wimp!{F801}Kill him! KILL HIM!{F801}</source>
+    <target>{F812}Splenetic spectator\0Aw, hell no! You goddamn wimp!{F801}Kill him! KILL HIM!{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Announcer\0{F813,1,406002}What's this, {F843,0}!? It looks{F801}like he's decided to spare his{F801}opponent this round!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406002}What's this, {F843,0}!? It looks{F801}like he's decided to spare his{F801}opponent this round!{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Announcer\0{F813,1,406003}Wow-ee! Listen to that crowd roar!{F801}This Hunter Tournament is a machine,{F801}and it runs on blood!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406003}Wow-ee! Listen to that crowd roar!{F801}This Hunter Tournament is a machine,{F801}and it runs on blood!{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Announcer\0{F813,1,406001}So far, no one has stood a chance{F801}against {F843,0}! He moves on to the{F801}top four!{F801}{F802}He's made it into the semi-finals,{F801}and his next opponent will be...{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406001}So far, no one has stood a chance{F801}against {F843,0}! He moves on to the{F801}top four!{F801}{F802}He's made it into the semi-finals,{F801}and his next opponent will be...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Announcer\0{F813,1,406003}All Hunters are a little off, but{F801}this next one seems positively normal{F801}compared to the others!{F801}{F802}Honestly, folks, I have no idea why{F801}he would ever want to take part in{F801}this cavalcade of psychotics.{F801}{F802}The representative of the Shibuya{F801}district, this veteran Hunter{F801}wields the power of the gods!{F801}{F802}I present to you: Master Hiro Jingu!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406003}All Hunters are a little off, but{F801}this next one seems positively normal{F801}compared to the others!{F801}{F802}Honestly, folks, I have no idea why{F801}he would ever want to take part in{F801}this cavalcade of psychotics.{F801}{F802}The representative of the Shibuya{F801}district, this veteran Hunter{F801}wields the power of the gods!{F801}{F802}I present to you: Master Hiro Jingu!{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Announcer\0{F813,1,406004}Will both contestants please move{F801}to their designated areas!{F801}{F802}{F813,1,406005}Hunters, prepare for battle...{F801}{F802}{F813,1,406006}Ready... Go!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406004}Will both contestants please move{F801}to their designated areas!{F801}{F802}{F813,1,406005}Hunters, prepare for battle...{F801}{F802}{F813,1,406006}Ready... Go!{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Announcer\0The entire audience is on tenterhooks{F801}as we await {F843,0}'s next move.{F801}What will this unmatched Hunter do!?{F801}</source>
+    <target>{F812}Announcer\0The entire audience is on tenterhooks{F801}as we await {F843,0}'s next move.{F801}What will this unmatched Hunter do!?{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>Spare your foe{F801}Finish him{F801}</source>
+    <target>Spare your foe{F801}Finish him{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Choleric spectator\0Boo! "Boo," I say!{F801}Thrash him to a pulp!{F801}We are not entertained!{F801}</source>
+    <target>{F812}Choleric spectator\0Boo! "Boo," I say!{F801}Thrash him to a pulp!{F801}We are not entertained!{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Announcer\0{F813,1,406002}What's this!? {F843,0} doesn't take{F801}a second look at Master Hiro once{F801}he's down! Listen to that crowd!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406002}What's this!? {F843,0} doesn't take{F801}a second look at Master Hiro once{F801}he's down! Listen to that crowd!{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Announcer\0{F813,1,406003}{F843,0} is absolutely covered in{F801}Master Hiro's blood! He didn't even{F801}pause for a second!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406003}{F843,0} is absolutely covered in{F801}Master Hiro's blood! He didn't even{F801}pause for a second!{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Announcer\0{F813,1,406001}Ueno's representatives usually end up{F801}losing in the first rounds, but this{F801}time they've got a real fighter!{F801}{F802}It's the time you've all been{F801}waiting for! The final battle!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406001}Ueno's representatives usually end up{F801}losing in the first rounds, but this{F801}time they've got a real fighter!{F801}{F802}It's the time you've all been{F801}waiting for! The final battle!{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Announcner\0First: the man who blazed a trail{F801}through the preliminaries in his{F801}very first appearance...{F801}{F802}...A miracle tale who has gone{F801}undefeated all the way to this,{F801}the final round...{F801}{F802}The Hunter Samurai, {F843,0}!{F801}</source>
+    <target>{F812}Announcner\0First: the man who blazed a trail{F801}through the preliminaries in his{F801}very first appearance...{F801}{F802}...A miracle tale who has gone{F801}undefeated all the way to this,{F801}the final round...{F801}{F802}The Hunter Samurai, {F843,0}!{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Announcer\0And here: A Hunter known far and wide{F801}as a favorite here in this tournament{F801}for the past five years...{F801}{F802}The representative of the Roppongi{F801}district: Godhand Hills!{F801}</source>
+    <target>{F812}Announcer\0And here: A Hunter known far and wide{F801}as a favorite here in this tournament{F801}for the past five years...{F801}{F802}The representative of the Roppongi{F801}district: Godhand Hills!{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Announcer\0{F813,1,406003}This is the final match in the{F801}Hunter Tournament!{F801}{F802}{F813,1,406004}Will both contestants please move{F801}to their designated areas!{F801}{F802}{F813,1,406005}Hunters, prepare for battle...{F801}{F802}{F813,1,406006}Ready... Go!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406003}This is the final match in the{F801}Hunter Tournament!{F801}{F802}{F813,1,406004}Will both contestants please move{F801}to their designated areas!{F801}{F802}{F813,1,406005}Hunters, prepare for battle...{F801}{F802}{F813,1,406006}Ready... Go!{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Announcer\0{F813,1,406003}What an amazing turn of events!{F801}{F843,0} is the last man standing!{F801}{F802}The champion, Godhand Hills, is down!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406003}What an amazing turn of events!{F801}{F843,0} is the last man standing!{F801}{F802}The champion, Godhand Hills, is down!{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Announcer\0I never expected to see this! The{F801}former champ is in desperate straits.{F801}{F802}Let's see how {F843,0} takes his{F801}crown to become the ultimate victor.{F801}{F802}Now then, what will {F843,0} do!?{F801}</source>
+    <target>{F812}Announcer\0I never expected to see this! The{F801}former champ is in desperate straits.{F801}{F802}Let's see how {F843,0} takes his{F801}crown to become the ultimate victor.{F801}{F802}Now then, what will {F843,0} do!?{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>Spare your foe{F801}Finish him{F801}</source>
+    <target>Spare your foe{F801}Finish him{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Rabid spectator\0What!? This is the final round!{F801}You're not even gonna kill him!?{F801}You're no champion! I'm outta here!{F801}</source>
+    <target>{F812}Rabid spectator\0What!? This is the final round!{F801}You're not even gonna kill him!?{F801}You're no champion! I'm outta here!{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Announcer\0{F813,1,406003}Amazing! Shame that we couldn't get{F801}some blood flowing around here...{F801}{F802}...But the new champion, {F843,0},{F801}shows respect for his predecessor{F801}and lets him live!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406003}Amazing! Shame that we couldn't get{F801}some blood flowing around here...{F801}{F802}...But the new champion, {F843,0},{F801}shows respect for his predecessor{F801}and lets him live!{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Announcer\0{F813,1,406002}What ruthlessness! A true warrior,{F801}without an ounce of compassion!{F801}{F802}But, that's okay! We're all crazy{F801}here! Listen to that crowd cheer!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406002}What ruthlessness! A true warrior,{F801}without an ounce of compassion!{F801}{F802}But, that's okay! We're all crazy{F801}here! Listen to that crowd cheer!{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Announcer\0{F813,1,406004}Now then, ladies and gentlemen!{F801}{F802}Let me present the Fifteenth Grand{F801}Tokyo Hunter Tournament champion...{F801}{F802}{F843,0}!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406004}Now then, ladies and gentlemen!{F801}{F802}Let me present the Fifteenth Grand{F801}Tokyo Hunter Tournament champion...{F801}{F802}{F843,0}!{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Announcer\0Know this, {F843,0}! Everybody's{F801}going to look at you differently{F801}now.{F801}{F802}You know why? Because you're the{F801}Hunter who won this crazy tournament!{F801}{F802}Not only will people expect more{F801}from you, {F843,0}, but we're going{F801}to be watching your career closely.{F801}{F802}To everybody else: keep your eyes{F801}on {F843,0}'s Hunter ranking from{F801}now on!{F801}{F802}This concludes the Fifteenth Grand{F801}Tokyo Hunter Tournament!{F801}</source>
+    <target>{F812}Announcer\0Know this, {F843,0}! Everybody's{F801}going to look at you differently{F801}now.{F801}{F802}You know why? Because you're the{F801}Hunter who won this crazy tournament!{F801}{F802}Not only will people expect more{F801}from you, {F843,0}, but we're going{F801}to be watching your career closely.{F801}{F802}To everybody else: keep your eyes{F801}on {F843,0}'s Hunter ranking from{F801}now on!{F801}{F802}This concludes the Fifteenth Grand{F801}Tokyo Hunter Tournament!{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Announcer\0{F813,1,406002}What's this? The Ikebukuro champion{F801}is down! Is this the end!?{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406002}What's this? The Ikebukuro champion{F801}is down! Is this the end!?{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>{F812}Announcer\0{F813,1,406003}Fujio's infamous guns have fallen{F801}silent! It looks like he's finally{F801}been cornered!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406003}Fujio's infamous guns have fallen{F801}silent! It looks like he's finally{F801}been cornered!{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>{F812}Announcer\0{F813,1,406003}And Master takes a powerful blow to{F801}the head, and can barely remain{F801}standing!{F801}{F802}Amazing! This is {F843,0}'s first{F801}appearance in this tournament, and{F801}he's already reached the finals!{F801}</source>
+    <target>{F812}Announcer\0{F813,1,406003}And Master takes a powerful blow to{F801}the head, and can barely remain{F801}standing!{F801}{F802}Amazing! This is {F843,0}'s first{F801}appearance in this tournament, and{F801}he's already reached the finals!{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>{F812}Entry Receptionist\0{F87A,120}{F813,1,404331}Ah, yes... {F843,0} from Ueno,{F801}right? We've been waiting for you.{F801}{F802}The Tournament is going to begin soon.{F801}{F802}I'm sure you've heard this before:{F801}"Winning and losing is the difference{F801}between Heaven and Hell here."{F801}{F802}Are you ready?{F801}</source>
+    <target>{F812}Entry Receptionist\0{F87A,120}{F813,1,404331}Ah, yes... {F843,0} from Ueno,{F801}right? We've been waiting for you.{F801}{F802}The Tournament is going to begin soon.{F801}{F802}I'm sure you've heard this before:{F801}"Winning and losing is the difference{F801}between Heaven and Hell here."{F801}{F802}Are you ready?{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>{F812}Announcer\0All our contestants are veteran{F801}fighters who have carved bloody{F801}swaths through the preliminaries.{F801}{F802}These Hunters are now going to go{F801}head-to-head here, in this arena...{F801}{F802}...for the glory of being the{F801}strongest Hunter in all Tokyo!{F801}</source>
+    <target>{F812}Announcer\0All our contestants are veteran{F801}fighters who have carved bloody{F801}swaths through the preliminaries.{F801}{F802}These Hunters are now going to go{F801}head-to-head here, in this arena...{F801}{F802}...for the glory of being the{F801}strongest Hunter in all Tokyo!{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>〉 According to the navigation map,{F801}this place is known as the Tokyo{F801}Dome.{F801}</source>
+    <target>〉 According to the navigation map,{F801}this place is known as the Tokyo{F801}Dome.{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>{F812}Man in Red Vest\0{F87A,0}{F813,1,403002}Are you a Hunter, or are you just{F801}here to watch? ...Doesn't matter{F801}anyway, because you can't come in.{F801}{F802}I know how you feel, though!{F801}{F802}I mean, all the greatest Hunters are{F801}gonna be here. I can't wait for the{F801}Tournament to start!{F801}</source>
+    <target>{F812}Man in Red Vest\0{F87A,0}{F813,1,403002}Are you a Hunter, or are you just{F801}here to watch? ...Doesn't matter{F801}anyway, because you can't come in.{F801}{F802}I know how you feel, though!{F801}{F802}I mean, all the greatest Hunters are{F801}gonna be here. I can't wait for the{F801}Tournament to start!{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>〉 You have no business here...{F801}</source>
+    <target>〉 You have no business here...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

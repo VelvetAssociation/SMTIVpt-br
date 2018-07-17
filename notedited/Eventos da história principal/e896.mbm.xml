@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502036}Hey, can I share something with you?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502036}Hey, can I share something with you?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502036}Hey, can I share something with you?{F801}{F802}{F813,0,502037}It's a combat training quest that makes{F801}use of virtual reality functions.{F801}{F802}{F813,0,502038}If you want, I can explain it to you{F801}in detail.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502036}Hey, can I share something with you?{F801}{F802}{F813,0,502037}It's a combat training quest that makes{F801}use of virtual reality functions.{F801}{F802}{F813,0,502038}If you want, I can explain it to you{F801}in detail.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Hear the details{F801}Don't hear the details{F801}</source>
+    <target>Hear the details{F801}Don't hear the details{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>These Challenge Quests involve winning{F801}a battle while meeting certain{F801}conditions.{F801}{F802}There is no penalty for failing them,{F801}and they can be challenged as many{F801}times as necessary until completed.{F801}{F802}More of these quests will be added{F801}periodically, so feel free to take{F801}them on.{F801}</source>
+    <target>These Challenge Quests involve winning{F801}a battle while meeting certain{F801}conditions.{F801}{F802}There is no penalty for failing them,{F801}and they can be challenged as many{F801}times as necessary until completed.{F801}{F802}More of these quests will be added{F801}periodically, so feel free to take{F801}them on.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502039}I'll register a few of them to the{F801}Challenge Quest list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502039}I'll register a few of them to the{F801}Challenge Quest list.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502040}...That should do it for now. Try{F801}them out whenever you feel like it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502040}...That should do it for now. Try{F801}them out whenever you feel like it.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502041}All right, I'll skip the explanation.{F801}{F802}{F813,0,502042}I'll register a few of them to the{F801}Challenge Quest list. Try them out{F801}whenever you feel like it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502041}All right, I'll skip the explanation.{F801}{F802}{F813,0,502042}I'll register a few of them to the{F801}Challenge Quest list. Try them out{F801}whenever you feel like it.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502034}Hey, guess what? There's a type of{F801}quest you can do in VR!{F801}{F802}{F813,0,502035}I'll register a few of them to the{F801}Challenge Quest list. Try them out{F801}whenever you feel like it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502034}Hey, guess what? There's a type of{F801}quest you can do in VR!{F801}{F802}{F813,0,502035}I'll register a few of them to the{F801}Challenge Quest list. Try them out{F801}whenever you feel like it.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502044}Hold on, there's something I need to{F801}tell you.{F801}{F802}I've lost contact with the Eastern{F801}Kingdom of Mikado.{F801}{F802}I think it's because we've split{F801}from them.{F801}{F802}For now, I'm going to set all Mikado-{F801}related quests as ineligible to be{F801}accepted.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502044}Hold on, there's something I need to{F801}tell you.{F801}{F802}I've lost contact with the Eastern{F801}Kingdom of Mikado.{F801}{F802}I think it's because we've split{F801}from them.{F801}{F802}For now, I'm going to set all Mikado-{F801}related quests as ineligible to be{F801}accepted.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502044}Hold on, there's something I need to{F801}tell you.{F801}{F802}Since you can come to Mikado now, I'll{F801}make it so certain quests can be accepted{F801}again.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502044}Hold on, there's something I need to{F801}tell you.{F801}{F802}Since you can come to Mikado now, I'll{F801}make it so certain quests can be accepted{F801}again.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502044}Hold on, there's something I need to{F801}tell you.{F801}{F802}Since the angels eradicated the demons,{F801}there are a few quests that can't be{F801}completed anymore.{F801}{F802}I've made it so you can't accept those{F801}quests now.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502044}Hold on, there's something I need to{F801}tell you.{F801}{F802}Since the angels eradicated the demons,{F801}there are a few quests that can't be{F801}completed anymore.{F801}{F802}I've made it so you can't accept those{F801}quests now.{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,18 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The area has been sealed off by the{F801}demon's Domain.{F801}</source>
+    <target>〉 The area has been sealed off by the{F801}demon's Domain.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>You can exit the Domain either by{F801}completing or abandoning the quest.{F801}</source>
+    <target>You can exit the Domain either by{F801}completing or abandoning the quest.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}I've located a signal that seems to be{F801}a different kind of demon.{F801}{F802}I'll display it on the navigation map.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}I've located a signal that seems to be{F801}a different kind of demon.{F801}{F802}I'll display it on the navigation map.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0The poisonous wind and evil spirits{F801}have called upon me.{F801}{F802}My name is Vile Pazuzu.{F801}{F802}You, sacrifice... I hope you are able{F801}to entertain me.{F801}</source>
+    <target>{F812}Demon\0The poisonous wind and evil spirits{F801}have called upon me.{F801}{F802}My name is Vile Pazuzu.{F801}{F802}You, sacrifice... I hope you are able{F801}to entertain me.{F801}</target>
+  </entry>
+</mbm>

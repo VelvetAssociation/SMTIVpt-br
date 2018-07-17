@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Red Knight\0{F87A,135}{F813,0,690000}I thought you might turn up,{F801}{F843,0}.{F801}{F802}{F813,0,690001}I have heard rumors about you. You were{F801}the famous Demon Hunter... or, rather,{F801}Samurai.{F801}{F802}{F813,0,690002}Who could have known that you would{F801}be a Samurai?{F801}{F802}{F813,0,690003}Although you may not be aware of it,{F801}you have drawn your sword on your{F801}king...{F801}</source>
+    <target>{F812}Red Knight\0{F87A,135}{F813,0,690000}I thought you might turn up,{F801}{F843,0}.{F801}{F802}{F813,0,690001}I have heard rumors about you. You were{F801}the famous Demon Hunter... or, rather,{F801}Samurai.{F801}{F802}{F813,0,690002}Who could have known that you would{F801}be a Samurai?{F801}{F802}{F813,0,690003}Although you may not be aware of it,{F801}you have drawn your sword on your{F801}king...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 The Red Knight lifts the visor of{F801}his helmet...{F801}{F802}〉 The knight's face seems familiar{F801}to you...{F801}</source>
+    <target>〉 The Red Knight lifts the visor of{F801}his helmet...{F801}{F802}〉 The knight's face seems familiar{F801}to you...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Red Knight\0{F87A,135}{F813,0,690004}Gaze upon this face, for I am none{F801}other than King Ahazuya of Mikado.{F801}{F802}{F813,0,690005}I have been driven from my former{F801}station, hunted by angels, and forced{F801}to hide among the Unclean Ones.{F801}{F802}{F813,0,690006}It is an embarrassment. To have my{F801}revenge, I have abandoned my status to{F801}attain the power to defeat the angels.{F801}{F802}{F813,0,690007}{F843,0}... if you truly are a{F801}Samurai, then you will lend me your{F801}strength.{F801}{F802}{F813,0,690008}This is an order from your king.{F801}</source>
+    <target>{F812}Red Knight\0{F87A,135}{F813,0,690004}Gaze upon this face, for I am none{F801}other than King Ahazuya of Mikado.{F801}{F802}{F813,0,690005}I have been driven from my former{F801}station, hunted by angels, and forced{F801}to hide among the Unclean Ones.{F801}{F802}{F813,0,690006}It is an embarrassment. To have my{F801}revenge, I have abandoned my status to{F801}attain the power to defeat the angels.{F801}{F802}{F813,0,690007}{F843,0}... if you truly are a{F801}Samurai, then you will lend me your{F801}strength.{F801}{F802}{F813,0,690008}This is an order from your king.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Agree to cooperate with him{F801}Refuse{F801}</source>
+    <target>Agree to cooperate with him{F801}Refuse{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Red Knight\0{F87A,135}{F813,0,690009}You are a true Samurai of your liege.{F801}{F802}{F813,0,690010}And now... I order you to become a{F801}sacrifice to the Overlord Baal!{F801}</source>
+    <target>{F812}Red Knight\0{F87A,135}{F813,0,690009}You are a true Samurai of your liege.{F801}{F802}{F813,0,690010}And now... I order you to become a{F801}sacrifice to the Overlord Baal!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Red Knight\0{F87A,135}{F813,0,690011}...So much for faithfulness to one's{F801}rightful king.{F801}{F802}{F813,0,690012}Very well then, I shall prepare the{F801}sacrifice to the Overlord Baal myself,{F801}with your head!{F801}</source>
+    <target>{F812}Red Knight\0{F87A,135}{F813,0,690011}...So much for faithfulness to one's{F801}rightful king.{F801}{F802}{F813,0,690012}Very well then, I shall prepare the{F801}sacrifice to the Overlord Baal myself,{F801}with your head!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 The Red Knight's armor falls apart{F801}and clatters to the floor...{F801}{F802}〉 The armor is completely empty,{F801}except for the helmet.{F801}{F802}〉 The head of King Ahazuya of Mikado{F801}speaks, with a demon's voice...{F801}</source>
+    <target>〉 The Red Knight's armor falls apart{F801}and clatters to the floor...{F801}{F802}〉 The armor is completely empty,{F801}except for the helmet.{F801}{F802}〉 The head of King Ahazuya of Mikado{F801}speaks, with a demon's voice...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Decapitated Head\0{F87A,-167}{F813,0,690013}Your sword now runs with the blood of{F801}your once and former king. This is the{F801}second time he has been killed...{F801}{F802}{F813,0,690014}This man did not pray to God in his{F801}final moments. No... He prayed to me,{F801}Baal, for help instead.{F801}{F802}{F813,0,690015}{F812}Voice of Baal\0{F87A,-167}Betrayed by the God that he once{F801}worshipped, he sought something new{F801}to cling to.{F801}{F802}{F813,0,690016}Even I felt sympathy for this king,{F801}who had nothing left to believe in but{F801}a mere idol that he found in books.{F801}{F802}{F813,0,690017}And, feeling his desire for revenge,{F801}I answered his call to defeat God. I{F801}possessed his corpse to use as a body.{F801}{F802}{F813,0,690018}But, even in death, he could not be{F801}free... So I shall take action, all{F801}for this pitiful and lonely ruler.{F801}</source>
+    <target>{F812}Decapitated Head\0{F87A,-167}{F813,0,690013}Your sword now runs with the blood of{F801}your once and former king. This is the{F801}second time he has been killed...{F801}{F802}{F813,0,690014}This man did not pray to God in his{F801}final moments. No... He prayed to me,{F801}Baal, for help instead.{F801}{F802}{F813,0,690015}{F812}Voice of Baal\0{F87A,-167}Betrayed by the God that he once{F801}worshipped, he sought something new{F801}to cling to.{F801}{F802}{F813,0,690016}Even I felt sympathy for this king,{F801}who had nothing left to believe in but{F801}a mere idol that he found in books.{F801}{F802}{F813,0,690017}And, feeling his desire for revenge,{F801}I answered his call to defeat God. I{F801}possessed his corpse to use as a body.{F801}{F802}{F813,0,690018}But, even in death, he could not be{F801}free... So I shall take action, all{F801}for this pitiful and lonely ruler.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Something changes in the air around{F801}you...{F801}</source>
+    <target>〉 Something changes in the air around{F801}you...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Voice of Baal\0{F87A,-167}{F813,0,690019}Now then, {F843,0}.{F801}{F802}{F813,0,690020}Your existence is an extreme danger,{F801}and one that cannot be allowed to{F801}continue.{F801}{F802}{F813,0,690021}I am reluctant to do so, but in order{F801}to defeat you, I must take on my true{F801}form...{F801}{F802}{F813,0,690022}You shall feel the might of an{F801}unmatched power that is worshipped{F801}through fear...{F801}</source>
+    <target>{F812}Voice of Baal\0{F87A,-167}{F813,0,690019}Now then, {F843,0}.{F801}{F802}{F813,0,690020}Your existence is an extreme danger,{F801}and one that cannot be allowed to{F801}continue.{F801}{F802}{F813,0,690021}I am reluctant to do so, but in order{F801}to defeat you, I must take on my true{F801}form...{F801}{F802}{F813,0,690022}You shall feel the might of an{F801}unmatched power that is worshipped{F801}through fear...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The demon transforms into a great{F801}swarm of flies, which scatter in{F801}every direction...{F801}</source>
+    <target>〉 The demon transforms into a great{F801}swarm of flies, which scatter in{F801}every direction...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 The head of King Ahazuya rests at{F801}your feet...{F801}</source>
+    <target>〉 The head of King Ahazuya rests at{F801}your feet...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>Give it a proper burial{F801}Leave it{F801}</source>
+    <target>Give it a proper burial{F801}Leave it{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 As you reach down to pick up the{F801}king's head...{F801}{F802}〉 You see the king's sword glowing{F801}in the pile of fallen armor.{F801}</source>
+    <target>〉 As you reach down to pick up the{F801}king's head...{F801}{F802}〉 You see the king's sword glowing{F801}in the pile of fallen armor.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 You pick up the king's sword from{F801}the ground as you leave...{F801}{F802}〉 You have obtained the Sword of{F801}Aquila.{F801}</source>
+    <target>〉 You pick up the king's sword from{F801}the ground as you leave...{F801}{F802}〉 You have obtained the Sword of{F801}Aquila.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Demon\0{F87A,-424}{F813,1,412100}What's this? A human? My master is{F801}not here at the moment.{F801}{F802}You're quite lucky, you know. You humans{F801}won't survive for very long, once my{F801}master is resurrected.{F801}{F802}That's simply how it is.{F801}Now run along, please.{F801}</source>
+    <target>{F812}Demon\0{F87A,-424}{F813,1,412100}What's this? A human? My master is{F801}not here at the moment.{F801}{F802}You're quite lucky, you know. You humans{F801}won't survive for very long, once my{F801}master is resurrected.{F801}{F802}That's simply how it is.{F801}Now run along, please.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 The demon flaps its wing dismissively{F801}and darkness suddenly falls upon you...{F801}</source>
+    <target>〉 The demon flaps its wing dismissively{F801}and darkness suddenly falls upon you...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 When you take the sword, the glow{F801}begins to fade...{F801}{F802}〉 You have obtained the Sword of{F801}Aquila.{F801}</source>
+    <target>〉 When you take the sword, the glow{F801}begins to fade...{F801}{F802}〉 You have obtained the Sword of{F801}Aquila.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 You see a knight in red armor{F801}standing here...{F801}</source>
+    <target>〉 You see a knight in red armor{F801}standing here...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

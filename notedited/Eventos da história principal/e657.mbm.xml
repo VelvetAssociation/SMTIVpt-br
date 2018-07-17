@@ -1,0 +1,70 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Nozomi\0{F87A,136}{F813,0,657000}Oh! It's you, {F843,0}.{F801}Thanks for coming.{F801}{F802}{F813,0,657001}How's that camera I gave you?{F801}You take any good pictures?{F801}</source>
+    <target>{F812}Nozomi\0{F87A,136}{F813,0,657000}Oh! It's you, {F843,0}.{F801}Thanks for coming.{F801}{F802}{F813,0,657001}How's that camera I gave you?{F801}You take any good pictures?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"Of course."{F801}"Not at all."{F801}</source>
+    <target>"Of course."{F801}"Not at all."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Nozomi\0{F87A,136}{F813,0,657002}Well, good! I'm glad you're taking{F801}a shine to it.{F801}{F802}{F813,0,657003}Fighting for survival is nice and{F801}all, but it's good to have a cultural{F801}experience once in a while.{F801}</source>
+    <target>{F812}Nozomi\0{F87A,136}{F813,0,657002}Well, good! I'm glad you're taking{F801}a shine to it.{F801}{F802}{F813,0,657003}Fighting for survival is nice and{F801}all, but it's good to have a cultural{F801}experience once in a while.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Nozomi\0{F87A,136}{F813,0,657004}...Awww.{F801}Well, that's disappointing.{F801}{F802}{F813,0,657005}You're still going to join me for{F801}this job, right?{F801}{F802}{F813,0,657006}I guess you just prefer fighting,{F801}don't you, {F843,0}?{F801}</source>
+    <target>{F812}Nozomi\0{F87A,136}{F813,0,657004}...Awww.{F801}Well, that's disappointing.{F801}{F802}{F813,0,657005}You're still going to join me for{F801}this job, right?{F801}{F802}{F813,0,657006}I guess you just prefer fighting,{F801}don't you, {F843,0}?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 After speaking with Nozomi for a{F801}while, it becomes apparent that nobody{F801}else is going to be joining you...{F801}</source>
+    <target>〉 After speaking with Nozomi for a{F801}while, it becomes apparent that nobody{F801}else is going to be joining you...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Nozomi\0{F87A,136}{F813,0,657007}Well, it looks like you're the only{F801}one who showed up, {F843,0}.{F801}{F802}{F813,0,657008}I can never rely on any of the other{F801}Hunters.{F801}{F802}{F813,0,657009}Whenever they ask me for a favor,{F801}they all suck up to me and call me{F801}stuff like "Boss Lady."{F801}{F802}{F813,0,657010}Ah, well. Guess it's just the two of{F801}us again.{F801}{F802}{F813,0,657011}The demons are running around the{F801}main street near the east gate like{F801}they run the place.{F801}{F802}{F813,0,657012}I've got high hopes for you,{F801}{F843,0}.{F801}</source>
+    <target>{F812}Nozomi\0{F87A,136}{F813,0,657007}Well, it looks like you're the only{F801}one who showed up, {F843,0}.{F801}{F802}{F813,0,657008}I can never rely on any of the other{F801}Hunters.{F801}{F802}{F813,0,657009}Whenever they ask me for a favor,{F801}they all suck up to me and call me{F801}stuff like "Boss Lady."{F801}{F802}{F813,0,657010}Ah, well. Guess it's just the two of{F801}us again.{F801}{F802}{F813,0,657011}The demons are running around the{F801}main street near the east gate like{F801}they run the place.{F801}{F802}{F813,0,657012}I've got high hopes for you,{F801}{F843,0}.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 Nozomi has decided to accompany{F801}you.{F801}</source>
+    <target>〉 Nozomi has decided to accompany{F801}you.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Nozomi\0{F87A,136}{F813,0,657013}Hmm. I guess we sorta underestimated{F801}that demon.{F801}{F802}{F813,0,657014}Well, let's give it another shot.{F801}I'm counting on you.{F801}</source>
+    <target>{F812}Nozomi\0{F87A,136}{F813,0,657013}Hmm. I guess we sorta underestimated{F801}that demon.{F801}{F802}{F813,0,657014}Well, let's give it another shot.{F801}I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Nozomi awakens...{F801}</source>
+    <target>〉 Nozomi awakens...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Nozomi\0{F87A,136}{F813,0,657015}Huh? Was I out this whole time,{F801}{F843,0}?{F801}</source>
+    <target>{F812}Nozomi\0{F87A,136}{F813,0,657015}Huh? Was I out this whole time,{F801}{F843,0}?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 You tell Nozomi what happened while{F801}she was passed out.{F801}</source>
+    <target>〉 You tell Nozomi what happened while{F801}she was passed out.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Nozomi\0{F87A,136}{F813,0,657016}I see. So that demon was controlling{F801}all the Wicker Men to try to get his{F801}power back.{F801}{F802}{F813,0,657017}And you were able to defeat him!{F801}{F802}{F813,0,657018}I kinda get the feeling that you're{F801}already a better Hunter than I am.{F801}{F802}{F813,0,657019}Looks like I really do owe you my{F801}life this time.{F801}{F802}{F813,0,657020}Thanks, {F843,0}.{F801}{F802}{F813,0,657021}Well, here's your reward. You deserve{F801}it. If anything else comes up, I'll{F801}make sure to contact you.{F801}</source>
+    <target>{F812}Nozomi\0{F87A,136}{F813,0,657016}I see. So that demon was controlling{F801}all the Wicker Men to try to get his{F801}power back.{F801}{F802}{F813,0,657017}And you were able to defeat him!{F801}{F802}{F813,0,657018}I kinda get the feeling that you're{F801}already a better Hunter than I am.{F801}{F802}{F813,0,657019}Looks like I really do owe you my{F801}life this time.{F801}{F802}{F813,0,657020}Thanks, {F843,0}.{F801}{F802}{F813,0,657021}Well, here's your reward. You deserve{F801}it. If anything else comes up, I'll{F801}make sure to contact you.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 Nozomi leaves...{F801}{F802}〉 Nozomi has left your party.{F801}</source>
+    <target>〉 Nozomi leaves...{F801}{F802}〉 Nozomi has left your party.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Nozomi\0{F87A,136}{F813,0,402102}The demons are running around the{F801}main street near the east gate like{F801}they run the place.{F801}{F802}Well, let's go.{F801}</source>
+    <target>{F812}Nozomi\0{F87A,136}{F813,0,402102}The demons are running around the{F801}main street near the east gate like{F801}they run the place.{F801}{F802}Well, let's go.{F801}</target>
+  </entry>
+  <entry id="400">
+    <source>〉 You were unable to protect{F801}Nozomi, so you take her back to{F801}where she had joined you.{F801}{F802}〉 You and Nozomi have parted ways...{F801}</source>
+    <target>〉 You were unable to protect{F801}Nozomi, so you take her back to{F801}where she had joined you.{F801}{F802}〉 You and Nozomi have parted ways...{F801}</target>
+  </entry>
+  <entry id="500">
+    <source>〉 You sense a sinister power nearby...{F801}{F802}〉 You lay Nozomi's body down and{F801}prepare for a fight.{F801}</source>
+    <target>〉 You sense a sinister power nearby...{F801}{F802}〉 You lay Nozomi's body down and{F801}prepare for a fight.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is nobody here...{F801}</source>
+    <target>〉 There is nobody here...{F801}</target>
+  </entry>
+</mbm>

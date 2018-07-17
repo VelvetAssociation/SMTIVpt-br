@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Suspicious demonoid\0{F87A,145}{F813,1,413100}Oh. You are guest?{F801}{F802}...You know what do here?{F801}</source>
+    <target>{F812}Suspicious demonoid\0{F87A,145}{F813,1,413100}Oh. You are guest?{F801}{F802}...You know what do here?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"I want to take part in the Sabbath."{F801}"I have no idea what you are saying."{F801}</source>
+    <target>"I want to take part in the Sabbath."{F801}"I have no idea what you are saying."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Suspicious demonoid\0{F87A,145}{F813,1,413102}Oh.{F801}...You no go in here, then.{F801}</source>
+    <target>{F812}Suspicious demonoid\0{F87A,145}{F813,1,413102}Oh.{F801}...You no go in here, then.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Suspicious demonoid\0{F87A,145}{F813,1,413102}Okay. You human, you demon, it no{F801}matter. Welcome.{F801}{F802}But wait little bit, okay?{F801}{F802}Boss' orders. I check if you worthy{F801}for Sabbath.{F801}{F802}You need stamina for Sabbath.{F801}Need tough body.{F801}{F802}......{F801}{F802}Your body A-Okay.{F801}Not the best, but you pass.{F801}</source>
+    <target>{F812}Suspicious demonoid\0{F87A,145}{F813,1,413102}Okay. You human, you demon, it no{F801}matter. Welcome.{F801}{F802}But wait little bit, okay?{F801}{F802}Boss' orders. I check if you worthy{F801}for Sabbath.{F801}{F802}You need stamina for Sabbath.{F801}Need tough body.{F801}{F802}......{F801}{F802}Your body A-Okay.{F801}Not the best, but you pass.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Suspicious demonoid\0{F87A,145}But your clothes no good.{F801}Too scary.{F801}{F802}No fighting allowed inside.{F801}{F802}Boss no like that.{F801}He not come out if you do.{F801}</source>
+    <target>{F812}Suspicious demonoid\0{F87A,145}But your clothes no good.{F801}Too scary.{F801}{F802}No fighting allowed inside.{F801}{F802}Boss no like that.{F801}He not come out if you do.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Suspicious demonoid\0{F87A,145}But, you clothes no good.{F801}Not fit in this place.{F801}{F802}Boss no like that.{F801}He not come out.{F801}</source>
+    <target>{F812}Suspicious demonoid\0{F87A,145}But, you clothes no good.{F801}Not fit in this place.{F801}{F802}Boss no like that.{F801}He not come out.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Suspicious demonoid\0{F87A,145}You can go in.{F801}But wait here little bit.{F801}</source>
+    <target>{F812}Suspicious demonoid\0{F87A,145}You can go in.{F801}But wait here little bit.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 There are many people in the{F801}different rooms throughout the{F801}building...{F801}{F802}〉 It seems the ritual has already{F801}begun...{F801}{F802}〉 You can hear groans and shouts{F801}that are not quite human or demon{F801}from all over the building...{F801}{F802}〉 ...{F801}{F802}〉 ......{F801}{F802}〉 .........{F801}{F802}〉 The ritual reaches its peak...{F801}{F802}〉 You feel an extremely evil{F801}presence.{F801}</source>
+    <target>〉 There are many people in the{F801}different rooms throughout the{F801}building...{F801}{F802}〉 It seems the ritual has already{F801}begun...{F801}{F802}〉 You can hear groans and shouts{F801}that are not quite human or demon{F801}from all over the building...{F801}{F802}〉 ...{F801}{F802}〉 ......{F801}{F802}〉 .........{F801}{F802}〉 The ritual reaches its peak...{F801}{F802}〉 You feel an extremely evil{F801}presence.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Evil Presence\0{F87A,-100}{F813,1,413204}Good. Good. Yes, do what your hearts{F801}desire.{F801}{F802}The scarlet woman shall be delighted{F801}and show herself to us.{F801}{F802}And then I shall become one with the{F801}scarlet woman.{F801}</source>
+    <target>{F812}Evil Presence\0{F87A,-100}{F813,1,413204}Good. Good. Yes, do what your hearts{F801}desire.{F801}{F802}The scarlet woman shall be delighted{F801}and show herself to us.{F801}{F802}And then I shall become one with the{F801}scarlet woman.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Demon\0{F87A,-100}{F813,1,413213}I am the great beast, intertwined{F801}with the scarlet woman.{F801}{F802}I am Master Therion!{F801}</source>
+    <target>{F812}Demon\0{F87A,-100}{F813,1,413213}I am the great beast, intertwined{F801}with the scarlet woman.{F801}{F802}I am Master Therion!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Master Therion\0{F87A,-100}{F813,1,413206}Hmmm... You there! You are not{F801}participating in my ritual!{F801}{F802}...Are you an assassin, sent to kill{F801}me?{F801}{F802}No matter. I do not care who you{F801}are, but know this:{F801}{F802}I have the right to my own will, and{F801}the right to act as I see fit.{F801}{F802}...And, if anyone gets in my way,{F801}I have the right to slay them.{F801}{F802}And that is how it is.{F801}Now then, prepare to die.{F801}</source>
+    <target>{F812}Master Therion\0{F87A,-100}{F813,1,413206}Hmmm... You there! You are not{F801}participating in my ritual!{F801}{F802}...Are you an assassin, sent to kill{F801}me?{F801}{F802}No matter. I do not care who you{F801}are, but know this:{F801}{F802}I have the right to my own will, and{F801}the right to act as I see fit.{F801}{F802}...And, if anyone gets in my way,{F801}I have the right to slay them.{F801}{F802}And that is how it is.{F801}Now then, prepare to die.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Master Therion\0{F87A,-100}{F813,1,413208}To think that after coming this far,{F801}my ritual would be disrupted...{F801}{F802}I was one step away from reaching{F801}the scarlet woman...{F801}the great mother...{F801}{F802}It is all over. The scarlet woman is{F801}lost in another dimension, unable to{F801}return to the Expanse.{F801}{F802}I have lost all reason to remain in{F801}this world... I will go.{F801}{F802}The festivities are over...{F801}</source>
+    <target>{F812}Master Therion\0{F87A,-100}{F813,1,413208}To think that after coming this far,{F801}my ritual would be disrupted...{F801}{F802}I was one step away from reaching{F801}the scarlet woman...{F801}the great mother...{F801}{F802}It is all over. The scarlet woman is{F801}lost in another dimension, unable to{F801}return to the Expanse.{F801}{F802}I have lost all reason to remain in{F801}this world... I will go.{F801}{F802}The festivities are over...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The demon disappears...{F801}{F802}〉 The Sabbath attendees quickly{F801}disperse...{F801}</source>
+    <target>〉 The demon disappears...{F801}{F802}〉 The Sabbath attendees quickly{F801}disperse...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>〉 The door is sealed shut.{F801}You are unable to enter here...{F801}{F802}〉 There appears to be a number of{F801}people inside, getting ready for{F801}something...{F801}</source>
+    <target>〉 The door is sealed shut.{F801}You are unable to enter here...{F801}{F802}〉 There appears to be a number of{F801}people inside, getting ready for{F801}something...{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>〉 You no longer have any business{F801}here...{F801}</source>
+    <target>〉 You no longer have any business{F801}here...{F801}</target>
+  </entry>
+</mbm>

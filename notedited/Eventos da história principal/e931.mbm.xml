@@ -1,0 +1,122 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A Hunter appears...{F801}</source>
+    <target>〉 A Hunter appears...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302401}Are you the ones that killed all the{F801}Corpses?{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302401}Are you the ones that killed all the{F801}Corpses?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Burroughs\0{F87A,0}{F813,0,302402}Could he be a reinforcement Hunter?{F801}He's a little late for that.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,0}{F813,0,302402}Could he be a reinforcement Hunter?{F801}He's a little late for that.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302403}That was uncalled for, you twerps!{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302403}That was uncalled for, you twerps!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,0}{F813,0,302404}Oh dear... I think you'd better be{F801}careful around this one.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,0}{F813,0,302404}Oh dear... I think you'd better be{F801}careful around this one.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302405}With things this messed up, I'm better{F801}off becoming a demon...{F801}{F802}{F813,0,302406}That's why I handed out Reds to{F801}everyone!{F801}{F802}{F813,0,302407}We got no hope, trapped here in{F801}Tokyo...{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302405}With things this messed up, I'm better{F801}off becoming a demon...{F801}{F802}{F813,0,302406}That's why I handed out Reds to{F801}everyone!{F801}{F802}{F813,0,302407}We got no hope, trapped here in{F801}Tokyo...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302408}Damn that Tayama... him and his{F801}Ashura-kai. He's betrayed us all!{F801}{F802}{F813,0,302409}He babbles about some law to coexist{F801}with demons and locks us up in those{F801}underground districts...!{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302408}Damn that Tayama... him and his{F801}Ashura-kai. He's betrayed us all!{F801}{F802}{F813,0,302409}He babbles about some law to coexist{F801}with demons and locks us up in those{F801}underground districts...!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302410}I won't let him make everyone in Tokyo{F801}into cowards, blind to the truth!{F801}{F802}{F813,0,302411}I'm going to release them all from{F801}Tayama's slavery...!{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302410}I won't let him make everyone in Tokyo{F801}into cowards, blind to the truth!{F801}{F802}{F813,0,302411}I'm going to release them all from{F801}Tayama's slavery...!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The Furious Hunter takes out a Red{F801}from his pocket.{F801}</source>
+    <target>〉 The Furious Hunter takes out a Red{F801}from his pocket.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Furious Hunter\0{F87A,69}{F813,0,302412}And I'll kill anyone who gets in my{F801}way! I'll show you how a real Hunter{F801}handles things...!{F801}</source>
+    <target>{F812}Furious Hunter\0{F87A,69}{F813,0,302412}And I'll kill anyone who gets in my{F801}way! I'll show you how a real Hunter{F801}handles things...!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The Furious Hunter swallows the{F801}Red Pill.{F801}</source>
+    <target>〉 The Furious Hunter swallows the{F801}Red Pill.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Dullahan\0{F87A,0}{F813,0,302413}Ahahaha, how d'ya like me now?{F801}I'm not human anymore.{F801}{F802}{F813,0,302414}Ahhh, this rush of demonic power...{F801}I've left all those fears and{F801}anxieties behind...!{F801}</source>
+    <target>{F812}Dullahan\0{F87A,0}{F813,0,302413}Ahahaha, how d'ya like me now?{F801}I'm not human anymore.{F801}{F802}{F813,0,302414}Ahhh, this rush of demonic power...{F801}I've left all those fears and{F801}anxieties behind...!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Voice\0{F87A,3}{F813,0,302415}...Go no further.{F801}</source>
+    <target>{F812}Voice\0{F87A,3}{F813,0,302415}...Go no further.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,302416}We've seen everything. Please allow{F801}us to aid you.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,302416}We've seen everything. Please allow{F801}us to aid you.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,302417}I cannot believe he elected to become{F801}a demon of his own free will...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,302417}I cannot believe he elected to become{F801}a demon of his own free will...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Walter\0{F87A,4}{F813,0,302418}Regardless, it hardly absolves him{F801}from turning others into demons.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,302418}Regardless, it hardly absolves him{F801}from turning others into demons.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Dullahan\0{F87A,0}{F813,0,302419}No matter how many of you come at me,{F801}it'll turn out the same. You can't{F801}beat a human turned demon!{F801}</source>
+    <target>{F812}Dullahan\0{F87A,0}{F813,0,302419}No matter how many of you come at me,{F801}it'll turn out the same. You can't{F801}beat a human turned demon!{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Dullahan\0{F87A,0}{F813,0,302420}That's right, Tayama...! You know{F801}your precious Tokyo?{F801}{F802}{F813,0,302421}I'm going to smash it all up!{F801}</source>
+    <target>{F812}Dullahan\0{F87A,0}{F813,0,302420}That's right, Tayama...! You know{F801}your precious Tokyo?{F801}{F802}{F813,0,302421}I'm going to smash it all up!{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 The demon slowly gets up...{F801}{F802}〉 She stares at you from death's door.{F801}</source>
+    <target>〉 The demon slowly gets up...{F801}{F802}〉 She stares at you from death's door.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 Finish off the demon?{F801}</source>
+    <target>〉 Finish off the demon?{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>Finish her off{F801}Don't finish her off{F801}</source>
+    <target>Finish her off{F801}Don't finish her off{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Dullahan\0{F813,0,302422}A-Aaah...{F801}</source>
+    <target>{F812}Dullahan\0{F813,0,302422}A-Aaah...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 {F843,0} kills the demon.{F801}</source>
+    <target>〉 {F843,0} kills the demon.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Dullahan\0{F813,0,302423}A-Aaah...{F801}</source>
+    <target>{F812}Dullahan\0{F813,0,302423}A-Aaah...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 The demon totteringly runs away...{F801}</source>
+    <target>〉 The demon totteringly runs away...{F801}</target>
+  </entry>
+  <entry id="1000">
+    <source>〉 Nothing is happening right now.{F801}</source>
+    <target>〉 Nothing is happening right now.{F801}</target>
+  </entry>
+  <entry id="1001">
+    <source>〉 What will you do?{F801}</source>
+    <target>〉 What will you do?{F801}</target>
+  </entry>
+  <entry id="1002">
+    <source>The 1st Observation Platform{F801}Exit{F801}</source>
+    <target>The 1st Observation Platform{F801}Exit{F801}</target>
+  </entry>
+  <entry id="1003">
+    <source>〉 No one is here...{F801}</source>
+    <target>〉 No one is here...{F801}</target>
+  </entry>
+  <entry id="1004">
+    <source>〉 There is nothing here anymore.{F801}</source>
+    <target>〉 There is nothing here anymore.{F801}</target>
+  </entry>
+</mbm>

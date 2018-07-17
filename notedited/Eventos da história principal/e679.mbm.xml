@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A demon stands in the back of the{F801}room...{F801}</source>
+    <target>〉 A demon stands in the back of the{F801}room...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-43}{F813,1,404602}I want to kill...{F801}Oh, I want to kill...{F801}{F802}One thousand humans a day...{F801}Those hateful living beings...{F801}{F802}DIE DIE DIE DIE DIE DIE{F801}DIE DIE DIE DIE DIE DIE...{F801}</source>
+    <target>{F812}Demon\0{F87A,-43}{F813,1,404602}I want to kill...{F801}Oh, I want to kill...{F801}{F802}One thousand humans a day...{F801}Those hateful living beings...{F801}{F802}DIE DIE DIE DIE DIE DIE{F801}DIE DIE DIE DIE DIE DIE...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 There's something wrong with this{F801}demon...{F801}{F802}〉 The demon attacks!{F801}</source>
+    <target>〉 There's something wrong with this{F801}demon...{F801}{F802}〉 The demon attacks!{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Izanami\0{F87A,-43}{F813,1,418003}...Oh, human, you have driven all the{F801}hatred from my mind.{F801}{F802}It seems that some entity was trying{F801}to control me, the ruler of the{F801}Yomotsu-kuni.{F801}{F802}I believe that it wants to control{F801}the rulers of the underworlds, in{F801}order to kill off all humanity...{F801}{F802}There is an evil within me that{F801}envies all the living, and wishes for{F801}their deaths...{F801}{F802}And that was taken advantage of...{F801}{F802}{F813,1,418002}But... You have saved me,{F801}even though you are human...{F801}{F802}I suppose that this is a time in{F801}which gods and humans must come to{F801}cooperate with one another.{F801}{F802}Gods and humans... working together{F801}so that neither one is wiped out.{F801}{F802}Allow me to express my gratitude.{F801}Thank you.{F801}</source>
+    <target>{F812}Izanami\0{F87A,-43}{F813,1,418003}...Oh, human, you have driven all the{F801}hatred from my mind.{F801}{F802}It seems that some entity was trying{F801}to control me, the ruler of the{F801}Yomotsu-kuni.{F801}{F802}I believe that it wants to control{F801}the rulers of the underworlds, in{F801}order to kill off all humanity...{F801}{F802}There is an evil within me that{F801}envies all the living, and wishes for{F801}their deaths...{F801}{F802}And that was taken advantage of...{F801}{F802}{F813,1,418002}But... You have saved me,{F801}even though you are human...{F801}{F802}I suppose that this is a time in{F801}which gods and humans must come to{F801}cooperate with one another.{F801}{F802}Gods and humans... working together{F801}so that neither one is wiped out.{F801}{F802}Allow me to express my gratitude.{F801}Thank you.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Izanami leaves...{F801}</source>
+    <target>〉 Izanami leaves...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,110 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F87A,100}{F813,1,403211}...Hold it right there.{F801}</source>
+    <target>{F812}Voice\0{F87A,100}{F813,1,403211}...Hold it right there.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Gruff man\0{F87A,138}This's the East Gate over here.{F801}{F802}You betta've accepted that job 'bout{F801}clearin' them bodies if'n you wanna{F801}pass through here.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}This's the East Gate over here.{F801}{F802}You betta've accepted that job 'bout{F801}clearin' them bodies if'n you wanna{F801}pass through here.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>"I have taken that job."{F801}"I have not accepted that job."{F801}</source>
+    <target>"I have taken that job."{F801}"I have not accepted that job."{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Gruff man\0{F87A,138}{F813,1,403241}...You betta not be lyin' t'me.{F801}I can tell if yer lyin', ya know.{F801}{F802}Pop open that Quest menu and let's{F801}see if yer bein' veracious. Yeah,{F801}that thing on yer arm? Let's see it.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}{F813,1,403241}...You betta not be lyin' t'me.{F801}I can tell if yer lyin', ya know.{F801}{F802}Pop open that Quest menu and let's{F801}see if yer bein' veracious. Yeah,{F801}that thing on yer arm? Let's see it.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The man roughly grabs {F843,0}'s{F801}wrist and presses buttons on the{F801}Gauntlet...{F801}</source>
+    <target>〉 The man roughly grabs {F843,0}'s{F801}wrist and presses buttons on the{F801}Gauntlet...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Gruff man\0{F87A,138}{F813,1,403242}What the... This is a tricky one...{F801}Still, ain't like I can't read{F801}menus. An' it's got an e-manual!{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}{F813,1,403242}What the... This is a tricky one...{F801}Still, ain't like I can't read{F801}menus. An' it's got an e-manual!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Gruff man\0{F87A,138}{F813,1,403242}Get outta here and don't come back{F801}until you have, then. Beat it.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}{F813,1,403242}Get outta here and don't come back{F801}until you have, then. Beat it.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Gruff man\0{F87A,138}{F813,1,403212}...Da hell? You don't even know{F801}what I'm talkin' 'bout. It ain't{F801}on yer list!{F801}{F802}Get yer ass to the Association an'{F801}look at the goddamn bulletin board.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}{F813,1,403212}...Da hell? You don't even know{F801}what I'm talkin' 'bout. It ain't{F801}on yer list!{F801}{F802}Get yer ass to the Association an'{F801}look at the goddamn bulletin board.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Gruff man\0{F87A,138}{F813,1,403212}...Da hell, ya haven't 'cepted it yet.{F801}{F802}Get outta here and don't come back{F801}until you got it. Beat it.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}{F813,1,403212}...Da hell, ya haven't 'cepted it yet.{F801}{F802}Get outta here and don't come back{F801}until you got it. Beat it.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Gruff man\0{F87A,138}{F813,1,403242}...'Kay, looks like yer tellin' the{F801}truth 'bout that.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}{F813,1,403242}...'Kay, looks like yer tellin' the{F801}truth 'bout that.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Gruff man\0{F87A,138}Accordin' t' reports, them Corpses{F801}were spotted in seven dif'rent{F801}locations.{F801}{F802}Yer job is to find all of 'em,{F801}and kill 'em.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}Accordin' t' reports, them Corpses{F801}were spotted in seven dif'rent{F801}locations.{F801}{F802}Yer job is to find all of 'em,{F801}and kill 'em.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Gruff man\0{F87A,138}Oh yeah, one more thing. If ya{F801}leave 'em alone for too long,{F801}they'll start to multiply.{F801}{F802}So don't give up halfway through.{F801}If yer gonna do this, kill 'em all{F801}in one go.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}Oh yeah, one more thing. If ya{F801}leave 'em alone for too long,{F801}they'll start to multiply.{F801}{F802}So don't give up halfway through.{F801}If yer gonna do this, kill 'em all{F801}in one go.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Gruff man\0{F87A,138}...Well, good luck to ya.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}...Well, good luck to ya.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Gruff man\0{F87A,138}...'Kay, looks like yer tellin' the{F801}truth 'bout that.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}...'Kay, looks like yer tellin' the{F801}truth 'bout that.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Gruff man\0{F87A,138}...Oh, I reck'nize yer face.{F801}I'll skip all them details, then.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}...Oh, I reck'nize yer face.{F801}I'll skip all them details, then.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Gruff man\0{F87A,138}Don't give up halfway through.{F801}If yer gonna do this, kill 'em all{F801}in one go.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}Don't give up halfway through.{F801}If yer gonna do this, kill 'em all{F801}in one go.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Gruff man\0{F87A,138}...Well, good luck to ya.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}...Well, good luck to ya.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Gruff man\0{F87A,154}{F813,1,403211}...Hey, ya gave up, didn't ya?{F801}{F802}I know ya prob'ly can't see 'em,{F801}but I got guys keepin' tabs on ya.{F801}{F802}...Get back here.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,154}{F813,1,403211}...Hey, ya gave up, didn't ya?{F801}{F802}I know ya prob'ly can't see 'em,{F801}but I got guys keepin' tabs on ya.{F801}{F802}...Get back here.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 {F843,0} returns to where the{F801}gruff man had been...{F801}</source>
+    <target>〉 {F843,0} returns to where the{F801}gruff man had been...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Gruff man\0{F87A,138}{F813,1,403211}I ain't lettin' no one wander 'round{F801}the East Gate who ain't workin' on{F801}that quest.{F801}{F802}...If ya feel like doin' the quest,{F801}make sure ya accept it an' then{F801}come back here.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}{F813,1,403211}I ain't lettin' no one wander 'round{F801}the East Gate who ain't workin' on{F801}that quest.{F801}{F802}...If ya feel like doin' the quest,{F801}make sure ya accept it an' then{F801}come back here.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Gruff man\0{F87A,138}{F813,1,403211}Huh? What?{F801}Where do ya think yer goin'...?{F801}{F802}What, didya get scared?{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}{F813,1,403211}Huh? What?{F801}Where do ya think yer goin'...?{F801}{F802}What, didya get scared?{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Gruff man\0{F87A,138}I ain't lettin' no one wander 'round{F801}the East Gate who ain't workin' on{F801}that quest.{F801}{F802}...If ya feel like doin' the quest,{F801}make sure ya accept it an' then{F801}come back here.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}I ain't lettin' no one wander 'round{F801}the East Gate who ain't workin' on{F801}that quest.{F801}{F802}...If ya feel like doin' the quest,{F801}make sure ya accept it an' then{F801}come back here.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Gruff man\0{F87A,138}{F813,1,403242}...Then get outta here.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}{F813,1,403242}...Then get outta here.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 An intimidating man blocks the{F801}way...{F801}</source>
+    <target>〉 An intimidating man blocks the{F801}way...{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Gruff man\0{F87A,138}{F813,1,403241}...You betta not be lyin' t'me.{F801}I can tell if yer lyin', ya know.{F801}</source>
+    <target>{F812}Gruff man\0{F87A,138}{F813,1,403241}...You betta not be lyin' t'me.{F801}I can tell if yer lyin', ya know.{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>〉 An intimidating man blocks the{F801}way...{F801}</source>
+    <target>〉 An intimidating man blocks the{F801}way...{F801}</target>
+  </entry>
+</mbm>

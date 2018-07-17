@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You feel an extremely terrifying{F801}presence nearby...{F801}{F802}〉 Will you remain here?{F801}</source>
+    <target>〉 You feel an extremely terrifying{F801}presence nearby...{F801}{F802}〉 Will you remain here?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Do you really wish to remain here?{F801}</source>
+    <target>〉 Do you really wish to remain here?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You leave the area...{F801}</source>
+    <target>〉 You leave the area...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Dignified voice\0{F87A,-488}{F813,0,681000}So, you have defeated the four{F801}knights.{F801}</source>
+    <target>{F812}Dignified voice\0{F87A,-488}{F813,0,681000}So, you have defeated the four{F801}knights.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Belial\0{F87A,-488}{F813,0,681001}I am Belial, one of the demon lords{F801}who were cast down onto the Earth.{F801}{F802}{F813,0,681002}I never expected that someone could{F801}repeatedly repel the messengers of{F801}God, as you did.{F801}{F802}{F813,0,681003}Interesting...{F801}You are very interesting.{F801}{F802}{F813,0,681004}Most unfortunately, you are a son{F801}of man from another world.{F801}{F802}{F813,0,681005}...Indeed, I have waited for a human{F801}of this world to do as you did. But,{F801}not a single one has.{F801}{F802}{F813,0,681006}Perhaps... All who could have perished{F801}before they could show themselves.{F801}{F802}{F813,0,681007}Still, a promise is a promise.{F801}This is your reward.{F801}</source>
+    <target>{F812}Belial\0{F87A,-488}{F813,0,681001}I am Belial, one of the demon lords{F801}who were cast down onto the Earth.{F801}{F802}{F813,0,681002}I never expected that someone could{F801}repeatedly repel the messengers of{F801}God, as you did.{F801}{F802}{F813,0,681003}Interesting...{F801}You are very interesting.{F801}{F802}{F813,0,681004}Most unfortunately, you are a son{F801}of man from another world.{F801}{F802}{F813,0,681005}...Indeed, I have waited for a human{F801}of this world to do as you did. But,{F801}not a single one has.{F801}{F802}{F813,0,681006}Perhaps... All who could have perished{F801}before they could show themselves.{F801}{F802}{F813,0,681007}Still, a promise is a promise.{F801}This is your reward.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Belial\0{F87A,-488}{F813,0,681008}Farewell.{F801}{F802}{F813,0,681009}Perhaps we shall meet again, in{F801}another world.{F801}{F802}{F813,0,681010}If we do, give me your regards.{F801}{F802}{F813,0,681011}Or... you can prepare for death.{F801}</source>
+    <target>{F812}Belial\0{F87A,-488}{F813,0,681008}Farewell.{F801}{F802}{F813,0,681009}Perhaps we shall meet again, in{F801}another world.{F801}{F802}{F813,0,681010}If we do, give me your regards.{F801}{F802}{F813,0,681011}Or... you can prepare for death.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Belial leaves...{F801}</source>
+    <target>〉 Belial leaves...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 A demon appears before you...{F801}{F802}〉 He does not seem to be an enemy.{F801}</source>
+    <target>〉 A demon appears before you...{F801}{F802}〉 He does not seem to be an enemy.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 There is no one here...{F801}{F802}〉 Still, you feel an unknown presence{F801}in the room.{F801}</source>
+    <target>〉 There is no one here...{F801}{F802}〉 Still, you feel an unknown presence{F801}in the room.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Dignified voice\0{F87A,-488}{F813,1,461004}You are early, son of man from {F801}another world.{F801}</source>
+    <target>{F812}Dignified voice\0{F87A,-488}{F813,1,461004}You are early, son of man from {F801}another world.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 A dignified voice echoed throughout the room.{F801}</source>
+    <target>〉 A dignified voice echoed throughout the room.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Dignified voice\0{F87A,-488}{F813,1,461001}To come here without assistance from{F801}anyone is quite a feat...{F801}{F802}However, this is not the time for{F801}such talk. Until then... farewell,{F801}son of man!{F801}</source>
+    <target>{F812}Dignified voice\0{F87A,-488}{F813,1,461001}To come here without assistance from{F801}anyone is quite a feat...{F801}{F802}However, this is not the time for{F801}such talk. Until then... farewell,{F801}son of man!{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 The area is suddenly enveloped{F801}in darkness...{F801}</source>
+    <target>〉 The area is suddenly enveloped{F801}in darkness...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

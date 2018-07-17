@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Aniel\0{F87A,-17}{F813,0,699000}Ah, my thanks for coming. It would{F801}seem that you have accepted the quest{F801}in question.{F801}{F802}{F813,0,699001}I shall call for Sister Gabby.{F801}Please wait a moment.{F801}</source>
+    <target>{F812}Aniel\0{F87A,-17}{F813,0,699000}Ah, my thanks for coming. It would{F801}seem that you have accepted the quest{F801}in question.{F801}{F802}{F813,0,699001}I shall call for Sister Gabby.{F801}Please wait a moment.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,699002}So, you have accepted our task,{F801}honorable warrior of light.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,699002}So, you have accepted our task,{F801}honorable warrior of light.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Gabby leaves quietly...{F801}</source>
+    <target>〉 Gabby leaves quietly...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Aniel\0{F87A,-17}{F813,1,465003}Honorable warrior of light. Thou hath{F801}already received Sister Gabby's{F801}request, correct?{F801}{F802}Hurry and slay Mastema, who can be{F801}found in Tokyo. This should be no{F801}problem for one of your strength.{F801}</source>
+    <target>{F812}Aniel\0{F87A,-17}{F813,1,465003}Honorable warrior of light. Thou hath{F801}already received Sister Gabby's{F801}request, correct?{F801}{F802}Hurry and slay Mastema, who can be{F801}found in Tokyo. This should be no{F801}problem for one of your strength.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 You sense a presence nearby...{F801}</source>
+    <target>〉 You sense a presence nearby...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Voice\0{F87A,1}{F813,0,699009}...Oh, it's you.{F801}</source>
+    <target>{F812}Voice\0{F87A,1}{F813,0,699009}...Oh, it's you.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Mastema\0{F87A,0}{F813,0,699010}There is no need to say anything.{F801}I know exactly why you are here.{F801}{F802}{F813,0,699011}Even so... I never expected that my{F801}comrade would be the one to try to{F801}crush me.{F801}</source>
+    <target>{F812}Mastema\0{F87A,0}{F813,0,699010}There is no need to say anything.{F801}I know exactly why you are here.{F801}{F802}{F813,0,699011}Even so... I never expected that my{F801}comrade would be the one to try to{F801}crush me.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Mastema\0{F87A,-16}Gah...{F801}Oh... Almighty Lord...{F801}{F802}Why...? Am I not the one who was most{F801}faithful to your... will...?{F801}{F802}Curse you... Gabriel...{F801}Gah...{F801}</source>
+    <target>{F812}Mastema\0{F87A,-16}Gah...{F801}Oh... Almighty Lord...{F801}{F802}Why...? Am I not the one who was most{F801}faithful to your... will...?{F801}{F802}Curse you... Gabriel...{F801}Gah...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,699013}Mastema's presence has been removed.{F801}I thank the Lord for your safe return.{F801}{F802}{F813,0,699014}I have sent an angel to you as a{F801}messenger. This angel shall give you{F801}a blessing.{F801}{F802}{F813,0,699015}Please continue to wield your holy{F801}powers as a warrior of light.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,699013}Mastema's presence has been removed.{F801}I thank the Lord for your safe return.{F801}{F802}{F813,0,699014}I have sent an angel to you as a{F801}messenger. This angel shall give you{F801}a blessing.{F801}{F802}{F813,0,699015}Please continue to wield your holy{F801}powers as a warrior of light.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Aniel\0{F87A,-17}{F813,0,699016}Honorable warrior of light. Slaying{F801}Mastema was a job well done.{F801}{F802}{F813,0,699017}Sister Gabby has sent me to deliver{F801}this reward to you. Accept it.{F801}</source>
+    <target>{F812}Aniel\0{F87A,-17}{F813,0,699016}Honorable warrior of light. Slaying{F801}Mastema was a job well done.{F801}{F802}{F813,0,699017}Sister Gabby has sent me to deliver{F801}this reward to you. Accept it.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Mastema\0{F87A,0}{F813,0,699012}...You shall not interfere with my{F801}plan. I will obliterate you.{F801}</source>
+    <target>{F812}Mastema\0{F87A,0}{F813,0,699012}...You shall not interfere with my{F801}plan. I will obliterate you.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Mastema disappears...{F801}</source>
+    <target>〉 Mastema disappears...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Gabby\0{F87A,11}{F813,0,699003}I have taken the form of Gabby to make{F801}this request, so I shall keep it while{F801}speaking to you.{F801}{F802}{F813,0,699004}The Great Raven that I would like{F801}slain is the Herald Mastema.{F801}{F802}{F813,0,699005}He has fortified Midtown as his base{F801}of activity, and has continued to act{F801}on his own.{F801}{F802}{F813,0,699006}We, the four Archangels, have come to{F801}the conclusion that his actions are{F801}extremely dangerous.{F801}{F802}{F813,0,699007}We ask you to slay Mastema and rid us{F801}of this impending threat.{F801}{F802}{F813,0,699008}This is something that only you can{F801}do. We are counting on you.{F801}</source>
+    <target>{F812}Gabby\0{F87A,11}{F813,0,699003}I have taken the form of Gabby to make{F801}this request, so I shall keep it while{F801}speaking to you.{F801}{F802}{F813,0,699004}The Great Raven that I would like{F801}slain is the Herald Mastema.{F801}{F802}{F813,0,699005}He has fortified Midtown as his base{F801}of activity, and has continued to act{F801}on his own.{F801}{F802}{F813,0,699006}We, the four Archangels, have come to{F801}the conclusion that his actions are{F801}extremely dangerous.{F801}{F802}{F813,0,699007}We ask you to slay Mastema and rid us{F801}of this impending threat.{F801}{F802}{F813,0,699008}This is something that only you can{F801}do. We are counting on you.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 After giving you your reward,{F801}Aniel leaves...{F801}</source>
+    <target>〉 After giving you your reward,{F801}Aniel leaves...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

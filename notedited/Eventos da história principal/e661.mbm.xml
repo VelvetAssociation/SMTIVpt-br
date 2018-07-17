@@ -1,0 +1,134 @@
+<mbm>
+  <entry id="0">
+    <source>〉 Someone--or someTHING--is hiding in{F801}the tall grass.{F801}</source>
+    <target>〉 Someone--or someTHING--is hiding in{F801}the tall grass.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Call out to it{F801}Walk away{F801}</source>
+    <target>Call out to it{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 {F843,0} quickly leaves the area...{F801}</source>
+    <target>〉 {F843,0} quickly leaves the area...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 When {F843,0} calls out, Navarre{F801}appears from the grass.{F801}{F802}〉 It seems that life on the run has not{F801}treated him well. His dirty clothing is{F801}tattered and disheveled...{F801}</source>
+    <target>〉 When {F843,0} calls out, Navarre{F801}appears from the grass.{F801}{F802}〉 It seems that life on the run has not{F801}treated him well. His dirty clothing is{F801}tattered and disheveled...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Navarre\0{F87A,134}{F87B,6,3,1,1}{F813,0,661000}Who are you? Are you an angel?{F801}Have you come to kill me!?{F801}{F802}{F813,0,661001}{F87B,6,7,1,1}Demons, angels, Samurai...{F801}They're all trying to kill me.{F801}{F802}{F87B,6,11,1,1}{F813,0,661002}I'm tired of this. I've had enough{F801}of this world! Take me back to the{F801}world where there are no demons!{F801}{F802}{F87B,6,7,1,1}{F813,0,661003}I'm a Luxuror! You hear me!?{F801}A Luxuror!{F801}</source>
+    <target>{F812}Navarre\0{F87A,134}{F87B,6,3,1,1}{F813,0,661000}Who are you? Are you an angel?{F801}Have you come to kill me!?{F801}{F802}{F813,0,661001}{F87B,6,7,1,1}Demons, angels, Samurai...{F801}They're all trying to kill me.{F801}{F802}{F87B,6,11,1,1}{F813,0,661002}I'm tired of this. I've had enough{F801}of this world! Take me back to the{F801}world where there are no demons!{F801}{F802}{F87B,6,7,1,1}{F813,0,661003}I'm a Luxuror! You hear me!?{F801}A Luxuror!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Navarre pulls his hood up over his{F801}face to hide it.{F801}{F802}〉 Navarre has joined you.{F801}</source>
+    <target>〉 Navarre pulls his hood up over his{F801}face to hide it.{F801}{F802}〉 Navarre has joined you.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 {F843,0} calls out to Navarre...{F801}</source>
+    <target>〉 {F843,0} calls out to Navarre...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Navarre\0{F87A,134}{F813,0,661009}Ah... Ahhh! Help me!{F801}I don't want to die!{F801}{F802}{F813,0,661010}...Huh?{F801}O-Oh, it's just you.{F801}</source>
+    <target>{F812}Navarre\0{F87A,134}{F813,0,661009}Ah... Ahhh! Help me!{F801}I don't want to die!{F801}{F802}{F813,0,661010}...Huh?{F801}O-Oh, it's just you.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Navarre has joined you.{F801}</source>
+    <target>〉 Navarre has joined you.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Heavenly voice\0{F87A,-21}{F813,0,661013}...Halt. Thou canst not deceive the{F801}eyes of an angel.{F801}</source>
+    <target>{F812}Heavenly voice\0{F87A,-21}{F813,0,661013}...Halt. Thou canst not deceive the{F801}eyes of an angel.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Angel\0{F87A,-20}{F813,0,661014}All those who are not part of the{F801}Lord's plan are destined for{F801}judgement.{F801}{F802}{F813,0,661015}Judgement shall be rendered upon this{F801}one, in accordance with the Lord's{F801}will.{F801}</source>
+    <target>{F812}Angel\0{F87A,-20}{F813,0,661014}All those who are not part of the{F801}Lord's plan are destined for{F801}judgement.{F801}{F802}{F813,0,661015}Judgement shall be rendered upon this{F801}one, in accordance with the Lord's{F801}will.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Fujiwara\0{F87A,18}{F813,0,661016}Oh, hello. I haven't seen him with{F801}you before. Did something happen?{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F813,0,661016}Oh, hello. I haven't seen him with{F801}you before. Did something happen?{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 You explain Navarre's situation{F801}to Fujiwara.{F801}</source>
+    <target>〉 You explain Navarre's situation{F801}to Fujiwara.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F813,0,661017}...I see. Well, if you survived an{F801}angel attack, you must be one lucky{F801}guy.{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F813,0,661017}...I see. Well, if you survived an{F801}angel attack, you must be one lucky{F801}guy.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Navarre\0{F87A,134}I no longer have any place to call{F801}home. If I can, I would like to live{F801}here in Tokyo...{F801}</source>
+    <target>{F812}Navarre\0{F87A,134}I no longer have any place to call{F801}home. If I can, I would like to live{F801}here in Tokyo...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F813,0,661018}Well, all right. I'll make{F801}arrangements so that he can live here.{F801}{F802}{F87B,18,4,1,1}{F813,0,661019}Of course, he's more than welcome{F801}here. There aren't enough young people{F801}in Tokyo anymore.{F801}{F802}{F813,0,661020}Since he was a Samurai, I'm sure he{F801}won't have a problem making a living{F801}as a Hunter.{F801}{F802}{F813,0,661021}I'll get him a smartphone so he can{F801}summon.{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F813,0,661018}Well, all right. I'll make{F801}arrangements so that he can live here.{F801}{F802}{F87B,18,4,1,1}{F813,0,661019}Of course, he's more than welcome{F801}here. There aren't enough young people{F801}in Tokyo anymore.{F801}{F802}{F813,0,661020}Since he was a Samurai, I'm sure he{F801}won't have a problem making a living{F801}as a Hunter.{F801}{F802}{F813,0,661021}I'll get him a smartphone so he can{F801}summon.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Navarre\0{F87A,134}{F87B,6,7,1,1}{F813,0,661022}Summon? Never! I've had enough.{F801}No more demons!{F801}{F802}{F87B,6,10,1,1}{F813,0,661023}I'm through with being a Samurai!{F801}I'm a Luxuror! A Luxuror!{F801}</source>
+    <target>{F812}Navarre\0{F87A,134}{F87B,6,7,1,1}{F813,0,661022}Summon? Never! I've had enough.{F801}No more demons!{F801}{F802}{F87B,6,10,1,1}{F813,0,661023}I'm through with being a Samurai!{F801}I'm a Luxuror! A Luxuror!{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,7,1,1}{F813,0,661024}Uh... Okay...{F801}I guess he's had some bad experiences.{F801}{F802}{F813,0,661025}As long as you stay underground, the{F801}demons won't attack you. You should{F801}probably live there.{F801}{F802}{F87B,18,1,1,1}{F813,0,661026}I'm sure he'll feel better once he's{F801}settled down for a while. We've got{F801}time to figure out what to do.{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,7,1,1}{F813,0,661024}Uh... Okay...{F801}I guess he's had some bad experiences.{F801}{F802}{F813,0,661025}As long as you stay underground, the{F801}demons won't attack you. You should{F801}probably live there.{F801}{F802}{F87B,18,1,1,1}{F813,0,661026}I'm sure he'll feel better once he's{F801}settled down for a while. We've got{F801}time to figure out what to do.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Navarre\0{F87A,134}{F87B,6,11,1,1}{F813,0,661027}As long as there aren't any demons...{F801}There were no demons in the Eastern{F801}Kingdom of Mikado.{F801}</source>
+    <target>{F812}Navarre\0{F87A,134}{F87B,6,11,1,1}{F813,0,661027}As long as there aren't any demons...{F801}There were no demons in the Eastern{F801}Kingdom of Mikado.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F813,0,661028}I'll get somebody to show him around{F801}the place. Well, that should about{F801}do it.{F801}</source>
+    <target>{F812}Fujiwara\0{F87A,18}{F87B,18,1,1,1}{F813,0,661028}I'll get somebody to show him around{F801}the place. Well, that should about{F801}do it.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Navarre\0{F87A,134}{F87B,6,3,1,1}{F813,0,661029}...I believe I owe you a great debt.{F801}{F802}{F813,0,661030}A person as noble as yourself must{F801}surely be a Samurai of Luxuror birth.{F801}{F802}{F87B,6,3,1,1}{F813,0,661031}I count myself lucky that I was able{F801}to meet a Samurai like you. Take care.{F801}</source>
+    <target>{F812}Navarre\0{F87A,134}{F87B,6,3,1,1}{F813,0,661029}...I believe I owe you a great debt.{F801}{F802}{F813,0,661030}A person as noble as yourself must{F801}surely be a Samurai of Luxuror birth.{F801}{F802}{F87B,6,3,1,1}{F813,0,661031}I count myself lucky that I was able{F801}to meet a Samurai like you. Take care.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 You explain to Navarre that you{F801}have come to help him.{F801}</source>
+    <target>〉 You explain to Navarre that you{F801}have come to help him.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Navarre\0{F87A,134}{F87B,6,3,1,1}{F813,0,661004}How do you know my name?{F801}{F802}{F87B,6,7,1,1}{F813,0,661005}I've never met you...{F801}I don't remember...{F801}I don't want to remember!{F801}</source>
+    <target>{F812}Navarre\0{F87A,134}{F87B,6,3,1,1}{F813,0,661004}How do you know my name?{F801}{F802}{F87B,6,7,1,1}{F813,0,661005}I've never met you...{F801}I don't remember...{F801}I don't want to remember!{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Navarre\0{F87A,134}{F87B,6,3,1,1}{F813,0,661006}...But you just said that you've come{F801}to help me. I heard you say it.{F801}{F802}{F813,0,661007}Then, please... Get me somewhere with{F801}no demons! Now! Oh, do it now!{F801}{F802}{F813,0,661008}{F87B,6,10,1,1}I don't want to stay in this awful{F801}place. Please, get me out of here!{F801}</source>
+    <target>{F812}Navarre\0{F87A,134}{F87B,6,3,1,1}{F813,0,661006}...But you just said that you've come{F801}to help me. I heard you say it.{F801}{F802}{F813,0,661007}Then, please... Get me somewhere with{F801}no demons! Now! Oh, do it now!{F801}{F802}{F813,0,661008}{F87B,6,10,1,1}I don't want to stay in this awful{F801}place. Please, get me out of here!{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Navarre\0{F87A,134}{F87B,6,7,1,1}{F813,0,661011}What's wrong with you? You said you'd{F801}help me, but you're not protecting me{F801}at all, you hypocrite.{F801}{F802}{F87B,6,10,1,1}{F813,0,661012}Now, make sure to take me someplace{F801}where there are no demons!{F801}</source>
+    <target>{F812}Navarre\0{F87A,134}{F87B,6,7,1,1}{F813,0,661011}What's wrong with you? You said you'd{F801}help me, but you're not protecting me{F801}at all, you hypocrite.{F801}{F802}{F87B,6,10,1,1}{F813,0,661012}Now, make sure to take me someplace{F801}where there are no demons!{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>〉 Fujiwara leaves in order to make{F801}arrangements for Navarre.{F801}</source>
+    <target>〉 Fujiwara leaves in order to make{F801}arrangements for Navarre.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 An angel carrying a longsword{F801}stands before you.{F801}</source>
+    <target>〉 An angel carrying a longsword{F801}stands before you.{F801}</target>
+  </entry>
+  <entry id="400">
+    <source>〉 You were unable to protect{F801}Navarre, so you made him take refuge{F801}in the location he had been hiding.{F801}{F802}〉 You have parted ways with Navarre.{F801}</source>
+    <target>〉 You were unable to protect{F801}Navarre, so you made him take refuge{F801}in the location he had been hiding.{F801}{F802}〉 You have parted ways with Navarre.{F801}</target>
+  </entry>
+  <entry id="401">
+    <source>〉 The Samurai at Mikado Castle are{F801}on the lookout...{F801}{F802}〉 It's very likely that they will{F801}recognize Navarre, even under his{F801}hood.{F801}{F802}〉 You and Navarre carefully head{F801}toward Naraku while avoiding the{F801}patrolling Samurai...{F801}</source>
+    <target>〉 The Samurai at Mikado Castle are{F801}on the lookout...{F801}{F802}〉 It's very likely that they will{F801}recognize Navarre, even under his{F801}hood.{F801}{F802}〉 You and Navarre carefully head{F801}toward Naraku while avoiding the{F801}patrolling Samurai...{F801}</target>
+  </entry>
+  <entry id="402">
+    <source>〉 The Samurai at Mikado Castle are{F801}on the lookout...{F801}{F802}〉 It's very likely that they will{F801}recognize Navarre, even under his{F801}hood.{F801}{F802}〉 You and Navarre left Mikado{F801}Castle while avoiding the{F801}patrolling Samurai...{F801}</source>
+    <target>〉 The Samurai at Mikado Castle are{F801}on the lookout...{F801}{F802}〉 It's very likely that they will{F801}recognize Navarre, even under his{F801}hood.{F801}{F802}〉 You and Navarre left Mikado{F801}Castle while avoiding the{F801}patrolling Samurai...{F801}</target>
+  </entry>
+  <entry id="403">
+    <source>〉 It is quite likely that Navarre{F801}will be discovered with you.{F801}{F802}〉 Going to the Eastern Mikado{F801}Kingdom right now is not a good idea.{F801}</source>
+    <target>〉 It is quite likely that Navarre{F801}will be discovered with you.{F801}{F802}〉 Going to the Eastern Mikado{F801}Kingdom right now is not a good idea.{F801}</target>
+  </entry>
+  <entry id="404">
+    <source>〉 If you want to use the facilities{F801}in Mikado Castle such as K's Tavern{F801}or the Terminal, then you must first{F801}either complete or abandon the quest.{F801}</source>
+    <target>〉 If you want to use the facilities{F801}in Mikado Castle such as K's Tavern{F801}or the Terminal, then you must first{F801}either complete or abandon the quest.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

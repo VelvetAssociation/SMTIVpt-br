@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The area around you is slowly being{F801}warped. You sense a foul presence in{F801}the air...{F801}</source>
+    <target>〉 The area around you is slowly being{F801}warped. You sense a foul presence in{F801}the air...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 A very powerful being is about to{F801}tear itself into this dimension.{F801}</source>
+    <target>〉 A very powerful being is about to{F801}tear itself into this dimension.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Demiurge has disappeared.{F801}The space warping has stopped, and{F801}everything has returned to normal.{F801}</source>
+    <target>〉 Demiurge has disappeared.{F801}The space warping has stopped, and{F801}everything has returned to normal.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,0,706000}...Well done, {F843,0}. {F801}{F802}{F813,0,706001}It would seem that the only child of{F801}man capable of carrying out my{F801}requests is you.{F801}{F802}{F813,0,706002}Now that you have defeated this demon,{F801}your spiritual powers should have{F801}risen substantially.{F801}{F802}{F813,0,706003}But that was a mere Godly Spirit,{F801}only pretending to be the Creator.{F801}{F802}{F813,0,706004}The true enemy that we seek to defeat{F801}will be far superior.{F801}{F802}{F813,0,706005}Let us go, to regain the true light...{F801}</source>
+    <target>{F812}Demon Lord Lucifer\0{F87A,-480}{F813,0,706000}...Well done, {F843,0}. {F801}{F802}{F813,0,706001}It would seem that the only child of{F801}man capable of carrying out my{F801}requests is you.{F801}{F802}{F813,0,706002}Now that you have defeated this demon,{F801}your spiritual powers should have{F801}risen substantially.{F801}{F802}{F813,0,706003}But that was a mere Godly Spirit,{F801}only pretending to be the Creator.{F801}{F802}{F813,0,706004}The true enemy that we seek to defeat{F801}will be far superior.{F801}{F802}{F813,0,706005}Let us go, to regain the true light...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demiurge\0{F87A,0}{F813,0,351501}So, you have forced my materializing,{F801}in the hopes of defeating me.{F801}{F802}{F813,0,351502}Not only that, but you have beguiled{F801}one of my creations and mean to use{F801}him against me.{F801}{F802}{F813,0,351503}Still relying on your cheap tricks,{F801}Lucifer?{F801}{F802}{F813,0,351504}Very well. I shall bring the lightning{F801}of punishment down on the symbols of{F801}evil, demons, and mankind.{F801}</source>
+    <target>{F812}Demiurge\0{F87A,0}{F813,0,351501}So, you have forced my materializing,{F801}in the hopes of defeating me.{F801}{F802}{F813,0,351502}Not only that, but you have beguiled{F801}one of my creations and mean to use{F801}him against me.{F801}{F802}{F813,0,351503}Still relying on your cheap tricks,{F801}Lucifer?{F801}{F802}{F813,0,351504}Very well. I shall bring the lightning{F801}of punishment down on the symbols of{F801}evil, demons, and mankind.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Demiurge\0{F87A,0}{F813,0,351505}I shall slay you, just as I have all{F801}the others that strayed from the path{F801}of justice!{F801}</source>
+    <target>{F812}Demiurge\0{F87A,0}{F813,0,351505}I shall slay you, just as I have all{F801}the others that strayed from the path{F801}of justice!{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

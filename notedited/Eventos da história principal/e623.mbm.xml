@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Nozomi\0{F87A,0}{F813,0,623000}Oh, hey, you're that guy from before!{F801}So you accepted my quest, huh?{F801}{F802}{F813,0,623001}...You're the famous {F843,0}, right?{F801}I've heard a lot of rumors about you.{F801}{F802}{F813,0,623002}Well, I'd like to formally request{F801}your aid in slaying a demon.{F801}{F802}{F813,0,623003}The place is further north of the{F801}Ueno district...{F801}{F802}{F813,0,623004}The demon Asura is attacking people{F801}over there.{F801}{F802}{F813,0,623005}He's become a real threat, so I've{F801}been asked to put him down. I'm{F801}trying to recruit people to help me.{F801}{F802}{F813,0,623006}And, actually, you're the only one{F801}to show up... But I'm pretty sure{F801}the two of us can beat him.{F801}{F802}{F813,0,623007}Well, let's get going.{F801}I'm counting on you.{F801}</source>
+    <target>{F812}Nozomi\0{F87A,0}{F813,0,623000}Oh, hey, you're that guy from before!{F801}So you accepted my quest, huh?{F801}{F802}{F813,0,623001}...You're the famous {F843,0}, right?{F801}I've heard a lot of rumors about you.{F801}{F802}{F813,0,623002}Well, I'd like to formally request{F801}your aid in slaying a demon.{F801}{F802}{F813,0,623003}The place is further north of the{F801}Ueno district...{F801}{F802}{F813,0,623004}The demon Asura is attacking people{F801}over there.{F801}{F802}{F813,0,623005}He's become a real threat, so I've{F801}been asked to put him down. I'm{F801}trying to recruit people to help me.{F801}{F802}{F813,0,623006}And, actually, you're the only one{F801}to show up... But I'm pretty sure{F801}the two of us can beat him.{F801}{F802}{F813,0,623007}Well, let's get going.{F801}I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Nozomi has joined you.{F801}</source>
+    <target>〉 Nozomi has joined you.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Nozomi\0{F87A,0}{F813,0,623008}*whistle* So that's what the famous{F801}Hunter can do. You must be pretty{F801}strong if you can defeat Asura.{F801}{F802}{F813,0,623009}I'm pretty sure if I'd fought{F801}him alone, he would've eaten me...{F801}I really appreciate your help.{F801}{F802}{F813,0,623010}If something else comes up, I'll{F801}make sure to call you. Here's your{F801}reward. Take it with my thanks.{F801}</source>
+    <target>{F812}Nozomi\0{F87A,0}{F813,0,623008}*whistle* So that's what the famous{F801}Hunter can do. You must be pretty{F801}strong if you can defeat Asura.{F801}{F802}{F813,0,623009}I'm pretty sure if I'd fought{F801}him alone, he would've eaten me...{F801}I really appreciate your help.{F801}{F802}{F813,0,623010}If something else comes up, I'll{F801}make sure to call you. Here's your{F801}reward. Take it with my thanks.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Nozomi leaves...{F801}{F802}〉 You and Nozomi have parted ways.{F801}</source>
+    <target>〉 Nozomi leaves...{F801}{F802}〉 You and Nozomi have parted ways.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Nozomi\0{F87A,0}{F813,1,402102}Hm. I guess we kinda underestimated{F801}that demon, huh?{F801}{F802}Well, let's get going again.{F801}I'm counting on you.{F801}</source>
+    <target>{F812}Nozomi\0{F87A,0}{F813,1,402102}Hm. I guess we kinda underestimated{F801}that demon, huh?{F801}{F802}Well, let's get going again.{F801}I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Nozomi\0{F87A,0}{F813,1,402101}The place we're looking for is north{F801}of the Ueno district, along the{F801}Arakawa River.{F801}{F802}Well, let's get going.{F801}I'm counting on you.{F801}</source>
+    <target>{F812}Nozomi\0{F87A,0}{F813,1,402101}The place we're looking for is north{F801}of the Ueno district, along the{F801}Arakawa River.{F801}{F802}Well, let's get going.{F801}I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Nozomi\0{F87A,0}{F813,0,623011}Oh, yeah, if we see each other again,{F801}you've got to show me some of the{F801}pictures you've taken! See ya 'round!{F801}</source>
+    <target>{F812}Nozomi\0{F87A,0}{F813,0,623011}Oh, yeah, if we see each other again,{F801}you've got to show me some of the{F801}pictures you've taken! See ya 'round!{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>The female Hunter Nozomi{F801}joins as a guest. A marker for{F801}the Fury Asura will be placed.{F801}</source>
+    <target>The female Hunter Nozomi{F801}joins as a guest. A marker for{F801}the Fury Asura will be placed.{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>〉 Nobody's here...{F801}</source>
+    <target>〉 Nobody's here...{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>You have defeated the Fury Asura.{F801}The quest will end after this event.{F801}Nozmoi will leave your party.{F801}</source>
+    <target>You have defeated the Fury Asura.{F801}The quest will end after this event.{F801}Nozmoi will leave your party.{F801}</target>
+  </entry>
+  <entry id="903">
+    <source>〉 Nozmoi has returned to where you{F801}found her to recover from her wounds.{F801}</source>
+    <target>〉 Nozmoi has returned to where you{F801}found her to recover from her wounds.{F801}</target>
+  </entry>
+</mbm>

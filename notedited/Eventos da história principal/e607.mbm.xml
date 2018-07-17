@@ -1,0 +1,42 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Master\0{F87A,29}{F813,0,607000}I appreciate your accepting this{F801}quest. This is the Gauntlet in{F801}question...{F801}{F802}{F813,0,607001}I will warn you beforehand, this is{F801}like to be a fierce battle for you.{F801}{F802}{F813,0,607002}If you lack confidence in your{F801}abilities, there is no shame in{F801}admitting so. Are you sure?{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,0,607000}I appreciate your accepting this{F801}quest. This is the Gauntlet in{F801}question...{F801}{F802}{F813,0,607001}I will warn you beforehand, this is{F801}like to be a fierce battle for you.{F801}{F802}{F813,0,607002}If you lack confidence in your{F801}abilities, there is no shame in{F801}admitting so. Are you sure?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"I am prepared."{F801}"Let me come back later."{F801}</source>
+    <target>"I am prepared."{F801}"Let me come back later."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Master\0{F87A,29}{F813,0,607003}Hm... Very well. Let me explain the{F801}situation regarding this Gauntlet,{F801}then.{F801}{F802}{F813,0,607004}The problem we have with this Gauntlet{F801}is that there is a powerful demon{F801}within it.{F801}{F802}{F813,0,607005}This demon is preventing us from using{F801}the Gauntlet as it is meant to be.{F801}{F802}{F813,0,607006}The Monastery orders that a Gauntlet{F801}must be cleansed before a novice{F801}attempts the Rite using it.{F801}{F802}{F813,0,607007}However, the demon inside that one{F801}Gauntlet is opposed to being removed.{F801}{F802}{F813,0,607008}He will only respect the will of one{F801}stronger than he. Many Samurai have{F801}challenged him, but none can best him.{F801}{F802}{F813,0,607009}Please, defeat the demon inside this{F801}machine for the sake of your future{F801}comrades.{F801}{F802}{F813,0,607010}Now... Let me get someone to activate{F801}the Gauntlet.{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,0,607003}Hm... Very well. Let me explain the{F801}situation regarding this Gauntlet,{F801}then.{F801}{F802}{F813,0,607004}The problem we have with this Gauntlet{F801}is that there is a powerful demon{F801}within it.{F801}{F802}{F813,0,607005}This demon is preventing us from using{F801}the Gauntlet as it is meant to be.{F801}{F802}{F813,0,607006}The Monastery orders that a Gauntlet{F801}must be cleansed before a novice{F801}attempts the Rite using it.{F801}{F802}{F813,0,607007}However, the demon inside that one{F801}Gauntlet is opposed to being removed.{F801}{F802}{F813,0,607008}He will only respect the will of one{F801}stronger than he. Many Samurai have{F801}challenged him, but none can best him.{F801}{F802}{F813,0,607009}Please, defeat the demon inside this{F801}machine for the sake of your future{F801}comrades.{F801}{F802}{F813,0,607010}Now... Let me get someone to activate{F801}the Gauntlet.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 One of the initiates is selected{F801}to activate the Gauntlet...{F801}</source>
+    <target>〉 One of the initiates is selected{F801}to activate the Gauntlet...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Summoned Demon\0{F87A,-359}{F813,0,607011}Another challenger, I see...{F801}My name is Ares.{F801}{F802}{F812}Ares\0{F87A,-359}{F813,0,607012}Anyone who is unable to overcome a{F801}warrior such as myself does not{F801}deserve to live.{F801}</source>
+    <target>{F812}Summoned Demon\0{F87A,-359}{F813,0,607011}Another challenger, I see...{F801}My name is Ares.{F801}{F802}{F812}Ares\0{F87A,-359}{F813,0,607012}Anyone who is unable to overcome a{F801}warrior such as myself does not{F801}deserve to live.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Master\0{F87A,29}{F813,0,607013}I see. Well, it is up to you.{F801}You are welcome to come back whenever{F801}you feel ready.{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,0,607013}I see. Well, it is up to you.{F801}You are welcome to come back whenever{F801}you feel ready.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Ares\0{F87A,-359}{F813,0,607014}You have proven to me that your power{F801}is greater than that of my late master.{F801}{F802}{F813,0,607015}Very well, you have my approval.{F801}There is no reason for me to remain{F801}within this machine.{F801}{F802}{F813,0,607016}Farewell, formidable opponent.{F801}May the next time we meet in battle{F801}be as allies.{F801}</source>
+    <target>{F812}Ares\0{F87A,-359}{F813,0,607014}You have proven to me that your power{F801}is greater than that of my late master.{F801}{F802}{F813,0,607015}Very well, you have my approval.{F801}There is no reason for me to remain{F801}within this machine.{F801}{F802}{F813,0,607016}Farewell, formidable opponent.{F801}May the next time we meet in battle{F801}be as allies.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The demon leaves...{F801}</source>
+    <target>〉 The demon leaves...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Master\0{F87A,29}{F813,0,607017}That was an amazing battle!{F801}Even that demon was impressed{F801}by your skill.{F801}{F802}{F813,0,607018}Now we can use this Gauntlet again.{F801}If I have another task that needs{F801}doing, I hope you will assist us.{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,0,607017}That was an amazing battle!{F801}Even that demon was impressed{F801}by your skill.{F801}{F802}{F813,0,607018}Now we can use this Gauntlet again.{F801}If I have another task that needs{F801}doing, I hope you will assist us.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The demon that appears seems to be{F801}some sort of gladiator...{F801}{F802}〉 The summoned demon turns its back{F801}on the Gauntlet and raises its weapon...{F801}</source>
+    <target>〉 The demon that appears seems to be{F801}some sort of gladiator...{F801}{F802}〉 The summoned demon turns its back{F801}on the Gauntlet and raises its weapon...{F801}</target>
+  </entry>
+</mbm>

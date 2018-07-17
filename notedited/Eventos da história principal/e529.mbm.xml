@@ -1,0 +1,22 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demonoid\0{F87A,148}{F813,1,417105}...Oh, it's you, Akira. Why are you in{F801}Ikebukuro? Is today trash day? Oh well.{F801}{F802}I just stepped on a dead demon over{F801}there. Can you lick my foot clean like{F801}usual?{F801}</source>
+    <target>{F812}Demonoid\0{F87A,148}{F813,1,417105}...Oh, it's you, Akira. Why are you in{F801}Ikebukuro? Is today trash day? Oh well.{F801}{F802}I just stepped on a dead demon over{F801}there. Can you lick my foot clean like{F801}usual?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Akira\0{F87A,85}{F813,1,401704}...Huhhhh? Did I get lost? Tokyo's a big{F801}place...{F801}{F802}I was just on my way to Shinjuku. Sorry{F801}to bother you...!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,1,401704}...Huhhhh? Did I get lost? Tokyo's a big{F801}place...{F801}{F802}I was just on my way to Shinjuku. Sorry{F801}to bother you...!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Akira tugged strongly on {F843,0}'s{F801}arm...{F801}</source>
+    <target>〉 Akira tugged strongly on {F843,0}'s{F801}arm...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demonoid\0{F87A,148}{F813,1,417104}Huh? A neurisher? What, you want us to{F801}adopt you?{F801}{F802}Sorry, we only feed on adults. Could you{F801}come back when you've grown up a little?{F801}</source>
+    <target>{F812}Demonoid\0{F87A,148}{F813,1,417104}Huh? A neurisher? What, you want us to{F801}adopt you?{F801}{F802}Sorry, we only feed on adults. Could you{F801}come back when you've grown up a little?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demonoid\0{F87A,148}{F813,1,417101}Oh, Akira... sorry, Master Akira's{F801}bodyguard? You're a handsome one up{F801}close.{F801}{F802}Of course you don't need to pay the{F801}entrance fee. Have fun in Ikebukuro.{F801}</source>
+    <target>{F812}Demonoid\0{F87A,148}{F813,1,417101}Oh, Akira... sorry, Master Akira's{F801}bodyguard? You're a handsome one up{F801}close.{F801}{F802}Of course you don't need to pay the{F801}entrance fee. Have fun in Ikebukuro.{F801}</target>
+  </entry>
+</mbm>

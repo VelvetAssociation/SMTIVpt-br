@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You see a giant bird's nest on the{F801}other side of a gap in the wall...{F801}</source>
+    <target>〉 You see a giant bird's nest on the{F801}other side of a gap in the wall...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 Will you go into the nest to try{F801}to find the egg?{F801}</source>
+    <target>〉 Will you go into the nest to try{F801}to find the egg?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 {F843,0} was somehow able to{F801}carry the giant egg back to the{F801}observatory.{F801}{F802}〉 {F843,0} has obtained the{F801}Rukh's egg.{F801}</source>
+    <target>〉 {F843,0} was somehow able to{F801}carry the giant egg back to the{F801}observatory.{F801}{F802}〉 {F843,0} has obtained the{F801}Rukh's egg.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 {F843,0} has given up on finding{F801}the egg.{F801}</source>
+    <target>〉 {F843,0} has given up on finding{F801}the egg.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>Unused Message{F801}</source>
+    <target>Unused Message{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 A demon approaches you while you{F801}struggle to pass through the gap...{F801}</source>
+    <target>〉 A demon approaches you while you{F801}struggle to pass through the gap...{F801}</target>
+  </entry>
+</mbm>

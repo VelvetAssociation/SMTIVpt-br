@@ -1,0 +1,218 @@
+<mbm>
+  <entry id="0">
+    <source>〉 It smells of antiseptic.{F801}</source>
+    <target>〉 It smells of antiseptic.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 It smells of antiseptic.{F801}</source>
+    <target>〉 It smells of antiseptic.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-90}{F813,1,410001}Hm...? Why is there a human here--Oh.{F801}{F802}You must be an applicant to become a{F801}neurisher. Kenji doesn't even have to{F801}do anything anymore.{F801}{F802}If you're headed toward the lab, you'll{F801}need to disinfect first. We don't need{F801}any sick neurishers.{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}{F813,1,410001}Hm...? Why is there a human here--Oh.{F801}{F802}You must be an applicant to become a{F801}neurisher. Kenji doesn't even have to{F801}do anything anymore.{F801}{F802}If you're headed toward the lab, you'll{F801}need to disinfect first. We don't need{F801}any sick neurishers.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-90}Alright, stick your hands out, palms up.{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}Alright, stick your hands out, palms up.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Stick your hands out{F801}Leave{F801}</source>
+    <target>Stick your hands out{F801}Leave{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Demon\0{F87A,-90}Here you go...{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}Here you go...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 You feel something warm on your{F801}hands...{F801}</source>
+    <target>〉 You feel something warm on your{F801}hands...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Demon\0{F87A,-90}Be sure to rub thoroughly. You need to{F801}kill off ALL the germs.{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}Be sure to rub thoroughly. You need to{F801}kill off ALL the germs.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Demon\0{F87A,-90}Hm? There's still a little bacteria{F801}stink on you. Go disinfect in the other{F801}room too, okay?{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}Hm? There's still a little bacteria{F801}stink on you. Go disinfect in the other{F801}room too, okay?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Demon\0{F87A,-90}You can go now.{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}You can go now.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Demon\0{F87A,-90}...Alright, I don't smell any bacteria{F801}on you. You're completely disinfected.{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}...Alright, I don't smell any bacteria{F801}on you. You're completely disinfected.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Demon\0{F87A,-90}I'll open the shutter for you.{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}I'll open the shutter for you.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Demon\0{F87A,-90}You can go now.{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}You can go now.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Demon\0{F87A,-90}Huh? You're not disinfecting? Well, you{F801}can't be a neurisher until you do.{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}Huh? You're not disinfecting? Well, you{F801}can't be a neurisher until you do.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Demon\0{F87A,-90}{F813,1,410001}Huh? You're back?{F801}{F802}If you're headed toward the lab, you'll{F801}need to disinfect first. We don't need{F801}any sick neurishers.{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}{F813,1,410001}Huh? You're back?{F801}{F802}If you're headed toward the lab, you'll{F801}need to disinfect first. We don't need{F801}any sick neurishers.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Demon\0{F87A,-90}Alright, stick your hands out, palms up.{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}Alright, stick your hands out, palms up.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Demon\0{F87A,-90}{F813,1,410001}Huh? You came again? But you already{F801}got disinfected.{F801}{F802}Hurry up and go do the neurisher thing.{F801}And give me a taste when you're done...{F801}</source>
+    <target>{F812}Demon\0{F87A,-90}{F813,1,410001}Huh? You came again? But you already{F801}got disinfected.{F801}{F802}Hurry up and go do the neurisher thing.{F801}And give me a taste when you're done...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Demon\0{F87A,-596}{F813,1,414000}Hurh? Why in tarnation are there humans--{F801}Oh, I see.{F801}{F802}Yer neurisher applicants, aren'tcha?{F801}Sorry, I thought I finished today's{F801}bunch.{F801}{F802}Ya need to disinfect to get to the lab.{F801}The key to healthy livin' starts with{F801}choosin' clean food!{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}{F813,1,414000}Hurh? Why in tarnation are there humans--{F801}Oh, I see.{F801}{F802}Yer neurisher applicants, aren'tcha?{F801}Sorry, I thought I finished today's{F801}bunch.{F801}{F802}Ya need to disinfect to get to the lab.{F801}The key to healthy livin' starts with{F801}choosin' clean food!{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Demon\0{F87A,-596}Now, step right up here in front of me.{F801}Bow and hold that pose.{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}Now, step right up here in front of me.{F801}Bow and hold that pose.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>Bow{F801}Leave{F801}</source>
+    <target>Bow{F801}Leave{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Demon\0{F87A,-596}Here I go...{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}Here I go...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 You feel warm wind blowing on your{F801}head...{F801}</source>
+    <target>〉 You feel warm wind blowing on your{F801}head...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Demon\0{F87A,-596}Let me put some on the back of yer ears{F801}and neck, just in case.{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}Let me put some on the back of yer ears{F801}and neck, just in case.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Demon\0{F87A,-596}Hm...? I still smell some of that there{F801}bacteria on ya. Go to the other{F801}disinfection station, OK?{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}Hm...? I still smell some of that there{F801}bacteria on ya. Go to the other{F801}disinfection station, OK?{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Demon\0{F87A,-596}Yer done here.{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}Yer done here.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Demon\0{F87A,-596}...Good! I don't smell any bacteria on{F801}ya no more. Yer disinfected now.{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}...Good! I don't smell any bacteria on{F801}ya no more. Yer disinfected now.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Demon\0{F87A,-596}I'll open up the shutter fer ya.{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}I'll open up the shutter fer ya.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Demon\0{F87A,-596}You can go now, boy.{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}You can go now, boy.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Demon\0{F87A,-596}...Hm? Yer not disinfectin'? Ya can't{F801}be a neurisher if ya don't, sonny.{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}...Hm? Yer not disinfectin'? Ya can't{F801}be a neurisher if ya don't, sonny.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Demon\0{F87A,-596}{F813,1,414005}...Oh? Back again?{F801}{F802}Ya need to disinfect ta get to the lab.{F801}The key to healthy livin' starts with{F801}eatin' clean food!{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}{F813,1,414005}...Oh? Back again?{F801}{F802}Ya need to disinfect ta get to the lab.{F801}The key to healthy livin' starts with{F801}eatin' clean food!{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Demon\0{F87A,-596}Now, step right up here in front of me.{F801}Bow and hold that pose.{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}Now, step right up here in front of me.{F801}Bow and hold that pose.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Demon\0{F87A,-596}{F813,1,414000}...What? Back again? Ya already got{F801}disinfected!{F801}{F802}Now git! Go be a neurisher! And let me{F801}have a little sip when yer done.{F801}</source>
+    <target>{F812}Demon\0{F87A,-596}{F813,1,414000}...What? Back again? Ya already got{F801}disinfected!{F801}{F802}Now git! Go be a neurisher! And let me{F801}have a little sip when yer done.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400005}Oh... Master {F843,0}, the Yamato's{F801}remote control is here on the floor.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400005}Oh... Master {F843,0}, the Yamato's{F801}remote control is here on the floor.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>Press the remote button{F801}Walk away{F801}</source>
+    <target>Press the remote button{F801}Walk away{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>〉 {F843,0} placed his finger on the{F801}button...{F801}</source>
+    <target>〉 {F843,0} placed his finger on the{F801}button...{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400003}Sorry, Master {F843,0}, but let me{F801}make sure of something...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400003}Sorry, Master {F843,0}, but let me{F801}make sure of something...{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Burroughs\0{F87A,2}Which are you going to, the Tokyo{F801}below the ceiling or the Tokyo{F801}covered in desert?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Which are you going to, the Tokyo{F801}below the ceiling or the Tokyo{F801}covered in desert?{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>"The Tokyo below the ceiling."{F801}"The Tokyo covered in desert."{F801}"Neither, I think."{F801}</source>
+    <target>"The Tokyo below the ceiling."{F801}"The Tokyo covered in desert."{F801}"Neither, I think."{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>〉 {F843,0} pressed the button{F801}with the underground Tokyo in mind...{F801}</source>
+    <target>〉 {F843,0} pressed the button{F801}with the underground Tokyo in mind...{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}OK. I just wanted to know; sorry for{F801}butting in. Go right ahead.{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>〉 {F843,0} pressed the button{F801}with the blasted Tokyo in mind...{F801}</source>
+    <target>〉 {F843,0} pressed the button{F801}with the blasted Tokyo in mind...{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Burroughs\0{F87A,2}OK. I think that's a perfectly valid{F801}choice too.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}OK. I think that's a perfectly valid{F801}choice too.{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>〉 The Yamato Perpetual Reactor is{F801}here before you...{F801}</source>
+    <target>〉 The Yamato Perpetual Reactor is{F801}here before you...{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Female demonoid\0{F87A,104}{F813,1,417100}Wow, it's like a dream. This really is{F801}Ichigaya. He really became King...{F801}{F802}This isn't a dream, is it? Well, even if{F801}it is...{F801}{F802}...It was real while I was having it.{F801}</source>
+    <target>{F812}Female demonoid\0{F87A,104}{F813,1,417100}Wow, it's like a dream. This really is{F801}Ichigaya. He really became King...{F801}{F802}This isn't a dream, is it? Well, even if{F801}it is...{F801}{F802}...It was real while I was having it.{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F812}Male demonoid\0{F87A,103}{F813,1,415101}We took control of the lab. Now we don't{F801}have to worry about neurishers.{F801}{F802}We just have to get the neurishers we{F801}brought to give birth to more and more.{F801}{F802}Now that our food worries are taken care{F801}of... I'm starting to get an itch for{F801}something else...{F801}{F802}I wanna be big-time! If I kill the King,{F801}would that do it...?{F801}</source>
+    <target>{F812}Male demonoid\0{F87A,103}{F813,1,415101}We took control of the lab. Now we don't{F801}have to worry about neurishers.{F801}{F802}We just have to get the neurishers we{F801}brought to give birth to more and more.{F801}{F802}Now that our food worries are taken care{F801}of... I'm starting to get an itch for{F801}something else...{F801}{F802}I wanna be big-time! If I kill the King,{F801}would that do it...?{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Male neurisher\0{F87A,107}{F813,1,403442}King Akira inspected all the neurishers{F801}of Tokyo and brought only the best here.{F801}{F802}I know we're just neurishers... but{F801}being picked out personally by the King,{F801}I feel like we're Adam and Eve.{F801}{F802}Someday, our descendants will fill Tokyo.{F801}</source>
+    <target>{F812}Male neurisher\0{F87A,107}{F813,1,403442}King Akira inspected all the neurishers{F801}of Tokyo and brought only the best here.{F801}{F802}I know we're just neurishers... but{F801}being picked out personally by the King,{F801}I feel like we're Adam and Eve.{F801}{F802}Someday, our descendants will fill Tokyo.{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>{F812}Female neurisher\0{F87A,106}{F813,1,403501}I may not be able to see, but my hearing{F801}is good. So I can tell...{F801}{F802}King Akira is apologizing to me from the{F801}bottom of his heart.{F801}{F802}But I'm actually grateful to him.{F801}He gave me--someone who existed only to{F801}be food--a role in life.{F801}{F802}My role now is to become an offering in{F801}order to build our ideal Tokyo...{F801}</source>
+    <target>{F812}Female neurisher\0{F87A,106}{F813,1,403501}I may not be able to see, but my hearing{F801}is good. So I can tell...{F801}{F802}King Akira is apologizing to me from the{F801}bottom of his heart.{F801}{F802}But I'm actually grateful to him.{F801}He gave me--someone who existed only to{F801}be food--a role in life.{F801}{F802}My role now is to become an offering in{F801}order to build our ideal Tokyo...{F801}</target>
+  </entry>
+  <entry id="131">
+    <source>〉 The remote control is on the ground.{F801}</source>
+    <target>〉 The remote control is on the ground.{F801}</target>
+  </entry>
+  <entry id="231">
+    <source>Press the button{F801}Talk to Akira{F801}Leave{F801}</source>
+    <target>Press the button{F801}Talk to Akira{F801}Leave{F801}</target>
+  </entry>
+  <entry id="331">
+    <source>{F812}King Akira\0{F87A,85}......{F801}</source>
+    <target>{F812}King Akira\0{F87A,85}......{F801}</target>
+  </entry>
+  <entry id="431">
+    <source>〉 Akira seems distracted.{F801}</source>
+    <target>〉 Akira seems distracted.{F801}</target>
+  </entry>
+  <entry id="531">
+    <source>Talk to him again{F801}Leave him alone{F801}</source>
+    <target>Talk to him again{F801}Leave him alone{F801}</target>
+  </entry>
+  <entry id="631">
+    <source>{F812}King Akira\0{F87A,85}{F813,1,401701}...Oh, it's you, Boss. Sorry, I was...{F801}just doing some thinking.{F801}{F802}I finally realized something after I{F801}became the King of Tokyo. When it comes{F801}to who I should be looking out for...{F801}{F802}I need to put everyone else first,{F801}right? I mean, I'm the King of Tokyo,{F801}after all.{F801}{F802}Having to worry about more than{F801}yourself is harder than a punch to{F801}the gut...{F801}{F802}To be honest, I already want to ditch{F801}it all, but I already told my sis{F801}about it... so I gotta stand firm.{F801}</source>
+    <target>{F812}King Akira\0{F87A,85}{F813,1,401701}...Oh, it's you, Boss. Sorry, I was...{F801}just doing some thinking.{F801}{F802}I finally realized something after I{F801}became the King of Tokyo. When it comes{F801}to who I should be looking out for...{F801}{F802}I need to put everyone else first,{F801}right? I mean, I'm the King of Tokyo,{F801}after all.{F801}{F802}Having to worry about more than{F801}yourself is harder than a punch to{F801}the gut...{F801}{F802}To be honest, I already want to ditch{F801}it all, but I already told my sis{F801}about it... so I gotta stand firm.{F801}</target>
+  </entry>
+</mbm>

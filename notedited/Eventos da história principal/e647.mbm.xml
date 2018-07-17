@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>〉 There is a demon standing at the{F801}back of the room...{F801}</source>
+    <target>〉 There is a demon standing at the{F801}back of the room...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-181}{F813,1,411200}There you are, human. So, you're{F801}my next challenger, huh?{F801}{F802}Looks like that Hunter is keeping{F801}his promise to me.{F801}{F802}My name is Take-Mikazuchi.{F801}{F802}{F812}Take-Mikazuchi\0{F87A,-181}I was summoned to this country in{F801}order to save it while it was losing{F801}a war about a hundred years ago.{F801}{F802}But the other nation had stronger{F801}spirits on their side. I was severely{F801}injured, and the country lost the war...{F801}{F802}Ever since then, I've been hanging{F801}out around here. It's rather dull.{F801}{F802}This land lacks a Summoner.{F801}{F802}{F813,1,411201}And today, you've come to challenge{F801}me...{F801}{F802}So I suppose the Hunter I asked must{F801}think highly of you.{F801}{F802}All right, that's enough chit-chat.{F801}Are you ready to fight?{F801}</source>
+    <target>{F812}Demon\0{F87A,-181}{F813,1,411200}There you are, human. So, you're{F801}my next challenger, huh?{F801}{F802}Looks like that Hunter is keeping{F801}his promise to me.{F801}{F802}My name is Take-Mikazuchi.{F801}{F802}{F812}Take-Mikazuchi\0{F87A,-181}I was summoned to this country in{F801}order to save it while it was losing{F801}a war about a hundred years ago.{F801}{F802}But the other nation had stronger{F801}spirits on their side. I was severely{F801}injured, and the country lost the war...{F801}{F802}Ever since then, I've been hanging{F801}out around here. It's rather dull.{F801}{F802}This land lacks a Summoner.{F801}{F802}{F813,1,411201}And today, you've come to challenge{F801}me...{F801}{F802}So I suppose the Hunter I asked must{F801}think highly of you.{F801}{F802}All right, that's enough chit-chat.{F801}Are you ready to fight?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Take-Mikazuchi\0{F87A,-181}{F813,1,411204}Good answer!{F801}{F802}That Hunter met my expectations{F801}better than I could have hoped!{F801}He's brought me a good opponent.{F801}{F802}Let's fight!{F801}</source>
+    <target>{F812}Take-Mikazuchi\0{F87A,-181}{F813,1,411204}Good answer!{F801}{F802}That Hunter met my expectations{F801}better than I could have hoped!{F801}He's brought me a good opponent.{F801}{F802}Let's fight!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Take-Mikazuchi\0{F87A,-181}{F813,1,411211}Well, that just killed the mood.{F801}{F802}But, if you don't want to face off{F801}against a god of war, I certainly{F801}can't blame you.{F801}{F802}Come back when you feel like fighting{F801}me.{F801}</source>
+    <target>{F812}Take-Mikazuchi\0{F87A,-181}{F813,1,411211}Well, that just killed the mood.{F801}{F802}But, if you don't want to face off{F801}against a god of war, I certainly{F801}can't blame you.{F801}{F802}Come back when you feel like fighting{F801}me.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Take-Mikazuchi\0{F87A,-181}{F813,1,411200}Oh, it's you.{F801}{F802}Well, since you're back here, I take{F801}it you want to fight?{F801}</source>
+    <target>{F812}Take-Mikazuchi\0{F87A,-181}{F813,1,411200}Oh, it's you.{F801}{F802}Well, since you're back here, I take{F801}it you want to fight?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Take-Mikazuchi\0{F87A,-181}{F813,1,411201}Pretty good, human. To think I,{F801}Take-Mikazuchi, would be defeated{F801}by you.{F801}{F802}I've decided to leave this place...{F801}{F802}It's been pretty hard, you know,{F801}looking for someone stronger than me.{F801}{F802}Well, I'll be going now.{F801}{F802}...Now that I think about it, there{F801}were other demons summoned here years{F801}ago, as well.{F801}{F802}I wonder if they're still trying to{F801}protect this country...{F801}</source>
+    <target>{F812}Take-Mikazuchi\0{F87A,-181}{F813,1,411201}Pretty good, human. To think I,{F801}Take-Mikazuchi, would be defeated{F801}by you.{F801}{F802}I've decided to leave this place...{F801}{F802}It's been pretty hard, you know,{F801}looking for someone stronger than me.{F801}{F802}Well, I'll be going now.{F801}{F802}...Now that I think about it, there{F801}were other demons summoned here years{F801}ago, as well.{F801}{F802}I wonder if they're still trying to{F801}protect this country...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The demon disappears...{F801}</source>
+    <target>〉 The demon disappears...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is nobody here...{F801}</source>
+    <target>〉 There is nobody here...{F801}</target>
+  </entry>
+</mbm>

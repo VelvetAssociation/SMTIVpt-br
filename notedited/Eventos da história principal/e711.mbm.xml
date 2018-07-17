@@ -1,0 +1,530 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A giant temple stands ahead...{F801}</source>
+    <target>〉 A giant temple stands ahead...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Enter{F801}Leave{F801}</source>
+    <target>Enter{F801}Leave{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135001}...You have come, my brother. Lady{F801}Yuriko knows all.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135001}...You have come, my brother. Lady{F801}Yuriko knows all.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135002}We caught an intruder... Some punk{F801}from the Ashura-kai.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135002}We caught an intruder... Some punk{F801}from the Ashura-kai.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135003}I'm on patrol, so I can't escort you,{F801}but don't keep Lady Yuriko waiting.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135003}I'm on patrol, so I can't escort you,{F801}but don't keep Lady Yuriko waiting.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The large man walks away...{F801}</source>
+    <target>〉 The large man walks away...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Glaring man\0{F87A,46}{F813,0,135004}Oh... You came...?{F801}</source>
+    <target>{F812}Glaring man\0{F87A,46}{F813,0,135004}Oh... You came...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Glaring man\0{F87A,46}{F813,0,135005}Because you took so long... Mr. Tayama{F801}sent us instead...{F801}</source>
+    <target>{F812}Glaring man\0{F87A,46}{F813,0,135005}Because you took so long... Mr. Tayama{F801}sent us instead...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Glaring man\0{F87A,46}{F813,0,135006}Y... You can't get in from the front.{F801}But under... the bench...{F801}{F802}{F813,0,135007}There's... a manhole... Open it...{F801}and a hidden pa...{F801}</source>
+    <target>{F812}Glaring man\0{F87A,46}{F813,0,135006}Y... You can't get in from the front.{F801}But under... the bench...{F801}{F802}{F813,0,135007}There's... a manhole... Open it...{F801}and a hidden pa...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The man falls to the ground, with{F801}his eyes still open...{F801}</source>
+    <target>〉 The man falls to the ground, with{F801}his eyes still open...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>Head inside{F801}Head to the bench{F801}Leave{F801}</source>
+    <target>Head inside{F801}Head to the bench{F801}Leave{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 The gate is tightly closed.{F801}It doesn't seem like you can{F801}go any further...{F801}</source>
+    <target>〉 The gate is tightly closed.{F801}It doesn't seem like you can{F801}go any further...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 {F843,0} opens the manhole cover{F801}underneath the bench...{F801}{F802}〉 {F843,0} climbs down the ladder{F801}and enters Tsukiji Hongwanji.{F801}</source>
+    <target>〉 {F843,0} opens the manhole cover{F801}underneath the bench...{F801}{F802}〉 {F843,0} climbs down the ladder{F801}and enters Tsukiji Hongwanji.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Brawny man\0......{F801}</source>
+    <target>{F812}Brawny man\0......{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 A brawny man is standing in{F801}the way...{F801}{F802}〉 The man looks straight into{F801}{F843,0}'s eyes...{F801}</source>
+    <target>〉 A brawny man is standing in{F801}the way...{F801}{F802}〉 The man looks straight into{F801}{F843,0}'s eyes...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135021}...You don't need to say it. I can see{F801}it in your eyes. You didn't sign the{F801}application, did you?{F801}{F802}{F813,0,135022}Sign it and bring it to me.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135021}...You don't need to say it. I can see{F801}it in your eyes. You didn't sign the{F801}application, did you?{F801}{F802}{F813,0,135022}Sign it and bring it to me.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,135023}Did you accept your challenge quest?{F801}Check your Gauntlet.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,135023}Did you accept your challenge quest?{F801}Check your Gauntlet.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Brawny man\0......{F801}</source>
+    <target>{F812}Brawny man\0......{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 A brawny man is standing in{F801}the way...{F801}{F802}〉 The man looks straight into{F801}{F843,0}'s eyes...{F801}</source>
+    <target>〉 A brawny man is standing in{F801}the way...{F801}{F802}〉 The man looks straight into{F801}{F843,0}'s eyes...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135024}You don't need to to say it. I can{F801}tell you signed the application.{F801}{F802}{F813,0,135025}So let me explain how the test goes.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135024}You don't need to to say it. I can{F801}tell you signed the application.{F801}{F802}{F813,0,135025}So let me explain how the test goes.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 The brawny man takes out a candle{F801}and lights it...{F801}</source>
+    <target>〉 The brawny man takes out a candle{F801}and lights it...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135026}The idea is to reach the main temple{F801}before this candle burns out.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135026}The idea is to reach the main temple{F801}before this candle burns out.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135027}The candle depletes as time passes{F801}during battle.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135027}The candle depletes as time passes{F801}during battle.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135028}Also, this ain't a group effort.{F801}You all gotta take it separately.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135028}Also, this ain't a group effort.{F801}You all gotta take it separately.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}Well, all right. We can all pass{F801}this test, isn't that right?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,1,1,1}Well, all right. We can all pass{F801}this test, isn't that right?{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,135029}{F87B,3,1,1,1}I would rather not... but for the sake{F801}of our captive fellow...{F801}{F802}{F813,0,135030}I wish you all good luck. May we meet{F801}again in the main temple.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,135029}{F87B,3,1,1,1}I would rather not... but for the sake{F801}of our captive fellow...{F801}{F802}{F813,0,135030}I wish you all good luck. May we meet{F801}again in the main temple.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 Jonathan and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Jonathan and the others leave{F801}one by one.{F801}</source>
+    <target>〉 Jonathan and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Jonathan and the others leave{F801}one by one.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Walter\0{F87A,4}{F813,0,135031}{F87B,4,1,1,1}A fairly elaborate test, eh? I like it.{F801}{F802}{F813,0,135032}I look forward to demonstrating my{F801}strength. I'll see the rest of you at{F801}the main temple, yes?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,135031}{F87B,4,1,1,1}A fairly elaborate test, eh? I like it.{F801}{F802}{F813,0,135032}I look forward to demonstrating my{F801}strength. I'll see the rest of you at{F801}the main temple, yes?{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>〉 Walter and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Walter and the others leave one{F801}by one.{F801}</source>
+    <target>〉 Walter and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Walter and the others leave one{F801}by one.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,135033}{F87B,5,1,1,1}I'd wager a man dreamed up this test...{F801}Walter will be pleased, I expect.{F801}{F802}{F813,0,135034}I'll give it a go. I hope to see you{F801}again at the main temple...{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,135033}{F87B,5,1,1,1}I'd wager a man dreamed up this test...{F801}Walter will be pleased, I expect.{F801}{F802}{F813,0,135034}I'll give it a go. I hope to see you{F801}again at the main temple...{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>〉 Isabeau and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Isabeau and the others leave one{F801}by one.{F801}</source>
+    <target>〉 Isabeau and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Isabeau and the others leave one{F801}by one.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>〉 Jonathan, Walter, and Isabeau{F801}have all decided to go seperately.{F801}</source>
+    <target>〉 Jonathan, Walter, and Isabeau{F801}have all decided to go seperately.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135035}All right, it's your turn. Head for{F801}the main temple.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135035}All right, it's your turn. Head for{F801}the main temple.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>〉 The man lights a candle and hands{F801}it to {F843,0}...{F801}{F802}〉 {F843,0} is now carrying a lit{F801}candle.{F801}</source>
+    <target>〉 The man lights a candle and hands{F801}it to {F843,0}...{F801}{F802}〉 {F843,0} is now carrying a lit{F801}candle.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,135036}I've set it up so that you can see{F801}the status of your candle...{F801}{F802}{F813,0,135037}It'll be visible when you open the{F801}menu and during battle.{F801}{F802}{F813,0,135038}Show them what you've got,{F801}Master {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,135036}I've set it up so that you can see{F801}the status of your candle...{F801}{F802}{F813,0,135037}It'll be visible when you open the{F801}menu and during battle.{F801}{F802}{F813,0,135038}Show them what you've got,{F801}Master {F843,0}.{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135039}Where are you going? You quitting{F801}the test?{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135039}Where are you going? You quitting{F801}the test?{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>"I am done with this."{F801}"No, I will finish it."{F801}</source>
+    <target>"I am done with this."{F801}"No, I will finish it."{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135041}Hmph... Guess you're all talk.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135041}Hmph... Guess you're all talk.{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135042}Call your friends here.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135042}Call your friends here.{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>〉 {F843,0} calls the others using{F801}his Gauntlet...{F801}</source>
+    <target>〉 {F843,0} calls the others using{F801}his Gauntlet...{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,135043}{F87B,3,1,1,1}I could keenly feel my lack of{F801}experience when fighting alone...{F801}What did you need, by the by?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,135043}{F87B,3,1,1,1}I could keenly feel my lack of{F801}experience when fighting alone...{F801}What did you need, by the by?{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Walter\0{F87A,4}{F813,0,135044}{F87B,4,1,1,1}Is something wrong? I was on a roll.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,135044}{F87B,4,1,1,1}Is something wrong? I was on a roll.{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,135045}{F87B,5,1,1,1}Are you all right? Why did you call{F801}so suddenly? Has something gone{F801}wrong...?{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,135045}{F87B,5,1,1,1}Are you all right? Why did you call{F801}so suddenly? Has something gone{F801}wrong...?{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135046}{F843,0} has given up.{F801}{F802}{F813,0,135047}And anyone who's gathered around such{F801}a weakling couldn't possibly be fit{F801}to join us.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135046}{F843,0} has given up.{F801}{F802}{F813,0,135047}And anyone who's gathered around such{F801}a weakling couldn't possibly be fit{F801}to join us.{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135048}You all fail.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135048}You all fail.{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>〉 The brawny man and his fellows{F801}bodily lift {F843,0} and the others{F801}and throw them out.{F801}</source>
+    <target>〉 The brawny man and his fellows{F801}bodily lift {F843,0} and the others{F801}and throw them out.{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135040}Then get back at it.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135040}Then get back at it.{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135049}Is that all you got?{F801}{F802}{F813,0,135050}What're you gonna do now? Give up?{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135049}Is that all you got?{F801}{F802}{F813,0,135050}What're you gonna do now? Give up?{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>"One more time."{F801}"I'm done here."{F801}</source>
+    <target>"One more time."{F801}"I'm done here."{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135051}Hrm... You don't know when to quit.{F801}All right, take this.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135051}Hrm... You don't know when to quit.{F801}All right, take this.{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>〉 The man lights a candle and hands{F801}it to {F843,0}...{F801}{F802}〉 {F843,0} is now carrying a lit{F801}candle.{F801}</source>
+    <target>〉 The man lights a candle and hands{F801}it to {F843,0}...{F801}{F802}〉 {F843,0} is now carrying a lit{F801}candle.{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135052}You again? You don't learn, do you?{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135052}You again? You don't learn, do you?{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135053}If you really want to take the test,{F801}sign the electronic application and{F801}come back to me.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135053}If you really want to take the test,{F801}sign the electronic application and{F801}come back to me.{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,135023}Did you accept your challenge quest?{F801}Check your Gauntlet.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,135023}Did you accept your challenge quest?{F801}Check your Gauntlet.{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135055}Back to try the test again, huh?{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135055}Back to try the test again, huh?{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>"That's right."{F801}"Not this time."{F801}</source>
+    <target>"That's right."{F801}"Not this time."{F801}</target>
+  </entry>
+  <entry id="56">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135056}Yeah, probably for the best. You{F801}wouldn't want to make your parents{F801}cry over your grave.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135056}Yeah, probably for the best. You{F801}wouldn't want to make your parents{F801}cry over your grave.{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>〉 The muscular men grab {F843,0}{F801}and the others and drag them{F801}outside...{F801}</source>
+    <target>〉 The muscular men grab {F843,0}{F801}and the others and drag them{F801}outside...{F801}</target>
+  </entry>
+  <entry id="58">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,135057}{F87B,3,1,1,1}This time, we'll meet back at the{F801}main temple. Best of luck, everyone.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,135057}{F87B,3,1,1,1}This time, we'll meet back at the{F801}main temple. Best of luck, everyone.{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>〉 Jonathan and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Jonathan and the others leave{F801}one by one.{F801}</source>
+    <target>〉 Jonathan and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Jonathan and the others leave{F801}one by one.{F801}</target>
+  </entry>
+  <entry id="60">
+    <source>{F812}Walter\0{F87A,4}{F813,0,135058}{F87B,4,1,1,1}Very well, as long as SOMEONE can keep{F801}his head about him, we'll meet at the{F801}main temple.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,135058}{F87B,4,1,1,1}Very well, as long as SOMEONE can keep{F801}his head about him, we'll meet at the{F801}main temple.{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>〉 Walter and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Walter and the others leave one{F801}by one.{F801}</source>
+    <target>〉 Walter and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Walter and the others leave one{F801}by one.{F801}</target>
+  </entry>
+  <entry id="62">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,135059}{F87B,5,1,1,1}This tedious ordeal... It is quite{F801}difficult, but I'm game.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,135059}{F87B,5,1,1,1}This tedious ordeal... It is quite{F801}difficult, but I'm game.{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>〉 Walter and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Isabeau and the others leave one{F801}by one.{F801}</source>
+    <target>〉 Walter and the others take{F801}candles from the brawny man and{F801}light them...{F801}{F802}〉 Isabeau and the others leave one{F801}by one.{F801}</target>
+  </entry>
+  <entry id="64">
+    <source>〉 Jonathan, Walter, Isabeau, and{F801}{F843,0} have decided to split up...{F801}</source>
+    <target>〉 Jonathan, Walter, Isabeau, and{F801}{F843,0} have decided to split up...{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135060}All right, it's your turn. Head for{F801}the main temple.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135060}All right, it's your turn. Head for{F801}the main temple.{F801}</target>
+  </entry>
+  <entry id="66">
+    <source>〉 The man lights a candle and hands{F801}it to {F843,0}...{F801}{F802}〉 {F843,0} is now carrying a lit{F801}candle.{F801}</source>
+    <target>〉 The man lights a candle and hands{F801}it to {F843,0}...{F801}{F802}〉 {F843,0} is now carrying a lit{F801}candle.{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135008}This is the head temple of the Ring{F801}of Gaea.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135008}This is the head temple of the Ring{F801}of Gaea.{F801}</target>
+  </entry>
+  <entry id="68">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135009}You here to join the Ring, too?{F801}{F802}{F813,0,135010}Hmph... There've been so many of you{F801}lately it's been a headache{F801}keeping track of you all.{F801}{F802}{F813,0,135011}You probably only want to ride the{F801}Ring of Gaea's coattails...{F801}{F802}{F813,0,135012}Go back to the underground districts{F801}and wag your tails for Tayama like the{F801}dogs you are.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135009}You here to join the Ring, too?{F801}{F802}{F813,0,135010}Hmph... There've been so many of you{F801}lately it's been a headache{F801}keeping track of you all.{F801}{F802}{F813,0,135011}You probably only want to ride the{F801}Ring of Gaea's coattails...{F801}{F802}{F813,0,135012}Go back to the underground districts{F801}and wag your tails for Tayama like the{F801}dogs you are.{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>{F812}Walter\0{F87A,4}{F813,0,135013}{F87B,4,5,1,1}I'm no one's dog.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,135013}{F87B,4,5,1,1}I'm no one's dog.{F801}</target>
+  </entry>
+  <entry id="70">
+    <source>{F812}Jonathan\0Walter...{F801}</source>
+    <target>{F812}Jonathan\0Walter...{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>{F812}Walter\0I'm only making myself clear.{F801}I call no man master.{F801}</source>
+    <target>{F812}Walter\0I'm only making myself clear.{F801}I call no man master.{F801}</target>
+  </entry>
+  <entry id="72">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135014}Oh yeah? Then take our entrance test.{F801}We'll see whether you've got the{F801}stones to back up those words.{F801}{F802}{F813,0,135015}......{F801}{F802}{F813,0,135016}...There we go!{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135014}Oh yeah? Then take our entrance test.{F801}We'll see whether you've got the{F801}stones to back up those words.{F801}{F802}{F813,0,135015}......{F801}{F802}{F813,0,135016}...There we go!{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>〉 The man skillfully enters a series{F801}of commands into his smartphone.{F801}</source>
+    <target>〉 The man skillfully enters a series{F801}of commands into his smartphone.{F801}</target>
+  </entry>
+  <entry id="74">
+    <source>{F812}Brawny man\0{F87A,53}{F813,0,135017}I sent the electronic application to{F801}your terminal.{F801}{F802}{F813,0,135018}Sign it and bring it to me.{F801}</source>
+    <target>{F812}Brawny man\0{F87A,53}{F813,0,135017}I sent the electronic application to{F801}your terminal.{F801}{F802}{F813,0,135018}Sign it and bring it to me.{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}{F802}{F813,0,135020}I've registered this one as a{F801}Challenge Quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400050}I'll register that as a new quest{F801}on the list.{F801}{F802}{F813,0,135020}I've registered this one as a{F801}Challenge Quest.{F801}</target>
+  </entry>
+  <entry id="76">
+    <source>〉 The candle has gone out...{F801}</source>
+    <target>〉 The candle has gone out...{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>〉 You hear the brawny man's voice{F801}from above...{F801}</source>
+    <target>〉 You hear the brawny man's voice{F801}from above...{F801}</target>
+  </entry>
+  <entry id="78">
+    <source>{F812}Voice\0{F87A,53}{F813,0,135061}...I saw already. Your candle's out.{F801}</source>
+    <target>{F812}Voice\0{F87A,53}{F813,0,135061}...I saw already. Your candle's out.{F801}</target>
+  </entry>
+  <entry id="79">
+    <source>{F812}Voice\0{F87A,53}{F813,0,135062}The test is over. You fail.{F801}</source>
+    <target>{F812}Voice\0{F87A,53}{F813,0,135062}The test is over. You fail.{F801}</target>
+  </entry>
+  <entry id="80">
+    <source>〉 You hear the brawny man's voice{F801}from above...{F801}</source>
+    <target>〉 You hear the brawny man's voice{F801}from above...{F801}</target>
+  </entry>
+  <entry id="81">
+    <source>{F812}Voice\0{F87A,53}{F813,0,135063}...I saw already. You gave up.{F801}</source>
+    <target>{F812}Voice\0{F87A,53}{F813,0,135063}...I saw already. You gave up.{F801}</target>
+  </entry>
+  <entry id="82">
+    <source>{F812}Voice\0{F87A,53}{F813,0,135064}The test is over. You fail.{F801}</source>
+    <target>{F812}Voice\0{F87A,53}{F813,0,135064}The test is over. You fail.{F801}</target>
+  </entry>
+  <entry id="83">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,136001}Oh ho... I see you've come this far{F801}with the flame intact.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,136001}Oh ho... I see you've come this far{F801}with the flame intact.{F801}</target>
+  </entry>
+  <entry id="84">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,136002}The main temple you're looking for is{F801}right in front of you.{F801}{F802}{F813,0,136003}But if you want to pass... you must{F801}prove your strength to me.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,136002}The main temple you're looking for is{F801}right in front of you.{F801}{F802}{F813,0,136003}But if you want to pass... you must{F801}prove your strength to me.{F801}</target>
+  </entry>
+  <entry id="85">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,136004}...Are you ready?{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,136004}...Are you ready?{F801}</target>
+  </entry>
+  <entry id="86">
+    <source>"Face me!"{F801}"Give me a moment."{F801}</source>
+    <target>"Face me!"{F801}"Give me a moment."{F801}</target>
+  </entry>
+  <entry id="87">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,136005}You hesitate after coming so far?{F801}Pitiful...{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,136005}You hesitate after coming so far?{F801}Pitiful...{F801}</target>
+  </entry>
+  <entry id="88">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,136006}Have you finally come to a decision?{F801}I tire of waiting.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,136006}Have you finally come to a decision?{F801}I tire of waiting.{F801}</target>
+  </entry>
+  <entry id="89">
+    <source>〉 A giant statue of a goddess{F801}reclining on her side dominates{F801}the area ahead...{F801}</source>
+    <target>〉 A giant statue of a goddess{F801}reclining on her side dominates{F801}the area ahead...{F801}</target>
+  </entry>
+  <entry id="90">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,138001}Ah, you arrived... I managed to{F801}scrape by as well.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,138001}Ah, you arrived... I managed to{F801}scrape by as well.{F801}</target>
+  </entry>
+  <entry id="91">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,138002}{F87B,3,1,1,1}It seems we all made it.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,138002}{F87B,3,1,1,1}It seems we all made it.{F801}</target>
+  </entry>
+  <entry id="92">
+    <source>{F812}Walter\0{F87A,4}{F813,0,138003}Hoy, what held you up? Don't tell me{F801}you actually had trouble back there.{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,138003}Hoy, what held you up? Don't tell me{F801}you actually had trouble back there.{F801}</target>
+  </entry>
+  <entry id="93">
+    <source>{F812}Walter\0{F87A,4}{F813,0,138004}{F87B,4,4,1,1}My candle's still lit. I wish that{F801}I could have had freer reign to{F801}let loose...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F813,0,138004}{F87B,4,4,1,1}My candle's still lit. I wish that{F801}I could have had freer reign to{F801}let loose...{F801}</target>
+  </entry>
+  <entry id="94">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,138005}It seems this tedious ordeal has{F801}safely come to its conclusion.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,138005}It seems this tedious ordeal has{F801}safely come to its conclusion.{F801}</target>
+  </entry>
+  <entry id="95">
+    <source>{F812}Isabeau\0{F87A,5}{F813,0,138006}{F87B,5,11,1,1}Not that I thought it would turn out{F801}differently, given that you were{F801}involved.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F813,0,138006}{F87B,5,11,1,1}Not that I thought it would turn out{F801}differently, given that you were{F801}involved.{F801}</target>
+  </entry>
+  <entry id="96">
+    <source>{F812}Ring of Gaea monk\0{F87A,53}{F813,0,138007}The test is at an end. You have all{F801}passed.{F801}{F802}{F813,0,138008}You won't be needing those candles{F801}any longer.{F801}</source>
+    <target>{F812}Ring of Gaea monk\0{F87A,53}{F813,0,138007}The test is at an end. You have all{F801}passed.{F801}{F802}{F813,0,138008}You won't be needing those candles{F801}any longer.{F801}</target>
+  </entry>
+  <entry id="97">
+    <source>〉 {F843,0} and the others hand{F801}their candles to the monk.{F801}</source>
+    <target>〉 {F843,0} and the others hand{F801}their candles to the monk.{F801}</target>
+  </entry>
+  <entry id="98">
+    <source>{F812}Ring of Gaea monk\0{F87A,53}{F813,0,138009}The skills you displayed today were{F801}a marvel to behold.{F801}{F802}{F813,0,138010}Though of course, we expect you to{F801}be that strong. Otherwise you would{F801}not be allowed near Lady Yuriko.{F801}</source>
+    <target>{F812}Ring of Gaea monk\0{F87A,53}{F813,0,138009}The skills you displayed today were{F801}a marvel to behold.{F801}{F802}{F813,0,138010}Though of course, we expect you to{F801}be that strong. Otherwise you would{F801}not be allowed near Lady Yuriko.{F801}</target>
+  </entry>
+  <entry id="99">
+    <source>{F812}Ring of Gaea monk\0{F87A,53}{F813,0,138011}You were sent by Tayama, yes...?{F801}</source>
+    <target>{F812}Ring of Gaea monk\0{F87A,53}{F813,0,138011}You were sent by Tayama, yes...?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,138012}{F87B,3,7,1,1}What...!?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,138012}{F87B,3,7,1,1}What...!?{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>〉 The floor suddenly drops open...{F801}</source>
+    <target>〉 The floor suddenly drops open...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Jonathan\0{F813,0,138013}Waaaaaaaaaaaaaa...!{F801}</source>
+    <target>{F812}Jonathan\0{F813,0,138013}Waaaaaaaaaaaaaa...!{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Walter\0{F813,0,138014}Whooooooooooa...!{F801}</source>
+    <target>{F812}Walter\0{F813,0,138014}Whooooooooooa...!{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Isabeau\0{F813,0,138015}Ahhhhhhhhhhhhhh...!{F801}</source>
+    <target>{F812}Isabeau\0{F813,0,138015}Ahhhhhhhhhhhhhh...!{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,0,136007}That makes four of you...{F801}{F802}{F813,0,136008}Samurai from the Firmament... It seems{F801}you are a force to be reckoned with.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,0,136007}That makes four of you...{F801}{F802}{F813,0,136008}Samurai from the Firmament... It seems{F801}you are a force to be reckoned with.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Burroughs\0...That means everyone else made it.{F801}</source>
+    <target>{F812}Burroughs\0...That means everyone else made it.{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>{F812}Ring of Gaea woman\0{F87A,54}{F813,0,136009}Now proceed.{F801}</source>
+    <target>{F812}Ring of Gaea woman\0{F87A,54}{F813,0,136009}Now proceed.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>〉 There is a manhole cover under{F801}the bench...{F801}{F802}〉 It seems tightly sealed.{F801}You don't think you can open it...{F801}</source>
+    <target>〉 There is a manhole cover under{F801}the bench...{F801}{F802}〉 It seems tightly sealed.{F801}You don't think you can open it...{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>Head inside{F801}Head to the bench{F801}Leave{F801}</source>
+    <target>Head inside{F801}Head to the bench{F801}Leave{F801}</target>
+  </entry>
+  <entry id="135">
+    <source>〉 The brawny man stands in your{F801}way...{F801}</source>
+    <target>〉 The brawny man stands in your{F801}way...{F801}</target>
+  </entry>
+  <entry id="167">
+    <source>〉 A large man stands in the way...{F801}</source>
+    <target>〉 A large man stands in the way...{F801}</target>
+  </entry>
+  <entry id="183">
+    <source>〉 A female member of the Ring of{F801}Gaea stands in the way...{F801}</source>
+    <target>〉 A female member of the Ring of{F801}Gaea stands in the way...{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>{F812}Voice\0{F813,1,404301}{F87A,1}...Halt.{F801}</source>
+    <target>{F812}Voice\0{F813,1,404301}{F87A,1}...Halt.{F801}</target>
+  </entry>
+  <entry id="212">
+    <source>{F812}Demon\0{F87A,-415}The Demon Lord Lucifer has been{F801}resurrected.{F801}{F802}The Lord is currently at{F801}Camp Ichigaya, planning a way to{F801}eliminate the angels.{F801}{F802}Our comrades have already begun to{F801}take action. The first attacks{F801}should begin soon.{F801}</source>
+    <target>{F812}Demon\0{F87A,-415}The Demon Lord Lucifer has been{F801}resurrected.{F801}{F802}The Lord is currently at{F801}Camp Ichigaya, planning a way to{F801}eliminate the angels.{F801}{F802}Our comrades have already begun to{F801}take action. The first attacks{F801}should begin soon.{F801}</target>
+  </entry>
+  <entry id="311">
+    <source>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404303}We have closed off that entrance.{F801}Not a single vile rat will survive.{F801}{F802}If you wish to meet Lady Yuriko,{F801}enter through the front gates.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,51}{F813,1,404303}We have closed off that entrance.{F801}Not a single vile rat will survive.{F801}{F802}If you wish to meet Lady Yuriko,{F801}enter through the front gates.{F801}</target>
+  </entry>
+  <entry id="312">
+    <source>{F812}Demon\0{F87A,-415}Ah, Lord Lucifer, it is a great{F801}honor for you to stop to speak with{F801}me...{F801}{F802}All our comrades have headed to{F801}Naraku. Once you have completed your{F801}preparations, please go there, sir.{F801}{F802}We demons are eager to walk once{F801}more in the light of the sun...{F801}</source>
+    <target>{F812}Demon\0{F87A,-415}Ah, Lord Lucifer, it is a great{F801}honor for you to stop to speak with{F801}me...{F801}{F802}All our comrades have headed to{F801}Naraku. Once you have completed your{F801}preparations, please go there, sir.{F801}{F802}We demons are eager to walk once{F801}more in the light of the sun...{F801}</target>
+  </entry>
+  <entry id="412">
+    <source>{F812}Demon\0{F87A,-415}The angels have already been{F801}defeated by someone else.{F801}...Is fate on our side now?{F801}{F802}No! Lord Lucifer believes that those{F801}who slew the angels will soon turn{F801}against us as well.{F801}{F802}Lord Lucifer will wait for the ones{F801}who did this to show themselves,{F801}and he'll challenge them personally.{F801}</source>
+    <target>{F812}Demon\0{F87A,-415}The angels have already been{F801}defeated by someone else.{F801}...Is fate on our side now?{F801}{F802}No! Lord Lucifer believes that those{F801}who slew the angels will soon turn{F801}against us as well.{F801}{F802}Lord Lucifer will wait for the ones{F801}who did this to show themselves,{F801}and he'll challenge them personally.{F801}</target>
+  </entry>
+  <entry id="512">
+    <source>{F812}Former member\0{F87A,51}Lady Yuriko has fallen during our{F801}battle with the Ashura-kai.{F801}{F802}Now that the demon army has been{F801}defeated, the world of chaos we{F801}sought is further away than ever.{F801}{F802}Soon, any chaos remaining in this{F801}world will be nothing but a memory...{F801}</source>
+    <target>{F812}Former member\0{F87A,51}Lady Yuriko has fallen during our{F801}battle with the Ashura-kai.{F801}{F802}Now that the demon army has been{F801}defeated, the world of chaos we{F801}sought is further away than ever.{F801}{F802}Soon, any chaos remaining in this{F801}world will be nothing but a memory...{F801}</target>
+  </entry>
+  <entry id="612">
+    <source>{F812}Former member\0We lost contact with Lady Yuriko{F801}after she left for Naraku.{F801}{F802}Now that the demon army has been{F801}defeated, the world of chaos we{F801}sought is further away than ever.{F801}{F802}Soon, any chaos remaining in this{F801}world will be nothing but a memory...{F801}</source>
+    <target>{F812}Former member\0We lost contact with Lady Yuriko{F801}after she left for Naraku.{F801}{F802}Now that the demon army has been{F801}defeated, the world of chaos we{F801}sought is further away than ever.{F801}{F802}Soon, any chaos remaining in this{F801}world will be nothing but a memory...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>For the option "Head to the bench" {F801}since you cannot enter the hidden passage another text will be activated.{F801}</source>
+    <target>For the option "Head to the bench" {F801}since you cannot enter the hidden passage another text will be activated.{F801}</target>
+  </entry>
+  <entry id="1000">
+    <source>{F812}Ring of Gaea member\0{F813,1,404311}{F87A,53}Ah, you have arrived. Welcome,{F801}brother. There is no need for{F801}explanation; I know why you are here.{F801}{F802}Lady Yuriko awaits your arrival.{F801}...Come with me.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F813,1,404311}{F87A,53}Ah, you have arrived. Welcome,{F801}brother. There is no need for{F801}explanation; I know why you are here.{F801}{F802}Lady Yuriko awaits your arrival.{F801}...Come with me.{F801}</target>
+  </entry>
+  <entry id="1001">
+    <source>〉 {F843,0} and Walter follow the{F801}man...{F801}</source>
+    <target>〉 {F843,0} and Walter follow the{F801}man...{F801}</target>
+  </entry>
+  <entry id="1002">
+    <source>〉 {F843,0} and Walter are led to{F801}a room with two pillars.{F801}</source>
+    <target>〉 {F843,0} and Walter are led to{F801}a room with two pillars.{F801}</target>
+  </entry>
+  <entry id="1003">
+    <source>{F812}Voice\0{F813,1,404301}{F87A,1}...Halt.{F801}</source>
+    <target>{F812}Voice\0{F813,1,404301}{F87A,1}...Halt.{F801}</target>
+  </entry>
+  <entry id="1004">
+    <source>{F812}Ring of Gaea member\0{F87A,53}Lady Yuriko should have already{F801}told you that now is the time to{F801}release the gates to the Expanse...{F801}{F802}Now, my brother, you must go{F801}quickly to Camp Ichigaya...{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,53}Lady Yuriko should have already{F801}told you that now is the time to{F801}release the gates to the Expanse...{F801}{F802}Now, my brother, you must go{F801}quickly to Camp Ichigaya...{F801}</target>
+  </entry>
+  <entry id="1005">
+    <source>{F812}Ring of Gaea member\0{F87A,53}{F813,1,404311}...It would seem that Lady Yuriko{F801}has told you everything now.{F801}{F802}Let us go back.{F801}...Come with me.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,53}{F813,1,404311}...It would seem that Lady Yuriko{F801}has told you everything now.{F801}{F802}Let us go back.{F801}...Come with me.{F801}</target>
+  </entry>
+  <entry id="1006">
+    <source>〉 {F843,0} and Walter follow the{F801}man back...{F801}</source>
+    <target>〉 {F843,0} and Walter follow the{F801}man back...{F801}</target>
+  </entry>
+  <entry id="1007">
+    <source>〉 {F843,0} and Walter have returned{F801}to the entrance.{F801}</source>
+    <target>〉 {F843,0} and Walter have returned{F801}to the entrance.{F801}</target>
+  </entry>
+  <entry id="1008">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,400005}That bench over there... There seems{F801}to be a hole underneath it. Perhaps{F801}it leads to a tunnel...{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,400005}That bench over there... There seems{F801}to be a hole underneath it. Perhaps{F801}it leads to a tunnel...{F801}</target>
+  </entry>
+  <entry id="1100">
+    <source>〉 A man in the Ring of Gaea stands{F801}in the way...{F801}</source>
+    <target>〉 A man in the Ring of Gaea stands{F801}in the way...{F801}</target>
+  </entry>
+  <entry id="1103">
+    <source>〉 A man in the Ring of Gaea stands{F801}in the way...{F801}</source>
+    <target>〉 A man in the Ring of Gaea stands{F801}in the way...{F801}</target>
+  </entry>
+</mbm>

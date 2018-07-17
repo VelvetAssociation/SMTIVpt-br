@@ -1,0 +1,114 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-595}{F813,1,413106}This is the last remaining fortress{F801}of the Amatsu... If you have no{F801}business here, then leave at once.{F801}{F802}We must endure here until the return{F801}of our leader, Amaterasu.{F801}</source>
+    <target>{F812}Demon\0{F87A,-595}{F813,1,413106}This is the last remaining fortress{F801}of the Amatsu... If you have no{F801}business here, then leave at once.{F801}{F802}We must endure here until the return{F801}of our leader, Amaterasu.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-595}{F813,1,413100}Oh, I recognize you.{F801}You are {F843,0}, are you not?{F801}{F802}You were the one who appeared within{F801}my divination. The human that is to{F801}be the hope of our race.{F801}{F802}Please, I implore you to help us.{F801}{F802}Ah, but where are my manners?{F801}I am Futotama, one of the ruling{F801}class of the Amatsu.{F801}{F802}{F812}Futotama\0{F87A,-595}{F813,1,413101}We, the Amatsu, are continually being{F801}trodden upon by the demons who wish{F801}to take over Tokyo for themselves.{F801}{F802}Our leader Amaterasu has been sealed{F801}away, and the power of the Amatsu is{F801}nothing more than a candle's flicker.{F801}{F802}I want to somehow free Amaterasu,{F801}and preserve the Amatsu race from{F801}extinction.{F801}{F802}In order to free Amaterasu, I require{F801}three different holy vessels...{F801}{F802}{F804,5}The Yata Mirror, the Yasakani{F801}Magatama, and the Ameno Murakumo Sword.{F804,0}{F801}I require these sacred treasures.{F801}</source>
+    <target>{F812}Demon\0{F87A,-595}{F813,1,413100}Oh, I recognize you.{F801}You are {F843,0}, are you not?{F801}{F802}You were the one who appeared within{F801}my divination. The human that is to{F801}be the hope of our race.{F801}{F802}Please, I implore you to help us.{F801}{F802}Ah, but where are my manners?{F801}I am Futotama, one of the ruling{F801}class of the Amatsu.{F801}{F802}{F812}Futotama\0{F87A,-595}{F813,1,413101}We, the Amatsu, are continually being{F801}trodden upon by the demons who wish{F801}to take over Tokyo for themselves.{F801}{F802}Our leader Amaterasu has been sealed{F801}away, and the power of the Amatsu is{F801}nothing more than a candle's flicker.{F801}{F802}I want to somehow free Amaterasu,{F801}and preserve the Amatsu race from{F801}extinction.{F801}{F802}In order to free Amaterasu, I require{F801}three different holy vessels...{F801}{F802}{F804,5}The Yata Mirror, the Yasakani{F801}Magatama, and the Ameno Murakumo Sword.{F804,0}{F801}I require these sacred treasures.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Futotama\0{F87A,-595}{F813,1,413100}Hm? You already have the three holy{F801}vessels with you? Well, that makes{F801}things much easier.{F801}</source>
+    <target>{F812}Futotama\0{F87A,-595}{F813,1,413100}Hm? You already have the three holy{F801}vessels with you? Well, that makes{F801}things much easier.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Futotama\0{F87A,-595}{F813,1,413101}Two of the vessels can be found in a{F801}shrine located {F804,5}north{F804,0} of here. They are{F801}the Yoroi Shrine and the Kiou Shrine.{F801}{F802}The last one will be found on the{F801}{F804,5}east side{F804,0} of Tokyo, in a shrine known{F801}as the Kabuto Shrine.{F801}{F802}Once you have collected all three of{F801}the holy vessels, please bring them{F801}to me.{F801}{F802}All the shrines have been consumed by{F801}the Domains of foreign demons that{F801}guard the holy vessels.{F801}{F802}Please, be careful.{F801}</source>
+    <target>{F812}Futotama\0{F87A,-595}{F813,1,413101}Two of the vessels can be found in a{F801}shrine located {F804,5}north{F804,0} of here. They are{F801}the Yoroi Shrine and the Kiou Shrine.{F801}{F802}The last one will be found on the{F801}{F804,5}east side{F804,0} of Tokyo, in a shrine known{F801}as the Kabuto Shrine.{F801}{F802}Once you have collected all three of{F801}the holy vessels, please bring them{F801}to me.{F801}{F802}All the shrines have been consumed by{F801}the Domains of foreign demons that{F801}guard the holy vessels.{F801}{F802}Please, be careful.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Futotama\0{F87A,-595}{F813,1,413005}Hm? You have already collected the{F801}three holy vessels?{F801}{F802}All of them? Already!?{F801}{F802}{F813,1,413102}Ah, finally. The three holy vessels{F801}have been collected. With these, I{F801}will be able to free Amaterasu!{F801}{F802}Let us go, {F843,0}, to the land{F801}where Amaterasu is sealed...{F801}{F802}That is... The {F804,5}Tokyo Castle Ruins{F804,0}{F801}to the north of Kasumigaseki.{F801}{F802}There, I want you to deliver...{F801}No, to make an offering.{F801}{F802}I repeat, {F843,0}, go to the{F801}{F804,5}Tokyo Castle Ruins.{F804,0}{F801}</source>
+    <target>{F812}Futotama\0{F87A,-595}{F813,1,413005}Hm? You have already collected the{F801}three holy vessels?{F801}{F802}All of them? Already!?{F801}{F802}{F813,1,413102}Ah, finally. The three holy vessels{F801}have been collected. With these, I{F801}will be able to free Amaterasu!{F801}{F802}Let us go, {F843,0}, to the land{F801}where Amaterasu is sealed...{F801}{F802}That is... The {F804,5}Tokyo Castle Ruins{F804,0}{F801}to the north of Kasumigaseki.{F801}{F802}There, I want you to deliver...{F801}No, to make an offering.{F801}{F802}I repeat, {F843,0}, go to the{F801}{F804,5}Tokyo Castle Ruins.{F804,0}{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Futotama\0{F87A,-595}{F813,1,413102}Ah! You have collected all three of{F801}the holy vessels.{F801}{F802}Finally. The three holy vessels have{F801}been collected. With these, I will{F801}be able to free Amaterasu!{F801}{F802}Let us go, {F843,0}, to the land{F801}where Amaterasu is sealed...{F801}{F802}That is... The {F804,5}Tokyo Castle Ruins{F804,0}{F801}to the north of Kasumigaseki.{F801}{F802}There, I want you to deliver...{F801}No, to make an offering.{F801}{F802}I repeat, {F843,0}, go to the{F801}{F804,5}Tokyo Castle Ruins.{F804,0}{F801}</source>
+    <target>{F812}Futotama\0{F87A,-595}{F813,1,413102}Ah! You have collected all three of{F801}the holy vessels.{F801}{F802}Finally. The three holy vessels have{F801}been collected. With these, I will{F801}be able to free Amaterasu!{F801}{F802}Let us go, {F843,0}, to the land{F801}where Amaterasu is sealed...{F801}{F802}That is... The {F804,5}Tokyo Castle Ruins{F804,0}{F801}to the north of Kasumigaseki.{F801}{F802}There, I want you to deliver...{F801}No, to make an offering.{F801}{F802}I repeat, {F843,0}, go to the{F801}{F804,5}Tokyo Castle Ruins.{F804,0}{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Futotama\0{F87A,-595}{F813,1,413103}{F843,0}, go to the {F804,5}Tokyo Castle{F801}Ruins{F804,0} north of Kasumigaseki.{F801}{F802}That is where Amaterasu has been{F801}sealed.{F801}</source>
+    <target>{F812}Futotama\0{F87A,-595}{F813,1,413103}{F843,0}, go to the {F804,5}Tokyo Castle{F801}Ruins{F804,0} north of Kasumigaseki.{F801}{F802}That is where Amaterasu has been{F801}sealed.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 There is a strong seal on this{F801}place, but you sense a strange power{F801}as well...{F801}</source>
+    <target>〉 There is a strong seal on this{F801}place, but you sense a strange power{F801}as well...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The three holy vessels begin to{F801}glow, and the seal weakens...{F801}{F802}〉 Will you enter?{F801}</source>
+    <target>〉 The three holy vessels begin to{F801}glow, and the seal weakens...{F801}{F802}〉 Will you enter?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Futotama\0{F87A,-595}{F813,1,413103}Now then, {F843,0}.{F801}{F802}Give the three holy vessels as an{F801}offering.{F801}</source>
+    <target>{F812}Futotama\0{F87A,-595}{F813,1,413103}Now then, {F843,0}.{F801}{F802}Give the three holy vessels as an{F801}offering.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Futotama\0{F87A,-595}{F813,1,413101}Good work, {F843,0}. Now my greatest{F801}wish has been fulfilled...{F801}</source>
+    <target>{F812}Futotama\0{F87A,-595}{F813,1,413101}Good work, {F843,0}. Now my greatest{F801}wish has been fulfilled...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 Amaterasu's seal has been broken...{F801}</source>
+    <target>〉 Amaterasu's seal has been broken...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Amaterasu\0{F87A,-180}{F813,1,418003}Ah... I have once again returned to{F801}this world.{F801}{F802}And it is all thanks to you,{F801}{F843,0}. You have my gratitude.{F801}{F802}I apologize for the trouble that I{F801}have caused Futotama.{F801}</source>
+    <target>{F812}Amaterasu\0{F87A,-180}{F813,1,418003}Ah... I have once again returned to{F801}this world.{F801}{F802}And it is all thanks to you,{F801}{F843,0}. You have my gratitude.{F801}{F802}I apologize for the trouble that I{F801}have caused Futotama.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Futotama\0{F87A,0}{F813,1,413104}Think nothing of it. All I needed was{F801}to know that you are safe and sound,{F801}Amaterasu.{F801}{F802}I suggest you leave this land at{F801}once, so that you may recover your{F801}strength.{F801}{F802}Once you have recovered, let us{F801}return to this barren land and become{F801}the leading force in redeveloping it.{F801}{F802}The other Japanese gods shall follow{F801}your lead.{F801}</source>
+    <target>{F812}Futotama\0{F87A,0}{F813,1,413104}Think nothing of it. All I needed was{F801}to know that you are safe and sound,{F801}Amaterasu.{F801}{F802}I suggest you leave this land at{F801}once, so that you may recover your{F801}strength.{F801}{F802}Once you have recovered, let us{F801}return to this barren land and become{F801}the leading force in redeveloping it.{F801}{F802}The other Japanese gods shall follow{F801}your lead.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Amaterasu\0{F87A,-180}{F813,1,418002}Very well.{F801}{F802}I will take my leave now.{F801}{F802}But, before I go, I shall bestow a{F801}boon upon you, {F843,0}.{F801}{F802}I shall grant you a portion of the{F801}Amatsu Futotama's power.{F801}{F802}That is, the power of flight.{F801}{F802}Even a human like yourself can{F801}attain flight.{F801}</source>
+    <target>{F812}Amaterasu\0{F87A,-180}{F813,1,418002}Very well.{F801}{F802}I will take my leave now.{F801}{F802}But, before I go, I shall bestow a{F801}boon upon you, {F843,0}.{F801}{F802}I shall grant you a portion of the{F801}Amatsu Futotama's power.{F801}{F802}That is, the power of flight.{F801}{F802}Even a human like yourself can{F801}attain flight.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 {F843,0} has received{F801}Torifune's Shawl.{F801}</source>
+    <target>〉 {F843,0} has received{F801}Torifune's Shawl.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Amaterasu\0{F87A,-180}This is the best I can offer as of{F801}this moment...{F801}{F802}Now, go, for the world that you{F801}dream of...{F801}</source>
+    <target>{F812}Amaterasu\0{F87A,-180}This is the best I can offer as of{F801}this moment...{F801}{F802}Now, go, for the world that you{F801}dream of...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 Amaterasu leaves...{F801}</source>
+    <target>〉 Amaterasu leaves...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 The three holy vessels are glowing{F801}brighter than ever, as if they are{F801}reacting to one another...{F801}</source>
+    <target>〉 The three holy vessels are glowing{F801}brighter than ever, as if they are{F801}reacting to one another...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 You may now use the power of the{F801}Futotama to fly across Tokyo.{F801}{F802}〉 Press {F814,0,0} at designated{F801}spots in Tokyo to use Futotama's{F801}power to fly or land.{F801}{F802}〉 This will allow you to travel{F801}much more easily than before, so{F801}use it often.{F801}</source>
+    <target>〉 You may now use the power of the{F801}Futotama to fly across Tokyo.{F801}{F802}〉 Press {F814,0,0} at designated{F801}spots in Tokyo to use Futotama's{F801}power to fly or land.{F801}{F802}〉 This will allow you to travel{F801}much more easily than before, so{F801}use it often.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Demon\0{F87A,-595}{F813,1,413106}This is the last remaining fortress{F801}of the Amatsu... If you have no{F801}business here, then leave at once.{F801}{F802}Or, perhaps... Did you come here in{F801}regards to the job that I requested?{F801}</source>
+    <target>{F812}Demon\0{F87A,-595}{F813,1,413106}This is the last remaining fortress{F801}of the Amatsu... If you have no{F801}business here, then leave at once.{F801}{F802}Or, perhaps... Did you come here in{F801}regards to the job that I requested?{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>"Yes, I did."{F801}"No."{F801}</source>
+    <target>"Yes, I did."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Demon\0{F87A,-595}{F813,1,413009}Then you have no reason to remain{F801}in this place. Leave at once, child{F801}of man.{F801}</source>
+    <target>{F812}Demon\0{F87A,-595}{F813,1,413009}Then you have no reason to remain{F801}in this place. Leave at once, child{F801}of man.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 You decide not to give the{F801}offering and leave the area...{F801}</source>
+    <target>〉 You decide not to give the{F801}offering and leave the area...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>〉 A strong power seals this area...{F801}</source>
+    <target>〉 A strong power seals this area...{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>〉 The gate is closed.{F801}It seems no one is here...{F801}</source>
+    <target>〉 The gate is closed.{F801}It seems no one is here...{F801}</target>
+  </entry>
+</mbm>

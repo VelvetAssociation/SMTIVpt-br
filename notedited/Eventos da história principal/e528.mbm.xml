@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demonoid\0{F87A,146}{F813,1,413007}...Akira? Why are you at Shibuya? Was{F801}today trash day...?{F801}{F802}Whatever, I'm bored right now. Be my{F801}sandbag like usual.{F801}</source>
+    <target>{F812}Demonoid\0{F87A,146}{F813,1,413007}...Akira? Why are you at Shibuya? Was{F801}today trash day...?{F801}{F802}Whatever, I'm bored right now. Be my{F801}sandbag like usual.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Akira\0{F87A,85}{F813,1,401704}...Huhhhh? Did I get lost? Tokyo's a big{F801}place...{F801}{F802}I was just on my way to Shinjuku. Sorry{F801}to bother you...!{F801}</source>
+    <target>{F812}Akira\0{F87A,85}{F813,1,401704}...Huhhhh? Did I get lost? Tokyo's a big{F801}place...{F801}{F802}I was just on my way to Shinjuku. Sorry{F801}to bother you...!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Akira tugged strongly on {F843,0}'s{F801}arm...{F801}</source>
+    <target>〉 Akira tugged strongly on {F843,0}'s{F801}arm...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demonoid\0{F87A,146}{F813,1,413007}...Hm? A neurisher? What, you want us{F801}to adopt you?{F801}{F802}We only feed on young women. Sorry, but{F801}go home.{F801}</source>
+    <target>{F812}Demonoid\0{F87A,146}{F813,1,413007}...Hm? A neurisher? What, you want us{F801}to adopt you?{F801}{F802}We only feed on young women. Sorry, but{F801}go home.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demonoid\0{F87A,146}{F813,1,413002}Oh, Akira... er, Master Akira's{F801}bodyguard! I'm so honored to meet you.{F801}{F802}You're always welcome here. Have fun{F801}in Shibuya.{F801}</source>
+    <target>{F812}Demonoid\0{F87A,146}{F813,1,413002}Oh, Akira... er, Master Akira's{F801}bodyguard! I'm so honored to meet you.{F801}{F802}You're always welcome here. Have fun{F801}in Shibuya.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 You have no business here.{F801}</source>
+    <target>〉 You have no business here.{F801}</target>
+  </entry>
+</mbm>

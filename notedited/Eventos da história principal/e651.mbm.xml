@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Furtive man\0{F87A,31}{F813,1,403002}Let me explain the details of this{F801}request to you.{F801}{F802}I'm not going to name any names.{F801}I'm sure you understand.{F801}{F802}A lot of us are worried about the{F801}future right now. We were thinking{F801}about getting some magic weapons.{F801}{F802}As you probably already know, the{F801}gap between the Luxurors and{F801}Casualries has been closed.{F801}{F802}It's almost as if this world is{F801}slowly progressing towards a utopia{F801}for us.{F801}{F802}...But is this truly going to become{F801}a utopia? Is this what equality truly{F801}means?{F801}{F802}I feel that all that has happened{F801}is that we have brought everyone down{F801}to the level of the former Casualries.{F801}{F802}I believe that we must prepare for{F801}the day we have the power to pierce{F801}through to the sun shining above us!{F801}{F802}I want you to lend us your strength.{F801}Would you help us in our search for{F801}weaponry?{F801}</source>
+    <target>{F812}Furtive man\0{F87A,31}{F813,1,403002}Let me explain the details of this{F801}request to you.{F801}{F802}I'm not going to name any names.{F801}I'm sure you understand.{F801}{F802}A lot of us are worried about the{F801}future right now. We were thinking{F801}about getting some magic weapons.{F801}{F802}As you probably already know, the{F801}gap between the Luxurors and{F801}Casualries has been closed.{F801}{F802}It's almost as if this world is{F801}slowly progressing towards a utopia{F801}for us.{F801}{F802}...But is this truly going to become{F801}a utopia? Is this what equality truly{F801}means?{F801}{F802}I feel that all that has happened{F801}is that we have brought everyone down{F801}to the level of the former Casualries.{F801}{F802}I believe that we must prepare for{F801}the day we have the power to pierce{F801}through to the sun shining above us!{F801}{F802}I want you to lend us your strength.{F801}Would you help us in our search for{F801}weaponry?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Furtive man\0{F87A,31}{F813,1,403033}So you'll do it for us!?{F801}{F802}We're specifically trying to find{F801}ancient weapons known as "guns."{F801}{F802}I've only read about them in books,{F801}but apparently these weapons were{F801}completely ground-breaking.{F801}{F802}I'd prefer to get some of the larger{F801}ones. If you can, try to find us some{F801}guns known as {F804,5}bazookas.{F804,0}{F801}{F802}Why don't you try searching for them{F801}in a military facility? I mean, they{F801}are powerful weapons.{F801}{F802}I'm counting on you.{F801}</source>
+    <target>{F812}Furtive man\0{F87A,31}{F813,1,403033}So you'll do it for us!?{F801}{F802}We're specifically trying to find{F801}ancient weapons known as "guns."{F801}{F802}I've only read about them in books,{F801}but apparently these weapons were{F801}completely ground-breaking.{F801}{F802}I'd prefer to get some of the larger{F801}ones. If you can, try to find us some{F801}guns known as {F804,5}bazookas.{F804,0}{F801}{F802}Why don't you try searching for them{F801}in a military facility? I mean, they{F801}are powerful weapons.{F801}{F802}I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Furtive man\0{F87A,31}{F813,1,403012}Why don't you understand? At the{F801}rate things are going, our future{F801}holds nothing but disaster...!{F801}{F802}...I don't intend to force you into{F801}this. We will wait for you to change{F801}your mind on your own.{F801}</source>
+    <target>{F812}Furtive man\0{F87A,31}{F813,1,403012}Why don't you understand? At the{F801}rate things are going, our future{F801}holds nothing but disaster...!{F801}{F802}...I don't intend to force you into{F801}this. We will wait for you to change{F801}your mind on your own.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Furtive man\0{F87A,31}{F813,1,403002}It looks like you brought me the{F801}weapons.{F801}{F802}Did you find the bazookas?{F801}{F802}So you really did it...{F801}</source>
+    <target>{F812}Furtive man\0{F87A,31}{F813,1,403002}It looks like you brought me the{F801}weapons.{F801}{F802}Did you find the bazookas?{F801}{F802}So you really did it...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Furtive man\0{F87A,31}{F813,1,403043}The goods have been delivered.{F801}...Don't look so worried.{F801}{F802}We don't want to use these to trigger{F801}a war.{F801}{F802}These are only to be used to protect{F801}people's lives. You have my word.{F801}{F802}{F813,1,403033}...It's unlikely that our paths will{F801}ever cross again, but you have my{F801}thanks.{F801}</source>
+    <target>{F812}Furtive man\0{F87A,31}{F813,1,403043}The goods have been delivered.{F801}...Don't look so worried.{F801}{F802}We don't want to use these to trigger{F801}a war.{F801}{F802}These are only to be used to protect{F801}people's lives. You have my word.{F801}{F802}{F813,1,403033}...It's unlikely that our paths will{F801}ever cross again, but you have my{F801}thanks.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 The man leaves...{F801}</source>
+    <target>〉 The man leaves...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Furtive man\0{F87A,31}{F813,1,403042}What's wrong? You haven't found the{F801}weapons yet?{F801}{F802}Please, tell me once you've found{F801}the weapons I'm looking for.{F801}{F802}Why don't you try searching for them{F801}in a military facility? I mean, they{F801}are powerful weapons.{F801}</source>
+    <target>{F812}Furtive man\0{F87A,31}{F813,1,403042}What's wrong? You haven't found the{F801}weapons yet?{F801}{F802}Please, tell me once you've found{F801}the weapons I'm looking for.{F801}{F802}Why don't you try searching for them{F801}in a military facility? I mean, they{F801}are powerful weapons.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Furtive man\0{F87A,31}Did you bring me the weapons?{F801}</source>
+    <target>{F812}Furtive man\0{F87A,31}Did you bring me the weapons?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Furtive man\0{F87A,31}I'll keep asking as many times as I{F801}need to. Will you help us search for{F801}weapons?{F801}</source>
+    <target>{F812}Furtive man\0{F87A,31}I'll keep asking as many times as I{F801}need to. Will you help us search for{F801}weapons?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is nobody here...{F801}</source>
+    <target>〉 There is nobody here...{F801}</target>
+  </entry>
+</mbm>

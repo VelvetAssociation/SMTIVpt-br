@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A demon stands at the back of the{F801}room...{F801}</source>
+    <target>〉 A demon stands at the back of the{F801}room...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-487}{F813,1,411104}Heh heh heh... I love this world.{F801}All this chaos... It's great.{F801}{F802}{F813,1,411105}Huh? Who the hell are you, human?{F801}I'm in a good mood right now, so{F801}you'd better not ruin it for me.{F801}{F802}Go be a good boy, turn around, and{F801}get outta here before I, the great{F801}Loki, tear you a new asshole.{F801}</source>
+    <target>{F812}Demon\0{F87A,-487}{F813,1,411104}Heh heh heh... I love this world.{F801}All this chaos... It's great.{F801}{F802}{F813,1,411105}Huh? Who the hell are you, human?{F801}I'm in a good mood right now, so{F801}you'd better not ruin it for me.{F801}{F802}Go be a good boy, turn around, and{F801}get outta here before I, the great{F801}Loki, tear you a new asshole.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>"I have come to slay you."{F801}"I'll be going now."{F801}</source>
+    <target>"I have come to slay you."{F801}"I'll be going now."{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Loki\0{F87A,-487}{F813,1,411109}...I see how it is. Those damn Aesirs{F801}put you up to this, huh?{F801}{F802}Heimdall, you bastard...{F801}That persistence of his is really{F801}getting on my nerves.{F801}{F802}Heh heh heh... But, this wasn't a{F801}smart move. It looks like he wants to{F801}see what I'm really capable of.{F801}{F802}And here I was, thinking that I might{F801}just take it easy for the next century{F801}or so...{F801}{F802}Whatever. If he wants a war, he's{F801}gonna get a war.{F801}{F802}Fine. Let's see what you've got,{F801}mister mercenary!{F801}</source>
+    <target>{F812}Loki\0{F87A,-487}{F813,1,411109}...I see how it is. Those damn Aesirs{F801}put you up to this, huh?{F801}{F802}Heimdall, you bastard...{F801}That persistence of his is really{F801}getting on my nerves.{F801}{F802}Heh heh heh... But, this wasn't a{F801}smart move. It looks like he wants to{F801}see what I'm really capable of.{F801}{F802}And here I was, thinking that I might{F801}just take it easy for the next century{F801}or so...{F801}{F802}Whatever. If he wants a war, he's{F801}gonna get a war.{F801}{F802}Fine. Let's see what you've got,{F801}mister mercenary!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Loki\0{F87A,-487}{F813,1,411103}Heh heh... Smart choice, kid.{F801}Keep it up, and you'll live longer.{F801}{F802}Well, hurry up and get out.{F801}Here, I'll walk you to the exit.{F801}</source>
+    <target>{F812}Loki\0{F87A,-487}{F813,1,411103}Heh heh... Smart choice, kid.{F801}Keep it up, and you'll live longer.{F801}{F802}Well, hurry up and get out.{F801}Here, I'll walk you to the exit.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Loki\0{F87A,-487}{F813,1,411107}You again? If you don't have anything{F801}to do here, get the hell out.{F801}{F802}Now be a good boy and toddle along...{F801}Before the great Loki gets angry.{F801}</source>
+    <target>{F812}Loki\0{F87A,-487}{F813,1,411107}You again? If you don't have anything{F801}to do here, get the hell out.{F801}{F802}Now be a good boy and toddle along...{F801}Before the great Loki gets angry.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Loki\0{F87A,-487}{F813,1,411107}What the hell? I, the great Loki,{F801}was defeated by a human?{F801}{F802}Well, so much for having a war.{F801}{F802}That was pretty fun, though. Who'd{F801}have thought that this place would{F801}hold such surprises for me?{F801}{F802}Heh heh... This is why I could never{F801}quit being a god.{F801}</source>
+    <target>{F812}Loki\0{F87A,-487}{F813,1,411107}What the hell? I, the great Loki,{F801}was defeated by a human?{F801}{F802}Well, so much for having a war.{F801}{F802}That was pretty fun, though. Who'd{F801}have thought that this place would{F801}hold such surprises for me?{F801}{F802}Heh heh... This is why I could never{F801}quit being a god.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The demon laughs as he disappears...{F801}</source>
+    <target>〉 The demon laughs as he disappears...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>{F812}Demon\0{F87A,-487}{F813,1,411104}Heh heh heh... I love this world.{F801}All this chaos... It's great.{F801}{F802}{F813,1,411105}Huh? Who the hell are you, human?{F801}I'm in a good mood right now, so{F801}you'd better not ruin it for me.{F801}{F802}Go be a good boy, turn around, and{F801}get outta here before I tear you a{F801}new asshole.{F801}</source>
+    <target>{F812}Demon\0{F87A,-487}{F813,1,411104}Heh heh heh... I love this world.{F801}All this chaos... It's great.{F801}{F802}{F813,1,411105}Huh? Who the hell are you, human?{F801}I'm in a good mood right now, so{F801}you'd better not ruin it for me.{F801}{F802}Go be a good boy, turn around, and{F801}get outta here before I tear you a{F801}new asshole.{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>〉 The demon waves its hand, and{F801}darkness suddenly descends...{F801}</source>
+    <target>〉 The demon waves its hand, and{F801}darkness suddenly descends...{F801}</target>
+  </entry>
+</mbm>

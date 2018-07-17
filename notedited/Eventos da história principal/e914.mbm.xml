@@ -1,0 +1,598 @@
+<mbm>
+  <entry id="0">
+    <source>どのクÉストを受けますか?{F801}</source>
+    <target>どのクÉストを受けますか?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>1 敵を1体倒せ{F801}2 敵を3体仲魔にせよ{F801}その他{F801}やっぱりうけない{F801}</source>
+    <target>1 敵を1体倒せ{F801}2 敵を3体仲魔にせよ{F801}その他{F801}やっぱりうけない{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>3 貴重品を手に入れよ{F801}4 ナバーúを捜してほしい{F801}その他{F801}やっぱり受けない{F801}</source>
+    <target>3 貴重品を手に入れよ{F801}4 ナバーúを捜してほしい{F801}その他{F801}やっぱり受けない{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>5キチジョージの森にいる生存者を発見せよ{F801}6ミノタÚóスを討伐せよ{F801}その他{F801}やっぱり受けない{F801}</source>
+    <target>5キチジョージの森にいる生存者を発見せよ{F801}6ミノタÚóスを討伐せよ{F801}その他{F801}やっぱり受けない{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>1 敵を1体倒せ{F801}2 敵を3体仲魔にせよ{F801}3 貴重品を手に入れよ{F801}4 ナバーúを捜してほしい{F801}5キチジョージの森にいる生存者を発見せよ{F801}6ミノタÚóスを討伐せよ{F801}やっぱり受けない{F801}</source>
+    <target>1 敵を1体倒せ{F801}2 敵を3体仲魔にせよ{F801}3 貴重品を手に入れよ{F801}4 ナバーúを捜してほしい{F801}5キチジョージの森にいる生存者を発見せよ{F801}6ミノタÚóスを討伐せよ{F801}やっぱり受けない{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F87B,3,1,1,1}{F874,1}{F874,2}{F874,3}{F801}{F874,4}{F874,5}{F874,6}{F801}{F802}{F874,7}{F874,8}{F874,9}{F801}{F874,10}{F874,11}{F874,12}{F801}{F802}{F874,13}{F874,14}{F874,15}{F801}{F874,16}{F874,17}{F874,18}{F801}{F802}{F874,19}{F874,20}{F874,21}{F801}{F874,22}{F874,23}{F874,24}{F801}{F802}{F842,360}{F842,620}{F801}</source>
+    <target>{F87B,3,1,1,1}{F874,1}{F874,2}{F874,3}{F801}{F874,4}{F874,5}{F874,6}{F801}{F802}{F874,7}{F874,8}{F874,9}{F801}{F874,10}{F874,11}{F874,12}{F801}{F802}{F874,13}{F874,14}{F874,15}{F801}{F874,16}{F874,17}{F874,18}{F801}{F802}{F874,19}{F874,20}{F874,21}{F801}{F874,22}{F874,23}{F874,24}{F801}{F802}{F842,360}{F842,620}{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F87B,3,2,1,1}不機嫌そうな顔{F801}</source>
+    <target>{F87B,3,2,1,1}不機嫌そうな顔{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F87B,3,3,1,1}沈痛な面持ちの顔{F801}</source>
+    <target>{F87B,3,3,1,1}沈痛な面持ちの顔{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F87B,3,4,1,1}楽しそうな顔{F801}</source>
+    <target>{F87B,3,4,1,1}楽しそうな顔{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F87B,3,5,1,1}嬉し泣き顔{F801}</source>
+    <target>{F87B,3,5,1,1}嬉し泣き顔{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F87B,3,6,1,1}üッと一息のときにやる顔{F801}</source>
+    <target>{F87B,3,6,1,1}üッと一息のときにやる顔{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F87B,3,7,1,1}驚いている顔{F801}</source>
+    <target>{F87B,3,7,1,1}驚いている顔{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F87B,3,8,1,1}呆れ顔{F801}</source>
+    <target>{F87B,3,8,1,1}呆れ顔{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F87B,3,9,1,1}照れている顔{F801}</source>
+    <target>{F87B,3,9,1,1}照れている顔{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F87B,3,10,1,1}困惑している顔{F801}</source>
+    <target>{F87B,3,10,1,1}困惑している顔{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F87B,3,11,1,1}狂乱している顔{F801}</source>
+    <target>{F87B,3,11,1,1}狂乱している顔{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F87B,3,12,1,1}キメ顔{F801}</source>
+    <target>{F87B,3,12,1,1}キメ顔{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>クÉストを受注しますか?{F801}</source>
+    <target>クÉストを受注しますか?{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>受注したいクÉストの{F801}番号を入力してください{F801}</source>
+    <target>受注したいクÉストの{F801}番号を入力してください{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>今 受注したクÉストを{F801}達成しますか?{F801}</source>
+    <target>今 受注したクÉストを{F801}達成しますか?{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>達成したいクÉストの番号を入力してください{F801}</source>
+    <target>達成したいクÉストの番号を入力してください{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>100の位は?{F801}</source>
+    <target>100の位は?{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>10の位は?{F801}</source>
+    <target>10の位は?{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>1の位は?{F801}</source>
+    <target>1の位は?{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>0{F801}1{F801}2{F801}3{F801}</source>
+    <target>0{F801}1{F801}2{F801}3{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>0{F801}1{F801}2{F801}次へ{F801}</source>
+    <target>0{F801}1{F801}2{F801}次へ{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>3{F801}4{F801}5{F801}次へ{F801}</source>
+    <target>3{F801}4{F801}5{F801}次へ{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>6{F801}7{F801}8{F801}次へ{F801}</source>
+    <target>6{F801}7{F801}8{F801}次へ{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>9{F801}次へ{F801}やめる{F801}</source>
+    <target>9{F801}次へ{F801}やめる{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>はい{F801}いいえ{F801}</source>
+    <target>はい{F801}いいえ{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>既に1度クíÁしています{F801}</source>
+    <target>既に1度クíÁしています{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>クíÁできませんでした{F801}</source>
+    <target>クíÁできませんでした{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>{F87A,2}このクÉストは存在しません{F801}</source>
+    <target>{F87A,2}このクÉストは存在しません{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>{F87A,2}このクÉストを受注しますか?{F801}</source>
+    <target>{F87A,2}このクÉストを受注しますか?{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>{F87A,2}受注する{F801}受注しない{F801}</source>
+    <target>{F87A,2}受注する{F801}受注しない{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>{F87A,2}クÉストを受注しませんでした{F801}</source>
+    <target>{F87A,2}クÉストを受注しませんでした{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>クÉストを達成しますか?{F801}</source>
+    <target>クÉストを達成しますか?{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>達成する{F801}達成しない{F801}</source>
+    <target>達成する{F801}達成しない{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>クÉストをキャñセúしますか?{F801}</source>
+    <target>クÉストをキャñセúしますか?{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>キャñセúする{F801}キャñセúしない{F801}</source>
+    <target>キャñセúする{F801}キャñセúしない{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>クÉストをキャñセúしました{F801}</source>
+    <target>クÉストをキャñセúしました{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>クÉストをキャñセúしませんでした{F801}</source>
+    <target>クÉストをキャñセúしませんでした{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>宝箱を開ける{F801}</source>
+    <target>宝箱を開ける{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>ワー¿Íñ{F801}</source>
+    <target>ワー¿Íñ{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>ワー¿ÁÚト{F801}</source>
+    <target>ワー¿ÁÚト{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>2身合体{F801}</source>
+    <target>2身合体{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>3身合体{F801}</source>
+    <target>3身合体{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>4身合体{F801}</source>
+    <target>4身合体{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>合体終了{F801}</source>
+    <target>合体終了{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>合体事故{F801}</source>
+    <target>合体事故{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>ガáス+Áúミサッシの開き戸{F801}</source>
+    <target>ガáス+Áúミサッシの開き戸{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>金属板の開き戸{F801}</source>
+    <target>金属板の開き戸{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>Ééäーター風の金属両引き戸{F801}</source>
+    <target>Ééäーター風の金属両引き戸{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>無限発電炉ヤマトの金庫扉{F801}</source>
+    <target>無限発電炉ヤマトの金庫扉{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>シャッター小{F801}</source>
+    <target>シャッター小{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>Ééäーター扉+Ééäーター動作{F801}</source>
+    <target>Ééäーター扉+Ééäーター動作{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>ガáスの自動ドÁ{F801}</source>
+    <target>ガáスの自動ドÁ{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>ガáス張りの開き戸{F801}</source>
+    <target>ガáス張りの開き戸{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>木+金属枠の開き戸{F801}</source>
+    <target>木+金属枠の開き戸{F801}</target>
+  </entry>
+  <entry id="117">
+    <source>上質な木の扉{F801}</source>
+    <target>上質な木の扉{F801}</target>
+  </entry>
+  <entry id="118">
+    <source>石製の上開き戸{F801}</source>
+    <target>石製の上開き戸{F801}</target>
+  </entry>
+  <entry id="119">
+    <source>石製の両引き戸{F801}</source>
+    <target>石製の両引き戸{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>¿úガトíÚム門前¡áÍゾ扉{F801}</source>
+    <target>¿úガトíÚム門前¡áÍゾ扉{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>結界内有機的扉{F801}</source>
+    <target>結界内有機的扉{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>¿úート城遺跡扉{F801}</source>
+    <target>¿úート城遺跡扉{F801}</target>
+  </entry>
+  <entry id="123">
+    <source>スÍッチ付きシャッター大{F801}</source>
+    <target>スÍッチ付きシャッター大{F801}</target>
+  </entry>
+  <entry id="124">
+    <source>ワー¿扉{F801}</source>
+    <target>ワー¿扉{F801}</target>
+  </entry>
+  <entry id="125">
+    <source>¿úート城昇降床{F801}</source>
+    <target>¿úート城昇降床{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>¿úガトíÚム天地逆転{F801}</source>
+    <target>¿úガトíÚム天地逆転{F801}</target>
+  </entry>
+  <entry id="127">
+    <source>シャッター開閉スÍッチ{F801}</source>
+    <target>シャッター開閉スÍッチ{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>場面転換の音{F801}</source>
+    <target>場面転換の音{F801}</target>
+  </entry>
+  <entry id="129">
+    <source>ガñトéットの¡ネúにタッチしたときの音{F801}</source>
+    <target>ガñトéットの¡ネúにタッチしたときの音{F801}</target>
+  </entry>
+  <entry id="130">
+    <source>結界の音{F801}</source>
+    <target>結界の音{F801}</target>
+  </entry>
+  <entry id="131">
+    <source>結界に弾かれる音{F801}</source>
+    <target>結界に弾かれる音{F801}</target>
+  </entry>
+  <entry id="132">
+    <source>結界が解ける音{F801}</source>
+    <target>結界が解ける音{F801}</target>
+  </entry>
+  <entry id="133">
+    <source>車輪を転がす音{F801}</source>
+    <target>車輪を転がす音{F801}</target>
+  </entry>
+  <entry id="134">
+    <source>ノック音{F801}</source>
+    <target>ノック音{F801}</target>
+  </entry>
+  <entry id="135">
+    <source>悪魔変身音1{F801}</source>
+    <target>悪魔変身音1{F801}</target>
+  </entry>
+  <entry id="136">
+    <source>悪魔変身音2{F801}</source>
+    <target>悪魔変身音2{F801}</target>
+  </entry>
+  <entry id="137">
+    <source>チャームの音{F801}</source>
+    <target>チャームの音{F801}</target>
+  </entry>
+  <entry id="138">
+    <source>シューñとなる音{F801}</source>
+    <target>シューñとなる音{F801}</target>
+  </entry>
+  <entry id="139">
+    <source>超巨大ëスが襲いかかってくる{F801}</source>
+    <target>超巨大ëスが襲いかかってくる{F801}</target>
+  </entry>
+  <entry id="140">
+    <source>Ééäーター移動{F801}</source>
+    <target>Ééäーター移動{F801}</target>
+  </entry>
+  <entry id="141">
+    <source>ガñトéットへのデータ受信中{F801}</source>
+    <target>ガñトéットへのデータ受信中{F801}</target>
+  </entry>
+  <entry id="142">
+    <source>咀嚼音{F801}</source>
+    <target>咀嚼音{F801}</target>
+  </entry>
+  <entry id="143">
+    <source>IDカードで扉を開ける音{F801}</source>
+    <target>IDカードで扉を開ける音{F801}</target>
+  </entry>
+  <entry id="144">
+    <source>IDカードで扉を開けようとしたがÉáーの音{F801}</source>
+    <target>IDカードで扉を開けようとしたがÉáーの音{F801}</target>
+  </entry>
+  <entry id="145">
+    <source>集団で攻撃を仕掛ける{F801}(ガヤ407180入り){F801}</source>
+    <target>集団で攻撃を仕掛ける{F801}(ガヤ407180入り){F801}</target>
+  </entry>
+  <entry id="146">
+    <source>締め上げる音{F801}</source>
+    <target>締め上げる音{F801}</target>
+  </entry>
+  <entry id="147">
+    <source>巨大モニタのスÍッチを入れる音(ピッ){F801}</source>
+    <target>巨大モニタのスÍッチを入れる音(ピッ){F801}</target>
+  </entry>
+  <entry id="148">
+    <source>óÚソクに火をつける音{F801}</source>
+    <target>óÚソクに火をつける音{F801}</target>
+  </entry>
+  <entry id="149">
+    <source>ワー¿音{F801}</source>
+    <target>ワー¿音{F801}</target>
+  </entry>
+  <entry id="150">
+    <source>黒きサムáÍがヘúメットを脱がされる音{F801}</source>
+    <target>黒きサムáÍがヘúメットを脱がされる音{F801}</target>
+  </entry>
+  <entry id="151">
+    <source>純喫茶フóíダの扉が開く音{F801}</source>
+    <target>純喫茶フóíダの扉が開く音{F801}</target>
+  </entry>
+  <entry id="152">
+    <source>必殺の霊的国防兵器が岩山になる音{F801}</source>
+    <target>必殺の霊的国防兵器が岩山になる音{F801}</target>
+  </entry>
+  <entry id="153">
+    <source>赤玉工場の音{F801}</source>
+    <target>赤玉工場の音{F801}</target>
+  </entry>
+  <entry id="154">
+    <source>ヤソマガツヒからガスが噴き出す音{F801}</source>
+    <target>ヤソマガツヒからガスが噴き出す音{F801}</target>
+  </entry>
+  <entry id="155">
+    <source>4大天使出現時の音{F801}</source>
+    <target>4大天使出現時の音{F801}</target>
+  </entry>
+  <entry id="156">
+    <source>ヤマトの音{F801}</source>
+    <target>ヤマトの音{F801}</target>
+  </entry>
+  <entry id="157">
+    <source>üワÍトメñが出現する音{F801}</source>
+    <target>üワÍトメñが出現する音{F801}</target>
+  </entry>
+  <entry id="158">
+    <source>üワÍトメñが消える音{F801}</source>
+    <target>üワÍトメñが消える音{F801}</target>
+  </entry>
+  <entry id="159">
+    <source>地震演出の「ゴゴゴ」{F801}</source>
+    <target>地震演出の「ゴゴゴ」{F801}</target>
+  </entry>
+  <entry id="160">
+    <source>¿úートの音{F801}</source>
+    <target>¿úートの音{F801}</target>
+  </entry>
+  <entry id="161">
+    <source>剣を抜く音{F801}</source>
+    <target>剣を抜く音{F801}</target>
+  </entry>
+  <entry id="162">
+    <source>モノを食べる音(人間){F801}</source>
+    <target>モノを食べる音(人間){F801}</target>
+  </entry>
+  <entry id="163">
+    <source>モノを飲む音(人間){F801}マサカドは084に分離{F801}</source>
+    <target>モノを飲む音(人間){F801}マサカドは084に分離{F801}</target>
+  </entry>
+  <entry id="164">
+    <source>ズブíというような音{F801}</source>
+    <target>ズブíというような音{F801}</target>
+  </entry>
+  <entry id="165">
+    <source>ケñジ出現音{F801}</source>
+    <target>ケñジ出現音{F801}</target>
+  </entry>
+  <entry id="166">
+    <source>íモコñのスÍッチを押す音{F801}</source>
+    <target>íモコñのスÍッチを押す音{F801}</target>
+  </entry>
+  <entry id="167">
+    <source>4大天使が光の柱になるときの音{F801}</source>
+    <target>4大天使が光の柱になるときの音{F801}</target>
+  </entry>
+  <entry id="168">
+    <source>ヨナタñと4大天使が合体したメúカバー登場{F801}</source>
+    <target>ヨナタñと4大天使が合体したメúカバー登場{F801}</target>
+  </entry>
+  <entry id="169">
+    <source>ワúターがヒカúに喰われている音{F801}</source>
+    <target>ワúターがヒカúに喰われている音{F801}</target>
+  </entry>
+  <entry id="170">
+    <source>ワúターとヒカúが合体したúシフÄー登場{F801}</source>
+    <target>ワúターとヒカúが合体したúシフÄー登場{F801}</target>
+  </entry>
+  <entry id="171">
+    <source>マサカドが岩山から復活する音{F801}</source>
+    <target>マサカドが岩山から復活する音{F801}</target>
+  </entry>
+  <entry id="172">
+    <source>馬の蹄の音 ゲーム的な場面転換の表現{F801}</source>
+    <target>馬の蹄の音 ゲーム的な場面転換の表現{F801}</target>
+  </entry>
+  <entry id="173">
+    <source>波打ち音{F801}</source>
+    <target>波打ち音{F801}</target>
+  </entry>
+  <entry id="174">
+    <source>水中から飛び出す音{F801}</source>
+    <target>水中から飛び出す音{F801}</target>
+  </entry>
+  <entry id="175">
+    <source>水上移動音 ゲーム的な場面転換の表現{F801}</source>
+    <target>水上移動音 ゲーム的な場面転換の表現{F801}</target>
+  </entry>
+  <entry id="176">
+    <source>赤玉を飲む音 飴玉ぐらいのサÍズ{F801}</source>
+    <target>赤玉を飲む音 飴玉ぐらいのサÍズ{F801}</target>
+  </entry>
+  <entry id="177">
+    <source>シャッターの開閉音{F801}</source>
+    <target>シャッターの開閉音{F801}</target>
+  </entry>
+  <entry id="178">
+    <source>護符が燃え尽きる音{F801}</source>
+    <target>護符が燃え尽きる音{F801}</target>
+  </entry>
+  <entry id="179">
+    <source>武器(刀をÍメージ)を捨てた時の音{F801}</source>
+    <target>武器(刀をÍメージ)を捨てた時の音{F801}</target>
+  </entry>
+  <entry id="180">
+    <source>縛られるときの音{F801}</source>
+    <target>縛られるときの音{F801}</target>
+  </entry>
+  <entry id="181">
+    <source>処刑音 キíストの処刑的なÍメージ{F801}</source>
+    <target>処刑音 キíストの処刑的なÍメージ{F801}</target>
+  </entry>
+  <entry id="182">
+    <source>ドスñという着地音{F801}</source>
+    <target>ドスñという着地音{F801}</target>
+  </entry>
+  <entry id="183">
+    <source>落とし穴が開く音 床が¡カッと{F801}</source>
+    <target>落とし穴が開く音 床が¡カッと{F801}</target>
+  </entry>
+  <entry id="184">
+    <source>鍵をかける音{F801}</source>
+    <target>鍵をかける音{F801}</target>
+  </entry>
+  <entry id="185">
+    <source>鍵を開ける音{F801}</source>
+    <target>鍵を開ける音{F801}</target>
+  </entry>
+  <entry id="186">
+    <source>希望の大魂が輝く音{F801}</source>
+    <target>希望の大魂が輝く音{F801}</target>
+  </entry>
+  <entry id="187">
+    <source>ハサミを鳴らす音{F801}</source>
+    <target>ハサミを鳴らす音{F801}</target>
+  </entry>
+  <entry id="188">
+    <source>悪魔が人間を喰う音(バキ…ëキッ){F801}</source>
+    <target>悪魔が人間を喰う音(バキ…ëキッ){F801}</target>
+  </entry>
+  <entry id="189">
+    <source>マサカドが希望の大魂を飲み込む{F801}</source>
+    <target>マサカドが希望の大魂を飲み込む{F801}</target>
+  </entry>
+  <entry id="190">
+    <source>カñバíに息を吹き掛けられる{F801}</source>
+    <target>カñバíに息を吹き掛けられる{F801}</target>
+  </entry>
+  <entry id="191">
+    <source>魔法的な効果音1{F801}</source>
+    <target>魔法的な効果音1{F801}</target>
+  </entry>
+  <entry id="192">
+    <source>魔法的な効果音2{F801}</source>
+    <target>魔法的な効果音2{F801}</target>
+  </entry>
+  <entry id="193">
+    <source>カメáのシャッター音{F801}</source>
+    <target>カメáのシャッター音{F801}</target>
+  </entry>
+  <entry id="194">
+    <source>歓声{F801}</source>
+    <target>歓声{F801}</target>
+  </entry>
+  <entry id="195">
+    <source>ブーÍñグ{F801}</source>
+    <target>ブーÍñグ{F801}</target>
+  </entry>
+  <entry id="196">
+    <source>刺殺音{F801}</source>
+    <target>刺殺音{F801}</target>
+  </entry>
+  <entry id="197">
+    <source>ガサガサ物が擦れる音{F801}</source>
+    <target>ガサガサ物が擦れる音{F801}</target>
+  </entry>
+  <entry id="198">
+    <source>割れる音{F801}</source>
+    <target>割れる音{F801}</target>
+  </entry>
+  <entry id="199">
+    <source>ÚÏッカーマñに閉じ込められる音{F801}</source>
+    <target>ÚÏッカーマñに閉じ込められる音{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>力が放出される音{F801}</source>
+    <target>力が放出される音{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>殴り音数回{F801}</source>
+    <target>殴り音数回{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>ざわめき{F801}</source>
+    <target>ざわめき{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>フÄñフÄーé1{F801}</source>
+    <target>フÄñフÄーé1{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>フÄñフÄーé2{F801}</source>
+    <target>フÄñフÄーé2{F801}</target>
+  </entry>
+  <entry id="205">
+    <source>悪魔の首を引き抜く音{F801}</source>
+    <target>悪魔の首を引き抜く音{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>鎧が崩れる音{F801}</source>
+    <target>鎧が崩れる音{F801}</target>
+  </entry>
+</mbm>

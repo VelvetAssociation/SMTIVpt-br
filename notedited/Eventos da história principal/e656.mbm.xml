@@ -1,0 +1,226 @@
+<mbm>
+  <entry id="0">
+    <source>〉 Two Casualries are here.{F801}They appear to be brothers...{F801}</source>
+    <target>〉 Two Casualries are here.{F801}They appear to be brothers...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Younger Brother\0{F87A,35}{F813,1,403033}Thank you for deciding to accept our{F801}request, Blessed Samurai.{F801}{F802}Our sister is suffering from some{F801}kind of lung ailment.{F801}{F802}It is a serious illness, and the{F801}doctor says that he cannot do much{F801}for her.{F801}{F802}But the doctor has also told us that{F801}a magical remedy may be found in the{F801}land of the Unclean Ones...{F801}{F802}If we can obtain this remedy, there{F801}may be a chance that we can cure{F801}her of her illness.{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}{F813,1,403033}Thank you for deciding to accept our{F801}request, Blessed Samurai.{F801}{F802}Our sister is suffering from some{F801}kind of lung ailment.{F801}{F802}It is a serious illness, and the{F801}doctor says that he cannot do much{F801}for her.{F801}{F802}But the doctor has also told us that{F801}a magical remedy may be found in the{F801}land of the Unclean Ones...{F801}{F802}If we can obtain this remedy, there{F801}may be a chance that we can cure{F801}her of her illness.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Older Brother\0{F87A,34}......{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}......{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Younger Brother\0{F87A,35}{F813,1,403042}I have read a book containing a{F801}description of this remedy.{F801}{F802}According to this book, our sister's{F801}illness is already in its final{F801}stage... Things are not looking well.{F801}{F802}Please, this is our last hope.{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}{F813,1,403042}I have read a book containing a{F801}description of this remedy.{F801}{F802}According to this book, our sister's{F801}illness is already in its final{F801}stage... Things are not looking well.{F801}{F802}Please, this is our last hope.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Older Brother\0{F87A,34}......{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}......{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Younger Brother\0{F87A,35}Please, would you go into the land{F801}of the Unclean Ones and find this{F801}remedy for our sister?{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}Please, would you go into the land{F801}of the Unclean Ones and find this{F801}remedy for our sister?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"I accept."{F801}"No."{F801}</source>
+    <target>"I accept."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Younger Brother\0{F87A,35}{F813,1,403033}Thank you very much.{F801}{F802}The book I read said that there was a{F801}large hospital in a place called{F801}{F804,5}Tsukiji.{F804,0}{F801}{F802}Perhaps you will be able to find the{F801}remedy there. Please, help us save{F801}our sister.{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}{F813,1,403033}Thank you very much.{F801}{F802}The book I read said that there was a{F801}large hospital in a place called{F801}{F804,5}Tsukiji.{F804,0}{F801}{F802}Perhaps you will be able to find the{F801}remedy there. Please, help us save{F801}our sister.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 The brothers leave...{F801}</source>
+    <target>〉 The brothers leave...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403202}...A moment, please.{F801}{F802}May I ask you something?{F801}{F802}My brother just asked you to find{F801}that medicine.{F801}{F802}...Do you think what you find will{F801}be able to help our sister?{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403202}...A moment, please.{F801}{F802}May I ask you something?{F801}{F802}My brother just asked you to find{F801}that medicine.{F801}{F802}...Do you think what you find will{F801}be able to help our sister?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>"I believe so."{F801}"I have my doubts."{F801}</source>
+    <target>"I believe so."{F801}"I have my doubts."{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403203}...I want to believe that, too.{F801}{F802}But I read my brother's book... and{F801}the remedy has little effect when the{F801}disease is in its final stage.{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403203}...I want to believe that, too.{F801}{F802}But I read my brother's book... and{F801}the remedy has little effect when the{F801}disease is in its final stage.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403212}...You too, then.{F801}{F802}I've read my brother's book... and{F801}the remedy has little effect when the{F801}disease is in its final stage.{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403212}...You too, then.{F801}{F802}I've read my brother's book... and{F801}the remedy has little effect when the{F801}disease is in its final stage.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403242}My sister is in extremely poor{F801}health. I honestly have little faith{F801}in any medicine's ability to save her.{F801}{F802}I think anything we do to help at{F801}this point will only prolong her{F801}suffering.{F801}{F802}...So I'd rather let her die{F801}peacefully.{F801}{F802}I'm pretty sure my brother has begun{F801}to realize this on his own.{F801}{F802}But... He is far too kind to allow{F801}himself to say as much.{F801}{F802}......{F801}{F802}If you do bring us the remedy, then{F801}I will gladly accept it.{F801}{F802}But... If you have the choice, I'd{F801}like you to bring back something{F801}that will let her die in peace.{F801}{F802}...Please.{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403242}My sister is in extremely poor{F801}health. I honestly have little faith{F801}in any medicine's ability to save her.{F801}{F802}I think anything we do to help at{F801}this point will only prolong her{F801}suffering.{F801}{F802}...So I'd rather let her die{F801}peacefully.{F801}{F802}I'm pretty sure my brother has begun{F801}to realize this on his own.{F801}{F802}But... He is far too kind to allow{F801}himself to say as much.{F801}{F802}......{F801}{F802}If you do bring us the remedy, then{F801}I will gladly accept it.{F801}{F802}But... If you have the choice, I'd{F801}like you to bring back something{F801}that will let her die in peace.{F801}{F802}...Please.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 The older brother leaves...{F801}</source>
+    <target>〉 The older brother leaves...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Younger Brother\0{F87A,35}{F813,1,403023}...Why?{F801}{F802}......{F801}{F802}...I understand. I'm sorry. I presume{F801}too much in asking a Samurai to help{F801}us.{F801}{F802}If you do ever change you mind,{F801}please help my sister.{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}{F813,1,403023}...Why?{F801}{F802}......{F801}{F802}...I understand. I'm sorry. I presume{F801}too much in asking a Samurai to help{F801}us.{F801}{F802}If you do ever change you mind,{F801}please help my sister.{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 A terrible smell fills the room.{F801}{F802}〉 From the things scattered about on{F801}the floor, it would appear that this{F801}room was used to store medication.{F801}</source>
+    <target>〉 A terrible smell fills the room.{F801}{F802}〉 From the things scattered about on{F801}the floor, it would appear that this{F801}room was used to store medication.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 ...The sound of something being eaten{F801}can be heard coming from a corner of{F801}the room.{F801}{F802}〉 A silhouette of someone gnawing on{F801}a skull slowly turns in {F843,0}'s{F801}direction...{F801}</source>
+    <target>〉 ...The sound of something being eaten{F801}can be heard coming from a corner of{F801}the room.{F801}{F802}〉 A silhouette of someone gnawing on{F801}a skull slowly turns in {F843,0}'s{F801}direction...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 The demon's Domain has receded.{F801}The hospital has returned to normal.{F801}{F802}〉 Which medication will you take?{F801}</source>
+    <target>〉 The demon's Domain has receded.{F801}The hospital has returned to normal.{F801}{F802}〉 Which medication will you take?{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>The medication for the lung disease{F801}Euthanizing drugs{F801}Take both {F801}</source>
+    <target>The medication for the lung disease{F801}Euthanizing drugs{F801}Take both {F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 The brothers have come...{F801}</source>
+    <target>〉 The brothers have come...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Younger Brother\0{F87A,35}{F813,1,403042}Were you able to find the remedy,{F801}Blessed Samurai?{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}{F813,1,403042}Were you able to find the remedy,{F801}Blessed Samurai?{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 You hand over the medication...{F801}</source>
+    <target>〉 You hand over the medication...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Younger Brother\0{F87A,35}{F813,1,403033}Thank you very much!{F801}{F802}I'm sure this will help our sister{F801}get better!{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}{F813,1,403033}Thank you very much!{F801}{F802}I'm sure this will help our sister{F801}get better!{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>〉 The polite brother falls to his{F801}knees and begins to pray with the{F801}medicine in hand...{F801}</source>
+    <target>〉 The polite brother falls to his{F801}knees and begins to pray with the{F801}medicine in hand...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403242}......{F801}{F802}The fact that you brought the cure{F801}means that you want us to take our{F801}chances with this.{F801}{F802}Very well. It's not as if I want my{F801}sister to die.{F801}{F802}I'm sure she wants to get better{F801}and for us to live as a happy family{F801}again.{F801}{F802}I'll pray that she gets better.{F801}Just like my brother.{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403242}......{F801}{F802}The fact that you brought the cure{F801}means that you want us to take our{F801}chances with this.{F801}{F802}Very well. It's not as if I want my{F801}sister to die.{F801}{F802}I'm sure she wants to get better{F801}and for us to live as a happy family{F801}again.{F801}{F802}I'll pray that she gets better.{F801}Just like my brother.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>〉 The brothers leave...{F801}</source>
+    <target>〉 The brothers leave...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 You hand the quieter brother the{F801}euthenasia drugs.{F801}</source>
+    <target>〉 You hand the quieter brother the{F801}euthenasia drugs.{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Younger Brother\0{F87A,35}...!?{F801}{F802}That... That's not the remedy, is it?{F801}It can't be...{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}...!?{F801}{F802}That... That's not the remedy, is it?{F801}It can't be...{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403242}...It is.{F801}I asked him for it.{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403242}...It is.{F801}I asked him for it.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Younger Brother\0{F87A,35}{F813,1,403023}But why...?{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}{F813,1,403023}But why...?{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403212}...We both know there's no hope.{F801}She's far too weak now, and there's{F801}no way she can possibly recover.{F801}{F802}She's been suffering for so long now.{F801}She's... barely even conscious.{F801}{F802}You've already realized that,{F801}haven't you?{F801}{F802}...It's enough already.{F801}We have to... let her go.{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403212}...We both know there's no hope.{F801}She's far too weak now, and there's{F801}no way she can possibly recover.{F801}{F802}She's been suffering for so long now.{F801}She's... barely even conscious.{F801}{F802}You've already realized that,{F801}haven't you?{F801}{F802}...It's enough already.{F801}We have to... let her go.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Younger Brother\0{F87A,35}......{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}......{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403242}My apologies, Blessed Samurai.{F801}From here on, this issue is ours{F801}to deal with.{F801}{F802}Thank you for the medicine.{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403242}My apologies, Blessed Samurai.{F801}From here on, this issue is ours{F801}to deal with.{F801}{F802}Thank you for the medicine.{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>〉 The brothers leave...{F801}</source>
+    <target>〉 The brothers leave...{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>〉 You hand over both the lung{F801}medication and the euthenasia drugs.{F801}</source>
+    <target>〉 You hand over both the lung{F801}medication and the euthenasia drugs.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>{F812}Younger Brother\0{F87A,35}{F813,1,403033}Thank you very much!{F801}{F802}I'm sure my sister will...{F801}Wait, what's this?{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}{F813,1,403033}Thank you very much!{F801}{F802}I'm sure my sister will...{F801}Wait, what's this?{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403242}I asked for it.{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403242}I asked for it.{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>{F812}Younger Brother\0{F87A,35}......!{F801}{F802}No, you couldn't!{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}......!{F801}{F802}No, you couldn't!{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403212}She's been suffering for so long.{F801}She's... barely even conscious.{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403212}She's been suffering for so long.{F801}She's... barely even conscious.{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>{F812}Younger Brother\0{F87A,35}But this... It's a magical cure!{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}But this... It's a magical cure!{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>{F812}Older Brother\0{F87A,34}......{F801}{F802}Blessed Samurai...{F801}{F802}The fact that you brought us both{F801}of these means that you want us to{F801}decide for ourselves... right?{F801}{F802}I agree. This problem is ours to{F801}handle now.{F801}{F802}I've never really spoken my mind{F801}on this before. We will come to a{F801}decision after a long discussion.{F801}{F802}Thank you for bringing us these{F801}medicines.{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}......{F801}{F802}Blessed Samurai...{F801}{F802}The fact that you brought us both{F801}of these means that you want us to{F801}decide for ourselves... right?{F801}{F802}I agree. This problem is ours to{F801}handle now.{F801}{F802}I've never really spoken my mind{F801}on this before. We will come to a{F801}decision after a long discussion.{F801}{F802}Thank you for bringing us these{F801}medicines.{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>{F812}Younger Brother\0{F87A,35}I want to take my chances with this{F801}magical remedy. I want us to be a{F801}happy family again!{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}I want to take my chances with this{F801}magical remedy. I want us to be a{F801}happy family again!{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>{F812}Older Brother\0{F87A,34}{F813,1,403212}It's not that...{F801}I don't want to be happy again...{F801}</source>
+    <target>{F812}Older Brother\0{F87A,34}{F813,1,403212}It's not that...{F801}I don't want to be happy again...{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>〉 The brothers leave, glaring at{F801}each other...{F801}</source>
+    <target>〉 The brothers leave, glaring at{F801}each other...{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>〉 You have obtained lung medication.{F801}</source>
+    <target>〉 You have obtained lung medication.{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>〉 You have obtained euthanasia{F801}drugs.{F801}</source>
+    <target>〉 You have obtained euthanasia{F801}drugs.{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>〉 The demon's Domain has receded.{F801}The hospital has returned to normal.{F801}{F802}〉 You look around, but cannot find{F801}the medicine you are looking for...{F801}</source>
+    <target>〉 The demon's Domain has receded.{F801}The hospital has returned to normal.{F801}{F802}〉 You look around, but cannot find{F801}the medicine you are looking for...{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>{F812}Younger Brother\0{F87A,35}{F813,1,403042}Have you found the remedy yet?{F801}</source>
+    <target>{F812}Younger Brother\0{F87A,35}{F813,1,403042}Have you found the remedy yet?{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register these as new quests{F801}on the list.{F801}{F802}It would seem that completing either{F801}of these quests will prevent you from{F801}completing the other.{F801}{F802}You should keep that in mind.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register these as new quests{F801}on the list.{F801}{F802}It would seem that completing either{F801}of these quests will prevent you from{F801}completing the other.{F801}{F802}You should keep that in mind.{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502044}I have something to tell you.{F801}{F802}I have merged the two quests{F801}concerning the medicine into a{F801}single entry.{F801}{F802}The quest is now on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502044}I have something to tell you.{F801}{F802}I have merged the two quests{F801}concerning the medicine into a{F801}single entry.{F801}{F802}The quest is now on the list.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502044}I'll report the update to the quest.{F801}{F802}About the other quest concerning the{F801}medicine...{F801}{F802}I will delete it, as it is no longer{F801}necessary on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502044}I'll report the update to the quest.{F801}{F802}About the other quest concerning the{F801}medicine...{F801}{F802}I will delete it, as it is no longer{F801}necessary on the list.{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,76036}I'm detecting a strong demon ahead.{F801}Do you want to go on?{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

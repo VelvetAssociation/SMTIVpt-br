@@ -1,0 +1,90 @@
+<mbm>
+  <entry id="0">
+    <source>〉 Several Hunters are here,{F801}performing Demon Fusions over and{F801}over...{F801}{F802}〉 All the Hunters have blank faces,{F801}and their fingers fly over the phones'{F801}touchscreens...{F801}{F802}〉 It's as if they are being{F801}manipulated by something else...{F801}{F802}〉 Do you want to call out to them?{F801}</source>
+    <target>〉 Several Hunters are here,{F801}performing Demon Fusions over and{F801}over...{F801}{F802}〉 All the Hunters have blank faces,{F801}and their fingers fly over the phones'{F801}touchscreens...{F801}{F802}〉 It's as if they are being{F801}manipulated by something else...{F801}{F802}〉 Do you want to call out to them?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon's voice\0{F87A,-132}{F813,1,413108}I won't let you interfere.{F801}</source>
+    <target>{F812}Demon's voice\0{F87A,-132}{F813,1,413108}I won't let you interfere.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You leave the area...{F801}</source>
+    <target>〉 You leave the area...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Baphomet\0{F87A,-132}{F813,1,413109}Curse you...{F801}</source>
+    <target>{F812}Baphomet\0{F87A,-132}{F813,1,413109}Curse you...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Cernunnos\0{F87A,0}{F813,1,478007}Well, well, well. I thought somebody{F801}was trying to get in my way.{F801}You again, huh?{F801}{F802}It's already too late. Things are{F801}just about finished.{F801}{F802}Baphomet, it's time to fuse.{F801}{F802}With this fusion, you can regain the{F801}godhood that you once held.{F801}</source>
+    <target>{F812}Cernunnos\0{F87A,0}{F813,1,478007}Well, well, well. I thought somebody{F801}was trying to get in my way.{F801}You again, huh?{F801}{F802}It's already too late. Things are{F801}just about finished.{F801}{F802}Baphomet, it's time to fuse.{F801}{F802}With this fusion, you can regain the{F801}godhood that you once held.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Baphomet\0{F87A,0}{F813,1,413103}Understood.{F801}</source>
+    <target>{F812}Baphomet\0{F87A,0}{F813,1,413103}Understood.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Baphomet enters the smartphone.{F801}You recognize the sounds of a Demon{F801}Fusion...{F801}</source>
+    <target>〉 Baphomet enters the smartphone.{F801}You recognize the sounds of a Demon{F801}Fusion...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Cernunnos\0{F87A,0}{F813,1,478001}There it is! The resurrection of the{F801}Roman Vile Pales.{F801}{F802}That's another ancient power stolen{F801}from us by God, and now regained!{F801}{F802}We are resurrecting the ancient gods'{F801}powers, to amass a force strong enough{F801}to defeat God Himself.{F801}{F802}You humans can all shut up and be{F801}our sacrifices, just like the good{F801}old days!{F801}</source>
+    <target>{F812}Cernunnos\0{F87A,0}{F813,1,478001}There it is! The resurrection of the{F801}Roman Vile Pales.{F801}{F802}That's another ancient power stolen{F801}from us by God, and now regained!{F801}{F802}We are resurrecting the ancient gods'{F801}powers, to amass a force strong enough{F801}to defeat God Himself.{F801}{F802}You humans can all shut up and be{F801}our sacrifices, just like the good{F801}old days!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The demons disappear...{F801}</source>
+    <target>〉 The demons disappear...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Freed Hunter\0{F87A,67}{F813,1,403042}What the--?{F801}{F802}What am I doing here?{F801}</source>
+    <target>{F812}Freed Hunter\0{F87A,67}{F813,1,403042}What the--?{F801}{F802}What am I doing here?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 You explain the situation to the{F801}Hunters...{F801}</source>
+    <target>〉 You explain the situation to the{F801}Hunters...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hunter\0{F87A,67}{F813,1,403043}I see... So a demon did all this...?{F801}{F802}Hm. My phone shows that someone's{F801}been using it for a whole lot of{F801}fusions lately... Guess you're right.{F801}{F802}Looks like you saved our lives.{F801}Thanks, man.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,1,403043}I see... So a demon did all this...?{F801}{F802}Hm. My phone shows that someone's{F801}been using it for a whole lot of{F801}fusions lately... Guess you're right.{F801}{F802}Looks like you saved our lives.{F801}Thanks, man.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 The Hunters leave...{F801}</source>
+    <target>〉 The Hunters leave...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>〉 You hear a demon's voice...{F801}</source>
+    <target>〉 You hear a demon's voice...{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 Another demon appears...{F801}</source>
+    <target>〉 Another demon appears...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 According to the map, this place{F801}is called the "Seibo Department{F801}Store."{F801}{F802}〉 There are signs that someone has{F801}apparently been trying to repair the{F801}old elevator in the back...{F801}</source>
+    <target>〉 According to the map, this place{F801}is called the "Seibo Department{F801}Store."{F801}{F802}〉 There are signs that someone has{F801}apparently been trying to repair the{F801}old elevator in the back...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 You have no more business here...{F801}</source>
+    <target>〉 You have no more business here...{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 Will you use the elevator to go{F801}to the top floor?{F801}</source>
+    <target>〉 Will you use the elevator to go{F801}to the top floor?{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>〉 You've arrived at the top...{F801}</source>
+    <target>〉 You've arrived at the top...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>〉 You leave the area...{F801}</source>
+    <target>〉 You leave the area...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 According to the map, this place{F801}is called the "Seibo Department{F801}Store."{F801}{F802}〉 There are signs that someone has{F801}apparently been trying to repair the{F801}elevator...{F801}</source>
+    <target>〉 According to the map, this place{F801}is called the "Seibo Department{F801}Store."{F801}{F802}〉 There are signs that someone has{F801}apparently been trying to repair the{F801}elevator...{F801}</target>
+  </entry>
+</mbm>

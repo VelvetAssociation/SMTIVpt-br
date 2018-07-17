@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A demon is standing in the back{F801}of the room...{F801}</source>
+    <target>〉 A demon is standing in the back{F801}of the room...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-34}{F813,0,668000}I haven't seen you before, human.{F801}Do you have business with me?{F801}</source>
+    <target>{F812}Demon\0{F87A,-34}{F813,0,668000}I haven't seen you before, human.{F801}Do you have business with me?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 You ask the demon whether there is{F801}food here...{F801}</source>
+    <target>〉 You ask the demon whether there is{F801}food here...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-34}{F813,0,668001}Yes, the room in the back is filled{F801}with corn.{F801}{F802}{F813,0,668002}However, giving it to humans is{F801}forbidden. I can't allow you to pass.{F801}{F802}{F813,0,668003}If you really want it, then you'll{F801}have to go through me.{F801}</source>
+    <target>{F812}Demon\0{F87A,-34}{F813,0,668001}Yes, the room in the back is filled{F801}with corn.{F801}{F802}{F813,0,668002}However, giving it to humans is{F801}forbidden. I can't allow you to pass.{F801}{F802}{F813,0,668003}If you really want it, then you'll{F801}have to go through me.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Will you fight the demon?{F801}</source>
+    <target>〉 Will you fight the demon?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Demon\0{F87A,-34}{F813,0,668004}Good. I, Tlazolteotl, will accept any{F801}challenger.{F801}</source>
+    <target>{F812}Demon\0{F87A,-34}{F813,0,668004}Good. I, Tlazolteotl, will accept any{F801}challenger.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Demon\0{F87A,-34}{F813,0,668005}What? Giving up already?{F801}Get the hell out of here...{F801}</source>
+    <target>{F812}Demon\0{F87A,-34}{F813,0,668005}What? Giving up already?{F801}Get the hell out of here...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Demon\0{F87A,-34}{F813,0,668006}You again?{F801}{F802}{F813,0,668007}You're not going to get any of this{F801}food without defeating me first.{F801}So, what's it going to be?{F801}</source>
+    <target>{F812}Demon\0{F87A,-34}{F813,0,668006}You again?{F801}{F802}{F813,0,668007}You're not going to get any of this{F801}food without defeating me first.{F801}So, what's it going to be?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Tlazolteotl\0{F87A,-34}{F813,0,668008}Ah, well, you win. I was starting to{F801}get tired of the taste of corpses{F801}anyway...{F801}{F802}{F813,0,668009}I've unlocked the room in the back.{F801}Do whatever you want with the corn.{F801}</source>
+    <target>{F812}Tlazolteotl\0{F87A,-34}{F813,0,668008}Ah, well, you win. I was starting to{F801}get tired of the taste of corpses{F801}anyway...{F801}{F802}{F813,0,668009}I've unlocked the room in the back.{F801}Do whatever you want with the corn.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 Tlazolteotl disappears...{F801}</source>
+    <target>〉 Tlazolteotl disappears...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Shelter inhabitant\0{F87A,97}{F813,0,668010}The demon has been defeated!{F801}{F802}{F813,0,668011}We can get our food supplies now!{F801}Thank you!{F801}</source>
+    <target>{F812}Shelter inhabitant\0{F87A,97}{F813,0,668010}The demon has been defeated!{F801}{F802}{F813,0,668011}We can get our food supplies now!{F801}Thank you!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The people from the shelter start{F801}carrying the food out...{F801}</source>
+    <target>〉 The people from the shelter start{F801}carrying the food out...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Female voice\0{F87A,-104}{F813,0,668012}So, Tlazolteotl has been{F801}defeated...{F801}</source>
+    <target>{F812}Female voice\0{F87A,-104}{F813,0,668012}So, Tlazolteotl has been{F801}defeated...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Demon\0{F87A,-104}{F813,0,668013}The goddess Tlazolteotl was sent to{F801}this world by the gods to annihilate{F801}humans, just like many other demons.{F801}{F802}{F813,0,668014}Her job was to eat the corpses of the{F801}dead and clean impurities from the{F801}world.{F801}{F802}{F813,0,668015}Do you know why she kept all that corn{F801}that she would never eat?{F801}</source>
+    <target>{F812}Demon\0{F87A,-104}{F813,0,668013}The goddess Tlazolteotl was sent to{F801}this world by the gods to annihilate{F801}humans, just like many other demons.{F801}{F802}{F813,0,668014}Her job was to eat the corpses of the{F801}dead and clean impurities from the{F801}world.{F801}{F802}{F813,0,668015}Do you know why she kept all that corn{F801}that she would never eat?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>"She wanted the people to have it."{F801}"I do not know."{F801}</source>
+    <target>"She wanted the people to have it."{F801}"I do not know."{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Demon\0{F87A,-104}{F813,0,668016}Yes, that's right. It would seem that{F801}you understand.{F801}{F802}{F813,0,668017}I'm sure she is happy that the one to{F801}defeat her was someone like you.{F801}</source>
+    <target>{F812}Demon\0{F87A,-104}{F813,0,668016}Yes, that's right. It would seem that{F801}you understand.{F801}{F802}{F813,0,668017}I'm sure she is happy that the one to{F801}defeat her was someone like you.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Demon\0{F87A,-104}{F813,0,668018}I expected as much... That's why I'm{F801}here to tell you.{F801}{F802}{F813,0,668019}What she truly wanted was to share{F801}this food supply with the people.{F801}</source>
+    <target>{F812}Demon\0{F87A,-104}{F813,0,668018}I expected as much... That's why I'm{F801}here to tell you.{F801}{F802}{F813,0,668019}What she truly wanted was to share{F801}this food supply with the people.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Demon\0{F87A,-104}{F813,0,668020}She... Tlazolteotl was originally a{F801}goddess of the harvest.{F801}{F802}{F813,0,668021}She wished to return the corn that the{F801}humans worked so hard to grow.{F801}{F802}{F813,0,668022}However, the gods that sent her here{F801}seek the destruction of the human{F801}race, and would not allow that.{F801}{F802}{F813,0,668023}And so, the goddess Tlazolteotl{F801}chose to allow herself to be slain{F801}for the sake of the people.{F801}{F802}{F813,0,668024}...That is all that I wanted to say.{F801}{F802}{F813,0,668025}My job here was to transport the souls{F801}that she purified, but that is{F801}unnecessary now.{F801}{F802}{F813,0,668026}Please treasure the memories of{F801}those that have died, as well as{F801}this gift from the goddess.{F801}</source>
+    <target>{F812}Demon\0{F87A,-104}{F813,0,668020}She... Tlazolteotl was originally a{F801}goddess of the harvest.{F801}{F802}{F813,0,668021}She wished to return the corn that the{F801}humans worked so hard to grow.{F801}{F802}{F813,0,668022}However, the gods that sent her here{F801}seek the destruction of the human{F801}race, and would not allow that.{F801}{F802}{F813,0,668023}And so, the goddess Tlazolteotl{F801}chose to allow herself to be slain{F801}for the sake of the people.{F801}{F802}{F813,0,668024}...That is all that I wanted to say.{F801}{F802}{F813,0,668025}My job here was to transport the souls{F801}that she purified, but that is{F801}unnecessary now.{F801}{F802}{F813,0,668026}Please treasure the memories of{F801}those that have died, as well as{F801}this gift from the goddess.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 The demon leaves...{F801}</source>
+    <target>〉 The demon leaves...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 A demon appears before you...{F801}{F802}〉 It does not appear to be hostile.{F801}</source>
+    <target>〉 A demon appears before you...{F801}{F802}〉 It does not appear to be hostile.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Demon\0{F87A,-34}{F813,0,419009}What are you doing here? Sorry, but{F801}I don't have any business with living{F801}humans.{F801}{F802}...Do you want me to play with you{F801}when you did? Well, you do look tasty.{F801}</source>
+    <target>{F812}Demon\0{F87A,-34}{F813,0,419009}What are you doing here? Sorry, but{F801}I don't have any business with living{F801}humans.{F801}{F802}...Do you want me to play with you{F801}when you did? Well, you do look tasty.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 The demon smiles, and everything{F801}suddenly goes dark...{F801}</source>
+    <target>〉 The demon smiles, and everything{F801}suddenly goes dark...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

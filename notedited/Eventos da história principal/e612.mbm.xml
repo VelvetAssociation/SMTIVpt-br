@@ -1,0 +1,98 @@
+<mbm>
+  <entry id="0">
+    <source>〉 You find a boy who looks lost.{F801}</source>
+    <target>〉 You find a boy who looks lost.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Lost Boy\0{F87A,32}{F813,1,404003}Mister... Hey... *sniff*{F801}A-Are you... a Samurai?{F801}{F802}I was training, but then a lot of{F801}demons came, and I got scared and{F801}ran, and then I hid, and then...{F801}{F802}Huh? I'm Timothy.{F801}How do you know my name?{F801}</source>
+    <target>{F812}Lost Boy\0{F87A,32}{F813,1,404003}Mister... Hey... *sniff*{F801}A-Are you... a Samurai?{F801}{F802}I was training, but then a lot of{F801}demons came, and I got scared and{F801}ran, and then I hid, and then...{F801}{F802}Huh? I'm Timothy.{F801}How do you know my name?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Timothy has joined you.{F801}</source>
+    <target>〉 Timothy has joined you.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Timothy\0{F87A,32}{F813,1,404031}What? Mom asked you to come looking{F801}for me?{F801}{F802}She's waiting at Mikado Castle, huh?{F801}Is that where we're going?{F801}{F802}{F813,1,404033}Thanks, Mister Samurai! I've always{F801}wanted to see the castle!{F801}</source>
+    <target>{F812}Timothy\0{F87A,32}{F813,1,404031}What? Mom asked you to come looking{F801}for me?{F801}{F802}She's waiting at Mikado Castle, huh?{F801}Is that where we're going?{F801}{F802}{F813,1,404033}Thanks, Mister Samurai! I've always{F801}wanted to see the castle!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Timothy, the lost child, is here.{F801}</source>
+    <target>〉 Timothy, the lost child, is here.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 Timothy has joined you.{F801}</source>
+    <target>〉 Timothy has joined you.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Timothy\0{F87A,32}{F813,1,404013}Psst! Mister! I'm over here...{F801}{F802}I was scared of the demons, but I was{F801}a good boy, and stayed hidden.{F801}</source>
+    <target>{F812}Timothy\0{F87A,32}{F813,1,404013}Psst! Mister! I'm over here...{F801}{F802}I was scared of the demons, but I was{F801}a good boy, and stayed hidden.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Unable to protect Timothy, {F843,0}{F801}returned to Timothy's original hiding{F801}spot and made sure he was safe from demons.{F801}</source>
+    <target>〉 Unable to protect Timothy, {F843,0}{F801}returned to Timothy's original hiding{F801}spot and made sure he was safe from demons.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 Timothy has left the party.{F801}</source>
+    <target>〉 Timothy has left the party.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Timothy's Mother\0{F87A,36}{F813,1,403311}Oh! Timothy! Are you all right?{F801}You had me so worried...{F801}</source>
+    <target>{F812}Timothy's Mother\0{F87A,36}{F813,1,403311}Oh! Timothy! Are you all right?{F801}You had me so worried...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 Timothy has left the party.{F801}</source>
+    <target>〉 Timothy has left the party.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Timothy\0{F87A,32}{F813,1,404032}Mister Samurai was so cool!{F801}{F802}When I grow up, I'm going to become{F801}a Samurai and protect Mom from demons!{F801}</source>
+    <target>{F812}Timothy\0{F87A,32}{F813,1,404032}Mister Samurai was so cool!{F801}{F802}When I grow up, I'm going to become{F801}a Samurai and protect Mom from demons!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Timothy's Mother\0{F87A,36}{F813,1,403321}Timothy! You shouldn't go wandering{F801}outside! It's so dangerous outside{F801}nowadays.{F801}{F802}Thank you so much, Master Samurai...{F801}I am so grateful.{F801}{F802}It may not be much, but please accept{F801}this as a sign of my gratitude.{F801}</source>
+    <target>{F812}Timothy's Mother\0{F87A,36}{F813,1,403321}Timothy! You shouldn't go wandering{F801}outside! It's so dangerous outside{F801}nowadays.{F801}{F802}Thank you so much, Master Samurai...{F801}I am so grateful.{F801}{F802}It may not be much, but please accept{F801}this as a sign of my gratitude.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Timothy\0{F87A,32}{F813,1,404033}Thank you for saving me!{F801}Bye-bye, Mister Samurai.{F801}</source>
+    <target>{F812}Timothy\0{F87A,32}{F813,1,404033}Thank you for saving me!{F801}Bye-bye, Mister Samurai.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Timothy's Mother\0{F87A,36}{F813,1,403322}...Oh, Timothy!{F801}Where did you go...?{F801}</source>
+    <target>{F812}Timothy's Mother\0{F87A,36}{F813,1,403322}...Oh, Timothy!{F801}Where did you go...?{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Timothy's Mother\0{F87A,36}{F813,1,403303}Oh!{F801}Master Samurai.{F801}{F802}You came here because you saw my{F801}request in the tavern, correct?{F801}{F802}Please, help me look for my son.{F801}He has been missing since yesterday.{F801}{F802}I fear he has gone into the {F804,5}forest{F804,0}{F801}again... Who knows when those demons{F801}are going to begin to reappear?{F801}{F802}Please, help me find Timothy!{F801}</source>
+    <target>{F812}Timothy's Mother\0{F87A,36}{F813,1,403303}Oh!{F801}Master Samurai.{F801}{F802}You came here because you saw my{F801}request in the tavern, correct?{F801}{F802}Please, help me look for my son.{F801}He has been missing since yesterday.{F801}{F802}I fear he has gone into the {F804,5}forest{F804,0}{F801}again... Who knows when those demons{F801}are going to begin to reappear?{F801}{F802}Please, help me find Timothy!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Timothy's Mother\0{F87A,36}{F813,1,403303}Please, help me find Timothy.{F801}{F802}I am certain that he has gotten lost{F801}in the {F804,5}forest...{F804,0}{F801}</source>
+    <target>{F812}Timothy's Mother\0{F87A,36}{F813,1,403303}Please, help me find Timothy.{F801}{F802}I am certain that he has gotten lost{F801}in the {F804,5}forest...{F804,0}{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 {F843,0} tells Timothy about how{F801}his mother had been worried...{F801}</source>
+    <target>〉 {F843,0} tells Timothy about how{F801}his mother had been worried...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Timothy\0{F87A,32}{F813,1,404002}I was scared of the demons, but I was{F801}a good boy, and stayed hidden.{F801}{F802}We're finally out of the forest.{F801}</source>
+    <target>{F812}Timothy\0{F87A,32}{F813,1,404002}I was scared of the demons, but I was{F801}a good boy, and stayed hidden.{F801}{F802}We're finally out of the forest.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>While carrying Timothy, {F843,0}{F801}will only be able to use the "Run" and{F801}"Next" commands in battle.{F801}{F802}Also, when {F843,0} takes damage,{F801}Timothy will take damage also.{F801}</source>
+    <target>While carrying Timothy, {F843,0}{F801}will only be able to use the "Run" and{F801}"Next" commands in battle.{F801}{F802}Also, when {F843,0} takes damage,{F801}Timothy will take damage also.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 You cannot enter right now.{F801}</source>
+    <target>〉 You cannot enter right now.{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 You must either finish or give up{F801}on your current quest.{F801}</source>
+    <target>〉 You must either finish or give up{F801}on your current quest.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Samurai on Duty\0{F87A,117}{F813,0,932}You there! Who is that with you?{F801}{F802}No one is allowed to enter this place{F801}without permission.{F801}</source>
+    <target>{F812}Samurai on Duty\0{F87A,117}{F813,0,932}You there! Who is that with you?{F801}{F802}No one is allowed to enter this place{F801}without permission.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 {F843,0} takes Timothy to the{F801}outskirts of the city, where Timothy's{F801}mother is waiting for them.{F801}</source>
+    <target>〉 {F843,0} takes Timothy to the{F801}outskirts of the city, where Timothy's{F801}mother is waiting for them.{F801}</target>
+  </entry>
+</mbm>

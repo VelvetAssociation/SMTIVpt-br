@@ -1,0 +1,166 @@
+<mbm>
+  <entry id="0">
+    <source>〉 An angel stands along the path...{F801}</source>
+    <target>〉 An angel stands along the path...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Aniel\0{F87A,-17}{F813,0,663000}Honorable Samurai.{F801}I thank you for taking this quest.{F801}{F802}{F813,0,663001}I beseech thee to slay four demons.{F801}{F802}{F813,0,663002}One of these demons resides in a{F801}place called {F804,5}Nakano,{F804,0} and another in{F801}a place called {F804,5}Ryogoku.{F804,0}{F801}{F802}{F813,0,663003}The third in a place called {F804,5}Shiba,{F804,0}{F801}and the last can be found in a place{F801}called {F804,5}Komagome.{F804,0}{F801}{F802}{F813,0,663004}These four have been chosen as{F801}sacrifices to facilitate the creation{F801}of a certain angel.{F801}{F802}{F813,0,663005}The only Samurai we would entrust{F801}such a difficult task to... is thee.{F801}{F802}{F813,0,663006}Now, go. Hasten the completion of the{F801}ritual, for this is the will of our{F801}Lord.{F801}</source>
+    <target>{F812}Aniel\0{F87A,-17}{F813,0,663000}Honorable Samurai.{F801}I thank you for taking this quest.{F801}{F802}{F813,0,663001}I beseech thee to slay four demons.{F801}{F802}{F813,0,663002}One of these demons resides in a{F801}place called {F804,5}Nakano,{F804,0} and another in{F801}a place called {F804,5}Ryogoku.{F804,0}{F801}{F802}{F813,0,663003}The third in a place called {F804,5}Shiba,{F804,0}{F801}and the last can be found in a place{F801}called {F804,5}Komagome.{F804,0}{F801}{F802}{F813,0,663004}These four have been chosen as{F801}sacrifices to facilitate the creation{F801}of a certain angel.{F801}{F802}{F813,0,663005}The only Samurai we would entrust{F801}such a difficult task to... is thee.{F801}{F802}{F813,0,663006}Now, go. Hasten the completion of the{F801}ritual, for this is the will of our{F801}Lord.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Aniel\0{F87A,-17}Thou must slay the demons residing in{F801}Nakano, Ryogoku, Shiba, and Komagome.{F801}{F802}We are counting on you, {F843,0}.{F801}Complete the ritual, for this is the{F801}Lord's will.{F801}</source>
+    <target>{F812}Aniel\0{F87A,-17}Thou must slay the demons residing in{F801}Nakano, Ryogoku, Shiba, and Komagome.{F801}{F802}We are counting on you, {F843,0}.{F801}Complete the ritual, for this is the{F801}Lord's will.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 An angel appears before you...{F801}</source>
+    <target>〉 An angel appears before you...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Messenger Angel\0{F87A,-76}{F813,0,663007}Magnificent work, {F843,0}.{F801}{F802}{F813,0,663008}I have been sent by Aniel to retrieve{F801}this demon's head.{F801}{F802}{F813,0,663009}This shall become the head of a lion.{F801}Let it now be sent to the Lord's side.{F801}</source>
+    <target>{F812}Messenger Angel\0{F87A,-76}{F813,0,663007}Magnificent work, {F843,0}.{F801}{F802}{F813,0,663008}I have been sent by Aniel to retrieve{F801}this demon's head.{F801}{F802}{F813,0,663009}This shall become the head of a lion.{F801}Let it now be sent to the Lord's side.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 The angel dispatched by Aniel{F801}rips the demon's head off...{F801}</source>
+    <target>〉 The angel dispatched by Aniel{F801}rips the demon's head off...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Messenger Angel\0{F87A,-76}{F813,0,663010}Now, go. You must slay the demons{F801}that remain.{F801}</source>
+    <target>{F812}Messenger Angel\0{F87A,-76}{F813,0,663010}Now, go. You must slay the demons{F801}that remain.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The angel leaves...{F801}</source>
+    <target>〉 The angel leaves...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 An angel appears before you...{F801}</source>
+    <target>〉 An angel appears before you...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Messenger Angel\0{F87A,-76}{F813,0,663011}Magnificent work, {F843,0}.{F801}{F802}{F813,0,663012}I have been sent by Aniel to retrieve{F801}this demon's head.{F801}{F802}{F813,0,663013}This shall become the head of a bull.{F801}Let it now be sent to the Lord's side.{F801}</source>
+    <target>{F812}Messenger Angel\0{F87A,-76}{F813,0,663011}Magnificent work, {F843,0}.{F801}{F802}{F813,0,663012}I have been sent by Aniel to retrieve{F801}this demon's head.{F801}{F802}{F813,0,663013}This shall become the head of a bull.{F801}Let it now be sent to the Lord's side.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The angel dispatched by Aniel{F801}rips the demon's head off...{F801}</source>
+    <target>〉 The angel dispatched by Aniel{F801}rips the demon's head off...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Messenger Angel\0{F87A,-76}{F813,0,663014}Now, go. You must slay the demons{F801}that remain.{F801}</source>
+    <target>{F812}Messenger Angel\0{F87A,-76}{F813,0,663014}Now, go. You must slay the demons{F801}that remain.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 The angel leaves...{F801}</source>
+    <target>〉 The angel leaves...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 An angel appears before you...{F801}</source>
+    <target>〉 An angel appears before you...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Messenger Angel\0{F87A,-76}{F813,0,663015}Magnificent work, {F843,0}.{F801}{F802}{F813,0,663016}I have been sent by Aniel to retrieve{F801}this demon's head.{F801}{F802}{F813,0,663017}This shall become the head of an eagle.{F801}Let it now be sent to the Lord's side.{F801}</source>
+    <target>{F812}Messenger Angel\0{F87A,-76}{F813,0,663015}Magnificent work, {F843,0}.{F801}{F802}{F813,0,663016}I have been sent by Aniel to retrieve{F801}this demon's head.{F801}{F802}{F813,0,663017}This shall become the head of an eagle.{F801}Let it now be sent to the Lord's side.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>〉 The angel dispatched by Aniel{F801}rips the demon's head off...{F801}</source>
+    <target>〉 The angel dispatched by Aniel{F801}rips the demon's head off...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Messenger Angel\0{F87A,-76}{F813,0,663018}Now, go. You must slay the demons{F801}that remain.{F801}</source>
+    <target>{F812}Messenger Angel\0{F87A,-76}{F813,0,663018}Now, go. You must slay the demons{F801}that remain.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>〉 The angel leaves...{F801}</source>
+    <target>〉 The angel leaves...{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 An angel appears before you...{F801}</source>
+    <target>〉 An angel appears before you...{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Messenger Angel\0{F87A,-76}{F813,0,663019}Magnificent work, {F843,0}.{F801}{F802}{F813,0,663020}I have been sent by Aniel to retrieve{F801}this demon's head.{F801}{F802}{F813,0,663021}This shall become the head of a man.{F801}Let it now be sent to the Lord's side.{F801}</source>
+    <target>{F812}Messenger Angel\0{F87A,-76}{F813,0,663019}Magnificent work, {F843,0}.{F801}{F802}{F813,0,663020}I have been sent by Aniel to retrieve{F801}this demon's head.{F801}{F802}{F813,0,663021}This shall become the head of a man.{F801}Let it now be sent to the Lord's side.{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>〉 The angel dispatched by Aniel{F801}rips the demon's head off...{F801}</source>
+    <target>〉 The angel dispatched by Aniel{F801}rips the demon's head off...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Messenger Angel\0{F87A,-76}{F813,0,663022}Now, go. You must slay the demons{F801}that remain.{F801}</source>
+    <target>{F812}Messenger Angel\0{F87A,-76}{F813,0,663022}Now, go. You must slay the demons{F801}that remain.{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>〉 The angel leaves...{F801}</source>
+    <target>〉 The angel leaves...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Voice from the sky\0{F87A,1}{F813,0,663023}All the heads have now been gathered.{F801}</source>
+    <target>{F812}Voice from the sky\0{F87A,1}{F813,0,663023}All the heads have now been gathered.{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Aniel\0{F87A,-17}{F813,0,663024}The time has come to bring the Seraph{F801}into this world.{F801}{F802}{F813,0,663025}Let us begin. Bring forth the four{F801}heads for the sacrifice...{F801}</source>
+    <target>{F812}Aniel\0{F87A,-17}{F813,0,663024}The time has come to bring the Seraph{F801}into this world.{F801}{F802}{F813,0,663025}Let us begin. Bring forth the four{F801}heads for the sacrifice...{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Seraph\0{F87A,-12}{F813,0,663032}I am the angel of the Lord's burning{F801}flame. The children of men refer to{F801}me as Seraph...{F801}</source>
+    <target>{F812}Seraph\0{F87A,-12}{F813,0,663032}I am the angel of the Lord's burning{F801}flame. The children of men refer to{F801}me as Seraph...{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Aniel\0{F87A,-17}{F813,0,663033}The Seraphs are the highest-ranking{F801}of the angels, as well as our greatest{F801}weapons... the very flame of God.{F801}{F802}{F813,0,663034}With this power, we are now prepared{F801}for the great battle that is{F801}forthcoming.{F801}</source>
+    <target>{F812}Aniel\0{F87A,-17}{F813,0,663033}The Seraphs are the highest-ranking{F801}of the angels, as well as our greatest{F801}weapons... the very flame of God.{F801}{F802}{F813,0,663034}With this power, we are now prepared{F801}for the great battle that is{F801}forthcoming.{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>〉 Aniel and the Seraph leave...{F801}</source>
+    <target>〉 Aniel and the Seraph leave...{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Aniel\0{F87A,1}{F813,0,663026}Matthew, in the center.{F801}</source>
+    <target>{F812}Aniel\0{F87A,1}{F813,0,663026}Matthew, in the center.{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Aniel\0{F87A,1}{F813,0,663027}John, to the right.{F801}</source>
+    <target>{F812}Aniel\0{F87A,1}{F813,0,663027}John, to the right.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Aniel\0{F87A,1}{F813,0,663028}Mark, to the left.{F801}</source>
+    <target>{F812}Aniel\0{F87A,1}{F813,0,663028}Mark, to the left.{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>{F812}Aniel\0{F87A,1}{F813,0,663029}Luke, at the bottom.{F801}</source>
+    <target>{F812}Aniel\0{F87A,1}{F813,0,663029}Luke, at the bottom.{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Aniel\0{F87A,1}{F813,0,663030}Now, by the names of the saints,{F801}show us your radiant form...{F801}{F802}{F813,0,663031}...and show us the land where the{F801}saints are born.{F801}</source>
+    <target>{F812}Aniel\0{F87A,1}{F813,0,663030}Now, by the names of the saints,{F801}show us your radiant form...{F801}{F802}{F813,0,663031}...and show us the land where the{F801}saints are born.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>〉 The angel draws four characters{F801}on the ground and places one of the{F801}heads on each...{F801}</source>
+    <target>〉 The angel draws four characters{F801}on the ground and places one of the{F801}heads on each...{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>〉 A blinding light envelops the{F801}human head, and it disappears.{F801}</source>
+    <target>〉 A blinding light envelops the{F801}human head, and it disappears.{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>〉 A blinding light envelops the{F801}eagle head, and it disappears.{F801}</source>
+    <target>〉 A blinding light envelops the{F801}eagle head, and it disappears.{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>〉 A blinding light envelops the{F801}lion head, and it disappears.{F801}</source>
+    <target>〉 A blinding light envelops the{F801}lion head, and it disappears.{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>〉 A blinding light envelops the{F801}bull head, and it disappears.{F801}</source>
+    <target>〉 A blinding light envelops the{F801}bull head, and it disappears.{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>〉 The Seraph remains silent and{F801}continues to radiate light...{F801}</source>
+    <target>〉 The Seraph remains silent and{F801}continues to radiate light...{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>{F812}Aniel\0{F87A,-17}{F813,0,663035}...Now, this Seraph and I shall return{F801}to the Lord's side.{F801}{F802}{F813,0,663036}If thou art in need of the Seraph's{F801}power, gather the appropriate{F801}angels.{F801}{F802}{F813,0,663037}The song of the angels shall be a{F801}beacon that draws a Seraph forth.{F801}{F802}{F813,0,663038}I thank thee for thy efforts.{F801}May the Lord's blessing be upon you.{F801}</source>
+    <target>{F812}Aniel\0{F87A,-17}{F813,0,663035}...Now, this Seraph and I shall return{F801}to the Lord's side.{F801}{F802}{F813,0,663036}If thou art in need of the Seraph's{F801}power, gather the appropriate{F801}angels.{F801}{F802}{F813,0,663037}The song of the angels shall be a{F801}beacon that draws a Seraph forth.{F801}{F802}{F813,0,663038}I thank thee for thy efforts.{F801}May the Lord's blessing be upon you.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

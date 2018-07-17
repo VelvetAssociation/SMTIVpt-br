@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-209}{F813,1,412107}Hmm... Is there any way I can{F801}retrieve it...?{F801}{F802}If it realizes my intention, then it{F801}will become difficult for me to{F801}accomplish anything...{F801}</source>
+    <target>{F812}Demon\0{F87A,-209}{F813,1,412107}Hmm... Is there any way I can{F801}retrieve it...?{F801}{F802}If it realizes my intention, then it{F801}will become difficult for me to{F801}accomplish anything...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 The demon seems lost in thought...{F801}</source>
+    <target>〉 The demon seems lost in thought...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-209}{F813,1,412102}Ah, good, very good.{F801}Your help is much appreciated.{F801}{F802}My name is Pabilsag, and I am a{F801}messenger from the lord of the{F801}Babylonian gods, Enlil.{F801}{F802}{F812}Pabilsag\0I would like you to retrieve the{F801}{F804,5}Tablet of Heaven's Will.{F804,0}{F801}{F802}The Tablet of Heaven's Will is a clay{F801}tablet on which the fates of the gods{F801}are written.{F801}{F802}Because it holds our destinies, we{F801}gods cannot lay a finger on this{F801}tablet ourselves.{F801}{F802}{F813,1,412101}That is why I have decided to ask a{F801}human to carry out this task for me.{F801}{F802}Anzu is far too weak to maintain his{F801}appearance in this world. I need you{F801}to take the tablet back from him.{F801}{F802}I have received information that Anzus{F801}have been seen near a {F804,5}red tower{F804,0}{F801}in {F804,5}Shiba.{F804,0}{F801}{F802}Once you have obtained the Tablet of{F801}Heaven's Will, please bring it to me.{F801}</source>
+    <target>{F812}Demon\0{F87A,-209}{F813,1,412102}Ah, good, very good.{F801}Your help is much appreciated.{F801}{F802}My name is Pabilsag, and I am a{F801}messenger from the lord of the{F801}Babylonian gods, Enlil.{F801}{F802}{F812}Pabilsag\0I would like you to retrieve the{F801}{F804,5}Tablet of Heaven's Will.{F804,0}{F801}{F802}The Tablet of Heaven's Will is a clay{F801}tablet on which the fates of the gods{F801}are written.{F801}{F802}Because it holds our destinies, we{F801}gods cannot lay a finger on this{F801}tablet ourselves.{F801}{F802}{F813,1,412101}That is why I have decided to ask a{F801}human to carry out this task for me.{F801}{F802}Anzu is far too weak to maintain his{F801}appearance in this world. I need you{F801}to take the tablet back from him.{F801}{F802}I have received information that Anzus{F801}have been seen near a {F804,5}red tower{F804,0}{F801}in {F804,5}Shiba.{F804,0}{F801}{F802}Once you have obtained the Tablet of{F801}Heaven's Will, please bring it to me.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Pabilsag\0{F87A,-209}{F813,1,412103}The Anzus have gathered under a{F801}{F804,5}red tower{F804,0} in {F804,5}Shiba.{F804,0}{F801}{F802}Once you have obtained the Tablet of{F801}Heaven's Will, please bring it to me.{F801}</source>
+    <target>{F812}Pabilsag\0{F87A,-209}{F813,1,412103}The Anzus have gathered under a{F801}{F804,5}red tower{F804,0} in {F804,5}Shiba.{F804,0}{F801}{F802}Once you have obtained the Tablet of{F801}Heaven's Will, please bring it to me.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon\0{F87A,-209}{F813,1,412102}Ah, good, very good.{F801}Your help is much appreciated.{F801}{F802}My name is Pabilsag, and I am a{F801}messenger from the lord of the{F801}Babylonian gods, Enlil.{F801}{F802}{F812}Pabilsag\0I would like you to retrieve the{F801}{F804,5}Tablet of Heaven's Will.{F804,0}{F801}{F802}The Tablet of Heaven's Will is a clay{F801}tablet on which the fates of the gods{F801}are written.{F801}{F802}Because it holds our destinies, we{F801}gods cannot lay a finger on this{F801}tablet ourselves.{F801}{F802}{F813,1,412101}That is why I have decided to ask a{F801}human to carry out this task for me.{F801}{F802}Anzu is far too weak to maintain his{F801}appearance in this world. I need you{F801}to take the tablet back from him.{F801}{F802}Or... Could it be that you have{F801}obtained the Tablet of Heaven's Will{F801}already?{F801}</source>
+    <target>{F812}Demon\0{F87A,-209}{F813,1,412102}Ah, good, very good.{F801}Your help is much appreciated.{F801}{F802}My name is Pabilsag, and I am a{F801}messenger from the lord of the{F801}Babylonian gods, Enlil.{F801}{F802}{F812}Pabilsag\0I would like you to retrieve the{F801}{F804,5}Tablet of Heaven's Will.{F804,0}{F801}{F802}The Tablet of Heaven's Will is a clay{F801}tablet on which the fates of the gods{F801}are written.{F801}{F802}Because it holds our destinies, we{F801}gods cannot lay a finger on this{F801}tablet ourselves.{F801}{F802}{F813,1,412101}That is why I have decided to ask a{F801}human to carry out this task for me.{F801}{F802}Anzu is far too weak to maintain his{F801}appearance in this world. I need you{F801}to take the tablet back from him.{F801}{F802}Or... Could it be that you have{F801}obtained the Tablet of Heaven's Will{F801}already?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Pabilsag\0{F87A,-209}{F813,1,412102}Yes, this is indeed the Tablet of{F801}Heaven's Will. Very good.{F801}{F802}I confess, I have always seen humans{F801}as weak and often intractable{F801}creatures.{F801}{F802}Perhaps my opinion of your people has{F801}been in error.{F801}{F802}I would like to deliver this tablet{F801}to my father Enlil in all haste.{F801}Please, excuse me.{F801}{F802}Thank you for your help.{F801}</source>
+    <target>{F812}Pabilsag\0{F87A,-209}{F813,1,412102}Yes, this is indeed the Tablet of{F801}Heaven's Will. Very good.{F801}{F802}I confess, I have always seen humans{F801}as weak and often intractable{F801}creatures.{F801}{F802}Perhaps my opinion of your people has{F801}been in error.{F801}{F802}I would like to deliver this tablet{F801}to my father Enlil in all haste.{F801}Please, excuse me.{F801}{F802}Thank you for your help.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 The demon leaves...{F801}</source>
+    <target>〉 The demon leaves...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Pabilsag\0{F87A,-209}{F813,1,412109}Is there something wrong?{F801}Have you not retrieved it yet?{F801}{F802}Once you have obtained the Tablet of{F801}Heaven's Will, please bring it to me.{F801}</source>
+    <target>{F812}Pabilsag\0{F87A,-209}{F813,1,412109}Is there something wrong?{F801}Have you not retrieved it yet?{F801}{F802}Once you have obtained the Tablet of{F801}Heaven's Will, please bring it to me.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Pabilsag\0{F87A,-209}{F813,1,412100}Ah, human. Have you obtained the{F801}Tablet of Heaven's Will?{F801}</source>
+    <target>{F812}Pabilsag\0{F87A,-209}{F813,1,412100}Ah, human. Have you obtained the{F801}Tablet of Heaven's Will?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Demon\0{F87A,-209}{F813,1,412100}Hmm... A human? Have you come here{F801}in response to the request that my{F801}lord has made?{F801}</source>
+    <target>{F812}Demon\0{F87A,-209}{F813,1,412100}Hmm... A human? Have you come here{F801}in response to the request that my{F801}lord has made?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Demon\0{F87A,-209}{F813,1,412107}I see. That is disappointing. Well,{F801}if you have no business here with{F801}me, then I must ask you to leave.{F801}{F802}Both of us should spend what time we{F801}have wisely.{F801}</source>
+    <target>{F812}Demon\0{F87A,-209}{F813,1,412107}I see. That is disappointing. Well,{F801}if you have no business here with{F801}me, then I must ask you to leave.{F801}{F802}Both of us should spend what time we{F801}have wisely.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

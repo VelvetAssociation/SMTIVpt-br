@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502025}Let me give you a few things to watch{F801}out for about Challenge Quests.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502025}Let me give you a few things to watch{F801}out for about Challenge Quests.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502026}Challenge Quests are only registered{F801}to the list...{F801}{F802}{F813,0,502027}So if you don't accept it, the quest{F801}doesn't count as being started.{F801}{F802}{F813,0,502028}I can explain how to accept them if{F801}you want. Need me to tell you?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502026}Challenge Quests are only registered{F801}to the list...{F801}{F802}{F813,0,502027}So if you don't accept it, the quest{F801}doesn't count as being started.{F801}{F802}{F813,0,502028}I can explain how to accept them if{F801}you want. Need me to tell you?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}バóÚズ\0{F87A,2}Óッケー いいわよ{F801}</source>
+    <target>{F812}バóÚズ\0{F87A,2}Óッケー いいわよ{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502031}Understood. I'll skip over that.{F801}{F802}{F813,0,502032}Let's surprise everyone and be the{F801}first to finish the Challenge Quests!{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502031}Understood. I'll skip over that.{F801}{F802}{F813,0,502032}Let's surprise everyone and be the{F801}first to finish the Challenge Quests!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>Challenge quests other than those where{F801}you must turn in items, such as those{F801}where you must slay certain demons, must{F801}be accepted from the list.{F801}{F802}Select Quests from the menu screen and{F801}then select Challenge Quest.{F801}</source>
+    <target>Challenge quests other than those where{F801}you must turn in items, such as those{F801}where you must slay certain demons, must{F801}be accepted from the list.{F801}{F802}Select Quests from the menu screen and{F801}then select Challenge Quest.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>First, select the demon-slaying quest,{F801}{F804,5}The Lion's Roar Within Naraku.{F804,0} The other{F801}two quests are item delivery quests, so{F801}there is no need to accept them.{F801}</source>
+    <target>First, select the demon-slaying quest,{F801}{F804,5}The Lion's Roar Within Naraku.{F804,0} The other{F801}two quests are item delivery quests, so{F801}there is no need to accept them.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>You are now done accepting the{F801}Challenge Quest.{F801}{F802}During Challenge Quests, normal quests will{F801}be put on hold. If you wish to proceed with{F801}normal quests, you are free to {F804,5}abandon{F804,0} the{F801}current Challenge Quest at any time.{F801}{F802}Also, in regards to Challenge Quest{F801}rewards, if you already have the maximum{F801}allowed number of that item, {F804,5}you will be{F801}unable to obtain it.{F804,0}{F801}</source>
+    <target>You are now done accepting the{F801}Challenge Quest.{F801}{F802}During Challenge Quests, normal quests will{F801}be put on hold. If you wish to proceed with{F801}normal quests, you are free to {F804,5}abandon{F804,0} the{F801}current Challenge Quest at any time.{F801}{F802}Also, in regards to Challenge Quest{F801}rewards, if you already have the maximum{F801}allowed number of that item, {F804,5}you will be{F801}unable to obtain it.{F804,0}{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,502029}That's all the support I have for you this{F801}time.{F801}{F802}{F813,0,502030}Let's surprise everyone and be the{F801}first to finish the Challenge Quests!{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,502029}That's all the support I have for you this{F801}time.{F801}{F802}{F813,0,502030}Let's surprise everyone and be the{F801}first to finish the Challenge Quests!{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>Challenge quests other than those where{F801}you must turn in items, such as those{F801}where you must slay certain demons, must{F801}be accepted from the list.{F801}{F802}These types of quests will not progress{F801}unless they are accepted. {F801}{F804,5}Lion's roar echoing in Naraku{F804,0} counts as one, but it has already been accepted.{F801}{F802}During Challenge Quests, normal quests will{F801}be put on hold. If you wish to proceed with{F801}normal quests, you are free to {F804,5}abandon{F804,0} the{F801}current Challenge Quest at any time.{F801}{F802}Also, in regards to Challenge Quest{F801}rewards, if you already have the maximum{F801}allowed number of that item, {F804,5}you will be{F801}unable to obtain it.{F804,0}{F801}</source>
+    <target>Challenge quests other than those where{F801}you must turn in items, such as those{F801}where you must slay certain demons, must{F801}be accepted from the list.{F801}{F802}These types of quests will not progress{F801}unless they are accepted. {F801}{F804,5}Lion's roar echoing in Naraku{F804,0} counts as one, but it has already been accepted.{F801}{F802}During Challenge Quests, normal quests will{F801}be put on hold. If you wish to proceed with{F801}normal quests, you are free to {F804,5}abandon{F804,0} the{F801}current Challenge Quest at any time.{F801}{F802}Also, in regards to Challenge Quest{F801}rewards, if you already have the maximum{F801}allowed number of that item, {F804,5}you will be{F801}unable to obtain it.{F804,0}{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400055}Did you get all that?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400055}Did you get all that?{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>"I did."{F801}"Let's have it again."{F801}</source>
+    <target>"I did."{F801}"Let's have it again."{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>{F812}Burroughs\0{F87A,2}{F813,0,400056}All right. I'll display the{F801}information once more.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,0,400056}All right. I'll display the{F801}information once more.{F801}</target>
+  </entry>
+</mbm>

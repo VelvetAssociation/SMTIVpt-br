@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>クÉストをガñトéットに登録しました。{F801}</source>
+    <target>クÉストをガñトéットに登録しました。{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>クÉストを受注しました。{F801}</source>
+    <target>クÉストを受注しました。{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>すでに受注しています。{F801}</source>
+    <target>すでに受注しています。{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>クíÁ条件を満たしていません。{F801}</source>
+    <target>クíÁ条件を満たしていません。{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>クíÁ条件を満たしています。{F801}</source>
+    <target>クíÁ条件を満たしています。{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>クÉストを受注していません。{F801}</source>
+    <target>クÉストを受注していません。{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>クíÁ条件を満たしていません。{F801}</source>
+    <target>クíÁ条件を満たしていません。{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>クíÁ処理をやめました。{F801}</source>
+    <target>クíÁ処理をやめました。{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>クÉストを受注していません。{F801}</source>
+    <target>クÉストを受注していません。{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F870,3}クÉスト:{F87C,4,0}{F801} 依頼者:{F87C,4,1}{F801}</source>
+    <target>{F870,3}クÉスト:{F87C,4,0}{F801} 依頼者:{F87C,4,1}{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}バóÚズ\0システマチックバトúに失敗しました{F801}</source>
+    <target>{F812}バóÚズ\0システマチックバトúに失敗しました{F801}</target>
+  </entry>
+</mbm>

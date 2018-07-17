@@ -1,0 +1,74 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Shopkeeper\0{F87A,26}{F813,0,620000}Welcome...! Oh!{F801}You're the guy who accepted the{F801}quest, right?{F801}{F802}{F813,0,620001}Thank goodness you're here.{F801}Just going up to the surface is a{F801}matter of life and death.{F801}{F802}{F813,0,620002}All right, here's the film I want{F801}you to deliver.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,26}{F813,0,620000}Welcome...! Oh!{F801}You're the guy who accepted the{F801}quest, right?{F801}{F802}{F813,0,620001}Thank goodness you're here.{F801}Just going up to the surface is a{F801}matter of life and death.{F801}{F802}{F813,0,620002}All right, here's the film I want{F801}you to deliver.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 The shopkeeper hands a roll of{F801}camera film to {F843,0}.{F801}</source>
+    <target>〉 The shopkeeper hands a roll of{F801}camera film to {F843,0}.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Shopkeeper\0{F87A,26}{F813,0,620003}It's for a film camera. They're{F801}really rare, you know. This stuff{F801}is hard to come by these days.{F801}{F802}{F813,0,620004}I want you to take this to a Hunter{F801}who likes photography. I know, that{F801}was in the description...{F801}{F802}{F813,0,620005}She ought to still be in the Ueno{F801}area. I'm pretty sure she wanted to{F801}take pictures of shrines and temples.{F801}{F802}{F813,0,620006}I'm thinking she's just too caught{F801}up in taking pictures to come here{F801}herself, so I'm counting on you.{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,26}{F813,0,620003}It's for a film camera. They're{F801}really rare, you know. This stuff{F801}is hard to come by these days.{F801}{F802}{F813,0,620004}I want you to take this to a Hunter{F801}who likes photography. I know, that{F801}was in the description...{F801}{F802}{F813,0,620005}She ought to still be in the Ueno{F801}area. I'm pretty sure she wanted to{F801}take pictures of shrines and temples.{F801}{F802}{F813,0,620006}I'm thinking she's just too caught{F801}up in taking pictures to come here{F801}herself, so I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Shopkeeper\0{F87A,26}{F813,1,405500}Have you delivered that film yet?{F801}{F802}She should be taking pictures of the{F801}shrines and temples in Ueno.{F801}Don't let me down!{F801}</source>
+    <target>{F812}Shopkeeper\0{F87A,26}{F813,1,405500}Have you delivered that film yet?{F801}{F802}She should be taking pictures of the{F801}shrines and temples in Ueno.{F801}Don't let me down!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Woman's voice\0{F87A,1}{F813,0,620007}Wait, no! Stop!{F801}</source>
+    <target>{F812}Woman's voice\0{F87A,1}{F813,0,620007}Wait, no! Stop!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Photographer\0{F87A,136}{F813,0,620008}Well, great. That was my last shot,{F801}and you completely photobombed it.{F801}</source>
+    <target>{F812}Photographer\0{F87A,136}{F813,0,620008}Well, great. That was my last shot,{F801}and you completely photobombed it.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 {F843,0} explains why he came to{F801}this place and shows her the film.{F801}</source>
+    <target>〉 {F843,0} explains why he came to{F801}this place and shows her the film.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Photographer\0{F87A,136}{F813,0,620009}Huh? You came all this way to{F801}deliver my film?{F801}{F802}{F813,0,620010}Well, thanks. It's so hard to get{F801}film these days, you know.{F801}{F802}{F813,0,620011}I've been looking for some for a{F801}while now, and I was able to order{F801}some from the item shop in Ueno.{F801}{F802}{F813,0,620012}Sorry for yelling at you before.{F801}</source>
+    <target>{F812}Photographer\0{F87A,136}{F813,0,620009}Huh? You came all this way to{F801}deliver my film?{F801}{F802}{F813,0,620010}Well, thanks. It's so hard to get{F801}film these days, you know.{F801}{F802}{F813,0,620011}I've been looking for some for a{F801}while now, and I was able to order{F801}some from the item shop in Ueno.{F801}{F802}{F813,0,620012}Sorry for yelling at you before.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 {F843,0} gives the film to the{F801}woman.{F801}</source>
+    <target>〉 {F843,0} gives the film to the{F801}woman.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Photographer\0{F87A,136}{F813,0,620013}Thanks. You seem pretty good{F801}at this.{F801}{F802}{F813,0,620014}Hey... Are you just starting out{F801}as a Hunter? I don't recognize{F801}you.{F801}{F802}{F813,0,620015}I'm Nozomi. I'm a Hunter, but I take{F801}pictures on the side.{F801}</source>
+    <target>{F812}Photographer\0{F87A,136}{F813,0,620013}Thanks. You seem pretty good{F801}at this.{F801}{F802}{F813,0,620014}Hey... Are you just starting out{F801}as a Hunter? I don't recognize{F801}you.{F801}{F802}{F813,0,620015}I'm Nozomi. I'm a Hunter, but I take{F801}pictures on the side.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Nozomi\0{F87A,136}{F813,0,620016}Ever since I got this camera, I've{F801}been trying to get my hands on more{F801}film through some of my connections.{F801}{F802}{F813,0,620017}...Huh?{F801}Don't you know what a camera is?{F801}{F802}{F813,0,620018}It's a, um... It's a device that lets{F801}you save what you see as a picture.{F801}{F802}{F813,0,620019}Oh, are you interested in them?{F801}I'd love to tell you more about them,{F801}but I'm kind of short on time.{F801}{F802}{F813,0,620020}I'd love to show you how much fun{F801}using a camera can be... Oh, I know!{F801}{F802}{F813,0,620021}Here, I've got just the thing for you.{F801}</source>
+    <target>{F812}Nozomi\0{F87A,136}{F813,0,620016}Ever since I got this camera, I've{F801}been trying to get my hands on more{F801}film through some of my connections.{F801}{F802}{F813,0,620017}...Huh?{F801}Don't you know what a camera is?{F801}{F802}{F813,0,620018}It's a, um... It's a device that lets{F801}you save what you see as a picture.{F801}{F802}{F813,0,620019}Oh, are you interested in them?{F801}I'd love to tell you more about them,{F801}but I'm kind of short on time.{F801}{F802}{F813,0,620020}I'd love to show you how much fun{F801}using a camera can be... Oh, I know!{F801}{F802}{F813,0,620021}Here, I've got just the thing for you.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Nozomi hands {F843,0} a camera.{F801}</source>
+    <target>〉 Nozomi hands {F843,0} a camera.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Nozomi\0{F87A,136}{F813,0,620022}This is another camera, but it{F801}instantly gives you a printout of{F801}the picture you just took.{F801}{F802}{F813,0,620023}It's a digital camera with a built-in{F801}printer. Not as nice as this film{F801}camera, but it's perfect for a novice.{F801}{F802}{F813,0,620024}Don't even think about selling it{F801}for some cash. Give it a try. I{F801}promise it'll be fun.{F801}{F802}{F813,0,620025}Well, see you later, new guy.{F801}If we both survive long enough, we{F801}might run into each other again!{F801}</source>
+    <target>{F812}Nozomi\0{F87A,136}{F813,0,620022}This is another camera, but it{F801}instantly gives you a printout of{F801}the picture you just took.{F801}{F802}{F813,0,620023}It's a digital camera with a built-in{F801}printer. Not as nice as this film{F801}camera, but it's perfect for a novice.{F801}{F802}{F813,0,620024}Don't even think about selling it{F801}for some cash. Give it a try. I{F801}promise it'll be fun.{F801}{F802}{F813,0,620025}Well, see you later, new guy.{F801}If we both survive long enough, we{F801}might run into each other again!{F801}</target>
+  </entry>
+  <entry id="800">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}I will update your information on this{F801}quest.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}I will update your information on this{F801}quest.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>{F812}Storekeeper\0So you've accepted the quest.{F801}Well, here's the film.{F801}{F802}If I recall correctly, she said she{F801}was going to Ueno to take pictures{F801}of the temples.{F801}{F802}There's a temple called Kaneiji close{F801}by. Why don't you try going there{F801}first?{F801}</source>
+    <target>{F812}Storekeeper\0So you've accepted the quest.{F801}Well, here's the film.{F801}{F802}If I recall correctly, she said she{F801}was going to Ueno to take pictures{F801}of the temples.{F801}{F802}There's a temple called Kaneiji close{F801}by. Why don't you try going there{F801}first?{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>You will meet a female Hunter.{F801}You will obtain a camera, and the{F801}quest will end. The rest isn't done.{F801}</source>
+    <target>You will meet a female Hunter.{F801}You will obtain a camera, and the{F801}quest will end. The rest isn't done.{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+  <entry id="903">
+    <source>〉 Nozomi leaves...{F801}</source>
+    <target>〉 Nozomi leaves...{F801}</target>
+  </entry>
+</mbm>

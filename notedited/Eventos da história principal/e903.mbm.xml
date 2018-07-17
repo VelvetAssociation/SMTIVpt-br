@@ -1,0 +1,82 @@
+<mbm>
+  <entry id="0">
+    <source>2DÍäñトテストを開始します。{F801}</source>
+    <target>2DÍäñトテストを開始します。{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>状況説明テスト{F801}</source>
+    <target>状況説明テスト{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}悪魔\0{F87A,-14}悪魔NPC立ち絵との会話テスト{F801}{F802}</source>
+    <target>{F812}悪魔\0{F87A,-14}悪魔NPC立ち絵との会話テスト{F801}{F802}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}ヨナタñ\0{F87A,3}{F87B,3,2,1,1}{F843,0}ワúター{F801}{F802}{F87B,3,1,1,1}{F843,1}ヨナタñ{F801}{F802}{F87B,3,3,1,1}{F843,0}Íザëー{F801}{F802}</source>
+    <target>{F812}ヨナタñ\0{F87A,3}{F87B,3,2,1,1}{F843,0}ワúター{F801}{F802}{F87B,3,1,1,1}{F843,1}ヨナタñ{F801}{F802}{F87B,3,3,1,1}{F843,0}Íザëー{F801}{F802}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}通信üー¿\0{F87A,8}通信会話{F801}{F802}</source>
+    <target>{F812}通信üー¿\0{F87A,8}通信会話{F801}{F802}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}ヨナタñ\0{F87A,3}NPC立ち絵と{F801}「バストÁッ¿」との会話{F801}{F802}ïージ2{F801}{F802}ïージ3{F801}{F802}</source>
+    <target>{F812}ヨナタñ\0{F87A,3}NPC立ち絵と{F801}「バストÁッ¿」との会話{F801}{F802}ïージ2{F801}{F802}ïージ3{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}NPC1\0{F87A,29}「NPC立ち絵」と{F801}バストÁッ¿の会話{F801}</source>
+    <target>{F812}NPC1\0{F87A,29}「NPC立ち絵」と{F801}バストÁッ¿の会話{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}バóÚズ\0{F87A,4}NPC立ち絵と{F801}「通信」の会話{F801}</source>
+    <target>{F812}バóÚズ\0{F87A,4}NPC立ち絵と{F801}「通信」の会話{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}ヒメネス\0{F87A,4}バストÁッ¿切り替え会話{F801}</source>
+    <target>{F812}ヒメネス\0{F87A,4}バストÁッ¿切り替え会話{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}ヨナタñ\0{F87A,3}バストÁッ¿切り替え会話{F801}</source>
+    <target>{F812}ヨナタñ\0{F87A,3}バストÁッ¿切り替え会話{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}ヒメネス\0{F87A,4}バストÁッ¿切り替え会話{F801}</source>
+    <target>{F812}ヒメネス\0{F87A,4}バストÁッ¿切り替え会話{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>システムÚÏñドÚで{F801}質問文{F801}</source>
+    <target>システムÚÏñドÚで{F801}質問文{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}だれか\0吹き出しなしでの{F801}会話メッセージ表示{F801}</source>
+    <target>{F812}だれか\0吹き出しなしでの{F801}会話メッセージ表示{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}悪魔\0ÚÏス¡ー演出チËック{F801}</source>
+    <target>{F812}悪魔\0ÚÏス¡ー演出チËック{F801}</target>
+  </entry>
+  <entry id="99">
+    <source>はい{F801}いいえ{F801}</source>
+    <target>はい{F801}いいえ{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>óÚ合体のテスト{F801}</source>
+    <target>óÚ合体のテスト{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>カÓス合体のテスト{F801}</source>
+    <target>カÓス合体のテスト{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F812}善意の大魂\0{F87A,-873}メッセージ1{F801}</source>
+    <target>{F812}善意の大魂\0{F87A,-873}メッセージ1{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F812}悪意の大魂\0{F87A,-874}メッセージ2{F801}</source>
+    <target>{F812}悪意の大魂\0{F87A,-874}メッセージ2{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>{F812}希望の大魂\0{F87A,-875}メッセージ3{F801}</source>
+    <target>{F812}希望の大魂\0{F87A,-875}メッセージ3{F801}</target>
+  </entry>
+</mbm>

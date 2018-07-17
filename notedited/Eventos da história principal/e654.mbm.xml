@@ -1,0 +1,78 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403142}The city of Ginza's a nice place to{F801}live, if you've got power. But if you{F801}don't, you're gonna have a bad time.{F801}{F802}In order to even be able to walk{F801}around the city, you have to prove{F801}yourself to the Ring of Gaea...{F801}{F802}Even if you want to go around to{F801}explore the ruins, there are a lot{F801}of places that people can't go.{F801}{F802}If they don't let you pass, you{F801}might be better off getting some fame{F801}in another city and coming back.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403142}The city of Ginza's a nice place to{F801}live, if you've got power. But if you{F801}don't, you're gonna have a bad time.{F801}{F802}In order to even be able to walk{F801}around the city, you have to prove{F801}yourself to the Ring of Gaea...{F801}{F802}Even if you want to go around to{F801}explore the ruins, there are a lot{F801}of places that people can't go.{F801}{F802}If they don't let you pass, you{F801}might be better off getting some fame{F801}in another city and coming back.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403142}Have you tried to visit the surface{F801}of Ginza? I hear there's a lot of{F801}high-quality stuff you can find.{F801}{F802}But, the way is guarded by the Ring{F801}of Gaea, and they only let celebrities{F801}pass through.{F801}{F802}So, the only people allowed to search{F801}for treasure there are the rich, and{F801}the rich keep getting richer...{F801}{F802}It's terrible how they try to maintain{F801}their position of wealth... And it's{F801}hypocritical to their "meritocracy."{F801}{F802}I came to take a look at that famous{F801}store, the Luis Witon... But they{F801}won't let me. What a disappointment.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403142}Have you tried to visit the surface{F801}of Ginza? I hear there's a lot of{F801}high-quality stuff you can find.{F801}{F802}But, the way is guarded by the Ring{F801}of Gaea, and they only let celebrities{F801}pass through.{F801}{F802}So, the only people allowed to search{F801}for treasure there are the rich, and{F801}the rich keep getting richer...{F801}{F802}It's terrible how they try to maintain{F801}their position of wealth... And it's{F801}hypocritical to their "meritocracy."{F801}{F802}I came to take a look at that famous{F801}store, the Luis Witon... But they{F801}won't let me. What a disappointment.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 The Hunter leaves...{F801}</source>
+    <target>〉 The Hunter leaves...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Show her the camera{F801}Shrug{F801}</source>
+    <target>Show her the camera{F801}Shrug{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403141}Huh? Would you be willing to take a{F801}picture of the Luis Witon store{F801}for me?{F801}{F802}Are you sure? It's very tough to get{F801}into Ginza's shopping district.{F801}{F802}...Well, if you're offering, thanks!{F801}I would like to see this Luis Witon{F801}I've been hearing about.{F801}{F802}I'll be looking forward to it.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403141}Huh? Would you be willing to take a{F801}picture of the Luis Witon store{F801}for me?{F801}{F802}Are you sure? It's very tough to get{F801}into Ginza's shopping district.{F801}{F802}...Well, if you're offering, thanks!{F801}I would like to see this Luis Witon{F801}I've been hearing about.{F801}{F802}I'll be looking forward to it.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register that as a new quest{F801}on the list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register that as a new quest{F801}on the list.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403131}I hear that "Luis Witon" used to{F801}be worshipped like some sort of god{F801}back in the old days.{F801}{F802}Isn't that interesting? It's just a{F801}name on a bag, but people take so{F801}much interest in it.{F801}{F802}Please bring me a picture of{F801}Luis Witon once you get it.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403131}I hear that "Luis Witon" used to{F801}be worshipped like some sort of god{F801}back in the old days.{F801}{F802}Isn't that interesting? It's just a{F801}name on a bag, but people take so{F801}much interest in it.{F801}{F802}Please bring me a picture of{F801}Luis Witon once you get it.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403123}...I guess a poor rookie Hunter like{F801}me isn't meant to be in a city like{F801}Ginza...{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403123}...I guess a poor rookie Hunter like{F801}me isn't meant to be in a city like{F801}Ginza...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 This appears to be the store that{F801}the Hunter wanted to see.{F801}{F802}〉 Would you like to take a picture?{F801}</source>
+    <target>〉 This appears to be the store that{F801}the Hunter wanted to see.{F801}{F802}〉 Would you like to take a picture?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>Take a picture{F801}Not right now{F801}</source>
+    <target>Take a picture{F801}Not right now{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 You now have a picture of the{F801}Luis Witon store in Ginza.{F801}</source>
+    <target>〉 You now have a picture of the{F801}Luis Witon store in Ginza.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 You leave the area.{F801}</source>
+    <target>〉 You leave the area.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403142}Oh... Did you bring me a picture?{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403142}Oh... Did you bring me a picture?{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 You give the woman the picture.{F801}</source>
+    <target>〉 You give the woman the picture.{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403141}Yep, that's what I wanted to see.{F801}{F802}The fact that you were even allowed{F801}over there must mean that you have{F801}a platinum card.{F801}{F802}That's very impressive. Hahaha...{F801}{F802}Maybe you'll be able to find that{F801}black card I left behind.{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403141}Yep, that's what I wanted to see.{F801}{F802}The fact that you were even allowed{F801}over there must mean that you have{F801}a platinum card.{F801}{F802}That's very impressive. Hahaha...{F801}{F802}Maybe you'll be able to find that{F801}black card I left behind.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403133}I wish you the best of luck.{F801}So long!{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403133}I wish you the best of luck.{F801}So long!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403131}Oh, it would seem you already have a{F801}black card... You really are amazing.{F801}{F802}I suppose Ginza is a place meant for{F801}people with power, like you.{F801}{F802}{F813,1,403133}I'll treasure this picture.{F801}So long!{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403131}Oh, it would seem you already have a{F801}black card... You really are amazing.{F801}{F802}I suppose Ginza is a place meant for{F801}people with power, like you.{F801}{F802}{F813,1,403133}I'll treasure this picture.{F801}So long!{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Female Hunter\0{F87A,70}{F813,1,403142}You don't have the picture?{F801}Well, I'll keep waiting here for you{F801}to get it...{F801}</source>
+    <target>{F812}Female Hunter\0{F87A,70}{F813,1,403142}You don't have the picture?{F801}Well, I'll keep waiting here for you{F801}to get it...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

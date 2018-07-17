@@ -1,0 +1,114 @@
+<mbm>
+  <entry id="0">
+    <source>〉 There is a group of people here,{F801}preparing for a ritual...{F801}{F802}〉 Will you stop them?{F801}</source>
+    <target>〉 There is a group of people here,{F801}preparing for a ritual...{F801}{F802}〉 Will you stop them?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Man\0{F87A,121}{F813,0,653000}Huh?{F801}Who're you?{F801}</source>
+    <target>{F812}Man\0{F87A,121}{F813,0,653000}Huh?{F801}Who're you?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,653001}From the way you're dressed...{F801}You're a Hunter, aren't you?{F801}{F802}{F813,0,653002}I bet someone asked you to stop us.{F801}So what now, Boss?{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,653001}From the way you're dressed...{F801}You're a Hunter, aren't you?{F801}{F802}{F813,0,653002}I bet someone asked you to stop us.{F801}So what now, Boss?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Arrogant old man\0{F87A,63}{F813,0,653003}Augh! Don't let him interfere.{F801}We've got to summon the Demon Lord,{F801}no matter what!{F801}{F802}{F813,0,653004}Hey, Gaea lady!{F801}Where the hell did you go!?{F801}{F802}{F813,0,653005}You're here because you agree with{F801}my goals, right? Well, then do{F801}something about him!{F801}</source>
+    <target>{F812}Arrogant old man\0{F87A,63}{F813,0,653003}Augh! Don't let him interfere.{F801}We've got to summon the Demon Lord,{F801}no matter what!{F801}{F802}{F813,0,653004}Hey, Gaea lady!{F801}Where the hell did you go!?{F801}{F802}{F813,0,653005}You're here because you agree with{F801}my goals, right? Well, then do{F801}something about him!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,653006}Don't be ridiculous. I only{F801}care about the summoning of the{F801}Demon Lord.{F801}{F802}{F813,0,653007}I don't have the slightest interest{F801}in helping a power-hungry would-be{F801}despot such as yourself.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,653006}Don't be ridiculous. I only{F801}care about the summoning of the{F801}Demon Lord.{F801}{F802}{F813,0,653007}I don't have the slightest interest{F801}in helping a power-hungry would-be{F801}despot such as yourself.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Arrogant old man\0{F87A,63}{F813,0,653011}What the hell's happening!?{F801}Your demons were annihilated!{F801}{F802}{F813,0,653012}And the ceremony isn't over yet!{F801}{F802}{F813,0,653013}I'm not going to let a brat like him{F801}ruin my plans for greatness!{F801}{F802}{F813,0,653014}I used to be a cabinet minister!{F801}I deserve better than this!{F801}</source>
+    <target>{F812}Arrogant old man\0{F87A,63}{F813,0,653011}What the hell's happening!?{F801}Your demons were annihilated!{F801}{F802}{F813,0,653012}And the ceremony isn't over yet!{F801}{F802}{F813,0,653013}I'm not going to let a brat like him{F801}ruin my plans for greatness!{F801}{F802}{F813,0,653014}I used to be a cabinet minister!{F801}I deserve better than this!{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,653015}Quit your whining.{F801}{F802}{F813,0,653016}True, this man is no average Hunter.{F801}{F802}{F813,0,653017}Still, there's no cause for alarm.{F801}The ceremony has been completed.{F801}{F802}{F813,0,653018}The Overlord you seek will appear{F801}very shortly.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,653015}Quit your whining.{F801}{F802}{F813,0,653016}True, this man is no average Hunter.{F801}{F802}{F813,0,653017}Still, there's no cause for alarm.{F801}The ceremony has been completed.{F801}{F802}{F813,0,653018}The Overlord you seek will appear{F801}very shortly.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Arrogant old man\0{F87A,63}{F813,0,653019}Finally, the day has come!{F801}{F802}{F813,0,653020}I will return to my place at{F801}the top...{F801}{F802}{F813,0,653021}...with the power of the Overlord{F801}Astaroth!{F801}</source>
+    <target>{F812}Arrogant old man\0{F87A,63}{F813,0,653019}Finally, the day has come!{F801}{F802}{F813,0,653020}I will return to my place at{F801}the top...{F801}{F802}{F813,0,653021}...with the power of the Overlord{F801}Astaroth!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,653022}I will face you.{F801}{F802}{F813,0,653023}They may have lost some of their{F801}power, but the gods of Babylon are{F801}the origins of demons...{F801}{F802}{F813,0,653024}I suggest that you think of me as a{F801}serious threat, not merely a stall{F801}for time.{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,653022}I will face you.{F801}{F802}{F813,0,653023}They may have lost some of their{F801}power, but the gods of Babylon are{F801}the origins of demons...{F801}{F802}{F813,0,653024}I suggest that you think of me as a{F801}serious threat, not merely a stall{F801}for time.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 Astaroth disappears...{F801}</source>
+    <target>〉 Astaroth disappears...{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Arrogant old man\0{F87A,63}{F813,0,653025}Wha--!?{F801}Where did it go?{F801}{F802}{F813,0,653026}That bitch!{F801}Where did she take Astaroth!?{F801}{F802}{F813,0,653027}I was the one who summoned{F801}Lord Astaroth!{F801}{F802}{F813,0,653028}I'm the only one with the right to{F801}make a contract with him, you lowlife!{F801}</source>
+    <target>{F812}Arrogant old man\0{F87A,63}{F813,0,653025}Wha--!?{F801}Where did it go?{F801}{F802}{F813,0,653026}That bitch!{F801}Where did she take Astaroth!?{F801}{F802}{F813,0,653027}I was the one who summoned{F801}Lord Astaroth!{F801}{F802}{F813,0,653028}I'm the only one with the right to{F801}make a contract with him, you lowlife!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}I've locked onto the demon's signal.{F801}I'll display its location on the{F801}navigation map.{F801}{F802}If you want to defeat this demon,{F801}I suggest you remain on the defensive{F801}while pursuing it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}I've locked onto the demon's signal.{F801}I'll display its location on the{F801}navigation map.{F801}{F802}If you want to defeat this demon,{F801}I suggest you remain on the defensive{F801}while pursuing it.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 The old man wanders off...{F801}</source>
+    <target>〉 The old man wanders off...{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Burroughs\0{F87A,2}Follow the marker and head to the{F801}{F804,5}east{F804,0} to the area near the {F804,5}stations'{F801}west gate.{F804,0}{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}Follow the marker and head to the{F801}{F804,5}east{F804,0} to the area near the {F804,5}stations'{F801}west gate.{F804,0}{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Arrogant old man\0{F87A,63}{F813,0,653029}How... How could this happen...?{F801}My hopes and dreams, dashed before{F801}my very eyes...{F801}{F802}{F813,0,653030}There's no way I can regain my{F801}position now...{F801}{F802}{F813,0,653031}I'm too old to start over from{F801}scratch...{F801}</source>
+    <target>{F812}Arrogant old man\0{F87A,63}{F813,0,653029}How... How could this happen...?{F801}My hopes and dreams, dashed before{F801}my very eyes...{F801}{F802}{F813,0,653030}There's no way I can regain my{F801}position now...{F801}{F802}{F813,0,653031}I'm too old to start over from{F801}scratch...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>〉 The old man slinks away sullenly...{F801}</source>
+    <target>〉 The old man slinks away sullenly...{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Hunter\0{F87A,67}{F813,0,653032}What the hell, man? I thought if I{F801}stuck with that politician, I'd get{F801}something out of it.{F801}</source>
+    <target>{F812}Hunter\0{F87A,67}{F813,0,653032}What the hell, man? I thought if I{F801}stuck with that politician, I'd get{F801}something out of it.{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>{F812}Man\0{F87A,121}{F813,0,653033}Well, that was a complete waste of{F801}my time. Not to mention all the risks{F801}I took for that idiot...{F801}{F802}{F813,0,653034}Aw, dammit! I got suckered again{F801}into doing something for some ass{F801}who's all talk.{F801}</source>
+    <target>{F812}Man\0{F87A,121}{F813,0,653033}Well, that was a complete waste of{F801}my time. Not to mention all the risks{F801}I took for that idiot...{F801}{F802}{F813,0,653034}Aw, dammit! I got suckered again{F801}into doing something for some ass{F801}who's all talk.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>〉 The various members of the group{F801}participating in the ritual scatter{F801}and flee the area...{F801}</source>
+    <target>〉 The various members of the group{F801}participating in the ritual scatter{F801}and flee the area...{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,653035}I honestly didn't expect Overlord{F801}Astaroth to be defeated that quickly.{F801}{F802}{F813,0,653036}I had my own mission, as you may{F801}have guessed.{F801}{F802}{F813,0,653037}It was to bring Astaroth to the{F801}Ring of Gaea to be our new King.{F801}But, you've put an end to that.{F801}{F802}{F813,0,653038}Still, I did manage to get my hands{F801}on Astaroth's soul.{F801}{F802}{F813,0,653039}You have my personal thanks for that.{F801}{F802}{F813,0,653040}Ha hah...{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,653035}I honestly didn't expect Overlord{F801}Astaroth to be defeated that quickly.{F801}{F802}{F813,0,653036}I had my own mission, as you may{F801}have guessed.{F801}{F802}{F813,0,653037}It was to bring Astaroth to the{F801}Ring of Gaea to be our new King.{F801}But, you've put an end to that.{F801}{F802}{F813,0,653038}Still, I did manage to get my hands{F801}on Astaroth's soul.{F801}{F802}{F813,0,653039}You have my personal thanks for that.{F801}{F802}{F813,0,653040}Ha hah...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>〉 The woman leaves...{F801}</source>
+    <target>〉 The woman leaves...{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Astaroth\0{F87A,-489}{F813,0,350901}Chasing down a demon is hardly the{F801}wisest choice a warrior like yourself{F801}could make...{F801}{F802}{F813,0,350902}But, you're determined to finish{F801}the job. I admire that.{F801}</source>
+    <target>{F812}Astaroth\0{F87A,-489}{F813,0,350901}Chasing down a demon is hardly the{F801}wisest choice a warrior like yourself{F801}could make...{F801}{F802}{F813,0,350902}But, you're determined to finish{F801}the job. I admire that.{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>〉 The demon's aura grows more{F801}powerful...{F801}</source>
+    <target>〉 The demon's aura grows more{F801}powerful...{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Astaroth\0{F87A,-489}{F813,0,350903}...I believe I have had enough time to{F801}get used to this world.{F801}</source>
+    <target>{F812}Astaroth\0{F87A,-489}{F813,0,350903}...I believe I have had enough time to{F801}get used to this world.{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Astaroth\0{F87A,-489}{F813,0,350904}Very well. If you wish to challenge{F801}me, then I shall gladly be your{F801}opponent!{F801}</source>
+    <target>{F812}Astaroth\0{F87A,-489}{F813,0,350904}Very well. If you wish to challenge{F801}me, then I shall gladly be your{F801}opponent!{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Ring of Gaea member\0{F87A,54}{F813,0,653008}However, the ceremony cannot be{F801}interrupted now. I'll have my demons{F801}take care of him.{F801}{F802}{F813,0,653009}Come forth! Gods of Babylon!{F801}{F802}{F813,0,653010}Protect us until the Great Duke has{F801}been summoned!{F801}</source>
+    <target>{F812}Ring of Gaea member\0{F87A,54}{F813,0,653008}However, the ceremony cannot be{F801}interrupted now. I'll have my demons{F801}take care of him.{F801}{F802}{F813,0,653009}Come forth! Gods of Babylon!{F801}{F802}{F813,0,653010}Protect us until the Great Duke has{F801}been summoned!{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is nobody here...{F801}</source>
+    <target>〉 There is nobody here...{F801}</target>
+  </entry>
+</mbm>

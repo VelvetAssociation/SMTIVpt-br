@@ -1,0 +1,62 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Old woman\0{F87A,65}{F813,1,403903}I'm far too old to go outside now...{F801}{F802}When I escaped, all my pictures were{F801}burned. I lost everything I had.{F801}{F802}I wonder if I'll ever be able to see{F801}the outside world again...{F801}</source>
+    <target>{F812}Old woman\0{F87A,65}{F813,1,403903}I'm far too old to go outside now...{F801}{F802}When I escaped, all my pictures were{F801}burned. I lost everything I had.{F801}{F802}I wonder if I'll ever be able to see{F801}the outside world again...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Show her your camera{F801}Leave{F801}</source>
+    <target>Show her your camera{F801}Leave{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Old woman\0{F87A,65}{F813,1,403902}Is that... a camera?{F801}{F802}Well, that's quite the antique you've{F801}got there. You don't see young folk{F801}with a sense of style these days.{F801}{F802}Oh, I know... Hey, can I ask you for{F801}a favor?{F801}{F802}I used to own a bar in the back of{F801}the Golden Gai.{F801}{F802}Could you use your camera there to{F801}take a picture of it for me?{F801}Just one picture...{F801}</source>
+    <target>{F812}Old woman\0{F87A,65}{F813,1,403902}Is that... a camera?{F801}{F802}Well, that's quite the antique you've{F801}got there. You don't see young folk{F801}with a sense of style these days.{F801}{F802}Oh, I know... Hey, can I ask you for{F801}a favor?{F801}{F802}I used to own a bar in the back of{F801}the Golden Gai.{F801}{F802}Could you use your camera there to{F801}take a picture of it for me?{F801}Just one picture...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register the new quest onto the{F801}list.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502043}I'll register the new quest onto the{F801}list.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Old woman\0{F87A,65}{F813,1,403923}I've grown old now. If I'm going to{F801}die, I want to die happy.{F801}{F802}I want to have a way to remember the{F801}happiest times of my life. Please,{F801}let me see that place one more time.{F801}</source>
+    <target>{F812}Old woman\0{F87A,65}{F813,1,403923}I've grown old now. If I'm going to{F801}die, I want to die happy.{F801}{F802}I want to have a way to remember the{F801}happiest times of my life. Please,{F801}let me see that place one more time.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Old woman\0{F87A,65}{F813,1,403922}I see... I guess I'll just slowly rot{F801}away here. All of Tokyo has been{F801}sealed away and made into a dungeon...{F801}</source>
+    <target>{F812}Old woman\0{F87A,65}{F813,1,403922}I see... I guess I'll just slowly rot{F801}away here. All of Tokyo has been{F801}sealed away and made into a dungeon...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 You enter the bar...{F801}</source>
+    <target>〉 You enter the bar...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>Take a picture{F801}Not now{F801}</source>
+    <target>Take a picture{F801}Not now{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 You now have a picture of the bar.{F801}</source>
+    <target>〉 You now have a picture of the bar.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 You leave...{F801}</source>
+    <target>〉 You leave...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Old woman\0{F87A,65}{F813,1,403902}You brought me the picture?{F801}</source>
+    <target>{F812}Old woman\0{F87A,65}{F813,1,403902}You brought me the picture?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 You give her the picture you took{F801}earlier.{F801}</source>
+    <target>〉 You give her the picture you took{F801}earlier.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Old woman\0{F87A,65}{F813,1,403931}...It's like I thought. There's{F801}nothing left. Just an empty room.{F801}{F802}But, you know what... I can still{F801}see it. The shelves, lined with{F801}cheap booze...{F801}{F802}The table over there always wobbled.{F801}And over there we had the register,{F801}where she would ring up customers...{F801}{F802}{F813,1,403923}......{F801}{F802}My daughter and I used to run the{F801}bar together.{F801}{F802}That was 25 years ago. When the{F801}demons appeared suddenly, they killed{F801}her... and ate her.{F801}{F802}Running that bar with my daughter{F801}was the happiest time in my life.{F801}{F802}{F813,1,403933}Now I can die, having remembered{F801}those happy times one last time.{F801}Thank you.{F801}</source>
+    <target>{F812}Old woman\0{F87A,65}{F813,1,403931}...It's like I thought. There's{F801}nothing left. Just an empty room.{F801}{F802}But, you know what... I can still{F801}see it. The shelves, lined with{F801}cheap booze...{F801}{F802}The table over there always wobbled.{F801}And over there we had the register,{F801}where she would ring up customers...{F801}{F802}{F813,1,403923}......{F801}{F802}My daughter and I used to run the{F801}bar together.{F801}{F802}That was 25 years ago. When the{F801}demons appeared suddenly, they killed{F801}her... and ate her.{F801}{F802}Running that bar with my daughter{F801}was the happiest time in my life.{F801}{F802}{F813,1,403933}Now I can die, having remembered{F801}those happy times one last time.{F801}Thank you.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Old woman\0{F87A,65}{F813,1,403933}Now I can die, having remembered{F801}those happy times one last time.{F801}Thank you.{F801}</source>
+    <target>{F812}Old woman\0{F87A,65}{F813,1,403933}Now I can die, having remembered{F801}those happy times one last time.{F801}Thank you.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

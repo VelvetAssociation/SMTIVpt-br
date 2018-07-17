@@ -1,0 +1,202 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Female voice\0{F813,1,418007}Oh... My poor Priyankara...{F801}Where have you gone...?{F801}</source>
+    <target>{F812}Female voice\0{F813,1,418007}Oh... My poor Priyankara...{F801}Where have you gone...?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Hariti\0{F87A,-371}{F813,1,418004}You...{F801}Did you come to help me?{F801}{F802}My lovely boy Priyankara has{F801}disappeared without a trace.{F801}{F802}I wonder if the great Buddha is angry{F801}at me again...{F801}{F802}But I have stopped eating human{F801}children...{F801}</source>
+    <target>{F812}Hariti\0{F87A,-371}{F813,1,418004}You...{F801}Did you come to help me?{F801}{F802}My lovely boy Priyankara has{F801}disappeared without a trace.{F801}{F802}I wonder if the great Buddha is angry{F801}at me again...{F801}{F802}But I have stopped eating human{F801}children...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Wu Kong\0{F87A,-355}{F813,1,411003}Nope, that's not why he's missing.{F801}The great Buddha won't kidnap{F801}children.{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,-355}{F813,1,411003}Nope, that's not why he's missing.{F801}The great Buddha won't kidnap{F801}children.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Hariti\0{F87A,-371}{F813,1,418004}Oh, my... Are you a messenger from{F801}the heavens?{F801}</source>
+    <target>{F812}Hariti\0{F87A,-371}{F813,1,418004}Oh, my... Are you a messenger from{F801}the heavens?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Wu Kong\0{F87A,-355}{F813,1,411001}That's right. I've got a message from{F801}the great Buddha himself.{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,-355}{F813,1,411001}That's right. I've got a message from{F801}the great Buddha himself.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hariti\0{F87A,-371}{F813,1,418008}Wha... What did you say!?{F801}{F802}Oh... Priyankara... Mommy's coming to{F801}save you right now...!{F801}</source>
+    <target>{F812}Hariti\0{F87A,-371}{F813,1,418008}Wha... What did you say!?{F801}{F802}Oh... Priyankara... Mommy's coming to{F801}save you right now...!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Wu Kong\0{F87A,-355}{F813,1,411007}Woah woah, easy there. Why don't you{F801}ask this human to find him for you?{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,-355}{F813,1,411007}Woah woah, easy there. Why don't you{F801}ask this human to find him for you?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Hariti\0{F87A,-371}{F813,1,418009}What kind of mother would I be if I{F801}could stay calm while my son is{F801}kidnapped!?{F801}</source>
+    <target>{F812}Hariti\0{F87A,-371}{F813,1,418009}What kind of mother would I be if I{F801}could stay calm while my son is{F801}kidnapped!?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Wu Kong\0{F87A,-355}{F813,1,411008}Geez, that's one hell of an{F801}overprotective mother. Well, my job{F801}here's done. Peace!{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,-355}{F813,1,411008}Geez, that's one hell of an{F801}overprotective mother. Well, my job{F801}here's done. Peace!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Hariti\0{F87A,-371}{F813,1,418007}I'm sorry... I lost myself.{F801}{F802}I will go to Ikebukuro to find my{F801}son. Please... Could you help me{F801}look for him?{F801}</source>
+    <target>{F812}Hariti\0{F87A,-371}{F813,1,418007}I'm sorry... I lost myself.{F801}{F802}I will go to Ikebukuro to find my{F801}son. Please... Could you help me{F801}look for him?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 Hariti sprinkles something onto{F801}{F843,0}.{F801}</source>
+    <target>〉 Hariti sprinkles something onto{F801}{F843,0}.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Hariti\0{F87A,-371}{F813,1,418002}Don't worry, this won't hurt you.{F801}This is a perfume that only demons{F801}can smell.{F801}{F802}If Priyankara smells this, he'll{F801}know that I sent you.{F801}{F802}Please, come find me once you find{F801}Priyankara.{F801}</source>
+    <target>{F812}Hariti\0{F87A,-371}{F813,1,418002}Don't worry, this won't hurt you.{F801}This is a perfume that only demons{F801}can smell.{F801}{F802}If Priyankara smells this, he'll{F801}know that I sent you.{F801}{F802}Please, come find me once you find{F801}Priyankara.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Starving Man\0{F87A,59}{F813,1,403213}Huh!? Who the hell are you!? N-No, I{F801}haven't seen any kids around here! I{F801}don't know what you're talking about!{F801}{F802}G-Get the hell outta here, outsider!{F801}S... so get the hell out outsider!{F801}</source>
+    <target>{F812}Starving Man\0{F87A,59}{F813,1,403213}Huh!? Who the hell are you!? N-No, I{F801}haven't seen any kids around here! I{F801}don't know what you're talking about!{F801}{F802}G-Get the hell outta here, outsider!{F801}S... so get the hell out outsider!{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>Don't leave{F801}Leave{F801}</source>
+    <target>Don't leave{F801}Leave{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>{F812}Handsome boy\0{F87A,55}{F813,1,404013}M-Mother!{F801}</source>
+    <target>{F812}Handsome boy\0{F87A,55}{F813,1,404013}M-Mother!{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Emaciated Man\0{F87A,119}{F813,1,403013}Ahhhh! Somebody catch the demon.{F801}Now!{F801}</source>
+    <target>{F812}Emaciated Man\0{F87A,119}{F813,1,403013}Ahhhh! Somebody catch the demon.{F801}Now!{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>{F812}Handsome boy\0{F87A,55}{F813,1,404023}Silence! I am Prince Priyankara,{F801}youngest child of Yasha Daibosatsu{F801}Kishimojin!{F801}</source>
+    <target>{F812}Handsome boy\0{F87A,55}{F813,1,404023}Silence! I am Prince Priyankara,{F801}youngest child of Yasha Daibosatsu{F801}Kishimojin!{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>{F812}Priyankara\0{F87A,55}I can smell the scent of pomegranates{F801}on this man!{F801}{F802}You're working for my mother, aren't{F801}you? You've come to take me back!{F801}</source>
+    <target>{F812}Priyankara\0{F87A,55}I can smell the scent of pomegranates{F801}on this man!{F801}{F802}You're working for my mother, aren't{F801}you? You've come to take me back!{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>〉 Priyankara hides behind {F843,0}.{F801}</source>
+    <target>〉 Priyankara hides behind {F843,0}.{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>{F812}Starving Man\0{F87A,59}{F813,1,403221}Damn it! We finally just got our{F801}hands on him! I'm not letting him{F801}go that easily!{F801}{F802}Hey! Summon the Master! Let's kill{F801}this brat and get that demon kid!{F801}</source>
+    <target>{F812}Starving Man\0{F87A,59}{F813,1,403221}Damn it! We finally just got our{F801}hands on him! I'm not letting him{F801}go that easily!{F801}{F802}Hey! Summon the Master! Let's kill{F801}this brat and get that demon kid!{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>{F812}Demon\0{F87A,-633}{F813,1,413206}*sigh* Once again, you call me out{F801}to clean up another of your messes.{F801}{F802}It pains me to have to do so, but{F801}I will be your opponent...{F801}</source>
+    <target>{F812}Demon\0{F87A,-633}{F813,1,413206}*sigh* Once again, you call me out{F801}to clean up another of your messes.{F801}{F802}It pains me to have to do so, but{F801}I will be your opponent...{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>{F812}Emaciated Man\0{F87A,119}{F813,1,403031}As long as Master's here, we've got{F801}this in the bag... That kid's as{F801}good as ours!{F801}</source>
+    <target>{F812}Emaciated Man\0{F87A,119}{F813,1,403031}As long as Master's here, we've got{F801}this in the bag... That kid's as{F801}good as ours!{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>{F812}Starving Man\0{F87A,59}{F813,1,403223}Ugh... why...? Is it so wrong to{F801}try to survive...?{F801}{F802}This thing... it's a demon...{F801}it's not human...{F801}</source>
+    <target>{F812}Starving Man\0{F87A,59}{F813,1,403223}Ugh... why...? Is it so wrong to{F801}try to survive...?{F801}{F802}This thing... it's a demon...{F801}it's not human...{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>{F812}Priyankara\0{F87A,55}{F813,1,404023}So what if I'm a demon? My mother's{F801}going to come for me, and she will{F801}eat you all!{F801}{F802}Please, sir, what are we going to do{F801}with these pitiful excuses for humans?{F801}</source>
+    <target>{F812}Priyankara\0{F87A,55}{F813,1,404023}So what if I'm a demon? My mother's{F801}going to come for me, and she will{F801}eat you all!{F801}{F802}Please, sir, what are we going to do{F801}with these pitiful excuses for humans?{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>{F812}Starving Man\0{F87A,59}{F813,1,403213}P... Please! Noooo...!{F801}</source>
+    <target>{F812}Starving Man\0{F87A,59}{F813,1,403213}P... Please! Noooo...!{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>{F812}Priyankara\0{F87A,55}{F813,1,404041}Hoo... That was pretty good, sir.{F801}You've earned my respect.{F801}</source>
+    <target>{F812}Priyankara\0{F87A,55}{F813,1,404041}Hoo... That was pretty good, sir.{F801}You've earned my respect.{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>{F812}Starving Man\0{F87A,59}{F813,1,403231}Are you... really going to let us{F801}go...? Th-Thanks...{F801}</source>
+    <target>{F812}Starving Man\0{F87A,59}{F813,1,403231}Are you... really going to let us{F801}go...? Th-Thanks...{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>{F812}Priyankara\0{F87A,55}{F813,1,404042}You're going to let them run away?{F801}Mother would have eaten them for{F801}their insolence!{F801}</source>
+    <target>{F812}Priyankara\0{F87A,55}{F813,1,404042}You're going to let them run away?{F801}Mother would have eaten them for{F801}their insolence!{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>{F812}Priyankara\0{F87A,55}{F813,1,404013}Mother! I... I...{F801}I wasn't... scared... at all!{F801}</source>
+    <target>{F812}Priyankara\0{F87A,55}{F813,1,404013}Mother! I... I...{F801}I wasn't... scared... at all!{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>{F812}Hariti\0{F87A,-371}{F813,1,418007}Priyankara... It was your mother's{F801}fault that this happened.{F801}{F802}And you, {F843,0}.{F801}I am so grateful.{F801}{F802}It is all thanks to you that Priyankara{F801}has come back safe and sound.{F801}{F802}Now Priyankara, let's go home.{F801}Hold on tight to your mother.{F801}</source>
+    <target>{F812}Hariti\0{F87A,-371}{F813,1,418007}Priyankara... It was your mother's{F801}fault that this happened.{F801}{F802}And you, {F843,0}.{F801}I am so grateful.{F801}{F802}It is all thanks to you that Priyankara{F801}has come back safe and sound.{F801}{F802}Now Priyankara, let's go home.{F801}Hold on tight to your mother.{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>{F812}Priyankara\0{F87A,55}{F813,1,404033}Okay! Thank you, sir!{F801}Bye bye!{F801}</source>
+    <target>{F812}Priyankara\0{F87A,55}{F813,1,404033}Okay! Thank you, sir!{F801}Bye bye!{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>〉 According to the navigation map,{F801}this place is the "Kishimojin Temple."{F801}{F802}〉 A beautiful demon is standing{F801}here...{F801}</source>
+    <target>〉 According to the navigation map,{F801}this place is the "Kishimojin Temple."{F801}{F802}〉 A beautiful demon is standing{F801}here...{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>{F812}Hariti\0{F87A,-371}{F813,1,418004}Oh, you surprised me... To think a{F801}human would visit this place.{F801}{F802}There is nothing to fear. I have{F801}already sworn to never eat another{F801}human.{F801}{F802}However... I think we've talked long{F801}enough. You should return to your own{F801}journey at hand.{F801}</source>
+    <target>{F812}Hariti\0{F87A,-371}{F813,1,418004}Oh, you surprised me... To think a{F801}human would visit this place.{F801}{F802}There is nothing to fear. I have{F801}already sworn to never eat another{F801}human.{F801}{F802}However... I think we've talked long{F801}enough. You should return to your own{F801}journey at hand.{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>〉 There is nobody here...{F801}</source>
+    <target>〉 There is nobody here...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Wu Kong\0{F87A,-355}{F813,1,411000}Hey, you're that human from before.{F801}Long time, no see. What're you doing{F801}in a place like this?{F801}{F802}Well, never mind. I've got a job to{F801}do here first. Anyway!{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,-355}{F813,1,411000}Hey, you're that human from before.{F801}Long time, no see. What're you doing{F801}in a place like this?{F801}{F802}Well, never mind. I've got a job to{F801}do here first. Anyway!{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>{F812}Wu Kong\0{F87A,-355}Lady, your kid's being held prisoner{F801}in {F804,5}Ikebukuro.{F804,0}{F801}</source>
+    <target>{F812}Wu Kong\0{F87A,-355}Lady, your kid's being held prisoner{F801}in {F804,5}Ikebukuro.{F804,0}{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>〉 The demon leaves...{F801}</source>
+    <target>〉 The demon leaves...{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>〉 Hariti has headed to {F804,5}Ikebukuro{F804,0}{F801}to look for her son.{F801}</source>
+    <target>〉 Hariti has headed to {F804,5}Ikebukuro{F804,0}{F801}to look for her son.{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>〉 {F843,0} leaves the building...{F801}</source>
+    <target>〉 {F843,0} leaves the building...{F801}</target>
+  </entry>
+  <entry id="123">
+    <source>"Make them pay."{F801}"Let them go."{F801}</source>
+    <target>"Make them pay."{F801}"Let them go."{F801}</target>
+  </entry>
+  <entry id="127">
+    <source>{F812}Hariti\0{F87A,-371}{F813,1,418003}Priyankara!{F801}Oh... My precious Ainu...{F801}</source>
+    <target>{F812}Hariti\0{F87A,-371}{F813,1,418003}Priyankara!{F801}Oh... My precious Ainu...{F801}</target>
+  </entry>
+  <entry id="400">
+    <source>〉 {F843,0} could not protect{F801}Priyankara...{F801}{F802}〉 Priyankara has been taken from you.{F801}</source>
+    <target>〉 {F843,0} could not protect{F801}Priyankara...{F801}{F802}〉 Priyankara has been taken from you.{F801}</target>
+  </entry>
+  <entry id="500">
+    <source>〉 {F843,0} has decided to protect{F801}Priyankara.{F801}</source>
+    <target>〉 {F843,0} has decided to protect{F801}Priyankara.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is nobody here...{F801}</source>
+    <target>〉 There is nobody here...{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>〉 Wu Kong appears and explains the{F801}details.{F801}</source>
+    <target>〉 Wu Kong appears and explains the{F801}details.{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>〉 There is nobody here...{F801}</source>
+    <target>〉 There is nobody here...{F801}</target>
+  </entry>
+  <entry id="903">
+    <source>A battle with the humans that{F801}kidnapped Piyankara will begin.{F801}Piyankara will join your party.{F801}</source>
+    <target>A battle with the humans that{F801}kidnapped Piyankara will begin.{F801}Piyankara will join your party.{F801}</target>
+  </entry>
+  <entry id="904">
+    <source>Once the humans are defeated, you{F801}will return Piyankara to Hariti,{F801}thus completing the quest.{F801}</source>
+    <target>Once the humans are defeated, you{F801}will return Piyankara to Hariti,{F801}thus completing the quest.{F801}</target>
+  </entry>
+  <entry id="905">
+    <source>〉 You were unable to protect{F801}Piyankara. They take him away from{F801}you and kick you out...{F801}</source>
+    <target>〉 You were unable to protect{F801}Piyankara. They take him away from{F801}you and kick you out...{F801}</target>
+  </entry>
+  <entry id="906">
+    <source>〉 According to the navigation map,{F801}this place is the "Seibo Department{F801}Store."{F801}{F802}〉 There's an old elevator in the{F801}back. There are signs that someone{F801}tried to repair it recently...{F801}</source>
+    <target>〉 According to the navigation map,{F801}this place is the "Seibo Department{F801}Store."{F801}{F802}〉 There's an old elevator in the{F801}back. There are signs that someone{F801}tried to repair it recently...{F801}</target>
+  </entry>
+</mbm>

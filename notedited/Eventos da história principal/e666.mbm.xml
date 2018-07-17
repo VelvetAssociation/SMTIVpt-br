@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="0">
+    <source>〉 This appears to be the room that{F801}they want you to guard.{F801}{F802}〉 Will you stay and keep watch?{F801}</source>
+    <target>〉 This appears to be the room that{F801}they want you to guard.{F801}{F802}〉 Will you stay and keep watch?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>...{F801}{F802}......{F801}{F802}.........{F801}{F802}〉 You hear footsteps nearby...{F801}</source>
+    <target>...{F801}{F802}......{F801}{F802}.........{F801}{F802}〉 You hear footsteps nearby...{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You leave the area...{F801}</source>
+    <target>〉 You leave the area...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Male client\0{F87A,97}{F813,1,403642}It appears that you've exterminated{F801}the demons.{F801}{F802}I must admit, I had my suspicions{F801}about you at first, warrior from{F801}another world...{F801}{F802}But, after seeing how much you have{F801}helped us, I've realized that I was{F801}wrong. I apologize for my rudeness.{F801}</source>
+    <target>{F812}Male client\0{F87A,97}{F813,1,403642}It appears that you've exterminated{F801}the demons.{F801}{F802}I must admit, I had my suspicions{F801}about you at first, warrior from{F801}another world...{F801}{F802}But, after seeing how much you have{F801}helped us, I've realized that I was{F801}wrong. I apologize for my rudeness.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Male client\0{F87A,97}{F813,1,403633}You have my thanks.{F801}{F802}They might come back again later on...{F801}{F802}But if that happens, I'll try your{F801}techniques out on them. I'm not going{F801}to sit back and let them rob me!{F801}</source>
+    <target>{F812}Male client\0{F87A,97}{F813,1,403633}You have my thanks.{F801}{F802}They might come back again later on...{F801}{F802}But if that happens, I'll try your{F801}techniques out on them. I'm not going{F801}to sit back and let them rob me!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 The client leaves...{F801}</source>
+    <target>〉 The client leaves...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Male client\0{F87A,97}{F813,1,403601}It seems you've helped us out again.{F801}{F802}This isn't much, but I'm extremely{F801}grateful for your help.{F801}</source>
+    <target>{F812}Male client\0{F87A,97}{F813,1,403601}It seems you've helped us out again.{F801}{F802}This isn't much, but I'm extremely{F801}grateful for your help.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Male client\0{F87A,97}{F813,1,403641}If you ever have time, please help us{F801}by getting rid of those demons again.{F801}</source>
+    <target>{F812}Male client\0{F87A,97}{F813,1,403641}If you ever have time, please help us{F801}by getting rid of those demons again.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The client leaves...{F801}</source>
+    <target>〉 The client leaves...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403203}Are you the guy willing to fight{F801}Tlazolteotl for us?{F801}{F802}Rumor has it that this demon only{F801}eats people. She's got all this corn,{F801}and she's not even gonna eat it!{F801}{F802}So, it's far better for us to have{F801}that corn than for it to go to waste.{F801}Don't you agree?{F801}{F802}Well, I'm not hiring you to talk{F801}philosophy. I've made it so this{F801}terminal will get you to Ikebukuro.{F801}{F802}I'm sorry, but that's all I can do.{F801}I'll leave the fighting to a pro like{F801}yourself.{F801}</source>
+    <target>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403203}Are you the guy willing to fight{F801}Tlazolteotl for us?{F801}{F802}Rumor has it that this demon only{F801}eats people. She's got all this corn,{F801}and she's not even gonna eat it!{F801}{F802}So, it's far better for us to have{F801}that corn than for it to go to waste.{F801}Don't you agree?{F801}{F802}Well, I'm not hiring you to talk{F801}philosophy. I've made it so this{F801}terminal will get you to Ikebukuro.{F801}{F802}I'm sorry, but that's all I can do.{F801}I'll leave the fighting to a pro like{F801}yourself.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403242}The terminal to get you to Ikebukuro{F801}should be in Kasumigaseki.{F801}{F802}We'll head over there soon as well.{F801}Head to Ikebukuro once you're ready.{F801}</source>
+    <target>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403242}The terminal to get you to Ikebukuro{F801}should be in Kasumigaseki.{F801}{F802}We'll head over there soon as well.{F801}Head to Ikebukuro once you're ready.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

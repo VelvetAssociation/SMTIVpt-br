@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}I've locked onto the demon's signal.{F801}I'll display its location on the{F801}navigation map.{F801}{F802}If you want to defeat this demon,{F801}I suggest you remain on the defensive{F801}while pursuing it.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}I've locked onto the demon's signal.{F801}I'll display its location on the{F801}navigation map.{F801}{F802}If you want to defeat this demon,{F801}I suggest you remain on the defensive{F801}while pursuing it.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}I've still got a lock on the demon's{F801}signal.{F801}{F802}Let's be sure to defeat the demon{F801}this time.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}I've still got a lock on the demon's{F801}signal.{F801}{F802}Let's be sure to defeat the demon{F801}this time.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Kartikeya\0{F87A,-353}{F813,1,411206}Owww... What the heck, man.{F801}You're so violent!{F801}{F802}What did I ever do to you!?{F801}</source>
+    <target>{F812}Kartikeya\0{F87A,-353}{F813,1,411206}Owww... What the heck, man.{F801}You're so violent!{F801}{F802}What did I ever do to you!?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You tell Kartikeya about Parvati...{F801}</source>
+    <target>〉 You tell Kartikeya about Parvati...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Kartikeya\0{F87A,-353}{F813,1,411208}So Mother sent you to capture me...{F801}I thought she might have.{F801}{F802}Still, I don't want to go back!{F801}Never!{F801}</source>
+    <target>{F812}Kartikeya\0{F87A,-353}{F813,1,411208}So Mother sent you to capture me...{F801}I thought she might have.{F801}{F802}Still, I don't want to go back!{F801}Never!{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>"Why don't you want to go back?"{F801}"Parvati is a good mother."{F801}</source>
+    <target>"Why don't you want to go back?"{F801}"Parvati is a good mother."{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Kartikeya\0{F87A,-353}{F813,1,411209}Why...?{F801}{F802}......{F801}{F802}...Because I'm scared.{F801}{F802}Yeah, that's right.{F801}I'm scared of my mother.{F801}{F802}Well, Mother's very kind, but...{F801}It's just that...{F801}</source>
+    <target>{F812}Kartikeya\0{F87A,-353}{F813,1,411209}Why...?{F801}{F802}......{F801}{F802}...Because I'm scared.{F801}{F802}Yeah, that's right.{F801}I'm scared of my mother.{F801}{F802}Well, Mother's very kind, but...{F801}It's just that...{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Kartikeya\0{F87A,-353}{F813,1,411201}Yeah, I know. Mother's a very kind{F801}person...{F801}{F802}......{F801}{F802}But I'm scared of her...{F801}{F802}It's just that...{F801}</source>
+    <target>{F812}Kartikeya\0{F87A,-353}{F813,1,411201}Yeah, I know. Mother's a very kind{F801}person...{F801}{F802}......{F801}{F802}But I'm scared of her...{F801}{F802}It's just that...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Kartikeya\0{F87A,-353}She's just way too out there! Like{F801}she doesn't belong in this universe!{F801}{F802}I used to be six kids!{F801}{F802}But Mother hugged us all together,{F801}and we got merged into one person.{F801}{F802}Who has that kind of power!?{F801}That's just not right!{F801}{F802}Look... Once, she accidentally cut{F801}off somebody's head, and then she just{F801}replaced it with an elephant's head.{F801}{F802}My entire family is messed up!{F801}{F802}And that's why I got scared,{F801}and ran away.{F801}{F802}......{F801}{F802}I know Mother said she wanted to{F801}apologize to me, but I know that{F801}it's not really her fault.{F801}{F802}...I understand, though. If I run{F801}away without saying a word, she'll{F801}just worry about me.{F801}{F802}I'll go home one last time and talk{F801}to Mother about everything.{F801}{F802}{F813,1,411201}Thanks, human.{F801}{F802}Actually, I realized how good this{F801}body is while I was fighting you.{F801}{F802}I can reach speeds I never could{F801}before... I think I'll talk to Mother{F801}about this.{F801}</source>
+    <target>{F812}Kartikeya\0{F87A,-353}She's just way too out there! Like{F801}she doesn't belong in this universe!{F801}{F802}I used to be six kids!{F801}{F802}But Mother hugged us all together,{F801}and we got merged into one person.{F801}{F802}Who has that kind of power!?{F801}That's just not right!{F801}{F802}Look... Once, she accidentally cut{F801}off somebody's head, and then she just{F801}replaced it with an elephant's head.{F801}{F802}My entire family is messed up!{F801}{F802}And that's why I got scared,{F801}and ran away.{F801}{F802}......{F801}{F802}I know Mother said she wanted to{F801}apologize to me, but I know that{F801}it's not really her fault.{F801}{F802}...I understand, though. If I run{F801}away without saying a word, she'll{F801}just worry about me.{F801}{F802}I'll go home one last time and talk{F801}to Mother about everything.{F801}{F802}{F813,1,411201}Thanks, human.{F801}{F802}Actually, I realized how good this{F801}body is while I was fighting you.{F801}{F802}I can reach speeds I never could{F801}before... I think I'll talk to Mother{F801}about this.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The demon leaves...{F801}</source>
+    <target>〉 The demon leaves...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

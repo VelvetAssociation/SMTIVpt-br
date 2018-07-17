@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A serene-looking dragon is floating{F801}over the deserted lake.{F801}</source>
+    <target>〉 A serene-looking dragon is floating{F801}over the deserted lake.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Dragon of the Lake\0{F87A,-384}{F813,0,609000}You come to this place, sword in{F801}hand...{F801}{F802}{F813,0,609001}Have you come to slay me?{F801}</source>
+    <target>{F812}Dragon of the Lake\0{F87A,-384}{F813,0,609000}You come to this place, sword in{F801}hand...{F801}{F802}{F813,0,609001}Have you come to slay me?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Dragon of the Lake\0{F87A,-384}{F813,0,609002}Yet another one... I've lost count{F801}of how many have come before you.{F801}{F802}{F813,0,609003}To think that a mere human would{F801}challenge Long. It would seem you{F801}have a death wish!{F801}</source>
+    <target>{F812}Dragon of the Lake\0{F87A,-384}{F813,0,609002}Yet another one... I've lost count{F801}of how many have come before you.{F801}{F802}{F813,0,609003}To think that a mere human would{F801}challenge Long. It would seem you{F801}have a death wish!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Dragon of the Lake\0{F87A,-384}{F813,0,609004}Then leave this place immediately.{F801}</source>
+    <target>{F812}Dragon of the Lake\0{F87A,-384}{F813,0,609004}Then leave this place immediately.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Long\0{F87A,-384}{F813,0,609005}To think that there are humans like{F801}you, that wield such great power...{F801}{F802}{F813,0,609006}Let me ask you one thing.{F801}{F802}{F813,0,609007}What do you see us dragons as?{F801}{F802}{F813,0,609008}Enemies to be slain for honor and{F801}glory? As gods of the land?{F801}</source>
+    <target>{F812}Long\0{F87A,-384}{F813,0,609005}To think that there are humans like{F801}you, that wield such great power...{F801}{F802}{F813,0,609006}Let me ask you one thing.{F801}{F802}{F813,0,609007}What do you see us dragons as?{F801}{F802}{F813,0,609008}Enemies to be slain for honor and{F801}glory? As gods of the land?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>"You are beasts to be slain."{F801}"You are holy spirits."{F801}</source>
+    <target>"You are beasts to be slain."{F801}"You are holy spirits."{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Long\0{F87A,-384}{F813,0,609009}I see... To you, we dragons are{F801}nothing more than monsters.{F801}</source>
+    <target>{F812}Long\0{F87A,-384}{F813,0,609009}I see... To you, we dragons are{F801}nothing more than monsters.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Long\0{F87A,-384}{F813,0,609010}I see... Then humans would dare{F801}to oppose the gods as well...{F801}</source>
+    <target>{F812}Long\0{F87A,-384}{F813,0,609010}I see... Then humans would dare{F801}to oppose the gods as well...{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Long\0{F87A,-384}{F813,0,609011}Either way, the fact remains that{F801}you have defeated me.{F801}{F802}{F813,0,609012}I shall leave this place.{F801}</source>
+    <target>{F812}Long\0{F87A,-384}{F813,0,609011}Either way, the fact remains that{F801}you have defeated me.{F801}{F802}{F813,0,609012}I shall leave this place.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The dragon leaves...{F801}</source>
+    <target>〉 The dragon leaves...{F801}</target>
+  </entry>
+</mbm>

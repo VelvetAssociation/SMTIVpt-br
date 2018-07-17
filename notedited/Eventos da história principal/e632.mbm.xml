@@ -1,0 +1,26 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Bai Suzhen\0{F87A,-508}{F813,1,418008}Ah... You... You're here to kill me...{F801}Is that what he ordered?{F801}{F802}I knew he would send someone...{F801}We were in love... and he just threw{F801}me away like a filthy rag.{F801}{F802}We promised each other that we would{F801}be together forever... I was ready to{F801}throw away everything for him!{F801}{F802}I won't forgive him... ever...{F801}{F802}So please...{F801}Let me keep going...{F801}</source>
+    <target>{F812}Bai Suzhen\0{F87A,-508}{F813,1,418008}Ah... You... You're here to kill me...{F801}Is that what he ordered?{F801}{F802}I knew he would send someone...{F801}We were in love... and he just threw{F801}me away like a filthy rag.{F801}{F802}We promised each other that we would{F801}be together forever... I was ready to{F801}throw away everything for him!{F801}{F802}I won't forgive him... ever...{F801}{F802}So please...{F801}Let me keep going...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 What will you do?{F801}</source>
+    <target>〉 What will you do?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Let her go{F801}Finish her{F801}</source>
+    <target>Let her go{F801}Finish her{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Bai Suzhen\0{F87A,-508}{F813,1,418003}Oh... Thank you...{F801}{F802}...I will take everything from him...{F801}Everything... that makes him happy...{F801}</source>
+    <target>{F812}Bai Suzhen\0{F87A,-508}{F813,1,418003}Oh... Thank you...{F801}{F802}...I will take everything from him...{F801}Everything... that makes him happy...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Bai Suzhen left.{F801}</source>
+    <target>〉 Bai Suzhen left.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Bai Suzhen\0{F87A,-508}{F813,1,418006}No... Noooooooo!{F801}{F802}Am I not... gah... even allowed to...{F801}curse that man...?{F801}</source>
+    <target>{F812}Bai Suzhen\0{F87A,-508}{F813,1,418006}No... Noooooooo!{F801}{F802}Am I not... gah... even allowed to...{F801}curse that man...?{F801}</target>
+  </entry>
+</mbm>

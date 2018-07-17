@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>〉 A suspicious-looking man stands{F801}in a deserted area...{F801}</source>
+    <target>〉 A suspicious-looking man stands{F801}in a deserted area...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Follow him{F801}Leave him alone{F801}</source>
+    <target>Follow him{F801}Leave him alone{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 The suspicious man looks in your{F801}direction...{F801}{F802}〉 It appears that he has noticed you.{F801}</source>
+    <target>〉 The suspicious man looks in your{F801}direction...{F801}{F802}〉 It appears that he has noticed you.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Suspicious Man\0{F87A,35}{F813,0,614000}I can tell you're following me.{F801}From the look of you, I'm guessing{F801}you're one of those... Samurai?{F801}{F802}{F813,0,614001}Bah... It doesn't matter who you are.{F801}I'm sure you have a problem with{F801}this country too, right?{F801}{F802}{F813,0,614002}Don't you think that this whole{F801}class system is ridiculous?{F801}</source>
+    <target>{F812}Suspicious Man\0{F87A,35}{F813,0,614000}I can tell you're following me.{F801}From the look of you, I'm guessing{F801}you're one of those... Samurai?{F801}{F802}{F813,0,614001}Bah... It doesn't matter who you are.{F801}I'm sure you have a problem with{F801}this country too, right?{F801}{F802}{F813,0,614002}Don't you think that this whole{F801}class system is ridiculous?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>"Yes, it is."{F801}"Society needs rules."{F801}</source>
+    <target>"Yes, it is."{F801}"Society needs rules."{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Suspicious Man\0{F87A,35}{F813,0,614003}Then here's what we need to do:{F801}start a revolution. We have to risk{F801}our lives to fight for freedom.{F801}{F802}{F813,0,614004}But you must be prepared to lay down{F801}your life for the cause, understand?{F801}So... you first.{F801}</source>
+    <target>{F812}Suspicious Man\0{F87A,35}{F813,0,614003}Then here's what we need to do:{F801}start a revolution. We have to risk{F801}our lives to fight for freedom.{F801}{F802}{F813,0,614004}But you must be prepared to lay down{F801}your life for the cause, understand?{F801}So... you first.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Suspicious Man\0{F87A,35}{F813,0,614005}Yeah, that's what I thought a Samurai{F801}would say. You can take those "rules"{F801}and shove 'em up your ass.{F801}{F802}{F813,0,614006}Nobody understands how this society{F801}oppresses us. Something must be done{F801}to wake the people up.{F801}</source>
+    <target>{F812}Suspicious Man\0{F87A,35}{F813,0,614005}Yeah, that's what I thought a Samurai{F801}would say. You can take those "rules"{F801}and shove 'em up your ass.{F801}{F802}{F813,0,614006}Nobody understands how this society{F801}oppresses us. Something must be done{F801}to wake the people up.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Demon\0{F87A,-618}{F813,0,614007}Did I surprise you? This is what it{F801}means to be truly awakened...{F801}{F802}{F813,0,614008}With this power, I'm going to end{F801}this tyranny forever!{F801}</source>
+    <target>{F812}Demon\0{F87A,-618}{F813,0,614007}Did I surprise you? This is what it{F801}means to be truly awakened...{F801}{F802}{F813,0,614008}With this power, I'm going to end{F801}this tyranny forever!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>〉 {F843,0} decides to leave without{F801}following the man.{F801}</source>
+    <target>〉 {F843,0} decides to leave without{F801}following the man.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Master Samurai\0{F87A,29}{F813,0,614009}Hm? {F843,0}, is that you over{F801}there? Ah, I see... You've slain the{F801}demon.{F801}{F802}{F813,0,614010}I expected as much from the star{F801}prentice. You even beat me to it...{F801}Impressive!{F801}{F802}{F813,0,614011}I have high hopes for you.{F801}Keep up the good work.{F801}</source>
+    <target>{F812}Master Samurai\0{F87A,29}{F813,0,614009}Hm? {F843,0}, is that you over{F801}there? Ah, I see... You've slain the{F801}demon.{F801}{F802}{F813,0,614010}I expected as much from the star{F801}prentice. You even beat me to it...{F801}Impressive!{F801}{F802}{F813,0,614011}I have high hopes for you.{F801}Keep up the good work.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 The man puts on a mask and raises{F801}his spear high into the air.{F801}</source>
+    <target>〉 The man puts on a mask and raises{F801}his spear high into the air.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 The demon has vanished.{F801}</source>
+    <target>〉 The demon has vanished.{F801}</target>
+  </entry>
+</mbm>

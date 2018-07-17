@@ -1,0 +1,14 @@
+<mbm>
+  <entry id="0">
+    <source>〉 The city has been sealed off by the{F801}demon's Domain.{F801}</source>
+    <target>〉 The city has been sealed off by the{F801}demon's Domain.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Burroughs\0{F87A,2}{F813,1,502044}I've captured the signals of some{F801}other demons.{F801}{F802}I'll display them on the navigation{F801}map.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,2}{F813,1,502044}I've captured the signals of some{F801}other demons.{F801}{F802}I'll display them on the navigation{F801}map.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>You can exit the Domain either by{F801}completing or abandoning the quest.{F801}</source>
+    <target>You can exit the Domain either by{F801}completing or abandoning the quest.{F801}</target>
+  </entry>
+</mbm>

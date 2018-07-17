@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Demon\0{F87A,-118}{F813,1,418002}Did you know that the great Indian{F801}gods have finally decided to make{F801}more soma?{F801}{F802}I need to help them.{F801}{F802}I wonder if it would please Shiva if{F801}I danced for them?{F801}{F802}Oh, I can't wait!{F801}</source>
+    <target>{F812}Demon\0{F87A,-118}{F813,1,418002}Did you know that the great Indian{F801}gods have finally decided to make{F801}more soma?{F801}{F802}I need to help them.{F801}{F802}I wonder if it would please Shiva if{F801}I danced for them?{F801}{F802}Oh, I can't wait!{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 The demon is extremely excited...{F801}</source>
+    <target>〉 The demon is extremely excited...{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-118}{F813,1,418001}Ah, a truly noble mindset.{F801}Vishnu will be pleased.{F801}{F802}My name is Apsaras.{F801}{F802}{F812}Apsaras\0{F87A,-118}You see, the gods of India have{F801}decided to come forth and make the{F801}divine wine, Soma.{F801}{F802}It's a huge project. They're going{F801}to use the water of Tokyo Bay to do{F801}it.{F801}{F802}We're also going to require the skin{F801}from {F804,5}Drake Vasuki{F804,0}s so that we can{F801}make rope out of it.{F801}{F802}I highly doubt that any human would{F801}be able to defeat a Vasuki.{F801}{F802}Still, Brahma always says never to{F801}underestimate a human's powers, so{F801}I guess I'll give you a chance.{F801}{F802}Once you have collected the Vasuki{F801}skin, please bring it here.{F801}{F802}I'm counting on you.{F801}</source>
+    <target>{F812}Demon\0{F87A,-118}{F813,1,418001}Ah, a truly noble mindset.{F801}Vishnu will be pleased.{F801}{F802}My name is Apsaras.{F801}{F802}{F812}Apsaras\0{F87A,-118}You see, the gods of India have{F801}decided to come forth and make the{F801}divine wine, Soma.{F801}{F802}It's a huge project. They're going{F801}to use the water of Tokyo Bay to do{F801}it.{F801}{F802}We're also going to require the skin{F801}from {F804,5}Drake Vasuki{F804,0}s so that we can{F801}make rope out of it.{F801}{F802}I highly doubt that any human would{F801}be able to defeat a Vasuki.{F801}{F802}Still, Brahma always says never to{F801}underestimate a human's powers, so{F801}I guess I'll give you a chance.{F801}{F802}Once you have collected the Vasuki{F801}skin, please bring it here.{F801}{F802}I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Apsaras\0{F87A,-118}{F813,1,418000}Vasuki don't show themselves often,{F801}but they're all around on the surface.{F801}{F802}So look hard for them, and don't give{F801}up.{F801}{F802}I suggest that you don't take them{F801}lightly, or you'll be sorry. They{F801}are extremely scary demons.{F801}</source>
+    <target>{F812}Apsaras\0{F87A,-118}{F813,1,418000}Vasuki don't show themselves often,{F801}but they're all around on the surface.{F801}{F802}So look hard for them, and don't give{F801}up.{F801}{F802}I suggest that you don't take them{F801}lightly, or you'll be sorry. They{F801}are extremely scary demons.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon\0{F87A,-118}{F813,1,418001}Ah, a truly noble mindset.{F801}Vishnu will be pleased.{F801}{F802}My name is Apsaras.{F801}{F802}{F812}Apsaras\0{F87A,-118}You see, the gods of India have{F801}decided to come forth and make the{F801}divine wine, Soma.{F801}{F802}It's a huge project. They're going{F801}to use the water of Tokyo Bay to do{F801}it.{F801}{F802}We're also going to require the skin{F801}from {F804,5}Drake Vasuki{F804,0}s so that we can{F801}make rope out of it.{F801}{F802}...What's this? Do you already have{F801}Vasuki skin with you?{F801}</source>
+    <target>{F812}Demon\0{F87A,-118}{F813,1,418001}Ah, a truly noble mindset.{F801}Vishnu will be pleased.{F801}{F802}My name is Apsaras.{F801}{F802}{F812}Apsaras\0{F87A,-118}You see, the gods of India have{F801}decided to come forth and make the{F801}divine wine, Soma.{F801}{F802}It's a huge project. They're going{F801}to use the water of Tokyo Bay to do{F801}it.{F801}{F802}We're also going to require the skin{F801}from {F804,5}Drake Vasuki{F804,0}s so that we can{F801}make rope out of it.{F801}{F802}...What's this? Do you already have{F801}Vasuki skin with you?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Apsaras\0{F87A,-118}{F813,1,418004}Did you really defeat the Vasuki on{F801}your own!? That's amazing!{F801}{F802}We're going to use a good number of{F801}Vasuki skins for the process.{F801}{F802}We're always going to need more.{F801}{F802}If you happen to collect more Vasuki{F801}skins, please bring them to me.{F801}</source>
+    <target>{F812}Apsaras\0{F87A,-118}{F813,1,418004}Did you really defeat the Vasuki on{F801}your own!? That's amazing!{F801}{F802}We're going to use a good number of{F801}Vasuki skins for the process.{F801}{F802}We're always going to need more.{F801}{F802}If you happen to collect more Vasuki{F801}skins, please bring them to me.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Apsaras\0{F87A,-118}{F813,1,418008}Oh, so you get my hopes up, just to{F801}dash them away. What nerve!{F801}{F802}I will never forgive you! ...Unless{F801}you bring me some Vasuki skin.{F801}</source>
+    <target>{F812}Apsaras\0{F87A,-118}{F813,1,418008}Oh, so you get my hopes up, just to{F801}dash them away. What nerve!{F801}{F802}I will never forgive you! ...Unless{F801}you bring me some Vasuki skin.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Apsaras\0{F87A,-118}{F813,1,418003}So? Did you bring the goods?{F801}</source>
+    <target>{F812}Apsaras\0{F87A,-118}{F813,1,418003}So? Did you bring the goods?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Demon\0{F87A,-118}{F813,1,418003}Oh, are you here for the request I{F801}posted, perhaps?{F801}{F802}I asked for someone to collect Vasuki{F801}skins. Does that sound familiar?{F801}</source>
+    <target>{F812}Demon\0{F87A,-118}{F813,1,418003}Oh, are you here for the request I{F801}posted, perhaps?{F801}{F802}I asked for someone to collect Vasuki{F801}skins. Does that sound familiar?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>"Yes."{F801}"No."{F801}</source>
+    <target>"Yes."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Demon\0{F87A,-118}{F813,1,418004}Oh I'm sorry. My mistake.{F801}{F802}I honestly wonder if any human could{F801}slay a Vasuki... This worries me.{F801}</source>
+    <target>{F812}Demon\0{F87A,-118}{F813,1,418004}Oh I'm sorry. My mistake.{F801}{F802}I honestly wonder if any human could{F801}slay a Vasuki... This worries me.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

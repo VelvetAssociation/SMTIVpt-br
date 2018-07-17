@@ -1,0 +1,46 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Baker\0{F87A,23}{F813,0,628000}*sigh* ...I don't understand{F801}anymore... What's the point in{F801}living...?{F801}</source>
+    <target>{F812}Baker\0{F87A,23}{F813,0,628000}*sigh* ...I don't understand{F801}anymore... What's the point in{F801}living...?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Talk to him{F801}Leave him be{F801}</source>
+    <target>Talk to him{F801}Leave him be{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Baker\0{F87A,23}{F813,0,628001}Huh? ...Oh. Hello. Yeah, sorry,{F801}but... I'm not baking bread anymore.{F801}{F802}{F813,0,628002}And you can't run a bakery if the{F801}baker doesn't bake. I've decided{F801}that I need to find knowledge.{F801}{F802}{F813,0,628003}You see... Academics is nothing but{F801}vanity, an effort by humans to make{F801}themselves less human. Or so I hear.{F801}{F802}{F813,0,628004}I want to... to learn more.{F801}I want to know everything I've been{F801}missing out on.{F801}</source>
+    <target>{F812}Baker\0{F87A,23}{F813,0,628001}Huh? ...Oh. Hello. Yeah, sorry,{F801}but... I'm not baking bread anymore.{F801}{F802}{F813,0,628002}And you can't run a bakery if the{F801}baker doesn't bake. I've decided{F801}that I need to find knowledge.{F801}{F802}{F813,0,628003}You see... Academics is nothing but{F801}vanity, an effort by humans to make{F801}themselves less human. Or so I hear.{F801}{F802}{F813,0,628004}I want to... to learn more.{F801}I want to know everything I've been{F801}missing out on.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Baker\0{F87A,-422}{F813,0,628005}So if learning things makes me less{F801}human... then it doesn't matter if I{F801}become a demon!{F801}</source>
+    <target>{F812}Baker\0{F87A,-422}{F813,0,628005}So if learning things makes me less{F801}human... then it doesn't matter if I{F801}become a demon!{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 You decide to leave...{F801}</source>
+    <target>〉 You decide to leave...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Baker\0{F87A,-422}{F813,0,628006}What did I... do wrong...?{F801}Is it so wrong... to want to know...?{F801}</source>
+    <target>{F812}Baker\0{F87A,-422}{F813,0,628006}What did I... do wrong...?{F801}Is it so wrong... to want to know...?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Samurai\0{F87A,29}{F813,0,628007}Oh, {F843,0}. Good work. I'm glad we{F801}were able to execute that man before{F801}anyone else was affected.{F801}{F802}{F813,0,628008}Is it just me, or have there been a{F801}lot of cases like this recently? I{F801}hope it isn't some kind of ill omen...{F801}</source>
+    <target>{F812}Samurai\0{F87A,29}{F813,0,628007}Oh, {F843,0}. Good work. I'm glad we{F801}were able to execute that man before{F801}anyone else was affected.{F801}{F802}{F813,0,628008}Is it just me, or have there been a{F801}lot of cases like this recently? I{F801}hope it isn't some kind of ill omen...{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>〉 A Samurai runs up to you...{F801}</source>
+    <target>〉 A Samurai runs up to you...{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>〉 The demon disappears...{F801}</source>
+    <target>〉 The demon disappears...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>While talking to the baker,{F801}the baker turns into a demon,{F801}and proceeds to a battle.{F801}</source>
+    <target>While talking to the baker,{F801}the baker turns into a demon,{F801}and proceeds to a battle.{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>You have defeated the baker. A{F801}Samurai will come by and end the{F801}quest.{F801}</source>
+    <target>You have defeated the baker. A{F801}Samurai will come by and end the{F801}quest.{F801}</target>
+  </entry>
+</mbm>

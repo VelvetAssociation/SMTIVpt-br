@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Master\0{F87A,29}{F813,1,403003}Hey, prentice. Looks like you're{F801}taking part in the little competition{F801}that's up on the board.{F801}{F802}Legion Skills can be very powerful{F801}weapons in a Samurai's quiver.{F801}{F802}This quest will teach you how to{F801}attain these skills.{F801}{F802}Is there anything you wish to know?{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403003}Hey, prentice. Looks like you're{F801}taking part in the little competition{F801}that's up on the board.{F801}{F802}Legion Skills can be very powerful{F801}weapons in a Samurai's quiver.{F801}{F802}This quest will teach you how to{F801}attain these skills.{F801}{F802}Is there anything you wish to know?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"What is a Legion Skill?"{F801}"How cam I attain Legion Skills?"{F801}"Not really, no."{F801}</source>
+    <target>"What is a Legion Skill?"{F801}"How cam I attain Legion Skills?"{F801}"Not really, no."{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Master\0{F87A,29}{F813,1,403042}Legion Skills are skills that demons{F801}can use when gathered into hordes.{F801}{F802}Under a Samurai's command, they are{F801}strong attacks that temporarily{F801}summon a group of demons.{F801}{F802}These hordes can be troublesome foes,{F801}but if you can convince one to help{F801}you, it can be a tremendous asset.{F801}{F802}If you are going to be a real Samurai,{F801}you should be able to use one or two{F801}Legion Skills.{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403042}Legion Skills are skills that demons{F801}can use when gathered into hordes.{F801}{F802}Under a Samurai's command, they are{F801}strong attacks that temporarily{F801}summon a group of demons.{F801}{F802}These hordes can be troublesome foes,{F801}but if you can convince one to help{F801}you, it can be a tremendous asset.{F801}{F802}If you are going to be a real Samurai,{F801}you should be able to use one or two{F801}Legion Skills.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Master\0{F87A,29}{F813,1,403042}Legion Skills are attained from{F801}demon hordes.{F801}{F802}Hordes are pretty easy to find,{F801}since they look like swarms.{F801}{F802}Once you enter battle, try using the{F801}"Scout" command while in conversation{F801}with the demons.{F801}{F802}If you are successful, the horde may{F801}"teach" you the Legion Skill.{F801}{F802}...This is possible by having them{F801}Whisper the skill to you.{F801}{F802}Don't worry; it's not difficult.{F801}If you can make demons your allies{F801}singularly, this is about the same.{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403042}Legion Skills are attained from{F801}demon hordes.{F801}{F802}Hordes are pretty easy to find,{F801}since they look like swarms.{F801}{F802}Once you enter battle, try using the{F801}"Scout" command while in conversation{F801}with the demons.{F801}{F802}If you are successful, the horde may{F801}"teach" you the Legion Skill.{F801}{F802}...This is possible by having them{F801}Whisper the skill to you.{F801}{F802}Don't worry; it's not difficult.{F801}If you can make demons your allies{F801}singularly, this is about the same.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Master\0{F87A,29}{F813,1,403042}Well, according to my information,{F801}demon hordes tend to appear between{F801}the {F804,5}3rd and 5th levels{F804,0} of Naraku.{F801}{F802}Once you have attained a Legion Skill,{F801}come show it to me, and I'll judge{F801}it for you.{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403042}Well, according to my information,{F801}demon hordes tend to appear between{F801}the {F804,5}3rd and 5th levels{F804,0} of Naraku.{F801}{F802}Once you have attained a Legion Skill,{F801}come show it to me, and I'll judge{F801}it for you.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Master\0{F87A,29}{F813,1,403003}Legion Skills can be very powerful{F801}weapons in a Samurai's quiver.{F801}{F802}This quest will teach you how to{F801}attain these skills.{F801}{F802}Is there anything you wish to know?{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403003}Legion Skills can be very powerful{F801}weapons in a Samurai's quiver.{F801}{F802}This quest will teach you how to{F801}attain these skills.{F801}{F802}Is there anything you wish to know?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Master\0{F87A,29}{F813,1,403003}Hey, prentice. Did you attain a{F801}Legion Skill?{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403003}Hey, prentice. Did you attain a{F801}Legion Skill?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Master\0{F87A,29}{F813,1,403041}Ah, yes. It seems you do have a{F801}Legion Skill.{F801}{F802}Well, well, you've exceeded my{F801}expectations. You're in first place.{F801}{F802}We've all been betting on the outcome{F801}of the competition...{F801}{F802}Looks like K's gonna take the pot.{F801}That guy sure knows how to pick 'em.{F801}{F802}Well, that's the joy of{F801}Challenge Quests.{F801}{F802}Good luck to you, prentice.{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403041}Ah, yes. It seems you do have a{F801}Legion Skill.{F801}{F802}Well, well, you've exceeded my{F801}expectations. You're in first place.{F801}{F802}We've all been betting on the outcome{F801}of the competition...{F801}{F802}Looks like K's gonna take the pot.{F801}That guy sure knows how to pick 'em.{F801}{F802}Well, that's the joy of{F801}Challenge Quests.{F801}{F802}Good luck to you, prentice.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Master\0{F87A,29}{F813,1,403042}What's wrong? If you don't hurry,{F801}the others are going to beat you{F801}to it.{F801}{F802}Well, according to my information,{F801}demon hordes tend to appear between{F801}the {F804,5}3rd and 5th levels{F804,0} of Naraku.{F801}{F802}Once you have attained a Legion Skill,{F801}come show it to me, and I'll judge{F801}it for you.{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403042}What's wrong? If you don't hurry,{F801}the others are going to beat you{F801}to it.{F801}{F802}Well, according to my information,{F801}demon hordes tend to appear between{F801}the {F804,5}3rd and 5th levels{F804,0} of Naraku.{F801}{F802}Once you have attained a Legion Skill,{F801}come show it to me, and I'll judge{F801}it for you.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Master\0{F87A,29}{F813,1,403003}Hey, prentice. Looks like you're{F801}taking part in the little competition{F801}that's up on the board.{F801}{F802}Legion Skills can be very powerful{F801}weapons in a Samurai's quiver.{F801}{F802}...Wait a minute, do you already{F801}have one?{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403003}Hey, prentice. Looks like you're{F801}taking part in the little competition{F801}that's up on the board.{F801}{F802}Legion Skills can be very powerful{F801}weapons in a Samurai's quiver.{F801}{F802}...Wait a minute, do you already{F801}have one?{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Master\0{F87A,29}{F813,1,403002}Is there anything else you wish to{F801}know?{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403002}Is there anything else you wish to{F801}know?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Master\0{F87A,29}{F813,1,403042}Why don't you ask Mido from the{F801}Cathedral of Shadows? He's the{F801}expert on this sort of thing.{F801}{F802}Anyway, first you must obtain a{F801}contract with a demon.{F801}{F802}That way, Mido can give you a thorough{F801}explanation on how to fuse demons.{F801}</source>
+    <target>{F812}Master\0{F87A,29}{F813,1,403042}Why don't you ask Mido from the{F801}Cathedral of Shadows? He's the{F801}expert on this sort of thing.{F801}{F802}Anyway, first you must obtain a{F801}contract with a demon.{F801}{F802}That way, Mido can give you a thorough{F801}explanation on how to fuse demons.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

@@ -1,0 +1,66 @@
+<mbm>
+  <entry id="0">
+    <source>〉 There are several portable{F801}artillery cannons sitting around...{F801}{F802}〉 Will you take one along with you?{F801}</source>
+    <target>〉 There are several portable{F801}artillery cannons sitting around...{F801}{F802}〉 Will you take one along with you?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 You decide to take one of the{F801}cannons.{F801}</source>
+    <target>〉 You decide to take one of the{F801}cannons.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 You leave the area...{F801}</source>
+    <target>〉 You leave the area...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 The portable cannon you were{F801}hauling has been destroyed.{F801}{F802}〉 You abandon the wreckage of the{F801}portable cannon.{F801}</source>
+    <target>〉 The portable cannon you were{F801}hauling has been destroyed.{F801}{F802}〉 You abandon the wreckage of the{F801}portable cannon.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403241}Oh! Were you able to find a cannon?{F801}</source>
+    <target>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403241}Oh! Were you able to find a cannon?{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 You give the man the cannon you{F801}had been carrying.{F801}</source>
+    <target>〉 You give the man the cannon you{F801}had been carrying.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403231}We can use this to protect the city{F801}now. Thanks a lot!{F801}{F802}We'll show those demons that we're not{F801}gonna sit around and wait to be killed!{F801}Just you watch!{F801}</source>
+    <target>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403231}We can use this to protect the city{F801}now. Thanks a lot!{F801}{F802}We'll show those demons that we're not{F801}gonna sit around and wait to be killed!{F801}Just you watch!{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403242}Ah, it's you. Thanks for bringing the{F801}cannon.{F801}{F802}I'm sure it's going to save a lot of{F801}lives. It's all thanks to you.{F801}</source>
+    <target>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403242}Ah, it's you. Thanks for bringing the{F801}cannon.{F801}{F802}I'm sure it's going to save a lot of{F801}lives. It's all thanks to you.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>〉 The client leaves...{F801}</source>
+    <target>〉 The client leaves...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403202}Are you the one who accepted the job{F801}to bring me some weaponry?{F801}{F802}Thanks, I really need the help.{F801}{F802}As you can see, the whole world's a{F801}complete mess. It's all destroyed.{F801}We've lost everything.{F801}{F802}And on top of that, demons have{F801}appeared and are slaughtering people{F801}all over the place.{F801}{F802}Even if we wanted to fight back, we{F801}don't have anything to use against{F801}them.{F801}{F802}But, for some strange reason, the{F801}Ministry of Defense in Ichigaya has{F801}remained untouched.{F801}{F802}There are some mobile artillery{F801}cannons behind the building...{F801}{F802}I want you to bring me one of them.{F801}{F802}I'm sorry to trouble you with this,{F801}but I'm counting on you.{F801}</source>
+    <target>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403202}Are you the one who accepted the job{F801}to bring me some weaponry?{F801}{F802}Thanks, I really need the help.{F801}{F802}As you can see, the whole world's a{F801}complete mess. It's all destroyed.{F801}We've lost everything.{F801}{F802}And on top of that, demons have{F801}appeared and are slaughtering people{F801}all over the place.{F801}{F802}Even if we wanted to fight back, we{F801}don't have anything to use against{F801}them.{F801}{F802}But, for some strange reason, the{F801}Ministry of Defense in Ichigaya has{F801}remained untouched.{F801}{F802}There are some mobile artillery{F801}cannons behind the building...{F801}{F802}I want you to bring me one of them.{F801}{F802}I'm sorry to trouble you with this,{F801}but I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403242}When you get one of the portable{F801}cannons into the city, come and tell{F801}me.{F801}{F802}We need weapons to fight back against{F801}the demons. Please!{F801}</source>
+    <target>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403242}When you get one of the portable{F801}cannons into the city, come and tell{F801}me.{F801}{F802}We need weapons to fight back against{F801}the demons. Please!{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403222}Isn't there anyone who can bring one{F801}of the cannons into the city?{F801}{F802}We need to fight the demons somehow...{F801}</source>
+    <target>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403222}Isn't there anyone who can bring one{F801}of the cannons into the city?{F801}{F802}We need to fight the demons somehow...{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403242}Huh? Have you found the cannons yet?{F801}{F802}I know it's asking for a lot, but{F801}I'm counting on you.{F801}</source>
+    <target>{F812}Shelter inhabitant\0{F87A,97}{F813,1,403242}Huh? Have you found the cannons yet?{F801}{F802}I know it's asking for a lot, but{F801}I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="500">
+    <source>〉 There are several portable{F801}artillery cannons sitting around...{F801}</source>
+    <target>〉 There are several portable{F801}artillery cannons sitting around...{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 You cannot possibly take two of{F801}these at once...{F801}</source>
+    <target>〉 You cannot possibly take two of{F801}these at once...{F801}</target>
+  </entry>
+</mbm>

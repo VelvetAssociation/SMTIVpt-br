@@ -1,0 +1,50 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Hel\0{F87A,-304}{F813,1,419000}The ship I'm making...{F801}Heh heh heh...{F801}{F802}The more people die, the closer I{F801}come to completing it.{F801}{F802}For death hurries the coming of the{F801}Naglfar's construction...{F801}</source>
+    <target>{F812}Hel\0{F87A,-304}{F813,1,419000}The ship I'm making...{F801}Heh heh heh...{F801}{F802}The more people die, the closer I{F801}come to completing it.{F801}{F802}For death hurries the coming of the{F801}Naglfar's construction...{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Demon\0{F87A,-304}{F813,1,419004}Hahaha. I guess I'll ask you to do{F801}the job, then.{F801}{F802}I am the Reaper Hel.{F801}{F802}{F812}Hel\0{F87A,-304}What I need you to get for me are the{F801}{F804,5}nails of the dead.{F804,0}{F801}{F802}I'm going to use them to build my{F801}ship... the Naglfar.{F801}{F802}We're on the brink of a huge war,{F801}so I need to prepare for it.{F801}{F802}The fresher the nails are, the better{F801}the ship will be.{F801}{F802}Hunt down the walking dead and{F801}collect their nails for me.{F801}{F802}I'm counting on you.{F801}</source>
+    <target>{F812}Demon\0{F87A,-304}{F813,1,419004}Hahaha. I guess I'll ask you to do{F801}the job, then.{F801}{F802}I am the Reaper Hel.{F801}{F802}{F812}Hel\0{F87A,-304}What I need you to get for me are the{F801}{F804,5}nails of the dead.{F804,0}{F801}{F802}I'm going to use them to build my{F801}ship... the Naglfar.{F801}{F802}We're on the brink of a huge war,{F801}so I need to prepare for it.{F801}{F802}The fresher the nails are, the better{F801}the ship will be.{F801}{F802}Hunt down the walking dead and{F801}collect their nails for me.{F801}{F802}I'm counting on you.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Hel\0{F87A,-304}{F813,1,419010}Hunt down the walking dead and{F801}collect their nails for me.{F801}{F802}I'm counting on you, kid.{F801}</source>
+    <target>{F812}Hel\0{F87A,-304}{F813,1,419010}Hunt down the walking dead and{F801}collect their nails for me.{F801}{F802}I'm counting on you, kid.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Demon\0{F87A,-304}{F813,1,419004}Hahaha. I guess I'll ask you to do{F801}the job, then.{F801}{F802}I am the Reaper Hel.{F801}{F802}{F812}Hel\0{F87A,-304}What I need you to get for me are the{F801}{F804,5}nails of the dead.{F804,0}{F801}{F802}I'm going to use them to build my{F801}ship... the Naglfar.{F801}{F802}We're on the brink of a huge war,{F801}so I need to prepare for it.{F801}{F802}{F813,1,419002}Oh, what's this? Could it be that{F801}you've already been collecting nails{F801}from the departed?{F801}</source>
+    <target>{F812}Demon\0{F87A,-304}{F813,1,419004}Hahaha. I guess I'll ask you to do{F801}the job, then.{F801}{F802}I am the Reaper Hel.{F801}{F802}{F812}Hel\0{F87A,-304}What I need you to get for me are the{F801}{F804,5}nails of the dead.{F804,0}{F801}{F802}I'm going to use them to build my{F801}ship... the Naglfar.{F801}{F802}We're on the brink of a huge war,{F801}so I need to prepare for it.{F801}{F802}{F813,1,419002}Oh, what's this? Could it be that{F801}you've already been collecting nails{F801}from the departed?{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Hel\0{F87A,-304}{F813,1,419004}Hahaha, you're pretty good at this,{F801}despite what you look like.{F801}{F802}Quite the Hunter now, aren't you?{F801}{F802}Oh, I can never have too many nails{F801}of the dead.{F801}{F802}If you collect more nails, I would be{F801}more than happy to take them off your{F801}hands... so to speak.{F801}</source>
+    <target>{F812}Hel\0{F87A,-304}{F813,1,419004}Hahaha, you're pretty good at this,{F801}despite what you look like.{F801}{F802}Quite the Hunter now, aren't you?{F801}{F802}Oh, I can never have too many nails{F801}of the dead.{F801}{F802}If you collect more nails, I would be{F801}more than happy to take them off your{F801}hands... so to speak.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Hel\0{F87A,-304}{F813,1,419009}What's wrong, boy? Are those nails{F801}too dear to part with?{F801}{F802}Ah, well. They are yours, and you{F801}can do as you please with them.{F801}</source>
+    <target>{F812}Hel\0{F87A,-304}{F813,1,419009}What's wrong, boy? Are those nails{F801}too dear to part with?{F801}{F802}Ah, well. They are yours, and you{F801}can do as you please with them.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Hel\0{F87A,-304}{F813,1,419001}Ah, it's you, boy. Have you found{F801}any nails of the dead?{F801}</source>
+    <target>{F812}Hel\0{F87A,-304}{F813,1,419001}Ah, it's you, boy. Have you found{F801}any nails of the dead?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 The demon is alone, and deep in{F801}thought...{F801}</source>
+    <target>〉 The demon is alone, and deep in{F801}thought...{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Demon\0{F87A,-304}{F813,1,419001}Hmm... Are you here about the job{F801}offer?{F801}{F802}So, you'll go collect {F804,5}nails from the{F801}dead{F804,0} for me, then?{F801}</source>
+    <target>{F812}Demon\0{F87A,-304}{F813,1,419001}Hmm... Are you here about the job{F801}offer?{F801}{F802}So, you'll go collect {F804,5}nails from the{F801}dead{F804,0} for me, then?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>"I'll do it."{F801}"No, I won't."{F801}</source>
+    <target>"I'll do it."{F801}"No, I won't."{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Demon\0{F87A,-304}{F813,1,419008}Oh, don't you go getting my hopes up{F801}like that!{F801}{F802}If you're not here for that, then{F801}there's no reason for you to be here,{F801}then. Go on, get out.{F801}</source>
+    <target>{F812}Demon\0{F87A,-304}{F813,1,419008}Oh, don't you go getting my hopes up{F801}like that!{F801}{F802}If you're not here for that, then{F801}there's no reason for you to be here,{F801}then. Go on, get out.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+</mbm>

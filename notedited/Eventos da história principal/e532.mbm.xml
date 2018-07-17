@@ -1,0 +1,54 @@
+<mbm>
+  <entry id="1">
+    <source>〉 Obtained {F804,5}{F841,31}{F804,0} x10.{F801}</source>
+    <target>〉 Obtained {F804,5}{F841,31}{F804,0} x10.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Demon\0{F87A,-249}{F813,1,417007}Huh? Have we met before...? Do you know{F801}what "Naraku" is...?{F801}</source>
+    <target>{F812}Demon\0{F87A,-249}{F813,1,417007}Huh? Have we met before...? Do you know{F801}what "Naraku" is...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>"Of course."{F801}"I'm afraid not."{F801}</source>
+    <target>"Of course."{F801}"I'm afraid not."{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Demon\0{F87A,-249}I knew it. Listen, mister...{F801}{F802}{F813,1,417009}Some angels suddenly came out and{F801}started killing all the demons in the{F801}Eastern Kingdom of Mikado.{F801}{F802}{F812}Demon\0{F87A,-249}They're doing it just 'cause they're{F801}demons! I'm so scared... I don't wanna{F801}go back to Naraku...{F801}</source>
+    <target>{F812}Demon\0{F87A,-249}I knew it. Listen, mister...{F801}{F802}{F813,1,417009}Some angels suddenly came out and{F801}started killing all the demons in the{F801}Eastern Kingdom of Mikado.{F801}{F802}{F812}Demon\0{F87A,-249}They're doing it just 'cause they're{F801}demons! I'm so scared... I don't wanna{F801}go back to Naraku...{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Demon\0{F87A,-249}Oh... Never mind, then.{F801}</source>
+    <target>{F812}Demon\0{F87A,-249}Oh... Never mind, then.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Demon\0{F87A,-237}{F813,1,495800}Hey buddy, you from Kiccigiorgi...?{F801}</source>
+    <target>{F812}Demon\0{F87A,-237}{F813,1,495800}Hey buddy, you from Kiccigiorgi...?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>"That's right."{F801}"No."{F801}</source>
+    <target>"That's right."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Demon\0{F87A,-237}I knew it. I'm a former human. You're{F801}"in the know" like me, huh?{F801}{F802}The Eastern Kingdom of Mikado right now{F801}is so boring, with the angels and all,{F801}huh?{F801}{F802}Tokyo's the place to be. Everyone's{F801}desires run wild there... I ain't going{F801}back!{F801}</source>
+    <target>{F812}Demon\0{F87A,-237}I knew it. I'm a former human. You're{F801}"in the know" like me, huh?{F801}{F802}The Eastern Kingdom of Mikado right now{F801}is so boring, with the angels and all,{F801}huh?{F801}{F802}Tokyo's the place to be. Everyone's{F801}desires run wild there... I ain't going{F801}back!{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Demon\0{F87A,-237}Oh... Then forget it.{F801}</source>
+    <target>{F812}Demon\0{F87A,-237}Oh... Then forget it.{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403021}......{F801}{F802}Let me ask you something. Are you after{F801}that demon too...?{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403021}......{F801}{F802}Let me ask you something. Are you after{F801}that demon too...?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>"That's right."{F801}"No."{F801}</source>
+    <target>"That's right."{F801}"No."{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403042}Dang... Someone else other than me has{F801}narrowed it down? Then the rumors must{F801}be true...{F801}{F802}The ones about that Fiend sighting at{F801}Minami Sunamachi, I mean.{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403042}Dang... Someone else other than me has{F801}narrowed it down? Then the rumors must{F801}be true...{F801}{F802}The ones about that Fiend sighting at{F801}Minami Sunamachi, I mean.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}Hunter man\0{F87A,119}{F813,1,403012}......{F801}</source>
+    <target>{F812}Hunter man\0{F87A,119}{F813,1,403012}......{F801}</target>
+  </entry>
+</mbm>

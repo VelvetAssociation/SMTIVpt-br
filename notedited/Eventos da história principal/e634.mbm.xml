@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Okuninushi\0{F87A,-407}{F813,1,412105}I am the Kunitsukami Okuninushi.{F801}This is no place for humans such as{F801}yourself.{F801}{F802}If you are not here to cause trouble,{F801}then I shall permit you to leave{F801}unharmed. Now, leave this place.{F801}</source>
+    <target>{F812}Okuninushi\0{F87A,-407}{F813,1,412105}I am the Kunitsukami Okuninushi.{F801}This is no place for humans such as{F801}yourself.{F801}{F802}If you are not here to cause trouble,{F801}then I shall permit you to leave{F801}unharmed. Now, leave this place.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>"I am here to slay you."{F801}Leave{F801}</source>
+    <target>"I am here to slay you."{F801}Leave{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Okuninushi\0{F87A,-407}{F813,1,412102}That is for the best. Do not allow{F801}yourself to be swayed by wicked{F801}thoughts.{F801}</source>
+    <target>{F812}Okuninushi\0{F87A,-407}{F813,1,412102}That is for the best. Do not allow{F801}yourself to be swayed by wicked{F801}thoughts.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Okuninushi\0{F87A,-407}{F813,1,412100}Oho... So, you see me as an evil{F801}being who slays humans, and have{F801}come to dispose of me.{F801}{F802}I only attack humans to punish them{F801}for foolish behavior. You may think{F801}of this as a sort of curse.{F801}{F802}It was by your own selfishness that{F801}the Field of Autumn Leaves was{F801}destroyed.{F801}{F802}And now, you reach out with your{F801}filthy hands to try to take the{F801}Kanda Shrine...{F801}{F802}All humans here are guilty of the{F801}same crime.{F801}{F802}I shall bring you divine punishment,{F801}right here and now.{F801}</source>
+    <target>{F812}Okuninushi\0{F87A,-407}{F813,1,412100}Oho... So, you see me as an evil{F801}being who slays humans, and have{F801}come to dispose of me.{F801}{F802}I only attack humans to punish them{F801}for foolish behavior. You may think{F801}of this as a sort of curse.{F801}{F802}It was by your own selfishness that{F801}the Field of Autumn Leaves was{F801}destroyed.{F801}{F802}And now, you reach out with your{F801}filthy hands to try to take the{F801}Kanda Shrine...{F801}{F802}All humans here are guilty of the{F801}same crime.{F801}{F802}I shall bring you divine punishment,{F801}right here and now.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Client Hunter\0{F87A,67}{F813,1,403001}Hey, {F843,0}. Were you the one{F801}who got rid of the demon?{F801}{F802}Huh? The demon was pissed about us{F801}ruining... Akihabara?{F801}{F802}That was the Ashura-kai's fault.{F801}We had nothing to do with it.{F801}{F802}Well, even if that demon had a reason{F801}to attack us, that doesn't mean we{F801}have to take it lying down.{F801}{F802}Anyway, good job. Here's your reward.{F801}</source>
+    <target>{F812}Client Hunter\0{F87A,67}{F813,1,403001}Hey, {F843,0}. Were you the one{F801}who got rid of the demon?{F801}{F802}Huh? The demon was pissed about us{F801}ruining... Akihabara?{F801}{F802}That was the Ashura-kai's fault.{F801}We had nothing to do with it.{F801}{F802}Well, even if that demon had a reason{F801}to attack us, that doesn't mean we{F801}have to take it lying down.{F801}{F802}Anyway, good job. Here's your reward.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>{F812}Okuninushi\0{F87A,-407}{F813,1,412109}What is the matter?{F801}{F802}I did say that I would let you go{F801}without incident, as long as you{F801}mean me no harm.{F801}{F802}Now, go away, at once.{F801}</source>
+    <target>{F812}Okuninushi\0{F87A,-407}{F813,1,412109}What is the matter?{F801}{F802}I did say that I would let you go{F801}without incident, as long as you{F801}mean me no harm.{F801}{F802}Now, go away, at once.{F801}</target>
+  </entry>
+  <entry id="900">
+    <source>〉 There is no one here...{F801}</source>
+    <target>〉 There is no one here...{F801}</target>
+  </entry>
+  <entry id="901">
+    <source>Okuninushi will attack you.{F801}</source>
+    <target>Okuninushi will attack you.{F801}</target>
+  </entry>
+  <entry id="902">
+    <source>The Hunter that commissioned the{F801}quest will thank you, and the quest{F801}will be complete.{F801}</source>
+    <target>The Hunter that commissioned the{F801}quest will thank you, and the quest{F801}will be complete.{F801}</target>
+  </entry>
+</mbm>
