@@ -1,0 +1,34 @@
+﻿<mbm>
+  <entry id="0">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>〉 {F843,0} can't move!{F801}</source>
+    <target>〉 {F843,0} nao pode se mover!{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 {F873,60} has taken{F801}damage.{F801}</source>
+    <target>〉 {F873,60} recebeu{F801}dano.{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 The candle is dwindling...{F801}</source>
+    <target>〉 A vela esta diminuindo...{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>〉 Wicker Man's flames have reached Nozomi.{F801}</source>
+    <target>〉 As chamas do Homem de Vime atingiram Nozomi.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>〉 One of the angels attacks Nozomi!{F801}</source>
+    <target>〉 Um dos anjos ataca Nozomi!{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>〉 A crack appears in the Orb of the Four Gates.{F801}</source>
+    <target>〉 Uma rachadura aparece no Orbe dos Quatro Portoes.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 {F873,5} has taken damage as well!{F801}</source>
+    <target>〉 {F873,5} tambem recebeu dano!{F801}</target>
+  </entry>
+</mbm>
