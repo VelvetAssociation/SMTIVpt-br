@@ -1,0 +1,2002 @@
+<mbm>
+  <entry id="1">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>1-4 ataque(s) {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-4 ataque(s) {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>1-4 ataque(s) {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-4 ataque(s) {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="14">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>1-4 ataque(s) {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-4 ataque(s) {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>1-4 ataque(s) {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-4 ataque(s) {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="18">
+    <source>Ataque de {F87D,14} pesado{F801}Pode instantaneamente matar. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} pesado{F801}Pode instantaneamente matar. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="19">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="20">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="21">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="22">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="23">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="24">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="25">
+    <source>1-4 ataque(s) {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-4 ataque(s) de {F87D,14} fraco(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="26">
+    <source>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="27">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15} May inflict Panic{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15} May inflict Panic{F801}</target>
+  </entry>
+  <entry id="28">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="29">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="30">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="31">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="32">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="33">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="34">
+    <source>1-4 ataque(s) {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-4 ataque(s) de {F87D,14} fraco(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="35">
+    <source>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="36">
+    <source>1-4 ataque(s) {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-4 ataque(s) de {F87D,14} medio(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="37">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="38">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="39">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="40">
+    <source>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="41">
+    <source>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15} Effect: Stats down{F801}</source>
+    <target>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15} Efeito: Diminui estatisticas{F801}</target>
+  </entry>
+  <entry id="42">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15} Effect: Panic{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15} Efeito: Panico{F801}</target>
+  </entry>
+  <entry id="43">
+    <source>Ataque de {F87D,14}. Alvo: {F87D,15}{F801}Efeito: Varia com o alinhamento do inimigo{F801}</source>
+    <target>Ataque de {F87D,14}. Alvo: {F87D,15}{F801}Efeito: Varia com o alinhamento do inimigo{F801}</target>
+  </entry>
+  <entry id="44">
+    <source>Ataque de {F87D,14}. Alvo: {F87D,15}{F801}Efeito: Varia com o alinhamento do inimigo{F801}</source>
+    <target>Ataque de {F87D,14}. Alvo: {F87D,15}{F801}Efeito: Varia com o alinhamento do inimigo{F801}</target>
+  </entry>
+  <entry id="45">
+    <source>Ataque de {F87D,14}. Alvo: {F87D,15}{F801}Efeito: Varia com o alinhamento do inimigo{F801}</source>
+    <target>Ataque de {F87D,14}. Alvo: {F87D,15}{F801}Efeito: Varia com o alinhamento do inimigo{F801}</target>
+  </entry>
+  <entry id="46">
+    <source>Ataque de {F87D,14} que drena o {F801}HP do inimigo. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} que drena o {F801}HP do inimigo. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="47">
+    <source>Ataque de {F87D,14} que drena o {F801}MP do inimigo. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} que drena o {F801}MP do inimigo. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="48">
+    <source>Ataque de {F87D,14} que drena o {F801}HP/MP do inimigo. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} que drena o {F801}HP/MP do inimigo. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="49">
+    <source>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="50">
+    <source>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Alta taxa de sucesso.{F801}</source>
+    <target>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Alta taxa de sucesso.{F801}</target>
+  </entry>
+  <entry id="51">
+    <source>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="52">
+    <source>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Alta taxa de sucesso.{F801}</source>
+    <target>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Alta taxa de sucesso.{F801}</target>
+  </entry>
+  <entry id="53">
+    <source>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Altissima taxa de sucesso.{F801}</source>
+    <target>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Altissima taxa de sucesso.{F801}</target>
+  </entry>
+  <entry id="54">
+    <source>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="55">
+    <source>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Alta taxa de sucesso.{F801}</source>
+    <target>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Alta taxa de sucesso.{F801}</target>
+  </entry>
+  <entry id="56">
+    <source>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="57">
+    <source>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Alta taxa de sucesso.{F801}</source>
+    <target>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Alta taxa de sucesso.{F801}</target>
+  </entry>
+  <entry id="58">
+    <source>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Altissima taxa de sucesso.{F801}</source>
+    <target>Morte instantatea por {F87D,14}{F801}Alvo: {F87D,15}; Altissima taxa de sucesso.{F801}</target>
+  </entry>
+  <entry id="59">
+    <source>Causa a doenca Sono{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa a doenca Sono{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="60">
+    <source>Causa a doenca Sono{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa a doenca Sono{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="61">
+    <source>Causa a doenca Envenenamento{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa a doenca Envenenamento{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="62">
+    <source>Causa a doenca Envenenamento{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa a doenca Envenenamento{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="63">
+    <source>Causa a doenca Prender{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa a doenca Prender{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="64">
+    <source>Causa a doenca Prender{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa a doenca Prender{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="65">
+    <source>Causa a doenca Panico{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa a doenca Panico{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="66">
+    <source>Causa a doenca Panico{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa a doenca Panico{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="67">
+    <source>Causa a doenca Enfermidade{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa a doenca Virus{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="68">
+    <source>Causa a doenca Enfermidade{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa a doenca Virus{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="69">
+    <source>Causa uma doenca aleatoria.{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa uma doenca aleatoria.{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="70">
+    <source>Causa diversas doencas{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Causa diversas doencas{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="71">
+    <source>Ataque de de {F87D,14} que diminui o{F801}MP. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} que diminui o{F801}MP. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="72">
+    <source>Ataque de de {F87D,14} que diminui o{F801}MP. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} que diminui o{F801}MP. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>Ataque de {F87D,14} that decreases{F801}Macca. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} que diminui a{F801}Macca. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="74">
+    <source>Ataque de {F87D,14} that decreases{F801}more Macca. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} que diminui{F801}mais Macca. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="75">
+    <source>Ataque de {F87D,14} that reduces{F801}HP to 1. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} que diminui o{F801}HP para 1. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="76">
+    <source>1-5 medium {F87D,14} element attacks{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-5 ataques do elemento {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>Weak Ataque de {F87D,14} that reduces HP to{F801}1 if target is Sick. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco que reduz o HP para{F801}1 se o alvo estiver com Virus. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="78">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="79">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="80">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="81">
+    <source>Recupera o HP{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Recupera o HP{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="82">
+    <source>Recupera bastante HP{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Recupera bastante HP{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="83">
+    <source>Recupera o HP completamente{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Recupera o HP completamente{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="84">
+    <source>Recupera o HP{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Recupera o HP{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="85">
+    <source>Recupera bastante HP{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Recupera bastante HP{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="86">
+    <source>Recupera o HP completamente{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Recupera o HP completamente{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="87">
+    <source>Fully heals HP and removes ailments{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Recupera o HP completamente e remove{F801}doencas. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="88">
+    <source>Remove as doencas Sono/Panico/Prender{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Remove as doencas Sono/Panico/Prender{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="89">
+    <source>Remove as doencas Sono/Panico/Prender{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Remove as doencas Sono/Panico/Prender{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="90">
+    <source>Removes Poison/Sick ailments{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Remove as doencas Envenenamento/Virus{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="91">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="92">
+    <source>Removes all ailments{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Remove todas as doencas{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="93">
+    <source>Revives from KO with half HP{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Revive do KO com metade do HP{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="94">
+    <source>Revives from KO with full HP{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Revive do KO com o HP completo{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="95">
+    <source>Revives and heals allies in exchange{F801}for all HP. Alvo: {F87D,15}{F801}</source>
+    <target>Revive e cura aliados em troca de{F801}todo o HP. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="96">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="97">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="98">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="99">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>Increases attack{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Aumenta o ataque{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>Increases taxas de acerto/evasao{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Aumenta as taxas de acerto/evasao{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>Increases defense{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Aumenta a defesa{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>Increases attack/defense/hit/{F801}evade rate. Alvo: {F87D,15}{F801}</source>
+    <target>Aumenta as taxas de ataque/defesa/{F801}acerto/evasao. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>Removes status buffs{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Remove aumentos de status{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>Decreases attack{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Diminui o ataque{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>Decreases taxas de acerto/evasao{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Diminui as taxas de acerto/evasao{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>Decreases defense{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Diminui a defesa{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>Decreases attack/defense/taxas de acerto/evasao{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Diminui as taxas de ataque/defesa/{F801}acerto/evasao. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>Removes status debuffs{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Remove diminuicoes de status{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>Removes status buffs and debuffs{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Remove diminuicoes e aumentos de status{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>Decreases attack/defense{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Diminui o ataque/defesa{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>Decreases attack/taxas de acerto/evasao{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Diminui as taxas de ataque/acerto/evasao{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>Decreases defense/taxas de acerto/evasao{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Diminui as taxas de defesa/acerto/evasao{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>Increases attack, decreases defense{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Aumenta o ataque, diminui a defesa{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="116">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="117">
+    <source>Increases effect of magic for a few turns{F801}Alvo: {F87D,15}; Inflicts Panic{F801}</source>
+    <target>Aumenta o efeito da magia por alguns turnos{F801}Alvo: {F87D,15}; Inflicts Panic{F801}</target>
+  </entry>
+  <entry id="118">
+    <source>Repels Phys and Gun attacks for 1 turn{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Repele ataques Fis. e de Arma de Fogo por{F801}1 turno. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="119">
+    <source>Repels magic attacks (besides ailments){F801}for 1 turn. Alvo: {F87D,15}{F801}</source>
+    <target>Repele ataques magicos (alem de doencas){F801}por 1 turno. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="120">
+    <source>Prevents 1 Light/Dark instant kill{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Previne 1 morte instantea por Luz/Trevas{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>Power of next Phys/Gun attack more than {F801}doubles. Alvo: {F87D,15}{F801}</source>
+    <target>O poder do proximo ataque Fis./de Arma de {F801}fogo aumenta mais que o dobro. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>Power of next magic attack more than doubles{F801}Alvo: {F87D,15}{F801}</source>
+    <target>O poder do proximo ataque magico aumenta mais {F801}que o dobro. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="123">
+    <source>Increases attack/defense/taxas de acerto/evasao{F801}and reduces HP to 1. Alvo: {F87D,15}{F801}</source>
+    <target>Aumenta as taxas de ataque/defesa/acerto/{F801}evasao e reduz o HP para 1. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="124">
+    <source>Summons/returns an ally demon{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Invoca/retorna um demonio aliado{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="125">
+    <source>Summons/returns an ally demon and revives{F801}from KO. Alvo: {F87D,15}{F801}</source>
+    <target>Invoca/retorna um demonio aliado e o revive{F801}do KO. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="126">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="127">
+    <source>Resummons your highest level demons{F801}from the stock. Alvo: {F87D,15}{F801}</source>
+    <target>Reinvoca os demonios com os maiores{F801}niveis de seu estoque. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="128">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="129">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="130">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="131">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="132">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="133">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="134">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="135">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="136">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="137">
+    <source>Guaranteed escape when possible{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Fuga garantida quando possivel{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="138">
+    <source>Increases maximum HP during battle{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Aumenta o HP maximo durante a batalha{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="139">
+    <source>Induces Smirk. Cannot be used when{F801}suffering an ailment. Alvo: {F87D,15}{F801}</source>
+    <target>Causa Sorriso. Nao pode ser usado se{F801}sofre de uma doenca. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="140">
+    <source>After using this, attack an enemy on{F801}the map to banish it if it's low-level{F801}</source>
+    <target>Depois de usar isso, ataque um inimigo no{F801}mapa para exila-lo se for de nivel baixo{F801}</target>
+  </entry>
+  <entry id="141">
+    <source>Calls an ally{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Chama um aliado{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="142">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="143">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="144">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="145">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="146">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="147">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="148">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="149">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="150">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="151">
+    <source>Weak Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="152">
+    <source>Medium Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</source>
+    <target>Medium Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="153">
+    <source>Heavy Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</source>
+    <target>Heavy Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="154">
+    <source>Weak Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</source>
+    <target>Weak Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="155">
+    <source>Medium Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</source>
+    <target>Medium Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="156">
+    <source>Heavy Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</source>
+    <target>Heavy Ataque de {F87D,14}. High critical{F801}rate/low hit rate. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="157">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="158">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="159">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="160">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="161">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="162">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="163">
+    <source>1-3 weak Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-3 ataque(s) de {F87D,14} fraco(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="164">
+    <source>1-3 medium Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-3 ataque(s) de {F87D,14} medio(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="165">
+    <source>1-3 heavy Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-3 ataque(s) de {F87D,14} forte(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="166">
+    <source>1-3 weak Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-3 ataque(s) de {F87D,14} fraco(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="167">
+    <source>1-3 medium Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-3 ataque(s) de {F87D,14} medio(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="168">
+    <source>1-3 heavy Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-3 ataque(s) de {F87D,14} forte(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="169">
+    <source>Weak Ataque de {F87D,14}{F801}Decreases attack. Alvo: {F87D,15}{F801}</source>
+    <target>Weak Ataque de {F87D,14}{F801}Decreases attack. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="170">
+    <source>Weak Ataque de {F87D,14}{F801}Causa Sleep. Alvo: {F87D,15}{F801}</source>
+    <target>Weak Ataque de {F87D,14}{F801}Causa Sleep. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="171">
+    <source>1-3 medium Ataque de {F87D,14}s{F801}Causa Panic. Alvo: {F87D,15}{F801}</source>
+    <target>1-3 medium Ataque de {F87D,14}s{F801}Causa Panic. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="172">
+    <source>Weak Ataque de {F87D,14}{F801}Causa Lost. Alvo: {F87D,15}{F801}</source>
+    <target>Weak Ataque de {F87D,14}{F801}Causa Lost. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="173">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="174">
+    <source>Medium Ataque de {F87D,14}{F801}Causa Sick. Alvo: {F87D,15}{F801}</source>
+    <target>Medium Ataque de {F87D,14}{F801}Causa Sick. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="175">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="176">
+    <source>Weak Ataque de {F87D,14}{F801}Causa Poison. Alvo: {F87D,15}{F801}</source>
+    <target>Weak Ataque de {F87D,14}{F801}Causa Poison. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="177">
+    <source>Medium Ataque de {F87D,14}{F801}Can instantly kill. Alvo: {F87D,15}{F801}</source>
+    <target>Medium Ataque de {F87D,14}{F801}Can instantly kill. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="178">
+    <source>Medium Ataque de {F87D,14}{F801}Causa Bind. Alvo: {F87D,15}{F801}</source>
+    <target>Medium Ataque de {F87D,14}{F801}Causa Bind. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="179">
+    <source>Medium Ataque de {F87D,14}{F801}Causa Poison. Alvo: {F87D,15}{F801}</source>
+    <target>Medium Ataque de {F87D,14}{F801}Causa Poison. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="180">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="181">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="182">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="183">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="184">
+    <source>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} severo{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="185">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="186">
+    <source>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} medio{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="187">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="188">
+    <source>Weak Ataque de {F87D,14}{F801}Causa Sleep. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Causa Sono. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="189">
+    <source>Weak Ataque de {F87D,14}{F801}Causa Poison. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraci{F801}Causa Envenenamento. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="190">
+    <source>Weak Ataque de {F87D,14}{F801}Causa Bind. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Causa Prender. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="191">
+    <source>Weak Ataque de {F87D,14}{F801}Causa Panic. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Causa Panico. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="192">
+    <source>1-3 medium Ataque de {F87D,14}s{F801}Causa Bind. Alvo: {F87D,15}{F801}</source>
+    <target>1-3 Ataque(s) de {F87D,14} medio(s){F801}Causa Prender. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="193">
+    <source>2-4 weak Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>2-4 Ataque(s) de {F87D,14} fraco(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="194">
+    <source>1-5 weak Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-5 Ataque(s) de {F87D,14} fracos(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="195">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="196">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="197">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="198">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="199">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="203">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="204">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="205">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="207">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="208">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="209">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="210">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="212">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="213">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="214">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="215">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="216">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="217">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="218">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="219">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="220">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="221">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="222">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="223">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="224">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="225">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="226">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="227">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="228">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="229">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="230">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="231">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="232">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="233">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="234">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="235">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="236">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="237">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="238">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="239">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="240">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="241">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="242">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="243">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="244">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="245">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="246">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="247">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="248">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="249">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="250">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="251">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="252">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="253">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="254">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="255">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="256">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="257">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="258">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="259">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="260">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="261">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="262">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="263">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="264">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="265">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="266">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="267">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="268">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="269">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="270">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="271">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="272">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="273">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="274">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="275">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="276">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="277">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="278">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="279">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="280">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="281">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="282">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="283">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="284">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="285">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="286">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="287">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="288">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="289">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="290">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="291">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="292">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="293">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="294">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="295">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="296">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="297">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="298">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="299">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="301">
+    <source>1-15 weak Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-15 ataque(s) de {F87D,14} fraco(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="302">
+    <source>Heavy Ataque de {F87D,14}{F801}Pierce effect. Alvo: {F87D,15} {F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Efeito Perfurante. Alvo: {F87D,15} {F801}</target>
+  </entry>
+  <entry id="303">
+    <source>Removes Tetrakarn effect{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Remove o efeito de Tetrakarn{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="304">
+    <source>Heavy Ataque de {F87D,14}{F801}May inflict Brand. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Pode causar Marcar. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="305">
+    <source>Ataque de {F87D,14} that drains{F801}the enemy's HP/MP. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} que drena{F801}o HP/MP do inimigo. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="306">
+    <source>Heavy Ataque de {F87D,14}{F801}Pierce effect. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Efeito Perfurante. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="307">
+    <source>Inflicts random ailment, including{F801}Brand. Alvo: {F87D,15}{F801}</source>
+    <target>Causa uma doenca aleatoria, incluindo{F801}Marcar. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="308">
+    <source>Heavy Ataque de {F87D,14}{F801}Pierce effect. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Efeito Perfurante. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="309">
+    <source>Removes Makarakarn effect{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Remove o efeito do Makarakarn{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="310">
+    <source>Induces Smirk. Cannot be used when{F801}suffering an ailment. Alvo: {F87D,15}{F801}</source>
+    <target>Causa Sorriso. Nao pode ser usado se{F801}sofre de uma doenca. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="311">
+    <source>Ataque de {F87D,14} for{F801}666 damage. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} de{F801}666 dano. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="312">
+    <source>Heavy Ataque de {F87D,14}{F801}Pierce effect. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Efeito Perfurante. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="313">
+    <source>1-8 weak Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-8 ataque(s) de {F87D,14} fraco(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="314">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="315">
+    <source>1-8 weak Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>1-8 ataque(s) de {F87D,14} fraco(s){F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="316">
+    <source>Heavy Ataque de {F87D,14}{F801}Causa Panic. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Causa Panico. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="317">
+    <source>Ataque de {F87D,14} for 333 damage. # of{F801}hits depends on enemy resists. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} de 333 dano. # de acertos{F801}depende das resistencias do inimigo. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="318">
+    <source>Fully decreases one enemy's stats and{F801}fully increases your own stats{F801}</source>
+    <target>Diminui totalmente as estatisticas do inimigo{F801}e totalmente aumenta as suas estatisticas{F801}</target>
+  </entry>
+  <entry id="319">
+    <source>Heavy Ataque de {F87D,14}. Decreases{F801}taxas de acerto/evasao. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte. Diminui as{F801}taxas de acerto/evasao. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="320">
+    <source>Heavy Ataque de {F87D,14}.{F801}Causa enemy weakness. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte.{F801}Causa fraqueza no inimigo. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="321">
+    <source>Adds 3 Press Turn Icons{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Adiciona 3 Icones de Turno{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="322">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="323">
+    <source>Heavy Ataque de {F87D,14}{F801}Causa Poison. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Causa Envenenamento. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="324">
+    <source>Heavy Ataque de {F87D,14}{F801}Causa Brand. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Causa Marcar. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="325">
+    <source>Triples effect of next magic attack{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Triplica o efeito do proximo ataque{F801}magico. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="326">
+    <source>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="327">
+    <source>Heavy Ataque de {F87D,14}{F801}Causa Panic. Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} forte{F801}Causa Panico. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="328">
+    <source>Triples effect of next Phys/Gun attack{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Triplica o efeito do proximo ataque{F801}Fis./Arma de fogo. Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="329">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="330">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="331">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="332">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="333">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="334">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="335">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="336">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="337">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="338">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="339">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="340">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="341">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="342">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="343">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="344">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="345">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="346">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="347">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="348">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="349">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="350">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="351">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="352">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="353">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="354">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="355">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="356">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="357">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="358">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="359">
+    <source>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14} fraco{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="360">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="361">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="362">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="363">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="364">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="365">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="366">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="367">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="368">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="369">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="370">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="371">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="372">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="373">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="374">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="375">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="376">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="377">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="378">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="379">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="380">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="381">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="382">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="383">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="384">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="385">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="386">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="387">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="388">
+    <source>Ataque de {F87D,14}{F801}Alvo: {F87D,15}{F801}</source>
+    <target>Ataque de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="389">
+    <source>2 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>2 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="390">
+    <source>3 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>3 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="391">
+    <source>4 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>4 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="392">
+    <source>5 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>5 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="393">
+    <source>6 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>6 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="394">
+    <source>7 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>7 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="395">
+    <source>8 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>8 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="396">
+    <source>9 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>9 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="397">
+    <source>10 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>10 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="398">
+    <source>11 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>11 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="399">
+    <source>12 Ataque de {F87D,14}s{F801}Alvo: {F87D,15}{F801}</source>
+    <target>12 Ataques de {F87D,14}{F801}Alvo: {F87D,15}{F801}</target>
+  </entry>
+  <entry id="400">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="401">
+    <source>Aumenta a resistencia contra Phys attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta a resistencia contra ataques{F801}Fisicos. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="402">
+    <source>Nulls Phys attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Anula ataques Fisicos{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="403">
+    <source>Repels Phys attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Repele ataques Fisicos{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="404">
+    <source>Drains Phys attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Drena ataques Fisicos{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="405">
+    <source>Aumenta a resistencia contra Gun attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta a resistencia contra ataques{F801}de Arma de Fogo. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="406">
+    <source>Nulls Gun attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Anula ataques de Arma de Fogo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="407">
+    <source>Repels Gun attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Repele ataques de Arma de Fogo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="408">
+    <source>Drains Gun attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Drena ataques de Arma de Fogo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="409">
+    <source>Aumenta a resistencia contra Fire attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta a resistencia contra ataques{F801}de Fogo. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="410">
+    <source>Nulls Fire attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Anula ataques de Fogo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="411">
+    <source>Repels Fire attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Repele ataques de Fogo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="412">
+    <source>Drains Fire attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Drena ataques de Fogo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="413">
+    <source>Aumenta a resistencia contra Ice attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta a resistencia contra ataques de{F801}Gelo. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="414">
+    <source>Nulls Ice attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Anula ataques de Gelo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="415">
+    <source>Repels Ice attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Repele ataques de Gelo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="416">
+    <source>Drains Ice attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Drena ataques de Gelo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="417">
+    <source>Aumenta a resistencia contra Elec attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta a resistencia contra ataques de{F801}Elet. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="418">
+    <source>Nulls Elec attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Anula ataques de Elet.{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="419">
+    <source>Repels Elec attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Repele ataques de Elet.{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="420">
+    <source>Drains Elec attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Drena ataques de Elet.{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="421">
+    <source>Aumenta a resistencia contra Force attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta a resistencia contra ataques de{F801}Vento. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="422">
+    <source>Nulls Force attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Anula ataques de Vento{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="423">
+    <source>Repels Force attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Repele ataques de Vento{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="424">
+    <source>Drains Force attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Drena ataques de Vento{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="425">
+    <source>Aumenta a resistencia contra Dark attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta a resistencia contra ataques de{F801}Trevas. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="426">
+    <source>Nulls Dark attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Anula ataques de Trevas{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="427">
+    <source>Aumenta a resistencia contra Light attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta a resistencia contra ataques de{F801}Luz. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="428">
+    <source>Nulls Light attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Anula ataques de Luz{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="429">
+    <source>Nulls Sleep/Panic{F801}Alvo: Si proprio{F801}</source>
+    <target>Anula Sono/Panico{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="430">
+    <source>Nulls Poison/Bind/Sick{F801}Alvo: Si proprio{F801}</source>
+    <target>Anula Envenenamento/Prender/{F801}Virus. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="431">
+    <source>Fortifica Phys attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica os ataques Fisicos{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="432">
+    <source>Fortifica bastante Phys attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica bastante os ataques Fisicos{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="433">
+    <source>Fortifica Gun attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica ataques de Arma de Fogo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="434">
+    <source>Fortifica bastante Gun attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica bastante os ataques de{F801}Arma de Fogo. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="435">
+    <source>Fortifica Fire attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica os ataques de Fogo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="436">
+    <source>Fortifica bastante Fire attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica bastante os ataques de{F801}Fogo. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="437">
+    <source>Fortifica Ice attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica os ataques de Gelo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="438">
+    <source>Fortifica bastante Ice attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica bastante os ataques de Gelo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="439">
+    <source>Fortifica Elec attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica os ataques de Elet.{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="440">
+    <source>Fortifica bastante Elec attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica bastante os ataques de Elet.{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="441">
+    <source>Fortifica Force attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica os ataques de Vento{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="442">
+    <source>Fortifica bastante Force attacks{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica bastante os ataques de{F801}Vento. Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="443">
+    <source>Fortifica healing magic{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica a magia de cura{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="444">
+    <source>Fortifica bastante healing magic{F801}Alvo: Si proprio{F801}</source>
+    <target>Fortifica bastante a magia de cura{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="445">
+    <source>Revive from KO once per battle with 1 HP{F801}</source>
+    <target>Revive do KO uma vez por batalha com 1 HP{F801}</target>
+  </entry>
+  <entry id="446">
+    <source>Revive from KO once per battle with full HP{F801}</source>
+    <target>Revive do KO uma vez por batalha com{F801}o HP completo.{F801}</target>
+  </entry>
+  <entry id="447">
+    <source>Chance of countering a Phys or Gun attack{F801}</source>
+    <target>Chance de contra-atacar um ataque Fisico{F801}ou de Arma de Fogo{F801}</target>
+  </entry>
+  <entry id="448">
+    <source>High chance of countering a Phys or Gun{F801}attack{F801}</source>
+    <target>Alta chance de contra-atacar um ataque{F801}Fisico ou de Arma de Fogo{F801}</target>
+  </entry>
+  <entry id="449">
+    <source>Chance of countering a Phys or Gun attack{F801}to an ally{F801}</source>
+    <target>Chance de contra-atacar um ataque Fisico{F801}ou de Arma de Fogo para um aliado{F801}</target>
+  </entry>
+  <entry id="450">
+    <source>High chance of countering a Phys or Gun{F801}attack to an ally{F801}</source>
+    <target>Alta chance de contra-atacar um ataque Fisico{F801}ou de Arma de Fogo para um aliado{F801}</target>
+  </entry>
+  <entry id="451">
+    <source>Recover some HP after a battle{F801}</source>
+    <target>Recupera algum HP depois de uma batalha{F801}</target>
+  </entry>
+  <entry id="452">
+    <source>Recover some MP after a battle{F801}</source>
+    <target>Recupera algum MP depois de uma batalha{F801}</target>
+  </entry>
+  <entry id="453">
+    <source>Recover full HP/MP after battle{F801}</source>
+    <target>Recupera todo o HP/MP depois de uma batalha{F801}</target>
+  </entry>
+  <entry id="454">
+    <source>Recover some HP after walking a certain{F801}distance. Inactive when in the stock.{F801}</source>
+    <target>Recupera algum HP depois de andar uma certa{F801}distancia. Inativa quando no estoque.{F801}</target>
+  </entry>
+  <entry id="455">
+    <source>Recover some MP after walking a certain{F801}distance. Inactive when in the stock.{F801}</source>
+    <target>Recupera algum MP depois de andar uma certa{F801}distancia. Inativa quando no estoque.{F801}</target>
+  </entry>
+  <entry id="456">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="457">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="458">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="459">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="460">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="461">
+    <source>Slightly increases maximum HP{F801}Alvo: Si proprio{F801}</source>
+    <target>Ligeiramente aumenta o HP maximo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="462">
+    <source>Increases maximum HP{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta o HP maximo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="463">
+    <source>Greatly increases maximum HP{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta bastante o HP maximo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="464">
+    <source>Slightly increases maximum MP{F801}Alvo: Si proprio{F801}</source>
+    <target>Ligeiramente aumenta o MP maximo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="465">
+    <source>Increases maximum MP{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta o MP maximo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="466">
+    <source>Greatly increases maximum MP{F801}Alvo: Si proprio{F801}</source>
+    <target>Aumenta bastante o MP maximo{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="467">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="468">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="469">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="470">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="471">
+    <source>Enables use of healing/support items{F801}Alvo: Si proprio{F801}</source>
+    <target>Permite o uso de items de cura/suporte{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="472">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="473">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="474">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="475">
+    <source>Enables use of attack items{F801}Alvo: Si proprio{F801}</source>
+    <target>Permite o uso de items de ataque{F801}Alvo: Si proprio{F801}</target>
+  </entry>
+  <entry id="476">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="477">
+    <source>Recover a little HP after a battle{F801}</source>
+    <target>Recupera um pouco de HP depois de uma batalha{F801}</target>
+  </entry>
+  <entry id="478">
+    <source>Recover a little MP after a battle{F801}</source>
+    <target>Recupera um pouco de MP depois de uma batalha{F801}</target>
+  </entry>
+  <entry id="479">
+    <source>Increases Agility by 10{F801}</source>
+    <target>Aumenta a Agilidade em 10{F801}</target>
+  </entry>
+  <entry id="480">
+    <source>Increases Agility by 20{F801}</source>
+    <target>Aumenta a Agilidade em 20{F801}</target>
+  </entry>
+  <entry id="481">
+    <source>Increases all stats by 5{F801}</source>
+    <target>Aumenta todas as estatisticas em 5{F801}</target>
+  </entry>
+  <entry id="482">
+    <source>Decreases chances of suffering ailments{F801}</source>
+    <target>Diminui as chances de sofrer doencas{F801}</target>
+  </entry>
+  <entry id="483">
+    <source>Obtain more EXP after battles{F801}</source>
+    <target>Obtenha mais EXP depois de batalhas{F801}</target>
+  </entry>
+  <entry id="484">
+    <source>Obtain much more EXP after battles{F801}</source>
+    <target>Obtenha bem mais EXP depois de batalhas{F801}</target>
+  </entry>
+  <entry id="485">
+    <source>Increases taxas de acerto/evasao{F801}</source>
+    <target>Aumenta as taxas de acerto/evasao{F801}</target>
+  </entry>
+  <entry id="486">
+    <source>Greatly increases taxas de acerto/evasao{F801}</source>
+    <target>Aumenta bastante as taxas de acerto/evasao{F801}</target>
+  </entry>
+  <entry id="487">
+    <source>Increases critical hit rate{F801}</source>
+    <target>Aumenta as taxas de golpe critico{F801}</target>
+  </entry>
+  <entry id="488">
+    <source>Attacks pierce and nullify the enemy's{F801}Phys Drain/Null/Resistance{F801}</source>
+    <target>Ataques perfuram e anulam a Drenagem/{F801}anulacao/resistencia Fis. do inimigo{F801}</target>
+  </entry>
+  <entry id="489">
+    <source>Attacks pierce and nullify the enemy's{F801}Gun Drain/Null/Resistance{F801}</source>
+    <target>Ataques perfuram e anulam a Drenagem/{F801}anulacao/resistencia de Arma de f. do inimigo{F801}</target>
+  </entry>
+  <entry id="490">
+    <source>Attacks pierce and nullify the enemy's{F801}Fire Drain/Null/Resistance{F801}</source>
+    <target>Ataques perfuram e anulam a Drenagem/{F801}anulacao/resistencia a Fogo do inimigo{F801}</target>
+  </entry>
+  <entry id="491">
+    <source>Attacks pierce and nullify the enemy's{F801}Ice Drain/Null/Resistance{F801}</source>
+    <target>Ataques perfuram e anulam a Drenagem/{F801}anulacao/resistencia a Gelo do inimigo{F801}</target>
+  </entry>
+  <entry id="492">
+    <source>Attacks pierce and nullify the enemy's{F801}Elec Drain/Null/Resistance{F801}</source>
+    <target>Ataques perfuram e anulam a Drenagem/{F801}anulacao/resistencia Elet. do inimigo{F801}</target>
+  </entry>
+  <entry id="493">
+    <source>Attacks pierce and nullify the enemy's{F801}Force Drain/Null/Resistance{F801}</source>
+    <target>Ataques perfuram e anulam a Drenagem/{F801}anulacao/resistencia a Vento do inimigo{F801}</target>
+  </entry>
+  <entry id="494">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="495">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="496">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="497">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="498">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="499">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+  <entry id="500">
+    <source>Dummy{F801}</source>
+    <target>Dummy{F801}</target>
+  </entry>
+</mbm>
