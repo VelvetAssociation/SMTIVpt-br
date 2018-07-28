@@ -21,6 +21,8 @@ Diamantino
 
 Novais
 
+Gugu0220
+
 
 Tradutores: A pasta "notedited" possui as pastas com textos ainda não traduzidos, e a pasta "edited" possui as pastas com textos já traduzidos. Quando acabar a tradução de algum arquivo, coloque-o na subpasta de "edited" correspondente a de onde ele foi retirado.
 
