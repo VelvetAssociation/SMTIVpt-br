@@ -34,6 +34,28 @@ Não esqueça de avisar no grupo de tradução quando escolher algum arquivo par
 Qualquer dúvida entrar em contato com a página Velvet Association no facebook.
 
 ----
+Titulos e etc. em inglês devem ser traduzidos. 
+-
+Por exemplo, Ring of Gaea deve ser sempre traduzido para Circulo de Gaia, porém, titulos como Ashura-kai devem ser mantidos. Em duvida, veja a pagina correspondente na Megami Tensei Wikia, e veja como era o titulo original no jogo japonês.
+
+Alguns exemplos:
+
+Ring of Gaea = Circulo de Gaia
+
+Unclean One(s) = Impuro(s)
+
+Black Samurai = Samurai Negro
+
+Eastern Kingdom of Mikado = Reino Oriental de Mikado
+
+Luxurors = continua igual
+
+Casualries = continua igual
+
+Perpetual Yamato Reactor = Reator Infinito Yamato
+
+----
+
 Traduza sempre sem usar os caracteres especiais das línguas latinas, como acentos, ç, dentre outros.
 - 
 No momento o jogo só aceita arquivos codificados em japonês, ou seja, se for colocar um ç ou outra letra com algum tipo de acento, o bloco de notas vai alertar que para que esses caracteres especiais sejam salvos, a codificação teria que mudar para Unicode, porém, o jogo não suporta nenhuma codificação além da japonesa.
