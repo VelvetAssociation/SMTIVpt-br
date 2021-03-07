@@ -1,0 +1,366 @@
+<mbm>
+  <entry id="41">
+    <source>All stats lowered!{F801}</source>
+    <target>All stats lowered!{F801}</target>
+  </entry>
+  <entry id="73">
+    <source>Some of your Macca is gone!{F801}</source>
+    <target>Some of your Macca is gone!{F801}</target>
+  </entry>
+  <entry id="74">
+    <source>Half of your Macca is gone!{F801}</source>
+    <target>Half of your Macca is gone!{F801}</target>
+  </entry>
+  <entry id="77">
+    <source>The illness has worsened!{F801}</source>
+    <target>The illness has worsened!{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>Attack increased!{F801}</source>
+    <target>Attack increased!{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>Hit/evasion rate increased!{F801}</source>
+    <target>Hit/evasion rate increased!{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>Defense increased!{F801}</source>
+    <target>Defense increased!{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>All stats increased!{F801}</source>
+    <target>All stats increased!{F801}</target>
+  </entry>
+  <entry id="105">
+    <source>All stat enhancements are removed.{F801}</source>
+    <target>All stat enhancements are removed.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>Attack decreased!{F801}</source>
+    <target>Attack decreased!{F801}</target>
+  </entry>
+  <entry id="107">
+    <source>Hit/evasion rate decreased!{F801}</source>
+    <target>Hit/evasion rate decreased!{F801}</target>
+  </entry>
+  <entry id="108">
+    <source>Defense decreased!{F801}</source>
+    <target>Defense decreased!{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>All stats decreased!{F801}</source>
+    <target>All stats decreased!{F801}</target>
+  </entry>
+  <entry id="110">
+    <source>All stat decreases are removed.{F801}</source>
+    <target>All stat decreases are removed.{F801}</target>
+  </entry>
+  <entry id="111">
+    <source>All stats returned to normal.{F801}</source>
+    <target>All stats returned to normal.{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>Attack/defense decreased!{F801}</source>
+    <target>Attack/defense decreased!{F801}</target>
+  </entry>
+  <entry id="113">
+    <source>Attack/hit rate/evasion rate decreased!{F801}</source>
+    <target>Attack/hit rate/evasion rate decreased!{F801}</target>
+  </entry>
+  <entry id="114">
+    <source>Attack/hit rate/evasion rate decreased!{F801}</source>
+    <target>Attack/hit rate/evasion rate decreased!{F801}</target>
+  </entry>
+  <entry id="115">
+    <source>Defense decreased and attack increased!{F801}</source>
+    <target>Defense decreased and attack increased!{F801}</target>
+  </entry>
+  <entry id="117">
+    <source>Magic temporarily increased!{F801}</source>
+    <target>Magic temporarily increased!{F801}</target>
+  </entry>
+  <entry id="121">
+    <source>Physical/gun damage temporarily increased!{F801}</source>
+    <target>Physical/gun damage temporarily increased!{F801}</target>
+  </entry>
+  <entry id="122">
+    <source>Magic temporarily greatly increased!{F801}</source>
+    <target>Magic temporarily greatly increased!{F801}</target>
+  </entry>
+  <entry id="123">
+    <source>All stats increased!{F801}</source>
+    <target>All stats increased!{F801}</target>
+  </entry>
+  <entry id="138">
+    <source>MAX HP increased!{F801}</source>
+    <target>MAX HP increased!{F801}</target>
+  </entry>
+  <entry id="139">
+    <source>{F873,6} smirks...{F801}</source>
+    <target>{F873,6} smirks...{F801}</target>
+  </entry>
+  <entry id="169">
+    <source>Attack decreased!{F801}</source>
+    <target>Attack decreased!{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>Defense decreased!{F801}</source>
+    <target>Defense decreased!{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>Hit/evasion rate decreased!{F801}</source>
+    <target>Hit/evasion rate decreased!{F801}</target>
+  </entry>
+  <entry id="206">
+    <source>Attack decreased!{F801}</source>
+    <target>Attack decreased!{F801}</target>
+  </entry>
+  <entry id="207">
+    <source>Defense decreased!{F801}</source>
+    <target>Defense decreased!{F801}</target>
+  </entry>
+  <entry id="211">
+    <source>Hit/evasion rate decreased!{F801}</source>
+    <target>Hit/evasion rate decreased!{F801}</target>
+  </entry>
+  <entry id="212">
+    <source>Attack decreased!{F801}</source>
+    <target>Attack decreased!{F801}</target>
+  </entry>
+  <entry id="216">
+    <source>Defense decreased!{F801}</source>
+    <target>Defense decreased!{F801}</target>
+  </entry>
+  <entry id="217">
+    <source>Hit/evasion rate decreased!{F801}</source>
+    <target>Hit/evasion rate decreased!{F801}</target>
+  </entry>
+  <entry id="221">
+    <source>Attack decreased!{F801}</source>
+    <target>Attack decreased!{F801}</target>
+  </entry>
+  <entry id="223">
+    <source>All stats decreased!{F801}</source>
+    <target>All stats decreased!{F801}</target>
+  </entry>
+  <entry id="226">
+    <source>Stat enhancements are removed!{F801}</source>
+    <target>Stat enhancements are removed!{F801}</target>
+  </entry>
+  <entry id="233">
+    <source>HP regeneration added for the next turn!{F801}</source>
+    <target>HP regeneration added for the next turn!{F801}</target>
+  </entry>
+  <entry id="234">
+    <source>Recovered from the status ailment!{F801}</source>
+    <target>Recovered from the status ailment!{F801}</target>
+  </entry>
+  <entry id="235">
+    <source>MAX HP increased!{F801}</source>
+    <target>MAX HP increased!{F801}</target>
+  </entry>
+  <entry id="236">
+    <source>MP cost temporarily removed!{F801}</source>
+    <target>MP cost temporarily removed!{F801}</target>
+  </entry>
+  <entry id="237">
+    <source>MP cost temporarily removed!{F801}</source>
+    <target>MP cost temporarily removed!{F801}</target>
+  </entry>
+  <entry id="238">
+    <source>Damage temporarily nullified!{F801}</source>
+    <target>Damage temporarily nullified!{F801}</target>
+  </entry>
+  <entry id="239">
+    <source>Damage temporarily nullified!{F801}</source>
+    <target>Damage temporarily nullified!{F801}</target>
+  </entry>
+  <entry id="240">
+    <source>Attack temporarily greatly increased!{F801}</source>
+    <target>Attack temporarily greatly increased!{F801}</target>
+  </entry>
+  <entry id="254">
+    <source>All stats increased!{F801}</source>
+    <target>All stats increased!{F801}</target>
+  </entry>
+  <entry id="255">
+    <source>Its aura has greatly changed...{F801}</source>
+    <target>Its aura has greatly changed...{F801}</target>
+  </entry>
+  <entry id="256">
+    <source>Attack decreased!{F801}</source>
+    <target>Attack decreased!{F801}</target>
+  </entry>
+  <entry id="264">
+    <source>Defense decreased!{F801}</source>
+    <target>Defense decreased!{F801}</target>
+  </entry>
+  <entry id="266">
+    <source>The demon was returned to your stock...{F801}</source>
+    <target>The demon was returned to your stock...{F801}</target>
+  </entry>
+  <entry id="268">
+    <source>Hit/evasion rate decreased!{F801}</source>
+    <target>Hit/evasion rate decreased!{F801}</target>
+  </entry>
+  <entry id="269">
+    <source>Defense decreased!{F801}</source>
+    <target>Defense decreased!{F801}</target>
+  </entry>
+  <entry id="272">
+    <source>A protective wall appeared before you!{F801}</source>
+    <target>A protective wall appeared before you!{F801}</target>
+  </entry>
+  <entry id="273">
+    <source>A protective wall appeared before you!{F801}</source>
+    <target>A protective wall appeared before you!{F801}</target>
+  </entry>
+  <entry id="274">
+    <source>A protective wall appeared before you!{F801}</source>
+    <target>A protective wall appeared before you!{F801}</target>
+  </entry>
+  <entry id="275">
+    <source>A protective wall appeared before you!{F801}</source>
+    <target>A protective wall appeared before you!{F801}</target>
+  </entry>
+  <entry id="303">
+    <source>Tetrakarn's effect was nullified!{F801}</source>
+    <target>Tetrakarn's effect was nullified!{F801}</target>
+  </entry>
+  <entry id="309">
+    <source>Makarakarn's effect was nullified!{F801}</source>
+    <target>Makarakarn's effect was nullified!{F801}</target>
+  </entry>
+  <entry id="310">
+    <source>{F873,6} smirks...{F801}</source>
+    <target>{F873,6} smirks...{F801}</target>
+  </entry>
+  <entry id="318">
+    <source>All your stats up and all the opponent's stats down!{F801}</source>
+    <target>All your stats up and all the opponent's stats down!{F801}</target>
+  </entry>
+  <entry id="319">
+    <source>Hit/evasion rate down!{F801}</source>
+    <target>Hit/evasion rate down!{F801}</target>
+  </entry>
+  <entry id="320">
+    <source>Created a weakness!{F801}</source>
+    <target>Created a weakness!{F801}</target>
+  </entry>
+  <entry id="321">
+    <source>Gained a Press Turn Icon!{F801}</source>
+    <target>Gained a Press Turn Icon!{F801}</target>
+  </entry>
+  <entry id="322">
+    <source>Time rewinds...{F801}</source>
+    <target>Time rewinds...{F801}</target>
+  </entry>
+  <entry id="325">
+    <source>Magic temporarily greatly increased!{F801}</source>
+    <target>Magic temporarily greatly increased!{F801}</target>
+  </entry>
+  <entry id="328">
+    <source>Phys/gun temporarily greatly increases!{F801}</source>
+    <target>Phys/gun temporarily greatly increases!{F801}</target>
+  </entry>
+  <entry id="355">
+    <source>The portable cannon began loading shells...{F801}</source>
+    <target>The portable cannon began loading shells...{F801}</target>
+  </entry>
+  <entry id="356">
+    <source>The portable cannon began its bombardment!{F801}</source>
+    <target>The portable cannon began its bombardment!{F801}</target>
+  </entry>
+  <entry id="358">
+    <source>The smirk disappeared!{F801}</source>
+    <target>The smirk disappeared!{F801}</target>
+  </entry>
+  <entry id="388">
+    <source>A StreetPass Demon makes an assist!{F801}</source>
+    <target>A StreetPass Demon makes an assist!{F801}</target>
+  </entry>
+  <entry id="389">
+    <source>2 StreetPass Demons make an assist!{F801}</source>
+    <target>2 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="390">
+    <source>3 StreetPass Demons make an assist!{F801}</source>
+    <target>3 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="391">
+    <source>4 StreetPass Demons make an assist!{F801}</source>
+    <target>4 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="392">
+    <source>5 StreetPass Demons make an assist!{F801}</source>
+    <target>5 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="393">
+    <source>6 StreetPass Demons make an assist!{F801}</source>
+    <target>6 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="394">
+    <source>7 StreetPass Demons make an assist!{F801}</source>
+    <target>7 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="395">
+    <source>8 StreetPass Demons make an assist!{F801}</source>
+    <target>8 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="396">
+    <source>9 StreetPass Demons make an assist!{F801}</source>
+    <target>9 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="397">
+    <source>10 StreetPass Demons make an assist!{F801}</source>
+    <target>10 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="398">
+    <source>11 StreetPass Demons make an assist!{F801}</source>
+    <target>11 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="399">
+    <source>12 StreetPass Demons make an assist!{F801}</source>
+    <target>12 StreetPass Demons make an assist!{F801}</target>
+  </entry>
+  <entry id="457">
+    <source>Energy replenishing!{F801}</source>
+    <target>Energy replenishing!{F801}</target>
+  </entry>
+  <entry id="458">
+    <source>Energy decreasing!{F801}</source>
+    <target>Energy decreasing!{F801}</target>
+  </entry>
+  <entry id="459">
+    <source>The skill's user is instantly killed!{F801}</source>
+    <target>The skill's user is instantly killed!{F801}</target>
+  </entry>
+  <entry id="460">
+    <source>Power rises within Gore's body!{F801}</source>
+    <target>Power rises within Gore's body!{F801}</target>
+  </entry>
+  <entry id="1000">
+    <source>The effect is already at its max!{F801}</source>
+    <target>The effect is already at its max!{F801}</target>
+  </entry>
+  <entry id="1001">
+    <source>The target is too poor to steal more!{F801}</source>
+    <target>The target is too poor to steal more!{F801}</target>
+  </entry>
+  <entry id="1002">
+    <source>No more can be drained...{F801}</source>
+    <target>No more can be drained...{F801}</target>
+  </entry>
+  <entry id="1003">
+    <source>The wall of light was nullified!{F801}</source>
+    <target>The wall of light was nullified!{F801}</target>
+  </entry>
+  <entry id="1004">
+    <source>The wall of light repelled the attack!{F801}</source>
+    <target>The wall of light repelled the attack!{F801}</target>
+  </entry>
+  <entry id="1005">
+    <source>There was no decrease in HP...{F801}</source>
+    <target>There was no decrease in HP...{F801}</target>
+  </entry>
+</mbm>

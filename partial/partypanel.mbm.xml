@@ -1,0 +1,30 @@
+<mbm>
+  <entry id="0">
+    <source>Deletar {F873,1}?{F801}</source>
+    <target>Deletar {F873,1}?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Deletar{F801}Cancelar{F801}{F802}</source>
+    <target>Deletar{F801}Cancelar{F801}{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Mido\0{F87A,1}Select a slot to place the resulting{F801}demon. It can swap places with a demon{F801}in your party as well.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}Select a slot to place the resulting{F801}demon. It can swap places with a demon{F801}in your party as well.{F801}{F802}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Mido\0{F87A,1}It seems you lack the experience to{F801}fuse this demon.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}It seems you lack the experience to{F801}fuse this demon.{F801}{F802}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Mido\0{F87A,1}It seems you already have one of this{F801}demon with you.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}It seems you already have one of this{F801}demon with you.{F801}{F802}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Mido\0{F87A,1}Ah, those selections would result in{F801}an incompatible combination.{F801}{F802}</source>
+    <target>{F812}Mido\0{F87A,1}Ah, those selections would result in{F801}an incompatible combination.{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>あ{F814,0,0}い{F814,0,1}う{F814,0,2}え{F814,0,3}お{F814,0,4}か{F814,0,5}き{F814,0,6}く{F814,0,7}け{F814,0,8}こ{F801}さ{F814,0,9}し{F814,0,10}す{F814,0,11}せ{F814,0,12}そ{F814,0,13}た{F814,0,14}ち{F814,0,15}{F801}{F802}す{F814,0,16}て{F814,0,17}とあ{F814,1,0}い{F814,1,1}う{F814,1,2}え{F814,1,3}お{F814,1,4}か{F814,1,5}き{F814,1,6}{F801}く{F814,1,7}け{F814,1,8}こ{F814,1,9}し{F814,1,10}す{F814,1,11}せ{F814,1,12}そ{F814,1,13}た{F801}{F802}あ{F814,2,0}い{F814,2,1}う{F814,2,2}え{F814,2,3}お{F814,2,4}か{F814,2,5}き{F814,2,6}く{F814,2,7}け{F814,2,8}こ{F801}さ{F814,2,9}し{F801}</source>
+    <target>あ{F814,0,0}い{F814,0,1}う{F814,0,2}え{F814,0,3}お{F814,0,4}か{F814,0,5}き{F814,0,6}く{F814,0,7}け{F814,0,8}こ{F801}さ{F814,0,9}し{F814,0,10}す{F814,0,11}せ{F814,0,12}そ{F814,0,13}た{F814,0,14}ち{F814,0,15}{F801}{F802}す{F814,0,16}て{F814,0,17}とあ{F814,1,0}い{F814,1,1}う{F814,1,2}え{F814,1,3}お{F814,1,4}か{F814,1,5}き{F814,1,6}{F801}く{F814,1,7}け{F814,1,8}こ{F814,1,9}し{F814,1,10}す{F814,1,11}せ{F814,1,12}そ{F814,1,13}た{F801}{F802}あ{F814,2,0}い{F814,2,1}う{F814,2,2}え{F814,2,3}お{F814,2,4}か{F814,2,5}き{F814,2,6}く{F814,2,7}け{F814,2,8}こ{F801}さ{F814,2,9}し{F801}</target>
+  </entry>
+</mbm>

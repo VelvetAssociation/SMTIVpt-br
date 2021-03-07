@@ -1,0 +1,66 @@
+﻿<mbm>
+  <entry id="0">
+    <source>〉 Um epigrafe esta esculpido no Obelisco.{F801}{F802}〉 Quer le-lo?{F801}</source>
+    <target>〉 Um epigrafe esta esculpido no Obelisco.{F801}{F802}〉 Quer le-lo?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>Ler{F801}Nao ler{F801}</source>
+    <target>Ler{F801}Nao ler{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>〉 Que parte voce gostaria de ler?{F801}</source>
+    <target>〉 Que parte voce gostaria de ler?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 {F843,0} afastou-se do{F801}Obelisco.{F801}</source>
+    <target>〉 {F843,0} afastou-se do{F801}Obelisco.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>A guerra dos anjos e demonios{F801}A fundacao dos Samurai{F801}O Reino Oriental de Mikado{F801}Sair{F801}</source>
+    <target>A guerra dos anjos e demonios{F801}A fundacao dos Samurai{F801}O Reino Oriental de Mikado{F801}Sair{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>Em tempos antigos, esta terra era compartilhada{F801}pelos anjos e aqueles abencoados por Deus.{F801}{F802}Um dia, os Sujos emergiram{F801}do submundo, e decidiram por conta{F801}propria viver nela.{F801}{F802}Os Sujos invocaram demonios e{F801}os anjos nao podiam permitir{F801}que eles fizessem como bem entendessem.{F801}{F802}Temendo o poder dos anjos{F801}enviados por Deus, os Sujos voltaram{F801}para o submundo de onde vieram.{F801}{F802}Assim, a terra abencoada por Deus{F801}e as pessoas que moravam nela{F801}foram protegidas pelos anjos...{F801}</source>
+    <target>Em tempos antigos, esta terra era compartilhada{F801}pelos anjos e aqueles abencoados por Deus.{F801}{F802}Um dia, os Sujos emergiram{F801}do submundo, e decidiram por conta{F801}propria viver nela.{F801}{F802}Os Sujos invocaram demonios e{F801}os anjos nao podiam permitir{F801}que eles fizessem como bem entendessem.{F801}{F802}Temendo o poder dos anjos{F801}enviados por Deus, os Sujos voltaram{F801}para o submundo de onde vieram.{F801}{F802}Assim, a terra abencoada por Deus{F801}e as pessoas que moravam nela{F801}foram protegidas pelos anjos...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Issachar\0{F87A,7}{F813,1,400505}Isto eh um mero conto de fadas. Anjos{F801}e demonios sao lendas, nao{F801}fatos historicos.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F813,1,400505}Isto eh um mero conto de fadas. Anjos{F801}e demonios sao lendas, nao{F801}fatos historicos.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>〉 Ler outra secao?{F801}</source>
+    <target>〉 Ler outra secao?{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>Na antiga guerra entre anjos e{F801}demonios, um soldado estava do{F801}lado dos anjos.{F801}{F802}Assim como os Sujos, este soldado{F801}invocava demonios; mas ele fazia isso{F801}para combater as hordas demoniacas.{F801}{F802}Com este poder, o soldado forcou os{F801}demonios para o submundo, e{F801}selou o caminho que levava ate eles...{F801}{F802}Este soldado foi o primeiro Samurai,{F801}bem como o primeiro monarca do{F801}Reino Oriental de Mikado... Aquila.{F801}{F802}A grande conquista do rei Aquila e{F801}a razao pela qual os Samurai ainda sao{F801}ate hoje a fundacao de nossas defesas.{F801}</source>
+    <target>Na antiga guerra entre anjos e{F801}demonios, um soldado estava do{F801}lado dos anjos.{F801}{F802}Assim como os Sujos, este soldado{F801}invocava demonios; mas ele fazia isso{F801}para combater as hordas demoniacas.{F801}{F802}Com este poder, o soldado forcou os{F801}demonios para o submundo, e{F801}selou o caminho que levava ate eles...{F801}{F802}Este soldado foi o primeiro Samurai,{F801}bem como o primeiro monarca do{F801}Reino Oriental de Mikado... Aquila.{F801}{F802}A grande conquista do rei Aquila e{F801}a razao pela qual os Samurai ainda sao{F801}ate hoje a fundacao de nossas defesas.{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Issachar\0{F87A,7}{F813,1,400502}Sim, os Samurai... Quando eu me tornar{F801}Samurai, irei, entao, tambem...{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F813,1,400502}Sim, os Samurai... Quando eu me tornar{F801}Samurai, irei, entao, tambem...{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>〉 Ler outra secao?{F801}</source>
+    <target>〉 Ler outra secao?{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>In the first year of the Gregorian{F801}Calendar, King Aquila established the{F801}Eastern Kingdom of Mikado in this land.{F801}{F802}The king built a castle in the sealed{F801}land and prayed to God. His subjects,{F801}following his example, prayed as well.{F801}{F802}Under God's watchful eye, the people{F801}were guaranteed equality and peace{F801}everlasting.{F801}</source>
+    <target>In the first year of the Gregorian{F801}Calendar, King Aquila established the{F801}Eastern Kingdom of Mikado in this land.{F801}{F802}The king built a castle in the sealed{F801}land and prayed to God. His subjects,{F801}following his example, prayed as well.{F801}{F802}Under God's watchful eye, the people{F801}were guaranteed equality and peace{F801}everlasting.{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}Issachar\0{F87A,7}{F813,1,400505}Luxurors and Casualries... We may{F801}be of different classes, but we're all{F801}equals inside.{F801}</source>
+    <target>{F812}Issachar\0{F87A,7}{F813,1,400505}Luxurors and Casualries... We may{F801}be of different classes, but we're all{F801}equals inside.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>〉 Ler outra secao?{F801}</source>
+    <target>〉 Ler outra secao?{F801}</target>
+  </entry>
+  <entry id="109">
+    <source>During the struggle, the remaining{F801}demons regained their power. The{F801}wounded angels were unable to...{F801}{F802}〉 The rest of the epigraph has been{F801}scraped off from the Obelisk's{F801}surface and is illegible.{F801}</source>
+    <target>During the struggle, the remaining{F801}demons regained their power. The{F801}wounded angels were unable to...{F801}{F802}〉 The rest of the epigraph has been{F801}scraped off from the Obelisk's{F801}surface and is illegible.{F801}</target>
+  </entry>
+  <entry id="112">
+    <source>In the first year of the Gregorian{F801}Calendar... King Aqu...{F801}{F802}〉 The rest of the epigraph has been{F801}scraped off from the Obelisk's{F801}surface and is illegible.{F801}</source>
+    <target>In the first year of the Gregorian{F801}Calendar... King Aqu...{F801}{F802}〉 The rest of the epigraph has been{F801}scraped off from the Obelisk's{F801}surface and is illegible.{F801}</target>
+  </entry>
+</mbm>

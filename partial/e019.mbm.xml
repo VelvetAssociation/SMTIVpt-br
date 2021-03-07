@@ -1,0 +1,38 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Voice\0{F813,0,19001}...We meet again.{F801}</source>
+    <target>{F812}Voice\0{F813,0,19001}...We meet again.{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Walter\0{F87A,27}{F813,0,19002}You will help me this time, right?{F801}</source>
+    <target>{F812}Walter\0{F87A,27}{F813,0,19002}You will help me this time, right?{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Walter\0{F87A,27}{F813,0,19003}You'll change this world with me,{F801}won't you...?{F801}</source>
+    <target>{F812}Walter\0{F87A,27}{F813,0,19003}You'll change this world with me,{F801}won't you...?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Voice\0{F813,0,19004}...Wait right there.{F801}</source>
+    <target>{F812}Voice\0{F813,0,19004}...Wait right there.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Jonathan\0{F87A,9}{F813,0,19005}I think you should come with me.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,9}{F813,0,19005}I think you should come with me.{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Jonathan\0{F87A,9}{F813,0,19006}For the sake of preserving the world...{F801}</source>
+    <target>{F812}Jonathan\0{F87A,9}{F813,0,19006}For the sake of preserving the world...{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Walter\0{F813,0,19007}Hoy, wake up. It's morning.{F801}</source>
+    <target>{F812}Walter\0{F813,0,19007}Hoy, wake up. It's morning.{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}Jonathan\0{F87A,3}{F813,0,19009}Good morning. We have a message from{F801}the Commander.{F801}{F802}{F813,0,19010}He's asked for all prentices to {F804,5}report{F801}to K's Tavern{F804,0} in Aquila Plaza.{F801}{F802}{F813,0,19011}Walter and I shall meet you there.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F813,0,19009}Good morning. We have a message from{F801}the Commander.{F801}{F802}{F813,0,19010}He's asked for all prentices to {F804,5}report{F801}to K's Tavern{F804,0} in Aquila Plaza.{F801}{F802}{F813,0,19011}Walter and I shall meet you there.{F801}</target>
+  </entry>
+  <entry id="106">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,19008}Hm? What is it? You're giving me the{F801}strangest look...{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,19008}Hm? What is it? You're giving me the{F801}strangest look...{F801}</target>
+  </entry>
+</mbm>

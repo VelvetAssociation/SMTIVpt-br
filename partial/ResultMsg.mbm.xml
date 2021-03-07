@@ -1,0 +1,178 @@
+<mbm>
+  <entry id="0">
+    <source>{F843,0}'s level increased by {F878,1}!{F801}{F802}Distribute points to the stats that{F801}you wish to increase.{F801}{F802}</source>
+    <target>{F843,0}'s level increased by {F878,1}!{F801}{F802}Distribute points to the stats that{F801}you wish to increase.{F801}{F802}</target>
+  </entry>
+  <entry id="1">
+    <source>{F873,1}'s level increased by {F878,1}!{F801}{F802}</source>
+    <target>{F873,1}'s level increased by {F878,1}!{F801}{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>It seems a change is about to occur{F801}in {F873,1}...{F801}{F802}</source>
+    <target>It seems a change is about to occur{F801}in {F873,1}...{F801}{F802}</target>
+  </entry>
+  <entry id="3">
+    <source>It seems a change is about to occur{F801}in {F873,1}...{F801}{F802}But {F843,0} would be unable to{F801}control the changed demon as yet.{F801}{F802}</source>
+    <target>It seems a change is about to occur{F801}in {F873,1}...{F801}{F802}But {F843,0} would be unable to{F801}control the changed demon as yet.{F801}{F802}</target>
+  </entry>
+  <entry id="4">
+    <source>A change is about to occur in{F801}{F873,1}...{F801}{F802}</source>
+    <target>A change is about to occur in{F801}{F873,1}...{F801}{F802}</target>
+  </entry>
+  <entry id="5">
+    <source>Will you allow it to happen?{F801}{F802}</source>
+    <target>Will you allow it to happen?{F801}{F802}</target>
+  </entry>
+  <entry id="6">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F873,2} metamorphosed into{F801}{F873,1}!{F801}{F802}</source>
+    <target>{F873,2} metamorphosed into{F801}{F873,1}!{F801}{F802}</target>
+  </entry>
+  <entry id="8">
+    <source>{F873,1} is about to awaken{F801}to new powers...{F801}{F802}</source>
+    <target>{F873,1} is about to awaken{F801}to new powers...{F801}{F802}</target>
+  </entry>
+  <entry id="9">
+    <source>Allow {F804,5}{F877,1}{F804,0} to change{F801}to {F804,5}{F877,2}?{F804,0}{F801}{F802}</source>
+    <target>Allow {F804,5}{F877,1}{F804,0} to change{F801}to {F804,5}{F877,2}?{F804,0}{F801}{F802}</target>
+  </entry>
+  <entry id="10">
+    <source>{F871,1}(gift event message){F801}{F802}</source>
+    <target>{F871,1}(gift event message){F801}{F802}</target>
+  </entry>
+  <entry id="11">
+    <source>〉 Received {F872,1}.{F801}{F802}</source>
+    <target>〉 Received {F872,1}.{F801}{F802}</target>
+  </entry>
+  <entry id="12">
+    <source>〉 Obtained {F804,5}{F878,1}{F804,0} App Point(s).{F801}{F802}</source>
+    <target>〉 Obtained {F804,5}{F878,1}{F804,0} App Point(s).{F801}{F802}</target>
+  </entry>
+  <entry id="13">
+    <source>This demon has learned all the skills{F801}that it can learn. It is ready to pass{F801}on a {F804,5}whispered skill.{F804,0}{F801}{F802}A whispered skill is a skill the demon{F801}knows that can be taught to {F843,0}.{F801}{F802}If the demon whispers a skill {F843,0}{F801}already knows, that skill will be{F801}strengthened a bit.{F801}{F802}A demon can whisper a skill only once.{F801}{F802}</source>
+    <target>This demon has learned all the skills{F801}that it can learn. It is ready to pass{F801}on a {F804,5}whispered skill.{F804,0}{F801}{F802}A whispered skill is a skill the demon{F801}knows that can be taught to {F843,0}.{F801}{F802}If the demon whispers a skill {F843,0}{F801}already knows, that skill will be{F801}strengthened a bit.{F801}{F802}A demon can whisper a skill only once.{F801}{F802}</target>
+  </entry>
+  <entry id="14">
+    <source>Charon appeared.{F801}</source>
+    <target>Charon appeared.{F801}</target>
+  </entry>
+  <entry id="15">
+    <source>{F812}Charon\0{F87A,1}Well then, I'll take what I was promised...{F801}</source>
+    <target>{F812}Charon\0{F87A,1}Well then, I'll take what I was promised...{F801}</target>
+  </entry>
+  <entry id="16">
+    <source>Lost {F878,1} Macca.{F801}</source>
+    <target>Lost {F878,1} Macca.{F801}</target>
+  </entry>
+  <entry id="17">
+    <source>Ye gods, are you broke!? I'll come again{F801}when you have more money.{F801}</source>
+    <target>Ye gods, are you broke!? I'll come again{F801}when you have more money.{F801}</target>
+  </entry>
+  <entry id="100">
+    <source>〉 Charon's voice echoes from somewhere...{F801}</source>
+    <target>〉 Charon's voice echoes from somewhere...{F801}</target>
+  </entry>
+  <entry id="101">
+    <source>{F812}Charon\0{F87A,1}{F813,0,802046}Well then, time to keep your promise.{F801}I'll be taking my reward in Macca...{F801}</source>
+    <target>{F812}Charon\0{F87A,1}{F813,0,802046}Well then, time to keep your promise.{F801}I'll be taking my reward in Macca...{F801}</target>
+  </entry>
+  <entry id="102">
+    <source>{F812}Charon\0{F87A,1}{F813,0,802047}It seems you've made enough Macca...{F801}I'll be collecting on your tab now.{F801}</source>
+    <target>{F812}Charon\0{F87A,1}{F813,0,802047}It seems you've made enough Macca...{F801}I'll be collecting on your tab now.{F801}</target>
+  </entry>
+  <entry id="103">
+    <source>〉 {F804,1}{F878,1} Macca{F804,0} vanished from{F801}{F843,0}'s wallet...{F801}</source>
+    <target>〉 {F804,1}{F878,1} Macca{F804,0} vanished from{F801}{F843,0}'s wallet...{F801}</target>
+  </entry>
+  <entry id="104">
+    <source>{F812}Charon\0{F87A,1}{F813,0,802048}My, what an emaciated wallet.{F801}Very well... This one goes on your tab.{F801}{F802}{F813,0,802049}I'll come around again when you gain{F801}enough Macca.{F801}</source>
+    <target>{F812}Charon\0{F87A,1}{F813,0,802048}My, what an emaciated wallet.{F801}Very well... This one goes on your tab.{F801}{F802}{F813,0,802049}I'll come around again when you gain{F801}enough Macca.{F801}</target>
+  </entry>
+  <entry id="200">
+    <source>{F843,0}'s level increased!{F801}</source>
+    <target>{F843,0}'s level increased!{F801}</target>
+  </entry>
+  <entry id="201">
+    <source>{F875,1} {F873,1}'s level increased!{F801}</source>
+    <target>{F875,1} {F873,1}'s level increased!{F801}</target>
+  </entry>
+  <entry id="202">
+    <source>{F843,0}'s skill powered up!{F801}</source>
+    <target>{F843,0}'s skill powered up!{F801}</target>
+  </entry>
+  <entry id="300">
+    <source>{F812}Burroughs\0{F87A,1}{F813,1,400059}Sorry to butt in, but I have some{F801}good news for you, Master {F843,0}.{F801}{F802}{F813,1,400060}Do you want to hear what it is?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,1}{F813,1,400059}Sorry to butt in, but I have some{F801}good news for you, Master {F843,0}.{F801}{F802}{F813,1,400060}Do you want to hear what it is?{F801}</target>
+  </entry>
+  <entry id="301">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="302">
+    <source>When {F843,0} gains levels, his stats{F801}can be strengthened.{F801}{F802}Leveling up earns you stat points, which{F801}you can distribute as you see fit. {F804,5}How{F801}you distribute them is up to you.{F804,0}{F801}{F802}There are five stats: {F804,5}St, Dx, Ma,{F801}Ag, and Lu.{F804,0}{F801}{F802}{F804,5}St:{F804,0} This relates to the strength of{F801}your normal attacks and physical skills.{F801}{F802}{F804,5}Dx:{F804,0} This relates to the strength{F801}of physical and gun skills.{F801}{F802}{F804,5}Ma:{F804,0} This relates to the strength of{F801}your magic skills.{F801}{F802}{F804,5}Ag:{F804,0} This relates to the hit rates{F801}of your attacks, your evasion rate,{F801}turn order, and escape success rate.{F801}{F802}{F804,5}Lu:{F804,0} This relates to things such as{F801}critical hit rate and recovery rate{F801}from status ailments.{F801}</source>
+    <target>When {F843,0} gains levels, his stats{F801}can be strengthened.{F801}{F802}Leveling up earns you stat points, which{F801}you can distribute as you see fit. {F804,5}How{F801}you distribute them is up to you.{F804,0}{F801}{F802}There are five stats: {F804,5}St, Dx, Ma,{F801}Ag, and Lu.{F804,0}{F801}{F802}{F804,5}St:{F804,0} This relates to the strength of{F801}your normal attacks and physical skills.{F801}{F802}{F804,5}Dx:{F804,0} This relates to the strength{F801}of physical and gun skills.{F801}{F802}{F804,5}Ma:{F804,0} This relates to the strength of{F801}your magic skills.{F801}{F802}{F804,5}Ag:{F804,0} This relates to the hit rates{F801}of your attacks, your evasion rate,{F801}turn order, and escape success rate.{F801}{F802}{F804,5}Lu:{F804,0} This relates to things such as{F801}critical hit rate and recovery rate{F801}from status ailments.{F801}</target>
+  </entry>
+  <entry id="303">
+    <source>{F812}Burroughs\0{F87A,1}{F813,1,400055}Deu para entender tudo?{F801}</source>
+    <target>{F812}Burroughs\0{F87A,1}{F813,1,400055}Deu para entender tudo?{F801}</target>
+  </entry>
+  <entry id="304">
+    <source>"I did."{F801}"Let's have it once more."{F801}</source>
+    <target>"I did."{F801}"Let's have it once more."{F801}</target>
+  </entry>
+  <entry id="305">
+    <source>{F812}Burroughs\0{F87A,1}{F813,1,400057}Ate a proxima, Mestre {F843,0}.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,1}{F813,1,400057}Ate a proxima, Mestre {F843,0}.{F801}</target>
+  </entry>
+  <entry id="306">
+    <source>{F812}Burroughs\0{F87A,1}{F813,1,400056}Certo. Eu irei repetir as informacoes{F801}mais uma vez.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,1}{F813,1,400056}Certo. Eu irei repetir as informacoes{F801}mais uma vez.{F801}</target>
+  </entry>
+  <entry id="307">
+    <source>{F812}Burroughs\0{F87A,1}{F813,1,400053}Okay. We'll skip over that.{F801}</source>
+    <target>{F812}Burroughs\0{F87A,1}{F813,1,400053}Okay. We'll skip over that.{F801}</target>
+  </entry>
+  <entry id="308">
+    <source>{F843,0}'s level increased by {F878,1}!{F801}</source>
+    <target>{F843,0}'s level increased by {F878,1}!{F801}</target>
+  </entry>
+  <entry id="309">
+    <source>Distribute points to the stats that{F801}you wish to increase.{F801}{F802}</source>
+    <target>Distribute points to the stats that{F801}you wish to increase.{F801}{F802}</target>
+  </entry>
+  <entry id="400">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="401">
+    <source>Prevent the skill from changing?{F801}</source>
+    <target>Prevent the skill from changing?{F801}</target>
+  </entry>
+  <entry id="402">
+    <source>Stop the change{F801}Reconsider{F801}</source>
+    <target>Stop the change{F801}Reconsider{F801}</target>
+  </entry>
+  <entry id="403">
+    <source>Discard {F804,5}{F877,1}?{F804,0}{F801}</source>
+    <target>Discard {F804,5}{F877,1}?{F804,0}{F801}</target>
+  </entry>
+  <entry id="404">
+    <source>Yes{F801}No{F801}</source>
+    <target>Yes{F801}No{F801}</target>
+  </entry>
+  <entry id="405">
+    <source>Proceed with these stats?{F801}</source>
+    <target>Proceed with these stats?{F801}</target>
+  </entry>
+  <entry id="500">
+    <source>Finished viewing the information?{F801}</source>
+    <target>Finished viewing the information?{F801}</target>
+  </entry>
+  <entry id="501">
+    <source>"Carry on."{F801}"I'd like to see it again."{F801}</source>
+    <target>"Carry on."{F801}"I'd like to see it again."{F801}</target>
+  </entry>
+</mbm>

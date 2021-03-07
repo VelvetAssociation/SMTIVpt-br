@@ -1,0 +1,18 @@
+﻿<mbm>
+  <entry id="0">
+    <source>{F87D,16}{F801}Normal attack: {F87D,4} x{F87D,3} hits, {F87D,5}{F801}{F802}</source>
+    <target>{F87D,16}{F801}Ataque normal: {F87D,4} x{F87D,3} vezes, {F87D,5}{F801}{F802}</target>
+  </entry>
+  <entry id="1">
+    <source>{F87D,16}{F801}Normal attack: {F87D,4} x{F87D,3} hits, {F87D,5}{F801}{F802}</source>
+    <target>{F87D,16}{F801}Ataque normal: {F87D,4} x{F87D,3} vezes, {F87D,5}{F801}{F802}</target>
+  </entry>
+  <entry id="2">
+    <source>Ailment resistance: ?{F801}Normal attack: ? element x ? hits, ?{F801}{F802}</source>
+    <target>Resistencia a doencas: ?{F801}Attack normal: ? elemento x ? vezes, ?{F801}{F802}</target>
+  </entry>
+  <entry id="3">
+    <source>〉 Power dwells in {F843,0}'s weapon.{F801}It can now drive away weak demons.{F801}{F802}</source>
+    <target>〉 Poder reside na espada de {F843,0}.{F801}Ela agora pode espantar demonios fracos.{F801}{F802}</target>
+  </entry>
+</mbm>

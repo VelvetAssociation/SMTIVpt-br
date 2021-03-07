@@ -1,0 +1,58 @@
+<mbm>
+  <entry id="0">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,20001}A tavern for Samurai, hm?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,12,1,1}{F813,0,20001}A tavern for Samurai, hm?{F801}</target>
+  </entry>
+  <entry id="1">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,4,1,1}{F813,0,20014}It's a sign that we're fully fledged{F801}Samurai now.{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,4,1,1}{F813,0,20014}It's a sign that we're fully fledged{F801}Samurai now.{F801}</target>
+  </entry>
+  <entry id="2">
+    <source>{F812}Eyepatched man\0{F87A,22}{F813,0,20002}Ah, fresh faces. Are you this year's{F801}prentices?{F801}</source>
+    <target>{F812}Eyepatched man\0{F87A,22}{F813,0,20002}Ah, fresh faces. Are you this year's{F801}prentices?{F801}</target>
+  </entry>
+  <entry id="3">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F87B,5,1,1,1}{F813,0,20003}It's rather off-putting to have you{F801}treat me the same as these Casualries{F801}chosen so capriciously, Mr. K.{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F87B,5,1,1,1}{F813,0,20003}It's rather off-putting to have you{F801}treat me the same as these Casualries{F801}chosen so capriciously, Mr. K.{F801}</target>
+  </entry>
+  <entry id="4">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,3,1,1,2}{F813,0,20004}If you keep up that petty sniping,{F801}I'll rip the hair from your pate,{F801}do you hear me?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,3,1,1}{F87B,3,1,1,2}{F813,0,20004}If you keep up that petty sniping,{F801}I'll rip the hair from your pate,{F801}do you hear me?{F801}</target>
+  </entry>
+  <entry id="5">
+    <source>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,1}{F87B,6,12,1,1}{F813,0,20005}That's enough, both of you. Honestly...{F801}Some men never grow up.{F801}</source>
+    <target>{F812}Isabeau\0{F87A,5}{F87B,5,8,1,1}{F87B,6,12,1,1}{F813,0,20005}That's enough, both of you. Honestly...{F801}Some men never grow up.{F801}</target>
+  </entry>
+  <entry id="6">
+    <source>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F87B,4,6,1,1}{F813,0,20006}...By the by, where is the Commander?{F801}</source>
+    <target>{F812}Jonathan\0{F87A,3}{F87B,3,1,1,1}{F87B,4,6,1,1}{F813,0,20006}...By the by, where is the Commander?{F801}</target>
+  </entry>
+  <entry id="7">
+    <source>{F812}K\0{F87A,22}{F87B,22,1,1,1}{F813,0,20007}Hope isn't coming. Ol' K's the one{F801}with a lesson to teach today.{F801}</source>
+    <target>{F812}K\0{F87A,22}{F87B,22,1,1,1}{F813,0,20007}Hope isn't coming. Ol' K's the one{F801}with a lesson to teach today.{F801}</target>
+  </entry>
+  <entry id="8">
+    <source>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,20008}You...? Teach us...?{F801}</source>
+    <target>{F812}Walter\0{F87A,4}{F87B,4,10,1,1}{F813,0,20008}You...? Teach us...?{F801}</target>
+  </entry>
+  <entry id="9">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F813,0,20009}Walter! Don't be rude! I'll have you{F801}know this man is--{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,2,1,1}{F813,0,20009}Walter! Don't be rude! I'll have you{F801}know this man is--{F801}</target>
+  </entry>
+  <entry id="10">
+    <source>{F812}K\0{F87A,22}{F813,0,20010}{F87B,22,2,1,1}Ah, you flatter me. I'm only a master{F801}in comparison to you prentices.{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,20010}{F87B,22,2,1,1}Ah, you flatter me. I'm only a master{F801}in comparison to you prentices.{F801}</target>
+  </entry>
+  <entry id="11">
+    <source>{F812}Navarre\0{F87A,6}{F87B,6,12,1,1}{F813,0,20011}Wha--!? Hrgh...{F801}</source>
+    <target>{F812}Navarre\0{F87A,6}{F87B,6,12,1,1}{F813,0,20011}Wha--!? Hrgh...{F801}</target>
+  </entry>
+  <entry id="12">
+    <source>{F812}K\0{F87A,22}{F813,0,20012}{F87B,22,1,1,1}I say "lesson," but that's making more{F801}of it than it is. I'll teach you the{F801}trick to enjoying life as a Samurai.{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,20012}{F87B,22,1,1,1}I say "lesson," but that's making more{F801}of it than it is. I'll teach you the{F801}trick to enjoying life as a Samurai.{F801}</target>
+  </entry>
+  <entry id="13">
+    <source>{F812}K\0{F87A,22}{F813,0,20013}{F87B,22,1,1,1}Anyway, have a look at the blackboard{F801}inside.{F801}</source>
+    <target>{F812}K\0{F87A,22}{F813,0,20013}{F87B,22,1,1,1}Anyway, have a look at the blackboard{F801}inside.{F801}</target>
+  </entry>
+</mbm>
