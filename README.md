@@ -5,7 +5,7 @@ Para poder editar, excluir, ou fazer upload de arquivos é necessário ter uma c
 
 Todos os arquivos devem estar no formato ANSI. Se estiver em dúvida, utilize o bloco de notas para fazer a tradução, e, quando for salvar, selecione ANSI na Codificação.
 
-Tradutores: A pasta "notedited" possui as pastas com textos ainda não traduzidos, e a pasta "edited" possui as pastas com textos já traduzidos. Quando acabar a tradução de algum arquivo, coloque-o na subpasta de "edited" correspondente a de onde ele foi retirado.
+Tradutores: A pasta "notedited" possui as pastas com textos ainda não traduzidos, a pasta "edited" possui as pastas com textos já traduzidos, e a pasta "partial" possui arquivos com traduções ainda inacabadas. Quando acabar a tradução de algum arquivo, coloque-o na subpasta de "edited" correspondente a de onde ele foi retirado.
 
 Quando escolher algum arquivo para traduzir, você ou pode editar o arquivo diretamente de onde ele está, ou copiar todo o conteudo do arquivo para um arquivo do bloco de notas com o nome do arquivo original e com a extensão .xml.
 
